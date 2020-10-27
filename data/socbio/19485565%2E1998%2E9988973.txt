@@ -1,0 +1,834 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Education as policy: The impact of education on marriage, contraception, and fertility in Colombia, Peru, and Bolivia
+Tim B. Heaton & Renata Forste
+To cite this article: Tim B. Heaton & Renata Forste (1998) Education as policy: The impact of education on marriage, contraception, and fertility in Colombia, Peru, and Bolivia, Social Biology, 45:3-4, 194-213, DOI: 10.1080/19485565.1998.9988973 To link to this article: http://dx.doi.org/10.1080/19485565.1998.9988973
+Published online: 23 Aug 2010.
+Submit your article to this journal
+Article views: 71
+View related articles
+Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:48
+
+Education as Policy: The Impact of Education on Marriage, Contraception, and Fertility in Colombia, Peru, and Bolivia
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+Tim B. Heaton and Renata Forste
+Department of Sociology and Center for Studies of the Family
+Brigham Young University Provo, Utah 84602
+
+ABSTRACT: Using data from the World Fertility and Demographic and Health Surveys of Colombia, Peru, and Bolivia, we model the effects of education on three demographic outcomes: the timing of first sexual union, contraceptive use, and fertility. These effects are examined over time and across geographic areas using a multivariate framework. We find substantial improvements in female educational attainment over the last fifty years and a strong relationship between education and the demographic outcomes. Each successive increment in education is associated with declines in the marriage rate, increased contraceptive use, and lower fertility. Education accounts for some of the changes over time in the demographic outcomes, but the pattern varies by outcome, time period, and geographic area. In support of the social diffusion hypothesis, our results indicate that educational differences in reproductive behavior are reduced as the level of development increases and societies pass through their demographic transition.
+
+The International Conference on Population and Development in Cairo (September, 1994) and the U.N. World Conference on Women in Beijing (September, 1995) both emphasized the importance of factors that influence the status and wellbeing of women. Although women's status is not often clearly defined and measurement may be elusive (Mason, 1993), there is broad agreement that improvements in educational attainment are one of the best means available to achieve this goal (Caldwell, 1986; Palloni, 1981). Education is a popular policy target because few groups are opposed to education, the basic infrastructure is often in place, and because a wide variety of outcomes are presumed to be influenced by education. Nonetheless, some have questioned the universality of benefits from educational expansion (Knodel and Jones, 1996).
+
+In order to be effective as a policy tool, education should exhibit several properties as a variable. First, it needs to be manipulable. Dramatic improvements in educational attainment in many countries indicate that educational improvement is an attainable goal. Second, education should have a large impact on important outcomes. Although cause and effect cannot be proven with available data, strength of statistical relationships between education and important decisions about critical life events is a necessary condition that can be assessed. Third, statistical relationships should be evident temporally rather than just crosssectionally. Change in education should be associated with change in desired outcomes. Fourth, the effects of education should be resilient across a variety of cultural, socioeconomic, or geographic set-
+
+194
+
+Vol. 45, No. 3-4
+
+Education as Policy
+
+195
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+tings. Fifth, given the multidimensional nature of women's status, education should influence a range of decisions women make. This paper assesses these properties of education in three Latin American countries at different stages in the demographic transition.
+Education is assumed to influence women's decisions and improve their autonomy through a variety of mechanisms. First, education provides basic skills such as literacy which allow women to gather information more effectively and to evaluate alternatives. Second, education promotes a more rational approach to decision-making. In particular, education provides a source of knowledge by imparting literacy and other cognitive skills that enable individuals to process information and interact with their surroundings (Castro Martin and Juarez, 1995; Jejeebhoy, 1995). Third, education opens the door to socioeconomic advancement. A heightened sense of options and the ability to achieve those options can increase aspirations for a higher standard of living. Fourth, schooling plays an important role in the transforming of attitudes. Increased education transforms aspirations and encourages the questioning of traditional beliefs and practices (Castro Martin and Juarez, 1995). Fifth, because of the cultural value placed on education, it enhances the status of women. Finally, because of each of the above noted influences, higher education increases the autonomy of women. Improved skills, a more rational approach to decision-making, increased alternatives, higher aspirations, and higher status combine to give women more control over their own lives (Kasarda et al., 1986; Eisemon, 1987; Castro Martin, 1995; Jejeebhoy, 1995).
+Although the importance of each mechanism is rarely evaluated (see Cas-
+
+tro Martin and Juarez, 1995, for an exception), research results consistently show that a variety of outcomes are associated with higher educational attainment (Jejeebhoy, 1995). We have selected three outcomes as indicators that women have control over their reproductive lives. Prior research indicates that higher educational attainment will be associated with later age at marriage, higher levels of contraceptive use (including the use of more effective methods), and lower fertility (Jejeebhoy, 1995).
+There is ample evidence that each of these outcomes is associated with educational attainment. One of the most consistent findings in the literature is the negative relationship between education and fertility (Cochrane, 1979; Muhuri et al., 1994; Castro Martin, 1995; Guzman et al., 1996; Jejeebhoy, 1995). Previous studies show a negative relationship between education and fertility in Latin America, but the strength of the relationship is contingent upon the level of socioeconomic development and the social and cultural context of the region (Castro Martin, 1995; Jejeebhoy, 1995). In addition, the magnitude of fertility differentials between education levels varies dramatically in Latin America relative to other countries (Muhuri et al., 1994). Cross-national research based on the World Fertility Surveys found the largest fertility differentials by education in Latin America (United Nations, 1987), and recent studies of the first wave of the DHS have provided similar results (Castro Martin, 1995; Guzman et al., 1996).
+Dramatic increases in the education levels of women and greater access to family planning services have increased modern contraceptive use among women in many Latin American countries (Florez
+
+196
+
+Heaton and Forste
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+et al., 1990; Castro Martin and Juarez, 1994). Better educated women are more likely to desire smaller families and are more motivated to use contraception relative to less educated women (Roosta, 1989; Weinberger et al., 1989; Jejeebhoy, 1995). In addition to providing motivation for lower fertility, education also provides knowledge about how to obtain and use contraception, and possibly greater resources if cost is a factor (Castro Martin, 1995; Roosta, 1989). Thus, educated women are better informed about contraceptive options and sources, and they are more likely to use effective methods of birth control compared to their less educated counterparts (Castro Martin, 1995).
+Changes in age at marriage are also influenced by education in Latin America (Weinberger et al., 1989; Castro Martin, 1995). Studies of the influence of education on fertility-related behaviors in Latin America have found that more-educated women generally enter sexual unions later than less-educated women (Weinberger et al., 1989; Jejeebhoy, 1995). Although some of this effect is because women delay entry into unions while they are in school, education is often completed well before marriage in Third World countries where overall educational attainment is low. Thus, other mechanisms are also presumed to operate. Women with more education may have greater expectations of their spouse's ability to provide a good lifestyle, so they wait for a spouse with better prospects. As their lives are not totally defined by marriage, they may also feel less pressure to begin married life at a young age (Chowdhury and Trovato, 1994; Heaton, 1996). With increased education, women have more alternatives to marriage and are more likely to postpone
+
+or even reject marriage. Early age at marriage reflects an absence of meaningful alternatives to marriage, as well as a lack of autonomy to make decisions about marriage (Chowdhury and Trovato, 1994; Heaton, 1996).
+Specifically, we address three important questions regarding the influence of education on women's lives in three Latin American countries--Colombia, Peru, and Bolivia: (1) What is the relationship between education and the reproductive decisions women make, including age at marriage, contraceptive use, and family size? (2) To what degree do changes in education account for changes in these three demographic outcomes? (3) Does the influence of education vary by context?
+Most studies of the relationship between education and demographic outcomes is based on cross-sectional data, or at best retrospective data from a survey done at one point in time. Notable exceptions are studies by Weinberger and colleagues (1989), Castro Martin (1995), and Rodriguez (1996). Each of these studies indicates that educational expansion is associated with fertility decline. Less attention is given to other outcomes.
+Building upon these studies, we analyze the effects of education on fertilityrelated outcomes at three points in time (WFS, DHS I, DHS II) to determine the effect of education on reproductive control over time. In this study we compare inter-cohort differences, and differences between surveys taken at different points in time to see if the observed changes in education can account for changes in family formation behavior.
+In addition, we consider the context within which education operates. Crossnational data show that the influence of education is more likely to operate in cer-
+
+Vol. 45, No. 3-4
+
+Education as Policy
+
+197
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+tain contexts than in others (Jejeebhoy, 1995). For example, the impact due to increased orientation toward alternatives other than full-time homemaking will be greater in urban areas and in countries where there is a labor market for female employment. The effects of contraceptive use will be greater in areas where contraception is accessible, in particular in countries that have extensive family planning networks. Differences in fertility for education level tend to decrease as contraceptive use increases in a population. According to the social diffusion hypothesis, educational differences in contraceptive use are greatest in countries at the beginning and middle stages of the fertility transition when the most educated are the innovators in adopting family planning. Differentials narrow at the final stages of the transition as fertility control becomes more common and is used by the majority of women (Castro Martin, 1995; Bongaarts and Watkins, 1996). We anticipate that the effects of education will, thus, vary by the degree of urbanization and the transition stage of each country.
+In sum, we examine the effects of education on the timing of first union, contraceptive use, and fertility rates. In addition, we examine these relationships as they vary over time, and across geographic areas defined by country and urban residence. Focusing on factors related to fertility, we examine reductions between the mid-1970's and the early 1990's in Colombia, Peru, and Bolivia. Although these three countries share much of the same history and are geographically proximate, they represent three varying levels of development. Colombia has experienced rapid unbalanced modernization with widely dispersed growing centers of commerce. Modernization in Peru has been
+
+partial, whereas in Bolivia development is only incipient (Wilkie and Ochoa, 1989).
+Besides representing different levels of socioeconomic development, these three countries also are at different stages of the fertility transition. Colombia has reached an advanced transition stage, reducing by half its fertility rate since the beginning of the 1960's (Guzman, 1994). Birth rates in Colombia began to fall in the late 1960's, and in 1970 the government adopted an official policy to support family planning in an effort to reduce population growth. Family planning services were integrated with maternal and child health services, and efforts were made to avoid confrontations with the Catholic Church (Merrick, 1986). The fertility decline in Colombia began in urban areas and then spread later to rural areas. Contraception is used by Colombian women not only to limit the total number of births, but also to space births, although the spacing of births is largely limited to urban women (Florez, 1992; Shah, 1991).
+Compared to Colombia which has a very strong family planning program, Peru's family planning efforts have been relatively weak (Weinberger et al., 1989; Ferrando and Avanburu, 1996). Peru is at an intermediate transition level, moving from high fertility levels in the early 1960's to a moderate rate of 4.0 in 1990 (Guzman, 1994). Birth rates in Peru began to decline during the 1970's. National family planning programs were begun in Peru in the 1960's, then were interrupted by the military government until 1974 when the government resumed support for family planning. However, efforts to promote family planning in Peru have been very limited (Rivera and Espenshade, 1995). Information on the availability of contraceptives in Peru remains
+
+198
+
+Heaton and Forste
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+scarce (Kost, 1993). The fertility decline in Peru over the past decade has been greatest among the urban population (White et al., 1995).
+Bolivia has experienced a late or delayed transition with total fertility rates declining to only about 5.0 by 1990 (Guzman, 1994; Pinto, 1996). Between 1974 and 1976 the Bolivian government promoted family planning through health clinics. Because of cultural opposition, some family planning programs were coercive, sterilizing peasant women without their knowledge. Family planning efforts in this country have come under attack by the Catholic Church, and currently there is no official population control program in Bolivia (Ranee, 1990). Contraceptives in Bolivia are largely used to limit family size, not to space births. For the most part, Bolivian women lack the autonomy to regulate their own fertility (Ranee, 1990).
+MATERIALS AND METHODS
+Data for this analysis come from the World Fertility Surveys (WFS) and Demographic and Health Surveys (DHS). These surveys were selected because they offer the best available mix of quality control during data collection, national coverage, and comparability over time and across countries. Although the specific content of the surveys varies over time and across countries, each includes detailed birth histories and information on desired fertility, education, contraceptive use, age at first union, and place of residence. Dates of these surveys (WFS, DHS I, DHS II--III) for Colombia are 1976, 1986, and 1990; for Peru 1977/78, 1986, and 1991/92; and for Bolivia 1989 and 1993/94 (Bolivia did not participate in the WFS). The time span between
+
+WFS and DHS ranges from eight to ten years, while intervals between the first and second DHS surveys are only four to five years.
+We treat education as a categorical variable because effects of education are not necessarily linear (Jejeebhoy, 1995). We distinguish between no formal schooling, primary education, secondary education, and post-secondary education. This simple approach obviously masks some differences between countries and does not take into account changes in educational systems within countries. More detailed classifications would reduce the degree of comparability between countries. Moreover, educational reforms within countries have occurred at different times in different regions and are not always well documented.
+Previous studies of the association between education and fertility used the decomposition-of-difference method (see Weinberger et al., 1989; Castro Martin, 1995). The change in the total fertility rate (and other fertility-related factors) during the inter-survey period was disaggregated into three components: rates (changes in education-specific rates), education (changes due to improvements in women's education), and interaction (change across educational groups). We opt not to use this method because decomposition models are considered "crude approximations of the real effects" (Moreno, 1991, p. 337). Also, the method is applied to aggregate data, making it difficult to demonstrate a link between fertility and other individual characteristics such as education or urban residence. Although the decomposition can be done for different subgroups of the population or can be correlated with communitylevel characteristics (cf., Gertler and
+
+Vol. 45, No. 3-4
+
+Education as Policy
+
+199
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+Molyneaux, 1994), this method is not designed to examine the effects of individual attributes on fertility in a multivariate framework. Instead, using individual level data, we examine the effects of education on the three outcomes using multivariate techniques.
+Since each outcome has a different distribution, different statistical procedures are appropriate for each outcome. Age at first union includes both legal marriages and consensual unions. For simplicity we refer to both types of sexual unions as "marriage." Analysis is restricted to women who have ever been in a sexual union, because the Peruvian WFS did not include women who had never been in a union. Only about 5 per cent of the births in Colombia, 3 per cent of the births in Peru, and 4 per cent of the births in Bolivia are to women who report never being in a sexual union. Age at first union is estimated using Cox proportional hazards models.
+Because many women in some regions of Latin America have only used traditional contraceptive methods, the distinction between modern (i.e., pill, IUD, condom, injections, vaginal methods, and sterilization) and traditional (i.e., withdrawal, rhythm, and folk methods) methods is included. Separate models are estimated for (1) the use of any contraceptive method versus no use, and (2) the use of modern versus traditional methods. Women who have never used modern methods are included in the "modern" category. Because these two models have dichotomous outcomes, logistic regression is used in the models of contraceptive use.
+In the models of contraceptive use, a control variable is included measuring the gap between ideal family size and chil-
+
+dren ever born. This measure is included based on the logic that Latin American women will generally not use birth control until they are getting close to or have achieved their desired family size. Women of higher socioeconomic status in urban areas of Colombia increasingly use birth control to space births, but the rural Colombian women and the majority of women in Peru and Bolivia use family planning only after desired family size is achieved (Florez et al., 1990; Ranee, 1990).
+Age-specific and total fertility rates are calculated based on the five years preceding each survey in order to examine trends. Analysis is limited to the preceding five years because recall error tends to increase with longer time intervals. Age-specific rates are calculated as the number of births to women in a given five-year age interval divided by the total years women were alive during that age interval.
+Standard multivariate statistical procedures cannot be applied to age-specific or total fertility rates, because there is not a single value associated with each woman. Rather, each age-specific rate summarizes the experience of various women, and most women will have experience in more than one age category during the preceding five years, thus contributing to two different age-specific rates. In this paper, a variation of log-linear analysis is used to assess the influence of time period and several covariates on age-specific fertility rates. The general form of the model is presented in the equation below: B refers to the number of births; E, to exposure time; T, to time period; A, to age group; and C, to education. Matrices are constructed by aggregating births and exposure times within categories of age
+
+200
+
+Heaton and Forste
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+and education. Data are then weighted by the number of births; exposure times are included as cell weights; and age and education are treated as variables (Yamaguchi, 1991; Laird and Oliver, 1981). Parameters show the influence of age group and education on the log of the age-specific birth rates. Because the last age category has very few births, inclusion of this group would introduce many empty cells. Thus, the last age category is excluded to avoid problems created by empty cells in log-linear analysis. Parameters for age group are not reported because they are not of central interest.
+Type of residence (urban or rural) is included as a measure of the geographic and structural context. In addition, the effects of education on the various outcomes are examined separately by country, allowing us to further determine how the influence of education varies by context. Equation (1) presents the general form of the model.
+In the first step of our analysis, separate models are estimated showing the effects of education and then time period. Subsequent models include both time period and education, and then urban residence and interaction terms are added. The impact of education on each outcome is assessed by comparing period effects in the simple model with the period effects after education is included in the model.
+RESULTS
+Table 1 shows educational distributions by cohort and country, based on pooled data combining each survey.
+
+Among women born before 1940, most Peruvians and Colombians had either a primary education or no schooling at all. Because Bolivia was not included in the WFS, we have no information on women born in these earlier years, but we can infer from observed patterns in the 1940 birth cohort, that the Bolivian women were even less educated than the Peruvians or Colombians. Since 1950 educational expansion has proceeded to the point where nearly all women have at least some schooling, and a majority of women attend secondary schools. There is also noticeable growth in higher education, especially in Peni. Bolivia still lags behind the other two countries in extending post-primary education to women. It should be noted that the lower rates of higher education for the 1970's cohort is an artifact of the data. The 1970's cohort includes many younger women who, at the time of the survey, had not yet completed their schooling.
+Age at marriage.--Table 2 shows patterns of marriage (includes both legal marriages and consensual unions) by level of education and country. The overall relationship between education and age at marriage is clear. More-educated women tend to wait longer to marry in each country. For example, nearly twothirds of women with no education were married by their twentieth birthday in Colombia and Peru as were half of the women in Bolivia. In contrast, only about a third of the Colombian and Peruvian women and 40 per cent of the Bolivian women with a secondary education were married by the same age, but the effects of education categories are not linear. There is less difference between no education and primary education than be-
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+Vol. 45, No. 3-4
+
+Education as Policy
+
+201
+
+TABLE 1
+EDUCATIONAL ATTAINMENT OF WOMEN BY BIRTH COHORT IN COLOMBIA, PERU, AND BOLIVIA
+
+SCHOOLING COMPLETED
+Colombia None Primary Secondary Higher («)
+Peru None Primary Secondary Higher («)
+Bolivia None Primary Secondary Higher (n)
+
+24.2 64.2 11.2 0.4 (260)
+44.0 41.0 10.6
+0.3 (293)
+
+YEAR BORN
+1950's
+
+1970's
+
+19.6 66.8 12.6
+1.0 (1,224)
+
+9.1 64.7 22.5 3.7 (3,512)
+
+5.5 48.4 38.8
+7.3 (5,899)
+
+2.5 35.0 52.4 10.1 (5,902)
+
+1.3 33.3 63.4 2.0 (2,461)
+
+37.8 47.4 11.6
+3.2 (1,779)
+
+21.7 48.3 20.0 10.1 (4,952)
+
+10.9 42.7 31.8 14.6 (7,056)
+
+4.4 30.6 42.8 22.3 (7,232)
+
+1.5 23.3 60.0 15.2 (5,174)
+
+35.3 43.1 14.1
+7.5
+(2,248)
+
+20.4 43.8 24.8 11.0 (4,187)
+
+8.6 38.4 41.6 11.4 (5,387)
+
+3.4 32.3 60.5
+3.8 (4,611)
+
+TABLE 2
+PER CENT OF WOMEN WHO HAVE EVER BEEN IN A UNION AT SUCCESSIVE AGES IN COLOMBIA, PERU, AND BOLIVIA
+
+COUNTRY AND EDUCATION
+Colombia None Primary Secondary Post-secondary
+Peru None Primary Secondary Post-secondary
+Bolivia None Primary Secondary Post-secondary
+
+MEDIAN AGE
+20 29 AT 1 ST UNION
+28.0 46.7 64.3 80.9 89.3 18.4 15.4 34.1 52.4 76.5 87.5 19.7 5.0 15.3 32.2 61.4 79.8 22.2 1.1 4.5 10.5 34.5 63.0 26.6
+
+22.4 43.3 63.7 86.1 95.0 18.7
+
+16.6 39.4 61.0 83.5 92.3 18.9
+
+5.1 17.5 35.8 65.6 84.2 21.7
+
+0.8 3.2
+
+9.8 35.9 67.2 25.9
+
+13.3 31.0 50.4 76.1 89.3 19.9 14.3 33.6 54.2 78.6 90.6 19.6 6.6 20.8 41.4 72.3 87.4 20.9
+1.7 5.9 14.5 43.5 72.8 24.8
+
+tween primary and secondary education. Models in Table 3 test hypotheses
+
+The effects of higher education are par- about the role of education in early mar-
+
+ticularly large.
+
+riage. The first model in Table 2 shows
+
+202
+
+Heaton and Forste
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+TABLE 3
+PROPORTIONAL HAZARDS MODELS OF THE EFFECTS OF EDUCATION, BIRTH YEAR, AND URBAN RESIDENCE ON ENTRANCE INTO FIRST UNION
+
+Primary Secondary Higher
+
+Variables
+
+Colombia
+-0.186" -0.632° -1.146°
+
+Peru
+MODEL 1
+-0.109" -0.700° -1.342"
+
+Bolivia
+0.071° -0.225° -0.760°
+
+Birth year
+
+-0.013"
+
+MODEL 2
+-0.020°
+
+-0.011"
+
+Primary Secondary Higher Birth year
+
+-0.172" -0.597" -1.108° -0.003°
+
+MODEL 3
+-0.071" -0.623" -1.259" -0.006"
+
+0.011° -0.159° -0.714° -0.007°
+
+Primary Secondary Higher Birth year Birth year" primary Birth year° secondary Birth year" higher
+
+-0.120 0.505" 2.087" 0.006
+-0.002 -0.021° -0.058°
+
+MODEL 4
+-0.036 0.493 1.213" 0.005"
+-0.002 -0.022" -0.046°
+
+0.245 1.361" 1.608" 0.006 -0.004 -0.026° -0.041"
+
+Urban
+
+-0.252°
+
+MODEL 5
+-0.501"
+
+-0.134°
+
+Urban Primary Secondary Higher
+
+-0.057° -0.181° -0.613° -1.122
+
+MODEL 6
+-0.095" -0.083" -0.645° -1.282°
+
+0.090° 0.052 -0.276° -0.821°
+
+Primary Secondary Higher Urban
+Urban" primary Urban" secondary Urban" higher
+
+-0.299° -0.889° -1.275° -0.312°
+0.244° 0.429° 0.285
+
+MODEL 7
+-0.029 -0.541« -1.161"
+0.043 -0.155" -0.207° -0.219°
+
+0.030 -0.200" -0.606°
+0.086 0.044 -0.086 -0.222
+
+the effects of education on the marriage rate without taking other factors into account. The coefficients summarize the differences shown in Table 1. No education is the reference category. The difference in marriage rates between women
+
+with no education and women with primary education is not very large. In Bolivia, the rate is actually lower among women with no education than among those with primary education. The marriage rates are much lower, however,
+
+Vol. 45, No. 3-4
+
+Education as Policy
+
+203
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+among women with secondary and higher levels of education, especially in Colombia and Peru. At higher levels of education, coefficients are a little larger in Peru than in Colombia. In short, as women further their educational attainment beyond primary grade levels, they delay marriage to a substantial degree.
+The next three panels of Table 3 focus on trends over time. Model 2 shows the trend in marriage rates by year the respondent was born. Coefficients indicate that the marriage rate has declined by about 1.3 per cent per year in Colombia, 2.0 per cent in Peru, and 1.1 per cent in Bolivia. Although the decline in any given year may be small, these numbers imply substantial declines over longer periods of time. When education level is included in the equation, coefficients for birth cohort become much smaller, indicating that educational expansion may account for much of the historic decline in marriage rates. Dividing the coefficient for birth year in Model 3 by the same coefficient in Model 2 implies that educational expansion accounts for nearly three-fourths of the temporal decline in Colombia and Peru, but only a one-third of the decline in Bolivia.
+Model 4 adds to the complexity by considering whether the temporal trend has been parallel across education levels, or in other words whether the education effect has changed over time. In this model, the coefficient for birth year represents the trend for women with no education--the group not explicitly represented with an education variable. The coefficient is positive in each country, indicating that marriage rates have not declined and may have even risen slightly among women with no education. Changes in marriage rates have been only slightly less positive
+
+among women with primary education. In contrast, temporal declines in marriages have been large among women with secondary education, and even greater among women with higher education.
+In short, the analysis of temporal trends indicates that much of the decline in marriage rates is due to the increasing number of women with secondary and higher levels of educational attainment. Indeed, the influence of post-primary educational attainment appears to be increasing over time. Country comparisons support the hypothesis that educational effects are not as large in Bolivia as in Colombia and Peru, but the interactions indicate that the growing importance of education is as evident in Bolivia as in the other two countries.
+The last three panels address the difference between urban and rural areas. Model 5 shows that the marriage rate is lower in urban than in rural areas, but the urban-rural difference is greatest in Peru, intermediate in Colombia, and smallest in Bolivia. Coefficients from Model 6 indicate that once education is taken into account, the urban effect is much smaller and even positive in Bolivia. In other words, urban areas have lower marriage rates in large part because the residents are more educated.
+The final model includes interactions between education and urbanization. Results do not form a consistent pattern. In Colombia, the interaction coefficients are positive indicating that primary, secondary, and higher education have a smaller impact on lower marriage rates in urban areas than in rural areas. In Bolivia, the coefficients for secondary and higher education are negative, but not statistically significant. Only in Peru does education play a greater role in urban areas.
+
+204
+
+Heaton and Forste
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+Contraceptive use.--Table 4 reports the percentage of women who have ever used modern contraceptives, or who used traditional methods exclusively. In each country and each survey, there is a strong relationship between education and the use of modern contraception. Use of modern contraceptives is highest in Colombia and lowest in Bolivia, but use is increasing in each country. Use of traditional methods--the only methods approved by the Catholic Church--is quite low in Colombia, but is more common in Peru and Bolivia. The relationship between education and the use of traditional methods is not necessarily positive because moreeducated people are more likely to use modern rather than traditional methods. Over time, there is a decline in the use of traditional methods among the most-educated, as they replace traditional with modern methods. Two sets of analyses are reported in Tables 5 and 6. First, in Table
+5 we compare those who have ever used any method with nonusers. Then, in Table 6 we compare those who have used a modern method with those who have only used traditional methods.
+Contraceptive use increases substantially with each increase in education, and the increases are quite similar across countries (see Table 5). Unlike age at marriage, differences in contraceptive use are evident between women with primary schooling and those with no education. Moreover, women with higher levels of education are more likely to have used a modern method (see Table 6).
+The second model of each table shows the trend over time, controlling for the gap between achieved and desired family size. Contraceptive use has clearly increased in each subsequent survey. For example, contraceptive use tripled in
+
+Colombia between WFS and DHS I (gi-129 = 3 09) and was even higher by DHS II. Likewise, use of modern methods has gained over exclusive use of traditional methods in Colombia and Peru, but not in Bolivia where the increase in exclusive use of traditional methods is more dramatic. By comparing the coefficients for survey in Models 2 and 3, we can assess how much of the increase in contraceptive use is accounted for by educational expansion. This difference is largest in Peru, moderate in Colombia, and very small in Bolivia, and the difference in coefficients is larger for any use than for the contrast between modern and traditional use. In other words, educational expansion accounts for a fairly large amount of increased contraceptive use in Peru and a moderate amount in Colombia, but other factors are largely responsible for increased use in Bolivia. In addition, educational expansion does little to explain the shift away from the exclusive use of traditional methods.
+The relationship between educational expansion and temporal increases in contraceptive use are further elaborated in Model 4, which tests the interaction between education and survey date. Unlike the pattern for age at marriage where change tended to be greatest among the most educated, contraceptive use increased most among the least educated in Colombia and Peru. On the other hand, the increase in contraceptive use was greatest among the most educated Bolivian women. Most of the interaction coefficients are not statistically significant in the model contrasting modern and traditional methods.
+Magnitudes of the coefficients suggest that in Colombia the least-educated experienced greater change; in Peru, there was
+
+Vol. 45, No. 3-4
+
+Education as Policy
+
+205
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+TABLE 4
+CONTRACEPTIVE USE AMONG EVER MARRIED WOMEN IN COLOMBIA, PERU, AND BOLIVIA
+
+EDUCATION
+Education: None Primary Secondary Post-secondary
+Education: None Primary Secondary Post-secondary
+
+WFS DHS I DHS II
+
+WFS DHS I DHS II
+
+% USING MODERN METHOD
+
+23.1 61.2 63.0 45.1 70.2 75.6 70.9 82.2 82.3 77.1 88.7 87.2
+
+4.1 12.9 18.7 20.3 30.7 41.4 47.9 58.3 65.6 59.3 65.6 73.7
+
+% USING TRADITIONAL METHOD
+
+8.8 7.6 6.6 12.3 8.3 7.1 13.1 6.2 5.9 12.5 6.6 6.9
+
+16.0 17.4 35.8 27.8 26.2 32.1 31.3 24.6 22.4 29.4 23.0 19.0
+
+DHS I DHS III
+4.9 6.0 20.3 20.9 40.1 48.2 47.9 64.1
+13.9 21.7 20.8 32.0 26.0 29.4 29.0 25.2
+
+virtually no difference by education level; and in Bolivia, the most-educated experienced greater change. In making the above comparisons, we must remember that dates of marriage cover a much broader time span--about fifty years-- than do survey dates for contraceptive use--only about 20 years. Obviously, in order to reach the pattern of contraceptive use observed here, the most-educated were the first to use modern methods in large numbers in Colombia and Peru. This increase occurred earlier than we can detect with the data at hand. These two countries are now at a stage where women with less education are beginning to catch up. In Bolivia, however, increases in contraceptive use, especially modern methods, are still most evident among women with higher education levels.
+The final models of Tables 5 and 6 assess the difference in urban and rural areas. Model 5 indicates that the use of any method is higher in urban than in rural areas, and that urban residents are also more likely to use modern rather than exclusively traditional methods. Although the coefficients for urban residence are
+
+reduced by the inclusion of education (Model 6), they remain large indicating that the urban-rural difference is not primarily a result of higher educational attainment in urban areas. Finally, tests for interactions between urban residence and education found no statistically significant coefficients in any country. Contrary to our hypothesis, it seems that education may actually make a greater difference in rural than in urban areas in some cases.
+Fertility rates.--Table 7 shows total fertility rates for each country. These rates are calculated based on births during the five years preceding each survey. In each country and each survey, higher education is associated with lower fertility. Models showing the multivariate results are given in Table 8. Parameters from the long-linear models indicate that birth rates decline at higher levels of educational attainment. Coefficients are somewhat smaller in Bolivia than in Colombia and Peru, but the basic patterns are similar across countries.
+Fertility rates have declined over time in Colombia and Peru, but there was virtually no difference in fertility rates in the two Bolivian surveys. Comparing coefficients
+
+206
+
+Heaton and Forste
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+TABLE 5
+LOGISTIC REGRESSION MODELS PREDICTING USE OF ANY FORM OF CONTRACEPTIVE
+
+Variables
+Primary Secondary Higher Gap
+
+Colombia
+1.028" 2.092" 2.935" -0.123"
+
+Peru
+MODEL 1
+1.138" 2.414" 3.058" -0.016"
+
+Bolivia
+1.157" 2.267" 2.926" -0.028"
+
+lstDHS 2ndDHS Gap
+
+1.129" 1.427" -0.069"
+
+MODEL 2
+0.598" 1.402" -0.017"
+
+0.588" 0.085"
+
+Primary Secondary Higher lstDHS 2ndDHS Gap
+
+0.883" 1.729" 2.478" 0.967" 1.083" -0.110"
+
+MODEL 3
+1.044" 2.208a 2.727" 0.370" 1.057" -0.016"
+
+1.162" 2.240" 2.941"
+0.555" -0.024"
+
+Primary Secondary Higher Survey Primary" survey Secondary"survey. Higher" survey Gap
+
+1.055" 3.111" 3.707" 0.771" -0.106 -0.654" -0.571" -0.113"
+
+MODEL 4
+1.471" 3.079" 3.821" 0.758" -0.215" -0.416" -0.485" -0.016"
+
+1.108" 2.037" 1.822" 0.497" 0.021 0.081 0.468" -0.024"
+
+Urban Gap
+
+1.015" -0.090"
+
+MODEL 5
+1.462" -0.014"
+
+1.137" 0.046"
+
+Primary Secondary Higher Urban Gap
+
+0.945" 1.842" 2.625" 0.673" -0.129"
+
+MODEL 6
+0.972" 1.986" 2.558" 0.895" -0.015"
+
+0.630" 1.970" 2.561" 0.630" -0.034"
+
+Primary Secondary Higher Urban Primary" urban Secondary" urban... Higher" urban Gap
+°p<0.05.
+
+0.979" 2.013" 3.149a 0.769" -0.078 -0.250 -0.610 -0.129"
+
+MODEL 7
+0.957" 2.109" 2.649" 0.903" 0.028 -0.156 -0.106 -0.015"
+
+1.014" 1.889" 3.365" 0.578" 0.059 0.128 -0.819 -0.034
+
+Vol. 45, No. 3-4
+
+Education as Policy
+
+207
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+TABLE 6
+LOGISTIC REGRESSION COMPARING MODERN VS. TRADITIONAL CONTRACEPTIVE USE
+
+Primary Secondary Higher Gap
+
+Variables
+
+Colombia
+0.303" 0.844" 0.881" -0.034"
+
+Peru
+MODEL 1
+0.866" 1.701" 2.026" -0.009"
+
+0.828" 1.511" 1.738" 0.043"
+
+lstDHS 2ndDHS Gap
+
+0.901" 1.120" -0.009
+
+MODEL 2
+0.597" 0.770" -0.005"
+
+-0.070 0.111"
+
+Primary Secondary Higher lstDHS 2ndDHS Gap
+
+0.213 0.595" 0.534" 0.859" 1.012" -0.027
+
+MODEL 3
+0.860" 1.651" 1.930" 0.492" 0.615" -0.009"
+
+0.828" 1.519" 1.740"
+-0.108" 0.039"
+
+Primary Secondary Higher Survey Primary" survey Secondary" survey.. Higher" survey Gap
+
+0.352 0.980" 1.355" 0.629" -0.085 -0.203 -0.375 -0.029«
+
+MODEL 4
+0.901 1.607" 1.835" 0.290" -0.018 0.021 0.036 -0.009"
+
+1.603" 0.970 0.257 -0.148 -0.305 0.213 0.589" 0.038"
+
+Urban Gap
+
+0.637" -0.019"
+
+MODEL 5
+1.135" -0.005"
+
+1.100" 0.080"
+
+Primary Secondary Higher Urban Gap
+
+0.247" 0.670" 0.668" 0.502" -0.038"
+
+MODEL 6
+0.747" 1.411" 1.688" 0.784" -0.009"
+
+0.681" 1.168" 1.332" 0.860" 0.034"
+
+Primary Secondary Higher Urban Primary" urban Secondary" urban... Higher" urban Gap
+"p<0.05.
+
+0.052 0.574" 1.054 0.186 0.386 0.247 -0.255 -0.038"
+
+MODEL 7
+0.700" 1.549" 1.993" 0.797" 0.069 -0.163 -0.332 -0.009"
+
+0.719" 1.299" 1.581" 0.984"
+-0.085 -0.202 -0.320
+0.034"
+
+208
+
+Heaton and Forste
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+TABLE 7
+TOTAL FERTILITY RATES IN THE FIVE YEARS PRIOR TO THE SURVEY BY EDUCATION, EVER-MARRIED WOMEN
+
+EDUCATION
+None Primary Secondary Higher
+
+COLOMBIA
+WFS DHSI DHSII
+8.02 6.60 5.89 6.62 5.12 4.40 4.27 3.83 3.32 3.57 3.04 2.81
+
+PERU
+
+BOLIVIA
+
+WFS DHSI DHSII DHSI DHS III
+
+9.40 8.47 8.05 8.17 6.51 6.64 5.92 4.68 4.69 5.52 3.71 3.60
+
+7.65 8.06 7.12 7.25 4.95 4.83 3.70 3.54
+
+for survey in Model 2 and Model 3 indicates that educational expansion does account for a portion of the fertility decline between the two DHS surveys in Colombia and Peru, but the decline between the WFS and DHS I remains largely unexplained by education. The coefficient for DHS III in Bolivia is actually positive after education is taken into account, suggesting that if education had not expanded, fertility would have increased; however, the coefficients are very small in both models. Tests for the interaction between education and survey yield mixed results. Results do suggest that fertility decline has been greatest among the most-educated women in Peru, and among the least-educated women in Colombia. However, most of the coefficients are small and not significant indicating that trends in fertility are approximately similar for each education category.
+Fertility is clearly lower in urban than in rural areas of each country. Moreover, comparison of the coefficients for urban residence in Models 5 and 6 indicate that part of the reason for lower fertility in urban areas is that urban residents are more educated. On the other hand, results also suggest that part of the reason more-educated women have fewer births is because they are more likely to live in cities. Finally, the interaction terms of Model 7 indicate that the effects of
+
+higher education on birth rates are not as high in urban as in rural areas, especially in Colombia and Peru. It is possible that urban women are influenced more by forces that lower fertility, regardless of education levels, than are rural women.
+DISCUSSION
+This discussion is organized around the five characteristics we have suggested to evaluate education as a policy. First, we have shown substantial improvements in female educational attainment over the last fifty years. Among women born after 1970, virtually all have at least some primary education and a large majority have at least some secondary schooling. Whether educational improvement is more a function of government policies or individual motivation cannot be evaluated with the data at hand, but the observed dramatic increases support optimism regarding the extension of basic education to women in Latin America.
+Our study also shows strong relationship between education and each of the demographic outcomes of interest, namely, age at marriage, contraceptive use, and fertility. In all three Latin American countries, education influenced fundamental decisions women made about family formation. The largest impact tends to occur between primary and secondary schooling, especially for age at marriage, but each
+
+Vol. 45, No. 3-4
+
+Education as Policy
+
+209
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+TABLE 8
+LOG-LINEAR PARAMETERS SHOWING EFFECTS OF EDUCATION ON FERTILITY RATES
+
+Parameters
+Primary Secondary Higher
+
+Colombia
+-0.288" -0.654" -0.742"
+
+Peru
+MODEL 1
+-0.272" -0.598" -0.797"
+
+0.149" -0.484" -0.761"
+
+lstDHS 2ndDHS
+
+-0.282" -0.471"
+
+MODEL 2
+-0.286" -0.357"
+
+-0.004
+
+Primary Secondary Higher lstDHS 2ndDHS
+
+0.241" 0.526" 0.586"
+0.217"
+0.347"
+
+MODEL 3
+-0.234" -0.521" -0.704" -0.204" -0.223"
+
+-0.150" -0.491" -0.761"
+0.020
+
+Primary Secondary Higher Survey Primary" survey Secondary"survey Higher" survey
+
+0.242" 0.549" 0.634" 0.204"
+0.028 0.111 0.145
+
+MODEL 4
+-0.243" -0.530" -0.655" -0.179" -0.034 -0.056 -0.175"
+
+-0.150" -0.490" -0.762"
+0.013 -0.028 -0.051 -0.047
+
+Urban
+
+-0.420"
+
+MODEL 5
+-0.391"
+
+-0.389"
+
+Primary Secondary Higher Urban
+
+-0.233" -0.511" -0.577" -0.299"
+
+MODEL 6
+-0.220" -0.471" -0.656" -0.218"
+
+-0.092" -0.344" -0.592" -0.245"
+
+Primary Secondary Higher Urban Primary" urban Secondary" urban Higher" urban
+ap<0.05--fewer than 20 cases.
+
+0.230" 0.567"
+0.722"
+0.190" 0.033 0.179" 0.344
+
+MODEL 7
+-0.231" -0.490" -0.798" -0.132" -0.076 -0.015
+0.263"
+
+-0.085" -0.341"
+-0.645" -0.214"
+0.024 0.034
+0.163
+
+successive increment in education is generally associated with further declines in the marriage rate, increased contraceptive use (especially modern methods), and
+
+lower fertility. Birdsall and Chester (1987) argue that the ability of women to control their childbearing with confidence is an important factor in raising the
+
+210
+
+Heaton and Forste
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+status of women. With increased education, Latin American women therefore are better able to make reproductive choices and thus improve their status. These findings support the claims that education is associated with substantial differences in demographic outcomes and that the influence of education extends to a variety of different family behaviors.
+Education also accounts for some of the trends in demographic outcomes, but the pattern varies by outcome and time period considered. Improvements in education explained most of the decline in marriage rates over the past decades in the three Latin American countries. The expansion of education over time contributed to an increase in contraceptive use mainly in Peru. In the case of contraceptive use, other factors such as contraceptive availability were probably more important than educational expansion in determining the increase over time.
+The expansion of educational opportunities in Latin America accounted for some of the decline in fertility over the past decade (between the two DHS surveys), but only in the more developed countries of Peru and Colombia. The contribution of educational expansion to declines in fertility in our study were much smaller than findings reported in prior studies which used a decomposition-of-difference method (Castro Martin, 1995; Weinberger et al., 1989). Weinberger and colleagues (1989) found that improvements in education explained 40 to 67 per cent of the decline in fertility between the WFS and DHS in Latin America. They also indicated that fertility declines within education categories were substantial, accounting for a large per cent of the decline in Colombia and to a lesser per cent in Peru. Using multivariate
+
+regression techniques, we found that educational expansion explained very little of the decline between WFS and DHS I, and only some of the decline between DHS I and DHS II in Peru and Colombia.
+The effect of education on reproductive decisions are evident in a variety of contexts. In terms of residence, marriage rates were lower in urban areas, as was total fertility. However, these effects were largely due to the increased education levels of urban residents. A higher percentage of women in urban areas also used contraceptives compared to their rural counterparts. However, this effect was not primarily due to the higher levels of education in urban areas. Other factors, such as access to contraception, likely play a greater role in increased contraceptive use among urban residents than does education. Despite these differences, the influence of education on each outcome is evident in both rural and urban areas.
+The relationship between education and reproductive decisions varied by country. In Colombia, a more highly developed Latin American country, the greatest increases in contraceptive use (especially modern methods) and declines in fertility were among the leasteducated women. In Peru, a moderately developed country in the middle of its demographic transition, the greatest increases in contraceptive use were among the least-educated women. However, the greatest declines in actual fertility were among the most-educated. In Bolivia, one of the poorest countries in Latin America, the largest increases in contraceptive use (largely traditional methods) were among the most-educated women. There was no difference between education groups as to fertility in the Bolivian sample. In
+
+Vol. 45, No. 3-4
+
+Education as Policy
+
+211
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+Colombia, the effects of education on marriage rates was greater in rural as opposed to urban areas. In Peru, the effect was just the opposite--education reduced marriage rates more in urban than rural areas. There was no difference by residence in Bolivia as to the effect of education on marriage rates. In Latin America generally, declines in fertility have begun in urban areas and then later spread to rural areas (Merrick, 1986).
+Our results suggest that in more developed countries, such as Colombia, nearing the end of their demographic transition, contraceptive use and fertility declines among rural women and less-educated women are beginning to match those of their urban and more educated counterparts. Countries in the middle of their transition and with moderate levels of development, such as Peru, appear to be experiencing increases in contraceptive use among the least-educated. However, the influence of these changes on actual fertility has not yet been realized among women with little education. The largest declines in actual fertility are still among the most-educated in Peru. In Bolivia, a poor country at the early stages of its transition, increased contraceptive use has begun among the most-educated women, but differences in fertility across education categories have been negligible.
+We find in support of the social diffusion hypothesis that differentials by education are reduced as the level of development increases and societies move through their demographic transition. According to this hypothesis, educational differentials in reproductive behavior are
+
+likely to be greatest at the initial stages of the fertility decline, when the most-educated women are the first to adopt family planning, and then narrow as societies pass through the fertility transition and family planning is adopted by all women, even the least-educated (Castro Martin, 1995; Bongaarts and Watkins, 1996).
+Our findings suggest that as Latin American countries pass through their fertility transition, they pass through a progression of increased contraceptive use following the early stages of transition which ultimately results in declines in actual fertility during later stages of the transition. This progression begins with the most-educated and urban women and then diffuses to the least-educated and rural women. Thus, the changes within educational categories in Latin America appear to have contributed more to the fertility decline over time than has the expansion of educational opportunities. This appearance may be a function of the diffusion process and an associated nonlinear relationship between trends in educational expansion and demographic outcomes. Initial expansion of educational opportunity to a significant proportion of women may be an important early phase in the transition to later marriage and greater control over fertility. However, additional research is needed to delineate further the relationship between education and reproductive choices throughout the fertility transition. In particular, the role of education in the transition from traditional to modern contraceptive use, as well as the use of contraceptives to not only limit but also space births, require greater attention.
+
+212
+
+Heaton andForste
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+REFERENCES
+
+BIRDSALL, NANCY, and LAUREN A. CHESTER. 1987.
+Contraception and the status of women: What is the link? Fam. Plan. Persp. 19(1):14-18.
+
+KASARDA, JOHN D., JOHN O. G. BILLY, and KIRSTEN
+WEST. 1986. Status enhancement and fertility: Reproductive responses to social mobility and
+
+BONGAARTS, JOHN, and SUSAN COTTS WATKINS.
+1996. Social interactions and contemporary fer-
+
+educational opportunity. Academic Press, New York.
+
+tility transitions. Pop.Develop. Rev. 22(4):639- KITAGAWA, EVELYN M. 1955. Components of a dif682. ference between two rates. J. Amer. Statist. As-
+
+CALDWELL, JOHN C. 1986. Routes to low mortality
+
+soc. 50(Dec):1168-1194.
+
+in poor countries. Pop.Develop. Rev. 12(2): KOST, KATHRYN. 1993. The dynamics of contracep-
+
+171- 220.
+
+tive useinPeru. Stud. Fam. Plan. 24(2):109-119.
+
+CASTRO MARTIN, TERESA. 1995. Women's education
+and fertility: Results from 26demographicand health surveys. Stud. Fam. Plan. 26(4): 187-202.
+CASTRO MARTIN, TERESA, and FATIMA JUAREZ. 1995.
+The impact of women's education onfertility in
+
+KNODEL, JOHN, and GAVIN W. JONES. 1996. Post-
+Cairo population policy: Does promoting girls' schooling miss the mark? Pop. Develop. Rev. 22(4):683-702.
+LAIRD, N., and D. OLIVER. 1981. Covariance analy-
+
+Latin America: Searching for explanations. In-
+
+sis of censored survival data using log-linear
+
+ternat. Fam. Plan. Persp. 21(2):52-57.
+COCHRANE, SUSAN H. 1979. Fertility and education: What do we really know? TheJohns Hopkins Univ. Press, Baltimore.
+CHOWDHURY, FAKHRULI, and FRANK TROVATO. 1994.
+The role and status of women and the timingof marriage in five Asian countries. J. Comp.Fam. Stud. 25(2):143-157. EISEMON, THOMAS O. 1987. Benefiting from basic education: A review of research on the outcomes ofprimary schooling indeveloping coun-
+
+analysis techniques. J. Amer. Statist. Assoc. 76:231-240.
+MASON, KAREN OPPENHEIM. 1993. Women's posi-
+tion and demographic change. Oxford Univ. Press, New York.
+MERRICK, THOMAS. 1986. Population pressures in Latin America. Pop. Bull. 41(3): 1-50.
+MORENO, LORENZO. 1991. An alternative model of the impact ofthe proximate determinants onfertility change: Evidence from Latin America. Pop. Stud. 45:313-337.
+
+tries. Special Studies in Comparative Education, No. 20. Comparative Education Center, State University ofNew York, Buffalo.
+FERRANDO, DELICIA, and CARLOS E. ARAMBURÚ.
+1996. Thefertility transition in Peru. In J. M. Guzmán, S. Singh, G. Rodríguez, and E. A.
+
+MUHURI, PRADIP K., ANN K. BLANC, and SHEA O.
+RUTSTEIN. 1994.Socioeconomic differentials in fertility. Demog. Health Surveys Comp. Stud. 13:1-79. PALLONI, ALBERTO. 1981. Mortality in Latin America: Emerging patterns. Pop. Develop. Rev.
+
+Pentelides (eds.). The fertility transition inLatin
+
+7(4):623-649.
+
+America. Oxford Univ. Press, New York.
+FLOREZ, CARMEN ELISA. 1992. The fertility transi-
+tion and family urban income distribution in Colombia. Sociol. Inq. 62(2):169-184.
+
+PINTO, HUGO TÓRREZ. 1996. Bolivia: The social and
+geographic contexts of trends in fertility. In J. M. Guzmán, S. Singh, G. Rodríguez, and E. A. Pentelides (eds.). The fertility transition in Latin
+
+GERTLER, PAUL J., and JOHN W. MOLYNEAUX. 1994.
+
+America. Oxford Univ. Press, New York.
+
+How economic development and family plan- RANCE, SUSANNA. 1990. Plantificacion familiar: Se
+
+ning programs combined to reduce Indonesian
+
+abre el debate. Secretaria Tecnica del Consejo
+
+fertility. Demography 31(1):33-63.
+GUZMÁN, JOSÉ MIGUEL. 1994. The onset of fertility
+decline in Latin America. In Therese Locoh and Véronique Hertrich (eds.), The onset of fertility transition in sub-Saharan Africa. Derouaux Ordina Editions, Leige, Belgium.
+
+Nacional de Población (CONAPO), Ministerio de Planeamiento y Coordinacion, The Johns Hopkins University.
+RIVERA, MIGUEL, and THOMAS ESPENSHADE. 1995.
+Peru's coming baby boomlet. Pop. Environ. 16(5):399-414.
+
+GUZMÁN, JOSÉ MIGUEL, SUSHEELA SINGH, GERMÁN
+RODRÍGUEZ, and EDITH A. PANTELIDES. 1996.
+The fertility transition in Latin America. Oxford Univ. Press, New York. HEATON, TIM B. 1996. Socioeconomic and familial status of women associated with age at first marriage in three Islamic societies. J. Comp. Fam. Stud. 27(1):48-58.
+JEJEEBHOY, SHIREEN J. 1995. Women's education, autonomy, andreproductive behaviour: Experience from developing countries. Oxford Univ. Press, New York.
+
+RODRÍGUEZ, GERMÁN. 1996. The spacing and limiting components of the fertility transition in Latin America. In J. M. Guzmán, S. Singh, G. Rodríguez, and E. A. Pentelides (eds.). The fertility transition in Latin America. Oxford Univ. Press, New York.
+ROOSTA, MANIGEH. 1989. Mujer urbana: Realidad y deseos respecto al comportamiento reproductivo. Servicios deInformacion yAccion en Poblicion (SIAP), La Paz, Bolivia.
+SHAH, IQBAL. 1991. Comparative analysis of contraceptive method choice. Proceedings of theDe-
+
+Vol. 45, No.3-4
+
+Education asPolicy
+
+213
+
+mographic and Health Surveys World Conference 1:617-639.
+UNITED NATIONS. 1987. Fertility behavior in the context of development: Evidence from the World Fertility Survey. Population Studies, No. 100. United Nations, New York.
+WEINBERGER, MARY BETH, CYNTHIA LLOYD, and
+ANN K. BLANC. 1989. Women's education and fertility: A decade of change in four Latin American countries. Internat. Fam. Plan. Persp. 15(1):4-14.
+WILKIE, JAMES W., and ENRIQUE OCHOA (eds.).
+1989. Statistical abstract of Latin America, Vol-
+
+ume 27. UCLA Latin American Center Publications, University of California, LosAngeles.
+WHITE, MICHAEL J., LORENZO MORENO, and
+SHENYANG GUO. 1995. The interrelation of fertility and geographic mobility in Peru: A hazards model analysis. Internat. Migration Rev. 29(2):492-514.
+YAMAGUCHI, KAZUO. 1991.Event history analysis. Applied Social Research Methods Series, Volume 28.Sage Publications, Newbury Park,CA.
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+

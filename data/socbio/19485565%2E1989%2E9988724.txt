@@ -1,0 +1,53 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Mean age and life expectancy at birth in stationary populations: Research note
+Vicente Morales
+To cite this article: Vicente Morales (1989) Mean age and life expectancy at birth in stationary populations: Research note, Social Biology, 36:1-2, 114-114, DOI: 10.1080/19485565.1989.9988724 To link to this article: http://dx.doi.org/10.1080/19485565.1989.9988724
+Published online: 23 Aug 2010.
+Submit your article to this journal
+View related articles
+Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:43
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Mean Age and Life Expectancy at Birth in Stationary Populations: Research Note
+
+Vicente Morales
+
+Institut d'Estudis Laborals University of Barcelona Barcelona, Spain
+
+The aim of this note is to show the conditions under which mean ages and life expectancies at birth in stationary populations stay in different order.
+Let's assume that the mean age of a stationary population A is greater than that of another stationary population B. Does it mean that the life expectancy at birth for A is also greater than that for B?
+The aim of this note is to show the conditions under which the above questions would have a negative answer.
+In 1977 Stephen W. Salant demonstrated that for unemployment spells in a situation of stationary unemployment (what he calls "stable economic conditions", page 40):
+
+"E(Ta) > £(Tb)
+
+and
+
+Var(5a)
+
+(i) > E(Ta) - E(Tb)
+
+2E(Sa) 2E(Sb)
+
+This would imply that
+
+E(Sa) < E(Sby' (page 43, Note 10) where T is the duration of the inter-
+
+rupted spells of unemployment and S of the complete spells.
+In the demographic chart, T corresponds to the age of individuals at a given moment (census) and 5 to the age at death of that individuals. E(T) would then be the mean age of the population, E(S) the life expectancy at birth and Var(S) the variance corresponding to the ages at the time of death.
+If the mean age in A is greater than that in B and the difference in the variation coefficients at the time of death in stationary populations A and B is more than double the difference of the age averages, the order of life expectancy at birth would then be reversed.
+Salant's analysis is a far cry from the techniques and the language usually employed in demography. However, I believe that this result could be of some interest for demographers.
+REFERENCES
+SALANT, S. W. 1977. Search theory and duration data: A theory of sorts. Quart. J. Econ. 91:39-57.
+
+114
+
+

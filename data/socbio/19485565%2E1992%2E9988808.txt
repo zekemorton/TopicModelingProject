@@ -1,0 +1,470 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Education and timing of parenthood among Canadian women: A cohort analysis
+Margaret L. De Wit & Fernando Rajulton
+To cite this article: Margaret L. De Wit & Fernando Rajulton (1992) Education and timing of parenthood among Canadian women: A cohort analysis, Social Biology, 39:1-2, 109-122, DOI: 10.1080/19485565.1992.9988808 To link to this article: http://dx.doi.org/10.1080/19485565.1992.9988808
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 5
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:44
+
+Education and Timing of Parenthood Among Canadian Women: A Cohort Analysis
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+Margaret L. De Wit and Fernando Rajulton
+Population Studies Centre University of Western Ontario London, Ontario, Canada
+
+ABSTRACT: This research examines factors associated with the timing of first birth in Canada, focusing primarily on the role of women's educational attainment. Proportional hazards modelling techniques are applied to data from the 1984 Canadian Fertility Survey (CFS) in order to determine how educational attainment, estimated as close as possible to the date of first birth, influences the timing of first birth and whether the importance of this variable varies according to age cohorts. The results suggest that among a number of variables useful for distinguishing different levels of risk, educational attainment proves to be the most important predictor in the model. Education exerts a substantial positive influence on birth timing for women of all age groups. As expected, moreover, significant cohort differences are also evident, with the greatest to the smallest impact on the risk from the youngest to the oldest cohorts. These clear-cut cohort differences indicate a fundamental change in the effects of education over time, a trend most likely resulting from substantial changes in both the content and social significance of formal schooling during the past few decades.
+
+It is well known that the timing of first birth may have important demographic consequences for lifetime fertility and for the age structure of a population. More recently, it has been suggested that first-birth timing may also have a significant impact on nondemographic processes, such as the development of future lifecourse alternatives for women in modern society (Grindstaff et al., 1989). Indeed, the emergence and spread of the low fertility norm and the greater use of effective contraceptives have made first birth timing less relevant to completed family size than it once was and have increased the importance of the nondemographic consequences of the age at which a woman enters parenthood (see Teachman, 1985; Balakrishnan et al., 1988; Grindstaff et al., 1991; Rajulton et al., 1990). A delay in the tim-
+
+ing of first birth allows women to take advantage of a variety of opportunities including higher education and paid work (Waite and Moore, 1978; Hofferth and Moore, 1979; Birdsall and Chester, 1987). These opportunities, in turn, have obvious implications for women's economic independence and social status.
+Complementary research has also examined the extent to which a variety of demographic, socioeconomic, and behavioral characteristics may influence the timing of fertility among women in economically-developed countries. Various factors have been identified as significant correlates of the timing of first birth. Among these, educational attainment appears to be particularly salient given the relative stability of its effect over time (Blake and Del Pinal, 1982), and its important
+
+109
+
+110
+
+De Wit and Rajulton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+implications for childbearing decisions.
+
+THEORETICAL
+
+To date, however, surprisingly little
+
+CONSIDERATIONS
+
+has been done to explicate the poten-
+
+tially important role which education Relevant research suggests that ed-
+
+plays in determining when a woman ucation is a primary predictor of first
+
+commences childbearing. Accord- birth timing; that is, the dominant di-
+
+ingly, this research focuses on the role rection of effect is found to be from ed-
+
+of women's educational attainment in ucation to first birth (Marini, 1984).
+
+influencing first birth timing and seeks Several studies indicate that the attain-
+
+to determine the extent to which the ment of relatively high levels of edu-
+
+effects of education may vary accord- cation, and hence longer durations of
+
+ing to age cohorts.
+
+schooling, is associated with the post-
+
+The proportional hazards model ponement of first birth to older ages (Cox, 1972) used here combines mul- (Rindfuss et al., 1980; O'Connell and tiple regression with life table tech- Rogers, 1982; Rindfuss and St. John, niques. This technique is appropriate 1983; Marini, 1984; Wineberg, 1988). in overcoming the problems of right An important conclusion from Maxcensoring which are often present in well's (1987) work is that higher edulife history data. The core assumptions cation delays childbearing among all of proportional hazards modelling are groups of women, regardless of age or that heterogeneity is measured by the ethnic background. It has also been esset of characteristics at the time of the tablished that relatively large and sigoccurrence of the event understudy and nificant rates of childlessness are to be that the relative risks are proportional found among ever-married women to the baseline hazard over the dura- with higher levels of education tion of interest. For lack of informa- (O'Connell and Rogers, 1982; Jacobtion, many studies do not pay attention son et al., 1988; Grindstaff et al., to this point and use the characteristics 1989).
+
+as measured at the time of the survey. An important contribution of this paper lies in analyzing the effects of characteristics estimated as closely as possible to the time of first birth (refer to the section on data, measurement, and methodology).
+
+Added to these findings is the evidence that the significant effect of education on the timing of first birth may actually be increasing over time or cohorts. Among the most substantial changes in recent years is the proliferation of economic and political roles
+
+The analyses are based on the birth for women outside the home, a devel-
+
+history data gathered by the 1984 Ca- opment which has enabled many
+
+nadian Fertility Survey (CFS). The women to include a significant element
+
+sample is stratified according to age co- of choice in the decision-making pro-
+
+horts, 18-29, 30-39, and 40-49, and cess surrounding work, leisure, and
+
+the analysis is done separately for each family life (De Wit, 1991). Increased
+
+in order to examine the relative impor- levels of education, particularly of a
+
+tance of the covariates, primarily edu- nontraditional type, have helped
+
+cation, for each cohort.
+
+women to bring about many of these
+
+Vol. 39, No. 1-2
+
+Education and Timing of Parenthood
+
+111
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+important changes. The rising rates of childlessness recently observed among younger cohorts of Canadian women (Rajulton et al., 1990), particularly among those born in the postwar era, may be explained in terms of a variety of factors, including increased economic opportunities for women, greater reliance on improved contraceptive methods and changing attitudes toward marriage and childbearing. Younger women who enjoy higher average educational attainment relative to older women may be less disposed to marriage and childbearing as primary activities and may thus postpone or even forgo parenthood altogether.
+The significance of varying levels of education for fertility analysis may depend on both the content and thesocial valueor meaning with which education is invested (Day, 1983; Lesthaeghe and Moors, 1990). In economically advanced countries like Canada, the significance of education has changed dramatically in recent years. Not only has educational attainment increased considerably in recent years (Hoffman, 1974), but educational expectations for young women have as well become far more of an investment purchase in human capital than was true for older cohorts. Changes in the content of education have accompanied these developments. Whereas education for women in the past typically involved learning skills which were expected to assist them in their "primary responsibilities" as wives and mothers, a woman today is considerably freer to pursue higher education in any number of nontraditional areas, despite the persistence of certain psychological and institutional barriers to success in
+
+professional careers. Given a plethora of new lifestyle choices, educational attainment is increasingly important to women as a means of achieving financial independence, enhanced social status, and greater personal freedom. All these fundamental changes in the nature of education itself would suggest that the manner in which, and the extent to which, it influences fertility decisions may also be changing over time. Specifically, educational attainment may be increasingly important in determining the timing of parenthood.
+Previous research suggests several ways in which education,independent of individual cohort experiences, may be linked to differences in birth timing. From an economic standpoint, education may affect the timing of first birth through changes in the real and perceived costs and utilities of children (Kasarda, 1979; Maxwell, 1987). More educated women are presumably better able to assess the advantages and disadvantages of childbearing. With higher education, investment costs of children may also increase, given higher socioeconomic and cultural aspirations for children among the better-educated. Delays may thus follow from decisions to postpone a first birth until a woman and her partner feel sufficiently able to provide well for a child. Education may similarly affect birth timing by altering individual opportunity cost structures. Higher education for women typically enhances opportunities alternative to childbearing and even marriage, such as paid market work. Accordingly, highly educated women who indefinitely postpone parenting or decide to forgo childbearing altogether in favor of careers are more likely to be childless by
+
+112
+
+De Wit and Rajulton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+the end of their reproductive years (Jacobson et al., 1988).
+Higher education of women has also been associated with the more effective use of available contraceptives due to greater access to information and greater specialized knowledge of effective contraceptive practices, regardless of the method chosen (Kasarda, 1979; Wolfe, 1980). A delay in first birth for better-educated women may thus reflect their greater ability to successfully control birth timing, subsequent spacing and ultimate family size.
+Sociologically speaking, a primary effect of education may relate to the development of value orientations favoring personal fulfillment over more traditional goals such as marriage, parenting, or homemaking. Where women perceive childbearing as incompatible to attaining personal goals and ambitions, parenting is likely to be delayed or forgone altogether. Higher education may further facilitate the fulfillment of individual aspirations with the development of a heightened sense of personal efficacy in matters pertaining to family and childbearing. This normative component of education may, in fact, have a sizable effect on fertility decisions in the modern context, although it is perhaps the least understood or documented.
+In light of these considerations, it is quite clear that if the positive (and hence, delaying) effect of education on timing of parenthood has increased over time, the magnitude by which it affects the timing should be much greater for more recent cohorts. Not many analyses have paid sufficient attention to this important point. Notwithstanding, given the extent of social and economic changes in recent years,
+
+it is probable that the relationship between educational achievement and fertility behavior will also continue to evolve over time. Research which provides insights into these trends and processes is of great relevance in future analysis.
+Beyond examining the role of education, the present research considers a number of other variables shown previously to distinguish among varying levels of risk of timing of parenthood. Control variables for this analysis include marital status, contraceptive use, labor force status, rural/urban residence and region of residence, religious affiliation and commitment, place of birth and ethnicity.
+Marital status at the time of first birth is expected to influence the timing and risk of having a child since most births in Canada continue to take place within marriage despite the increasing prevalence of alternative lifestyles such as single parenting or cohabitation. Accordingly, married women should be observed at greatest risk, followed by cohabiting and previously married women and, finally, by single and never-married women.
+Previous analysis of data from the Canadian Fertility Survey demonstrates that 68 per cent of all women in the reproductive ages (18-49) practice some type of contraception (Balakrishnan et al., 1985). A closer examination, however, reveals that about 64 per cent report contraceptive use prior to first birth. It is thus apparent that the use of birth control in Canada reflects more the desire to time births than avoiding them altogether. Patterns of contraceptive use have also been linked to educational attainment, with better-educated women seemingly
+
+Vol. 39, No. 1-2
+
+Education and Timing of Parenthood
+
+113
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+more successful in planning the number and timing of desired births.
+Empirical evidence shows that women committed to continuous employment are more likely to delay the onset of childbearing relative to their nonworking counterparts (De Wit, 1991). Women at greater risk of childlessness, moreover, are also those with professional occupation status (Grindstaff etal., 1989), for whom continuous employment is likely to be more readily available and for whom opportunity costs of childbearing are likely to be greater. For these reasons, women who initiate regular full-time work before first birth should be at lower risk compared to women not already in the paid labor force. Alternatively, women faced with choices between competing activities like parenthood and paid work may be more inclined to initiate childbearing earlier in order to minimize work interruptions once a career is well underway.
+Research on birth and marriage timing suggests that rural residence is associated with earlier marriage and first birth timing (Heaton et al., 1989). This association has been explained by reference to the presumably more traditional family-oriented subculture of rural areas, not to mention the reduced economic opportunities for women. Accordingly, women in rural or small town areas should be at greater risk of experiencing a first birth than women from larger urban areas.
+The influences of religion and religious commitment on behaviors like birth timing and life-time fertility have received sufficient attention in the literature. Religious affiliation may reflect value orientation with respect to the acceptability of certain behaviors,
+
+including those related to childbearing. More traditional religions like Catholicism, thus, would presumably favor the maintenance of the large family ideal which in part depends on the early commencement of childbearing. Catholics have also been found to have lower average education compared to non-Catholics (Greeley, 1974), a factor which may help to explain any observed connection between Catholicism and early birth timing. A greater risk of first birth should therefore be obtained for Catholic women than non-Catholic women, given Catholics' presumed greater traditionalism in value orientations.
+Degree of religious commitment has also been linked to differences in labor force involvement and to variations in nuptiality and fertility. With respect to work status, De Wit's (1990) analysis suggests a greater propensity for more religious women to exit the labor force, a fact which may in turn relate to differences in value orientations with respect to parental responsibilities. Balakrishnan and Chen's (1990) work indicates further that more religious women are less likely to use contraceptives, to engage in premarital sex, or to cohabit before marriage. They are also at lower risk of marital dissolution and are found to have both higher actual and expected fertility. Given the presumed link between age at first birth and lifetime fertility, more religious women should experience a greater risk of first birth. However, it remains to be seen whether the greater risk might be offset by factors such as lower rates of premarital conception and cohabitation among more religious women, particularly when the fertility process, as in this paper, is assumed to
+
+114
+
+De Wit and Raj ulton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+start at age 15 rather than with marriage.
+It is of some interest to examine differentials in birth timing between Quebec (francophone) and non-Quebec (anglophone) women in Canada given their conspicuous fertility differences. Quite possibly, differences in timing patterns for Quebec women may relate to their distinct minority subculture based on religion, language, and historical experience. Additionally, differences by place (country) of birth are examined in the present context in order to determine whether the historical Canadian pattern of early marriage and childbearing remains important vis-a-vis the experiences of foreignborn women.
+Finally, differences in birth timing by ethnic affiliation have also been observed in previous studies (see, for example, Rindfuss and St. John, 1983). Cultural norms and values influence the relative valuation of reproduction (Maxwell, 1987). However, ethnicity, like religious affiliation, appears to be of declining importance in explaining fertility behavior among Canadian women (Balakrishnan et al., 1979).
+MATERIALS AND METHODS
+The CFS data consist of a national probability sample of 5,315 women aged 18 to 49 irrespective of marital status. Proportional hazards modelling techniques are applied to the data in order to determine the extent to which education, net of other factors, influences the rate at which women from different age cohorts experience a first birth upon reaching the starting age of childbearing at around 15. Unlike
+
+many past studies (for example, Rao and Balakrishnan, 1988; Wineberg, 1988), the present research considers age 15 as the starting age of fertility rather than the age at first marriage/ cohabitation, given that the timing of a significant number of births in Canada is no longer heavily dependent on marital status. Thus, the birth-timing behavior of all women is analyzed, not just that of ever-married women. The target population for this study, however, is meaningfully restricted only to those women actually exposed to the risk of first birth; the few women (about 100) reporting a surgical sterilization in the childless state are eliminated from the analysis. Unfortunately, no information is available on the generally small proportions of women in any population affected by natural infecundity or sub-fecundity.
+As mentioned earlier, the application of the proportional hazards model requires the measurement of covariates at the time of the event in question. It is often difficult to obtain this type of information from survey data like those used here. Nevertheless, considerable effort has been made to estimate values of relevant covariates for the appropriate time points. With the exception of province of residence, religion, and religious commitment, for which no alternative measures were available, all relevant covariates are approximated as nearly as possible to the time of first birth. This approach is expected to represent a considerable improvement over previous analyses where few or none of the variables are estimated for the time of the event in question, and where the danger of confounding cause with effect exists. The latter is considered to be especially im-
+
+Vol. 39, No. 1-2
+
+Education and Timing of Parenthood
+
+115
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+portant in the case of education, given the present research focus.
+The CFS obtained the number of years of schooling as of the survey date. However, with respect to work histories, it included information on the number of years of schooling when the woman started working for the first time. We therefore examined the data on timing of first birth, timing of first work, education at the time of first work and education at the time of survey, and arrived at likely estimates of the number of years of schooling at the time of first birth for specific categories of women as follows:
+1. For women without a first birth by the survey date, education at first birth set to be equal to the survey date measure of education;
+2. Among women having a first birth by the survey date -- a) students: education at first birth estimated as the survey date education level minus the difference between the average completion age of education (survey date education plus 6 years) and the age at first birth; b) not working: education at first birth set to be equal to the survey date measure;
+· c) working: i. no work stoppage: Where average age at completion of eduction was less than age at first birth, education at first birth set to be equal to education at first regular work. Alternatively, where average completion age was greater than age at first birth, education at first birth was taken as the average of education at first work and the survey date; ii. at least one work stoppage:
+a. stopped to return to school: education at first birth set to be equal to education at first work plus the difference between the
+
+starting age of work (first or sec ond work) and age at first birth, where the starting age of work exceeded age at first birth; or, where the starting age of work was less than or equal to age at firstbirth, education at first birth set to the survey date level of education;
+b. stopped for other reasons: if age at first work was less than age at first birth, education at first birth set to be equal to education at first work.
+In the case of region of residence, religion, and religious commitment, some caution is warranted in interpreting the results, especially in the case of religious commitment which can vary so much over the life-course. Any significant effect of religious commitment might be more visible in the case of younger women whose first birth can be expected to correspond more closely to the survey date. In the case of region of residence, it is assumed that the woman's residence at the survey date is the same as that at the time of first birth.1 This assumption seems fairly realistic given Quebec's low rate of in- or out-migration.
+The dependent variable is measured in months and may be interpreted as survival time from age 15 in the childless state before experiencing the event of interest, first birth. Throughout this interval, individuals may either survive the event up to the survey time, in which case they are said to be right censored, or experience a first birth.
+Covariates for the multivariate analysis are all measured as dummy variables. Women are grouped according to the age cohorts 18-29, 30-39, and 40 or older. The relative risks are com-
+
+116
+
+De Wit and Rajulton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+pared over cohorts as well as to the sample as a whole, controlling for age. The major independent variable, education, refers to education completed by the time of first birth and is categorized according to less than 9 years of formal education, 9 to 13 years, and 14 years or more, with women in the highest education category comprising the reference group. Contraceptive use status relates to whether a woman initiated birth control practices prior to first birth; this variable is measured according to use and no use at any date before first birth with nonusers as the reference group. Labor force status is categorized into two groups: those who began first regular work before first birth and those who did not. For this variable, those not working represent the contrast group. Place of residence at the time of first birth is measured as small town or rural residence compared to urban residence, the latter serving as the reference group. Women residing in the province of Quebec are compared to those living outside of Quebec. Place of birth is divided into foreign-born and Canadian-born, with the latter as the contrast. Categories of ethnic affiliation include British, other European, and other ethnic group, with French women comprising the reference category. The religion variable is coded according to Protestant, other religion, and no religion, with Catholics as the contrast group. Religious commitment is measured via frequency of church attendance and grouped into regular attendance (at least monthly) and not regular (less than monthly), with the latter as the reference group. Marital status at the time of first birth includes the following categories: cohabiting, married, and previously mar-
+
+ried (i.e., widowed, separated, or divorced), all contrasted with the reference group, single and nevermarried.
+RESULTS
+Table 1 gives relative risks and proportions censored by age cohort, and for the sample as a whole, controlling for age group. In the 18-29 cohort, 61 per cent of the women have not experienced a first birth by the survey date, compared to 18 per cent of the 30-39 cohort, and only 7 per cent of the oldest cohort aged 40 or older. Thirtythree per cent of the entire sample of women have yet to experience a first birth by the time of the survey. All four models are statistically significant at p<0.001; the parameter estimates, moreover, are relatively stable as their effects do not change to any appreciable degree with the addition or removal of other covariates from the model. The parameter estimates denoting relative risks are to be interpreted as follows with respect to the timing of parenthood: Higher risks imply earliertiming, and lower risks,later timing. The direction of effect, therefore, can be seen as negative or positive depending on whether one considers the timing scale or the relative risks. Thus, for example, a positive effect on timing is associated with a negative effect on the risk.
+In addition to proportions censored, basic cohort differences in the risk of first birth are clearly seen in Table 1. Beginning with the control variables, frequency of church attendance has little influence on the risk of first birth, except for the oldest cohort. For these women, regular church attendance is
+
+Vol. 39, No. 1-2
+
+Education and Timing of Parenthood
+
+117
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+TABLE 1
+RELATIVE RISKS OF FIRST BIRTH FOR COHORTS 18-29, 3°~39 AND 40 OR OLDER, AND STRATIFIED BY AGE GROUP, CFS DATA
+
+VARIABLE
+
+18-29
+
+Religious commitment: Regular attendance Non-regular"
+
+1.01 1.00
+
+Religion: Protestant Other None Catholic"
+
+1.05 1.25 0.86 1.00
+
+Work status: Working Not working"
+
+5.62'' 1.00
+
+Place of residence: Smalltown rural Urban"
+
+0.74'' 1.00
+
+Contraceptive use: Use No use"
+
+0.52'' 1.00
+
+Ethnicity: British Other European Other
+French"
+
+0.96 0.84 1.35 1.00
+
+Place of birth: Foreign born Canadian born"
+
+0.76 1.00
+
+Region of residence: Quebec Non-Quebec"
+
+0.80" 1.00
+
+Marital status: Cohabiting Married Previously married Single/Never married"
+
+1.07 1.181.31r 0.64 1.00
+
+Education: < 9 years 9-13 years a l 4 years"
+
+6.14'' 3.34'' 1.00
+
+Sample size Per cent censored
+
+1,819 61
+
+"Reference category for the variable. VsO.05. rps0.01. <'/>s0.001.
+
+AGE COHORT
+30-39
+1.05 1.00
+1.02 0.98 0.97 1.00
+2.45r 1.00
+0.77'' 1.00
+0.48'' 1.00
+1.02 1.01 0.89 1.00
+0.77<1.00
+0.81ft 1.00
+0.98 1.67'' 0.56" 1.00
+2.79'' 1.98'' 1.00 1,684 18
+
+40+
+0.81r 1.00
+1.28<1.06 1.31 1.00
+1.18'' 1.00
+0.84<1.00
+0.56'' 1.00
+0.96 1.09 0.96 1.00
+0.69'' 1.00
+0.73r 1.00
+0.63 1.56'' 0.76 1.00
+2.67'' 1.75'' 1.00 1,001 7
+
+Stratified by Age Group
+0.94 1.00
+1.12" 1.07 1.00 1.00
+2.32'' 1.00
+0.78rf 1.00
+0.52'' 1.00
+0.98 0.95 0.96 1.00
+0.74'' 1.00
+0.78'' 1.00
+1.12
+0.71" 1.00
+3.41'' 2.19'' 1.00 4,504 33
+
+118
+
+De Wit and Rajulton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+associated with a lower risk of first birth, most likely through the greater avoidance of premarital sex at primeages. No significant effect is observable for the group as a whole. In considering religious affiliation, only the Protestant-Catholic contrast is significant, and once again, only for the oldest group. Protestant women are about 30 per cent more likely than Catholics to experience an early first birth. This result does not support the general expectations regarding the greater tendency for early births among Catholics. The overall risk for the entire sample is small but significant, owing to its relevance only for the oldest cohort.
+The work status variable is considerably more important to the risk of first birth. Regardless of age cohort, the risk is significantly greater for women who had worked at some point prior to first birth, as opposed to having never worked. For these working women, however, cohort differences are striking: Between the oldest and youngest cohorts, the risk increases by almost five times that of the oldest group (1.18 versus 5.62), suggesting a steady increase in the influence of labor force participation over time. The greater risk, and hence earlier timing of first birth among more recent cohorts of working women, may reflect a motivation to return quickly to the labor force after a birth, an explanation consistent with the greater labor force attachment of younger women. The risk is also greater for working women as a whole, although the important cohort differences in the magnitude of effect are not distinguishable.
+Smaller, though significant, cohort differences are observable for the place of residence variable. The risk is lower
+
+for small town/rural women in the youngest cohort compared to the two older cohorts. However, the differences over cohorts are not large enough to draw any firm conclusions, except to say that place of residence seems slightly more important to birth timing for younger as opposed to older women. The overall lower risk obtained for the sample may reflect the more rapid onset of parenthood among urban women as a strategy for taking advantage of better economic opportunities through earlier reentry into the labor market.
+Not surprisingly, contraceptive practice prior to first birth has an important effect on its timing: Women in all three age cohorts who initiated contraceptive use before first birth are at consistently lower risk than women who did not use contraceptives. It is interesting to note, however, that the effects of contraceptive use are fairly constant across all cohorts.
+As suggested by earlier studies, none of the ethnic affiliation categories are significantly associated with the risk of first birth. Place of birth, alternatively, is more important in that foreign born have a significantly lower risk of first birth compared to Canadian born, a result which may be explained by selective immigration policies favoring applicants of higher socioeconomic status. However, this background variable may be losing its importance in fertility decisions as revealed by its nonsignificance in the youngest cohort.
+Although residence in Quebec compared to elsewhere in Canada reduces the likelihood of first birth to a significant degree, no dramatic cohort differences are apparent. The oldest
+
+Vol. 39, No. 1-2
+
+Education and Timing of Parenthood
+
+119
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+group of Quebec residents are, however, at slightly lower risk compared to their younger counterparts. Nevertheless, the overall group risk corresponds fairly closely to those for the separate cohorts.
+From among the categories of marital status, cohabitation at the time of first birth has an increasing though nonsignificant impact across cohorts. A previous marriage by the time of first birth reduces the risk, but only for the 30 to 39 cohort. In contrast to these two marital status categories, the results for married women evidence a clear cohort difference. While the two oldest groups experience a significantly higher risk (67 and 30 per cent respectively) than the never-married, this is not the case for the youngest cohort--an indication that marriage is becoming less and less important to successive generations of Canadian women in determining first birth timing.
+Finally, we examine the relative risks associated with the categories of primary interest, namely education. Striking differentials can be seen in these relative risks shown in Table 1: (a) among women with varying levels of education; (b) over cohorts; and (c) in their magnitudes both among levels and over cohorts. Women with 14 or more years of education have lower risks than those with 9 to 13 years of education, whose risks are, in turn, lower than those with less than 9 years of education. This steady decrease in risks associated with increasing levels of education holds true for all cohorts. Thus, the overall pattern of risks among levels of education and over cohorts is consistent with the hypotheses formulated earlier--a strong negative
+
+relationship and hence a strong delaying effect on timing of parenthood.
+This general pattern of direction of effects agrees with that obtained by Rao and Balakrishnan (1988) using the same data set and the same modelling technique. The magnitude of effects are, however, stronger in this study, substantiating the theoretical expectations outlined in the previous section. There are two reasons why such strong effects are obtained here. First is the manner in which the education variable has been measured in this study: number of years of schooling estimated at the time of first birth as opposed to number of years of schooling at the time of the survey. This underscores the importance of measuring the characteristics of interest as close as possible to the appropriate time point as required by the hazard modelling procedure. Adherence to proper procedures helps to determine with confidence the real pattern of influence of education. Second, the effects are stronger not only because of a simple adherence to proper procedures but also because the sampling bias introduced by restricting the analysis to ever-married women has been eliminated in this study. (For an illustration of this type of sampling bias in fertility analysis, compare and contrast Rodriguez and Cleland (1981) with Cochrane (1983).)
+That the overall pattern holds true for all cohorts needs special attention, especially in the light of controls for a variety of other characteristics frequently hypothesized to be associated with education and birth timing. The existence of the same pattern over cohorts irrespective of the obvious changes in the content and social sig-
+
+120
+
+De Wit and Rajulton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+nificance of education over time can be taken to mean that higher education invariably delays the timing of parenthood in the present as it did in the past. Moreover, the effects or estimated risks are of education net of other social and economic variables considered in the model; they thus denote a "direct" effect of education. While many researchers doubt, with the convincing evidence of the role of the intermediate fertility variables, whether there can be any direct effect of education at all, it seems likely, as Kasarda et al. (1986, p. 95) have argued, that education does indeed directly affect fertility decisions, since it influences "a wide spectrum of social-psychological orientations in women, including freedom from tradition, greater faith in science and technology, heightened aspirations for themselves and their children, attitudes and sentiments towards smaller families" which are almost impossible to capture and measure in a formal way. As such, the impressive significance of education observed in this study does suggest that educational attainment has a unique influence on the timing of parenthood.
+Perhaps it may be argued that the control variables used in the model do not adequately capture their own effects since many of them are influenced by education as well. However, the substantial magnitudes obtained for education do not support this conclusion. Besides the fact that, of all the variables used in the model only education has such large effects, the magnitudes themselves reveal that education appears to be increasingly important over cohorts in explaining variations in the timing and risks of first birth. A woman belonging to the oldest
+
+cohort with less than 9 years of formal schooling has 167 per cent greater risk than a woman with 14 or more years of schooling in her own cohort. By contrast, a woman with less than 9 years of schooling in the youngest cohort is at 514 per cent greater risk compared to a woman from the same age category with 14 or more years of education. Even though the operational definition of education, namely, years of formal schooling, cannot capture the quality and the content of schooling, such large magnitudes of effects can be explained only by the conspicuous changes in value orientations and preferences resulting from the change in the content and social value of education. In other words, the greater influence of education among more recent cohorts is consistent with the changing nature of formal education itself and its growing importance for fertility questions in modern society. This aspect, along with possible changes in the underlying hazard over cohorts, should be the focus of more in-depth analyses in future research.
+CONCLUSIONS
+This study was primarily concerned with examining the influence of educational attainment on the timing of first birth among different cohorts of women of childbearing age. While a number of variables are found to be useful in differentiating women according to the level of risk, the results of the proportional hazards model indicate that for women of all age groups, education at first birth exerts a strong and significant negative impact on the risk of first birth (or alternatively, a significant positive impact on
+
+Vol. 39, No. 1-2
+
+·Education andTiming of Parenthood
+
+121
+
+timing of parenthood). Important co- importance of education for fertility hort differences are also evident, how- decisions among younger cohorts of ever, with thegreatest to thesmallest women. Further, thesignificance of edinfluence from the youngest tothe old- ucation, net ofall other socioeconomic est cohorts. These substantial varia- and demographic variables in the tions in therisks associated with edu- model, suggests that theoretical explacation may be explained by the nations for the education-birth-timing relatively recent changes in the dura- connection should place greater emtion, content and social significance of phasis on normative or ideational difformal schooling, allof which in com- ferences associated with different levbination have augmented the relative els of education.
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+REFERENCES
+
+BALAKRISHNAN, T. R., G. E. EBANKS, and C. F.
+GRINDSTAFF. 1979. Patterns of fertility in Canada. Statistics Canada, Ottawa.
+BALAKRISHNAN, T. R., K. KROTKI, and E.
+LAPIERRE-ADAMCYK. 1985. Contraceptive use in Canada, 1984. Fam. Plan. Persp. 17:209215.
+BALAKRISHNAN, T. R., K. V. RAO, K. J. KROTKI,
+and E. LAPIERRE-ADAMCYK. 1988. Age at first birth and lifetime fertility. J. Biosoc. Sci. 20:167-174.
+BALAKRISHNAN, T. R., and J. CHEN. 1990. Reli-
+giosity, nuptiality and reproduction in Canada. Canad. Rev.Sociol. Anthropol. 27:316340.
+BIRDSALL, N., and L. A. CHESTER. 1987. Contra-
+ception and the status ofwomen: What is the link? Fam. Plan. Persp. 19:14-18.
+BLAKE, J., and J. DEL PINAL. 1982. Educational
+attainment and reproductive preferences: Theories and evidence. In C. Hohn and R. Makensen (eds.). Determinants of fertility trends: Theories re-examined. International Union for the Scientific Study of Population. COCHRANE, S. H. 1983.Effects of education and urbanization on fertility, p. 587-626. In R. A.Bulatao, R. D.Lee,P.E. Hollerbach, and J. P. Bongaarts (eds.). Determinants of fertility in developing countries, Vol. 2, Fertility regulation and institutional influences. Academic Press, New York. Cox, D. R. 1972.Regression models and life tables (with discussion). J. Roy. Statist. Soc. (Ser. b) 34:184-220. DAY, L. H. 1983. Analysing population trends: Differential fertility in a pluralistic society. St. Martin's, New York. DE WIT, D.J. 1991. Determinants of the timing of labour force exits andre-entries for evermarried, ever-worked women in Canada: A hazard model analysis. Ph.D. dissertation, Dept. of Sociology. Univ. of Western On-
+
+tario, London, Ontario. Unpublished manuscript. GREELEY, A. M. 1974. Ethnicity in the United States. Wiley, New York.
+GRINDSTAFF, C. F., T. R. BALAKRISHNAN, and
+D. J. D EWIT. 1991. Educational attainment, age at first birth and life time fertility: An analysis of Canadian Fertility Survey data. Canad. Rev. Sociol. Anthropol. 28:324-339.
+GRINDSTAFF, C. F., T. R. BALAKRISHNAN, and
+P. S. MAXIM. 1989. Life course alternatives: Factors associated with differential timing patterns in fertility among women recently completing childbearing, Canada 1981. Canad. J. Sociol. 14:443-460.
+HEATON, T. B., D. T. LICHTER, and A. AMO-
+ATENG. 1989. The timing of family formation: Rural-urban differentials in first intercourse, childbirth, and marriage. Rural Sociol. 54:116.
+HOFFERTH, S. L., and K. A. MOORE. 1979. Early
+childbearing and later economic well-being. Amer. Sociol. Rev. 44 (Oct.):785-815. HOFFMAN, L. 1974. The employment of women, education, and fertility. Merrill-Palmer Quart. Behav. Develop. 20:99-119.
+JACOBSON, C . K., T. B. HEATON, and K. M . TAY-
+LOR. 1988. Childlessness among American women. Soc. Biol. 35:196-197. KASARDA, J. D. 1979. How female education reduces fertility: Models andresearch needed. Mid-Amer. Rev. Sociol. 4:1-22.
+KASARDA, J. D . , J. O. G. BILLY, and K. WEST.
+1986. Status enhancement andfertility: Reproductive responses to social mobility and educational opportunity. Academic Press, New York.
+LESTHAEGHE, R., and G. MOORS. 1990. Rational-
+ity, cohorts and reproduction. Paper presented at theConference on Population,Society andDemographic Policies for Europe. Turin, 4 - 6 April, 1990.
+
+122
+
+De Wit and Rajulton
+
+Social Biology
+
+MARINI, M. M. 1984. Women's educational at-
+
+economic determinants of marital fertility in
+
+tainment and the timing ofentry into parent-
+
+twenty countries: A multivariate approach,
+
+hood. Amer. Sociol. Rev. 49:491-511.
+
+p. 325-425. In World Fertility Survey Con-
+
+MAXWELL, N. L. 1987. Influences onthetiming
+
+ference, 1980, record ofproceedings. Vol.2.
+
+of first childbearing. Contemp. Pol. Iss. ISI, Voorburg, Netherlands.
+
+5:113-122.
+
+TEACHMAN, J. D. 1985. The declining signifi-
+
+O'CONNELL, M., and C. C. ROGERS. 1982. Dif-
+
+cance of first birth timing. Demography
+
+ferentia! fertility in the United States: 1976- 22:185-198.
+
+1980. Fam. Plan. Persp. 14:281-286.
+
+WAITE, L. J., and K. A. MOORE. 1978. The im-
+
+RAJULTON, F., T. R. BALAKRISHNAN, and J.
+
+pact ofan early first birth on young women's
+
+CHEN. 1990. Changes in the timing of
+
+educational attainment. Soc. Forc. 56:845-
+
+fertility--a Canadian experience. J. Biosoc.
+
+865.
+
+Sci. 22:33-42.
+
+WINEBERG, H. 1988. Education, age atfirst birth,
+
+RAO, K. V., and T. R. BALAKRISHNAN. 1988.
+
+and the timing of fertility in the United
+
+Age atfirstbirth inCanada: Ahazard model
+
+States: Recent trends. J. Biosoc. Sci. 20:157-
+
+analysis. Genus 44:53-72.
+
+165.
+
+RINDFUSS, R. R., L. BUMPASS, and C. ST.JOHN.
+1980. Education and fertility: Implications for the roles women occupy. Amer. Sociol. Rev. 45:431-447.
+
+WINEBERG, H., and J. MCCARTHY. 1986. Differ-
+ential fertility in the United States, 1980: Continuity or change? J. Biosoc. Sci. 18:311324.
+
+. 1983. Social determinants of age at first WOLFE, B. L. 1980. Childbearing and/or labor
+
+birth. J. Marr. Fam. 45:552-565.
+
+force participation: The education connec-
+
+RODRIGUEZ, G., and J. CLELAND. 1981. Socio-
+
+tion. Res. Pop. Econ. 2:365-385.
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+

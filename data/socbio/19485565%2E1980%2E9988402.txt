@@ -1,0 +1,182 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Hereditary genius: A centennial problem in resolution of cultural and biological inheritance
+N. E. Morton & D. C. Rao
+To cite this article: N. E. Morton & D. C. Rao (1980) Hereditary genius: A centennial problem in resolution of cultural and biological inheritance, Social Biology, 27:1, 48-52, DOI: 10.1080/19485565.1980.9988402 To link to this article: http://dx.doi.org/10.1080/19485565.1980.9988402
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 6
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:38
+
+Hereditary Genius: A Centennial Problem in Resolution of Cultural and Biological Inheritance
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+N. E. Morton and D. C. Rao
+Population Genetics Laboratory University ofHawaii Honolulu, Hawaii
+
+ABSTRACT:Galton believed that his data on hereditary genius support purely genetic inheritance. On the contrary, analysis under a simple model shows no clear resolution of genetic and cultural inheritance in this material, or generally, unless adoptive relations, monozygous twins, and/or environmental indices are included in a design adequate to test the assumptions under which they are informative.
+
+The publication of Hereditary Genius (Galton, 1869) was greeted enthusiastically by a generation that ignored Mendel. Charles Darwin wrote to the author, his cousin Francis Galton, "I do not think that I ever in all my life read anything more interesting and original,"
+A century later Galton is remembered as a pioneer in statistics and human genetics, but the reputation of Hereditary Genius has declined. This is partly due to dissatisfaction with the phenotype as an object of genetic study, but the more important factor has been reluctance to accept Galton's postulate that family environment is a negligible cause of family resemblance.
+Our interest in these data is not to rehabilitate them, but to ask a general question: Could data of this type, collected for a suitable trait under impeccable standards, resolve cultural and biological inheritance? The answer has important implications for genetic epidemiology and behavior genetics.
+MATERIALS AND METHODS
+Galton denned a genius as "a man endowed with superior faculties." About
+
+250 such men are found per million adult males. To diagnose genius he relied on reputation as reflected by select biographical dictionaries. Starting with 951 probands of various kinds (judges, statesmen, commanders, literati, scientists, poets, artists, and divines), he tabulated how many of their male relatives of each degree were also eminent. We shall not labor the ascertainment and diagnostic problems in this endeavor, except to note that the number of undistinguished relatives could not be determined. As the reference population is limited to adult males, we assume that on the average each proband has one classifiable son, two uncles, two grandsons, and so on. Familial resemblance is strikingly manifest (Table 1). Heterogeneity between reciprocal relatives is significant, reflecting uncertainty in number of relatives at risk and perhaps variable ascertainment. We take the mean square among replicates as error (19.43/5 = 3.89).
+Further analysis is based on a simple linear model for the continuous liability scale underlying "eminence" (Figure 1). The phenotype on that scale is the sum of contributions from genotype (G), transmissible environment (C), and random
+
+48
+
+Vol. 27, No. 1
+
+Hereditary Genius
+TABLE 1
+FREQUENCY OF HEREDITARY GENIUS (Galton, 1869)*
+
+49
+
+Relatives of Probands
+Brothers Fathers Sons Uncles Nephews Grandfathers Grandsons First cousins Great-uncles Great-nephews Great-grandfathers Great-grandsons
+
+Estimated No. of Relatives
+951
+951 951 1,902 1,902 1,902 1,902 3,804 3,804 3,804 3,804 3,804
+
+Eminent Relatives
+123 941 145 J 541 66 J 501 42 J 40 151
+1309 J
+9j
+
+Heterogeneity
+X2
+12.45 1.24 0.71
+5.03 0.00
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+·Total Xj = 19.43;p<0.005;errorvariance = 19.43/5 = 3.89
+
+environment (£). Transmissible environment is determined partly by parental environments andpartly by a random residual. Assortative mating is assumed to be based onphenotype. (We verified that for these relationships exactly the same likeli-
+
+hoods areobtained under apurely cultural model if assortative mating isbased on social stratification with a correlation u between transmissible parental environments). Since eminence is judged posthumously or in old age, intergenerational differences are not assumed for genetic heritability (h2) or cultural heritability (c2). Because Galton did not define his phenotype in females, we cannot discriminate maternal effects by distinguishing the paths from father's and mother's transmissible environments. This model in four parameters (Table 2) is a special case of a more general path model (Rao et al.,1979).
+
+TABLE2
+DEFINITION OFPATH COEFFICIENTS
+
+Fig.l.--Path diagram fortransmission of hereditary genius {PF,PM, Pc) in nuclear families.Subscripts F, M, Cdenote father, mother, and child, respectively. Causes G and C denote genotype and transmissible environment. Residual paths are not shown. See Table 2 fordefinition of the parameters.
+
+Symbol
+
+Definition
+Effect ofgenotype on phenotype (square-root of "heritability") Effect of transmissibleenvironment on phenotype Effect of parent's environment on that ofchild Primary correlation between parental phenotypes
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+50
+
+Morton and Rao
+
+Social Biology
+
+Here we must fit this scheme not to quantitative phenotypes, for which it was developed, but to the dichotomy of eminent vs. undistinguished, where the frequencies are functions of the tetrachoric correlation on the primary liability scale (Kendall, 1973). Goodness-of-fit of the observed frequencies («,) among various relatives to those expected (h) under the linear model is measured by the likelihood ratio test
+where the summation is taken over eminent as well as undistinguished categories of all types of relatives fitted. This residual X2 would be used to test hypotheses if homogeneity among replicates were tenable. However, since total heterogeneity between reciprocal relatives (fathers and sons, etc.) is significant, we perform tests of hypotheses in terms of F-ratios:
+F(k,5) = vf2/kf
+where k is the degrees of freedom for X2. Theoretical details of the method are given elsewhere (Rao et al., 1979).
+The results show that cultural and genetic inheritance are not well resolved (Table
+
+3). The highest likelihood (smallest X2) is given by pure cultural inheritance, but the fit is not signficantly better than for pure genetic inheritance:
+66.25- 54.32 f 2(3.89)
+In fact, fixing h at a high value of 0.7 leads to only slight increase in the X2. By a X2 test, ignoring significant heterogeneity among reciprocal relatives, the hypothesis of pure genetic inheritance is excluded (X2 = 66.25 - 54.32 = 11.93), but the hypothesis of pure cultural inheritance is not (X2 = 54.32 - 54.32 = 0.00). However, this test is hardly appropriate. When/=Vi the two kinds of inheritance are completely confounded and all values of h from 0 to 1give X2 = 66.25. Therefore, the suggestively better fit of the purely cultural model is entirely due to excess of/ over 1/2. Goodness-of-fit of the cultural model is presented in Table 4. The best generalized single locus model under random mating gives X2 = 370.78 for no dominance. The fit is much poorer than for a polygenic model, which accommodates high recurrence in relatives through assortative mating.
+
+TABLE3
+PATH ANALYSIS OF HEREDITARY GENIUS
+(PARAMETERS FIXED UNDER HYPOTHESES IN PARENTHESES)
+
+Hypothesis
+All data General No genetic heritability h = 0.7 No cultural heritability
+Excluding "great" relatives General No genetic heritability No cultural heritability
+
+RESIDUAL
+\2
+
+l.f.
+
+ESTIMATES OF PARAMETERS
+hcf p
+
+54.32 54.32 56.43 66.25
+5.18 5.18 7.44
+
+3 0.00 1.00 0.54 0.25 4 (0) 1.00 0.54 0.25 4 (0.7) 0.58 0.57 0.27 5 1.00 (0) (0) 0.37
+1 0.00 1.00 0.52 0.35
+2 (0) 1.00 0.52 0.35
+3 1.00 (0) (0) 0.40
+
+Vol. 27, No. 1
+
+Hereditary Genius
+
+TABLE 4
+GOODNESS-OF-FIT OF THE CULTURAL MODEL (h = 0) TO HEREDITARY GENIUS
+
+51
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+RELATION
+Brothers Fathers and sons . . . . Uncles and nephews Grandfathers and grandsons First cousins Great-uncles and great-nephews Great-grandfathers and great-grandsons
+
+EMINENT MEN
+
+Observed
+
+Expected
+
+123 126.6 239 187.8 120 108.6 92 85.6 40 31 6
+45 63.1 18 52.2
+
+EXPECTED CORRELATION
+0.719 0.670 0.482 0.449 0.323 0.323 0.301
+
+Ascertainment of eminent remote relatives is incomplete and the estimate of their number unreliable. When the "great" relatives are excluded on this account, estimates are virtually unchanged and there is no resolution of genetic and cultural inheritance even by the X2 test (Table 3).
+The conclusions with respect to Galton's data are clear. He was misled by hereditarian prejudice and lack of a quantitative theory into imputing evidence where virtually none was available. The direction of the evidence slightly favors pure cultural inheritance. If he were alive today, he would have occasion to reaffirm his great dictum which appears on the inside cover of Annals of HumanGenetics:
+General impressions are never to be trusted. Unfortunately when they are of longstanding they becomefixedrules of life and assume a prescriptive right not to be questioned. Consequently those who are not accustomed to original inquiry entertain a hatred and a horror of statistics.They cannot endure the idea of submitting their sacred impressions to cold-blooded verification. But it is the triumph of scientific men to rise superior to such superstitions, to desire tests bywhich the valueof beliefs may be ascertained, and to feel sufficiently masters of themselves to discard contemptuously whatever may be found untrue.
+The primary interest of these data on
+
+hereditary genius is not the anecdotal one of proving indeterminacy in a particular case. No data can resolve genetic and cultural inheritance (by testing the subhypotheses/i = Oandc = 0)unless: (^relatives are included which vary one component while the other is held constant, or (2) the relevant environment is estimated by an index.
+Of critical relationships monozygous twins have complete genetic identity, with an environmental covariance that for some traits and populations may be no greater than for sibs. This may be tested indirectly by fitting a simple model to several relationships including dizygous twins. The children of monozygous twins are also informative, under assumptions about environmental covariance that must be tested. The model of Figure 1 and its generalization give logically consistent expectations in terms of the same parameters (h, c,f, p, etc.) as nuclear families and other common relationships (Rao et al., 1979)
+So far environmental indices have been applied with success to quantitative data, but even the theory has not been implemented for qualitative traits (Rao et al., 1979; Rao et al., 1979). The intercorrelations of indices and phenotypes give many residual degrees of freedom for testing assumptions, even in nuclear families. For resolution, the index must be a good
+
+52
+
+Morton and Rao
+
+Social Biology
+
+measure of relevant environment but is not required to be excellent, i.e., the path coefficient from environment to index should not approach zero, but need not approach unity.
+Investigators in genetic epidemiology and behavior genetics should be aware that collection and publication of data on common relationships without indices are of limited value, since they cannot resolve cultural and biological inheritance. Most risks used in genetic counseling are simi-
+
+larly flawed. While they lead to no appreciable error for common relationships whether inheritance is genetic or not, their validity for adopted children, half-sibs, and other uncommon relationships is questionable.
+ACKNOWLEDGMENTS
+This work was supported by grants GM 17173 and GM 24941 from the U.S. National Institutes of Health.
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+REFERENCES
+
+GALTON, F. 1869. Hereditary genius. Wm. Collins Sons & Co., London.
+KENDALL, M. G. 1973. The advanced theory of statistics, Vol. II. 34th ed. C. Griffin Co., London.
+RAO, D. C., H. E. MORTON, and C. R.
+CLONINGER. 1979. Path analysis under generalized assortative mating. I. Theory. Genet. Res. 33: 175-188.
+RAO, D. C., N. E. MORTON, J. M. LALOUEL, and
+
+R. LEW. 1979a. Analysis of family resemblance. I. Path analysis of quantitative data under mixed homogamy. Population Genetics Laboratory Technical Report No. 2, University of Hawaii, Honolulu.
+. 1979b. Anlaysis of family resemblance. II. Path and segregation analyses of attribute data. Population Genetics Laboratory Technical Report No. 7, University of Hawaii, Honolulu.
+
+

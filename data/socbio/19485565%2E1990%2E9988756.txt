@@ -1,0 +1,757 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Are heritability estimates generalizable? Lack of evidence from crosssample correlations
+Ian R. Nicholson
+To cite this article: Ian R. Nicholson (1990) Are heritability estimates generalizable? Lack of evidence from crosssample correlations, Social Biology, 37:3-4, 147-161, DOI: 10.1080/19485565.1990.9988756 To link to this article: http://dx.doi.org/10.1080/19485565.1990.9988756
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:43
+
+Are Heritability Estimates Generalizable? Lack of Evidence from Cross-sample Correlations
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Ian R. Nicholson
+Department of Psychology Social Science Centre University of Western Ontario London, Ontario, Canada
+
+ABSTRACT: The majority of research indicates that estimates of heritability are not generalizable beyond the specific sample on which they have been calculated. This research has been limited, however, in its scope. The present set of investigations center upon an examination of previously reported heritability estimates for the scales of the Minnesota Multiphasic Personality Inventory (MMPI). The first investigation correlates the estimates for eight samples derived from a variety of published studies. The second investigation correlates the DZ twin pair and MZ twin pair intraclass correlations from four of the first investigation's samples. The third investigation correlates the estimates from one study in which the same sample was tested twice over a period of less than five years. It is concluded that no evidence is available for the generalizability of these estimates of MMPI scale heritability either across samples or even across time with the same sample.
+
+The issue of differences in the heritability of personality traits has been under dispute for several years (e.g., Ahern et al., 1982; Carey, 1978; Carey et al., 1978; Loehlin, 1978,1982,19866; Vandenberg, 1967; Zonderman, 1982), although there is growing agreement that such differences probably exist (Loehlin, 1986a). There is no agreement across studies, however, as to what traits are more heritable than others. Such heritability estimates usually are viewed as properties of a sample or population. With this consideration in mind, Gottesman (1966) wrote that the heritability of a personality trait should be viewed as "sample specific until proved otherwise" (p. 201). Several researchers have since attempted to find support for the generalizability of heritability estimates of specific traits.
+
+Vandenberg (1967) compared the heritability estimates described in separate studies for the scales of both the Minnesota Multiphasic Personality Inventory (MMPI; Hathaway and McKinley, 1951) and the High School Personality Questionnaire (HSPQ; Cattell et al., 1958). Three separate samples were available for the heritability component of both of these tests. Vandenberg concluded that, while there was evidence for significant hereditary variance, there was considerable fluctuation among the samples in their estimates.
+Cross-sample mathematical comparisons were undertaken by Loehlin and Nichols (1976) for each set of these estimates (MMPI and HSPQ). In neither set of comparisons were any of the coefficients of concordance significant. Loehlin and Nichols concluded "that,
+
+147
+
+148
+
+Nicholson
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+while identical twin pairs tend to be more similar than fraternal pairs, it is difficult to demonstrate that they are consistently more similar on some traits than others" (p. 46).
+In another examination of the replicability of heritability estimates, Carey et al. (1978) correlated these estimates from five samples of twins that were derived from three separate studies employing the California Psychological Inventory (CPI; Gough, 1955). The results indicated that only 1out of the 10 possible between-sample correlations of their heritability estimates was significant. The DZ and MZ twin pair intraclass correlations were then separately correlated across samples. This set of correlations gave evidence for a high degree of replicability across samples for the MZ correlations but not for the DZ correlations. Carey et al. concluded that the MZ twin correlations were replicable across samples but that this replicability was not supported for the heritability estimates.
+One byproduct of this lack of strong, consistent evidence for cross-sample replicability of scale heritabilities was the investigation of item heritability. It was hypothesized that one consequence of combining the items into scales was that the genetic and environmental influence of the more narrowly defined content areas could be blurred. While research has indicated that some CPI items may be classed into high heritability and low heritability groups (Horn et al., 1976), there is often little consistency across samples as to what items are in which group (Loehlin, 1986a; Loehlin and Nichols, 1976). Loehlin (1986a) concluded that, since such classifications for items are not dependable across separate samples, attempting to estimate the heritability of items in a personality
+
+scale is probably not a useful procedure. Instead, "we need to focus our measuring instruments more sharply, or at least differently, in order to understand the structure of genetics and environmental influences on personality" (p. 602).
+Different methods have been applied for the estimation of the degree of heritability of personality traits. Heritability estimates have been calculated for item clusters (e.g., Loehlin, 1987), orthogonal factors derived from items (e.g., Rose, 1988), as well as orthogonal factors derived from item clusters (e.g., Loehlin, 1982). No one specific method, however, has been applied frequently enough to allow for investigations of consistency across samples.
+Thus, while there is growing evidence for differential heritability among scales within a particular sample, the evidence is unclear as to how generalizable these estimates are across different samples. Those studies of personality that have compared previously reported heritability estimates from separate samples have not been generally supportive (e.g., Carey et al., 1978). These comparisons, however, have been limited to only two or three samples. The purpose of the present set of investigations is to research further the generalizability of heritability estimates by an examination of estimates reported for the most popular of objective personality assessment devices: the MMPI.
+This examination will take place in three parts. Instead of comparing only two or three sets of heritability estimates, the first portion of this study will examine eight sets of estimates. The second portion will examine the consistency among four samples for the DZ and MZ twin pair intraclass correlations. The final portion examines two sets of estimates that were derived from
+
+Vol. 37, No. 3-4
+
+Heritability Estimates
+
+149
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+the same sample with a period of less ated with one another. In addition,
+
+than five years between them. With the these heritability estimates were also
+
+perspective which might be gained from correlated with the estimates of each
+
+such a comparison of a larger number of scale's reliability. These correlations
+
+heritability estimates and intraclass cor- were undertaken to overcome any dif-
+
+relations, it is hoped that stronger state- ficulties due to the MMPI scale herita-
+
+ments may be made with regard to their bility estimates being related directly to
+
+generalizability. Furthermore, employ- the differential reliability of its scales.
+
+ing such a method will allow for the pos- For all of these correlations, the largest
+
+sible expression of patterns as to what possible number of scales were always
+
+variables might affect generalizability as included. The sources for these sets of
+
+well as pointing to areas for future inves- estimates were as follows:
+
+tigation.
+
+1. Minnesota twins.--Gottesman
+
+(1963) reported on research on the heri-
+
+MATERIALS AND METHODS tability of personality based on high
+
+INVESTIGATION I
+
+school students in Minneapolis and St. Paul, Minnesota. This sample consisted
+
+Method.--The. MMPI consists of 550 of34DZ (11male and 23 female) and 34
+
+items, combining to form 10 clinical MZ (12 male and 22 female) twin pairs.
+
+scales (e.g., Hysteria, Paranoia) and Estimates were calculated by Gottes-
+
+three validity scales (e.g., Lie). It has man by employing the formula
+
+been described repeatedly as being the H = (VDZ - VMZ) I VDZ where VDZ
+
+most widely used objective personality equaled the within-DZ pairs variance
+
+assessment device in a wide variety of estimate (mean square) and VMZ settings (Brown and McGuire, 1976; equaled the within-MZ pairs variance
+
+Lubin et al., 1985; Piotrowski et al., estimate (mean square). The estimates
+
+1985). Furthermore, it is viewed as be- of heritability adopted for the present
+
+ing the most important objective per- investigation included those estimates
+
+sonality test to learn in clinical training from the 10clinical scales and the 5 addi-
+
+centers (Moreland and Dahlstrom, tional scales.
+
+1983; Wade and Baker, 1977).Psychological Abstracts reports almost 5000 references to the MMPI between 1966 to 1988. The present study will focus on the 10 original clinical scales as well as fiveadditional scales (K, Ego-Strength, Anxiety, Repression, and Dysphoria).
+
+2. Harvard twins.--Gottesman (1965) calculated scale heritability estimates for the 10 clinical scales of the MMPI. These were based on 68 pairs of DZ twins and 82 pairs of MZ twins from high schools in the greater Boston area. These values were listed as "preliminary
+
+In reviewing the literature on the analyses" and employed the same
+
+MMPI, eight different sets of heritabil- method of analysis as Gottesman ity estimates were discovered (see Table (1963).
+
+1). The number of estimates available in Dworkin et al. (1976), in a follow-up
+
+each set ranged from 8 to 15, depending study of this same sample of twins, listed
+
+on which of the MMPI's scales that par- revised F ratios for the significance of
+
+ticular study described. To determine genetic variance estimates. Three MZ
+
+the degree of their generalizability, twin pairs were dropped leaving 68 DZ
+
+these sets of estimates were then correl- (32 male and 36 female) and 79 MZ (34
+
+I/I
+o
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE 1
+HERITABILITY ESTIMATES FOR SCALES OF THE MINNESOTA MULTIPHASIC PERSONALITY INVENTORY ( M M P I )
+
+MMPI SCALES
+Hypochondriasis Depression Hysteria Psychopathic deviate Masculinity-femininity Paranoia Psychasthenia Schizophrenia Hypomania Social introversion K Ego-strength Anxiety Repression Dysphoria
+
+MINNESOTA
+Twins
+0.16 0.45 0.00 0.50 0.15 0.05 0.37 0.42 0.24 0.71 0.06 0.00 0.21 0.00 0.24
+
+HARVARD
+Twins
+0.00 0.44 0.34 0.04 0.27 0.41 0.32 0.03 0.15 0.41 0.01 0.26 0.11 0.19 -0.24
+
+HARVARD SUBSETS
+
+Adolescent
+
+Adult
+
+0.07 0.63
+0.50 0.57 0.65 0.67 0.33 0.53 0.37 0.35 -0.14 0.41 0.09 0.12
+026
+
+0.46 -0.14
+-0.15 0.14 0.20
+-0.33 0.05
+-0.52 0.51 0.35 0.36 0.53 0.64 0.32
+O70
+
+CONNECTICUT
+
+Twins I
+
+Twins II
+
+0.57 0.38
+0.63 0.35 0.58 0.44 -0.22 0.29 0.39 0.51 ...» ...
+
+0.95 0.85
+1.83 -0.11
+2.21 1.83 1.36 0.83 3.88 1.60 0.04 1.11
+
+. .;
+
+"Ellipsis dots ( . . . ) indicate that these estimates were not reported or could not be calculated from the information provided.
+
+MINNESOTA
+Families
+0.00 0.09 0.00 0.04 0.14 0.36 0.30 0.21 0.19 0.14 0.10
+,,_.
+
+TEXAS
+Families
+0.09 0.24 0.40 0.16 ... 0.21 0.53 0.47 0.25 ... ...
+
+RELIABILITY
+ESTIMATES
+0.75 0.81 0.78 0.81 0.73 0.73 0.84 0.82 0.71 0.81 0.82
+i_^__
+
+Z g] £. S
+3
+
+5'
+
+Vol. 37,No. 3-4
+
+HeritabilityEstimates
+
+151
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+male and 45 female) pairs in the sample. 6. Connecticut twins II.--Dies et al.
+
+This study also reported on the five addi- (1969) reported on MMPI research on
+
+tional scales. It is from the values listed personality and smoking patterns. The
+
+in Dworkin et al. that the heritability es- sample consisted of 37 DZ twin pairs
+
+timates representing the "Harvard and 39 MZ twin pairs obtained through
+
+twins" were calculated. The heritability the Connecticut Twin Registry. Dies et
+
+estimates for the present investigation al. reported that all subjects were born
+
+were calculated from using the formula in 1947 or earlier and the gender distri-
+
+H= (F-1)I F.
+
+bution was approximately equal across
+
+3. Harvard twins (subset-adolescent).--Dworkinet al. (1976) reported on a longitudinal study of the heritability of personality traits for the subjects in Gottesman (1965). Forty-two pairs of twins from the initial study were available for a follow-up testing (approxi-
+
+groups. For the present investigation, data was adopted for the 10 clinical scales and 2 additional scales (EgoStrength and K). It should be noted that no mention is made of subject overlap between this sample and the previous Connecticut twin sample.
+
+mately 12 years later). This subset was The method of heritability calcula-
+
+composed of 17 DZ pairs (9 male and 18 tion should be commented upon. Dies
+
+female) and 25 MZ pairs (9 male and 16 et al. listed intraclass correlation coef-
+
+female) with an average age of 15.9 ficientsfor scores on each of the scales
+
+years. Heritability estimates for the separately for six separate subgroups.
+
+present study were calculated from the These subgroups were "Concordant
+
+reported F ratios for the 15scales.
+
+Smoking," "Concordant Non-
+
+4. Harvard twins (subset-adult).-- smoking," and "Discordant" for both
+
+This sample consists of the same sub- the DZ and the MZ twin pairs sepa-
+
+jects from the previous example with the rately. For each scale, these correlations
+
+exception that the average age for this were transformed into Fisher's z scores.
+
+sample was 27.9 years. Once again, heri- They were then aggregated for the DZ
+
+tability estimates for the 15 scales were and MZ twin groups separately, weight-
+
+calculated from the reported Fratios. ing each subgroup according to its size.
+
+5. Connecticut twins I.--Reznikoff The two resultant average z scores were
+
+and Honeyman (1967) described a study then transformed to twin pair group inof 16 DZ and 18 MZ twin pairs from the traclass correlations.1 From these corre-
+
+Connecticut Twin Registry (average lations, an estimate of heritability was age: 39.9 years). While discussing their calculated using Nichols' HR.2
+
+findings in relation to thosefindingsde- 7. Minnesotafamilies.--Hill and Hill
+
+scribed in Gottesman (1963), they did (1973) reported on the administration of
+
+not list the estimates for the heritability the MMPI to first-born children (12
+
+of the MMPI scales. F ratios for these es-
+
+timates were later listed, however, by Vandenberg (1967) in his comparison of
+
+1Such a z-score transformation in averaging correlation coefficients reduces the effect of bias due to small set sizes, small sample sizes, and he-
+
+previous MMPI scale heritability re- terogeneity in the correlations (Silver and Dunlop,
+
+search. The present investigation em-
+
+1987; Strube, 1988). 2Nichols' HR was employed as the method of
+
+ployed heritability estimates calculated estimation from twin data since recent evidence
+
+from these F ratios for the 10 clinical scales.
+
+suggests that it may be the most theoretically sound of the broad estimates of heritability (Schonemann, 1989).
+
+152
+
+Nicholson
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+years and over) of 28 couples. What made these couples of interest was that all of the parents were administered the MMPI in 1947 while they all were in the ninth grade. The average age of the parents at this initial testing was 15.1 years for men and 14.8 years for women. For their children, the average age was 12.8 years for both sexes. To estimate scale heritabilities for the 10 clinical scales and for one additional scale (K), Hill and Hill calculated midparent-offspring regressions.
+8. Texas families.--Heritability estimates based on midparent-midoffspring regressions were calculated by Loehlin et al. (1987) for all but two of the 10 clinical scales (Masculinity-Feminity and Social Introversion were not included). The research was part of the Texas Adoption Project and the regressions were based on 81 adopted children (average age: 17.0 years) and their biological parents.
+9. Reliability.--Hunsley et al. (1988) calculated reliability estimates for the 10 clinical and 3 validity scales from the MMPI. These estimates were based on a meta-analytic investigation of calculations of internal consistency from over 70 studies published between 1970 and 1981. The resultant sample was diverse and included over 5,800 subjects for some of the scales. These estimates indicated high levels of reliability with a range between 0.71 (Hypomania) and 0.84 (Psychasthenia) for the 13 scales.
+Results and Discussion.--a cursory overview of the heritability estimates listed in Table 1 reveals the considerable variability in the estimates. For example, some of the scale estimates were outside the accepted range for a heritability estimate (0.00 to 1.00). Eight of the 15 scales had at least one negative heritability estimate. These negative es-
+
+timates were five of the eight samples. A brief comparison between the samples of these sets of estimates also reveals how they differ between samples. For example, the Psychasthenia scale has the highest of the heritability estimates from the Texas families sample but the lowest of the estimates derived from the Connecticut Twins I sample. Mathematical cross-sample comparisons, however, would allow for a more sensitive examination of the generalizability of the heritability estimates of the MMPI scales.
+An overview of these correlations, as presented in Table 2, indicate little evidence for such generalizability. Of the 18 correlations involved, only four were significant. Of these four significant correlations, only one was positive, and it involved the adolescent subset of the Harvard twins correlating with the larger adolescent sample (r = 0.50, p < 0.05). Only one of the eight correlations with reliability was significant (Connecticut Twins II; r = 0.71, p<Q.0l).
+Five sets of correlations could have been viewed as having a greater likelihood of being significant, and these possibilities will be discussed. First, the Minnesota and the Harvard twins might have been thought to have had a greater possibility of correlating significantly since the same researcher (Gottesman) employed very similar paradigms only a few years apart. Nevertheless, there was no significant correlation between the two sets of estimates (r = 0.09, ns). Second, two sets of estimates (Minnesota families and Texas families) were based on the same statistical technique (midparentoffspring regression). Their correlation might be thought to be at an advantage because of this similarity, but it was not
+
+i
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE2
+CORRELATIONS OF HERITABILITY ESTIMATES FOR SCALES OFTHEMINNESOTA MULTIPHASIC PERSONALITY INVENTORY (MMPI)"
+
+Minnesota Twins
+
+SAMPLES
+
+MINNESOTA
+Twins
+
+HARVARD
+Twins
+0.09
+
+HARVARD SUBSETS
+
+Adolescent
+
+Adult
+
+0.25 -0.14
+
+CONNECTICUT
+
+Twins I
+
+Twins II
+
+-0.32
+
+-0.16
+
+MINNESOTA
+Families
+-0.02
+
+TEXAS
+Families
+0.11
+
+RELIABILITY
+ESTIMATES
+0.47
+
+Harvard Twins
+
+15
+
+...
+
+0.506
+
+-0.446
+
+0.01
+
+0.33
+
+0.34
+
+0.23 -0.15
+
+Harvard Subsets Adolescent Adult
+
+15 . . . . 15
+
+15 15
+
+. . . - 0 . 6 3 ' 0.08 0.25 0.28 0.14 -0.34 15 . . . 0.18 0.16 -0.37 -0.49 - 0 . 1 6
+
+Connecticut Twins I Twins II
+
+10 15 12 12
+
+10 12
+
+10
+
+...
+
+0.16
+
+-0.566
+
+-0.61
+
+-0.51
+
+12 10
+
+...
+
+0.32
+
+0.09
+
+-0.78r
+
+Minnesota Families
+
+11 11
+
+11
+
+11 10 11
+
+...
+
+0.40
+
+-0.19
+
+Texas Families
+
+88
+
+8
+
+8 8 8 8 . . . 0.42
+
+Reliability estimates
+
+11 11
+
+11
+
+11 10 11 11
+
+"Values above thediagonal are the correlation coefficients, and those values below the diagonal arethe sample size employed ineach correlation. bp < 0.05. 'p < 0.01.
+
+8
+
+u_^_
+
+^
+i-
+ffi
+n
+& fj C?
+5ff1.
+§ FT
+
+154
+
+Nicholson
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+significant (r = 0.40,. ns). Third, two samples were derived for separate studies from the Connecticut twin registry but their correlation was also not significant (r = 0.16, ns). Fourth, two sets of estimates were both based on Minnesota samples, but these were not correlated significantly (r = 0.02, ns). Finally, the estimates of heritability based on data from the Harvard twins adolescent subset had a significant negative correlation with those estimates derived on the same sample when tested 12 years later (r = 0.63,p< 0.01).
+Because of the large number of correlations involved in this matrix (36 correlations), the five significant correlations might have been the result of an inflated Type I error rate. To correct for this inflation, a multistage Bonferroni procedure developed for multiple correlations was adopted (Larzalere and Mulaik, 1977). After this correction, only the correlation between the reliability estimates and the Connecticut Twins II set of estimates remained significant.
+. In light of the high negative correlation between the adolescent and adult Harvard twin subset, it was decided to further examine other data presented in Dworkin et al. (1976). Data, similar to that presented for the MMPI scales, was available for the 18 scales of the CPI. From this data, heritability estimates were calculated for the adolescent and adult subsets. These estimates were then correlated as they were with the MMPI. The result of this correlation was that the estimates of heritability calculated on the adolescent Harvard twins failed to correlate with the estimates based on their assessment 12 years later (r = 0.04, ns).
+INVESTIGATION II
+Method.--In an attempt to examine
+
+further the degree of consistency that exists among these sets of heritability estimates, we employed a method similar to that described by Carey et al. (1978). In this research, Cary et al. correlated the DZ and the MZ twin pair intraclass correlations (after these correlations were transformed to Fisher's z scores). According to the authors, correlating these estimates "allows an evaluation of the consistency of results across studies independently of whether or not the scales are, in reality, differentially heritable" (p. 304).
+In order to parallel the methodology of Carey et al., the studies used in the first investigation were reviewed. This review netted four samples that also reported both the DZ and the MZ twin pair intraclass correlations for the MMPI scales: (1) Minnesota twins (Gottesman, 1963); (2) Harvard twins (subset-adolescent; Dworkin et al., 1976); (3) Harvard twins (subset-adult; Dworkin et al.); and (4) Connecticut Twins II (Dies et al., 1969). The intraclass correlations for the MMPI scales were then transformed to z-scores and intercorrelated.
+As in the previous investigation, it could be argued that the DZ and MZ correlations are directly related to the tests' reliability. In an attempt to determine if such a relation exists, these intraclass correlations were also correlated with the estimates of each scale's reliability. The estimates used were those calculated by Hunsley et al. (1988).
+Finally, the Dworkin et al. (1976) research on the Harvard twins also listed the DZ and MZ intraclass correlations for 18 CPI scales. To further examine the effects of the passage of time on the consistency of these relations, the same procedure used for the MMPI scales was undertaken for these CPI
+
+Vol. 37, No. 3^1
+
+Heritability Estimates
+
+155
+
+TABLE 3
+CORRELATIONS BETWEEN THE SCALE INTRACLASS CORRELATIONS FOR FOUR SAMPLES'2
+
+Minnesota Twins
+
+SAMPLES
+
+MINNESOTA
+Twins
+
+HARVARD SUBSETS
+
+Adolescent
+
+Adult
+
+0.31 -0.24
+
+CONNECTICUT
+Twins II
+
+RELIABILITY ESTIMATES
+
+0.26 0.50
+
+Harvard subsets Adolescent Adult
+
+-0.14 0.23
+
+... 0.14
+
+0.576 ...
+
+-0.12 -0.10
+
+-0.01 -0.52
+
+Connecticut Twins II
+
+0.08 0.08 -0.05 . . . 0.43
+
+Reliability estimates
+
+-0.02 0.04 -0.03
+
+0.80c
+
+"Values above the diagonal are for MZ twin pairs, and the values below the diagonal are for the DZ twin pairs. V < 0.05. 'p < 0 . 0 1 .
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE 4
+CORRELATIONS BETWEEN THE M Z AND D Z TWIN PAIR SAMPLES OF THE SCALE INTRACLASS CORRELATIONS FOR FOUR SAMPLES
+
+DZ SAMPLES
+Minnesota Twins
+
+Minnesota Twins
+0.06
+
+MZ SAMPLES
+
+Harvard Subsets
+
+Adolescent
+
+Adult
+
+-0.24
+
+-0.16
+
+Connecticut Twins II
+0.03
+
+Harvard subsets Adolescent Adult
+
+-0.26 0 49"
+
+-0.23 0.32
+
+0.17 -0.12 0.03 -0.10
+
+Connecticut Twins II
+V < 0.05.
+
+0 24 -0.10 -0.32
+
+0.43
+
+scales. An examination of twin pair intraclass correlations from different samples, as well as the same sample over time, allowed for a further examination of their replicability.
+Results and Discussion.--As shown in Table 3, of the six DZ intercorrelations and the six MZ intercorrelations for the MMPI scales, only one intercorrelation was significant: Harvard adolescent MZ subset and the same subset tested 12 years later (r = 0.57, p < 0.05). Nevertheless, when a multi-
+
+stage Bonferroni procedure was employed to control for the inflated Type I error rate associated with a matrix of 6 intercorrelations (Larzelere and Mulaik, 1977), this intercorrelation was not significant. None of the DZ twin pair intercorrelations supported replicability for the MMPI scales.
+The CPI scale intercorrelations also failed to provide evidence for the consistency of intraclass correlations over time. Neither the DZ intercorrelation nor the MZ intercorrelation was signi-
+
+156
+
+Nicholson
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ficant (r = 0.22, ns) and r = 0.28, ns respectively). Thus, only the two samples which would be viewed as the most similar demonstrated any degree of significant replicability.
+In a further attempt to support the replicability of the DZ twin pair intraclass correlations, Carey et al. (1978) correlated these intraclass correlations with the MZ twin pair intraclass correlations. As can be seen in an examination of these correlations for the MMPI scales (see Table 4), only the Harvard adult DZ twin pairs correlated with any of the MZ twin pairs (Minnesota twins; r = 0.49, p < 0.05). Once again, this correlation was no longer at a level necessary for statistical significance after a multistage Bonferroni procedure was completed for a 16 correlation matrix.
+These intraclass correlations were also correlated with the estimates of reliability for the MMPI scales. As can be seen in Table 2, of the eight resultant correlations, the reliability estimates only correlated significantly with the intraclass correlations of the Connecticut DZ twins (r = 0.80, p <0.01). In this instance, the correlation remained significant after a multistage Bonferroni procedure was adopted for an eight correlation matrix. Thus, there was little evidence that either the DZ or the MZ intraclass correlations were related directly to the differential reliability of the MMPI scales.
+Intercorrelations of the CPI scale DZ and MZ heritabilities were also undertaken. The adolescent DZ twin correlations were not supported as replicable with regard to either the adolescent MZ twin pairs (r = 0.35, ns) or the adult MZ twins (r = --0.28, ns). A similar lack of evidence for replicability was found for the adult DZ twins when they were correlated with either the adolescent or
+
+adult MZ twins {r = 0.22, ns and r = 0.04, ns respectively). Thus, little evidence can be found from this series of correlations for the replicability across samples or across time for either the DZ or MZ twin pair intraclass correlations.
+INVESTIGATION III
+Method.--Two sets of MMPI heritability estimates were available from a study by Pogue-Geile and Rose (1985). In that study, 62 DZ twin pairs (24 male and 38 female twin pairs) and 71 MZ twin pairs (25 males and 46 female pairs) were solicited from the Indiana University Twin Panel. The twins (average age: 20 years) first completed the full MMPI and then, 4.5 years later, completed a shortened version of the MMPI.
+Pogue-Geile and Rose did not report on all of the MMPI scales. They did report on the two standard clinical scales (Psychopathic Deviate and Schizophrenia). They also reported on Wiggins (1966) Social Maladjustment and Religiousity scales, the Welsh (1956) A scale, and the Depression-30 scale (Dempsey, 1964). While not listing heritability estimates, they do report the DZ and MZ intraclass correlations and the Fw test. Nichols' HR, Holzinger's H, and Falconer's h2 were calculated from this data. Since the Fw's were related to the scale's heritability, they were also employed in the analysis. To determine if the heritability estimates were comparable, even within the same sample across only 4.5 years, we made correlations of these estimates.
+Results and Discussion.--None of the four correlations between the two time periods was significant. This remained true if the MMPI heritability estimates were calculated by Nichols' HR (r = -0.49, ns), Holzinger's H (r =
+
+Vol. 37,No.
+
+Heritability Estimates
+
+157
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+-0.09, ns), Falconer's h2 (r = -0.32, ns), or the Fw's (r = --0.31, ns). Thus, with two assessments done over a period of less than five years on the same sample of over 130 twin pairs, there was no evidence of any generalizability of heritability estimates for the MMPI.
+RESULTS AND GENERAL DISCUSSION
+The results of the present set of investigations offer further support for the proposal that the heritability estimates should be viewed as sample specific (Gottesman, 1966). In addition, an argument can be put forward for the discontinuation of making further inferences based on simple calculations of such broad estimates of heritability (e.g., Holzinger's H, midparentmidoffspring regression). Such estimates have been criticized previously as being biased, unreliable, and inaccurate (cf., Haviland et al., 1982; Wahlstein, 1979). In the present study, an examination of the estimates listed in Table 1 would indicate that many MMPI heritability estimates are outside the accepted range for such estimates. While these estimates may be based on theoretically sound procedures, they are often found to be in conflict with the actual empirical data (Schonemann, 1988). Such heritability estimates, however, may be useful in the initial stages of research for rough descriptions of a sample (Loehlin, 1979; Plomin and Foch, 1980). After these initial stages, the most promising method for estimating genetic and environmental variance is model-fitting.
+The testing of falsifiable mathematical models through the use of modelfitting has advanced considerably in recent years (Martin et al., 1989). During
+
+this period, it has been applied several times in attempts to determine estimates for the effects of heredity and environment to personality test scales (e.g., Carey and Rice, 1983; Loehlin, 1985) as well as their relation to other variables (e.g., willingness to drive when drunk; Martin and Boomsma, 1989^. Such studies, while more frequent than ever before (cf., Boomsma et al., 1989; Loehlin et al., 1988), have not yet provided enough data to allow for the comparison across samples of heritability estimates.
+By reviewing some of the results of model-fitting research, a degree of light can be shed on the lack of generalizability of heritability estimates. One of the strongest and most important of these results is that the assumptions which are important for fitting the best model to one trait need not be important for the model that best fits another trait (Carey and Rice, 1983; Loehlin, 1985; Rose et al., 1988; Zonderman, 1982). Some of the assumptions which have been shown to be important include the effects of assortative mating, equal environmental variance for twins, sex differences, age, and genetic dominance variance. Some of these effects can be discussed with regard to the results of the present set of investigations.
+The important effect of age on heritability estimates has been underscored by the present sets of correlations. In several instances, there was no support over time for consistency in the degree to which the MMPI scales (or the CPI scales) are affected by genetic variance, even after only 4V2 years. Similar results have been described for other personality tests (e.g., Eysenck Personality Questionnaire; Young et al., 1980). Thus, if estimates derived from methods such as Holzinger's H are to be general-
+
+158
+
+Nicholson
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ized, precautions must be taken to make certain that the samples are all of equal age. Even then, they can only be generalized to samples of equal age. Also, model-fitting should make sure to include age as a variable in analysis.
+The samples should also contain subjects of only one sex. Half of the sets of estimates were reported from twin research that also had separate estimates for men and women (e.g., Minnesota twins; Gottesman, 1963). Other results, however, only reported on combined twin samples (e.g., Connecticut Twins I; Reznikoff andHoneyman, 1967). Also, midparent-midoffspring regression analyses were based on samples which necessarily combined both sexes (e.g., Minnesota families; Hill and Hill, 1973). The present examination employed the estimates derived from combined samples in order to increase the consistency across samples. Future research, however, will need to report separate estimates or include gender in any modelfitting.
+Another important aspect of this type of research which is often not mentioned is the difficulty with the reliability of the heritability estimates (Haviland et al., 1983; Kendler, 1989). The heritability estimates involved in much of this form of research are based on correlations and difference scores. The simplest example is that of Falconer's h2: h2 = 2 (>MZ ~ rDZ). The first portions to be calculated would be the correlations which would be attenuated by any unreliability in the measure. Then, the difference would be calculated between these correlations. In an attempt to determine generalizability, correlations of these two sets of difference scores is then undertaken. As Gardner and Neufeld (1987) have pointed out, the interpretations of correlations of difference scores
+
+are difficult and equivocal (even without the addition of any difficulties inherent in the initial correlations).
+These problems are further confounded by the study's small sample sizes. Loehlin and Nichols (1976) have pointed out that a sample of 400 twin pairs of each kind would still result in a standard error of 12 per cent. This sample is considerably larger than that employed in any of the 12estimate sets employed in the present investigation. Even though the reliability estimates of the MMPI scales did not relate directly to their heritabilities or to the twin pairs intraclass correlations, they may affect the results in more complex ways which are dependent on the particular heritability model involved. Any future model-fitting will also need to incorporate the reliability of their measures into its early stages.
+The formulas which have been employed traditionally for the estimates of heritability have also been criticized for their oversimplicity. Perhaps the most important criticism has been that they often divide variance into only two broad separate factors: genetic and environment. For example, these formulas and models do not include the confounding of the factors due to genotypeenvironment interaction and correlation (Haviland et al., 1983; Plomin et al., 1977; Plomin and Loehlin, 1989). Because of the several weaknesses associated with such estimates, they should only be used in limited circumstances with specific purposes as an initial stage of examination (Thiessen, 1979).
+To summarize, the present investigations have failed to provide evidence for the generalizability of MMPI scale heritability estimates. This result is in keeping with similar research on the generalizability of estimates for CPI scales and
+
+Vol. 37, No.
+
+Heritability Estimates
+
+159
+
+items (Carey et al., 1978; Loehlin, 1986a; Loehlin and Nichols, 1976). While the majority of research on MMPI scale heritability was published more than 15 years ago, more recentresearch has been published (Loehlin et al., 1987)and is in progress at the present time (T. J. Bouchard, Personal Communication, March 17,1989). Future research employing heritability estimates ofpersonality traits should take into account thevarious problems asso-
+
+ciated with the estimates employed in the present set ofinvestigations. The future ofsuch calculations should bebased on model-fitting approaches to different methods of data collection (e.g., twin studies, adoption studies) on thesame population (Loehlin, 1979).
+ACKNOWLEDGMENTS
+I amgrateful toR.W. J. Neufeld and S. Erdle fortheir useful comments and support in the preparation ofthis manuscript.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+REFERENCES
+
+AHERN, F. M., R. C. JOHNSON, J. R. WILSON,
+G. E. MCCLEARN, and S. G. VANDENBERG.
+1982. Family resemblances in personality. Behav. Genet. 12:261-280.
+BOOMSMA, D. I., N. G. MARTIN, and M. C.
+NEALE (eds.). 1989. Genetic analysis oftwin and family data: Structural modeling using LISREL. Behav. Genet. [Special Issue] 19:3-170.
+BROWN, W. R., and J. M. MCGUIRE. 1976.
+Current psychological assessment practices. Prof. Psychol. 7:475-484. CAREY, G. 1978. Twins and personality inventories: An exploration ofreplicate measures of heritability. Behav. Genet. 8:539-540.
+CAREY, G., H. H. GOLDSMITH, A. TELLEGEN,
+and I.I. GOTTESMAN. 1978. Genetics and personality inventories: The limits of replication with twin data. Behav. Genet. 8:299313.
+CAREY, G., and J. RICE. 1983. Genetics and
+personality temperament: Simplicity or complexity. Behav. Genet. 13:43-63.
+CATTELL, R. B., D. B. BLEWETT, and J. R. BE-
+LOFF. 1955. The inheritance of personality: A multiple variance determination of approximate nature-nuture ratios for primarily personality factors in Q-data. Amer. J. Hum. Genet. 7:122-146. DEMPSY, P. 1964. Aunidimensional depression scale for the MMPI. J. Consult. Clin. Psychol. 28:364-370.
+DIES, R., M. REZNIKOFF, M.S. HONEYMAN,
+and C. WHITE. 1969. Personality and smoking patterns in a twin population. J. Proj. Tech. Personal. Assess. 33:457-463.
+DWORKIN, R. W., B. W. BURKE,B. A. MAHER,
+and I.I. GOTTESMAN. 1976. A longitudinal study of the genetics of personality. J. Personal. Soc. Psychol. 34:510-518.
+
+GARDNER, R. C., and R. W. J. NEUFELD. 1987.
+Use of the simple change score in correlational analysis. Educ. Psychol. Meas. 47:849-864.
+GOTTESMAN, I.I. 1963. Heritability of personality: A demonstration. Psychol. Monogr. 77:Whole No. 572. . 1965. Personality and natural selection, pp. 63-74. InS. G.Vandenberg (ed.), Methods and goals in human behavior genetics. Academic Press, New York. . 1966. Genetic variance in adaptivepersonality traits. J. Child. Psychol. Psychiat. 7:199-208.
+GOUGH, H. G. 1955. Manual for the California Psychological Inventory. Consulting Psychologists Press, Palo Alto,CA.
+HATHAWAY, S. R., and J. C. MCKINLEY. 1951.
+The Minnesota Multiphasic PersonalityInventory Manual. Plenum Press, New York.
+HAVILAND, J. M., T. R. MCGUIRE, and P. A.
+ROTHBAUM. 1983. A critique of Plomin and Foch's "A twin study ofobjectively assessed personality in childhood." J. Personal.Soc. Psychol. 45:633-640.
+HILL, M. S., and R. N. HILL. 1973. Hereditary
+influence on the normal personality using the MMPI: I. Age-corrected parentoffspring resemblances. Behav. Genet. 3:133-144.
+HORN, J. M., R. PLOMIN, and R. ROSENMAN.
+1976. Heritability of personality traits in adult male twins. Behav. Genet. 6:17-30.
+HUNSLEY, J., R. K. HANSON, and K. C. H.
+PARKER. 1988. A summary of the reliability and stability of MMPI scales. J. Clin. Psychol. 44:44-46.
+KENDLER, K.S. 1989. Limitations of the ratio of concordance rates in monozygotic anddizygotic twins. Arch. Gen. Psychiat. 46:477478.
+
+160
+
+Nicholson
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+LARZELERE, R. E., and S.A. MULAIK. 1977.
+Single-sample tests for many correlations. Psychol. Bull. 84:557-569. LOEHLIN, J. C. 1988. Are CPIscales differently heritable: How good is the evidence. Behav. Genet. 8:381-382.
+. 1979.Combining data from different groups in human behavior genetics, p. 303334. In J. R. Royce, and L.P. Mos (eds.), Theoretical advances in behavior genetics. Sijthoff & Noordhoff, Alphen aan den Rijn, The Netherlands.
+. 1982.Are personality traits differentially heritable? Behav. Genet. 12:417-428.
+. 1985. Fitting hereditary-environment models jointly to twin andadoption data from the California Psychological Inventory. Behav. Genet. 15:199-221.
+. 1986a. Are California Psychological Inventory items differentially heritable? Behav. Genet. 16:599-603.
+. 1986b. Heredity, environment, and the Thurstone Temperament Schedule. Behav. Genet. 16:61-73.
+. 1987. Heredity, environment, and the structure ofthe California Psychological Inventory. Mult. Behav. Res. 22:137-148.
+LOEHLIN, J. C., and R. C. NICHOLS. 1976. He-
+redity, environment, and personality: A study of 850 sets of twins. University of Texas Press, Austin,TX.
+LOEHLIN, J. C., L. WILLERMAN, and J. M.
+HORN. 1987. Personality resemblance in adoptive families: A 10-year follow-up. J. Personal. Soc. Psychol. 53:961-969.
+. 1988. Human behavior genetics.Ann. Rev. Psychol. 39:101-133.
+LUBIN, B., R. M. LARSEN, J. D. NATARAZZIO,
+and M. SEEVER. 1985. Psychological testusage patterns in five professional settings. Amer. Psychol. 40:857-861.
+MARTIN, N. J., and D. I. BOOMSMA. 1989. Will-
+ingness to drive when drunk and personality: Atwin study. Behav. Genet. 19:97-111.
+MARTIN, N. J., D . I . BOOMSMA, and M. C.
+NEALE. 1989. Foreword. Behav. Genet. 19:5-7.
+MORELAND, K. L., and W. G. DAHLSTROM.
+1983. A survey ofMMPI teaching in APAapproved clinical training programs. J. Personal. Assess. 47:115-119. NICHOLS, R. C.1966. Theresemblance of twins in personality and interests. National Merit Scholarship Corp. Res. Rep. 2:1-23.Reprinted p. 580-596, in M. Manosevitz, G. Lindzey, and D. D. Thiessen (eds.), Behavioral genetics: Method and research, Appleton-Century-Crofts, New York.
+PIOTROWSKI, C., D. SHERRY, and J. W. KELLER.
+1985. Psychodiagnostic test usage: A survey of the Society for Personality Assessment. J. Personal. Assess. 49:115-119.
+
+PLOMIN, R., J. C. DEFRIES, and J. C. LOEHLIN.
+1977. Genotype-environment interaction and correlation in the analysis ofhuman behavior. Psychol. Bull. 84:309-322.
+PLOMIN, R., and T. T. FOCH. 1980. A twin study of objectively assessed personality inchildhood. J. Personal. Soc. Psychol. 39:680688.
+PLOMIN, R., and J. C. LOEHLIN. 1989. Direct
+and indirect heritability estimates: A puzzle. Behav. Genet. 19:331-342.
+POGUE-GEILE, M. F., and R. R. ROSE. 1985.
+Developmental genetic studies ofadult personality. Dev.Psychol. 21:547-557.
+REZNIKOFF, M., and M. S. HONEYMAN. 1967.
+MMPI profiles of monozygotic and dizygotic twin pairs. J. Consult. Psychol. 31:100. ROSE, R. J. 1988.Genetic and environmental variance in content dimensions ofthe MMPI. J. Personal. Soc. Psychol. 55:302311.
+ROSE, R. J., M. KOSEKENVUO, J. KAPIRO, S.
+SARNO, and H. LANGINVAINIO. 1988. Shared
+genes, shared experiences, andsimilarity of personality: Data from 14,288 adult Finnish co-twins. J. Personal. Soc. Psychol. 54:161171.
+SCHONEMANN, P. H. 1988. A note on Holzinger's heritability coefficient h2. Purdue Mathematical Psychology Program, Technical Report No. 88-4. Purdue University, West Lafayette, IN. . 1989. Newquestions about old heritability estimates. Bull. PsychonomicSoc. 27:175-178.
+SILVER, N. C., and W. P. DUNLAP. 1987. Aver-
+aging correlation coefficients: Should Fisher's z transformation be used? J. Appl. Psychol. 77:146-148. STRUBE, M. J. 1988. Averaging correlation coefficients: Influence ofheterogeneity and set size. J. Appl. Psychol. 73:559-568. THIESSEN, D. D. 1979. Comment on Wahlstein's "A critique ofthe concepts ofheritability and hereditary in behavioral genetics," p. 473-474. In J. R. Royce and L. P. Mos, (eds.), Theoretical advances in behavior genetics. Sijthoff & Noordhoff, Alphen aan denRijn, TheNetherlands. VANDENBERG, S. G.1967. Hereditary factors in normal personality traits (as measured by inventories), p. 65-105. In J. Wortis (ed.), Recent advances in biological psychiatry: Vol. IX. Plenum Press, New York.
+WADE, T. C., and T. B. BAKER. 1977. Opinions
+and use of psychological tests: A surveyof clinical psychologists. Amer. Psychol. 32:874-882. WAHLSTEIN, D. 1979. A critique of the concepts of heritability andheredity in behavioralgenetics, p.425-470. In J. R.Royce and L. P. Mos (eds.), Theoretical advances inbehav-
+
+Vol. 37,No. 3-4
+
+Heritability Estimates
+
+161
+
+ior genetics. Sijthoff & Noordhoff, Alphen aan den Rijn, The Netherlands.
+WECHSLER, D. G. 1958. The measurement and appraisal of adult intelligence. Williamsand Wilkins, Baltimore,MD.
+WELSH, G. S. 1956.Factor dimensions A and R. In G. S. Welsh and W. G. Dahlstrom (eds.), Basic readings on the MMPI in psychology and medicine. University ofMinnesota Press, Minneapolis,MN.
+WIGGINS, J. S. 1966. Substantive dimensionsof self-report in theMMPI item pool. Psychol. Monogr. 80:Whole No. 630.
+WILSON, J. R., J. C. DEFRIES, G. E. Mc-
+CLEARN, S. G. VANDENBERG, R. C. JOHN-
+
+SON, and M. N. RASHAD. 1975. Cognitive abilities: Use of family data as a control to assess sex and age differences between two ethnic groups. Int. J. Aging Hum.Dev. 6:261-275.
+YOUNG, P. A., L. J. EAVES, and H. J. EYSENCK.
+1980. Intergenerational stability andchange in the causes of variation on personality. Personal. Ind.Diff. 1:33-55.
+ZONDERMAN, A. B. 1982. Differential heritability and consistency: A reanalysis of the National Merit Scholarship Qualifying Test (NMQST) California Psychological Inventory (CPI) data. Behav. Genet. 12:193208.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+

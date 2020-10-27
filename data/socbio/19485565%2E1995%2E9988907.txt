@@ -1,0 +1,131 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Reliability versus validity of tests used in genetic identification
+Louis Levine & Lawrence Kobilinsky
+To cite this article: Louis Levine & Lawrence Kobilinsky (1995) Reliability versus validity of tests used in genetic identification, Social Biology, 42:3-4, 274-275, DOI: 10.1080/19485565.1995.9988907 To link to this article: http://dx.doi.org/10.1080/19485565.1995.9988907
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:46
+
+Brief Reports
+Reliability Versus Validity of Tests Used in Genetic Identification
+
+/'} \
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Louis Levine and Lawrence Kobilinsky
+
+Department of Biology, City College of New York, New York, New York 10031; and Department of Forensic Science, John Jay College of Criminal Justice, New York, New York 10019.
+
+An ever-increasing use of genetic traits for the identification of suspects and evidence in criminal cases has brought a corresponding increase in challenges to the use of the test results. The ensuing arguments have, unfortunately, produced a blurring of two essential aspects of any test, namely, its reliability versus its validity.
+Reliability of a test refers to the consistency or reproducibility of the test results under a set of prescribed conditions. Validity refers to whether the test actually measures or specifies the trait in question. Experts in a field may generally agree that a test has a very high reliability but may seriously disagree as to its validity. IQ tests are the prime examples of this disagreement among experts. Whereas there is little debate that the tests give consistent and reproducible results, there is a serious question raised as to whether such tests actually measure the intelligence of individuals.
+In forensic analysis, where testing is performed to identify the source of biological evidence, problems of test reliability versus validity also exist. One example, taken from serology, involves the blood types A, B, AB, and O. By the use of a standardized procedure, the designation of a person as
+
+blood type A by one laboratory can and will be confirmed by all other laboratories properly performing the test. Hence there is no challenge to the reliability of the test. However, it has been known for some time that there are at least two different A alleles. These alleles are Ax and A2, both of which react positively with anti-A serum. A blood type A individual can be either a homozygote or a heterozygote and could have any one of the following five genotypes: A1A1, A2A2, AjA2, AjO, A2O. It is also clear that a similar uncertainty of genotype occurs in a test result of blood type AB. If a standardized procedure is used which is capable of identifying the A antigen but not the Ax or A2 subtype, the test is not valid for genetically identifying those who are blood type A or AB.
+Another example of this problem involves the use of the HLA DQA1 (alpha) gene. In many forensic situations where only very small amounts of the perpetrator's blood or semen are available, a portion of the HLA DQA1 gene is amplified using the Polymerase Chain Reaction (PCR). The amplified DNA section is then exposed to a total of 7 probes which identify specific sections of the PCR product. These sections are then usually considered as
+
+274
+
+Vol. 42,No. 3-4
+
+Brief Reports
+
+275
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+"alleles" of the H L A D Q A 1 locus.
+
+TABLE 1
+
+However, as stated in a recent report
+
+HLA D Q A I PERKIN ELMER KIT PROBES
+
+of the World Health Organization
+
+VERSUS WHO" ALLELES
+
+Nomenclature Committee forFactors
+
+of the H L A System (Bodmer, et al., ~r~[
+
+1995), there are 16 identifiable alleles
+
+at the HLA DQAI gene.
+
+1.2
+
+Table 1lists the 16 alleles and indi- . ,
+
+cates which ones react positively to 2
+each of the probes. There are only two 3 probes that actually identify individual 4 j alleles. The other probes are not valid indicators of a person's genotype.
+
+The unintended potential serious
+
+consequences ofusing "probe identification" as"genetic identification" has 4.2/4.3
+
+recently been documented (Salazar et
+
+Kit Probes
+'.
+
+WHO Alleles
+0101 0104 01021 01022 0103 0201 03011 0302 0501 05011 05012 05013 0502 0503 0401 0601
+
+al 1994) It involved a r a o e Case in
+
+'' ' '
+
+"
+
+which the sperm cells obtained from a
+
+"World Health Organization Nomenclature Committee for Factors of the HLA System.
+
+vaginal swab of the victim and blood
+
+samples taken from two suspects were
+
+all typed by the probes as 3,4 (4 was a
+
+designation that resulted from using an From the foregoing discussion and
+
+earlier version of the test kit inwhich examples, it is apparent that where in-
+
+the #4 probe had a binding specificity dividual identification is critical (dis-
+
+that is common to both the present 4.1 covery of a child who may have been
+
+and 4.2/4.3 probes). However, addi- kidnapped when a baby many years
+
+tional testing procedures of the PCR earlier; burial of body parts ofvictims
+
+product showed that inthe case ofthe of a massive explosion; establishing
+
+#4 probe designation, the sperm cells family relationships in claims on an es-
+
+were 0401 whereas both suspects were tate; linking a suspect toevidence in a
+
+0501. Clearly neither suspect could violent crime), both the reliability and
+
+have been the source of the sperm thevalidity of thegenetic tests used
+
+cells. must be carefully evaluated.
+
+REFERENCES
+
+BODMER, J. G., S. G. E. MARSH, F. D. ALBERT,
+ET AL. 1995.Nomenclature for factors of the HLA system. Tissue Antigens 46:1-18.
+SALAZAR, M., J. WILLIAMSON, and D. H. BING.
+
+1994. Genetic typing of the DQA1*4 alleles by restriction enzyme digestion of the PCR product obtained with the DQ alpha AmplitypeTM Kit. J. Forensic Sci. 39:518-525.
+
+

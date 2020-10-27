@@ -1,0 +1,1081 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Methodological options in measuring illegitimacy and the difference they make
+Beth Berkov & June Sklar
+To cite this article: Beth Berkov & June Sklar (1975) Methodological options in measuring illegitimacy and the difference they make, Social Biology, 22:4, 356-371, DOI: 10.1080/19485565.1975.9988192 To link to this article: http://dx.doi.org/10.1080/19485565.1975.9988192
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles
+Citing articles: 2 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:35
+
+Methodological Options in Measuring Illegitimacy and the Difference They Make
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+Beth Berkov* and June Sklar
+California State Department of Health, Berkeley, California; and International Population and Urban Research, University of California, Berkeley, California
+
+Despite its potential social and demographic significance, illegitimate fertility is a difficult subject to study. There is not only the problem of identifying illegitimate births, but also the problem of estimating accurately the population exposed to the risk of illegitimate childbearing. We will discuss both of these problems on the basis of experience gained in a joint research project between the University of California, Berkeley, and the California State Department of Health. In this paper, we wish to present some of the methodological problems that emerged while developing illegitimacy data for California and the United States, report several studies we made in order to evaluate the California data, and make comparisons between our estimates for the United States and those prepared by the National Center for Health Statistics.
+DETERMINING ILLEGITIMATE BIRTHS IN CALIFORNIA
+The term "illegitimate," when applied to children, offends many people because it
+* Address correspondence to International Population and Urban Research, 2234 Piedmont Avenue, Berkeley, California 94720.
+
+seems to stigmatize children for something beyond their control. For this reason many states, including California, have eliminated the term "illegitimate" from the birth certificate and a large vocabulary of substitute terms has developed. As we have discussed elsewhere, there is nothing wrong with such terms as "children of unmarried mothers" and "out-of-wedlock children," although these terms tend to be cumbersome (Mulligan et al., 1974). More important, when the word "illegitimate" is tabooed, the assumption is that little more than moral stigma is involved. Our view is that the handicaps suffered today by illegitimate children result not so much from the moral opprobrium attached to the label "illegitimate" as from the circumstances in which the children are reared (Sklar and Berkov, 1974a; Cutright et al., 1974). Thus, removing the word "illegitimate" does not eliminate the phenomenon itself. What is crucial in any study of illegitimacy is to be able to identify illegitimate children, not for the purposes of attributing stigma, but rather to investigate their number and characteristics and what happens to them in later life.
+With no legitimacy question on the birth
+
+356
+
+Vol. 22, No. 4
+
+Options in Measuring Illegitimacy
+
+357
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+record, data with respect to illegitimacy in California cannot be obtained except by inferring the information from what is stated on the birth certificate. Such an inferential method was developed in California in the late 195O's and early 196O's by several large local health departments and was applied on a statewide basis beginning in 1966 (Berkov and Shipley, 1971). The method provided criteria for dividing birth certificates into two groups: those apparently out-of-wedlock and those apparently legitimate. The classification was based mainly on a comparison of the surname of the child with the surnames of the parents, including consideration of the name given by the mother when she signs the birth certificate as the informant for the birth record.
+For representative samples of births classified illegitimate in 1967 and 1970, we reviewed the coding of the certificates
+
+and compiled data on the frequency with which each criterion had been applied (Berkov, unpublished). Our findings were very similar for both 1967 and 1970 (see Table 1). In both years, approximately one-fifth of the certificates were classified out-of-wedlock because the father's name had been omitted. This omission was much more frequent for white than for Black births reflecting the fact that white babies were more frequently adopted. For about an additional one-fourth of the sample, the mother had named a father, but she had given the child her own surname rather than that of the man she named (again, more often for white than for Black). For approximately half the cases, the mother had named a father and had given his name to the child. In these cases, the certificate had been classified out-of-wedlock because the mother had signed it either with her maiden name (almost two-fifths of the
+
+TABLE 1
+SAMPLES OF BIRTHS CLASSIFIED AS APPARENTLY ILLEGITIMATE BY MAJOR BASIS FOR CLASSIFICATION: CALIFORNIA, 1967, 1970*
+
+SAMPLE SIZE
+AND CRITERIAt
+No. in sample
+Father's name omitted
+Father named (total)
+Child given different surname from that of father Child given same surname as father
+Mother signs maiden surname as informant for birth certificate (apparently never married)
+Mother signs current married surname (apparently divorced, widowed or separated)
+Othert
+
+AH
+Races
+565 20.2% 76.6
+
+1970
+White
+381 24.2% 73.7
+
+26.3 28.8 50.3 44.9
+
+37.9 32.3
+
+12.4 12.6 3.2 2.1
+
+Black
+167 9.6% 8S.1 20.4 64.7
+51.5
+13.2 5.4
+
+AH
+Races
+736 22.4% 75.1
+
+1967
+White
+S37 27.9% 68.8
+
+26.8 28.6 48.3 40.2
+
+36.3 29.0
+
+12.0 11.2 2.6 3.4
+
+Black
+179 6.7%
+93.3 20.7 72.6
+57.5
+15.1 --
+
+SOURCE: Berkov, B., "A Study of the Classification of California Birth Certificates by Apparent unpublished paper.
+* Per cents are rounded independently and may not add to totals. t Criteria are listed in order of priority assigned for cases in which more than one criterion applied, t Includes signature of someone other than father or mother of child (e.g., grandmother).
+
+Legitimacy
+
+Status,"
+
+358
+
+Berkov and Sklar
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+sample) or with a current married name indicating that she was divorced, widowed, or possibly separated (12 per cent of the sample). The very large proportion of cases in California in which the mother gives the baby the same surname as the father probably results from a state attorney general's opinion dating from 1945 which specifies that a mother may give to her child any surname she wishes. In California, hospitals frequently either inform unwed mothers of this attorney general's opinion or they may deliberately refrain from giving any advice to the mother in regard to naming the child.
+In undertaking to use the California data on illegitimacy in our research, we had to make an initial judgment that the inferential criteria as applied to birth certificates probably were valid and were not either missing large numbers of illegitimate births (false negatives) or identifying large numbers of legitimate births as illegitimate (false positives). Visits to local health departments and hospitals and several pilot studies provided initial evidence that the inferential method was probably not producing overestimates of the number of illegitimate births (Berkov and Shipley, 1971, p. 4).
+In investigating various means to check more systematically the accuracy of the inferential method, we found that a number of hospitals in the state either compiled their own counts of illegitimate births or maintained logs of deliveries that could be used to compile such counts. We concluded that the best test of the validity of the inferential method used in California would be to compare, for as many of these hospitals as possible, the number of illegitimate births shown by hospital records with the number obtained by application of the inferential method.
+We were able to make such comparisons for six hospitals (see Table 2). I t is clear
+
+that there is some variation among hospitals, as one would expect, but the remarkable thing is the close overall agreement between the two counts. For all hospitals and time periods combined, the birth certificate method identified 13,311 illegitimate births or 27.9 per cent of the total births, as compared to the hospital count of 13,396 illegitimate births or 28.2 per cent of total births.
+The evidence indicated that there was little misclassification of legitimate births as illegitimate and that few illegitimate births were missed. It appeared that the information about the mother's marital status inferred from the birth certificate corresponded to the information the mother had given to the hospital for their own records. Although it would be desirable to have a larger sample of hospitals, and although there is need for future periodic checks, the evidence obtained thus far indicates that the inferential method being applied to birth certificates in California is a valid procedure and is not overestimating the number of illegitimate births in the state.
+COUNTING ILLEGITIMATE BIRTHS IN THE UNITED STATES
+One of the most important uses we made of the inferential data for California was to show that legal abortion had depressed overall fertility, particularly illegitimate fertility, in 1971. Extending this study to other states, we focused on the period 1965-71 and compared the fertility experiences of states with and without legalized abortion in 1970 (Sklar and Berkov, 19746).
+This interstate study of abortion and nonabortion states faced two problems. First, the birth data by legitimacy that were available from the National Center for Health Statistics (NCHS) referred only to states having a question about legitimacy
+
+Vol. 22, No.4
+
+Options in Measuring Illegitimacy
+
+359
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+TABLE 2
+COMPARISON or HOSPITAL AND STATE HEALTH DEPARTMENT COUNTS OF ILLEGITIMATE AND TOTAL BERTHS: CALIFORNIA, SELECTED PERIODS
+
+HOSPITAL* AND TIME PESiODSf
+Hospital 1 1974 1973 1972 1971 Total
+Hospital 2 1974 1973 1972 Total
+Hospital 3 1972
+Hospital 4 1972 1971 1970 Total
+Hospital S 1973 1972 1971 Total
+Hospital 6 1973 1972 1971 Total
+All hospitals All time periods Total
+
+HOSPITAL COUNT
+
+Total
+
+Illegit¡mate
+
+Per Cent Illegit¡mate
+
+10,797 9,631 9,353 9,212 38,993
+460 550 619 1,629
+161
+432 1,196 1,500 3,128
+552 661 836 2,049
+470 503 556 1,529
+
+2,883 2,531 2,494 2,349 10,257
+158 202 181 541
+27
+178 478 564 1,220
+255 302 298 855
+176 165 155 496
+
+26.7 26.3 26.7 25.5 26.3
+34.3 36.7 29.2 33.2
+16.8
+41.2 40.0 37.6 39.0
+46.2 45.7 35.6 41.7
+37.4 32.8 27.9 32.4
+
+47,489
+
+13,396
+
+28.2
+
+STATE HEALTH DEPT. COUNT
+
+Total
+
+Illegit¡mate
+
+Per Cent Illegit¡mate
+
+10,904 9,633 9,467 9,184 39,188
+455 548 612 1,615
+173
+419 1,183 1,486 3,088
+557 670 841 2,068
+470 503 556 1,529
+
+3,049 2,499 2,484 2,353 10,385
+156 184 176 516
+27
+171 451 549 1,171
+235 278 279 792
+153 138 129 420
+
+28.0 2S.9 26.2 25.6 26.5
+34.3 33.6 28.8 32.0
+15.6
+40.8 38.1 36.9 37.9
+42.2 41.5 33.2 38.3
+32.6 27.4 23.2 27.S
+
+47,661
+
+13,311
+
+27.9
+
+SOUSCE: Records of individual hospitals and State of California Department of Health, Birth Records. * Hospitals 1-3 are in Southern California: 4 - i , in Northern California Hospitals 1,3, and 5 are county hospitals; the remainder, private hospitals. t For hospital 1, time periods refer to fiscal years ending June 30 of the year shown. For hospitals 2 and 6, time periods refer to the first three months of each year shown. For hospital 3, the time period is April 5--May 4 when the hospital kept a special count. For hospitals 4 and 5, time periods refer to calendar years, except for hospital 4 in 1972 which is the first five months of the year.
+
+on the birth certificate, and California and New York were among the nonreporting states. Since California and New York accounted for most legal abortions performed in the country in 1970 and 1971, it was essential to obtain birth data by legitimacy from these states (Center for Disease Control, n.d., p. 6; 1972,p. 3). The second problem was that NCHS was delayed in the preparation of birth data by legitimacy
+
+for 1969 and later years. As a result, we obtained the more recent data for the interstate study by communicating directly with all states, including states that did not have a legitimacy question on the birth certificate butnonetheless used information on thebirth record to infer apparent legitimacy status.
+Of the states responding to our inquiry, 44 provided adequate information forde-
+
+360
+
+Berkov and Sklar
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+tailed tabulation. These states accounted for 95.8 per cent of all United States births in 1968. On the basis of the data from these 44 states, we developed estimates of birth rates by legitimacy status for the United States as a whole cross-classified by age, race, geographical region, and availability of legal abortion in 1970. We have discussed the findings of this analysis in other papers. Here we are concerned with methodological questions raised by our use of a somewhat different procedure for estimating illegitimate births than that used by the NCHS (Guerriero and Tsai, unpublished).
+How does NCHS prepare an estimate for the nation on the basis of states with a legitimacy question on the birth certificate? In making the national estimates, NCHS assumes that these states represent the entire geographical division. The number of states with questions varies in different years.1 In 1973, 38 states had a legitimacy question on the birth certificate, but 12 states did not--California, Connecticut, Georgia, Idaho, Maryland, Massachusetts, Montana, New Mexico, New York, Ohio, Vermont, and Nevada. The 12 nonreporting states contained over 30 per cent of the nation's births in 1973 (National Center for Health Statistics, 1975, and unpublished data). In making the national estimates, NCHS assumes that the ratio of illegitimate to total births is the same within each geographical division for the reporting and nonreporting states, taking each race group separately (white and nonwhite for 1968 and earlier years; white, Black, and other for 1969 and later years).
+1 There were 16 nonreporting states in 1965-67, 10 in 1968, 11 in 1969-70 and 12 in 1971-73. Not reporting for the entire period 1965-73 were California, Connecticut, Georgia, Idaho, Maryland, Massachusetts, Montana, New Mexico, New York and Vermont. Not reporting in 1965-67 but reporting in 1968-73 were Arizona, Arkansas, Colorado, Nebraska, New Hampshire and Oklahoma. Nevada reported in 1965-70, but discontinued reporting in 1971-73; Ohio reported in 1965-68, but discontinued reporting in 1969-73.
+
+It should be noted that among the reporting states, the legitimacy question is phrased differently in different states; most states ask simply "Legitimate? (yes or no)," while a few states phrase their question "Is mother married?" or "Is mother married to father?" NCHS has not evaluated the accuracy with which the legitimacy question has been answered in the reporting states (Clague and Ventura, 1968, p. 1). Probably, some illegitimate births are reported as legitimate.2
+In this paper no attempt is made to evaluate the validity of data from states having a legitimacy question on the birth certificate or to determine the amount of error that might have been introduced into the data for the 1940's and 19S0's by the NCHS assumption that reporting and nonreporting states in the same geographical division are similar. Since about the mid1960's, however, the large nonreporting states have been applying inferential methods. Our studies incorporating the data from these states show that in some geographical divisions at least, the assumed similarity between reporting and nonreporting states is open to question, particularly in regard to the absolute number of illegitimate births occurring each year.
+In California, for example, application of the NCHS method produces a figure substantially below the number obtained by using the inferential method (see Figure 1 and Table 3).3 For 1973, the national total
+2 Underreporting of illegitimate births was demonstrated in one study in the state of Washington where most births are to white women (Washington State Department of Health, 1962). Underreporting has been said to be more frequent for white than for Black births (Cutright, 1972, p. 429).
+3 This finding was in sharp contrast to what the NCHS found in their evaluation study of one month's births in 1963. In this evaluation study, NCHS developed inferential criteria from a sample of birth certificates in reporting states. These criteria then were applied to birth records in the nonreporting states; the number of illegitimate births obtained by application of the inferential
+
+Vol. 22, No. 4
+
+Options in Measuring Illegitimacy
+
+361
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+TABLE 3
+ESTIMATED NUMBER OF ILLEGITIMATE BIRTHS USING NCHS* AND INFERENTIAL METHOD: CALIFORNIA, 1969-1973
+
+RACE
+AND
+YEAS
+All races 1973 1972 1971 1970 1969
+White 1973 1972 1971 1970 1969
+Nonwhite 1973 1972 1971 1970 1969
+
+No. OF ILLEGITIMATE BIRTHS
+
+Applying Ratios
+by Race in Reporting
+Statest
+
+Inferential Method
+
+Per Cent Differences
+
+31,050 30,061 31,327 36,604 34,735
+18,826 17,875 18,886 23,239 23,450
+12,224 12,186 12,441 13,365 11,285
+
+41,851 40,171 39,912 45,593 42,085
+26,570 25,349 25,143 29,546 27,943
+15,281 14,822 14,769 16,047 14,142
+
+--2S.8 --2S.2 --21.5 --19.7 --17.5
+--29.1 --29.5 --24.9 --21.3 --16.1
+--20.0 --17.8 --15.8 --16.7 --20.2
+
+ILLEGITIMACY RATIOÍ
+
+Derived from Reporting Statest
+104.2 98.1 94.9 100.9 98.3
+74.3 68.5 66.9 74.2 76.7
+273.0 268.4 261.7 269.9 235.7
+
+Inferential Method
+140.S 131.1 121.0 125.7 119.3
+104.8 97.1 89.0 94.7 91.5
+344.8 328.1 312.1 317.7 297.1
+
+SOURCES: National Center for Health Statistics, 1974a, Tables 1-34, 1-68, and 1-72; National Center for Health Statistics, advance copies of tables to be published; State of California, Department of Health, Birth Records.
+* In making estimates of illegitimate births for the United States, NCHS includes an estimate for California (not published separately for the state) by applying the illegitimacy ratio of all reporting states in the Pacific geographic division to total live births in California. The estimation is done separately by race.
+t Illegitimate births per 1,000 total births. t Alaska, Hawaii, Oregon, and Washington. California is the only nonreporting state in the Pacific division. § Per cent NCHS estimate is greater or less than inferential estimate.
+
+according to NCHS would involve an allo- 41,851 illegitimate births obtained from
+
+cation of 31,050 illegitimate births in Cali- California by application of our method
+
+fornia. This is 26 per cent less than the (29 per cent less for whites and 20per cent
+
+criteria wascompared to the number obtained by less for nonwhites). The low estimates by
+
+application of theusual NCHS method (extending the NCHS method occur because in com-
+
+the experience of the reporting states to the nonreporting states). This NCHS evaluation showed
+
+parison
+
+to California,
+
+which
+
+is the only
+
+that in the Pacific division, theinferential method nonreporting state in the Pacific division,
+
+produced many less illegitimate births than the usual NCHS procedure. In ourstudy of California,
+
+the reporting states have much lower ille-
+
+however, we found that using State Health De- gitimacy ratios.
+
+partment inferential criteria produced larger num-
+
+bers of illegitimate births than did the NCHS Application of the NCHS method to
+
+usual procedure. The reason for this discrepancy was that the illegitimacy criteria developed by
+
+New York State gives results similar to
+
+NCHS omitted the category of certificates in those for California (see Figure 1 and
+
+which thechild and father have thesame surname but the mother signs the certificate with a differ-
+
+Table 4). For 1973, it allocates 33,113
+
+ent surname (her maiden name or her current illegitimate births to New York, which is
+
+married name). Although this category accounted for half of all illegitimate births in California
+
+16 per cent less than the 39,345 estimated
+
+(see earlier discussion), it had been relatively by the inferential method. However, the
+
+infrequent in thesample of reporting states NCHS used to develop inferential criteria for their evalu-
+
+NCHS figure for 1973 was lower only for
+
+ation study (Clague and Ventura, 168, p. 72). whites (10,752 vs. 17,890); for nonwhites,
+
+362 40,000
+
+Berkov and Sklar
+,/ ALL RACES ·<
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+30,000
+
+20,000
+
+WHITE
+
+NONWHITE
+
+10,000
+
+NONWHITE
+
+WHITE
+
+J_ J_ I 69 70 71 72
+CALIFORNIA
+
+73
+
+69 70 71 72 73 NEW YORK
+
+_--_._ Inferential method -- ^ -- Experience of reporting states in area FIG. 1.--Number of illegitimate births estimated for selected nonreporting states by two methods.
+
+it was higher by a small amount (22,361 vs. 21,455), and it was also higher in 1971 and 1972, although lower in 1969 and 1970. Evidently, the nonwhite experience of the two reporting states in the middle Atlantic division--Pennsylvania and New Jersey-- was not representative of New York in that it failed to reflect the effect of New York's legal abortion law on nonwhite illegitimate births in the state in 1971-73.
+When the NCHS estimates by divisions in 1965-71 are totaled to the United States
+
+as a whole, they yield national figures for illegitimate births well below our own estimates (see Figure 2 and Table 5). For most years, they were 5 to 6 per cent below our estimates. For every year in the 196571 period, the two methods produced a greater discrepancy for whites than for nonwhites. For whites, the NCHS method showed less rise in illegitimate births between 1965 and 1970, and then less decline in 1971, than did the figures that included inferential data.
+
+Vol. 22, No. 4
+
+Options in Measuring Illegitimacy
+
+363
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+TABLE 4
+ESTIMATED NUMBER OF ILLEGITIMATE BIRTHS USING NCHS* ANDINFERENTIAL METHOD: N E W YORK, 1969-1973
+
+RACE AND YEAR
+All races 1973 1972 1971 1970 1969
+White 1973 1972 1971 1970 1969
+Nonwhite 1973 1972 1971 1970 1969
+
+No. OF ILLEGITIMATE BIRTHS
+
+Applying Ratios
+by Race in Reporting
+Statest
+
+Inferential Method
+
+Per Cent Differences
+
+33,113 32,786 33,369 35,703 31,092
+10,752 10,685 11,386 12,619 11,800
+22,361 22,101 21,983 23,084 19,292
+
+39,345 39,020 39,898 46,499 42,842
+17.8ÇO 18,066 18,475 22,248 20,718
+21,455 20,954 21,423 24,251 22,124
+
+--15.8 --16.0 --16.4 --23.2 --27.4
+--39.9 --40.9 --38.4 --43.3 --43.0
+4.2 5.5 2.6 --4.8 --12.8
+
+ILLECITIMACY RATIOÎ
+
+Derived from
+Reporting Statest
+
+Inferential Method
+
+138.6 129.3 117.3 112.4 100.1
+56.6 52.6 49.5 49.1 46.5
+457.8 438.4 403.8 380.7 341.0
+
+162.1 151.6 139.6 145.7 137.3
+91.4 86.5 79.1 85.5 80.6
+457.5 431.4 409.1 411.3 401.5
+
+SOURCES: National Center for Health Statistics, 1974a, Tables 1-34, 1-68, 1-72; National Center for Health Statistics, advance copies of tables to be published; correspondence with health departments in New York City and New York State.
+· In making estimates of illegitimate births for the United States, NCHS includes an estimate for New York (not published separately for the state) by applying the illegitimacy ratio of all reporting states in the Middle Atlantic geographic division to total live births in New York. The estimation is done separately by race.
+t Illegitimate births per 1,000 total births. t New Jersey and Pennsylvania. New York is the only nonreporting state in the Middle Atlantic division. ! Per cent NCHS estimate is greater or less than inferential estimate.
+
+This discrepancy probably occurred because the NCHS estimates excluded direct evidence from New York, California, and other nonreporting states where, compared to reporting states, white illegitimate births rose more rapidly in the late 1960's and then, as a result of legal abortion, declined more sharply in 1971. For nonwhites, the two methods showed approximately the same relative rise in number of illegitimate births between 1965 and 1970. However, the NCHS method failed to reflect as much dampening of the rise in 1971 by legal abortion as did the figures using inferential information. Finally, for all races combined, the NCHS estimate of illegitimate births showed a rise between 1970 and 1971,while the inferential data showed a drop between the two years.
+
+Because the nonreporting states account for a large proportion of all births in the country in any one year, it is evident that the incorporation of inferentially derived information from these states produces a more sensitive measure of illegitimacy trends. When the problem is to evaluate the impact of legal abortion on legitimate and illegitimate fertility, as was the case in our studies, it is essential to include such inferential evidence because many of the nonreporting states have high legal abortion rates. For broader analysis of the trends, the difference may be less important. On the whole, although we have not evaluated the inferential data from states other than California, our validation of the California information leads us to believe that national estimates incorporating inferential data are
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+TABLE S
+NUMBER OF ILLEGITIMATE AND LEGITIMATE BIRTHS ESTIMATED BY NCHS AND INTERSTATE STUDY: UNITED STATES, 1965-1971*
+
+RACE
+AND
+YEA»
+All races 1971 1970 1969 1968 1967 1966 1965
+White 1971 1970 1969 1968 1967 1966 1965
+Nonwhite 1971 1970 1969 1968 1967 1966 1965
+
+ILLEGITIMATE
+
+NCHS Estimate
+401,400 398,700 360,800 339,200 318,100 302,400 291,200
+163,800 175,100 163,700 155,200 142,200 132,900 123,700
+237,500 223,600 197,200 183,900 175,800 169,500 167,500
+
+Study Estimate
+416,127 424,958 383,893 357,267 338,140 320,081 306,801
+177,593 195,314 179,724 165,884 153,900 142,550 133,239
+238,534 229,645 204,170 191,383 184,241 177,531 173,563
+
+Per Cent difference}
+--3.5 --6.2 --6.0 -5.1 -5.9 -5.5 --5.1
+--7.8 --10.3
+-8.9 -6.4 -7.6 -6.8 -7.2
+--0.4 --2.6 --3.4 --3.9 -4.6 -4.5 -3.5
+
+LEGITIMATE
+
+NCHS Estimate
+3,154,570 3,332,686 3,239,406 3,162,364 3,202,859 3,303,874 3,469,158
+2,755,946 2,916,164 2,829,914 2,757,024 2,780,302 2,860,330 3,000,160
+398,724 416,522 409,392 405,440 422,657 443,544 468,998
+
+Study Estimate
+3,136,572 3,300,208 3,206,535 3,142,846 3,178,988 3,279,795 3,419,647
+2,746,218 2,893,124 2,809,732 2,748,794 2,768,495 2,848,668 2,963,894
+390,355 407,084 396,803 394,052 410,494 431,127 455,753
+
+Per Cent difference}
+0.6 1.0 1.0 0.6 0.8 0.7 1.4
+0.4 0.8 0.7 0.3 0.4 0.4 1.2
+2.1 2.3 3.2 2.9 3.0 2.9 2.9
+
+ILLEGITIMACY RATIO?
+
+Study Estimate
+117.1 114.1 106.9 102.1 96.1 88.9 82.3
+60.7 63.2 60.1 56.9 52.7 47.7 43.0
+379.3 360.7 339.7 326.9 309.8 291.7 275.8
+
+NCHS Estimate
+112.9 106.8 100.2 96.9
+90.3
+83.9 77.4
+56.1 56.6 54.7 53.3 48.7 44.4 39.6
+373.3 349.3 325.1 312.0 293.8 276.S 263.2
+
+SOURCES: International Population and Urban Research, University of California, Berkeley, special estimates of births by legitimacy for the United States, 1965-71; National Center for Health Statistics, 1974a, Tables 1-1, 1-29; 1974»; 1974c; 1974d; 19754.
+* Interstate study estimates incorporate inferential data from states without a legitimacy question on birth certificate. NCHS estimates apply the experience of reporting states to nonreporting states by race within geographical division.
+t Illegitimate births per 1,000 total births. t Per cent NCHS estimate is greater or less than the study estimate.
+
+I
+o 2. B.
+w £
+o*
+
+Vol. 22, No. 4
+
+Options in Measuring Illegitimacy
+
+365
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+400.000
+
+ALL likely circumstances in theformative years RACES of the child's life. As an indicator of these
+
+circumstances, the purely legal definition
+
+has little meaning. In the case of a sepa-
+
+300,000
+
+rated woman having a baby bya man other than her legal husband, the child may or
+
+may not have a future relationship withthe
+
+200,000-
+
+NONWHITE
+
+biological father, but he is not likely to
+
+have any relationship with the mother's
+
+legal husband.
+
+WHITE Discussions with vital registration offi-
+
+cials suggest that even though a number of
+
+100,000-
+
+-- -- Interstate study NCHS
+
+states specify in their registration manuals a definition of illegitimacy that excludes separated women, little is known about how
+
+65 66 67 68 69 70 71
+UNITED STATES
+FIG. 2.--Number of illegitimate births in the United States estimated by NCHS and interstate study.
+
+this definition is applied. Particularly in urbanized areas of states with large Black populations, it is possible that in completing birth certificates hospital staffs in practice tend to apply a sociologie rather than
+
+a legal definition of legitimacy andthus to
+
+preferable to estimates based solely on the report as illegitimate some births to sepaexperience of reporting states in the same rated women.4
+
+geographical area.
+
+In 1966, when we first estimated illegiti-
+
+INCLUSION OF SEPARATED WOMEN AS SUBJECT TO RISK
+
+macy for California, our aim was toapproximate a sociologie definition which considers as illegitimate those births in
+
+It is not only because of the failure to which the mother wasnot married to the
+
+use inferentially derived data that the father of thechild (Davis, 1939). Discus-
+
+NCHS estimates of illegitimacy are low. sions with local health department officials
+
+It is also because of the definition used in and our review of certificates classified
+
+those states that do report births by legiti- "apparently illegitimate" led us to believe
+
+macy. In such states, children of all married that some separated women were having
+
+women--including separated women regard-
+
+less of whether the father of the child is 4The opposite conclusion that separated women
+probably were not significantly represented in
+their husband--are considered legitimate. counts of illegitimate births was drawn in a report
+
+From a strictly legal standpoint, separated prepared for the Commission on Population
+Growth and the American Future (Cutright, 1972,
+women are married, and their children are p. 433). However, we question this conclusion on
+
+presumed to be legitimate. We question, several grounds: (1) Thedata used to support it
+came only from one study of mothers of illegiti-
+however, whether a legal definition is ap- mate babies born in North Carolina in 1960and
+
+propriate. Themain purpose of the legiti-
+
+1961. (2) In the study, information on marital status at the time of birth wasobtained only for
+
+macy question on thebirth certificate isto mothers who were located and interviewed and
+
+obtain statistical information in order to
+
+one-third of the sample of Black mothers wasnot located. (3) It was found that less than 10 per
+
+understand the social and economic circum- cent of theBlack mothers located and interviewed
+
+stances in which themother and child find
+
+were "previously married," but no specific data were given on the proportion separated byage
+
+themselves when the child isborn and their group.
+
+366
+
+Berkov and Sklar
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+babies by men other than their legal husbands and that since they frequently named the other man as the father of the child these births were being classified illegitimate. This finding raised the question of how to calculate the illegitimate birth rate, because the rate is strongly influenced by inclusion or exclusion of separated women (along with those single, widowed, and divorced) in the population at risk.
+Separated women comprise a large proportion of Black women in the childbearing ages, particularly Black women age 25 and over. In California in 1970, among Black women aged 25-34, 13.6 per cent were separated and 11.3 per cent were divorced. The comparable figures for the United States were 13.8 per cent and 6.4 per cent (see Table 6). Inclusion of separated
+
+TABLE 6
+PER CENT OF BLACK AND W H I T E WOMEN m THE CHILDBEARINC ACES W H O ARE SEPARATED OR DIVORCED: UNITED STATES AND CALIFORNIA,
+1970
+
+RACE AND AGE
+Black 15-44 15-19 . . 20-24 . . 25-34 . . . . 35-44 , . ..
+White 15-44 15-19 . . 20-24 . . 25-34 .. 35-44 . .
+
+PER CENT SEPARATED
+Cali- United
+fornia Sutes
+9.8 9.7 1.5 1.2 8.4 7.8 13.6 13.8 12.8 14.5
+2.2 1.6 0.6 0.4 2.7 1.9 2.7 2.0 2.6 1.9
+
+PER CENT DIVORCED
+Cali- United fornia States
+8.7 4.6 0.3 0.2 5.0 2.4 11.3 6.4 15.1 8.3
+5.5 3.3
+0.4 0.3 4.1 2.6 7.0 4.4 8.6 5.1
+
+women were being included in counts of illegitimate births in California was confirmed by data we obtained as a by-product of a study of high-risk pregnancies in three hospitals in the San Francisco Bay Area. In the three hospitals studied, records of normal and complicated deliveries in 1973 were abstracted. From information in the case record, the apparent legitimacy status of the child was determined, using the same definition of illegitimacy as is approximated by the inferential method, i.e., that the mother was not married to the father of the child. For all cases classified illegitimate, information from the hospital record was obtained about the specific marital status of the mother.
+The sample consisted of 1,237 live births of which 324 were classified illegitimate. As shown in Table 7, among the mothers of the illegitimate babies, we found that while most (84 per cent) had never been married, the percentage separated was almost as large as the percentage divorced (7 per cent vs. 8 per cent). Among the Black mothers in the sample aged 25 and over, 17 per cent were separated and 21 per cent divorced. Thus, there seems little question that, at least in California, separated women having children by men other than their husbands are being included in the counts of illegitimate births and therefore that separated women cannot be excluded from the denominators that are used to calculate illegitimate birth rates.6
+Another reason for our decision to consider separated women at risk in both "our
+
+SOUJICES: U.S Bureau of the Census, 1972, Table 152; 1973, Table 203
+women in the population at risk of illegitimate childbearing makes a substantial difference in Black birth rates. As is shown below, it lowers the illegitimate rate 'and raises the legitimate one.
+The suspicion that births to separated
+
+5Separated women also may be having babies by their legal husbands, although our contacts with hospitals and our work with birth certificates in California have not indicated that this is a large group. It would be desirable in calculating rates to distinguish between the two groups of separated mothers and also to estimate the proportion of separated women in the population who have lived apart from their husbands for more than nine months and thus are not likely to be at risk of having a legitimate child. At present, however, these data are not available.
+
+Vol. 22, No. 4
+
+Options in Measuring Illegitimacy
+
+367
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+TABLE 7
+ILLEGITIMATE BIRTHS BY MARITAL STATUS, RACE, AND AGEor MOTHER: SURVEY OF 1973 BIRTHS IN THREE CALIFORNIA HOSPITALS
+
+RACE
+AND
+AGE
+AH races All ages Under 20 20-24 25 and over
+White All ages Under 20 20-24 25 and over
+Black All ages Under 20 20-24 25 and over
+
+No. *
+324 119 125 80
+65 13 25 27
+250 104
+94 52
+
+Single
+83.6 97.5 84.0 62.5
+84.6 t î %
+83.2 98.1 81.9 55.8
+
+PER CENT ILLEGITIMATE BIRTHS BY MARITAL SiATUst
+
+Divorced
+
+Widowed
+
+8.3 0.8 7.2 21.2
+9.2 t t t
+8.0 1.0 8.5 21.2
+
+0.3 ... ... 1.2
+... î î t
+0.4
+... 1.9
+
+Separated
+6.8 0.8 8.8 12.5
+6.2 Î î î
+7.2
+9.6 17.3
+
+SOURCE: State of California, Department of Health, special study of deliveries in three hospitals in the San Francisco Bay Area.
+* Includes births with marital status unknown. t Per cents are rounded independently and may not add to totals.
+Í Per cents not calculated on a base of less than 50.
+
+interstate study and our California esti- women aged 25-34 in California in 1970,
+
+mates was thelikelihood that some women the two figures were 35 percent and23 per
+
+who have never been married buthave had cent. Thus, it appears that by excluding
+
+a child may report themselves as separated separated women from the population at
+
+in the census and the Current Population risk, NCHS has probably overestimated the
+
+Survey (Shryock and Siegel, 1973). In magnitude of the nonwhite illegitimate
+
+their calculation of illegitimate birth rates, birth rate. As for white women, their rates
+
+NCHS does not consider separated women both in California and the United States
+
+at risk, although they have indicated to us were much less affected by inclusion or
+
+that in future years they may do so for exclusion of the separated.
+
+special studies.
+
+How much difference does it make in illegitimate and legitimate birth rates if
+
+COMPARISON OF NCHS AND STUDY RATES
+
+separated women are included with the So far we have discussed thenumbers of
+
+unmarried? Our finding is that it makes illegitimate births and the women exposed
+
+considerable difference (see Table 8). For to risk. How do the rates published by
+
+nonwhites in the whole country in 1970, NCHS compare with the rates estimated
+
+inclusion of the separated in the denomi- in our interstate study for the years
+
+nator lowers the illegitimate birth rate by 1965-71?
+
+17 per cent and raises the legitimate rate Except for 1969 and 1970, the rates from
+
+by 19percent. For ages 25-34, the differ- the two sources during 1965-71 were virtu-
+
+ence is even greater. Theillegitimate rate ally the same for white women of all ages
+
+is lowered by 33 per cent; the legitimate (see Table 9). This similarity occurredbe-
+
+rate, raised by 20 per cent. For Black cause of compensating differences. Al-
+
+368
+
+Berkov and Sklar
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+TABLE 8
+
+it also used a smaller estimate of the popu-
+
+BIRTH RATES BY LEGITIMACY STATUS CONSIDERING SEPARATED WOMEN AT RISK AND NOT AT RISK OF ILLEGITIMATE CHIIDBEARING: UNITED STATES, 1970*
+
+BntTH RATE
+CONSIDERING SEPARATED WOMEN
+
+ACE, RACE AND TYPE OP RATE NOT AT RISK AT RISK
+
+Women aged 15-44t
+
+Nonwhite
+
+Illegitimate
+
+90.6
+
+Legitimate
+
+134.S
+
+White
+
+Illegitimate . . . . 13.S
+
+Legitimate
+
+122.1
+
+Women aged 20-24
+
+Nonwhite
+
+Illegitimate
+
+126.5
+
+Legitimate
+
+274.3
+
+White
+
+Illegitimate . . . . 22.3
+
+Legitimate
+
+253.3
+
+Women aged 2S-34 Nonwhite Illegitimate
+Legitimate White
+Illegitimate Legitimate
+
+80.6 127.0
+16.2 127.8
+
+Women aged 3S-44§ Nonwhite Illegitimate Legitimate White Illegitimate
+Legitimate
+
+21.2 29.7
+4.0 20.3
+
+7S.5 160.0
+12.9 125.2
+110.0 317.8
+21.2 261.5
+54.2 152.4
+14.2 130.9
+13.4 35.7
+3.5 20.8
+
+PER CENT DIPPER-
+ENCEt
+-- 16.7 19.0
+--4.4 2.5
+--13.0 15.9
+--4.9 3.2
+--32.8 20.0
+--12.3 2.4
+--36.8 20.2
+--12.S 2.5
+
+lation at risk by excluding the separated. In 1969 and 1970, however, the NCHS estimates failed to pick up particularly sharp rises in illegitimacy that had occurred in nonreporting states. The maximum difference was in 1970 when our rate was 14.5, or 4 per cent above the NCHS rate of 13.9. Since the NCHS rates showed less rise in illegitimacy in 1969 and 1970, they also showed less decline in 1971 associated with theincreased availability of legal abortion. Nevertheless, both sets of rates showed the same trend--still confining our attention to whites--before and after 1970.
+For the various age groups of white women, our rates show no constant differences from those of NCHS. Our study rates are higher for younger women, but lower for older women. Among teenagers in 1970, for example, the interstate study rate was 8 per cent above the comparable NCHS rate (11.8 vs. 10.9), while for women aged 25-34, it was 3 per cent below the NCHS figure (17.8 vs. 18.4). Our higher teenage rates resulted from the larger number of illegitimate births obtained by including inferential data; but our lower rates at
+
+SOURCES: National Center for Health Statistics, ¡97Ab, Tables 10 and 11; U.S. Bureau of the Census, 1973, Table 203.
+* Rates are illegitimate births per 1,000 unmarried women and legitimate births per 1,000 married women. All illegitimate birth rates consider single, divorced, and widowed women as unmarried and exposed to the risk of illegitimate chiidbearing.
+Rates were calculated by varying denominators but using only one set of numerators. Births by legitimacy are published NCHS figures derived by extending experience of reporting to nonreporting states. Denominators are 1970 census figures. Rates in this table will differ slightly from those published by NCHS (shown in Table 9) because NCHS denominators are three-year moving averages of Current Population Survey estimates rather than census figures.
+t Per cent difference in rate resulting from considering separated women at risk of illegitimate chiidbearing.
+t Births to women all ages and unknown age related to women aged 15-44.
+S Births to women aged 3S and over related to women aged 35-44.
+
+older ages resulted from the inclusion of separated women in the population at risk. Although we counted more illegitimate births for older white women, this fact was more than compensated for by theinclusion of separated women.
+As for nonwhite women, our rates throughout the 1965-71 period are lower than the NCHS rates by 16 to 26 per cent, mainly because we have treated separated women as exposed to the risk of out-ofwedlock chiidbearing. Since the proportion
+
+though the NCHS used a smaller estimate separated is particularly high among non-
+
+of the number of illegitimate births (be- white women aged 25 and over, thedis-
+
+cause of its method of applying the experi- crepancy between our rates and those of
+
+ence of reporting to nonreporting states), NCHS for this group is even greater. Our
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+Vol. 22, No. 4
+
+Options in Measuring Illegitimacy
+
+369
+
+TABLE 9
+IlXECITIMATE AND LEGITIMATE BlRTHS PER 1,000 UNMARRIED AND MARRIED WOMEN AGED 15-44
+ESTIMATED BY NCHS AND INTERSTATE STUDY: UNITED STATES, 1965-1971*
+
+RACE AND YEAH
+
+AU races 1971
+1970 1969
+1968 1967 1966 1965
+
+,
+
+White 1971 1970 1969 1968
+1967 1966 1965
+
+Non white 1971
+1970 1969
+1968 1967 1966 1965
+
+..
+
+Study Estimate
+24 2
+25 7 24 1 23.2 22.7 22.2 22.2
+12.7 14.5 13.8 13.1 12.6 12.0 11.7
+74.1 75.1 70.0 68.9 69.5 70.3 72.3
+
+ILLEGITIMATE
+NCHS Estimate
+
+Per Cent Differencet
+
+25.6 - 5 . 5 26.4 - 2 . 7 25 0 --36 24.4 --4.9 23.9 --5.0 23.4 --5.1
+23.5 --5.5
+
+12.5 1.6 13.9 4.3 13.5 2.2 13.2 --0.8 12.5 0.8 12.0 0.0 11.6 0.9
+
+90 6 -- 18.2 89.9 - 1 6 . 5 86 6 -- 19.2 86.6 --20.4 89.S --22.3 92.8 --24.2 97.6 --25.9
+
+Study Estimate
+120.0 127.4 124 9 123.5 126.1 131.0 136.6
+116.9 124.2 121.6 119.9 121.9 126.3 131.3
+147.8 156.3 154.8 155.9 164.4 174.7
+186.0
+
+LEGITIMATE
+NCHS Estimate
+
+Per Cent Differencet
+
+113.5 121.1 119.2 117.2 119.3 124.2 130.8
+
+5.7 5.2 4.8
+5.4
+5.7 5.5
+4.4
+
+112.0
+119.6
+117.1 115.0 116.7 121.4 127.7
+
+4.4 3.8 3.8
+4.3 4.5 4.0 2.8
+
+125.0 132.8 136.2
+134.9 139.5 145.7 154.4
+
+18.2
+17.7 13.7 15.6 17.8 19.9 20.5
+
+SOURCES: International Population and Urban Research, University of California, Berkeley, special estimates of birth rates by legitimacy for the United States, 1965-1971; National Center for Health Statistics, 1975«, Tables 1-30, 1-31.
+* Births to women all ages and unknown age related to unmarried and married women aged 15-44. t Per cent study estimate is greater or less than the NCHS estimate.
+
+rates are from 35 per cent to 55 per cent tors that did not fully reflect the decline in less. nonwhite illegitimate births associated with
+Turning now to the trends in nonwhite legal abortion in New York and California illegitimacy, the two sets of rates arenot in 1971. Our study showed that nonwhite similar as they were for whites. While our women used legal abortion when it was rates show an overall rise of 4 per cent in readily available in their state of residence, nonwhite illegitimacy between 1965and but made much less use of out-of-state 1970, the NCHS rates show a decline of abortion than did white women. 8 percent. The reasons for this discrepancy Thus, it appears that, in our studies at are not entirely clear, but probably are least, incorporating inferential information related to the different definitions of the from nonreporting states and inclusion of population at risk. Between 1970 and 1971, separated women in the population at risk the twosets of rates reversed direction and provided more sensitive indicators of the thus continued to show opposite trends. In impact of legal abortion on legitimate and 1971, our rates dropped while the NCHS illegitimate fertility than would have been rates rose. This divergence in trend in 1971 possible using only the NCHS rates. We occurred because the NCHS used numera- believe our estimates approximate more
+
+370
+
+Berkov and Sklar
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+closely the actual incidence of out-ofwedlock childbearing. Further improvements in measuring illegitimacy could be achieved if there were better understanding and agreement about the practical and analytic purposes to be served by thelegitimacy question on the birth certificate.
+It is likely that the legitimacy question will be rephrased in order to drop the term illegitimate. The next revision of the standard certificate of live birth will recommend that the question "Is mother married?" replace the question "Legitimate? (yes or no)."In interpreting either the new question or the old, considerable confusion can be avoided by recognizing that by whatever name it is called illegitimacy remains the same phenomenon and data about it are needed to understand its personal and social consequences. Because illegitimate childbearing remains at high levels in the United States, there is need for continuing evaluation and improvement of the data.
+
+ACKNOWLEDGMENTS
+This article is adapted from a paper presented at the Annual Meeting of the Population Association of America, April, 197S in Seattle, Washington. The studies reported in this article are part of a cooperative project between the California State Department of Health and the University of California, Berkeley. The project is headed byProfessor Kingsley Davis andpartly supported by a contract with the National Institute of Child Health and Human Development, Center for Population Research (NIH-NOI-HD-32728).
+This report wasmade possible through the cooperation of the California Department of Health, in particular, George C. Cunningham, M.D., Chief, Maternal and Child Health Unit, and Roger E. Smith, Acting Chief, Vital Statistics Section. Research assistance was provided by Sarah Lee Tsai, Arlene Guerriero, Harriet Heydemann, Barbara Meilers, and Mick Sawka of International Population and Urban Research.
+We thank Carol Madore, Research Assistant, Family Health Services, California Department of Health, for the data from three hospitals in the SanFrancisco Bay Area. Wealso thank John Patterson, Director, and Stephanie Ventura, Statistician, Division of Vital Statistics, NCHS, for providing unpublished data and for comments on an earlier version of this paper.
+
+REFERENCES
+
+BERKOV, B.A study of the classification of Cali- birth rates in abortion andnonabortion states,
+
+fornia birth certificates by apparent legitimacy United States, 1965-1971. Unpublished paper.
+
+status. Unpublished paper. (Copies available (Copies available on request.)
+
+on request.)
+
+MULLIGAN, J. E., J. SKLAR, and B. BERKOV. 1974.
+
+BERKOV, B., and P. W. SHIPLEY. 1971. Illegitimate Is "illegitimacy" illegitimate? Fam. Plan. Persp.
+
+births in California, 1966-1967. State of Cali- 6:196-197.
+
+fornia, Department of Public Health, Berkeley. NATIONAL CENTER FOR HEALTH STATISTICS. Un-
+
+CENTER FOR DISEASE CONTROL. NO date. Abortion published data on 1973 births in states report-
+
+surveillance report, annual summary, 1970. At- ing births by legitimacy.
+
+lanta, Georgia.
+
+. 1974a. Vital statistics of the United States,
+
+. 1972.Abortion surveillance report, annual 1969. Vol. I, Natality. Government Printing
+
+summary, 1971. Atlanta, Georgia.
+
+Office, Washington, D.C.
+
+CLAGUE, A. J., and S. VENTURA. 1968. Trends in
+
+. 1974b. Monthly vital statistics report.
+
+illegitimacy, United States--1940-1965. National Vol. 22, No. 12, Suppl., March 20. Government
+
+Center for Health Statistics, Series 21, No. 15. Printing Office, Washington, D.C.
+
+Government Printing Office, Washington,D.C.
+
+. 1974c. Monthly vital statistics report.
+
+CUTRIGHT, P. 1972. Illegitimacy in the United Vol. 23, No. 3, Suppl., June 7. Government
+
+States: 1920-1968. In C. F. Westoff andR. Printing Office, Washington, D.C.
+
+Parke (eds.), Demographic and social aspects
+
+. 1974d. Monthly vital statistics report.
+
+of population growth. Commission on Popula- Vol. 23,No. 8, Suppl., October 31. Government
+
+tion Growth and the American Future. Govern- Printing Office, Washington, D.C.
+
+ment Printing Office, Washington, D.C.
+
+. 1975a. Vital Statistics of the United States,
+
+CUTRIGHT, P., F. F. FURSTENBERG, J R . , J . SKLAR,
+
+1971. Vol. I, Natality. Government Printing
+
+and B.BERKOV. 1974.Teenage illegitimacy: An Office, Washington, D.C.
+
+exchange. Fam. Plan. Persp. 6:132-135.
+
+. 19756. Summary report, final natality
+
+DAVIS, K. 1939. The forms of illegitimacy. Soc. statistics, 1973. Monthly vital statistics report.
+
+Forc. 18:77-89.
+
+Vol. 23, No. 11, Suppl., January 30. Government
+
+GUERRIERO, A., and S. L. TSAI. Sources and meth- Printing Office, Washington, D.C.
+
+ods for estimating legitimate and illegitimate SHRYOCK, H. S., and J. S. SIEGEL. 1973. The meth-
+
+Vol. 22, No.4
+
+Options in Measuring Illegitimacy
+
+371
+
+ods and materials of demography. Vol. 1, p. 286-288. Government Printing Office, Washington, D.C.
+SKLAR, J., and B. BERKOV. 1973. The effects of
+legal abortion on legitimate and illegitimate birth rates: The California experience. Stud. Fam. Plan. 4:281-292.
+. 1974a. Teenage family formation in postwar America. Fam. Plan. Persp. 6:80-90.
+. 1974b. Abortion, illegitimacy and the
+American birth rate. Science 185:909-915.
+U.S. BUREAU of THE CENSUS. 1972. Census of the
+
+population: 1970. Detailed characteristics, Final report PC(1)-D6, California, Section 1. Government Printing Office, Washington, D.C.
+. 1973. Census of the population: 1970. Detailed characteristics, Final report PC(1)-D1, U.S. summary. Government Printing Office, Washington, D.C.
+WASHINGTON STATE DEPARTMENT OF HEALTH.
+1962. Adoptions among children born in the state of Washington in 1956. Unpublished paper on file in the Natality Statistics Branch, Division of Vital Statistics, National Center for Health Statistics, Rockville, Md.
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+

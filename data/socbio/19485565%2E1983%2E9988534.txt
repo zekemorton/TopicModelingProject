@@ -1,0 +1,351 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Age of mother and pregnancy outcome in the 1981 Arkansas birth cohort
+William D. Mangold
+To cite this article: William D. Mangold (1983) Age of mother and pregnancy outcome in the 1981 Arkansas birth cohort, Social Biology, 30:2, 205-210, DOI: 10.1080/19485565.1983.9988534 To link to this article: http://dx.doi.org/10.1080/19485565.1983.9988534
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 7
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:39
+
+Age of Mother and Pregnancy Outcome in the 1981 Arkansas Birth Cohort
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+William D. Mangold
+Department of Sociology University of Arkansas Fayetteville, Arkansas
+
+ABSTRACT: The relationship between the age of mother and pregnancy outcome is examined using the matched birth-infant death data for Arkansas. Indicators of pregnancy outcome are examined in relation to measures of SES and access to health care. The hypothesis that the elevated rate of newborn mortality and morbidity among infants delivered by adolescents as a consequence of biologic immaturity is examined. The analysis suggests that the higher levels of obstetric risk observed among teenage mothers is an artifact of lower SES and inferior access to health care and not biological immaturity as previously assumed.
+
+During the past decade a vast body of research has been conducted that deals with some aspect of pregnancy and childbearing among teenagers. In nearly every instance these studies conclude that teenage pregnancy results in problems for the teenage mother, her child, and the larger society. Demographically, teenage fertility is associated with higher rates of population growth, even if completed fertility remains constant. Coale and Tye (1961), Keyfitz (1968), and Coale (1973) demonstrate the mathematical relationship between the mean age at fertility and intrinsic rates of growth.
+Aside from higher intrinsic rates of growth, early entry into childbearing typically produces shorter birth intervals and higher terminal parities (U.S. Bureau of the Census, 1978). Presser (1971) argues that women experiencing pregnancy as a teenager are more likely to become fatalistic about their ability to limit family size and therefore are less effective contraceptors.
+Another facet of motherhood at a young age is the impact that early preg-
+
+nancy has upon status attainment. A series of studies (Pohlman, 1968; Freedman and Combs, 1970; Hofferth and Moore, 1979) have illustrated that early pregnancy has a sustained negative impact on the accumulation of income throughout marriage. Baldwin and Cain (1980) argue that adolescent pregnancy is related to higher levels of marital discord. Cohen et. al. (1980) presented some tentative evidence that mental development is positively related to the age of the mother.
+The health consequences of adolescent pregnancy include higher rates of malnutrition and prematureity (Siegal and Morris, 1970). Early studies of the relationship between maternal age and infant and maternal mortality concluded that the higher rates observed at each end of the age distribution were the result of biologic factors. Recently, however, a number of researchers have suggested that teenage pregnancy may be associated with lower not higherlevels of maternal and obstetric problems than is true of older women (Rothenberg and Varga 1981; NCDC, 1980;
+
+205
+
+206
+
+Mangold
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+NCHS, 1980). Baldwin and Cain (1980) and Morris (1981) have pointed out that the observed rates of newborn mortality among teenage mothers is probably an artifact of the higher levels of poverty and inadequate health care common to teenage pregnancy. Once the social and economic factors have been controlled, higher rates of mortality among neonates of teenage mothers disappear. It is felt that the observed levels of mortality among teenage mothers stems from their social, economic, and health care inequalities and not from innate biological immaturity.
+What is the relative importance of the three sets of factors as a determinant of pregnancy outcome? Specifically, how is pregnancy outcome related to age after controls have been made for differences in social status and differential access to medical care? What are some of the implications that these relationships may have on population and public health policies? These are the major issues to be addressed in the following analysis.
+MATERIALS AND METHODS
+The data upon which this study is based consist of matched Arkansas birth-infant death records for 1978.
+
+These data include all of the information contained in the standard vital statistics forms asfiledwith the Arkansas Department of Health. As the data consist of matched birth and infant death records, it is possible to relate characteristics contained on either record. The resulting data permit a detailed analysis of information contained on the infant death record with information on birth record. In 1978 there were 36,341 births to residents of Arkansas. There were 479 deaths to the members of this birth cohort and of these, 477 were successfully matched. Of the total number of births 11,810 were nulliparious women. Due to the strong relationship between age and parity and the confounding effects that parity has on pregnancy outcome, the analysis that follows will be restricted to these 11,810 births.
+RESULTS
+Table 1 presents the means for several indicators of pregnancy outcome by age. It is well established that infants delivered by adolescents have a lower birth weight than is true of older mothers. Since there is a fairly strong association between birth weight and prematurity, the lower birth weight among the new-
+
+TABLE1
+SELECTED INDICATORS OF PREGNANCY OUTCOME BY AGE OF MOTHER: ARKANSAS, 1978 BIRTH COHORT
+
+AGE No.
+
+Under 16 .. 16-17 . . . . 18-19 20 & up
+Total . . . . .
+
+446 1,744 2,525 7,094
+11,810
+
+Birth Weight (Grams)
+3088.2 3185.2 3247.8 3328.5
+3278.6
+
+Month Care Started
+3.72 3.47 3.21 2.59
+2.91
+
+INDICATOR
+
+Number of
+Visits
+
+1-Minute Apgar Score
+
+7.7 7.86 8.3 8.06 9.2 8.03 10.9 8.03
+10.0 8.03
+
+5-Minute Apgar Score
+9.07 9.18 9.19 9.17
+9.17
+
+Infant Mortality
+Rate
+17.8 15.1 10.5 11.9
+12.3
+
+Vol. 30, No.2
+
+Arkansas Birth Cohort
+
+207
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+born delivered by adolescents is typi- nant teenager finds herself? In order to
+
+cally regarded as an indicator of biologi- examine these relationships further, a
+
+cal immaturity.
+
+series of multiple regression analyses
+
+The importance of low birth weight were made taking each of the indicators
+
+also stems from the fact that there is a of pregnancy outcome as the dependent
+
+strong association between birth weight variable. The independent variables
+
+and neonatal mortality. As can be seen, were divided into two categories--those
+
+the youngest women--those under 16-- indicative of social and economic.status
+
+have babies that are about 240g under (race, education and marital status) and
+
+the mean birth weight for mothers of all those indicating health access (month
+
+ages. The second indicator is the month that prenatal care started and number of
+
+of pregnancy that prenatal care was ini- visits). The correlation matrix upon
+
+tiated. Again, adolescents have a nega- which these analyses were carried out is
+
+tive departure from the overall mean. displayed in Table 2 but will not be dis-
+
+Once care is initiated, the teenager has cussed further here.
+
+fewer prenatal visits than is true of older mothers. For each of the last two indicators, there is a perfect inverse rank correlation between age and access to health care.
+
+Table 3 presents the results from the multiple regression analyses. The table presents the partial regression coefficients for each independent variable, the intercept, and multiple R2 and F for
+
+Both one- and five-minute Apgar each model. An examination of the mul-
+
+scores show that newborns delivered by tiple regression equation for birth
+
+the youngest adolescents--those 15 and weight reveals that race is the only varia-
+
+under--have the lowest scores. It ap- ble inversely related to birth weight.
+
+pears that by age 16, age has little impact That this slope is inverse is understand-
+
+on these scores. The scores shown able given the white-black birth weight
+
+closely parallel those recently published differentials. The only surprise among
+
+by the National Center for Health Sta- the health indicators is the positive asso-
+
+tistics (1981). The final, and the most ciation between the month that care
+
+important indicator is the infant mortal- started and birth weight. It was expected
+
+ity rate. The rate of 17.8 observed that this relationship would be negative.
+
+among women 15 and under is nearly 45 Examination of the dummy variables
+
+per cent higher than is true for mothers that represent age reveals that the par-
+
+over the age of 20. It is noteworthy that tial slope for each adolescent category is
+
+the lowest mortality rate is found among positively related with,birth weight, and
+
+infants delivered to adolescents aged 18 not negatively as demonstrated in Ta-
+
+and 19.
+
+bles 1 and 2.
+
+Based upon the preceding, it appears Both the one- andfive-minuteApgar that childbearing among teenagers is re- scores reveal that once the effects of solated to higher levels of prematurity, de- cial and health care access are controlled pressed Apgar scores, reduced access to there is no significant association behealth care and, at the youngest ages, el- tween age and the score. The oneevated newborn mortality. To what ex- minute measure is the only score lowtent are these findings the result of bio- ered as a result of an age effect, and this logical immaturity versus the social and is only true for the youngest teenagers.
+medical environment in which the preg- The relationship between mortality
+
+208
+
+Mangold
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+OOsOOOO^(N
+
+o_r-io>-'0'^oop--i(N d o o o' o d o' d o' o d
+
+II I I
+
+III
+
+mortality as a dichotomy, the measure of mortality used here is the reciprocal of the interval from birth to death during
+
+the infant period or first year following
+
+o o o o' o' o o' o o o II II I
+
+birth. This measure can be thought of as the
+
+000000000 II II I I
+
+"force of mortality" experienced in the first year of life. Among infants surviv-
+
+ing the infant period the force of mortal-
+
+oooooooo II I I I II Tt IO VI t CO O ^H <NJ o o O O O t^
+
+ity is 0. Infants dying in the first 24 hours arbitrarily have a force of mortality of 1. Of the variables indicating social
+
+oddo'odo o . I
+
+status--marital status, education, and race--two are significant. The force of
+
+OS U
+S
+oo
+
+o o o o oo II
+\O OO O OO u-1
+00000 II
+
+mortality is higher among neonates delivered by single and nonwhite mothers.
+The proxy variables for health care are both inversely related to the force of mortality and are significant at
+
+u<
+EZ
+
+oddd
+00 00
+
+p = 0.001. The dummy variables for age show that the force of mortality is significantly lower among the youngest and
+
+oldest adolescents after the effects of
+
+SES and health care access have been
+
+o o removed. The partial slope of the
+
+S s II
+
+dummy representing 16-17 year olds is
+
+positive but fails to achieve statistical
+
+§6 significance. Although some explana-
+u tion for the reversal of the sign of the N slope for the dummy representing 16-17
+
+year olds is needed, none can be found.
+
+·I 1 « Ji *~
+liifl!l<ls£J<<llsfalll!
+and the social, medical, and age variables is the last model presented in Table 3. Rather than use the traditional binary variable for the presence or absence of
+
+DISCUSSION
+It is clear from the preceding that the strength of association for each of the regression models is weak. The largest multiple R2 is but 0.08 birth weight and is 0.05 or less for the remaining variables. Taken as sets of predictors, the proxy variables for health access (month care started and number of visits) have the strongest association with each of the dependent variables. The indicators of social status (education, race, and marital status) have a weaker associa-
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+Vol. 30, No. 2
+
+Arkansas Birth Cohort
+
+209
+
+TABLE 3
+REGRESSION EQUATIONS FOR SELECTED INDICATORS OF PREGNANCY OUTCOME: ARKANSAS, 1978 BIRTH COHORT
+
+INDEPENDENT VARIABLES
+Marital Status (1-married)
+Education Race(l = mv) Month care
+started Number of
+visits Age(<16 = l) Age (16-17 = 1) Age(18-19 = l) Intercept R2
+F(8,9989)
+·p=0.05. tp = O.Ol. Xp= 0.001.
+
+Birth Weight
+27.77* 15.21* -207.30$
+17.85*
+31.47* 36.41* 20.32 12.06 2767.94 0.004 5.37
+
+INDICATOR
+
+l-Minute Apgar
+
+5-Minute Apgar
+
+-0.0028 0.0225*
+-0.1547*
+0.3843*
+-0.0097* -0.0497
+0.0326 0.0038 7.80 0.080 104.0
+
+-0.0071 0.0009
+-0.1797*
+0.0172t
+-0.0106* 0.017 0.0029 0.0267 9.28 0.004 4.95
+
+Infant Mortality
+0.0026t -0.0002
+0.0033*
+-0.0009*
+-0.0007* -0.0037*
+0.0027 -0.0004
+0.0124 0.005 6.28
+
+tion, and there is virtually no age effect observable once the effects of SES and health access have been controlled for. A series of stepwise regression analyses (results not presented here) show that the multiple partial for health access indicators and mortality is 0.036, while the same coefficients for social status indicators and age are 0.001 and 0.0006 respectively. Similar results are obtained using the other dependent variables.
+It would appear that the observed differences in mortality and birth weight among newborns delivered by teenagers is spurious. After the effects of lower status and health care access have been removed, the apparent biological disad-
+
+vantages attributed to teenagers disappears and, in the case of mortality and birth weight, is replaced by a slight advantage. This advantage is observed through the use of statistical controls and will not be observed in the population at large unless there are changes in the policies governing access to contraception, abortion, and health care by adolescents--especially those at the youngest ages.
+ACKNOWLEDGMENTS
+This paper is a revised version of a paper presented at the Mortality Section of the Southern Sociological Society, Memphis, Tennessee, April 14-17,1982.
+
+REFERENCES
+
+BALDWIN, WENDY, and V. CAIN. 1980. The
+children of teenage parents. Fam.Plan. Perspect. 12:34-43. CHASE, H. 1972. Comparison of neonatal mor-
+
+tality from two cohort studies. National Center for Health Statistics. Series 20(13). Rockville, Md.
+COHEN, PATRICIA ET AL. 1980. The effects of
+
+210
+
+Mangold
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+teenage motherhood and maternal age on offspring intelligence. Soc.Biol. 27:138154. COALE, A. 1973. The growth and structureof human populations. Princeton Univ. Press, Princeton.
+COALE, A., and C. V. TYE. 1961. The significance of age patterns of fertility in high fertility populations. Milbank Mem. Fund Quart. 39:631-646.
+FREEDMAN, RONALD, and L. COOMBS. 1966.
+Childspacing andfamily economic position. Amer. Sociol. Rev. 31:631-648.
+HOFFERETH, SANDRA L., and K. MOORE. 1979.
+Early childbearing andlater economic wellbeing. Amer. J. Sociol. 44:784-815. KEYFITZ, N. 1968.Introduction to the mathematics of population. Addison-Wesley, Reading, Mass.
+MORRIS, NAOMI. 1981. The biological advantages andsocial disadvantages of teenage pregnancy. Amer. J.Pub. Hlth. 71:796.
+NATIONAL CENTER FOR DISEASE CONTROL. 1980.
+Teenager childbearing and abortion patterns: U. S., 1977. Vol. 29:157-159. Atlanta, Ga.
+NATIONAL CENTER FOR HEALTH STATISTICS.
+1980. Factors associated with low birth weight: United States, 1976.DHEW Pub. No. (PHS) 80-1915. Rockville,Md.
+. 1981.Apgar score in theUnited States.
+
+1978. Vol.30(1) Supplement. Rockville, Md.
+POHLMAN, EDWARD. 1968. The timing of the
+first birth: Areviewof effect. Eugen. Quart. 15:252-263.
+PRESSER, HARRIET, 1971. Thetiming of the first birth, female roles and black fertility. Milbank Mem. Fund Quart. 3:329-362.
+ROTHENBERG, PEARILA B. and PHYLLIS E.
+VARGA. 1981.The relationship between age of mother and child health and development. Amer. J. Pub. Hlth. 71:810-817.
+SIEGAL E. and N. MORRIS. 1970. The epidemiol-
+ogy of human reproductive casualties with emphasis onthe role of nutrition in maternal nutrition in thecourse of pregnancy.National Academy of Sciences, Washington, D.C.
+SIEGEL, E. and N. MORRIS. 1970. The epidemi-
+ology of human reproductive casualties, with emphasis on therole of nutrition. In Maternal nutrition and the course of pregnancy. Committee on Maternal Nutrition, Food and Nutrition Board, National Resource Council. National Academy of Sciences, Washington.
+U. S. BUREAU OF THE CENSUS. 1978. Trends in
+childspacing. June 1978. Current Population Report. P-20. No.315. Washington, D C.
+
+

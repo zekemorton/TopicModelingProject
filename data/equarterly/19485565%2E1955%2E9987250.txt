@@ -1,0 +1,869 @@
+Eugenics Quarterly
+ISSN: 0097-2762 (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi18
+Ecological and social factors in mortality variation
+C. Horace Hamilton
+To cite this article: C. Horace Hamilton (1955) Ecological and social factors in mortality variation, Eugenics Quarterly, 2:4, 212-223, DOI: 10.1080/19485565.1955.9987250 To link to this article: http://dx.doi.org/10.1080/19485565.1955.9987250
+Published online: 23 Aug 2010. Submit your article to this journal Article views: 1 View related articles Citing articles: 5 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi18
+
+Download by: [University of Michigan]
+
+Date: 07 December 2015, At: 06:37
+
+ECOLOGICAL AND SOCIAL FACTORS IN MORTALITY VARIATION*
+C. HORACE HAMILTON
+North Carolina State College
+
+Introduction
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+J. HIS PAPER IS A PROGRESS REPORT of a
+study o£ mortality trends and differentials which has been underway more or less intermittently for the past 10 years. Although the study has been focused on North Carolina, some general analyses have been made of mortality trends and differentials in the south and in the nation. Within North Carolina, the study has been focused on an effort to explain variation in mortality rates between counties and subregions by means of multiple correlation analysis. The basic data for this study consists of state and national vital statistics and of United States Census data on population and housing.
+Conventional mortality rates, deaths per 1,000 population, adjusted to the age distribution of the 1940 total population of the United States have been used in the study of differentials and trends by sex, color, and rural-urban residence. Deaths per 100,000 population, age-adjusted as above, were used in the analysis of causes of mortality. In the multiple correlation analysis, the dependent variable consisted of North Carolina 1950 county mortality rates adjusted by the indirect method to the age distribution of the total population of the United States in 1950. Independent variables consisted of about 14 different series of social and economic characteristics of counties, such as median income, manufacturing population, farm population, color, home ownership, fertility ratios,
+*Contribution from the Rural Sociology Department, North Carolina Agricultural Experiment Station, Raleigh, North Carolina. Published with the approval of the Director of Research as Paper No. 683 of the Journal Series.
+
+modern plumbing, educational level, hospitals, physicians, and subregional location.
+The General Picture
+The general trends and differences in mortality rates by sex and color and by residence and color in the United States, in the south, and in North Carolina are shown in Table 1. The rates in this table have been adjusted by the direct method to the United States total population of 1940.
+Before attempting to make any summary statements about the mortality differentials in Table 1, I should like to raise some questions and to make a few comments about the use and misuse of certain statistical measures in describing and analyzing mortality rate differentials. It is a common but questionable practice to say that the mortality rate of one group is X per cent higher than that of another group. For example, a recent article on cancer included a number of such statements, one of which was to the effect that in a certain age group the mortality rate from respiratory cancer had increased 400 per cent within a twentyyear period. One might well ask: "Why not measure the change in terms of survival or vitality rates, that is, the complement of mortality rates?"
+Suppose, for example, that we wish to determine from the data of Table 1 whether white people or nonwhite people had made the more progress in achieving good health. By using one measure it appears that white people made the most progress, whereas by using another measure it appears that nonwhite people made the more progress.
+
+212
+
+213
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+Of the several measures that could be used, some tend to exaggerate the changes in the mortality rates of both groups; whereas, other measures tend to understate the magnitude of the changes. Consider for example the following statements about the changes in white and nonwhite mortality in North Carolina between 1940 and 1950.
+1. The mortality rate of white people declined 24.8 per cent as compared with a decline of 19.1 per cent in the case of the nonwhite population.
+2. The vitality rate of white people increased .252 per cent as compared with an increase of .284 per cent in the case of the nonwhite population.
+3. The mortality rate of white people declined 2.5 points as compared with a decline of 2.9 points in the case of nonwhite population.
+And to make a simple problem in human arithmetic even more confusing we shall add a fourth statement, based on life tables for white and nonwhite people in North Carolina:
+4. Between 1940 and 1950 the average expected future lifetime of white people increased 5.2 years (8.1 per cent over 1940) as compared with an increase of 6.0 years (11.0 per cent over 1940).
+Finally, we would like to suggest but not urge the use of a fifth measure based on the standard deviation of the dichotomal mortality-vitality variable, or, what is the same thing, the geometric mean of the mortality and vitality rates, i.e., "Vm(l-m). In terms of this measure, we can say:
+5. Between 1940 and 1950 the mortality rate of North Carolina white people declined (and the vitality rate increased) 2.5 per cent of a standard deviation, as compared with a similar change of 2.4 per cent in the case of the nonwhite population.
+Note, that in the case of statements 3 and 5, there is no inconsistency involved, attributable to the confusion between vitality and mortality rates, as is found in statements 1 and 2.
+Those who wish simple and meaningful
+
+answers to this little statistical puzzle will no doubt select statement 3. For quick comparisons the simple point difference between two mortality rates has a lot to be said for it. For one thing, the difference between two mortality rates has a lower limit of 0 and upper limit of 1 (or of 1,000, if such a base is used). In this respect the difference between two mortality rates is a measure of degree of association, much like Pearsonian coefficient of correlation. As a matter of fact, the difference between two mortality rates is mathematically speaking a regression coefficient, i.e., the regression of mortality on whatever dichotomous variable is represented by the two groups being compared e.g., color, sex, rural-urban residence. For example, we might ask "what is the degree of association between mortality and sex in the United States?" Table 1 shows the answer to this question to be .0031, that is, .0100--.0069. For the relationship to have been perfect, that is -\-l, all males in the United States alive at the beginning of 1950 must have died during the year and no females could have died.
+Now, for a few comments on the data of Table 1.
+First. Mortality rates in all groups are relatively low and are falling rapidly. This is considered to be a most desirable situation. However, the trend does have at least two important social consequences. (1) The decline in the mortality rate, accompanied by continued high birth rates, has brought about a rapid increase in our total population, the ultimate consequences of which need not be discussed now. (2) We have made it possible for a large percentage of our population to live to very old ages. There is real danger that the length of life will be extended faster than the arts of living and institutional arrangements can be developed to make old age living both a productive and pleasurable experience. As of 1950, 25 per cent of North Carolina white females at birth had an expected future lifetime of 85 years or
+
+214 Eugenics Quarterly
+
+TABLE I
+AGE-ADJUSTED MORTALITY RATES BY SEX, COLOR AND RESIDENCE 1940 AND 1950, UNITED STATES, THE SOUTH, AND NORTH CAROLINA*
+
+Residence, Color, and sex
+
+United States 1940 1950
+
+The South" 1940 1950
+
+North Carolina 1940 1950
+
+All Groups
+
+10.7 8.4
+
+White
+
+10.2 8.0
+
+Nonwhite
+
+16.2 12.2
+
+Male
+
+12.1 10.0
+
+Female
+
+9.3 6.9
+
+Urban
+
+11.4 8.9
+
+Rural
+
+9.8 7.4
+
+White Urban
+
+10.8 8.5
+
+White Rural
+
+9.3 7.1
+
+Nonwhite Urban
+
+18.1 13.1
+
+Nonwhite Rural
+
+14.4 10.9
+
+White Male
+
+11.5 9.6
+
+White Female
+
+8.8 6.4
+
+Nonwhite Male
+
+17.5 13.5
+
+Nonwhite Female 14.9 10.9
+
+11.6 8.7
+10.2 7.8
+16.1 12.6 13.0 10.3 10.1 7.1
+13.8 9.7 10.2 7.9 12.0 8.5 10.2 7.9 20.0 14.3 14.0 11.0 11.7 9.5 8.6 6.1
+17.4 13.6 14.8 11.0
+
+11.4 8.7
+10.1 7.6
+155 12.3 12.8 10.2 10.0 7.2 13.1 9.8 10.6 8.1 11.0 8.2 9.7 7.3 18.2 14.0 13.6 11.2 11.6 9.3
+8.6 5.9
+16.4 13.5 14.0 11.1
+
+·Adjusted to the total United States population of 1940. b"The South" in this table includes all 17 of the states classified as southern by the United States Census Bureau.
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+more as compared with 80 years for North
+
+Carolina white men. The corresponding
+
+expectancies for nonwhite women and men
+
+was found to be 80 and 75 years, respective-
+
+ly. The median years of future life ex-
+
+pected for the North Carolina sex and color
+
+groups in 1950 was found to be as follows:
+
+White male
+
+71.2 years
+
+White female
+
+77.3 years
+
+Nonwhite male 62.0 years
+
+Nonwhite female 65.7 years
+
+The mean life expectancies were found to be from 2.5 to 4.5 years less than the medians.
+Second. Of the population classes represented in Table 1, the mortality differentials between white and nonwhite people are greatest; differences by sex are next in order, and differences by rural-urban residence are third. As between the south, North Carolina, and the United States, mortality differentials are very small. Within color, sex, and residence groups the differences are even smaller--small enough to be ignored so far as this analysis of averages is concerned. (See Figure 1.)
+
+Third. Between 1940 and 1950, throwing all groups together, age-adjusted mortality rates in North Carolina and in the south as a whole declined more than the corresponding rates in the nation. How-
+
+ever, some color and residence differences are noted. In the decline in mortality rates from 1940 to 1950, southern whites fared better than the whites of other states; but southern nonwhites fared worse than the nonwhites of other states. Similarly, mortality of southern urban people (both white and nonwhite) declined more than the mortality of corresponding groups in other states; but the rates among southern rural people declined less than among rural people in other states.
+Fourth. In general, in all regions, between 1940 and 1950 mortality differences between whites and nonwhite and between rural and urban groups were getting smaller; but differences by sex in the white population were widening. Mortality differentials between males and females of the nonwhite population remained constant.
+Mortality Differences by Cause
+In this study to date we have only been able to analyze mortality differentials by sex and color, in North Carolina, in the south and in the nation for eight major causes for which the basic data were readily available in the Vital Statistics reports for the United States. Table 2 and Figure 2 show the results in compact form. The causes are arranged in order of mortality
+
+215
+
+AGE ADJUSTED MORTALITY RATES
+
+DCATMS PER 1,000 POPULATION
+
+ALL CAUSES
+
+1940-50
+ie
+
+NONWHITE MALES
+
+16
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+FEMALES
+
+1940
+
+.UNITED STATES THE SOUTH
+
+T.
+1950
+
+FIGURE 1
+
+rates for the United States in 1950 and all rates have been adjusted to the age distribution of the 1940 United States total population. However, the rates are expressed in terms of deaths per 100,000 population. About four-fifths of all deaths in the United States in 1950 were found in the eight
+
+causes represented in Table 2, and between 1940 and 1950 the percentage of deaths in these eight causes has increased in all sex and color groups and in all regions.
+Time and space does not permit a detailed analysis of the data in Table 2 but a few general statements can be made;
+
+216 Eugenics Quarterly
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+TABLI: 2
+DEATHS PER 100,000 POPULATION
+UNITED STATES, THE SOUTH, AND NORTH CAROLINA
+1940 AND 1950»
+
+United States 1940 1950
+
+The South
+
+1940
+
+1950
+
+North Carolina 1940 1950
+
+All Causes
+
+1076.4
+
+836.2
+
+White Male ·
+
+1148.9
+
+960.4
+
+White Female
+
+877.5
+
+641.1
+
+Nonwhite Male
+
+1747.7
+
+1346.1
+
+Nonwhite Female
+
+1492.2
+
+1082.6
+
+Diseases of the Heart and the Circulator)1 System
+
+White male
+
+344.3
+
+384.0
+
+White Female
+
+234.2
+
+224.8
+
+Nonwhite Male
+
+349.3
+
+408.8
+
+Nonwhite Female
+
+306.6
+
+344.4
+
+Cancer and Other Malignant Tumors
+
+White Male
+
+118.0
+
+131.1
+
+White Female
+
+98.0 119.5
+
+Nonwhite Male
+
+83.2 126.1
+
+Nonwhite Female
+
+119.2
+
+132.2
+
+Intracranial Lesions of Vascular Origin
+
+White Male
+
+87.3 87.6
+
+White Female
+
+82.7 80.1
+
+Nonwhite Male
+
+139.8
+
+144.5
+
+Nonwhite Female
+
+160.5
+
+154.1
+
+Accidental Deaths
+
+White Male White Female
+
+100.7 43.2
+
+812 30.7
+
+Nonwhite Male
+
+121.4
+
+107.7
+
+Nonwhite Female
+
+44.2
+
+Pneumonia and Influenza
+
+38.7
+
+White Male White Female
+
+70.2 27.2 55.6 19.0
+
+Nonwhite Male
+
+152.5
+
+63.4
+
+Nonwhite Female
+
+117.8
+
+50.7
+
+Tuberculosis (All Forms)
+
+White Male White Female
+
+44.0 23.3 27.9 10.1
+
+Nonwhite Male
+
+148.1
+
+82.0
+
+Nonwhite Female Nephritis (All Forms)
+
+117.0
+
+53.2
+
+White Male White Female
+
+81.8 16.4 67.6 12.5
+
+Nonwhite Male
+
+174.8
+
+44.7
+
+Nonwhite Female
+
+156.1
+
+41.5
+
+Diabetes Mellitus
+
+White Male
+
+20.6 11.3
+
+White Female
+
+32.9 16.4
+
+Nonwhite Male
+
+14.9 11.8
+
+Nonwhite Female
+
+32.1
+
+22.8
+
+1156.1 1170.4 862.1 1736.7 1484.6
+285.4 176.0 318.2 271.2
+86.5 98.7 61.9 103.7
+101.9 84.8 160.2 173.8
+102.7 44.2 120.5 43.8
+79.8 90.6 156.3 129.8
+49.9 39.3 114.2 101.0
+105.6 75.7 194.0 162.2
+16.2 19.5 11.8 23.5
+
+866.5 946.7 610.3 1356.8 1100.7
+352.6 193.0 407.0 336.6
+113.0 108.1 110.6 122.0
+93.7 77.9 164.0 183.4
+91.6 32.6 111.0 38.2
+30.6 24.8 63.7 54.8
+26.3 14.8 67.2 48.1
+20.0 14.7 51.9 46.7
+10.0 12.1 11,1 22.0
+
+1138.7 1160.8 862.0 1644.9 1399.9
+293.7 187.4 289.0 242.1
+73.6 92.6 61.4 104.1
+128.5 103.1 192.4 182.7
+100.7 41.3 111.5 41.7
+71.0 78,8 125.3 110.6
+38.8 23.6 142,1 109.6
+137.3 105.2 222.7 196.6
+20.3 20.3 12.8 25.3
+
+869.8 930.8 590.9 1348.7 1111.1
+378.3 198.9 446.0 378.7
+91.0 97.0 86.7 119.4
+116.6 92.3 186.8 180.9
+86.3 28.2 110.7 34.3
+26.8 25.0 60.9 55.1
+15.3 8.0 56.7 47.2
+22.2 14.9 50.9 49.2
+10.2 10.9 15.6 18.7
+
+·Adjusted by the direct method to the age distribution of the 1940 total population of the United States.
+
+First. Among the eight causes, in North Carolina, in the south and in the nation as a whole, mortality from the following causes has increased in most sex and color groups: diseases of the heart and the circulatory system, and cancer and other malignant tumors. Practically no change occurred in deaths due to intracranial lesions of vascular origin. Decreases occurred in the remaining five causes but were most pronounced in nephritis, pneumonia and influenza, and tuberculosis.
+
+Second. In diseases of the heart and the circulatory system, mortality rates were highest among nonwhite males, white males being second highest, nonwhite females fall in the third position, and white females having the lowest rates of the four sex and color groups. Although the southern states had mortality rates from heart disease slightly lower than those of other states in 1950, the differential gap appeared to be closing. That is to say, the south had a greater increase in heart disease mortality
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+217
+
+AGE ADJUSTED MORTALITY RATES 1 9 4 0 - 5 0
+DEATHS PER 1000 POPULA TV ON
+
+WHITE MALE
+
+WHITE FEMALE
+
+NONWHITE MALE
+
+NONWHITE FEMALE
+
+1940
+
+1950
+
+/940
+
+I95CJ /940
+
+I96Q
+
+DISEASES OF THE HEART AND CIRCULATORY SYSTEM
+
+940
+
+1950
+
+CANCER AND OTHER MALIGNANT TUMORS I
+INTRACRANIAL LESIONS OF YASCULAR_ORIGJI¿
+ACCIDENTAL DEATHS
+PNEUMONIA AND INFLUENZA I
+NEPHRITIS (ALL FORMS)
+
+·UNITED STATES
+FIGURE 2
+
+THE SOUTH
+
+218 Eugenics Quarterly
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+than did other states. Third. There are no great differences in
+cancer age-adjusted mortality rates by sex and color, but rates in all sex and color groups in all areas have increased. Nonwhite males, who had the lowest mortality rate from cancer in 1940, experienced the greatest increase, and this was the situation in the south, in North Carolina as well as in the nation.
+In 1950, however, mortality from cancer in North Carolina was less than the southern average, and the southern rates were a little lower than the national average rates.
+Fourth. Age-adjusted rates of mortality from intracranial lesions of vascular origin were found to be higher in North Carolina than in the south and higher in the south as a whole than in the nation. Rates among the nonwhite population were higher than among the white. White females had lower rates than white males, but there was no sex differential among the nonwhite population. Between 1940 and 1950, mortality from intracranial lesions have decreased somewhat in the south but in the nation as a whole little change occurred.
+Fifth. Death by accident is the fourth most frequent cause of death, but the adjusted mortality rates in all sex and color groups declined slowly during the 19401950 decade. Sex and color differentials in accidential death rates are quite marked; the rates for men being higher than the rates for women in both color groups, and the rates for nonwhite being a little higher than the rates for white in both sex groups.
+Sixth. In the respiratory diseases, pneumonia, influenza, and tuberculosis, color differentials are most marked, the white population having considerably lower age-adjusted mortality rates; but in all sex and color groups and in all regions, rates have been falling rapidly. The tuberculosis mortality rate in North Carolina is lower than the southern average rate. However, southern whites have about the same ageadjusted death rate from tuberculosis as the national average for whites; while southern
+
+nonwhites have slightly lower rates than the national average for nonwhites.
+Seventh. The nephritis age-adjusted mortality rate in all sex, color, and regional groups declined rapidly during the 194050 decade. The mortality rate from nephritis is substantially higher among nonwhites than among whites but the gap is closing. Rates in North Carolina and in the south are not significantly different from those in the nation.
+Eighth. Diabetes mortality, slightly higher for women than for men, has also declined substantially, the decline being greater among whites than nonwhites.
+A Correlation Analysis of Mortality Within North Carolina
+In this section, a brief summary will be given of the results of an attempt to use multiple correlation and regression analyses as a means for explaining variation in ageadjusted mortality rates among the 100 counties of North Carolina. Our general hypothesis is that a large proportion of the variance in mortality can be accounted for by the variation in county location, population characteristics, and by certain measures of cultural patterns and levels of living.
+We are aware of the limitations in this method of analysis. For example, the intercorrelation of county averages cannot show fully the patterns of relationship between mortality and social factors within counties. Furthermore, the inter-correlation of county averages on all variables is handicapped by the fact that most of the variables have a rather limited range. For example, the range in age-adjusted mortality rates by counties is from 5.1 to 13.7. Ideally, we should like to have a range from 0 to 1000, a situation which would exist if we had mass data available for individuals. Similar statements can be made about the limited range of most of the independent variables.
+In spite of its weaknesses, the correlation method does have some usefulness. Logically and mathematically, it can be demon-
+
+219,
+
+RELATION or
+
+TABLE 3
+CORRELATION MATRIX COUNTY AGE-ADJUSTED MORTALITY RATES TO T E N
+NORTH CAROLINA 1950
+
+VARIABLES
+
+xs x. X, X, X, xb X. x8 X.
+
+x, --¿036 .1463 .0505 --.4467 --.5473 .2228 --.2651 --.8159 --.7098
+
+x, -.3781 .1595 .2520 .2219 .0576 .5026 .3953 .2163
+X, -.6855 --.1480 --.0411 --.6771 --.0517 -- 2 7 1 8 --.2535
+
+x, -.0194 -.2226 .5612 --.1055 --.0904 .0179
+X, .7192 .0500 .2677 .6279 .5468
+
+x, x» x. xx,8
+
+--.0618 .2758 .7052 --.4144 --.0266 .3058
+
+.6110
+0991 .3475 .8397
+
+X Variable
+,. Per cent population living on farms ,. Per cent of workers employed in manufacturing
+t. Per cent of population classed as nonwhite ,. Per cent of families owning homes
+«. Hospital beds per 10,000 population
+,. Physicians per 100,000 population
+b. Location of county in Mountain area X100 ,,. Location of county in Piedmont area X 100 ,. Per cent of homes with modern plumbing, etc. ,. Median grades of formal schooling completed by adults X ,,. Deaths per 10,000 population, age-adjusted
+
+Xo
+--.0861 --¿838
+7571 --.6887
+.0089 .0552 --.6690 --.0771 --.0327 --.0663
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+strated that except for somewhat unusual conditions, linear interrelationships between variables within groups will be reflected in the correlations between averages of the variables on a group basis. The basis for the grouping of individuals is crucial. Ideally the groups should be small in population and the placing of individuals in the groups should be a randomized process. Or to put the matter differently, ideally there should be no correlation between county location and the variables under study. Obviously counties are not groups of randomly selected individuals and there is a great deal of correlation between county location, mortality, and various social and economic variables. However, these difficulties can be partially overcome by introducing measures of county location as variables, and by carrying on the correlation procedures within relatively small homogeneous geographical areas. In this study, so far we have experimented with two methods of dealing with county location: (1) correlations were computed within the four major geographical areas of the state --Mountain, Piedmont, Coastal Plain, and Tidewater and (2) two of the four major
+
+regions were introduced into the correlation analysis as dichotomous variables-- that is, every county of the state was given a score of 0 or 1 for each area. Any given country, for example, could be classified as to its location as being "in" or "not in" each of the four regions. A mountain county, for example, is given a score of " 1 " on the mountain area variable and a score "0" on each of the remaining area variables. We did not try the method used by Margaret Hagood--that of introducing east and west, north and south distances between each county and lines passing through some central or other conveniently located point in the state.
+In addition to the selection of major geographical areas as variables, our general hypothesis and the availability of census data by counties led us to select eight other variables:
+2. Per cent population living on farms. 3. Per cent of workers employed in manufacturing. 4. Per cent of population classed as nonwhite. 5. Per cent of families who owned their homes.
+
+220 Eugenics Quarterly
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+6. Hospital beds per 10,000 population. 7. Physicians per 100,000 population. b. Location of county in Mountain area. c. Location of county in Piedmont area. 8. Per cent of houses equipped with running hot water and modern bathroom facilities and which also were not dilapidated. 9. Median grades of formal schooling completed by adults.
+The dependent variable in this analysis was the age-adjusted general mortality rate by counties. Each county rate was adjusted by the indirect method to the age distribution of the 1950 total population of the United States. In 1940 we found that age-adjusted rates computed for North Carolina counties by the "indirect" method were highly correlated with rates computed by the "direct" method; the coefficient of correlation being .95. For 1950, therefore, we used the "indirect" method because it requires less clerical labor.
+Although the dependent variable has been broken into four sex and color series, we have not correlated each of these four series with the eight independent variables. Our assumption has been that the advantages of such a procedure would not justify the additional labor involved, particularly since sex and color could be controlled by multiple and partial correlation.
+We did find some use for the adjustment of county mortality rates by sex and color. Correlation between the male and female rates and also between the white and nonwhite rates provide rough tests of reliability. For example, the coefficient of correlation between male and female rates (white only) was found to be .645, a highly significant correlation; and between white and nonwhite rates, the coefficient was found to be .452, also highly significant. We could hardly expect the white-nonwhite correlation to be as high as the male-female (white) correlation because the two sex groups live together and are subjected to the same family, cultural, social, and economic influences; whereas, the two color
+
+groups are certainly not influenced by the same family factors, and only to a limited degree by the same social and economic factors.
+Another rough reliability test is found in the correlation of the 1940 and 1950 ageadjusted county general mortality rates, the coefficient being .715, a highly significant value. Here again, we had no ground to suppose that the correlation would be much higher. Errors due to reporting, chance errors, unequal changes in social and economic factors and in medical services by counties would all tend to lower the correlation between the 1940 and 1950 mortality rates.
+The unweighted county age-adjusted rate was found to be 9.9, just 0.1 below the weighted mean; and the standard deviation was found to be only 1.69. The range from lowest to highest rate was 5.1 to 13.8, a difference of 8.7, or approximately 5 standard deviations. We call attention to the fact that the standard deviation is relatively low, which means that there is considerable uniformity in mortality rates among the counties. In other words, we have only a small amount of variance in mortality to account for by means of multiple correlation.
+Of the eight variables examined only the following were found to make a statistically significant contribution toward explaining the variation of mortality from county to county.
+Per cent of families who owned their homes.
+Per cent of population classed as white. Residence in the Mountain area. Residence in the Piedmont area. Ratio of hospital beds to population.
+Table 4 shows the partial regression coefficients and their standard errors. Other results not shown in Table 4 are:
+1. R2, the multiple coefficient of determination = .7420
+2. R2, the multiple coefficient of determination corrected = .7130
+3. Holding area location of county con-
+
+221
+
+TABLE 4.
+RESULTS OF MULTIPLE CORRELATION ANALYSIS OF COUNTY ACE-ADJUSTED MORTALITY RATES NORTH CAROLINA 1950
+
+Variable Number* ·
+2
+3 4 5 6
+7
+b
+c
+8 9 0
+
+Mean
+XI
+43.46 23.50 26.70 56.55 25.70 52.92 25.00 34.00 26.83 76.14 99.05
+
+Standard Deviation
+Si
+19.64 14.24 18.30 12.15 19.65 28.76 43.30 47.37 11.93 6.88 16.89
+
+··For full identification of variables see Table 3. ·Sig. at .95 level.
+
+S.P.R.C. Bol...
+--.1034 -.0429
+.2282 --.3130
+.2235 --.1343 -.4647 --.3033
+.0290 -.0720
+
+P.R.C. b.,...
+-.0889 --.0509
+.2106 --.4351
+.1922 --.0788 --.1813 --.1081
+.0411 --.1768
+
+Standard Errors
+of P.R.C.
+.1133 .1108 .1029* .1230* .0718» .0551 .0449» .0334» .2206 .2908
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+stant, R2o (23456789) .be = -3564
+4. Reducing the analyses to only four highly significant variables,
+R20(45).be=-2831
+r204 = -04261 = -14591
+Two important conclusions can be stated at this point:
+1. There is apparently a significant difference between the age-adjusted mortality rates of home owners and nonowners; and this difference is greater than the difference between the age-adjusted mortality rates of white and nonwhite people.
+2. Even after eliminating the influence of home ownership and color, there is a significant difference in age-adjusted mortality rates by geographical area. Mountain people apparently have the lowest mortality rates in the state and Piedmont people the next lowest. Even after eliminating the influence of tenancy and color in eastern North Carolina, age-adjusted mortality rates are still high in that area. As compared with the remainder of the state, the partial regression coefficients indicate that the Mountain area, other variables being held constant, have 1.8 fewer deaths per 1000 population, and that the Piedmont area have 1.1 fewer deaths per
+
+1000 population.
+
+Correlation Analysis Within Four Major Geographical Areas
+
+Another method of eliminating the effect of regional location of county is that of making a correlation analysis within regions. This has been done by means of a short-cut formula, the effect of which is to convert the measures being intercorrelated to deviations from regional means.1 This approach does not yield sets of correlation and regression coefficients for each region but rather a set of average coefficients, an average of the coefficients within the four regions. So far in this study we have made a separate analysis for only the coastal plain region of the state.
+
+The correlation matrix based on the within-region analysis is shown in Table 5. Table 6 shows the means, standard deviations, and the partial regression coefficients of the within-region analysis.
+A comparison of Tables 3 and 5 and Tables 4 and 6 shows that some coefficients based on the within analysis are about the same as those based on the state-wide analysis, whereas certain other coefficients are considerably different in value, some higher, some lower, and some even being of the
+
+12x2 -- 2X2 _ 2X, .X,
+
+2X, . X,
+
+2xy = 2XY --2Xa.Y,
+
+2X, .Y,
+
+in which a and i denote state regions.
+
+222 Eugenics Quarterly
+
+opposite sign. Interestingly enough, however, the two approaches show the same independent variables to be significantly correlated with mortality. See Table 7. Also the two approaches yield similar results with regard to the influence of the regional location of county.
+For example, compare
+with the corresponding within region coefficient
+Of the two approaches, the statewide
+
+analysis, in which regional locations of counties are introduced as independent variable, has some advantages. For one thing, it permits an evaluation of the separate influence of each region.
+Summary
+1. Mortality rates in all sex, color, and residence categories are falling rapidly.
+2. Of the population classes represented in Table 1 of this paper the mortality differences between white and nonwhite people are greatest differences by sex are next in order, and differences by
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+TABLE 5.
+CORRELATION MATRIX RELATION OF COUNTY ACE-ADJUSTED MORTALITY RATES TO EIGHT SOCIO-ECONOMIC
+WITHIN THE FOUR MAJOR GEOGRAPHIC AREAS OF NORTH CAROLINA, 1950
+
+VARIABLES*
+
+X2
+
+--.5393
+
+.3137
+
+.1354
+
+X3
+
+--.2480
+
+.0705
+
+.4453
+
+8 X6 X7 X8 X9
+·For identification of variables, see Table 3.
+
+V6
+--.4630 .0858 .0005
+--.1461
+
+--.6023 .0903
+--.0137 --.2734
+.7051
+
+--8382 .2720
+--5627 -.2842
+.5910 .7042
+
+x,,
+--.6714 .0313
+--.2753 --.1328
+.5209 .6341 .8260
+
+x,,
+--.0961 -.0328
+.3577 --.4934
+5826 .1718 .1605 .0616
+
+TABLE 6.
+RESULTS OF MULTIPLE CORRELATION ANALYSIS OF COUNTY AGE-ADJUSTED MORTALITY RATES WITHIN THE FOUR MAJOR GEOGRAPHIC AREAS OF NORTH CAROUNA, 1950*
+
+Variable Number Mountain
+
+Area Means
+
+Piedmont
+
+Coastal Plain
+
+Tidewater
+
+Standard
+Deviations
+«"I
+
+S.P.R.C.'s
+B.i...
+
+P.R.C.'s
+boi...
+
+2
+
+51.04
+
+36.20
+
+52.70
+
+34.83
+
+3
+
+24.92
+
+33.47
+
+13.91
+
+14.94
+
+4 5.24 25.38 45.52 34.94
+
+5
+
+68.36
+
+54.76
+
+43.48
+
+60.22
+
+6
+
+27.40
+
+33.03
+
+18.78
+
+18.33
+
+7
+
+49.84
+
+63.97
+
+51.13
+
+38.61
+
+8. 26.38 31.91 21.09 25.33
+
+9
+
+74.96
+
+79.47
+
+71.83
+
+77.00
+
+0
+
+79.48
+
+97.23
+
+115.96
+
+108.06
+
+17.90
+11.58 11.20
+7.75 18.61
+27.31 11.18 6.23
+10.39
+
+--.1630
+--.0476 .1808
+--.4129 .3626
+--.2182 --.0300 --.0772
+
+--.0946
+--.0427 .16771
+--.55351 .20241
+-.0830 --.0279 -.1287
+
+·For identification of variables see Table 3. 1Only the bol's of variables 4, 5, and 6 were found to be significant at the .05 level.
+
+TABLE 7.
+PARTIAL REGRESSION COEFFICIENTS BY T W O METHODS OF ANALYSIS
+
+Variable
+
+Partial Regression Coefficients
+Statewide analysis: regional location constant Within region analysis
+
+Per cent population nonwhite
+Per cent families owning homes Hospital beds per 10,000 population
+
+.2106 -.4351 .1922
+
+.1677
+--.5535 .2024
+
+223
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+rural-urban residence are third. 3. In general, between 1940 and 1950 mor-
+tality differences between white and nonwhite and between rural and urban categories were decreasing, but differences by sex within the white population were increasing. Mortality differences between the sexes of the nonwhite population remained relatively constant.
+4. Between 1940 and 1950, throwing all categories together, age-adjusted mortality rates in North Carolina and in the south as a whole declined more than the corresponding rates in the nation.
+5. Among the eight major causes analyzed, in North Carolina, in the south and in the nation as a whole, age-adjusted mortality rates from the following causes have increases in most sex and color categories: diseases of the heart and circulatory system, and cancer and other malignant tumors. Practically no change occurred in mortality due to intracranial lesions of vascular origin. Decreases occurred in the remaining five causes. No analysis has yet been made by cause and residence. Other differentials and trends by sex, race, region and cause may be read directly from Table 2.
+
+6. A multiple correlation analysis of North Carolina age-adjusted mortality rates by counties reveals no significant association between rural-farm residence and age-adjusted mortality rates.
+7. Home tenure in North Carolina, the correlation analysis shows, is more highly correlated with age-adjusted mortality rates than is color.
+8. Even after holding color and home tenure constant, a significant correlation between county location and age-adjusted mortality rates was found. Mountain counties were found to have the lowest rates; Piedmont counties the second lowest; while Coastal Plain counties had the highest rates.
+9. With regard to comparing mortality rates of one population category with another, this paper suggests that simple point differences are more meaningful and realistic than are the ratios between two rates. A point difference between the mortality rates of two population groups is mathematically identical with the regression coefficient of mortality on the population categories (considered as a dichotomous variable) and has, like a correlation coefficient, limits of 0 and 1.
+
+

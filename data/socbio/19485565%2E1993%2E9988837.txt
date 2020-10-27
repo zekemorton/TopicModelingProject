@@ -1,0 +1,679 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Breastfeeding and postpartum amenorrhea in a traditional society: A hazards model analysis
+Dilip C. Nath , Kaushalendra K. Singh , Kenneth C. Land & Pijush K. Talukdar
+To cite this article: Dilip C. Nath , Kaushalendra K. Singh , Kenneth C. Land & Pijush K. Talukdar (1993) Breastfeeding and postpartum amenorrhea in a traditional society: A hazards model analysis, Social Biology, 40:1-2, 74-86, DOI: 10.1080/19485565.1993.9988837 To link to this article: http://dx.doi.org/10.1080/19485565.1993.9988837
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 3
+View related articles
+Citing articles: 2 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:45
+
+Breastfeeding and Postpartum Amenorrhea in a Traditional Society: A Hazards Model Analysis
+
+J
+
+t
+
+s
+J
+
+C \'m*m*mm*w*m***
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+aDilip C. Nath, bKaushalendra K. Singh, aKenneth C. Land, and cPijush K. Talukdar
+aDepartment of Sociology, Duke University, Durham North bCarolina 27706; Carolina Population Center, University of North Carolina, Chapel Hill, North Carolina 27516; and cKarimganj College, Assam, India
+
+ABSTRACT:There is considerable variation in the length of the postpartum amenorrhea during which breastfeeding suppresses fertility, both within and between societies. In this paper, we investigate the association between breastfeeding and the resumption of menses and the impact of various biological and social covariates thereon, using data from two retrospective surveys in India. We use both univariate life table and multivariate time-dependent hazards techniques to analyze the data. Most prior investigations related the impact of breastfeeding to postpartum amenorrhea by taking duration of breastfeeding as a fixed covariate. However, breastfeeding beyond the resumption of menstruation cannot affect the duration of menses. Accordingly, the present study has a methodological focus in the sense that breastfeeding is treated as a timedependent covariate. We found that breastfeeding, age of mother at child's birth, social status, level of income, religion and caste (subcaste), and residential status have significant effects on return of menses in Indian traditional society.
+
+The role of breastfeeding in reducing fertility in noncontracepting populations is now well established. Cleland et al. (1984) have shown that in developing countries postpartum infecundability associated with breastfeeding reduces total fecundity by 30 to 33 per cent compared to the reduction by contraception of only 5 to 20 per cent. Thus, an important aspect of the family planning policy of developing countries has been an assessment of the appropriate role of breastfeeding in prolonging the duration of postpartum amenorrhea (PPA).
+Breastfeeding is believed to be the major determinant of prolonged PPA and anovulation in societies where nursing is nearly universal, prolonged, and of high intensity (Knodel, 1977; Van Ginneken, 1978; Howie and Mc-
+
+Neilly, 1982; Srinivasan et al., 1989). Huffman and coworkers have recently reviewed studies from both the developed and developing world which have investigated how patterns of breastfeeding affect the onset of postpartum menses. This investigation reveals that the period of lactational amenorrhea and anovulation are dependent, either directly or indirectly, on the type of nursing practiced by mothers. The duration of PPA and breastfeeding also vary according to the women's personal characteristics and socioeconomic characteristics, such as age at child's birth, education, family income, social status, religion and caste, and sex of the offspring.
+Recent analyses of the world fertility studies have indicated that each additional month in the average duration
+
+74
+
+Vol. 40, No. 1-2
+
+Postpartum Amenorrhea
+
+75
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+of breastfeeding increases the average birth interval by 0.25 to 0.50 months (Jain and Bongaarts, 1982; Smith, 1985). The exact physiological mechanism by which breastfeeding affects postpartum menstruation are yet to be fully ascertained. Research has shown that suppression of ovulation operates through stimulation of the nipples either via direct neural pathways, through the release of the pituitary hormone prolactin, or both. The frequency and intensity of suckling as well as the time between breastfeeding sessions are thought to be determinants of the process. Maternal nutrition may also play a part, so that diet and physical activity levels of the mother need to be considered as possible influences. In traditional societies, the poorer segments of populations from developing countries where demand feeding is the rule, it is extremely difficult to collect information on the impact of supplementary feeding on the frequency or on the duration of suckling.
+While there are a number of studies from other countries showing the linkage between breastfeeding and postpartum infertility, only a few have been undertaken in India. Further, many authors have used proportional hazards models that take breastfeeding as a fixed covariate to study the effect of breastfeeding on PPA. When the breastfeeding period is long, menses are likely to return while the mother is still breastfeeding. The duration of breastfeeding thus may exceed the duration of PPA. Hence, the results from taking breastfeeding as a fixed covariate may be biased due to that fact that there is no effect of breastfeeding on the PPA after resumption of menses. Jones (1990) employed time-
+
+dependent multivariate hazards model to examine effects of breastfeeding and various breastfeeding covariates on the return of menses based on longitudinal Indonesian data. No such study has been reported for Indian data.
+This paper analyzes breastfeeding, the mechanisms that influence PPA, and the role of biological and sociocultural variables on resumption of postpartum menstruation in traditional Indian society using data collected in two states, Assam and Uttar Pradesh (UP). The study also has a methodological focus. We demonstrate that the use of multivariate hazards models permits detailed and penetrating analysis in which breastfeeding and its interactive variables are constructed in a time-dependent specification. The present analysis also is concerned with the behavior of PPA for those mothers who experienced return of menses while breastfeeding and/or were amenorrheic and breastfeeding stopped.
+MATERIALS AND METHODS
+The data for research presented in this paper derives from two retrospective surveys: (1) a study on effects of socioeconomic factors on fertility among scheduled caste populations in the rural areas of Karimganj district, Assam, conducted during 1988-89 (reference date of the survey, June 15, 1988) under the auspices of University Grants Commission (UGC), New Delhi, and (2) effects of socioeconomic factors on determinants of fertility in eastern Uttar Pradesh carried out during 1987-88 (reference date of the survey, October 1, 1987) under the financial support of the Indian Council of Medical Research (ICMR). The
+
+76
+
+Nath et al.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+common objectives of these two surveys were to obtain reliable data relating to fertility to facilitate the study of socioeconomic and behavioral factors affecting fertility and the estimation of biocultural parameters of human reproduction in traditional societies.
+Several sociocultural, economic, and other factors accounting for variation in duration of lactation and fertility were also taken into account. In addition to other information, we collected data relating to age at marriage and total number of children ever born and surviving, including details about duration variables--lactation, PPA, et cetera--for births occurring within the last seven years for each married eligible female in the household. A couple (or female) was defined eligible if both the partners were alive on the reference data and the female was less than age 50. Couples who did not adopt any method of family planning to space and limit births and in which both husband and wife were normal residents of the village constitute the sample studied in the present analysis. Information on the status of women--menstruating, pregnant, amenorrheic, menopausal --on the reference date was obtained, and those who had attained menopause were excluded.
+The Assam survey is confined to the scheduled caste population--the backward and economically deprived class in India. Karimganj district situated in the southern part of Assam is predominantly a Bengali-speaking area, where a large number of villages are identified as scheduled caste villages. If at least ten per cent of the village population belongs to the scheduled caste, the village is considered as a scheduled caste village by the Directorate of Eco-
+
+nomics and Statistics, Assam. From the list of scheduled caste villages of the district, a sample of 39 villages was selected by the method of simple random sampling. Then all the scheduled caste households of the selected villages were enumerated. In the ICMR survey a sample of 19, 8, and 29 villages was selected respectively from rural areas of Varanasi, Ghazipur, and Azamgarh districts of the Eastern Uttar Pradesh (UP), predominantly a Hindi-speaking area. The surveys included 1,805 scheduled caste households from selected villages in the UGC survey in Assam and 3,931 households in the ICMR survey in UP.
+The Assam survey was restricted to the scheduled caste population, so a grouping of subcastes was done for the analysis, each subcaste having its own distinct social organization and culture. Educational attainment among these people is very low, and most are still engaged in traditional occupations. Only a small number of persons were employed in government or nontraditional private sector jobs. They are placed in the lowest class of Hindu society. On the basis of per capita income (PCI) in rupees, four economic groups were formulated: (1) 50 Rs. or less, (2) between 50 and 75 Rs., (3) between 75 and 100 Rs., and (4) more than 100 Rs.
+Several factors affect the social status of the household. The expenditure of rural households is determined not only by their income but also by their aspirations of either maintaining their status or achieving upward social mobility. In the UP study, women were classified into three social-status groups: low, medium, and high by an aggregated score that takes into account of following fac-
+
+Vol. 40, No. 1-2
+
+Postpartum Amenorrhea
+
+77
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+tors: (a) total household income, (b) technique is that it permits a regression
+
+household educational status, (c) hous- analysis of censored data and provides
+
+ing, (d) landholding, and (e) possession an estimate of the relative magnitudes
+
+of luxuries (for details, see Singh, of the hazards to which different sub-
+
+1990). The caste has a socioreligious groups are subject.
+
+base. Therefore, according to the prox- In the present analysis, the principal
+
+imity of social position, the UP sample covariate of interest, the variable
+
+has been subdivided into broad groups breastfeeding, is time-dependent in na-
+
+of upper castes, middle castes, sched- ture. Hence, special statistical proce-
+
+uled castes, and Muslims.
+
+dures need to be used to examine the
+
+Age of mother at birth of child is effects of breastfeeding on the PPA. To
+
+known to be an important determinant overcome the problems of time-
+
+of PPA. In countries, such as India, dependency of the independent vari-
+
+where preference for male children exists, it is believed that the breastfeeding pattern depends on the infant's sex. In the present study, we examine the roles of women's age and child's sex on the duration of PPA.
+
+able^) and of the varying lengths of time for which women were exposed to the risk of menstruation, the assumption that the effects of the breastfeeding covariate on an individual's failure probabilities are constant over the duration can be relaxed. The model allows
+
+for time-dependency, either by redefin-
+
+ANALYTICAL METHODS
+
+ing a covariate as a function of time
+
+We used life table analysis (Kalb- elapsed since the reference event, or by fleisch and Prentice, 1980) in this study introducing a variable that takes acto assess the median duration of PPA count of the individual's status on some and breastfeeding, and the proportion process ancillary to that being studied.
+
+of females resuming menses before Two types of hazards function de-
+
+fixed periods. This method makes it noted by h(t,z), the instantaneous fail-
+
+possible to include data for those ure rate of PPA at time t for a female,
+
+women who have not yet resumed are represented by
+
+menses or those who have not yet ter-
+
+(1)
+
+minated breastfeeding.
+
+(2)
+
+Because of the interrelationship be- where ho(t) is the time-varying baseline tween many of the variables under hazards function calculated for a spec-
+
+study, the use of life tables alone does ified reference group, and Z = (zi, z2> not show which factors are indepen- . . . , zk} is a set of fixed explanatory dently affecting the duration of PPA. variables. In Model 1, B(t) is a dichot-
+
+Factors other than simple lactational omous variable which is equal to unity
+
+status that might have an additional in- at failure times (return to menses) if
+
+dependent effect on the return of weaning occurs before resumption of
+
+menses can be identified through the menses and equals zero otherwise. In
+
+application of a multivariate hazards Model 2, D(t) is the time point of con-
+
+model, a nonlinear regression tech- sideration for those who still are
+
+nique which builds on a product-limit breastfeeding. p\, (32, and (33 are veclife table (Cox, 1972). The value of this tors of unknown regression coefficients
+
+78
+
+Nath et al.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+to be estimated. The hazards function allows estimation of the relative risks of the other groups in relation to the baseline group by the exponent of the regression coefficients, exp(.). Each element of the coefficients exp(.) represents the effect of the covariate on the hazards function for the reference group. When there is no covariate present, the exp(.) term reduces to unity. Values greater than unity indicate an increase in the relative risk of resumption of menses for this group, compared with the reference group, whereas values less than unity indicate a decrease in the risk.
+RESULTS
+Median durations of breastfeeding calculated by univariate life table techniques, for Assam and UP, are presented in Tables 1 and 2, respectively. The overall median durations of breastfeeding for females in Assam and UP are 16 and 27.33 months, respectively. For every specific characteristic of females in this study, the median duration of breastfeeding was longer in UP than Assam. There was a maximum variation of six months among the subgroups in median duration of breastfeeding in both states. For Assam, the maximum variation was exhibited among subcastes, whereas in UP it was among castes. The average duration of breastfeeding following a male child was longer than that following a female child. There is a strong tendency toward the shorter duration of breastfeeding for the younger age groups of mothers.
+The nonparametric generalized Wilcoxon Test was applied to ascertain whether the differences among the
+
+strata classifications of different subgroups regarding breastfeeding patterns are statistically significant. We found that the classification of mothers according to age of female at the time of child's birth, subcaste, religion, and caste produced statistically significant differences in the length of breastfeeding (not shown in the table) for both Assam and UP. In addition, for UP, social status, area of residence, and mother's education had significant bearing on the length of breastfeeding.
+Life table estimates of median duration of PPA and the proportion of women returning to menses (for selected months) calculated for Assam and UP are also presented in Tables 1 and 2, respectively. The overall median duration of PPA for Assam and UP is longer (by more than three months) for Bengali-speaking mothers. Tables 1 and 2 exhibit much variation in the median lengths of PPA according to different selected sociodemographic characteristics of females. The variations in the median duration of PPA under different characteristics for Assam data are about four months, whereas for UP they are more than ten months. Hence, for testing the significance of group homogeneity, the Generalized Wilcoxon Test was applied. The groupings of PPA according to the age of female at birth, subcaste, and household income for Assam and age of female at birth, religion and caste, social status, area of residence, and wife's education for UP are statistically significant.
+Substantial variation in the duration of PPA among the subgroups can be seen in Table 2 for the UP population. The length of PPA for females of high-social-status households is
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+TABLE 1
+LIFE TABLE ESTIMATES OF MEDIAN DURATION OF BREASTFEEDING AND POSTPARTUM AMENORRHOEA (IN MONTHS) AND PROPORTION OF WOMEN RETURNING TO MENSES BY A GIVEN MONTH BY SPECIFIED CHARACTERISTICS: ASSAM
+
+Overall
+
+Variables
+
+Age of woman at birth
+<20 years 20-25 years 25-30 years £30 years
+
+Child's sex Male Female
+
+Wife's education Illiterate or nominal. Literate
+
+Subcaste Namasudra Others Kaibarta
+
+Income group 1 2
+3 4
+
+MEDIAN BREASTFEEDING
+16.00
+13.43 14.89 18.18 18.45
+16.47 15.71
+15.44 16.16
+16.28 20.12 13.27
+16.49 17.55 18.19 13.22
+
+MEDIAN POSTPARTUM AMENORRHEA
+9.93
+9.92 9.04 10.04 12.10
+9.79 10.07
+9.40 10.04
+9.69 12.59 8.72
+8.85 9.06 10.99 10.40
+
+PROP, OF WOMEN RET. TO MENSES BY M O .
+
+8.35 32.84 73.86 90.07
+
+9.61 32.21 76.48 91.01 8.99 38.22 76.86 95.60 8.07 30.86 72.80 89.88 6.50 26.29 68.32 82.27
+
+9.30
+
+33.44
+
+74.47
+
+90.98
+
+7.38 32.24 73.23 89.19
+
+9.76 39.06 75.09 90.92 7.81 30.47 73.40 89.73
+
+10.23 4.75 5.40
+
+34.74 13.66 37.51
+
+75.66 57.14 77.54
+
+90.14 80.86 95.63
+
+10.45 7.29 7.10 9.15
+
+36.29 35.98 28.30 30.43
+
+74.74 77.39 70.82 71.64
+
+86.94 85.99 82.53 88.39
+
+No.
+1,449
+233 538 395 283
+727 111
+397 1,052
+900 175 374
+321 442 367 319
+
+O_
+z
+o
+I
+n 3o
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+TABLE 2
+LIFE TABLE ESTIMATES OF MEDIAN DURATION OF BREASTFEEDING AND POSTPARTUM AMENORRHEA (IN MONTHS) AND PROPORTION OF WOMEN R E T U R N I N G TO M E N S E S BY A G I V E N M O N T H BY SPECIFIED CHARACTERISTICS: U T T A R P R A D E S H
+
+Overall
+
+Variables
+
+MEDIAN BREASTFEEDING
+27.33
+
+MEDIAN POSTPARTUM AMENORRHEA
+6.78
+
+PROP, OF WOMEN R E T . TO MENSES BY M O .
+
+48.33
+
+50.86
+
+77.10
+
+86.96
+
+3,702
+
+Age of woman at birth < 2 0 years 20-25 years 25-30 years a30 years
+
+24.88 26.58 27.87 28.91
+
+3.45 4.87 8.24 12.11
+
+51.79 48.50 41.27 37.30
+
+63.59 56.59 48.59 42.69
+
+84.96 81.67 75.38 71.45
+
+93.37 89.54 86.34 82.81
+
+452 1,102
+974 1,174
+
+Child's sex Male Female
+
+29.43 26.03
+
+6.65
+
+43.63
+
+51.34
+
+78.29
+
+88.25
+
+1,923
+
+6.69
+
+43.00
+
+50.33
+
+75.80
+
+85.58
+
+1,779
+
+Wife's education Illiterate or nominal .. Literate
+
+27.43 27.26
+
+8.39
+
+41.26
+
+48.73
+
+74.99
+
+85.32
+
+3,017
+
+2.83
+
+52.31
+
+60.12
+
+86.44
+
+94.40
+
+685
+
+Religion and caste Scheduled Middle Muslim Upper
+
+31.55 29.54 24.58 24.77
+
+12.02 8.44 8.38 1.99
+
+35.26 38.71 41.28 55.80
+
+42.97 48.28 48.77 63.09
+
+71.60 76.05 73.31 87.05
+
+82.46 85.93 85.06 93.94
+
+862 954 978 908
+
+Household social status Low Medium High
+
+29.17 28.65 26.42
+
+12.02 8.79 2.88
+
+37.25 40.32 52.03
+
+44.04 48.31 59.63
+
+68.75 75.39 85.90
+
+81.98 85.92 92.24
+
+1,475 1,030 1,197
+
+Area of residence Ghazipur Azamgarh Varanasi
+
+27.56 28.55 26.42
+
+5.74
+
+47.06
+
+54.46
+
+81.64
+
+89.82
+
+1,064
+
+6.83
+
+41.73
+
+50.78
+
+77.21
+
+88.26
+
+1,320
+
+8.83
+
+42.03
+
+48.02
+
+73.30
+
+83.26
+
+1,318
+
+1
+n
+S.
+V) 2o.
+w
+JO
+
+Vol. 40, No. 1-2
+
+Postpartum Amenorrhea
+
+81
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+approximately one-fourth of that of females from low-social-status households. Also, the average duration of PPA for upper-caste Hindu females is only one-sixth that of scheduled-caste Hindu females. If only scheduled castes in both populations are compared, the median duration of PPA for Assam is shorter than that for UP. In both states, as age of mother's cohort at birth increased, PPA also increases. It can be seen that there is a correlation between resumption of menses and (1) age of female at birth, (2) mother's education level, (3) social and economic condition of the household and (4) religion and caste (subcaste).
+The proportion of females returning to menses according to all specified characteristics in 3, 6, and 12 months is smaller for Assam than for UP, but this finding reverses for 18 months. More than 90 per cent of Bengali females had failed to return to menses at 3 months, whereas at 18 months more than 90 per cent had returned to menses. The corresponding figures for Hindu-speaking females are more than 50 per cent and more than 87 per cent, respectively.
+Results from multivariate hazards analysis considering breastfeeding as a time-dependent dichotomous covariate (Model 1) are presented in Tables 3 and 4, for Assam and UP, respectively. After controlling for sociodemographic characteristics, we find by regression analysis that breastfeeding women at any given time are significantly less likely to bear a child than the women who are not breastfeeding at that time. Mothers having characteristics like a birth at younger ages and higher social status have a statistically significant greater risk of returning to menses. The risk of return to menses
+
+also varies significantly by religion and caste (subcaste) and area of residence. In the present analysis, sex of child and mother's education has no significant explanatory effect on resumption of menses. Further, it is estimated and found that the interactions of breastfeeding status and other covariates are not statistically significant (not shown in the table).
+In Tables 3 and 4, we report the results of fitting Model 2 specifying duration of breastfeeding as a time-dependent variable. We find that breastfeeding duration has a significant negative effect on the risk of return of menses. For every additional month of breastfeeding, there is about a 1.1 (2.7) per cent reduction in risk of return to menses for Assam (UP) mothers. Thus, for Hindi-speaking women, a woman breastfeeding for one year has a relative risk of return to menses of 0.87 (0.72) compared to the risk for women who never breastfed. The relative risks of return to menses are high for females in age-at-birth groups 1,2, and 3 compared to those in age group 4. The risk of returning to menses was high for a female following a male birth. Females from lower income groups of scheduled castes have a higher risk of returning to menses than females from the highest income group. Scheduled castes (UP), the middle caste, and Muslim women have a slower pace of returning to menses than upper caste Hindus. Among scheduled castes, the Kaibarta/Other subcastes have a higher/lower risk of resuming menses than the Namasudra. A female resident of Ghazipur/ Azamgarh has 1.17/1.1 times the risk of returning to menses as compared to a female resident of Varanasi.
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+TABLE 3
+ESTIMATES OF HAZARDS MODEL OF PPA WITH CURRENT STATUS OF BREASTFEEDING AND DURATION OF BREASTFEEDING (BF) AS TIME-DEPENDENT COVARIATES: ASSAM
+
+Fixed
+
+COVARIATES
+
+p
+
+Age of women at birth" < 20 years 20-25 years 25-30 years
+Male childc
+
+0.3189* 0.4062* 0.3109*
+0.0332
+
+Illiterate or nominal education"*.. 0.0452
+
+Subcaste'
+Kaibarta Others
+
+0.0813>" -0.3140*
+
+Income group* 1 II III
+
+0.1348^ 0.1707* 0.0869
+
+Time-dependent
+
+Breastfeeding' Yes
+
+-0.5986*
+
+MODEL I
+exp(P)
+1.3883 1.5012 1.3647 1.0337 1.0462
+1.0847 0.7305
+1.1443 1.1861 1.0908
+0.5496
+
+S.E.
+0.1067 0.0850 0.0666 0.0600 0.0666
+0.0727 0.0960
+0.0924 0.0838 0.0873
+0.0913
+
+MODEL 2
+p exp(p)
+
+0.2934* 0.3874* 0.2803* 0.0185
+0.0374
+0.0642 -0.3507*
+0.1141/ 0.156CV 0.0614
+
+1.3409 1.4732 1.3235 1.0817
+1.0382
+1.0674 0.7042
+1.1209 1.1689 1.0633
+
+S.E.
+0.1062 0.0848 0.0863 0.0600 0.0667
+0.0727 0.0961
+0.0923 0.0838 0.0873
+
+BF duration
+°^30 years. <7>< 0.01. Temale. ''Literate. 'Namasudra. fP <0.10. ffGroup 4. *y < 0.05. 'No.
+
+...
+
+-0.0118^ 0.9883
+
+0.0139
+
+Nath et
+
+a
+o'
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+TABLE 4
+ESTIMATES OF HAZARDS MODEL OF PPA WITH CURRENT STATUS OF BREASTFEEDING AND DURATION OF BREASTFEEDING (BF) AS TIME-DEPENDENT' COVARIABLE: UTTAR PRADESH
+
+COVARIATES
+Fixed
+Age of women at birth" < 20 years 20-25 years 30-35 years
+Male child'
+Illiterate or nominal education''..
+Religion and caste'' Scheduled Middle Muslim
+Household social status^ Low Medium
+Area of residence*5 Ghazipur Azamgarh
+Time-dependent
+Breastfeeding' Yes
+BF duration
+"230 years. /7><0.01. 'Female. ''Literate. 'Upper.
+/High.
+"Varanasi. hP <0.10. 'No. IP < 0.005.
+
+P
+0.4388" 0.2694" 0.1171 0.0241 -0.0093
+-0.2976" -0.2184" -0.2398"
+-0.2227" -0.1710''
+0.1559" 0.0947''
+-0.6652" ...
+
+MODEL I
+exp(P)
+1.5509 1.3092 1.1242 1.0244 0.9908
+0.7426 0.8038 0.7868
+0.8003 0.8428
+1.1687 1.0993
+0.5142
+
+S.E.
+0.0631 0.0490 0.0503 0.0378 0.0567
+0.0695 0.0598 0.0587
+0.0609 0.0491
+0.0477 0.0453
+0.0664
+
+MODEL 2
+p exp(p)
+
+0.4482" 0.2562" 0.1107 0.0360 -0.0104
+-0.2873" -0.2090" -0.2328"
+-0.2350" -0.1813"
+0.1496" 0.0809
+
+1.5654 1.2920 1.1170 1.0366 0.9897
+0.7503 0.8114 0.7923
+0.7906 0.8342
+1.1613 1.0842
+
+-0.0269'
+
+0.9734
+
+S.E.
+0.0631 0.0490 0.0503 0.0377 0.0566
+0.0693 0.0597 0.0586
+0.0608 0.0491
+0.0477 0.0453
+0.0104
+
+'ostpartum Air
+
+£
+nao tr
+s
+
+84
+
+Nath et al.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+DISCUSSION
+In India, breastfeeding is an important part of the emotional bonding between mother and child and is preferred to other types of feeding. Children are normally fed on demand and night feeding is common since the baby sleeps with the mother. It is also common for complete weaning to occur only when the mother is again pregnant, although it rarely occurs before the child reaches a particular age. In the community under study, we found that breastfeeding is common and lengthy with most children receiving breast milk for more than one year in Assam and more than two years in UP.
+Median duration of PPA for Assam was found to be longer than UP by more than three months. Results from other studies based on Indian data are consistent with our findings (Potter et al., 1965; Srinivasan et al., 1989). We note a similarity between living conditions of lower social classes in European countries in the nineteenth century and in developing countries today. A Norwegian study (Liestol et al., 1988) based on nineteenth-century data also support this comparison.
+The median duration of PPA found in India in the present study is shorter than that found in studies based on Bangladesh (Huffman et al., 1987a) and Indonesia (Jones, 1989). Average duration was about 1.7 times longer in UP than Assam. In the absence of data on the suckling pattern and amount of supplementation, it is difficult to analyze causes of these differences in the duration of PPA. Also, if we compare the duration of PPA for scheduled castes in both states, we find that the duration of PPA is longer in UP than
+
+Assam. The subgroup scheduled caste is found to have the longest duration of PPA in UP. One possible explanation might be longer night nursing among scheduled-caste women.
+The existence of distinct subgroups of women with significantly different rates of return of the menses, even though they are breastfeeding, is consistent with the observation that actual breastfeeding behavior is not homogeneous across the study group. The present study did not provide any information about supplementation or child's suckling habits. Younger, higher-social-status and upper-caste women may offer food supplementation earlier than other groups, because they can afford it. Thus, they may have slightly shorter average breastfeeding durations and fewer night-time sessions than other groups which may be one of the causes of shorter PPA for these subgroups.
+On the other hand, several studies (Lunn et al., 1980, 1981; Ramchandran, 1987; Huffman et al., 19876) suggest that maternal nutritional status may have a role in determining the return to fertility. Women belonging to higher status groups usually get more nutritious food and better medical care than others. There has been speculation that the return of menstruation during lactation may be delayed in undernourished women. This delay may be due to the fact that poorly nourished mothers produce less milk and might thus have hungrier babies who suckle more frequently and intensively, thus lengthening the duration of PPA. As shown in other studies, we found that amenorrhea lasted longer for older women than younger women. This longer amenorrhea may reflect a bio-
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+Vol. 40, No. 1-2
+
+Postpartum Amenorrhea
+
+85
+
+logical delay in hormonal mechanisms responsible for ovulation.
+As expected, we observe that the duration of the postpartum infertile period is much shorter than breastfeeding. It is well documented that prolonged and intensive breastfeeding increases the duration of PPA. By constructing time-dependent specification of multivariate hazards models, we investigated the effects of breastfeeding on the duration of PPA in more specific ways than have other researchers. We observed that the current status as well as duration of breastfeeding had a profound impact on the duration of PPA in a population where lengthy and intensive breastfeeding is a norm, after controlling sociodemographic variables under study. We also examined the interactive effects of breastfeeding status and duration in a time-dependent setting with other explanatory variables (not shown), but
+
+the interaction effects were found statistically insignificant. Breastfeeding and amenorrhea are undeniably correlated. Mothers belonging to a birth cohort group of 30 years of age and over experienced a slower rate of return to menses. In contrast, high-social-status and upper-caste females exhibited a faster rate of return to menses. Before drawing any final conclusions, however, we feel that further studies are necessary which consider simultaneously the nutritional status of both mother and child and the breastfeeding pattern in a traditional society.
+ACKNOWLEDGMENTS
+The research was supported by awards from the Rockefeller Foundation to Dilip C. Nath and from the Carolina Population Center to Kaushalendra K. Singh. We are also grateful to the Centre of Population Studies, Banaras Hindu University, India, for giving permission to use the data.
+
+REFERENCES
+
+CLELAND, J., J. B. CASTERLINE, S. SINGH, and H.
+ASHURST. 1984.The effects of nuptiality, contraception and breastfeeding on fertility in developing countries. Internat. Fam. Plan. Persp. 10(3):86. Cox, D. R. 1972. Regression model and life table (with discussion). Royal Stat. Soc. 34B:187.
+HOWIE, P. W., and A. S. MCNEILLY. 1982. Con-
+traceptive effect of breastfeeding (editorial). J. Trop. Pediat. 28:ii.
+HUFFMAN, S. L., A. CHOWDHURY, H. ALLEN,
+and L. NAHAR. 1987. Suckling patterns and postpartum amenorrhoea in Bangladesh. J. Biosoc. Sci. 19:171.
+HUFFMAN, S. L., K. FORD, H. A. ALLEN (JR.),
+and P. STREBLE. 1987. Nutrition and fertility in Bangladesh: Breastfeeding and postpartum amenorrhoea. Pop. Stud. 41:447.
+JAIN, A. K., and J. BONGAARTS. 1981. Breast-
+feeding: Patterns, correlates and fertility effects. Stud. Fam. Plan. 12(3):79.
+
+JONES, R. E. 1989. Breastfeeding and postpartum amenorrhoea in Indonesia. J. Biosoc. Sci. 21:83. . 1990. The effect of initiation of child supplementation of postpartum menstruation. J. Biosoc. Sci. 22:173.
+KALBFLEISCH, J. D., and R. L. PRENTICE. 1980.
+The statistical analysis of failure time data. John Wiley & Sons, New York. KNODEL, J. 1977. Breastfeeding and population growth. Science 198:1111.
+LUNN, P. G., A. M. PRENTICE, A. AUSTIN, and
+R. G. WHITEHEAD. 1980. Influence of maternal diet on plasma prolactin levels during lactation. Lancet i:623.
+LUNN, P. G., M. WATKINSON, A. M. PRENTICE,
+P. MORREL, S. AUSTIN, and R. G. WHITE-
+HEAD. 1981. Maternal nutrition and lactational amenorrhoea. Lancet i:1428.
+LIESTOL, K., M. ROSENBERG, and L. WALLOE.
+1988. Lactation and postpartum amenorrhoea: A study based on data from three
+
+86
+
+Nath et al.
+
+Social Biology
+
+Norwegian cities 1860-1964. J. Biosoc. Sci. 20:423.
+POTTER, R. G., M. L. NEW, J. B. WYON, and
+J. E. GORDON. 1965. Lactation andits effects upon birth intervals in eleven Punjab villages. Indian J. Chron. Dis.18:1125.
+SINGH, KIRAN. 1990. An empirical study of the effect of breastfeeding on fertility. Ph.D. thesis. Banaras Hindu University, India.
+SMITH, D. P. 1985. Breastfeeding, contraception and birth intervals in developing countries. Stud. Fam.Plan. 16(3):154.
+
+SRINIVASAN, K., K. B. PATHAK, and A. PANDEY.
+1989. Determinants of breastfeeding and postpartum amenorrhoea in Orissa. J. Biosoc. Sci. 21:365.
+RAMCHANDRAN, P. 1987. Breastfeeding and fertility: Sociocultural factors. Internat. J. Gynaec. Obstet. 25(Suppl.):191.
+VAN GINNEKEN, J. K. 1974. Prolonged breastfeeding as a birth spacing method. Stud. Fam. Plan. 5:201.
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+

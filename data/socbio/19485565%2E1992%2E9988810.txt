@@ -1,0 +1,500 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Reproductive and socioeconomic determinants of child survival: Confounded, interactive, and agedependent effects
+Kathryn Kost & Sajeda Amin
+To cite this article: Kathryn Kost & Sajeda Amin (1992) Reproductive and socioeconomic determinants of child survival: Confounded, interactive, and agedependent effects, Social Biology, 39:1-2, 139-150, DOI: 10.1080/19485565.1992.9988810 To link to this article: http://dx.doi.org/10.1080/19485565.1992.9988810
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 3
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:44
+
+Reproductive and Socioeconomic Determinants of Child Survival: Confounded, Interactive, and Age-dependent Effects
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+Kathryn Kost and Sajeda Amin
+The Alan Guttmacher Institute, New York, New York; and Bangladesh Institute of Development Studies, Dhaka, Bangladesh
+
+ABSTRACT: Studies of infant and child mortality have evolved to distinguish between two sets of explanatory variables--factors related to reproductive or maternal characteristics and socioeconomic factors, generally described as characteristics of the family or household. Almost all multivariate analyses include variables from each of these two sets, but there has been little consideration of the relationship between them. We examine how these two sets of variables jointly affect mortality. We test first for confounded effects by examining socioeconomic effects while excluding and then including reproductive variables in nested multivariate models. Next, we look for age-dependent effects among the explanatory variables and find that reproductive and socioeconomic factors affect mortality at differing ages of children. Finally, we examine interactive effects of the two sets of variables. We conclude that the higher mortality observed among the low status groups is not a result of greater concentration of poor reproductive patterns in those groups. Instead, higher status groups probably have more resources available for combating the negative effects of the same high-risk reproductive patterns.
+
+Studies of infant and child mortality have evolved to distinguish between two sets of variables that have differing effects on the risk of mortality--factors related to reproductive or maternal characteristics and socioeconomic factors, generally described as characteristics of the family or household into which the infant is born. The association between socioeconomic factors and infant mortality has been well documented in the demographic literature (Meegama, 1980; Somoza, 1980; D'Souza and Bhuiya, 1982; Farah and Preston, 1982; Frenzen and Hogan, 1982; Thapa and Retherford, 1982; Martin et al., 1983; Trussell and Hammerslough, 1983; DaVanzo et al., 1983; Hobcraft et al., 1983; Hobcraft et al., 1984; Rutstein, 1984; Al-Kabir, 1984; Timaeus, 1984). Numerous stud-
+
+ies have also documented the relationship between reproductive factors and infant mortality (Wray, 1971; Nortman, 1974; Wolfers and Scrimshaw, 1975; DeVanzo et al., 1983; Cleland and Sathar, 1984; DeSweemer, 1984; Hobcraft et al., 1985; Palloni and Millman, 1986; Pebley and Stupp, 1987).
+Almost all analyses of infant and child mortality include variables from each of these two sets of factors because both have been found to contribute greatly to explanations of population variation in infant and child mortality. What is less well understood is the relationship between these two sets of factors as they affect mortality. Our objective is to examine the extent to which reproductive and socioeconomic factors jointly affect infant and child mortality and to elucidate how fu-
+
+139
+
+140
+
+Kost and Amin
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+ture analyses of survey data might proceed.
+CONFOUNDED EFFECTS
+The observed effects of socioeconomic characteristics may be confounded with those of reproductive characteristics if the effects of the socioeconomic factors can be significantly changed when particular reproductive variables are included in the analysis. For example, if infants born to young mothers face a greater risk of death, and less privileged women tend to have children at young ages, then the higher infant mortality among poor mothers could be attributed to the age at which they give birth and not to the fact that they are poor. This hypothesis holds that much of the relatively high infant mortality among lower socioeconomic groups can be attributed to their more dangerous patterns of childbearing, relative to higher socioeconomic groups rather than to the fact that they have poorer living conditions.
+Using data from a rural area of north India, we address the question of whether socioeconomic differentials in mortality can be accounted for by differences in reproductive patterns among various levels of the social structure. In a similar analysis, DaVanzo and colleagues (1983) found that mortality differentials by ethnic group are diminished when the effects of low birth weight and birth interval length are controlled in multivariate analysis. Frenzen and Hogan (1982) reported that when parity, mother's age, and birth interval effects are controlled, social class differentials and regional differentials remain, but significant differentials by mother's education are diminished.
+
+INTERACTIVE EFFECTS
+Reproductive and socioeconomic factors may have interactive effects on mortality. For example, maternal age may have a stronger effect on the risk of infant and child mortality if the mother is in an economically disadvantaged household than if she is in an advantaged one. One interpretation of such a finding is that children born into poor households have more difficulty overcoming negative effects of their mother's age than those born into higher status households.
+AGE-DEPENDENT EFFECTS
+It is well recognized that the risk of mortality varies substantially within the first years of life. Because infant and child deaths are concentrated in the first months of life, all multivariate analyses that examine the determinants of mortality in the first few years of life include age at death in the models. Yet age at death is often included only as a control variable so that its effects are assumed to be independent of the other variables included in the analysis; in fact, the parameter estimates of age are often not presented. This strategy assumes that the effects of the other variables included in the model do not vary by age. But, there is increasing evidence that further advances in our understanding of the determinants of infant and child mortality will result from examining the age dependent effects of both socioeconomic and reproductive factors (Trussell and Hammerslough, 1987; DaVanzo et al., 1983; Martin et al., 1983).
+In Indonesia and Pakistan, Martin et al. (1983) found that children born to women in the highest category of ed-
+
+Vol. 39, No. 1-2
+
+Determinants of Child Survival
+
+141
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+ucation faced lowered risks of mortality after the first month of life. Trussell and Hammerslough (1983) and DaVanzo et al. (1983) also found that mother's education had a larger effect on mortality after the first month of life. Similar age-dependent effects were found for other socioeconomic factors.
+In addition, previous research has shown that mortality at different ages may be caused by different factors. In comparative analysis of World Fertility Survey data (Hobcraft et al., 1984 and 1985), where separate models were estimated for neonatal, post-neonatal, toddler (1 to 2 year), and the third year of life, effects of socioeconomic and reproductive factors varied substantially by the age of the child.
+In this analysis, we look first for potential confounding of reproductive and socioeconomic effects on mortality by examining the reproductive patterns of childbearing by socioeconomic status. We then look for agedependent effects among the explanatory variables and find that the effects of reproductive and socioeconomic factors at different ages shed light on how to proceed in the analysis of interactive effects of these two sets of variables.
+MATERIALS AND METHODS
+Data for this analysis come from a rural population in the district of Ludhiana, located in central Punjab, India. Ludhiana, and Punjab in general, is a relatively prosperous region of India. The majority of the population are of the Sikh religion, but the area also has a substantial Hindu, Muslim, and Christian minority (25 per cent). The largest economically and politically
+
+dominant ethnic/caste group are the Jat Sikh, a high-caste land-owning group. Non-Jats, or lower caste Sikhs, also form a large part of the population. Non-Jats typically do not own land and work as hired labor or share croppers on Jat farms. There is no intermarriage between the castes.
+The data used in this analysis were collected while the Narangwal health project was being conducted in this region. This project was carried out by the Indian Council of Medical Research and researchers from Johns Hopkins University in three development blocks in Ludhiana during 1968 to 1974 and covered a total population of 35,000 in 26 villages. The Narangwal project was composed of two separate experimental health interventions with different objectives. The primary objective of the health and nutrition project was to assess the effectiveness of integrated medical and nutrition programs on child health and survival. The primary objective of the family planning program was to determine whether integration of family planning services with women's and children's health services was more effective than a stand-alone family planning program. Investigations of the effects of the interventions on mortality in the study area were conducted by Kielmann et al. (1978) and Amin (1988).
+During the interventions, data on health, mortality, fertility, health service utilization, and socioeconomic status were collected through continuous record systems, longitudinal surveys, and cross-sectional retrospective surveys. The data we employ for this analysis come from a retrospective fertility survey which included a complete pregnancy history. This survey was
+
+142
+
+Kost and Amin
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+then cross-checked with and supple- tional form:
+
+mented by information collected in a longitudinal fertility survey conducted during the intervention. All information on socioeconomic status comes from a socioeconomic survey which was administered in two rounds to a large subsample of the study population.
+
+in [u,.(0] = a(r) + x; (0 p(0 where u,(0 is the risk of dying in age interval t for child /, the exponentiated first term, exp(a(f)), is the underlying age-specific risks of dying, X,-(0 is a vector of characteristics for individual i, and P(r) is the set of associated coefficients. Estimates of the coefficients
+
+Although the Narangwal data con- fi(t), when exponentiated, can be inter-
+
+tain more than 23,000 births, our anal- preted as the risk associated with aset
+
+yses are based on 9,185births. Several of characteristics X,(f), relative to an
+
+restrictions on the data resulted in the omitted reference category. All vari-
+
+smaller sample size. First of all, we in- ables in this analysis are coded ascat-
+
+cluded only births which occurred not egorical variables. Coefficients arees-
+
+more than 15 years before the survey timated using maximum likelihood
+
+interview, births from 1958 to 1973. methods, and we use Z-statistics (the
+
+Secondly, only observations which included information from the separate socioeconomic survey could be included. Third, our analyses excluded first births because risks associated
+
+estimated coefficient divided by its standard error) to assess whether an effect is statistically significant.
+VARIABLES USED IN THE ANALYSIS
+
+with birth interval length and survival of the previous birth, two factors of major interest in this analysis, are not relevant for first births.
+
+In all analyses, we control for the sex of the child since mortality varies substantially by sex in this region and because there is strong evidence ofsex
+
+To estimate the effects of socioeconomic and reproductive factors on child survival we use a multivariate extension of life tables known as hazard models. We provide only a brief description of these models as more detailed treatments of hazard models applied to demographic data are given elsewhere (Menken et al., 1981; Trussell and Hammerslough, 1983).
+
+preference in the Punjab (Amin and Pebley, 1987). We also control for the time period in which the child is born (mortality rates fell in all villages over the period of time covered by theretrospective surveys) and for the effects of the intervention projects. The period variable weuse is designed to capture the effects of both the time period of birth and the intervention.1
+
+The dependent variable in our anal-
+
+ysis is a measure of the force of mor-
+
+tality for an individual /, in age interval t and is given by u/r). The hazard in age interval /, which can be interpreted as the probability of dying between t and delta-r given that the child has survived to the start of the age interval, is assumed to have the following func-
+
+1 The omitted category for the period effect is births between 1958 and 1963. Period 2 includes all births between 1963and the start of the intervention. Interventions began at the endof 1968 in most villages. Since some of the births in period 2 spent part of the first three years of life in an intervention village, the period 2 category is not completelydevoid of the intervention effect. Period 3 includes births that took place after the interventions began.
+
+Vol. 39, No. 1-2
+
+Determinants of Child Survival
+
+143
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+The reproductive factors included in the analyses are mother's age at childbirth, birth order, and a four category variable constructed to represent both birth interval length (< 15months and > 15 months) andthe survival statusof the previous birth (alive or died) because we expect death of previous child to be strongly associated with birth interval length--some short birth intervals being caused by the death of a child. A previous child death mayalso measure family effects that cause all births in the family to faee higher risks of death. In this analysis we chose to include previous child death with the reproductive variables even though this could increase the chance of finding a confounding effect of reproductive factors.
+The socioeconomic factors include mother's education, head of household's education, family income, and caste. These factors were coded into dichotomous categories to represent low and high socioeconomic groups. Mother's education was coded as some or none since 89 percent of womenhad no education. Head of household's education was also coded assome or none since 60 per cent of the household heads had no education. Although we were constrained by our data to use head of household's educational status rather than the father's, we find this constraint preferable since the person who heads the household may have more of an influence over the environment into which a child is born than the child's father.
+For the caste variable, we distinguish between Non-Jats and all others
+Since some births in the third period were born in control villages, the parameter estimate probably underestimates the intervention effect.
+
+since Non-Jats constitute the lowest and largest caste group. Thefamily income variable was constructed from a composite score of several income and assets variables, such as income inrupees and cash value of crops harvested (see Amin, 1988).
+RESULTS
+As a first step in examining therelationship of the socioeconomic and reproductive factors to mortality, we examined bivariate plots of the estimated risk of death, or "hazard," from 0to 36 months of life for each socioeconomic and reproductive variable by age. Two general observations emerged from these plots. First, the four socioeconomic variables--mother's education, household head's education, caste,and family income--show similar age patterns. The difference in mortality between the lowand high socioeconomic status groups for each variable is least pronounced in the first 6months of life and tends to widen after this age. The similarity in pattern for all four variables may be explained by a high degree of correlation among the different measures of socioeconomic status. Rural Punjab families of high caste also tend to be wealthy and privileged in terms of access to education.
+In contrast to thesocioeconomic differentials, the differential effects of reproductive variables tend to dominate in the first month of life, although birth order differences appear greater inthe latter half of the first year of life. Bivariate plots of mortality risks tell us little about how the socioeconomicand reproductive variables jointly affect mortality, but the differences in age patterns of the risk of death suggest
+
+144
+
+Kost and Amin
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+that the two sets of variables have independent effects on mortality. We examine this possibility in a multivariate framework later on in the analysis.
+Before investigating multivariate effects of socioeconomic and reproductive factors, we examined crosstabulations of births by each of the reproductive and socioeconomic variables. In this step, we wanted to see whether such distributions would give us evidence that socioeconomic effects on mortality may be confounded by reproductive patterns. The greatest difference in distribution of births for the lower versus the higher socioeconomic groups occurs for birth order. For all four socioeconomic factors, the lower status group has a greater proportion of relatively high order births. Also, the lower status groups have a greater proportion of previous child deaths. However, we did not find a significantly greater proportion of births to young mothers ( < 20) and only a slightly higher proportion to older mothers (35 +) in the lower socioeconomic groups. Also, the lower status births do not appear to be more likely to be born after short birth intervals ( s 15 months). In sum, we do not find strikingly different distributions of births by reproductive factors in the socioeconomic groupings. However, some variations in reproductive patterns are apparent, and whether or not these distributional differences will affect socioeconomic mortality differentials can be assessed using nested multivariate models.
+To apply a statistical test to the question of whether socioeconomic effects are confounded by reproduction-related differences in mortality patterns, we compare two multivariate
+
+models, shown in Table 1. In Model 1, the four socioeconomic effects are estimated controlling only for sex of child and period of birth. In Model 2 the reproductive variables are added. Comparisons of the estimated effects of socioeconomic factors in Models 1 and 2 allow us to test for a confounding impact of reproductive variables.
+We first examine the effects of socioeconomic variables on the risk of death during the first three years of life without reproductive factors included in the model (Model 1, Table 1). The income differentials we had observed in bivariate distributions become insignificant once the effects of other socioeconomic factors are accounted for, but differentials among the three other socioeconomic factors remain. In this model, the lower socioeconomic groups experience significantly greater infant and child mortality than the higher status groups. Children of mothers with no education and those from the Non-Jat caste are more than a third more likely to die than those born to mothers with some education and those of higher castes. Those children who are born into a household where the head has no education have a 10 per cent greater risk of dying than children in households where the head has some education.
+In Model 2 of Table 1, we test whether the distributions of the reproductive variables might account for these socioeconomic differences. While the effects of almost all the reproductive factors are strong and statistically significant, the effects of the socioeconomic factors are only mildly affected by the introduction of the reproductive variables. Low caste children are still more likely to die than
+
+Vol. 39, No. 1-2
+
+Determinants of Child Survival
+
+145
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+TABLE 1
+Two PROPORTIONAL HAZARD MODELS (BASELINE RISK FOR AGE GROUP AND RELATIVE RISKS FOR ALL OTHER VARIABLES PRESENTED)
+
+RISKS
+Baseline risks Age 0-1 months 2-6 months 7-12 months 13-24 months 25-36 months
+Relative risks Sex Boy Girl Mother's age <20yrs 20-35 yrs >35 yrs Birth order 2-4 >5 Previous birth interval length and child survival > 15 Mo., Alive £ 15 Mo., Dead £ 15 Mo., Alive > 15 Mo., Dead Mother's education Some None Household head's education Some None Cafete All other Low, Sikh Income a Rs. 3,000 < Rs. 3,000 Period of birth 1958-1963 1963 to intervention Intervention to 1973
+Model chi square
+"p < 0.05.
+V < o.io.
+
+MODEL I
+Socioeconomic Factors
+
+MODEL 2
+Socioeconomic and Reproductive Factors
+
+0.0333"
+0.0031" 0.0035" 0.0023" 0.0007"
+
+0.0271"
+0.0025" 0.0029" 0.0019" 0.0006"
+
+1.00 1.39"
+1.00 1.31" 1.00 1.10'' 1.00 1.35" 1.00 1.06 1.00 0.88" 0.77" 2,028.9
+
+1.00 1.38"
+1.36" 1.00 1.13
+1.00 1.26"
+1.00 2.27" 1.86" 1.42"
+1.00 1.25"
+1.00 1.09
+1.00 1.28"
+1.00 1.05
+1.00 0.87 0.77" 2,139.6
+
+higher caste children, although the effect does diminish by about 5 per cent with the reproductive factors entered into the model, and the effect of head
+
+of household's education becomes insignificant when reproductive factors are controlled. But, children born to mothers with no education are still
+
+146
+
+Kost and Amin
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+about 25 per cent more likely to die than children born to women with at least some education.
+In sum, Table 1 shows that the effects of mother's education, head of household's education, and caste are diminished when reproductive factors are controlled, but their effects cannot be completely accounted for by variations in reproductive patterns among socioeconomic groups.
+In the proportional hazard models in Table 1, we control for a falling risk of death in the first three years of life by including a variable for age and by estimating a separate effect for each age category--the neonatal period (0 to 1 month), the early post-neonatal period (2 to 6 months), late postneonatal period (7 to 12 months), the second year of life, and the third year of life--and we assume that the relative risks of each of the other covariates are constant across the infant and child ages. However, since the hazard distributions we discussed earlier indicate that the differentials associated with a particular variable are not the same across all ages, we estimated agespecific relative risks for all the variables. These estimates are equivalent to including an interaction between age and each of the covariates in the models and are presented in Table 2. These estimates are referred to as "nonproportional effects" because the effect estimated for each explanatory variable is no longer constrained to be the same across age groups.
+As we suspected earlier from examining the bivariate distributions of the hazards, none of the four socioeconomic factors have a discernible effect on neonatal survival. Instead, the socioeconomic factors tend to affect mor-
+
+tality later in childhood which suggests that the risks associated with socioeconomic factors reflect environmental influences on survival such as competition for, and varying quality of, resources.
+Since there are no socioeconomic differentials in the neonatal period, we do not expect to see socioeconomic effects confounded by reproductive factors in this age range, and the introduction of the reproductive factors does not affect the significance of the socioeconomic factors in the postneonatal ages (Model 2 of Table 2). In both models presented in Table 2 (excluding and including reproductive factors), infants born to mothers with no education are about two and one-half times as likely to die in the second through sixth months of life than infants born to mothers with some education. Also, mortality after the first six months of life is significantly affected by head of household's education, caste, and family income in both models. Inclusion of the reproductive factors decreases only slightly the effects of caste and head of household's eduction. Examination of nonproportional effects therefore shows that while the effects of socioeconomic factors vary by age of the child, those effects either do not change or decrease only slightly with the introduction of reproductive factors.
+The age pattern of mortality differentials by sex and by caste are similar. In the results presented here, lower caste and female children have higher childhood mortality but do not have significantly higher mortality in the first six months of life. Girls have significantly higher mortality from 7 to 36 months with about twice the mortality
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+RISKS
+Sex Boy Girl
+Mother's age < 2 0 Yrs 20-35 Yrs > 3 5 Yrs
+Birth order 2-4
+a5
+Previous birth interval length and child survival
+> 15 Mo., Alive £ 15 Mo., Dead < 15 Mo., Alive > 15 Mo., Dead Mother's education Some None Household head's education Some None Caste All other Low, Sikh Income > Rs. 3,000 < Rs. 3,000 Period of birth 1958-1963 1963 to intervention Intervention to 1973
+Model chi square
+"p < (1.05. V < I). HI.
+
+TABLE 2
+TWO NONPROPORTIONAL HAZARD MODELS (RELATIVE RlSKS PRESENTED)
+
+I)-] Months
+
+Mouii. i: S(KJoitONOMic FACTORS
+
+2-6 Months
+
+7-12 Months
+
+13-24 Months
+
+25-36 Months
+
+Mcmi-i. 2: SOCIOKONOMIC AND Ri-PRODUCT ivn FACTORS
+
+0-1 Months
+
+2-6 Months
+
+7-12 Months
+
+13-24 Months
+
+25-36 Months
+
+1.00 0.97
+
+1.00 1.16
+
+1.00 1.77"
+
+1.00 2.07"
+
+1.00 1.74"
+
+1.00 1.00 0.95 1.15
+1.58" 1.22 1.00 1.00 1.33'' 0.96
+1.00 1.00 1.14 1.11
+
+1.00 1.76"
+1.20 1.00 1.33
+1.00 1.52"
+
+.00 2.06"
+.44" .00 0.79
+.00 .49"
+
+1.00 1.74"
+1.04 1.00 1.36
+1.00 0.89
+
+1.00 1.06
+1.00 1.08
+1.00 0.89
+1.00 1.03
+1.00 0.93 0.95
+
+1.00 1.00 1.00 2.55" 1.42 1.28
+1.00 1.00 1.00 0.75" 1.25" 1.31"
+1.00 1.00 1.00 1.03 1.61" 2.35"
+1.00 1.00 1.00 1.09 1.27'' 0.90
+1.00 1.00 1.00 0.96 0.77" 0.90 1.21 0.71" 0.43"
+2,180.5
+
+1.00 1.23
+1.00 1.18
+1.00 1.74"
+1.00 1.12
+1.00 0.74 0.22"
+
+1.00 3.47" 2.33" 1.36"
+
+1.00 2.58" 2.44" 1.66"
+
+1.00 1.21 1.18
+1.78"
+
+1.00 1.00 1.04 2.53"
+
+1.00 1.25
+
+1.00 1.00 1.07 0.74"
+
+1.00 1.22
+
+1.00 1.00 0.83'> 0.97
+
+1.00 1.53"
+
+1.00 1.00 1.03 1.09
+
+1.00 1.27h
+
+1.00 1.00 0.92 0.96 0.96 1.24
+
+1.00 0.74" 0.70"
+
+2,336.9
+
+1.00 .54 .59" 1.15
+1.00 1.23
+1.00 1.29"
+1.00 ;2.25"
+1.00 ().9O
+LOO ().9O 0.44"
+
+1.00 1.84 1.39 1.22
+1.00 1.23
+1.00 1.18
+1.00 1.72"
+1.00 1.12
+1.00 0.72 0.22"
+
+O,
+so
+to
+a
+·1
+5"
+PS O
+**·
+r.
+a <
+
+148
+
+Kost and Amin
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+risk of boys in the second year of life. The more hazardous environments faced by low caste and female children are most likely to blame for their lower survival, rather than any intrinsic handicap at birth. We hypothesize that just as female children may suffer because of a biased distribution of resources within the family, low caste children suffer because of a biased distribution within the larger social context of the villages.
+The period effects are not altered by the introduction of the reproductive factors indicating that there has not been a major shift in reproductive patterns over time or with the advent of the interventions, although the effects clearly indicate that mortality risks have been falling over time. The effects of the last period variable are significant from 7 months through the third year of life which suggests that the child health interventions may have been most effective for children who survived early infancy.
+One finding in particular stands out in the examination of nested nonproportional models in Table 2, the effect of mother's education in early childhood (months 2 through 6). The large differential in risk for children born to mothers with some education as compared to those born to mothers with no education cannot be explained by differing reproductive patterns of the two groups. Because the education effect occurs in the same ages as the effects of reproductive factors, we can look at the interaction between education and reproductive factors in Table 3 and test whether the effects of the reproductive factors vary by mother's education (this is equivalent to a fully interacted model with mother's education).
+
+It is clear that children born to mothers with no education have significantly higher mortality associated with their reproductive patterns than children born to mothers with at least some education. Hence, even though we could not account for socioeconomic differentials in mortality by differing reproductive patterns, Table 3 indicates that the negative effects of high birth order, short birth intervals, and young mothers may be far more difficult to survive if one is born into a lower status group.
+SUMMARY AND CONCLUSIONS
+Socioeconomic factors and factors associated with mother's reproductive patterns are highly associated with survival probabilities in the first years of life, but the two sets of factors tend to affect mortality during different times in a child's life. In general, socioeconomic factors do not appear to be associated with neonatal mortality, while reproductive factors dominate only in the neonatal period and the rest of the first six months. The only socioeconomic factor that shows a strong and significant effect in the early infant ages is mother's education. Because the reproductive factors are also most likely to affect mortality at the youngest ages, we examined the interaction between mother's education and the reproductive factors and found that children born to mothers with no education are less able to overcome the negative effects associated with a young mother, high birth order, short previous birth intervals, and a previous sibling death. By testing for confounding of reproductive and socioeconomic effects, variation in effects by age, and
+
+Vol. 39, No. 1-2
+
+Determinants of Child Survival
+
+149
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+TABLE 3
+Two PROPORTIONAL HAZARD MODELS BY MOTHER'S EDUCATION (BASELINE AND RELATIVE RISKS)
+
+RISES
+Baseline risks Age 0-1 Month 2-6 Months 7-12 Months 13-24 Months 25-36 Months
+Relative risks Sex Boy Girl Mother's age <20 Yrs 20-35 Yrs > 35 Yrs. Birth order 2to4 >5 Prev. birth interval and child death > 15 Mo., Alive < 15 Mo., Dead ·£ 15 Mo., Alive > 15 Mo., Dead Household head's education Some None Caste All other Low, Sikh Income > R s . 3,000 <Rs. 3,000 Period of birth 1958-1963 1963 to intervention Intervention to 1973
+Model chi square
+·'p < 0.05.
+
+MOTHER'S EDUCATION
+
+None
+
+Some
+
+0.0329" 0.0033" 0.0037" 0.0024" 0.0007"
+1.00 1.39"
+1.33" 1.00 1.14
+1.00 1.26"
+1.00 2.41" 1.89 1.45"
+1.00 1.08
+1.00 1.29"
+1.00 1.04
+1.00 0.86" 0.74" 1,887.8
+
+0.0331" 0.0015" 0.0018" 0.0012" 0.0004"
+1.00 1.35
+1.85" 1.00 1.09
+1.00 1.24
+1.00 0.91 1.65 0.98
+1.00 1.20
+1.00 1.49
+1.00 1.14
+1.00 0.96 1.11 248.0
+
+interactive relationships among the explanatory variables, we conclude that the higher mortality observed among low status groups is not a result of a greater concentration of poor reproductive patterns in these groups. Instead, higher status groups probably have more resources available to them for combating the negative effects of
+
+the same high risk reproductive patterns.
+ACKNOWLEDGMENTS
+The authors gratefully acknowledge permission to use data from the Narangwal project provided by the staff of the Department of International Health, The Johns
+
+150
+
+Kost and Amin
+
+Social Biology
+
+Hopkins University. Work on this project was completed with funding from National Institutes ofHealth Training Grant # 5 T32 HD07163-09. The authors also acknowl-
+
+edge many helpful comments from Anne Pebley, James Trussell, German Rodriguez, and Lorenzo Moreno.
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+REFERENCES
+
+AL-KABIR, A. 1984. Effects of communityfactors on infant and child mortality in rural Bangladesh. WFS Scientific Report No. 56.
+AMIN, S. 1988. The effect ofpublic health interventions on socio-economic differentials in child mortality in Punjab, India. Ph.D. dissertation, Princeton University.
+
+kistan: An analysis based on hazard models. Pop. Stud. 37:417-432.
+MEEGAMA, S. A. 1980. Socio-economic determinants of infant and child mortality in Sri Lanka: Ananalysis of post-war experience. WFS Scientific Report No. 8, International Statistical Institute.
+
+AMIN, S., and A. R. PEBLEY. 1987. The impact
+of a public health intervention onexcessfemale mortality in Punjab, India. Paper presented at the Annual Meetings of the Population Association of America, Chicago.
+CLELAND, J. G., and Z. A. SATHAR. 1984. The
+effect ofbirth spacing on childhood mortality in Pakistan. Pop. Stud. 38:401-418.
+D'SOUZA, S., and A. BHUIYA. 1982. Socioeco-
+nomic mortality differentials in arural area of Bangladesh. Pop. Develop. Rev. 8:753-769.
+DAVANZO, J., W. P. BUTZ, and J. P. HABICHT.
+1983. How biological and behavioral influences on mortality in Malaysia vary during the first year of life. Pop. Stud. 37:381-402. DESWEEMER, C. 1984. The influence of child spacing onchild survival. Pop. Stud. 38:4772.
+FARAH, A. A., and S. PRESTON. 1982. Child mor-
+tality differentials in Sudan. Pop. Develop. Rev. 8:365-383.
+FRENZEN, P., and D. HOGAN. 1982. The impact
+of class, education and health care on infant mortality in a developing society. Demography 19:391-408.
+HOBCRAFT, J., J. W. MCDONALD, and S.RUT-
+STEIN. 1983. Child-spacing effects on infant and child mortality. Pop. Index 49:585-618.
+. 1984. Socio-economic factors in infant and child mortality: A cross national comparison. Pop. Stud. 38:193-223.
+. 1985. Demographic determinants of infant and early child mortality: A comparative analysis. Pop. Stud. 39:363-385.
+
+MENKEN, J., J. TRUSSELL, D. STEMPEL, and O.
+BABAKOL. 1981. Proportional hazards lifetable models: An illustrative analysis ofsociodemographic influences on marriage dissolution in the United States. Demography 18:137-161. NORTMAN, D. 1974. Parental age as a factor in pregnancy outcome and child development. Reports onPopulation/Family Planning No. 16.
+PALLONI, A., and S. MILLMAN. 1986. Effects of
+inter-birth intervals and breastfeeding on infant and early childhood mortality. Pop. Stud. 40:215-236.
+PEBLEY, A. R., and P. W. STUPP. 1987. Repro-
+ductive patterns and child mortality in Guatemala. Demography 24:43-60. RUTSTEIN, S. O. 1984. Infant and child mortality: Levels, trends and demographic differentials. WFS Comparative Studies No. 43.
+SOMOZA, J. L. 1980. Illustrative analysis: Infant and child mortality in Colombia. WFS Scientific Reports No. 10.
+THAPA, S., and R. D. RETHERFORD. 1982. Infant
+mortality estimates based onthe 1976 Nepal fertility survey. Pop. Stud. 36:61-80. TIMAEUS, I. 1984. Mortality inLesotho: Astudy of levels, trends anddifferentials based on retrospective survey data. WFS Scientific Reports No. 59.
+TRUSSELL, J., and C. HAMMERSLOUGH. 1983. A
+hazard model analysis ofthe covariates of infant mortality in Sri Lanka. Demography 20:1-26.
+
+KIELMANN, A. A., C. E. TAYLOR, C. DESWEEM- WOLFERS, D., and S. SCRIMSHAW. 1975. Child
+
+ER, I. S. UBEROI, H. S. TAKULIA, N. MASIH,
+
+survival and intervals between pregnancies in
+
+and S. VOHRA. 1978. The Narangwal exper-
+
+Guayaquil, Ecuador. Pop. Stud. 29:479-496.
+
+iment oninteractions of nutrition and infec- WRAV, J. D. 1971. Population pressure on fam-
+
+tions: II Morbidity and mortality effects. In-
+
+ilies: Family size and child spacing. In Rapid
+
+dian J. Med. Res. Vol. 68 (suppl.).
+
+population growth: Consequences and policy
+
+MARTIN, L. G., J. TRUSSELL, F. R. SALVAIL, and
+
+implications. Volume II. Research Papers.
+
+N. M. SHAH. 1983. Co-variates ofchild mor-
+
+Baltimore, The Johns Hopkins University
+
+tality in thePhilippines, Indonesia, and Pa- Press.
+
+

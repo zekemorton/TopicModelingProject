@@ -1,0 +1,885 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Propensity of white women in the United States to adopt children
+Dudley L. Poston Jr. & Ruth M. Cullen
+To cite this article: Dudley L. Poston Jr. & Ruth M. Cullen (1989) Propensity of white women in the United States to adopt children, Social Biology, 36:3-4, 167-185, DOI: 10.1080/19485565.1989.9988730 To link to this article: http://dx.doi.org/10.1080/19485565.1989.9988730
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles
+Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:43
+
+Propensity of White Women in the United States to Adopt Children
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Dudley L. Poston, Jr., and Ruth M. Cullen
+Department of Rural Sociology, Cornell University, Ithaca, New York; and Department of Sociology, Arizona State University, Tempe, Arizona
+
+ABSTRACT: Demographically, adoption is a relatively rare event. In 1982, only 2.3 per cent (or about 650,000) of ever-married white women aged 15 to 44 had adopted one or more children. Adoption is an important and very relevant means of family formation for many women, particularly those for whom biological childbearing is difficult or impossible. Although there is a modest literature on adoption behavior, we have very little information about women who have shown a propensity to adopt children. How should the phenomenon of adoption propensity be conceptualized? How many women are there in the United States with such a propensity? How different is this number from the number of women who eventually adopt children? What are the characteristics of women with a propensity to adopt? The objectives of this paper are (1) to estimate the numbers of U.S. women at three different points in time (1973, 1976, and 1982) who have a propensity to adopt, according to various socioeconomic and demographic characteristics; and (2) to compare via log-linear analysis the major characteristics of these women with women who have not shown such a propensity.
+
+Demographically, adoption is a relatively rare event. Out of an estimated 26.1 million ever-married white women between the ages of 15 and 44 in the United States in 1982, only 2.3 per cent (or about 650 thousand) had adopted one or more children. The percentages adopting children in the 1970's were very similar to the percentage in 1982. Although relatively few women adopt, adoption is an important and very relevant means of family formation for many women, particularly those for whom biological childbearing is difficult or impossible.
+While a modest literature has developed over the past decade about the numbers and characteristics of women who have adopted one or more children (Bonham, 1977; Bachrach, 1983a,fc, 1986; Poston and Cullen, 1986), this is not the case with regard to adoption pro-
+
+pensity. We have very little information about women who have shown a propensity to adopt children.
+How does one conceptualize the phenomenon of adoption propensity? How many women are there in the United States who have such a propensity? How different is this number from the number of women who eventually adopt a child? What are the characteristics of women who have a propensity to adopt? How similar are their characteristics compared to women who have not shown such a propensity, or to women who have actually adopted one or more children?
+The purposes of this paper are (1) to estimate the numbers of women at three different points in time (1973,1976, and 1982) who have indicated a propensity to adopt, according to various socioeconomic and demographic characteristics,
+
+167
+
+168
+
+Poston and Cullen
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+and (2) to compare via log-linear analysis the major characteristics of these women with women who have not shown such a propensity. Research on the characteristics of women who have adopted has indicated that these women usually are childless, noncontraceptively sterile, and in their late 30's to early 40's. But similar studies have not been conducted of women who have a propensity to adopt.
+To date we also do not have very good estimates of the numbers of women in the United States who are inclined to adopt a child. We do know that in 1982 there were an estimated 51,000 adoptions in the United States by unrelated petitioners, a considerable reduction from the approximately 89,000 adoptions in 1970 (National Committee for Adoption, 1985,p. 121). But to what extent is the supply of babies available for adoption different from the demand for babies? Are there more women showing a propensity to adopt than women who actually adopt? Our objective in this paper with regard to estimating the potential demand for adoption is an important and very relevant one, particularly because we will show that the number desiring to adopt is quite a bit higher than the supply of babies available for adoption. For example, we will show in a later section of this paper that in 1982 there were about 3.5 million women who wanted one or more children but were biologically unable to have these children. If only one-third of these women eventually make actual adoption plans, well over one million women will be seeking children for adoption. The supply of babies available each year for adoption comes nowhere near to meeting this demand. We turn now to a discussion of the data and methods to be used in our study.
+
+MATERIALS AND METHODS
+In order to estimate the levels and examine the characteristics of women in 1973,1976, and 1982 who have shown a propensity to adopt a child, we draw on data from three cycles of the National Survey of Family Growth (NSFG-I, NSFG-II, and NSFG-III). In 1973 and 1976, these data sets were based on interviews administered to nationally representative samples of ever-married women and single women (with children) between the ages of 15and 44, and in 1982, to a nationally representative sample of all women in these ages. The samples numbered 9,797 in 1973, 8,611 in 1976, and 7,969 in 1982. The interviews were administered "to produce data on factors influencing trends and differentials in fertility (and) contraceptive practice. . . . (The interviews focused) on the woman's marital and pregnancy history, her use of contraception, future birth intentions, and a range of social and demographic background characteristics" (Bachrach, 1983a, p. 860; see also Pratt, 1977, Hendershot and Pratt, 1979, and Bachrach et al., 1985, for descriptions and technical documentation).
+In both the 1973and 1976surveys,selected groups of women were asked whether or not they would consider adoption if they were unable to have a child (or additional children) of their own. The 1982 survey did not include a direct question on adoption propensity, but we have constructed a proxy propensity variable by drawing on questions in the 1982 survey pertaining to future birth intentions and desires for a child (or additional children). As we did in our earlier study of adoption behavior (Poston and Cullen, 1986), we restrict our samples in this study to currently
+
+Vol. 36, No. S-4
+
+Propensity to Adopt Children
+
+169
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+married non-Hispanic white women between the ages of 15 and 44 because of the racial and ethnic differences in adoption behavior and voluntary and involuntary childlessness (Grindstaff, 1976; Bonham, 1977; Poston and Gotard, 1977; Davis, 1982; Bachrach, 1983a,b).
+In the 1973 survey (NSFG-I), approximately 6.6 million currently married non-Hispanic white women between the ages of 15 and 44 who intended to have a child or additional children of their own, were asked if they would consider adopting a child in the event they were unable to have their own biological children. Women who were sterile (either contraceptively or noncontraceptively), menopausal, contracepting, intending to have a sterilizing operation, or who were pregnant at the time of the interview, were not asked this question. Almost 70 per cent of these women, or about 4.6 million women, were favorably inclined toward the possibility of their adopting a child.
+The 1976 survey (NSFG-II) asked a comparable group of about 6.0 million women the same question. Almost 71 per cent of these women, or about 4.3 million women, answered that they were favorably disposed to the possibility of their adopting a child. In addition, the NSFG-II survey also asked another group of about 2.8 million women, namely those who were noncontraceptively sterile, the following question: "(Since/if) you and your husband are unable to have a(nother) baby, do you intend to adopt any children?" More than 21 per cent of this second group of women, or more than 600,000 women, answered that they were favorably inclined to adopting a(nother) child.
+As we have already noted, the 1982 survey (NSFG-III) did not include a direct question on adoption propensity.
+
+We thus developed a proxy measure by constructing a single indicator from questions dealing with future birth intentions and desires. Those married white women who were sterile (contraceptively or noncontraceptively) at the time of the interview were asked: "If it were possible for you to have a(nother) baby, would you, yourself, like to have one?" Another group of women who had not had a sterilizing operation, had little or no indication of difficulties in conceiving or bearing a child, and who did not intend to have a sterilizing operation, were asked: "Do you and your husband intend to have a(nother) baby at some time?" This population includes mainly fecund women, with much smaller proportions of subfecund and "long interval" women.1 In our use of this second group of women for the construction of the "propensity" variable, we excluded the fecund women. Our proxy "propensity" variable therefore applies to all contraceptively and noncontraceptively sterile women who were asked if they wished to have a(nother) child, as well as to all subfecund and "long interval" women who were asked if they intended to have a(nother) child. Combined, the two groups equalled about 10.2 million women. Almost 34 per cent of these women (about 3.5 million) responded affirmatively, that is, they either wanted or intended to have a(nother) child.
+Our proxy "propensity" indicator is indeed a proxy because the adoption process per se is not mentioned in either of the questions used in its construction,
+1A "long-interval" woman is one who has been married for at least three years, has not used a contraceptive method, and has not been pregnant in the three years prior to the interview.
+
+170
+
+Poston and Cullen
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+However, we are assuming that if women who themselves are unable biologically to have a child indicate a want or intention to have a child, it is not unlikely that many of them are visualizing adoption as the main mechanism for achieving this goal. If they are biologically unable to have their own children, how else could such an objective be attained, other than through adoption.
+These descriptions of the three data sets suggest that rather sizable numbers of U.S. white women are at least somewhat inclined to have one or more children through adoption. In 1973, about 4.6 million women were so inclined; in 1976, the two groups of women indicating a propensity to adopt comprised 4.3 million women, and another 600,000 women; in 1982, our proxy measure of adoption propensity identified about 3.5 million women who wanted to have another child but were unable to do so biologically. In the next section, we examine some of the general characteristicsof these women. These descriptive accountings will be followed by log-linear analyses of a selected number of characteristics on adoption propensity.
+RESULTS
+Because of differences in the composition of the groups of women in the three cycles of the national fertility surveys, and variations in the wording of many of the questions asked in the interviews, we discuss, first, the characteristics of similarly constituted groups of women in the 1973 and 1976 data sets who reported that they would have little or no difficulty in bearing a(nother) child. These women were asked whether or not they would consider adoption in the event they were unable
+
+to have children of their own. We then describe the characteristics of the second group of women in 1976 who reported it would be difficult or impossible to have a(nother) child. Since it was unlikely that they would have a(nother) child, they were asked if they intended to adopt any children. Lastly, we describe the characteristics of women in 1982 who wanted or intended to have a(nother) child but who reported that it would be difficult or impossible for them to bear their own children.
+DESCRIPTIVECHARACTERISTICS
+Selected characteristics of the groups of women in 1973 and 1976 who would have little or no difficulty bearing children (we refer to these women as "Group 1" women) are presented in Table 1. In 1973 there were an estimated 6.6 million such women, and in 1976 an estimated 6.0 million women; both groups of women were asked about their propensity to adopt. In both years, about 70 per cent of these women responded favorably to the question, although the percentage answering "yes" rather than "maybe" declined from 51 per cent in 1973 to 44.4 per cent in 1976. These total percentages indicate an overwhelmingly favorable attitude toward adoption. However, there is some variation in the percentages according to certain characteristics.
+With respect to demographic characteristics, potentially adoptive women in both survey years tended to be young, childless, and to have married at late ages. Equally high percentages of fecund and subfecund women were favorably inclined with regard to adoption in both 1976 and 1973, while in 1976, only 48.6 percent of women classified in the "long interval" category of fecundity
+
+Vol. 36, No. 3-4
+
+Propensity to AdoptChildren
+
+171
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+status indicated a propensity to adopt (in 1973 "long interval" women were included in the "fecund" category).
+In addition to demographic characteristics, data are also presented in Table 1 for geographic characteristics (region and residence), woman's education, family income and religion. Although there are variations in the percentages of women responding favorably to the question on adoption propensity among the categories of all these variables, the differences are not great, suggesting that socioeconomic differences are not as important in determining adoption propensity as differences dealing with age, parity, and fecundity. This, by the way, is a finding similar to that for women who had already adopted a child or children (Poston and Cullen, 1986, p. 242).
+Table 2 presents descriptive characteristics for those women in 1976 who were asked whether they intended to adopt since they were unable to have children of their own (we refer to these women as "Group 2" women). Of the 2.8 million women in this group, more than 2 out of every 10women, or an estimated 607,000, indicated a willingness to adopt. For these women, the following characteristics appear to be important determinants of their propensity to adopt: age at interview (women in their late twenties and early thirties had higher percentages willing to adopt); biological parity (childless women were more than twice as favorable as women in other parities); and fecundity status (noncontraceptively sterile and longinterval women tended to be more favorable than subfecund women). With regard to social and economic characteristics, education and family income appear to have some influence. Substantially higher percentages of
+
+college-educated and higher-income women were more favorable toward adoption than were less-educated and lower-income women.
+Comparisons between the two groups of women in 1976 who were asked about adoption propensity indicate that, overall, "Group 1" women tended to be more favorable toward the idea of adoption than "Group 2 " women. This difference may well be reflecting the hypothetical wording of the question to women who had little reason to think they would have difficultybearing their own children, i.e., the "Group 1" women. Despite differences in question wording and the composition of the two groups, however, younger, childless women in both groups had the highest percentages favorable toward adoption, suggesting that these characteristics may be important determinants of willingness to consider adoption.
+As we noted earlier in this paper, the 1982NSFG did not ask women whether they would consider adoption if they were unable to bear children of their own. We therefore constructed a proxy measure from questions dealing with future birth intentions and desires. Table 3 presents data on the characteristics of these women identified in the 1982 NSFG. Of the 10.2 million women who responded, almost 34 per cent, or an estimated 3.5 million women, answered affirmatively. As was the case with women in the 1973and 1976surveys, the highest percentages of women who wanted or intended to have a(nother) child were the younger, childless women. Within categories of fecundity status, 55per cent of noncontraceptively sterile women, and almost 65per cent of subfecund women, wanted or intended to have a child or additional children.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE1
+SELECTED CHARACTERISTICS OF CURRENTLY MARRIED WHITE WOMEN 15 TO 44 YEARS OLD W H O HAVE INDICATED A PROPENSITY TO ADOPT, UNITED STATES, 1976 AND 1973"
+
+CHARACTERISTIC
+Total women
+Age at interview 15-19 20-24 25-29 30-34 35-39 40-44
+Parity Nobirths One birth Two births Three or more births
+Fecundity status Subfecund Long interval Fecund
+Woman's age at first marriage Less than 16years 16-17years 18-19years 20-21 years 22-24 years 25-29years 30 years or older
+
+Favorable
+(Yes & Maybe)
+70.8
+82.1 76.8 64.6 65.3 38.5 26.7
+86.1 61.4 47.0 42.4
+72.1 48.6 71.6
+52.5 59.7 71.6 67.4 79.5 77.5 92.7
+
+1976
+
+Yes
+44.4
+
+Maybe
+26.4
+
+54.3 27.8 47.7 29.1
+39.7 24.9
+41.3 24.0 23.5 15.0 25.7 1.0
+
+58.8 27.3
+33.1 28.3 25.8 21.2 23.5 13.9
+
+54.3 17.8 20.4 28.2 43.9 27.7
+
+37.0 15.5
+37.5 22.2 42.5 29.1 45.7 21.7
+48.5 31.0
+53.3 24.2 43.9 49.8
+
+PROPENSITY TO ADOPT
+
+Total Women (000's)
+6,042
+
+Favorable (Yes & Maybe)
+69.7
+
+656
+2,625
+1,922
+605 156
+78
+
+74.1
+73.0
+70.3
+60.7 39.5
+54.3
+
+2,923
+2,224 598 297
+
+83.5
+63.6 43.7 37.1
+
+804 229 5,009
+
+69.0 69.9
+
+159
+797 1,897
+1,481
+1,279
+341 54
+
+63.4
+58.5 71.2
+72.6
+72.6
+67.8 48.4
+
+1973
+
+Yes
+51.0
+
+Maybe
+18.7
+
+55.1 19.0 54.4 18.6 50.5 19.8
+41.3 19.4 29.2 10.3 46.1 8.2
+
+63.6 19.9
+43.3 20.3 32.0 11.7 23.8 13.3
+
+54.2 14.8 50.3 19.6
+
+56.2 7.2
+42.1 16.4 52.6 18.6 55.4 17.2
+50.1 22.5
+45.1 22.7 36.9 11.5
+
+Total Women (000's)
+6,592
+710 2,831 2,079
+696 198 77
+3,236 2,253
+795 308
+1,158
+5,434
+116 797 2,148 1,712 1,341 414 63
+
+n w5-
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Region Northeast North Central South West
+
+71.3 42.4 28.9 1,312 73.1 45.3 27.8 1,899 70.9 44.2 26.7 1,890 64.9 45.5 19.4 941
+
+65.9 46.0 19.9 1,288 69.6 49.3 20.3 1,829 70.2 52.8 17.4 2,201 72.9 55.3 17.6 1,274
+
+Residence Large metropolitan area Small metropolitan area
+Metropolitan area of undetermined size
+Nonmetropolitanarea
+Family income Less than $5,000 $5,0O0-$9,999 $10,000-$14,999 $15,000-$24,999 $25,000ormore
+Woman's education Less than high school High school, 1-3 years High school, 4 years College, 1-3 years College, 4 years or more
+
+66.6 50.9 15.7 319
+76.5 48.0 28.5 3,101
+59.9 34.6 25.3 658 65.9 40.8 25.1 1,964
+
+71.0 40.9 30.1 328 71.7 41.6 30.1 1,230 70.7 44.8 25.9 1,685 72.3 49.1 23.2 1,757 64.3 42.4 21.9 603
+
+47.3 23.7 23.6
+
+188
+
+70.5 42.5 28.0 819
+
+67.0 42.3 24.7 2,877
+
+74.1 45.9 28.2 977
+
+80.7 52.9 27.8 1,176
+
+71.3 52.3 19.0 4,518
+
+66.2 48.1 18.1 2,074
+
+66.1 46.7 19.4
+
+541
+
+65.6 44.9 20.7 1,875
+
+68.5 53.6 14.9 2,068
+
+74.9 52.6 22.3 1,516
+
+77.3 61.1 16.2 592
+
+55.8 47.7 8.1 216
+
+56.3 42.9 13.4
+
+847
+
+69.5 49.5 20.0 3,316
+
+76.7 58.2 18.5 1,163
+
+76.5 55.0 21.5 1,050
+
+Religion Roman Catholic Protestant Jewish Other
+
+73.7 45.0 28.7 1,824
+
+69.7 43.4 26.3 3,671
+
+61.1 39.7 21.4
+
+161
+
+61.2 4Z9 13J
+
+98
+
+68.0 49.0 19.0 1,908
+
+71.7 52.1 19.0 4,166
+
+71.5 56.7 14.8
+
+98
+
+56J 52^3 42
+
+123
+
+"This question was asked of women who would have little or no difficulty having a(nother) child: "If it should turn out that you and your husband are not able to have the number of children you expect, would you adopt a child?" In the text we refer to these women as "Group 1" women.
+
+o
+I
+
+174
+
+Poston and Cullen
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE2
+SELECTED CHARACTERISTICS OF CURRENTLY MARRIED WHITE WOMEN 15 TO 44 YEARS OLD WHO HAVE INDICATED A PROPENSITY TO ADOPT, UNITED STATES, 1976°
+
+CHARACTERISTIC
+Total women
+Age 15-19 20-24 25-29 30-34 35-39 40-44
+Parity No births Onebirth Twobirths Three or more biths
+Fecundity status Noncontraceptively sterile Subfecund Longinterval Fecund
+Woman's age at first marriage Less than 16years 16-17 years 18-19years 20-21 years 22-24years 25-29years 30 years and older
+Region Northeast NorthCentral South West
+Residence Large metropolitan area Small metropolitan area Metropolitan area of undetermined size Nonmetropolitan area
+Family income Less than $5,000 $5,000-$9.999 $10,000-$14,999 $15,000-$24,999 $25,000ormore
+Woman's education Less than high school High school, 1-3 years High school, 4 years College, 1-3 years College, 4 or more years
+
+Favorable (Yes & Maybe)
+21.3
+1.4 8.4 44.1 23.6 18.0 11.9
+51.7 22.6 19.0 13.1
+21.6 19.5 24.4 0.0
+16.9 18.8 17.3 21.8 32.5 37.6 19.7
+28.9 17.1 24.4 22.2
+10.6 26.6
+16.1 17.3
+2.4 20.2 25.6 18.0 25.3
+9.3 18.6 21.0 22.6 37.1
+
+PROPENSITY TOADOPT
+Yes Maybe
+11.1 10.2
+1.4 0.0 7.9 0.5 24.6 19.5 8.2 15.4 9.0 9.0 7.0 4.9
+36.1 15.6 15.6 7.0 7.2 11.8 4.5 8.6
+11.1 10.5 12.8 6.7 1.0 23.4 0.0 0.0
+7.2 9.7 9.6 9.2 8.5 8.8 7.4 14.4 19.5 13.0 33.0 4.6 19.7 0.0
+14.9 14.0 7.5 9.6 11.9 12.5 13.3 8.9
+8.5 2.1 13.9 12.7
+7.9 8.2 9.1 8.2
+0.0 2.4 9.9 10.3 12.6 13.0 7.3 10.7 17.5 7.8
+6.4 2.9 12.3 6.3 10.1 10.9 12.7 9.9 15.4 21.7
+
+Total Women (000's)
+2,846
+4 76 402 616 747 1,001
+410 344 716 1,375
+2,331 433 77 5
+215 538 958 578 366 113
+50
+512 1,003
+983 349
+94 1,322
+455 974
+66 275 600 1,089 469
+209 611 1,426 336 265
+
+Religion RomanCatholic Protestant Jewish Other None
+
+34.5 21.2 36.5
+0.0 OX)
+
+11.7 9.9 36.5 0.0 OX)
+
+22.8 11.3 0.0 0.0 0£
+
+726 1,982
+93 0 0
+
+·This question wasrestricted to women for whom it would be difficult, if notimpossible, to have a(nother) child: "(Since/If) you and your husband are unable to have a(nother) baby, do you intend to adopt any children?" In the text we refer to these women as "Group 2" women.
+
+Vol. 36, No. 3-4
+
+Propensity to Adopt Children
+
+175
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE3
+SELECTED CHARACTERISTICS OF CURRENTLY MARRIED WHITE WOMEN 15 TO 44 YEARS OLD W H O WANT OR INTEND A(NOTHER) CHILD, 1982.
+
+Characteristics
+Total women
+Age at interview 15-24 25-34 35-44
+Parity No births Onebirth Two births Three or more biths
+Fecundity status Contraceptively sterile Other sterile Subfecund Long Interval
+Age at first marriage Less than 16years 16-17 years 18-19years 20-21 years 23-24 years 25-29years 30years and older
+Region Northeast North Central South West
+Residence Metropolitan area Nonmetropolitan area
+Family income Less than $5,000 $5,000-$9,999 $10,000- $14,999 $15,000-$24,999 $25,000ormore
+Woman's education Less than high school High school, 1-3 years High school, 4 years College, 1-3 years College, 4 years or more
+Religion None Protestant Roman Catholic Jewish Other
+
+Pfercentage Yes
+33.9
+62.9 45.4 24.1
+69.4 54.2 27.0 26.9
+21.0 55.0 63.7 30.3
+50.9 36.5 31.5 32.7 30.9 43.3 37.8
+35.0 34.7 34.4 30.2
+33.0 36.5
+31.1 59.1 36.3 40.0 29.7
+56.9 39.2 34.9 32.1 23.8
+3.2 68.9 24.8 2.3 0.8
+
+Total Women (OOO's)
+10,221
+449 3,890 5,883
+860 1,270 3,859 4,232
+6,359 2,534
+988 340
+387 1,575 3,750 2,344 1,496
+539 130
+1,852 3,199 3,369 1,801
+7,674 2,547
+64 391 623 2,202 5,507
+284 1,326 4,867 2,313 1,431
+329 7,037 2,535
+235 84
+
+176
+
+Poston and Cullen
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Moreover, 21 per cent of the contraceptively sterile women, and more than 30 pe'. cent of women in the long-interval category of fecundity status, also responded affirmatively. Regarding age at first marriage, the percentages wanting or intending a(nother) child were highest for those married in their early or mid teens, declined for those married in their late teens and early twenties, then increased again for those married in their late twenties and thirties.
+Data on region and area of residence indicate that about one-third of the women, irrespective of their region or area of residence, wanted or intended a child or children of their own. There was considerable variation in family income levels in the percentages of women responding favorably to future birth intentions. Women who reported family income levels between $5,000 and $9,999 had the highest percentage (59.1 percent), while women reporting family incomes over $25,000 had the lowest percentage (29.7 percent). With respect to education, the 1982 data reveal a pattern that is the reverse of that found in the 1973 and 1976 surveys. In 1982,56.9 percent of those women with less than a high-school education wanted or intended a(nother) child, with the percentage declining substantially at higher levels of educational attainment. Only 23.8 per cent of college-educated women wanted or intended a(nother) child. Among religious groups, almost 70per cent of Protestant women wanted or intended to have children, compared with 24.9 percent of Catholics, 2.3 per cent of Jewish women and 3.2 per cent of those who reported no religious affiliation.
+Comparison of the characteristics of women in the 1982 NSFG with those in 1973 and 1976 indicate that younger
+
+women, and those who have no biological children, are most favorable toward adoption (in 1973 and 1976) or, in 1982, want or intend children. What is important with respect to the 1982 data, is that these women are, for the most part, unable to bear children of their own. Although these women were not asked about adoption plans, we believe that the fact that substantial numbers of them want or intend to have children provides a good proxy measure for adoption propensity. We now turn to log-linear analyses of the characteristics of women with a propensity to adopt.
+LOG-LINEAR ANALYSES
+Each of the characteristics described in the previous section was first examined for its overall association with the propensity to adopt (tables of associations of these characteristics with adoption propensity not shown, but available from the authors). Of the various characteristics, age at interview and parity have the highest chi-square values for women in 1973, and for both groups of women in the 1976 survey. Among the women in 1982, age at interview, parity, and fecundity status have the highest chi-square values. As we have already noted, these three characteristics are also highly relevant with respect to actual adoption behavior (Poston and Cullen, 1986). Since fecundity status is such an important determinant of actual adoption behavior, and because of the high association with adoption propensity in the 1982data, we opted to include it in our log-linear analysis for, all three survey years. The results of the loglinear analyses follow.
+The best-fitting log-linear model for each of the NSFG samples is one examining the effects on propensity of the
+
+Vol. 36, No. 3-4
+
+Propensity to Adopt Children
+
+177
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+three variables of parity, fecundity sta- interval women. Only the fecund
+
+tus, and age at interview, as well as the women were excluded in 1982.
+
+effects on propensity of two interaction Expected odds-ratios provide a pre-
+
+terms (parity with fecundity status, and cise method of evaluating the greater or
+
+parity with age at interview). This model lesser likelihood of adoption propensity
+
+accounted for 97.4 per cent of the base- for women in a particular category of an
+
+line chi-square for "Group I" women in independent variable versus other cate-
+
+1973, and 92.3 per cent of the value for gories. For a trichotomous dependent
+
+them in 1976. This model accounts for variable such as propensity to adopt (re-
+
+93.9 per cent of the base-line chi-square sponse categories of "yes," "maybe"
+
+value for "Group 2" women in 1976; and "no" in the 1973 and 1976surveys),
+
+and it accounts for 91.2 percent of the an expected odds-ratio provides the
+
+variance in propensity for women in odds of being in one category of the de-
+
+1982 (tables of log-linear models not pendent variable, for contrasting cate-
+
+shown, but available from the authors). gories of one or more independent vari-
+
+Tables 4, 5, and 6 present the ex- ables. In the case of a dichotomous
+
+pected odds-ratios for each category of dependent variable such as desire/intent
+
+the three independent variables, as well to have children (response categories of
+
+as for the categories of the interactions "yes" and "no") asked of women in the
+
+between parity and fecundity status, and 1982 survey, the expected odds-ratio
+
+between parity and age at interview. Ta- provides the odds of being in one or the
+
+ble 4 contains the odds-ratios for those other category of the dependent varia-
+
+women in 1973 and 1976 who would ble.
+
+have little difficulty in having a child of their own (the "Group 1" women). Table 5 presents odds-ratios for those women in 1976for whom it would be difficult or impossible to have a child (the "Group 2" women). And Table 6 shows the odds-ratios for the proxy adoption propensity variable for the groups of women in 1982. Note also that the categories of fecundity status differ somewhat for each group. The first group of women in 1976 contains subfecund, long-interval, and fecund women, but in 1973, long-interval women were included in the subfecund category. Only noncontraceptively sterile, subfecund, and long-interval women in the second group in 1976 were asked the question on intention to adopt, thereby excluding contraceptively sterile and fecund women. In 1982, contraceptively and noncontraceptively sterile women were included, as were subfecund and long-
+
+Odds-ratios are computed following the methodological procedures set out by Daymont and Kaufman (1979). Tables 4, 5, and 6 present odds-ratios for the groups of women in the 1973,1976, and 1982 NSFG's, based on their respective tau parameters. Looking first at the parity variable for the comparable groups of women in 1973 and 1976 (Table 4), the odds-ratios for childless women in the category "yes versus others" (Table 4, Row 1, Cols. 1 and 4) are 3.51 and 2.64, respectively. These values indicate that the odds of childless women in both survey years are threeand-a-half (1976) and more than twoand-a-half (1973) times greater toward favoring adoption as against not favoring adoption, compared to women in all the other parity categories. A similar pattern is found for the "Group 2" women in 1976 (Table 5, Row 1, Col. 1). In 1982 (Table 6), the odds of wanting or
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE4
+EXPECTED ODDS-RATIOS OF SELECTED DEMOGRAPHIC DETERMINANTS OF THE PROPENSITY TOADOPT: CURRENTLY MARRIED WHITE WOMEN, 15 TO44 YEARS OLDIN THEUNITED STATES, 1976 AND 1973 ("GROUP 1" WOMEN)
+
+INDEPENDENT VARIABLE
+Parity No children One children Two children Three or more children
+Fecundity Subfecund Long interval Fecund
+Age 15-34 yews 35-44 years
+Interactions of parity with fecundity Parity, none, subfecund Parity, none, long interval Parity, none, fecund
+Parity, one, subfecund Parity, one, long interval Parity, one, fecund
+Parity, two, subfecund Parity, two, long interval Parity, two, fecund
+Parity, three plus, subfecund Parity, three plus, long interval Parity, three plus, fecund
+Interactions of parity with age Parity, none, women aged 15-34 . . . . Parity, none, women aged 35-44
+Parity, one, women aged 15-34 Parity, one, women aged 35-44 Parity, two, women aged 15-34 Parity, two, women aged 35-44 Parity, three plus, women aged 15-34 Parity, three plus, women aged 35-44
+
+1976
+EXPECTED ODDS-RATIOS DEPENDENT VARIABLE PROPENSITY TO ADOPT
+
+Yes
+Versus Others
+
+Maybe Versus Others
+
+No Versus Others
+
+3.51 1.91 0.15 0.30 3.57 0.92 0.36 0.49 1.49 0.69 0.30 4.88
+
+4.58 0.18 1.24 0.24 3.41 1.24 0.92 1.66 0.65
+
+0.66 5.72 0.27 1.52 0.17 3.76
+
+1.99 3.53 0.14 7.22 1.80 0.08 3.01 1.09 0.30
+0.27 10.92 0.33 0.27 0.99 3.69 0.38 4.18 0.63
+0.65 0.53 2.89 5.38 0.28 0.66 0.71 0.80 1.74
+2.81 0.05 7.27 0.09 1.98 5.35 1.23 0.27 2.99
+
+4.31 2.43 0.10 2.86 1.50 0.23
+
+0.68 1.01 1.45
+
+0.14
+
+12.56
+
+0.58
+
+0.99 0.60 1.67 1.86 0.41 1.33
+
+0.35 0.68 4.31 0.37 0.13 5.54
+
+1973
+
+EXPECTED ODDS-RATIOS DEPENDENT VARIABLE PROPENSITY TO ADOPT
+
+Yes Versus Others
+
+Maybe Versus Others
+
+No Versus Others
+
+2.64 2.07 0.18
+0.54 2.81 0.66 0.77 0.39 3.30 0.91 0.44 2.51
+
+2.10 0.54 0.87 0.48 1.83 1.14
+
+1.46 2.06 0.33 0.69 0.48 3.02
+
+2.47 2.06 0.20
+2.82 2.09 0.17 0.33 4.48 0.67
+0.87 1.76 0 66 0.37 0.90 3 05
+1.63 0.17 3 58 3.31 0.12 2.50
+0.25 1.59 2 52
+
+2.84 1.65 0.21 2.46 2 61 0 16
+0.74 1.83 0.14 0.39 4 30 0 59
+0.45 1.05 2.10 1.32 0 15 5 20
+1.05 0.31 3 01 0.78 0.61 2.09
+
+9
+B
+l
+n
+o
+00
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 36, No. 3-4
+
+Propensity to Adopt Children
+
+179
+
+TABLE5
+EXPECTED ODDS-RATIOS OF SELECTED DEMOGRAPHIC DETERMINANTS OF THE PROPENSITY TO ADOPT: CURRENTLY MARRIED WHITE WOMEN, 15 TO 44 YEARS OLD, 1976 ("GROUP 2" WOMEN)
+
+INDEPENDENT VARIABLES
+Parity No children One child Two children Three or more children
+Fecundity Noncontraceptively sterile Subfecund Long interval
+Age 15-34 years 35-44 years
+Interactions of parity with fecundity Parity, none, noncontraceptively sterile Parity, none, subfecund Parity, none, long interval
+Parity, one, noncontraceptively sterile Parity, one, subfecund Parity, one, long interval
+Parity, two, noncontraceptively sterile Parity, two, subfecund Parity, two long interval
+Parity, three plus, noncontraceptively sterile Parity, three plus, subfecund Parity, three plus, long interval
+Interactions of Parity with Age Parity, none, women aged 15-34 Parity, none, women aged 35-44
+Parity, one, women aged 15-34 Parity, one, women aged 35-44 Parity, two, women aged 15-34 Parity, two, women aged 35-44 Parity, three plus, women aged 15-34 Parity, three plus, women aged 35-44
+
+Yes Versus Others
+
+EXPECTED ODDS-RATIOS DEPENDENT VARIABLE PROPENSITY TO ADOPT
+Maybe Versus Others
+
+2.53 1.25 0.76 0.61 0.99 2.16 0.53 0.61
+
+1.24 2.11 0.80 0.36 1.00 1.36
+
+1.30 2.34 0.77 0.43
+
+5.56 · 5.71 0.40
+1.40 0.50 0.62
+0.44 0.71 3.08
+0.29 0.39 0.02
+
+0.88 0.59 3.75
+0.37 2.90 0.21
+1.61 0.78 8.08
+1.87 0.74 0.16
+
+1.85 2.48 8.74 0.79
+2.29 0.28 0.19 0.79
+0.47 6.55 2.03 1.54
+0.49 0.22 0.29 1.03
+
+No Versus Others
+0.31 2.17 0.47 3.14
+0.39 3.46 0.73
+0.33 3.04
+0.20 0.23 0.64 1.90 0.68 7.86 1.40 1.80 0.04 1.84 3.50 4.78
+0.22 0.17 1.54 6.59 0.32 0.32 9.31 3.31
+
+intending to have a(nother) child are almost eight times greater for childless women than for women with children. In addition, women with one child in 1982 were more than two times more likely to want children than women in
+
+the other parity categories. In 1973 and 1976, the odds were less than one among both "Group 1" and "Group 2" women that women at higher parities would respond "yes" to the question regarding the likelihood of adoption.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+180
+
+Poston and Cullen
+
+Social Biology
+
+TABLE6
+EXPECTED ODDS-RATIOS OF SELECTED DEMOGRAPHIC DETERMINANTS ON THE DESIRE/INTENT TO HAVE A CHILD, CURRENTLY MARRIED WHITE WOMEN AGED 15 TO 44 YEARS, 1982
+
+Independent Variables
+Parity Nochildren Onechild Two children Three or more children
+Fecundity status Contraceptively sterile Noncontraceptively sterile Subfecund Long interval
+Age at interview 15-34 35-44
+Interaction of parity with fecundity status Parity, none, contraceptively sterile Parity, none, noncontraceptively sterile Parity, none, subfecund Parity, none, long interval
+Parity, one, contraceptively sterile Parity, one, noncontraceptively sterile Parity, one, subfecund Parity, one, long interval
+Parity, two, contraceptively sterile Parity, two, noncontraceptively sterile Parity, two subfecund Parity, two, long interval
+Parity, three plus, contraceptively sterile Parity, three plus, noncontraceptively sterile Parity, three plus, subfecund Parity, three plus, long interval
+Interaction of parity with age at interview Parity, none, 15-34 Parity, none, 35-44
+Parity, none, 15-34 Parity, none, 35-44 Parity, two, 15-34 Parity, two, 35-44
+Parity, three plus, 15-34 Parity, three plus, 35-44
+
+Expected Odds-ratios Dependent Variable Want/Intend a Child
+7.79 2.29 0.63 0.09
+0.51 4.41 0.89 0.49
+3.49 0.29
+1.64 1.31 56.61 30.43 1.43 1.29 9.03 1.67 0.32 0.51 0.22 0.71 0.85 0.74 0.01 0.02
+7.66 1.02 3.04 1.73 0.64 0.63 0.07 (U2
+
+It is important to remember that the odds-ratios discussed control for the direct effects on adoption propensity of fecundity status, of age at interview, and of the interactions between parity and
+
+fecundity status and between parity and age. That is, the odds apply even after considering the effects on adoption propensity of the other independent variables and the two interactions.
+
+Vol. 36, No.
+
+Propensity to Adopt Children
+
+181
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Analysis of the odds-ratios for the fe- ceptively sterile women are almost four-
+
+cundity status variable in the 1973 and and-a-half times more likely to desire or
+
+1976 surveys indicates the generally intend a child or children than are
+
+weaker influence of fecundity status on women in the other categories of fecun-
+
+adoption propensity. No clearly discern- dity status. In fact, the odds of women in
+
+ible pattern emerges, reflecting, in part, these categories wanting or intending
+
+differences in the criteria used to deter- children are less than one, indicating lit-
+
+mine which groups of women were tle influence of these other categories of
+
+asked about their attitudes toward fecundity status on desire or intention to
+
+adoption, and the wording of the ques- have children. In contrast to our findings
+
+tions asked of these groups of women regarding the effect of fecundity status
+
+(see our earlier discussion for a descrip- on adoption propensity for 1973 and
+
+tion of these criteria). Looking first at 1976, the 1982 results show a much
+
+those women who would have little or stronger influence of fecundity status on
+
+no difficulty bearing children (Table 4), adoption propensity.
+
+subfecund women in 1973 were two The direct effect of the third indepen-
+
+times more likely to have answered dent variable, age at interview, on adop-
+
+"yes" rather than "maybe" or "no" to tion propensity reveals no consistent
+
+the question on adoption propensity. In pattern of influence among the groups
+
+1976, subfecund women were four-and- of women in the 1973 and 1976 surveys,
+
+a-half times more likely to have re- but in the 1982 survey, younger women
+
+sponded "yes." These results are not are clearly more favorable toward desir-
+
+surprising, since by definition, these ing or intending a(nother) child.
+
+women had already experienced difficulties in bearing children of their own. When we turn to the results for the "Group 2" women in 1976, which included the noncontraceptively sterile category of fecundity status as well as subfecund and long-interval women (Table 5), the expected odds-ratios reflect only a weak association between fecundity status and adoption propensity. The odds of noncontraceptively sterile women were only slightly more than even to be most favorable toward adoption ("yes" versus all others) and those of subfecund women less than even. Moreover, subfecund women were almost three-and-a-half times more likely to have responded "no" to the question on adoption propensity.
+
+Turning now to the interactions, the second panels of Tables 4, 5, and 6 present expected odds-ratios for the categories of the interaction of parity with fecundity status for the first groups of women in 1973 and 1976 (Table 4), the second group in 1976 (Table 5), and women in the 1982 survey (Table 6).
+Looking first at the comparisons of the first groups between 1973 and 1976, the odds of women being at least somewhat favorable toward adoption tend to decrease with increasing parity. When examining categories of fecundity status within levels of parity, however, no clearly discernible pattern emerges. In 1976, childless long-interval women had the highest odds of being most favorable, and childless subfecund women,
+
+Turning now to those women in the the highest odds of being somewhat fa-
+
+1982 NSFG for whom we constructed vorable. In 1973, there are only slight
+
+the proxy measure of adoption propen- differences between subfecund and fe-
+
+sity (Table 6), we see that noncontra- cund women in the odds of being either
+
+182
+
+Poston and Cullen
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+favorable or somewhat favorable toward adoption. Similar variations in the odds of being favorable or not toward adoption are apparent at higher levelsof parity, suggesting that within the parityfecundity interaction, there is a tendency for the odds-ratios to vary from high to low more on the basis of the parity categories than on the basis of the fecundity categories. At least with respect to this group of women, parity appears to be a more influential predictor of propensity to adopt than fecundity status.
+Similar results are found for those women in 1976 who would find it difficult or impossible to have a(nother) child (Table 5). In general, the odds favoring adoption decrease at higher levels of parity. The one exception to this pattern occurs among two-parity, longinterval women (the second panel of Table 5, Row 9, Cols. 1and 2), but this disparity is more likely to be a result of the relatively small number of cases in these categories than to any tendency for longer-interval women at this parity level to be more favorable toward adoption. When categories of fecundity status are examined within categories of parity, childless noncontraceptively sterile women and subfecund women have the highest odds of being favorable toward adoption than all other women--5.56 and 5.71, respectively. Parity one, noncontraceptively sterile women are almost as likely to favor adoption as to be negative toward it, and in all fecundity status categories within parity levels, the odds are substantially less than one that these women are favorable toward adoption. Conversely, the odds of women being negative toward adoption tend to increase with increased parity--women with three or more children in the long-interval fecundity category are almost five times more
+
+likely not to consider adoption, and long-interval women with one child almost eight times more likely to be negative toward adoption than all other women. As is the case with women for whom having a(nother) child would not be difficult, parity rather than fecundity status appears to be more influential in determining adoption propensity.
+When odds-ratios for the parityfecundity status interaction are examined for women in 1982 (Table 6, Panel 2), the overall pattern is similar to that found in 1973 and 1976, that is, the odds of women wanting a(nother) child tend to decrease with increasing parity. When odds-ratios for categories of fecundity status within levels of parity are examined, there are differences. At zero parity, it is subfecund and longinterval women who have the highest odds-ratios favorable toward having children (the size of the odds-ratios reflects the relatively small number of women in these categories). Among women with one child, subfecund women are nine times more likely to want an additional child than women in all other categories of fecundity status. Women at parity levels of two and higher, regardless of fecundity status, are least likely to want more children, as evidenced by odds-ratios of less than one in all parity-fecundity status categories. Thus, we can conclude that parity is the greater influence on adoption propensity in 1982, as it is in 1973 and 1976.
+We turn now to an examination of the parity-age interactions, i.e., the third panel of Tables 4,5, and 6. The expected odds-ratios of the interaction of parity with age at interview in the 1982 data suggest a somewhat greater influenceof age on intention to have children than in 1973 and 1976, although parity also exerts a strong influence. The
+
+Vol. 36, No. 3-4
+
+Propensity to AdoptChildren
+
+183
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+odds of wanting a(nother) child decline at successively higher parity levels, particularly among younger women. Thus, while parity is clearly an important influence on the desire to have children, age also appears to exert an effect. Unlike the results in 1973 and 1976, it is the younger, childless and one-child women in the 1982 survey who are more likely to express the desire or intention to have children. We believe that these results lend strong support for the use of our proxy measure of adoption propensity since, for all these women, having a child or additional children would be either difficult or impossible. We now turn to a discussion of the implications of the results.
+CONCLUSIONS
+The major finding of this study is that parity appears to be the most important determinant of the propensity to adopt, although fecundity status and age also have noteworthy effects. The differences in fecundity status between the two groups of women interviewed in 1976reflect differences in the categories of fecundity status in each group. With respect to comparisons between 1973 and 1976, the inclusion of long interval women in the subfecund category may have masked differences between these two categories in 1973. Differences in age--younger women being more favorable in one group and older women more favorable in the second--may reflect differences in the wording of the questions on propensity to adopt or differences in age composition between the two groups of women in 1976. Women in the second group (those for whom pregnancy is difficult or impossible) were asked if they intended to adopt, and among this group, older childless
+
+women had the highest odds favoring adoption. It is possible that these women were more actively considering adoption, since by definition most of them would not expect to have children of their own (more than 80 per cent of these women were noncontraceptively sterile). In contrast, of those women who would have little or no difficulty having biological children, 83 per cent were fecund, and their response may well reflect a more hypothetical positive attitude toward adoption rather than a specific intent to adopt.
+The results of our analysis of the 1982 data are similar to the results using data from the earlier surveys with respect to parity, but vary somewhat for fecundity status and age at interview. The women in 1982were most similar in composition to the second group in 1976, because by definition it would be difficult or impossible for them to have biological children. Unlike the women in 1976, however, contraceptively sterile women were included in the 1982 group, and since they comprised 62 per cent of the total, may well have affected the results of the analysis. Moreover, aswe pointed out in the introduction, the women in 1982 were not directly questioned about adoption propensity, and we can only speculate as to their attitudes toward adoption as a strategy for having children.
+What, then, are the implications of this analysis on the potential demand for adoption? That is, can we assume that a favorable attitude toward adoption will translate into actual behavior? Based on the results of our study, it seems clear that childless, noncontraceptively sterile, subfecund (and perhaps longinterval) women would be those most likely to consider adoption, just as women with these same characteristics
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+184
+
+Poston and Cullen
+
+Social Biology
+
+are most likely tohave actually adopted. to adopt, ourresults areat least sugges-
+
+The greater likelihood for younger tive of a high demand for adoption rela-
+
+women in the 1982 data setto want chil- tive to a small supply. Twofactors lead
+
+dren, keeping in mind that they would us to suspect that demand may be fairly
+
+find it difficult orimpossible tohave chil- high relative to the actual numbers of
+
+dren oftheir own, suggests that age may babies available to adopt. Oneis the in-
+
+be less of a factor now than it was in the creasing trends of involuntary childless-
+
+1970's. To the extent that our proxy ness and subfecundity (Bachrach,
+
+measure of adoption propensity in 1982 1983a), and the second is the declining
+
+captures a potentially adoptive popula- number of babies available for adoption
+
+tion, younger women may make up a (Bachrach, 1985).
+
+larger proportion of those seeking to One additional point needs to be
+
+adopt inthe1980's.
+
+made. The 1982 NSFG did not ask a
+
+Unfortunately, we can only speculate question onpropensity to adopt, but did
+
+as to whether or not those womenwho ask, for each adopted child, whether or
+
+indicated a propensity to adopt will try not the child had been born outside the
+
+(or have already tried) to adopt a child. United States. Slightly more than 10 per
+
+Just aswehave nofirm estimates of the cent of all reported adoptions were of
+
+number of babies available for adop- foreign-born children (Bachrach, 1985).
+
+tion, we have no firm estimate for 1982 All of these factors are merely sugges-
+
+of the number of women who report a tive. However, they do point toward a
+
+propensity to adopt. But given the fact greater demand for adoption, andto an
+
+that, in general, women whoare child- increased demand in the future, that is,
+
+less, especially those who are childless to the extent that present trends ofin-
+
+because ofinvoluntary sterility or subfe- creased childlessness persist.
+
+cundity, tend to show a high propensity
+
+REFERENCES
+
+BACHRACH, CHRISTINE A. 1983a. Adoption as a means of family formation: Data from the National Survey ofFamily Growth. J. Marr. Fam. 45(Nov.):859-865.
+. 1983b. Children infamilies: Characteristics of biological, step-, and adopted children. J. Marr. Fam. 45(Feb.):171-179.
+-. 1986. Adoption plans, adopted chil-
+dren, and adoptive mothers. J. Marr.Fam. 48(May):243-253.
+BACHRACH, CHRISTINE A., MARJORIE C. HORN,
+WILLIAM D. MOSHER, and IRIS SHIMIZU.
+1985. The National Survey of Family Growth, Cycle III: Sample design, weighting, and variance estimation. Vital and Health Statistics, Series 2, No. 98, DHHS Pub. No. (PHS)85-1372, National Center for Health Statistics, Public Health Service. Government Printing Office, Washington, D.C.
+
+BOHNAM, GORDON SCOTT. 1977. Who adopts:
+The relationship of adoption and socialdemographic characteristics of women. J. Marr. Fam. 39(May):295-305.
+DAVIS, NANCY. 1982. Childless and singlechilded women in early twentieth-century America. J. Fam. Iss. 3 (Dec.):431-458.
+DAYMONT, THOMAS N., and ROBERT L. KAUF-
+MAN. 1979. Measuring industrial variationin racial discrimination using log-linear models. Soc. Sci.Res. 8 (March):41-62. GRINDSTAFF, C. F. 1976. Trends and incidence of childlessness by race: Indicators of black progress over three decades. Sociol. Foe. 9 (Aug.):265-284.
+HENDERSHOT, GERRY, and WILLIAM F. PRATT.
+1979. National Survey of Family Growth, Cycle II,standardized micro-data tape transcript tape contents manual--respondent
+
+Vol. 36,No. 3-4
+
+Propensity to Adopt Children
+
+185
+
+file. National Technical Information Service, Springfield, Virginia.
+NATIONAL COMMITTEE FOR ADOPTION. 1985.
+Adoption factbook: United States data, issues, regulations and resources. National Committee for Adoption, Washington, D.C.
+POSTON, DUDLEY L., JR., and RUTH M. CUL-
+LEN. 1986.Log-linear analyses ofpatternsof
+
+adoption behavior: U.S. white women, 1982, 1976, 1973. Soc. Biol. 33:241-248.
+POSTON, DUDLEY L., JR., and ERIN GOTARD.
+1977. Trends in childlessness in the United States, 1910-1975. Soc. Biol. 24:212-224. PRATT, WILLIAM F. 1977. National Survey of
+Family Growth, Cycle I, 1973 user's guide. National Technical Information Service, Springfield, Virginia.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+

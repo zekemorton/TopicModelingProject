@@ -1,0 +1,714 @@
+Eugenics Quarterly
+ISSN: 0097-2762 (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi18
+Child spacing following stillbirth and infant death
+Howard B. Newcombe & Philip O. W. Rhynas
+To cite this article: Howard B. Newcombe & Philip O. W. Rhynas (1962) Child spacing following stillbirth and infant death, Eugenics Quarterly, 9:1, 25-35, DOI: 10.1080/19485565.1962.9987498 To link to this article: http://dx.doi.org/10.1080/19485565.1962.9987498
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 5
+View related articles Citing articles: 9 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi18
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:26
+
+CHILD SPACING FOLLOWING STILLBIRTH AND INFANT DEATH*
+
+HOWARD B. NEWCOMBE PHILIP O. W. RHYNAS
+Biology Branch Atomic Energy of Canada Limited
+Chalk River, Ontario
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+T HE PRESENT ACCOUNT describes a stage
+in the development of a facility for genetic studies of populations in the Canadian Province of British Columbia, and some of the data yielded by this facility on the operation of selective forces. Although the data themselves are unique in certain respects and constitute the main topic of the paper, from the standpoint of the developers of the facility they serve mainly to indicate at an early stage some of the kinds of information that may later be derived in much greater quantity and variety. The bearing of such work on assessments of the genetic effects of radiation has been discussed in detail in a recent paper (Newcombe 1962) and will not be considered further in the present account.
+The essential feature of the approach is the attempt to make maximum genetic use of existing routinely-collected information by arranging the relevant records into family groupings. The family compositions may be unambiguously derived on an extensive scale from the registrations of marriages and births. To such groupings can then be added information from records of stillbirths, deaths,
+*Presented at the Tenth Pacific Science Congress of the Pacific Science Association, Honolulu, August 21 to September 6, 1961.
+
+handicapped children and adults, and from a considerable number of other routine sources. The product is a chronology of events, within families, that could not have been derived, either from the customary procedures of vital statistics or, on a comparable scale, from surveys of conventional design.
+The present data are therefore exceptional in that they are derived from family reproductive histories which, although still of quite limited duration, have been assembled on a comparatively large scale. They relate to the various associations of child spacing with stillbirth rate and, to a lesser extent, rate of infant death. Such information has a bearing on current theories about the selective forces that operate to retain in the population, genes with harmful effects.
+THE FILES
+Use was made in this study of registrations of live births and stillbirths in the Province of British Columbia over the years 1954 to 1958 inclusive, and of the deaths of children born over the same period.
+The facility as a whole includes marriage records over the years 1946 to 1955
+
+25
+
+26 Newcombe, Rhynas
+
+TABLE 1.
+SIZES OF THE FILES IN THE BRITISH COLUMBIA POPULATION STUDY
+
+Rinds of records
+
+Projected years file size
+
+Presently available Used in spacing study years file size years file size
+
+Marriages Live births Stillbirths Child deaths (birth yrs) Handicapped children (birth yrs)
+
+1946-55 1946-61 1946-61 1946-61 1946-61
+
+114,000 523,000
+6,000 20,000 12,000
+
+1946-55 1952-58 1952-58 1953-59 1953-59
+
+114,000 242,000
+2,700 10,000 6,000
+
+1954-58 1954-58 1953
+
+180,000 2,000 1,400
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+inclusive and, as currently projected, should later include birth and stillbirth registrations from 1946 to 1961 inclusive, death registrations relating to children born in these years, and registrations of handicapped children. The approximate sizes of the various files are shown in Table 1. The files are presently being expanded at a rate of three to four years of birth records (100,000 to 140,000 records) annually.
+Preparation of the information in punchcard form is carried out by the Dominion Bureau of Statistics as part of a collaborative study with Atomic Energy of Canada Limited. Conversion of these files into magnetic tape form and the subsequent data processing operations are being done in, and with the help of, AECL's Computing Center.
+Permission to use the records for purely statistical purposes was obtained through the Dominion Bureau of Statistics from the Health Branch, Department of Health and Welfare of the Province of British Columbia.
+METHODS
+The development of automatic methods, using a Datatron 205 computer to bring together records of births into family groupings by "linking" them with records of the marriages of the parents, has been described elsewhere (Kennedy 1961 a and b; Newcombe, Axford and James 1957; Newcombe, James and Ax-
+
+ford 1957; Newcombe, Kennedy, Axford and James 1959; Newcombe and Rhynas 1961 a and b). For the present study, the original computer program for birth-tomarriage linkages was modified by Dr. Kennedy to permit linkages of birth records in any one year to those of subsequent births to the same parents. Each live birth and stillbirth in 1954 was used to initiate a search through the files of these events for each year througout the period 1954 to 1958 inclusive. In all, more than 170,000 searches were carried out by the computer using the magnetic tape files.
+With the Datatron 205 about 30 searches can be performed per minute, and the computer rental cost for these would be about six cents per search. However, more modern machines (such as the Bendix G 20, which will be available for this work in the coming year) are as much as 100 times as fast on straight computation and probably about 30 times as fast on this type of operation; it is estimated that approximately 1000 searches per minute would be possible with these at a rental cost of about 0.6 cents per search.
+In the original birth-to-marriage linkage program extensive refinements had been introduced to ensure that as many as possible of the potentially linkable pairs of records were, in fact, linked in spite of various discrepancies and errors in the identifying information. About
+
+Child Spacing
+
+27
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+98.4 per cent linkage of the potentially linkable records was achieved and the few failures were due, for the most part, to gross changes in the spellings of surnames (including typographical errors) that substantially altered the phonetic content. For the present study, these refinementswere deleted from the program in order to make available a portion of the limited capacity of the computer's memory unit for tabulations of the linkages. Only where six items of identifying information (surnames, first initials, and provinces or countries of birth of the married couple) agreed in a pair of records were they regarded by the computer as being identified with the same father and mother. Under these conditions, at least 90 per cent of the potential birth-to-birth linkages were identified by the computer. For future studies the more complete program will be used, but, in the meantime, there is no reason to suppose that the losses are other than random or that they bias in any way the comparisons made in this study.
+The same reasoning would apply to the additional losses arising out of emigrations of families from the Province of British Columbia (amounting to about 2 per cent per year of all families with children under age 16). In the future, more complete coverage may be achieved in two ways: by extending the study to include vital events in other provinces, and by restricting the data to families known to be still resident in the area under study. There are a number of means by which the latter modification might be achieved through the use of other kinds of routine records. There is no reason to suppose, however, that migrations impose any bias on the comparisons made.
+The punchcards employed in these studies are similar in many respects to
+
+those already produced routinely in Canada for at least two different purposes, both of which involve manual linkages of record: 1) Such cards are used to provide provincial registrars with alphabetic listings of all births, deaths and marriages, by year and province of event; these listings indicate the volume number and page of the original registration forms in the provincial registry office and are employed daily in meeting the public demand for certificates. 2) They are used also to ensure that all applications for government family allowances relate, in fact, to actual births, and that no family continues to receive an allowance for a child when it is deceased.
+The cards used in the present study differ from those currently being punched for administrative purposes in that they contain additional identifying information--the maiden surname of the mother, together with the initials, provinces or countries of birth (as twodigit codes) and ages of the two parents. It is hoped that a common format, appropriate both for the record linkages involved in the existing administrative procedures and also for studies using automatic methods of record linkage, will be eventually adopted.
+Interfiling of birth-to-marriage linkage cards in order of the marriage serial numbers has now been tried out for live births and stillbirths in 1954-58 that have been linked to marriages in 1954. A typical portion of an interfiled listing is shown in Figure 1. The names, having fulfilled their function in achieving the linkages, are no longer required on the cards that are derived from the linkage operation.
+Registrations of child deaths and of handicapped children will be incorporated later into the interfiled family groupings. In addition, there is a consid-
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+etc. tion i. less order places 1 Initials if agreement I Cale, age at marriage Age from | marriage I record 1 Birth order I Status ] Linkage code I Weight j Sex 1 Soundex Codes
+
+Se
+
+*.V°t* ^i
+
+·s
+
+et « -tí
+
+Cj 3 3 t-1
+
+CQ Marr. a Birth Q Q -O S
+
+Yr. Pr. Serial
+
+Yr. Pr. Serial Mo .Dy. Mo.Dy.
+
+(a) (b)
+
+(d) (e) [£) (g) (h)
+
+>
+
+53 09 001386 1 53 09 015268 1 17 6 20 .4 99.4 09 09 3
+
+IT
+
+53 09 001386 1 55 09 023461 1 17 9 11 2.6 .6 09 09 3 53 09 001386 1 57 09 018788 1 17 6 20 4.4 1.4 09 09 3
+
+IT
+I
+
+53 09 001388 1 58 09 003302 1 24 1 25 5.0 4.0 09 09 3 2 R M
+
+(i) (k> (l)(m)(»)
+10 17 18 17 11 31 18 16 18 17 21 31 19 17 18 17 31 31
+22 15 22 15 11 31
+
+(o) (P) 63 A 63 E 63 A
+63 E
+
+(q) D432 M420 D432 M420 D432 M420
+E430 S130
+
+53 09 001389 1 53 09 010561 1 24 53 09 001389 1 54 09 017199 1 24
+53 09 001389 1 55 09 004603 1 24 1 53 09 001389 1 56 09 013228 1 24 1 53 09 001389 1 57 09 021224 1 24 1 53 09 001389 1 58 09 036352 1 24
+
+48 1 25 1 15 4 13 7 16 9 25
+
+.2 99.2 08 08 1.0 99.0 08 08 2.0 99.0 08 08 3.2 99.2 08 08 4.5 995 08 08 5.7 99.7 08 08
+
+R M --20 17 20 16 11 31 13 51 A F200 R152
+R M --20 17 20 16 21 31 13 51 A . F200 R152 R M 21 17 20 16 31 31 9 51 A F200 R152 R M --20 17 20 16 41 31 13 51 A F200 R152 R M --19 16 20 16 51 31 10 51 E F200 R152 R M 20 16 20 16 61 31 1 51 A F200 R152
+
+en 1 53 09 001390 1 53 09 028695 1 26 8 10 .9 99.9 74 74
+
+O R 22 18 22 19 11 31 63 A F660 F260
+
+1 1 53 09 001390 1 56 09 024147 1 26 9 11 3.6 1.6 74 74
+
+O R 21 18 22 19 21 31 63 F. F660 F260
+
+FIGURE 1. Sample interfiled listing of births linked to marriages.
+
+(a) (b) Entry control code: 1 = registered name; 2 = father's name if different; 3 = cross index; 4 = adopted name; 6 = amendment;
+
+I 7 = long surname; 8 = correction. (c) Also stillbirths, deaths, etc. (d) Duration in years to one decimal place.
+
+(c) Duration in years less birth order (used for calculating one of the weighting factors--see (o) below).
+
+' (f) Province or country of birth of husband and wife, when they agree on the two records,
+
+<ü (g) Name agreement code: 0, neither the husband's nor the wife's surnames are spelled the same on both records. 1, only the wife's agrees; 2, only
+
+the husband's agrees; 3, both agree.
+
+(h) Place agreement code: 0, marriage and birth occurred in different places; 1, both in Vancouver; 2, both in same place, not Vancouver,
+
+(i) Initials: 1st of husband's agrees on both records.
+
+(ii) 1st of husband's on one record agrees with 2nd on the other.
+
+(iii) and (iv) same as (i) and (ii) above, but for wife's initials.
+
+(j) Calculated ages of husband and wife at time of marriage (ages at time of birth, minus duration of marriage, rounded off).
+
+(k) Ages of husband and wife as derived from marriage record.
+
+(1) Birth order of child,
+
+(m) Status of bride and groom at marriage:
+
+1 = bachelor--spinster
+
+4 := widower--spinster
+
+7 = divorcé--spinster
+
+2 = bachelor--widow
+
+5 = widower--widow
+
+8 = divorcé--widow
+
+3 = bachelor--divorcee
+
+6 = widower--divorcee
+
+9 r= divorcé--divorcee
+
+(n) Linkage codes: (3 = marriage; 1 = livebirth; 2 = stillbirth; 9 = death. (Thus, 31 = livebirth linked to marriage, and so on).
+
+(o) Weights: Odds in favor of the linkage being genuine, as a power of 2 (e.g. 16 = 2*8; 1; minus 4 = 2*:1). This is calculated by the com-
+
+puter only when there is some disagreement in one of the six items: husband's alphabetic surname, wife's maiden surname, husband's and
+
+wife's first initials and provinces or countries of birth. In the right hand column, 63 indicates all six items agree--other numbers indicate
+
+oo
+
+various disagreements. (p) Sex: A = male, single, legitimate;
+
+J = male, single, illegitimate
+
+B = male, twin, legitimate;
+
+K = male, twin, illegitimate
+
+E = female, single, legitimate;
+
+N = female, single, illegitimate
+
+F = female, twin, legitimate;
+
+O =: female, twin, illegitimate
+
+(q) Soundex Codes of husband's surname and wife's maiden surname.
+
+Child Spacing
+
+29
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+érable amount of information on existing statistics cards (which are distinct from the name cards discussed earlier) for marriages, live births and stillbirths, that has not so far been tapped in the present operation but which might be included in the future. Thus the files could eventually represent relatively complete histories of the procreative experience and health of the bulk of the families that make up the population. As such, they would become much more appropriate instruments for almost any study of cause-and-effect relationships than are the existing vital statistics.
+RESULTS
+The child spacing study was originally thought of as a means for determining whether or not mothers of deceased children tend to "compensate" or "overcompensate" for their losses by having additional children sooner than would have been the case had the earlier child lived.
+Such a mechanism has already been suggested to account for the persistence of Rh-negative genes in the population. The equal drain on the smaller pool of negative genes and the larger pool of positive genes, resulting from deaths of erythroblastotic children, would be expected eventually to deplete the smaller pool if no opposing force existed. However, wherever a mother succeeds in "replacing" the lost child, two genes would be added to the negative pool. The higher-than-average parities of Rh negative women attending blood clinics (Glass 1950) has been taken as evidence of their increased fertility and as favoring the compensation theory. However, such data are open to bias, and evidence on possible compensation and over-compensation following deaths from erythroblastosis is most appropriately derived direct from studies of the spacings of
+
+births subsequent to the losses. Similarly, a possible general tendency
+to compensate for losses of offspring at an early age is best detected by studies of child spacing following stillbirth and infant death.
+CHILD SPACING FOLLOWING LIVE BIRTHS
+AND STILLBIRTHS
+Maternal age and parity both strongly influence the spacings of births and must be taken into consideration in any comparisons of the relative intervals following live births and stillbirths.
+The frequencies of subsequent births to mothers of infants born alive in 1954 are given in Figure 2, by birth order and by age group of the mother at the time of the earlier birth, and for intervals that increase by steps of one tenth of a year up to a maximum of four years. Because of the very large number of searching operations required (about 170,000 in all), it seems unlikely that similar data on the present scale exist elsewhere.
+Since the age and parity distributions of the mothers of stillborn and liveborn infants are not the same, a strict comparison of subsequent reproductive performances of the two categories of mothers requires that the numbers of births that might have been expected of the mothers of infants stillborn in 1954 (had these lived) be calculated separately for each combination of the various age classes and birth orders. This has been done and the "expected" numbers, in summary form, are compared in Table 2 with the numbers actually observed following the stillbirths.
+Over-compensation is apparent in the first year following the stillbirths, the number of births being about 2.7 times the number that would have been expected if the earlier infants had lived. However, no difference is detected in the
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+30 Newcombe, Rhynas
+
+TABLE 2.
+CHILD SPACING FOIXOWINC STILLBIRTHS (CORRELATIONS)
+
+Birth orders (1954 and
+lat«)
+
+Births following 1954 stillbirths
+
+1954 births
+
+1st y
+
+live still exp obs
+
+2nd yr exp obs.
+
+3rd yr exp obs
+
+4th yr exp obs
+
+1- 2 2-3 3-4 1- 3
+
+9681 9273 6600 9681
+
+Totals Obs/exp
+
+116 4.2 86 2.0 67 1.1 116 0.1
+
+9 8 2 1
+
+7.5 20 2.68
+
+33.9 15.8 9.9
+1.3
+60.9 0.98
+
+34 18
+4 4
+60
+
+20.8 10.2
+6.4 8.4
+45.8 0.72
+
+10 6 7 10
+33
+
+9.0 6 6.0 1 3.9 1 11.9 11
+30.8 19 0.61
+
+KCtMO 1« TM*» MtYH»
+
+<^
+
+to
+V0-
+À
+/ / --' 1
+
+4 0 - HIT)
+
+rmtT TO TMMO IIRTMa
+
+-
+
+E 2. Per cent of mother« of live-born in- four-year period, by birth orders and by ages of fants in 1954 having offspring in the succeeding the mothers at the times of the earlier births.
+
+Child Spacing
+
+31
+
+TABLE 3
+STILLBIRTH RATKS BY ACE OF MOTHER AND BIRTH ORDER ( 1 9 5 4 BIRTHS) '
+
+1st births
+
+2nd births
+
+3rd births
+
+4th births
+
+Age group live still rate live still rate live still rate live still rate
+
+of mother
+
+per 103
+
+per 103
+
+per 103
+
+per 103
+
+- 19
+2 0 - 24
+25-29
+3 0 - 34 35 - 39 40 -
+
+1911 4069 2299 974 350
+77
+
+13 6.80 480 6 12.50 91 1 10.99 18 0
+
+45 9.59 3210 24 7.48 1321 12 9.08 442 4 9.05
+
+35 15.22 3155 24 7.61 2309 18 7.80 1094 12 10.97
+
+14 14.37 1681 19 11.30 1957 20 10.22 1182 15 12.73
+
+7 20.00 601
+
+8 13.31 759 14 18.45 637 11 1757
+
+2 25.97 137
+
+5 36.50 162 2 12.35 159 3 18.87
+
+Total
+
+9680 116 11.98 9264 86 9.30 6599 67 10.15 3532 45 12.74
+
+Based on the annual published statistics for live births in the Province of British Columbia, and
+
+on a tabulation of the punchcards for stillbirths used in the present study. The combined rate is 10.79 per 1000 live births (i.e., 314/29075)
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+second year, while in the third and fourth the observed numbers are only 0.7 and 0.6 of the expected. The net effect over the whole four-year period is a slight reduction in fertility, the total number of subsequent births (132) being 0.91 of the expected number (145.0).
+The mixture of over- and under-compensation indicates an underlying heterogeneity. The mothers achieving early replacement are presumably drawn from a naturally fertile group and have conceived early, either because of a deliberate intention to do so or because the absence of lactation favored the earlier conceptions (see Tietze 1961, for evidence of a negative correlation between lactation and the likelihood of conception). The infertility that becomes apparent in the third and fourth years may be associated Tvith a group of women who have either decided against further attempts at procreation because of the earlier stillbirth, or in whom stillbirth is merely one expression of a physiological infertility. The present data do not distinguish between physiological and psychological influences. However, the genetic consequences of a fertility differ-
+
+ence will be the same whichever is the cause.
+There is no indication from these studies that compensation or over-compensation is acting to retain in the population genes contributing to early mortality.
+OTHER ASSOCIATIONS BETWEEN STILLBIRTH
+AND CHILD SPACINC
+The stillbirth rate in 1954 was 1.6 times as high as the rate for subsequent births over a four-year period to mothers of children born alive in 1954. When these data are broken down by age groups of the mothers in 1954, and by birth orders, similar and fairly consistent differences are still observed (see Tables 3 and 4). Such differences cannot be due to the mothers having aged in the intervals since the earlier births, because this would have had an opposite effect. Nor can the differences be due to the exclusion of mothers of infants stillborn in 1954, because they are too few in number to have affected the comparison.
+The latter data are, however, drawn exclusively from families in which the interval between the current and the
+
+32 Newcombe, Rhynas
+
+TABLE 4
+STILLBIRTH RATES FOR SUBSEQUENT BIRTHS TO MOTHERS OF CHILDREN BORN ALIVE IN 1 9 5 4 (OVER A 4-YEAR PERIOD)
+
+Age eroup
+oí mother in 1954
+
+2nd births
+
+3rd births
+
+4th births
+
+(following 1954 1st births) (following; 1954 2nd births) (following 1954 3rd births)
+
+live still rate live still rate live still rate
+
+per 103
+
+per 103
+
+per 103
+
+- 19
+20 - 2 4
+25 - 2 9 30 - 3 4 35 - 3 9
+40
+
+1063 7 6.59 276 0
+
+54
+
+2620 13 4.96 1656 18 10.87 632
+
+1391 6 4.31 1356 10 7.37 889
+
+507
+
+4 7.88 529
+
+6 11.34
+
+551
+
+150 8 6.66 122 1 8.20 132
+
+80
+
+8 1 125.00 11
+
+1 18.52 2 3.16 5 5.62 4 7.25 1 7.58
+0
+
+Total
+
+5739 31 5.40 3947 36 9.12 2269 13 5.73
+
+The combined rate is 6.69 per 1000 live births (i.e. 80/11,955)
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+earlier (1954) child does not exceed four years. Thus, the comparison appears to indicate that the risk of stillbirth must be greater when the interval exceeds four years, than when it does not.
+A similar correlation, but within the four-year period, can be seen when the data are further broken down by dura-
+
+tion of the interval (Table 5). The risk of stillbirth is lowest in the second year following the earlier birth and rises in the third and fourth years. Information covering longer intervals will become available as the files expand, and the reliance to be placed on the finding can be better assessed when comparable data
+
+TABLE 5
+CORRELATION OF THE INTERVAL FOLLOWING A U V E BIRTH WITH THE SUBSEQUENT STILLBIRTH RATE TO THE SAME MOTHERS
+
+Age group of mother in 1954
+1st and 2nd children - 19
+20-24 25 - 2 9 30-34 35 - 39 402nd and 3rd children
+- 19 20 - 24 25 - 2 9 3 0 - 34 3 5 - 39 403rd and 4th children
+- 19 20-24 25 - 2 9 3 0 - 34 35 - 39
+40-
+
+0--l.Oyrs
+
+1.1--2.0 yrs
+
+2.1--3.0 yrs
+
+3.1--4.0 yrs
+
+live still live stiU live still live stiU
+
+exp obs
+
+exp obs
+
+exp obs
+
+exp obs
+
+120 .79 2 617 4.07 2 238 1.57 2 88 .53 1
+
+188 .93 0 1345 6.68 4 775 3.84 6 312 135 3
+
+56 .24 1 661 2.85 4 457 1.97 1 217 .94 0
+
+26 .20 0 225 1.77 2 184 1.45 2 72 .57 0
+
+4 .03 1 68 .45 0 51 .34 0 27 .18 0
+
+1 0 4 00
+
+03
+
+0
+
+31 0 153 0 56 0 36 0
+
+117 1.86 2 824 8.95 5 471 5.13 8 244 2.66 3
+
+60 .44 0 593 4.36 6 419 3.08 1 284 2.10 3
+
+24 .27 0 211 2.40 2 186 2.11 2 108 1.34 2
+
+4 .03 0 56 .46 1 40 .33 0 22 .18 0
+
+0 .00 0
+
+3 .40 1
+
+5 .60 0
+
+0 .00 0
+
+3 .06 0 34 .11 0
+47 .26 0 23 .17 0
+6 .05 0
+00
+
+33 .61
+333 1.05
+380 2.14 227 1.65
+64 .49
+8
+
+0 · 10. .19
+1 175 .55
+0 253 1.42 1 183 1.33 1 43 .33
+03
+
+0
+1
+3 2 0 0
+
+8 .15 90 .29 179 1.01
+118 .86
+19 .14 0
+
+1 0
+2
+1
+0 0
+
+Totals Obs/exp
+
+5.43 6 1.10
+
+38.33 30 .78
+
+24.24 28 1.15
+
+12.50 16 1.28
+
+· Expected number as based on stillbirth rate over the whole 4-year period--see Table 4.
+
+Child Spacing
+
+33
+
+TABLE 6
+STTLLBIRTH RATES FOR SUBSEQUENT BIRTHS TO MOTHERS OF CHILDREN STILLBORN IN 1 9 5 4 (CORRELATIONS)
+
+Age group
+of mother in 1954
+
+2nd births (following stillborn 1st child in 1954)
+live still exp» obs
+
+3rd births (following stillborn 2nd child in 1954)
+live still exp* obs
+
+4th births (following stillborn 3rd child in 1954)
+live still exp* obs
+
+- 19 20-24 25 - 2 9 30-34 35 - 3 9 40-
+
+10 .066 0
+
+2
+
+0
+
+25 .124 1 12 .130 1
+
+19 .082 0 11 .081 1
+
+2 .016 0
+
+3 .034 0
+
+3 .020 0
+
+4 .033 0
+
+0 0 1 .125 0
+
+1 .019 0 2 .006 1 6 .034 0 4 .029 0 1 .007 0 00
+
+Totals Obs/exp
+
+59 .308 1 33 .403 2 14 .095 1 3.25 4.96 10.5
+
+· Based on the previous Table; i.e. the number that would have been expected if the children born to these mothers in 1954 had lived.
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+have been derived for other years.
+ASSOCIATION OF STILLBIRTHS WITH
+SUBSEQUENT STILLBIRTH RISKS
+Of the 267 stillborn children of birth orders one, two, and three in 1954, 110 were followed by subsequent births to the same mothers within four years. The calculated total expectation of stillbirths among these later births, in view of the ages and parities of the mothers, was 0.806. In all, four stillbirths were observed, or approximately five times the rate that would have been expected if the earlier stillbirths had no effect upon the subsequent risks (Table 6).
+This result is in reasonably close agreement, in view of the relatively small amount of data, with an earlier finding of a 2.2- to 2.7-fold increase in risk of foetal death following previous child losses of all kinds (Schlesinger and Allaway 1955). However, the present data differ from those available heretofore in that they do not rely on questioning the mothers about events that have occurred sometime in the past. They are therefore not open to bias due to an increasing difficulty in recalling more distant events or a special tendency to remember past events when they have repeated recently.
+
+INFANT DEATH AND CHILD SPACING
+Because the present study was in part prompted by the theory that the Rhnegative gene owes its continued presence to compensation, a direct test of the theory based on the subsequent reproductive histories of mothers of erythroblastotic infants is of special interest. Automatic procedures for death-to-birth and death-to-marriage linkages were not fully developed at the time of the study, so manual linkages to listings of births over successive years have had to be employed.
+In one year (1953) there were a total of 14 infant deaths from erythroblastosis, 11 of them children of birth orders ranging from 1 to 5. The likelihood of a subsequent birth to the same mother over a four-year period is derived from Figure 2 (a slight over-estimate being involved for birth orders 4 and 5, which were treated as not differing in this respect from birth order 3). Since this treatment yields only the likelihood of birth of a child of the next rank, it is necessary, when such a child is born, to derive also the likelihood that a further child will be born in the remaining time and to add this to obtain the total ex-
+
+34 Newcombe, Rhynas
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+TABLE 7
+REPRODUCTION FOLLOWING THE DEATHS OF INFANTS FROM ERYTHROBLASTOSIS
+
+Numbers
+
+Subsequent birth
+
+Birth
+
+of
+
+(over 4 years)
+
+Orders deaths Mothers' ages Exp.*
+
+Obs.
+
+1 " 2 20, 20
+
+1.78
+
+2 4 20, 25, 30,31 2.05
+
+50
+
+4
+
+2 24, 26
+
+1.08
+
+5
+
+3 21, 33, 26
+
+1.04
+
+1 3
+
+Totals
+
+5.95
+
+·Expectation based on the data in Figure 2. **The diagnosis may perhaps be questioned in these cases since prior sensitization of the mothers would have to have been due to transfusions of Rhpositive blood.
+
+pected number. The observed and expected numbers in this one test are almost identical (6 and 5.95, see Table 7), showing no evidence of net compensation over the four-year period.
+SUMMARY AND CONCLUSIONS
+The development of a record linkage facility for genetic research on populations in the Canadian Province of British Columbia is described. Although designed primarily for investigations of the operation of selective forces, it is capable of being used in a much wider variety of studies of the reproductive and health histories of families making up the bulk of the population, based on an increasing utilization of the large volume of existing routine records.
+The following results have been obtained from a study of child spacing over a four-year period subsequent to stillbirths and (from more limited observations) subsequent to infant deaths:
+1. "Compensation" is apparent in the first year following stillbirth but is genetically ineffective due to a net reduction in fertility over the whole four-year period.
+
+2. Stilbirth rates are lower over the first four years following live births than would be expected from the ages and parities of the mothers. A similar trend is detected within the four-year period, from a low rate in the second year to progressively higher rates in the third and fourth years.
+3. The risk of stillbirth is increased (about five-fold) by a previous stillbirth.
+4. There is no evidence of compensation following infant deaths from erythroblastosis.
+With the development of automatic death-to-birth and death-to-marriage linkages child-spacing data may be derived following stillbirths over a number of years and covering a longer interval between births to the same mother. The data may also be extended to include mortality in infancy and childhood and special consideration of a variety of causes. It is also anticipated that similar child-spacing data may be derived from the families of handicapped children.
+ACKNOWLEDGMENTS
+We would like to thank Dr. J. M. Kennedy and members of the Computing Section of AECL for their continuing help with the computer programming and operation, and for their work in the overall planning of the record linkage facility. We would also like to thank Mr. S. J. Axford of the Dominion Bureau of Statistics for his collaboration and for his advice on the possible integration of the facility with existing administrative and statistical operations.
+REFERENCES
+GLASS, B. 1950. The action of selection on the principal Rh alleles. Amer. Jour. Human Genetics, 2 : 269-278.
+
+Child Spacing
+
+35
+
+KENNEDY, J. M. 1961a. The use of a digital computer for record linkage. UN/WHO Seminar on Use of Vital and Health Statistics for Genetic and Radiation Studies (inpress).
+KENNEDY, J. M. 1961b. Linkage of birth and marriage records using a digital computer. Chalk River Report CRT-1026. Atomic Energy of Canada Limited, Chalk River,Ontario.
+NEWCOMBE, H.B. 1962. Genetic effects in populations. Radiation Research (inpress).
+NEWCOMBE, H. B., S. J. AXFORD AND A. P. JAMES.
+1957. A plan for the study of fertility of relatives of children suffering from hereditary and other defects. AECL Report No. 511, Atomic Energy of Canada Limited, Chalk River, Ontario.
+NEWCOMBE, H. B., A. P. JAMES AND S. J. AXFORD.
+1957. Family linkage of vital and health records. AECL Report No. 470, Atomic Energy of Canada Limited, Chalk River, Ontario.
+NEWCOMBE, H. B., J. M. KENNEDY, S. J. AXFORD
+AND A. P. JAMES. 1959. Automatic linkage
+
+of vital records. Science, 130s 954-959.
+NEWCOMBE, H. B. AND P. O. W. RHYNAS. 1961a.
+Family linkage of population records. UN/ WHO Seminar on Use of Vital and Health Statistics for Genetic and Radiation Studies (in press).
+NEWCOMBE, H. B. AND P. O. W. RHYNAS 1961b.
+The cost of individual follow-up in studies of large populations. Internat. Population Conference, New York, Paper No. 16 of the Proceedings.
+SCHLESINGER, E . R . AND N . ALLAWAY. 1955.
+Trends in familial susceptibility to perinatal loss. Amer. Jour. of Public Health, 4 5 : 174-183.
+TIETZE, C. 1961. The effect of breastfeeding on the rate of conception. Internat. Population Conference, New York, Paper No. 8 ofthe Proceedings.
+Vital Statistics of the Province of British Columbia, Eighty-Third Report, for the year 1954. Department of Health and Welfare, Victoria, British Columbia.
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+

@@ -1,0 +1,171 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Addenda
+To cite this article: (1973) Addenda, Social Biology, 20:3, 264-265, DOI: 10.1080/19485565.1973.9988052 To link to this article: http://dx.doi.org/10.1080/19485565.1973.9988052
+Published online: 23 Aug 2010. Submit your article to this journal Article views: 1 View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:34
+
+264
+
+Kidd and Cavalli-Sforza
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+phrenia: Evidence for the major gene hypoth- thai and S. Kety (eds.), The transmission of
+
+esis. Behav. Genet. 1:3-10.
+
+schizophrenia. Pergamon, Oxford.
+
+ERLENMEYER-KIMLING, L. 1968. Studies in the Li, C. C., and L. SACKS. 1954.The derivation of
+
+offspring of two schizophrenic parents. In D. joint distribution and correlation between rela-
+
+Rosenthal andS. Kety (eds.), The transmission tives by the use of stochastic matrices. Bio-
+
+of schizophrenia. Pergamon, Oxford.
+
+metrics 10:347-360.
+
+EVERITT, P. F. 1910. Tables of the tetrachoric MATTHYSSE, S., and L. SHORTLHTE. 1972. Some
+
+functions for fourfold correlation tables. Bio- additional predictions of the polygenic model.
+
+metrika 7:437-451.
+
+Neurosciences Research Program Bulletin, in
+
+FALCONER, D. S. 1965. The inheritance of liability press.
+
+to certain diseases estimated from theincidence MENDELL, N., and R. C. ELSTON. 1971. Use of the
+
+among relatives. Ann. Hum. Genet., Lond. 29: tetrachoric correlation coefficient in the estima-
+
+51-71.
+
+tion of heritability of quasi-continuous traits.
+
+GARRONE, G. 1962. Etude statistique et genJtique Biometrics 27:483-484 (abstract).
+
+de la schizophrenic a Geneve de 1901 a 1950. MOTULSKY, A. 1970. Biochemical genetics of
+
+J. Genet. Humaine 11:89-219.
+
+hemoglobins andenzymes as a model for birth
+
+GOTTESMAN, 1.1., and J. SHIELDS. 1966. Contribu- defects research. In F. Clarke Fraser, V. A.
+
+tions of twin studies to perspective on schizo- McKusick and R. Robinson (eds.), Congenital
+
+phrenia. In B. A. Maher (ed.), Progress in malformations: Proceedings of the Third Inter-
+
+experimental personality research, Vol. 3. Aca- national Conference, The Hague, the Nether-
+
+demic Press, New York.
+
+lands. Excerpta Medica Foundation Publishers,
+
+. 1967. Apolygenic theory of schizophrenia. Amsterdam.
+
+PNAS 58:199-205.
+
+ROSENTHAL, D. 1961. Sex distribution and the
+
+HESTON, L.L. 1966. Psychiatric disorders in foster severity of illness among samples of schizophre-
+
+home reared children of schizophrenic mothers. nic twins. J. Psychiat. Res. 1:26-36.
+
+Brit. J. Psychiat. 112:819-825.
+
+. 1970. Genetic theory and abnormal be-
+
+. 1970. The genetics of schizophrenic and havior. McGraw Hill, New York.
+
+schizoid disease. Science 167:249-256.
+
+SLATER, E. 1958. The monogenic theory of schizo-
+
+KALLMANN, F. J. 1938. The genetics of schizo- phrenia. Acta Genet. (Basel) 8:50-56.
+
+phrenia. J. J. Augustin, Publisher, Locust Valley, SMITH, C. 1970.Heritability of liability and con-
+
+New York.
+
+cordance in monozygous twins. Ann. Hum.
+
+KETY, S., D. ROSENTHAI, F. SCHTTLSINGER, and
+
+Genet. 34:85-91.
+
+P. WENDER. 1968.Thetypes andprevalence of ZERBTN-RUDIN, E. 1967. Endogene psychosen. In
+
+mental illness in the biological and adoptive P. E. Becker (ed.), Humangenetik. Thieme,
+
+families of adopted schizophrenics. In D. Rosen- Stuttgart.
+
+Addenda
+
+Since this paper was written, some articles Two aspects of some interest resulted from
+
+that relate to this topic have appeared or are the comparison of these approaches. The first
+
+in press now and have been brought to our is that, while James used only the parent-
+
+attention. James (1971) hasshown that in the offspring correlation, his conclusions canbe
+
+one gene model with onethreshold, the corre- extended to thecase in which specific types of
+
+lations between relatives depend only on three matings are considered, e.g., N X N, N X S,
+
+parameters. Both the single gene model studied and S X S aswe have done. The second is that
+
+by Elston and Campbell (1970) and themodel the twoformulations of the single gene model
+
+we used require four parameters for complete (ours based onliability distribution and James'
+
+specification. This leaves a range of equally using scores of 0 for normal and1 for disease)
+
+valid solutions, among which general incidence give rise to different heritability estimates. Our
+
+and incidence among various types of relatives formulation allows direct calculation of the
+
+are identical. The range is,however, restricted additive and dominance components of vari-
+
+by the fact that gene frequencies and pene- ance for the underlying liability for each ac-
+
+trances outside the range 0-1 are unacceptable. ceptable solution. Over the range of these
+
+In the case of schizophrenia, the restriction thus imposed limits therange of possible solutions to gene frequencies between approximately 0.06 and 0.15. In this range all solutions are equally acceptable. Thus, a single gene two allele model can fit the data. If a single locus is involved, the gene frequency must be in the neighborhood of q = 0.10 (with range 0.06-0.15 by James' approach). A very similar range of solutions was found with our
+
+solutions the variance components vary, and consequently the heritability estimates vary. The h2 (narrow) values range from less than 4% to slightly over 15%, while the h? (wide) values range only from approximately 11% to approximately 17%.In contrast, the invariant heritability estimates based on application of Kempthorne's formulae (see James, 1971) are near 8% for h2 (narrow) and near 40% for h2 (wide).
+
+search procedure and is indicated in Tables 2 Reich, James, and Morris (1972) have de-
+
+and 3 of this paper.
+
+veloped a two threshold method that may
+
+Vol. 20, No. 3
+
+Genetics of Schizophrenia
+
+265
+
+allow unique solutions for the single-diallelicgene model on traits in which the affected are subdivided into two degrees of severity. It may help in distinguishing between the polygenic and the one gene, two allele model. Obviously, the two thresholds must be sufficiently sharp to allow accurate diagnosis. However, with two thresholds, a three-allele model and a two-diallelic-loci model may still leave a probably wide range of ambiguity.
+Smith (1971) has given a method and a program for predicting risks in matings according to the polygenic hypothesis. This is an alternative method to those we have introduced: Monte Carlo and direct evaluation of the tetrachoric correlation. The relative cost in computer time to obtain equal accuracy for the two methods has not been determined. Numerical integration with a small number of intervals in Smith's program may be unsatisfactory
+
+when incidences are small. The graphs relating incidence and correlation given by Smith (1970) and by Reich et al. (1972) are virtually identical to results obtained using the original tetrachoric correlation expansion to 50 terms (Kidd and Cavalli-Sforza, unpublished) although the illustrations they give are either limited to or only accurate for general incidences below 20%.
+JAMES, J. W. 1971. Frequency in relatives for an all-or-none trait. Ann. Hum. Genet. 35:47. . 1971. Recurrence risks for multifactional inheritance. Amer. J. Hum. Genet. 23:S78-S88.
+REICH, T., J. W. JAMES, and C. A. MORRIS. 1972.
+The use of multiple thresholds in determining the mode of transmission of semicontinuous traits. Ann. Hum. Genet. 36:163-184. SMITH, C. 1970. Heritability of liability and concordance in monozygous twins. Ann. Hum. Genet. 34:85.
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+

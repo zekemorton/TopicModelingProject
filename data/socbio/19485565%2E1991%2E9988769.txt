@@ -1,0 +1,725 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Demographic characteristics of cigarette smokers in the United States
+Richard G. Rogers
+To cite this article: Richard G. Rogers (1991) Demographic characteristics of cigarette smokers in the United States, Social Biology, 38:1-2, 1-12, DOI: 10.1080/19485565.1991.9988769 To link to this article: http://dx.doi.org/10.1080/19485565.1991.9988769
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 4
+View related articles Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:43
+
+Demographic Characteristics of Cigarette Smokers in the United States
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Richard G. Rogers
+Population Program and Department of Sociology
+University of Colorado Boulder, Colorado
+
+ABSTRACT: This research uses a multivariate log-linear examination of a national data set to analyze the combined influences of ethnicity, age, and sex on cigarette smoking status, not only for smokers but for former smokers and current nonsmokers as well. In general, we find that demographic differences in smoking vary across several dimensions. For instance, compared to females, males are more likely to smoke and to smoke heavily. The differences between male and female cessation rates vary with ethnicity; also, males and females tend to have different ratios of former smokers to light, moderate, and heavy smokers. Mexican-Americans who smoke generally smoke small quantities of cigarettes. And Blacks are as likely as other groups not to smoke at all, and less likely than Anglos to smoke heavily. This article discusses potential future mortality effects, intervention strategies, and directions for future research.
+
+Cigarette smoking is the single most important preventable cause of morbidity and mortality in the United States. It contributes to about 20 per cent of all deaths, differences between the sexes in life expectancies, and is responsible for over 80 per cent of all lung cancer deaths and 40 per cent of coronary heart disease deaths (Shopland and Brown, 1987; U.S. Dept. of Health and Human Services [DHHS], 1989; and Miller and Gerstein, 1983). Accordingly, there is a national emphasis on understanding the correlates and reducing the prevalence of cigarette smoking, both within the total population and within minority subpopulations (DHHS, 1989; CDC, 1987a). Because ethnic groups differ significantly in smoking patterns, even when analyses control for age and sex, research and policy agendas must recognize these differences and interactions. Our research endeavors to employ rela-
+
+tively new methodological tools to shed new light on the interactions among smoking, ethnicity, age, and sex.
+Cigarette smoking prevalence has generally declined for the entire population since the 1960's. Although male cigarette smoking rates gradually declined from 50 to 30 per cent between 1966 and 1986, female smoking rates hovered around 32 per cent between 1965 and 1976. Only since 1976 have female smoking rates begun to decline. But by 1986, the female rate was the lowest ever recorded: 24 per cent (CDC, 1987Í»). Some researchers contend that the decline in cigarette smoking among males was due primarily to smoking cessation, and that males are more likely to quit than females. For the late 1970's, however, some researchers have demonstrated that men and women were equally likely to quit (Orlandi, 1986), while others have shown that males are
+
+1
+
+Rogers
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+still more likely than females to quit (Kabat and Wynder, 1987). Our research can help resolve this question.
+Further research is needed to clarify past interactions among smoking, lung cancer, and ethnicity, and to determine how these interactions have changed. Investigations of Anglos and Hispanics have demonstrated the importance of age and sex for identifying differences in smoking patterns. For example, Hispanic males are as likely to smoke as Anglo males, but Hispanic males consume fewer cigarettes and experience lower lung cancer mortality rates. Compared with Anglo females, Hispanic females seldom smoke; when they do, they smoke fewer cigarettes (Hoick et al., 1982; Humble et al., 1985; Marcus and Crane, 1984; Markides et al., 1987).
+Nationally, more Blacks than Anglos smoke, but Anglos smoke more than do Blacks; and more Blacks smoke and smoke more than do MexicanAmericans. Within all ethnic groups, men begin their smoking earlier, smoke more frequently, and smoke more than do women (Rogers and Crank, 1988).
+To extend the current knowledge of ethnic differences in smoking patterns, we have examined, within a multivariate framework, smoking histories of younger as well as older respondents from a large national sample to assess the unique impact of each of the predictors--ethnicity, age, and sex--on cigarette smoking status not only for smokers, but for former smokers and nonsmokers as well.
+MATERIALS AND METHODS
+We used the National Health Interview Survey (NHIS) to study smoking patterns among ethnic groups. NHIS data are derived from a household mul-
+
+tistage probability design that permits a
+continuous sampling of the civilian non-
+institutionalized population of the
+United States through both cluster and
+stratified sampling techniques. We used
+the 1985 Health Promotion and Disease
+Prevention supplement, which includes
+a total of 33,630 respondents ages 18and
+over (NCHS, 1986).
+To examine cigarette smoking status,
+we fit several log-linear models to the
+four-way contingency table of gender
+(G), by age (A), by ethnicity (E), by
+smoking status (S). The categories for
+each variable are defined as follows:
+gender (male, female); age (18-24, 25-
+34, 35-44, 45-54, 55 and over); ethnic-
+ity (Mexican-American, Anglo, and Black);1 and smoking status (never,
+former, and current smokers who
+smoke less than one-half package of cig-
+arettes per day, one-half to less than one
+package per day, one to less than two, or
+two or more packages of cigarettes per day).2 Because we focused on three eth-
+1Examining Hispanics--a heterogeneous group that includes Puerto Ricans, MexicanAmericans, and individuals of Spanish descent-- as a single ethnic group may result in misleading findings (Hayes-Bautesta, 1983). Therefore, we coded as Mexican-American only respondents who identified themselves as Mexican, Mexicano, Mexican-American, and Chicano. Cubans, Puerto Ricans, and the group "Other Hispanics" were excluded from the data set because they were too few to analyze separately and too diverse to combine with Mexican-Americans. Anglos and Blacks were selected from those who did not identify themselves as being of Spanish origin.
+2Cigarette consumption divisions follow convention and provide natural breakpoints. Never smokers reported never smoking; former smokers smoked in the past but do not currently smoke. Because there is "cigarette-heaping" at the consumption levels ending in zero (e.g., 10, 20, 30, 40), we included these reported numbers with the higher consumption levels. For instance, 10 cigarettes is included not with less than ½ a pack, but with ½ to less than 1 pack of cigarettes. For ease in explication, we refer to fewer than 10 cigarettes as ½ a pack, to 10-19 cigarettes as 1 pack, to 20-39 cigarettes as 2 packs, and to 40 or more as over 2 packs.
+
+Vol. 38,No. 1-2
+
+Cigarette Smokers
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+nie groups, our data set was comprised of 31,929 Mexican-American, Anglo, and Black respondents. From this data set, we excluded 2 per cent, or 704 respondents who didnotanswer questions on current or past smoking behavior,
+which provided us with 31,225 individ-
+I
+Because the data set was created through a multistage probability sampie, which is designed to represent the U.S. civilian noninstitutionalized population, wehave incorporated thesample weights into our descriptive and multivaríate analyses. This will provide an accurate representation of each group and will allow us to generalize our results to the U.S. adult population. In presenting
+
+the descriptive findings, we provide the actual sample size to indicate the sizeof the sample, even though the percentages and means are weighted,
+RESULTS _ _,
+DESCRIPTIVE RESULTS
+Table 1 presents the distribution of smoking status by ethnicity, age, and sex. This table shows that, generally, there are more never smokers whoare female rather than male, MexicanAmerican rather than Anglo or Black, and young rather than older. Another interesting finding is that, compared to other groups, Anglo males are more likely to have quit smoking.
+
+TABLE1
+PERCENTAGE DISTRIBUTION OF SMOKING STATUS BYETHNICITY, A G E , AND SEX, UNITED STATES, 1985
+
+AGE IN YEARS
+Anglo 18-24 25-34 35-44 45-54 55+
+Total (JV)
+
+Never
+
+MALE
+Present
+
+Former
+
+59.9 29.2 42.1 37.2 29.4 36.5 26.9 33.5 24.0 23.8
+35.3 · 31.6 (3,880) (3,520)
+
+11.0 20.7 34.0 39.7 52.2
+33.2 (3,688)
+
+Never
+
+FEMALE
+Present
+
+Former
+
+55.6 49.1 47.2 45.0 58.5
+52.3 (7,677)
+
+33.5 32.5 31.3 32.9 19.1
+28.1 (4,136)
+
+10.9 18.3 21.5 22.2 22.4
+19.6 (2,853)
+
+Mexican-American 18-24 25-34 35-44 45-54 55+
+Total (A1)
+
+75.4 50.5 37.8 53.0 37.0
+53.3 (173)
+
+19.5 31.9 39.7 22.6 26.5
+28.5 (117)
+
+5.1 17.6 22.5 24.3 36.5
+18.2 (74)
+
+74.5 68.2 72.3 55.3 69.9
+70.0 (328)
+
+15.0 18.9 20.0 25.5 9.1
+17.0 (89)
+
+10.4 13.0
+7.7 19.2 20.9
+13.0 (59)
+
+Black 18-24 25-34 35-44 45-54 55+
+
+65.0 40.9 31.6 26.4 27.4
+
+26.1 45.3 45.1 47.6 36.6
+
+8.9 13.8 23.3 26.0 36.0
+
+72.1 24.6
+
+3.3
+
+54.4 36.2
+
+9.4
+
+44.5 40.4 15.1
+
+49.1 37.0 13.9
+
+60.3 20.8 18.9
+
+Total (AQ
+
+39.4 (616)
+
+39.7 (674)
+
+21.0 (392)
+
+56.8 (1,607)
+
+31.1 (966)
+
+12.1 (376)
+
+SOURCE: National Health Interview Survey Data Tape, Supplement onHealth Promotion and Disease Prevention,1985.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Rogers
+
+Social Biology
+
+Among present smokers, Table 2 shows the average cigarette consumption levels. Generally, of those who smoke, males smoke more than females, and Anglos smoke more than Mexican-Americans or Blacks. Indeed, Anglo males and females each average about a pack of cigarettes per day; Black males and females average less than three-quarters of a pack of cigarettes; Mexican-American males and females average a little over a half-pack. The relations among age and cigarette consumption are not as clear, but show increasing cigarette consumption from the teen years until the 40's or 50's, at which ages cigarette consumption begins to decline. Although Tables 1 and 2 begin to show such relations, they have not controlled for interactions. Therefore, they provide few unequivocal findings about exact patterns because of obvious statistical interdependencies among ethnicity, sex, and age. For example, do sex differences in smoking persist, net of sex differences in age and ethnicity? Do ethnic differences in smoking persist, net of ethnic differences in sex and age? To answer such questions, we must employ a multivariate framework such as loglinear analysis.
+
+LOG-LINEAR RESULTS
+Log-linear analysis is a well-known technique that is used to examine the structural relations among variables in a contingency table. It permits nominal dependent variables (e.g., the smoking statuses), allows several variables to be considered simultaneously and interpreted separately, and makes no assumptions about homoscedasticity or linearity (Kaufman and Schervish, 1986, 1987). The main task of log-linear analysis is to determine which combination of independent variables and interactions most parsimoniously describes the interacting effects upon smoking status of age, sex, and ethnicity.
+Our modeling process began with a baseline model that specified no interactions between smoking status and the independent variables. Its chi-square value may be taken to indicate the total amount of variance in smoking that may be explained by the independent variables of age, gender, and ethnicity. The hypothetical models were tested against the baseline model until a "best-fitting" model was found, that is, a model exhibiting a large change in the maximum likelihood chi-square value, L2, and one
+
+TABLE 2
+MEAN NUMBER OF CIGARETTES SMOKED PER DAY, BY ETHNICITY, A G E , AND SEX, UNITED STATES, 1985
+
+18-24 25-34 35-44 45-54 55+
+
+AGE IN YEARS
+
+Anglo
+183 21.7 26.3 26.7 24.1
+
+MALE
+Mex-Amer
+ÏÏ9 11.6 14.3 12.3 13.5
+
+Black
+11.8 15.0 16.1 14.8 14.6
+
+Anglo
+15.8 19.0 21.7 21.2 18.2
+
+FEMALE
+Mex-Amer
+13.7 13.4 9.4 18.9 11.5
+
+Total (N)
+
+23.5 12.9 14.7 (3,520) (117) (674)
+
+19.1 12.5 (4,136) (89)
+
+SOURCE: National Health Interview Survey, Supplement on Health Promotion and Disease Prevention, 1985.
+
+Black
+11.8 14.6 14.3 12.6 11.2
+13.4 (966)
+
+Vol. 38,No. 1-2
+
+Cigarette Smokers
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+that was consonant with the theoretical focus. The models were tested at the significance level of 0.01. The baseline model, which had an L2 of 4,918, a p value of 0.000, and 145 degrees of freedom, did not fit the data. In analyzing differences in L2 through chi-squared comparisons, we determined that the best-fitting model was (EGA) (EGS) (EAS) (GAS), where E = ethnicity, G = gender, A = age, and S = smoking status. This indicates that in addition to all the two-way interactions, four three-way interactions are important in explaining smoking status. The fact that the model provided afitwith an L2 of48, a p value of 0.2, and 40 degrees of freedom and accounted for 99 per cent of the baseline chi-square suggests that it is a good model for these data.
+Of the several different relations to examine, we focus on sex and ethnic differences in smoking statuses, controlling for age. We begin by examining gender differences in smoking by ethnicity and controlling for age.
+SEX DIFFERENCES BY ETHNICITY
+To interpret our results, we employed expected odds-ratios, derived from tau parameters, for three types of contrasts--generalized, semigeneralized, and comparative.3 Generalized odds ratios compare the odds of one versus all other categories of the dependent variable, in this case smoking behavior, with those of one category of an independent variable versus all other categories of that variable (Kaufman and
+
+Schervish, 1987). To illustrate, Table 3 shows that among Mexican-Americans, the odds of never versus ever smoking (which includes former and current smoking at various consumption levels) are over two-and-one-half times greater for females than for all other sexes (in this case, "all others" equals simply "males"). Irrespective of ethnicity, females are more likely than males to have never smoked (Table 3).
+Comparative odds ratios compare the odds of one versus another specific category of the dependent variable with those of one versus another specific category of an independent variable (Kaufman and Schervish, 1987). Such odds ratios compare, for instance, females to males with respect to, say, never versus formerly smoking. The first entry in Table 4, 2.0, shows that MexicanAmerican females are twice as likely as males to have never smoked rather than to have smoked formerly. The smoking status comparisons in the table are given sequentially. For instance, never smokers are compared with all other statuses; former smokers are compared with all subsequent statuses, but not with never smokers, since that comparison was made previously. To determine the odds of Mexican-American females versus males having formerly smoked ver-
+TABLE 3
+GENERALIZED ODDS RATIOS COMPARING FEMALES TO MALES FORNEVER VERSUS EVER SMOKERS BY ETHNICITY, CONTROLLING FOR
+AGE, UNITED STATES, 1985
+
+3Semigeneralized contrasts are discussed in the next section, but are not presented for gender differences by ethnicity because for dichotomous relations (e.g., male and female), semigeneralized and comparative contrasts provide the same information.
+
+Ethnic Group
+
+Females vs. Males
+
+Mexican-American Anglo Black
+
+2.5 1.7 2.1
+
+SOURCE: National Health Interview Survey, Supplement on Health Promotion and Disease Prevention, 1985.
+
+Rogers
+
+Social Biology
+
+TABLE4
+COMPARATIVE ODDS RATIOS OF SEX AND SMOKING STATUS, BY ETHNICITY, CONTROLLING FOR A G E , UNITED STATES, 1985
+
+SMOKING STATUS"
+Never to former NevertoV2pk Nevertolpk Neverto2pks Neverto2+pks
+
+MEXI-AME»
+Female to Male
+2.0 2.0 3.7 1.8 3.3
+
+ANGLO
+Female toMale
+2.2 1.0 1.1 1.6 2.9
+
+BLACK
+Female to Male
+2.4 1.5 1.9 2.3 2.3
+
+FormertoV2pk Formertolpk Formerto2pks Formerto2+pks
+
+1.0 1.8 0.9 1.6
+
+0.4 0.5 0.7 1.3
+
+0.6 0.8 0.9 1.0
+
+i/2tolpk
+V2to2pks i/2to2+pks
+
+1.8
+0.9 1.6
+
+1.1
+1.6 2.9
+
+1.2
+1.5 1.5
+
+Ito2pks Ito2+pks
+
+0.5 1.4
+
+1.2
+
+0.9 2.5 1.2
+
+2to2+pks
+
+US O
+
+1.0
+
+SOURCE: National Health Interview Survey, Supplement on Health Promotion and Disease Prevention, 1985. "1/2 pkisless than one-half a pack of cigarettes per day; 1pkisequal to or greater than one-half but less than one pack of cigarettes per day; 2 pks is equal to or greater than one but less than two packs of cigarettes per day; 2 + pks is equal to or greater than two packs ofcigarettes per day.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+sus never smoking, take the reciprocal than quit smoking.4 Only compared to
+
+of never to former smokers (or 1/2.0 or those who smoke two or more packs of
+
+0.5). cigarettes perday areAnglo and Black
+
+Without exception, females are more females aslikely if not more likely than
+
+likely than males to have never smoked. males to quit smoking. In allbut a few
+
+Generally, Mexican-American females instances, among all ethnic groups, fe-
+
+are as likely if not more likely than their males are more likely than males to
+
+male counterparts to quit smoking smoke light to moderate rather than
+
+rather than continue (Table 4). One ex- heavy amounts of cigarettes. Such rela-
+
+planation for the high quit rates among
+
+Mexican-American females is that they
+
+are more likely than other groups to be
+
+around nonsmoking peers (Markides et al., 1987). Among Anglos andBlacks, males are more likely than females to be former rather than light smokers. For instance, Anglo females are 2V2to 2 times more likely than are males to smoke V2to 1pack of cigarettes rather
+
+4Keep in mind that these ratiospresent relative odds for several comparisonsatone point in time, 1985, not transitions in smoking statuses over time. Therefore, Table 4 shows that among Anglos, males are more likely than females to quit rather than smoke a package ofcigarettes. This doesnot indicate that amongAngloswho smoke a package of cigarettes, malesare more likelythan females to quit.
+
+Vol. 38, No. 1-2
+
+Cigarette Smokers
+
+tions compare males and females within ethnic groups; but we can also compare ethnic groups within sexes.
+ETHNIC DIFFERENCES BYSEX
+
+TABLE5
+GENERALIZED ODDS RATIOS OF ONE ETHNIC GROUP TO A L L OTHERS FOR NEVER VERSUS EVER SMOKERS BY SEX, CONTROLLING FOR
+A G E , UNITED STATES, 1985
+
+Among males and females, Mexican-
+
+ETHNICITY
+
+Americans are more likely to have SEX
+never smoked than Anglo or Black men Male and women (Table 5). For instance, Female
+
+MexicanAmerican
+1.7 . . . 2.2
+
+Anglo
+0.8 0.8
+
+Black
+0.8 0.6
+
+Mexican-American females are more
+
+SOURCE: National Health Interview Survey, Supplement
+
+than twice as likely to have never on Health Promotion and Disease Prevention,1985.
+
+smoked as are Anglo or Black women.
+
+Although some studies have reported
+
+that Blacks, especially Black males, are
+
+more likely to smoke than other ethnic independent variable, one at a time,
+
+groups (McGinnis et al., 1987), our find- with all other categories of that group
+
+ings indicate that, controlling for age, (Kaufman and Schervish, 1987). Thus,
+
+Black males are similar to other groups Table 6, for instance, compares smoking
+
+in their chances of never smoking.
+
+statuses for, say, Mexican-Americans
+
+Semigeneralized odds ratios compare with those of all other ethnic groups
+
+each of the respective categories of an (Anglos and Blacks).
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE6
+SEMIGENERALIZED ODDS RATIOS OF ONE ETHNIC GROUP TO ALL OTHERS BY SMOKING STATUS AND SEX, CONTROLLING FOR AGE, UNITED STATES, 1985
+
+SMOKING STATUS"
+Never to former Never to 1/2 pk Nevertolpk Neverto2pks Neverto2+pks
+
+Mex-Amer
+1.6 0.6 1.6 3.3 2.2
+
+MALE
+Anglo
+0.6 3.1 1.4 0.4 0.3
+
+Black
+1.1 0.5 0.4 0.7 1.7
+
+Mex-Amer
+1.4 1.1 4.0 3.1 2.8
+
+FEMALE
+Anglo
+1.3 0.5 0.4 0.9 1.3
+
+Black
+0.6 1.8 0.6 0.4 0.3
+
+FormertoV2pk Formertolpk Formerto2pks Formerto2+ pks
+
+0.4 5.7 0.4 1.0 2.6 0.4 2.1 0.8 0.6 1.4 0.5 1.5
+
+0.8 0.4 3.1 2.9 0.3 1.1 2.2 0.7 0.7 2.0 3.6 0.5
+
+V2tolpk i/2to2pks V2to2+pks
+
+2.4 0.5 0.9 5.1 0.1 1.4 3.4 0.1 3.4
+
+3.7 0.8 0.3 2.8 1.7 0.2 2.6 2.4 0.2
+
+Ito2pks Ito2+pks
+
+2.1 0.3 1.6 1.4 0.2 3.8
+
+0.8 2.2 0.6 0.7 3.1 0.5
+
+2to2+pks
+
+0.7 0.6 2.4
+
+0.9 1.4 0.8
+
+SOURCE: National Health Interview Survey, Supplement on Health Promotion and Disease Prevention, 1985.
+"V2 pk is less than one-half a pack of cigarettes per day; 1 pk is equal to or greater than one-half but less than one pack of cigarettes per day; 2 pks is equal to or greater than one but less than two packs of cigarettes per day; 2 + pks is equal to or greater than two packs of cigarettes per day.
+
+Rogers
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Table 6 re-emphasizes that, compared to other ethnic groups, MexicanAmericans are generally more likely to have never rather than ever smoked. When they do smoke, they are likely to smoke moderately. For instance, Mexican-American males are over 2 times more likely than other males to smoke V2rather than 1 package of cigarettes a day, over 5 times more likely to smoke V2rather than 2 packs a day, and over 3 times more likely to smoke V2 rather than over 2 packs of cigarettes per day. Mexican-American females follow a similar pattern.
+Mexican-American males are more likely than other males to have quit as opposed to smoking large amounts of cigarettes. For example, compared to other males, Mexican-American males are over twice as likely to have quit rather than smoke 2 packs of cigarettes per day, and almost one-and-one-half times more likely to quit rather than smoke over 2 packs of cigarettes per day. But they are less likely than men of other ethnicities to have quit smoking rather than smoke one-half a pack of cigarettes per day. Mexican-American females parallel Mexican-American males, but with a more pronounced pattern. Indeed, Mexican-American females are almost 3 times more likely than other females to quit rather than smoke a pack of cigarettes per day.
+Anglo males are more likely than other males to have quit as opposed to smoking small amounts of cigarettes. For example, compared to other males, Anglo males are almost 6 times more likely to have quit rather than smoke V2 a pack of cigarettes, and over 2V2 times more likely to quit rather than smoke 1 pack of cigarettes per day. But they are less likely than men of other ethnicities to have quit smoking rather than smoke
+
+2 packs or more of cigarettes. Except for the heaviest consumption level, Black males are less likely than other males to quit smoking. Conversely, compared to other females, Black females are more likely to quit rather than smoke small amounts of cigarettes, but less likely to quit than smoke large amounts of cigarettes.
+Anglo males are much more likely than other males to smoke heavily: 10 times more likely to smoke over 2 packs rather than V2 a pack of cigarettes, 5 times more likely to smoke over 2 packs rather than 1 pack of cigarettes, and over IV2 times more likely to smoke over 2 packs rather than 2 packs of cigarettes per day. On the other hand, Anglo females are much less likely than other females to smoke heavily.
+Table 7 shows specific ethnic comparisons that generally reflect the results in Table 6, but with some interesting deviations. Mexican-Americans are generally more likely than Anglo males to never smoke rather than smoke heavily. If they do smoke, they are more likely to smoke light to moderate rather than heavy amounts. Indeed, compared to Anglo males, Mexican-American males are over 11 times more likely to smoke less than V2 pack rather than over 2 packs of cigarettes per day. However, Mexican-American males are often more likely than Anglo males to smoke a few cigarettes rather than quit smoking altogether. These same relations generally hold for Mexican-American versus Black males. Compared to Anglo males, Black males always smoke fewer cigarettes. Indeed, compared to Anglo males, Black males are 5 times more likely to smoke V2 rather than 2 packs of cigarettes per day, 10 times more likely to smoke V2rather than 2 or more packs of cigarettes per day, and 10 times more
+
+Vol. 38, No. 1-2
+
+Cigarette Smokers
+
+TABLE7
+COMPARATIVE ODDS RATIOS OF ETHNICITY AND SMOKING STATUS BY SEX, CONTROLLING FOR AGE, UNITED STATES, 1985
+
+SMOKING STATUS"
+Neverto former Never to V2pk Neverto lpk Neverto2pks Neverto2+pks
+
+MALE
+Mex-Amer Mex-Amer to Anglo to Black
+2.1 1.3 0.4 1.2 1.1 2.4 3.9 2.9 4.1 1.2
+
+Anglo to Black
+0.6 3.5 2.2 0.7 0.3
+
+FEMALE
+Mex-Amer Mex-Amer to Anglo to Black
+1.1 1.8 1.6 0.7 4.6 3.5 2.3 4.1 1.7 4.6
+
+Anglo to Black
+1.7 0.4 0.8 1.8 2.7
+
+Former to V2pk Formertolpk Formerto2pks Formerto2+pks
+
+0.2 1.0 0.5 1.9 1.9 2.2 2.0 0.9
+
+5.5 3.6 1.2 0.5
+
+1.5 0.4 0.3 4.3 1.9 0.4 2.1 2.2 1.0 1.6 2.5 1.6
+
+V2tolpk V2to2pks i/2to2+pks
+
+3.0 1.9 11.0 2.3 11.5 1.0
+
+0.6 0.2 0.1
+
+2.8 4.9 1.7 1.4 5.7 4.0 1.0 6.4 6.1
+
+Ito2pks Ito2+pks
+2to2+pks
+
+3.6 1.2 3.8 0.5
+
+0.3 0.1
+
+0.5 1.2 2.3 0.4 1.3 3.6
+
+1.0 0.4 0 . 4 0 . 7
+
+1.1 1.5
+
+c g t s pe y; p eq o than two packs of cigarettes per day.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+likely to smoke 1 rather than 2 or more packs of cigarettes per day. Such results confirm previous findings (Fiore et al., 1989; Orleans et al., 1989; Novotny et al., 1988).
+Among females, one interesting pattern shows that, compared to Anglo females, Mexican-American females are always more likely to have never smoked rather than ever smoked, and to quit rather than smoke any amount. Compared to Black women, MexicanAmerican and Anglo women are always more likely to smoke light rather than heavy amounts of cigarettes. Compared to Anglo females, however, MexicanAmerican females are more likely to smoke heavy rather than light to moderate amounts of cigarettes.
+
+DISCUSSION
+It is important to disaggregate smoking status, as we have illustrated, because of the substantial differences among ethnic and sex subpopulations, and because prevention efforts can best be directed to specific target populations and smoking statuses.
+Males are more likely than females to smoke and to smoke heavily (Rogers and Crank, 1988). Such relations complement Gottlieb and Baker's findings that males and females are more likely to smoke if their friends smoke, especially if their friends who smoke are of the same sex (Gottlieb and Baker, 1986). Our findings add a new twist to the debate about whether males or fe-
+
+10
+
+Rogers
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+males are more likely to quit smoking. We have found that the ratio of former to current smokers varies not only by ethnicity but also, within the category of current smokers, by the number of cigarettes consumed. Among Anglos and Blacks, the sexes display different quit ratios depending upon levels of cigarette consumption. Generally, the ratio of quitters to light smokers is higher among males than among females, but the ratio of quitters to heavy smokers is lower. Mexican-American females, however, usually have quit ratios as high as those of males, if not higher, no matter what level of consumption is chosen for the comparison. Therefore, programs for males could stress the importance of not smoking, of smoking moderately if at all, and last, of quitting, especially at the higher levels of consumption. Programs to encourage prevention and cessation among women are now especially important in light of the fact that lung cancer has surpassed breast cancer as the leading cause of death among women (Ernster, 1986).
+Anglo and Black females are less likely than males to begin smoking, but they are usually more likely to continue smoking once they begin. We suspect that the increasing research on smoking among females, the development of grade- and high-school curricula to combat the onset of smoking within this group, and local, state, and national antismoking campaigns are having a significant impact on young female smokers (DHHS, 1980). Unfortunately, most antismoking programs are in educational settings. Additional community-, health-care-, and worksite-based programs for adults are needed to prevent smoking among nonsmokers and to enhance the chances for smoking reduction or cessation among
+
+smokers. Nevertheless, individuals are becoming more aware of the adverse health effects of cigarette smoking (Shopland and Brown, 1987).
+Our findings confirm that, compared to males, Mexican-American females at every age seldom smoke and when they do, they smoke only a few cigarettes per day, and are likely to quit. MexicanAmerican males, on the other hand, are more likely to smoke and relatively less likely to quit, although they smoke fewer cigarettes than do other ethnic groups. Effective programs for Mexican-Americans, then, should recognize the important gender differences; females should be discouraged from initiating smoking and encouraged to maintain their low levels of smoking, whereas programs aimed at males could encourage those who have already started smoking to quit.
+Some researchers express concern that because Mexican-American males are as likely to smoke as Anglo males, their current low rate of lung cancer will increase until it is commensurate with Anglo rates (Marcus and Crane, 1984). Our findings do not show this. Moreover, we make a more optimistic forecast, based not on smoking prevalence rates, but on the low odds of heavy smoking, the high odds of light smoking, and the high odds of smoking cessation among Mexican-American males.
+Blacks have been attributed with higher rates of smoking than Anglos and Hispanics (McGinnis et al., 1987), and lower rates of quitting than Whites (Kabat and Wynder, 1987; Fiore et al., 1989;Wynder, 1988). Ourfindingsshow that quit rates vary by cigarette consumption. Even though Anglos have higher ratios than Blacks of quitters to light smokers, they have lower ratios of quitters to heavy smokers. If one disag-
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 38, No. 1-2
+
+Cigarette Smokers
+
+11
+
+gregates current smokers by cigarette disease and mortality patterns. Cur-
+
+consumption, new results arise. The ag- rently, the cigarette industry is actively
+
+gregate results--that Blacks have lower promoting cigarettes through advertise-
+
+overall quit rates than Anglos--may still ments in newspapers and magazines,
+
+persist because proportionately there sponsorship of entertainment and cul-
+
+are more smokers at the lowconsump- tural events, special promotions, and
+
+tion levels and fewer smokers at the widespread use of billboards which are
+
+heavier consumption levels. It is impor- targeted to women and minorities
+
+tant, however, to look beyond the ag- (CDC, 1987a; Davis, 1987). This re-
+
+gregate statistics, because the associa- search, which has characterized the sub-
+
+tion between smoking and disease is populations most at risk of initiating,in-
+
+complex.
+
+creasing, and continuing smoking be-
+
+Smoking patterns by ethnicity anticipate future diseases; even as smoking prevalence declines, illnesses attributed to smoking will continue well into the
+
+haviors within a multivariate framework, may contribute tosocial and publichealth efforts tofurther reduce smoking within theUnited States.
+
+twenty-first century (CDC, 1988). If in-
+
+dividuals were to stop smoking, much morbidity, disability, andmortalitydue
+
+ACKNOWLEDGMENTS
+
+to cancers and respiratory and circula- This research wassupported byAmeri-
+
+tory diseases could be treated and pre- can Cancer Society Grant No. PBR-46.The
+
+vented (DHHS, 1989). Moreover, data employed in this article were made
+
+smoking is linked toother unhealthy behaviors (Schoenborn and Benson,
+
+available bythe Inter-university Consortium for Political and Social Research. The data for the Health Interview Survey, 1985,were
+
+1988). It might therefore be possible to originally collected bytheU.S. Department
+
+reduce other unhealthy behaviors by re- of Health andHuman Services andthe Na-
+
+ducing cigarette smoking; however, if tional Center for Health Statistics. Neither
+
+smoking becomes more widespread,especially among new subpopulations,we
+
+the collector ofthe original data, theConsortium, nor the funding agency bear any responsibility for the analyses or interpreta-
+
+can anticipate subsequent changes in tions presented here.
+
+REFERENCES
+
+CENTERS FOR DISEASE CONTROL. 1987a. Ciga-
+rette smoking among blacks and other minority populations. Morbid. Mortal. Weekly Rep. 36:404-407. _____. 1987b. Cigarette smoking in the United States, 1986. Morbid. Mortal. Weekly Rep. 36:581-585. _____. 1988. State-specific estimates of smoking-attributable mortality and yearsof potential life lost--United States, 1985. Morbid. Mortal. Weekly Rep. 37:689-693. DAVIS, R. M. 1987. Current trends in cigarette advertising and marketing. New Engl. J. Med. 316:725-732. ERNSTER, V. L. 1986. Women, smoking, cigarette advertising and cancer. Women Hlth. 11:217-236.
+
+FIORE, M. C., T. E. NOVOTNY, J. P. PIERCE,
+E. J. HATZIANDREU, K. M. PATEL, and
+R. M. DAVIS. 1989. Trends in cigarette smoking in theUnited States: The changing influence of gender and race. J. Amer. Med. Assoc. 261:49-55. GOODMAN, L. A. 1970. Themultivariate analysis of qualitative data: Interactions among multiple classifications. J. Amer. Statist. Assoc. 65:226-256.
+GOTTLIEB, N. H., and J. A. BAKER. 1986. The
+relative influence of health beliefs, parental and peer behavior and exercise program participation on smoking, alcohol use and physical activity. Soc. Sci. Med. 22:915927.
+HAYES-BAUTESTA, D. E. 1983. On comparing
+
+12
+
+Rogers
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+studies of different Raza populations.
+
+and Social Research.
+
+Amer. J. Publ. Hlth. 73:274-276.
+
+NOVOTNY, T. E., K. E. WARNER, J. S. KEN-
+
+HOLCK, S. E., C. W. WARREN, R. ROCHAT, and
+J. C. SMITH. 1982. Lung cancer mortality and smoking habits: Mexican-American women. Amer. J. Publ. Hlth. 72:38-42.
+
+DRICK, and P. L. REMINGTON. 1988. Smok-
+ing by blacks and whites: Socioeconomic and demographic differences. Amer. J. Publ. Hlth. 78:1187-1198.
+
+HUMBLE, C. G., J. M. SAMET, D. R. PATHAK,
+and B. J. SKIPPER. 1985. Cigarette smoking and lung cancer in "Hispanic" whites and other whites in New Mexico. Amer. J.Publ. Hlth. 75:145-148.
+
+ORLANDI, M. A. 1986. Gender differences in smoking cessation. Women Hlth. 11:237251.
+ORLEANS, C. T., V. J. SCHOENBACH, M. A.
+SALMON, V. STRECHER, W. KALSBEEK, D.
+
+KABAT, G. C., and E. L. WYNDER. 1987. De-
+terminants of quitting smoking. Amer. J. Publ. Hlth. 77:1301-1305.
+KAUFMAN, R. L., and P. G. SCHERVISH. 1986.
+Using adjusted cross-tabulations to interpret log-linear relationships. Amer. Sociol. Rev. 51:717-733. _____. 1987. Variations on a theme: More uses of odds ratios to interpret log-linear parameters. Sociol. Methods Res. 16:218255.
+MARCUS, A . C . , and L. A. CRANE. 1984. Smok-
+ing behavior among Hispanics: A preliminary report. Prog. Clin. Biol. Res. 156:141151.
+
+QUADE, E. F. BROOKS, T. R. KONRAD, C.
+BLACKMAN, and C. D. WATTS. 1989. A sur-
+vey of smoking and quitting patterns among black Americans. Amer. J. Publ. Hlth. 79:176-181.
+ROGERS, R. G., and J. CRANK. 1988. Ethnic dif-
+ferences in smoking patterns: Findings from NHIS. Publ. Hlth. Rep. 103:387-393.
+SCHOENBORN, C. A., and V. BENSON. 1988. Re-
+lationships between smoking and other unhealthy habits: United States, 1985.Advance Data from Vital and Health Statistics. DHHS Pub. No. (PHS) 88-11250. No. 154. National Center for Health Statistics. Hyattsville, MD.
+
+MARKIDES, K. S., J. COREIL, and L. A. RAY.
+1987. Smoking among Mexican Americans: A three-generation study. Amer. J. Publ. Hlth. 77:708-711.
+
+SHOPLAND, D. R., and C. BROWN. 1987. To-
+ward the 1990 objectives for smoking: Measuring the progress with 1985 NHIS Data. Publ. Hlth. Rep. 102:68-73.
+
+M C G I N N I S , J. M., D . SHOPLAND, and C. U.S. DEPARTMENT OF HEALTH AND HUMAN
+
+BROWN. 1987. Tobacco and health: Trends
+
+SERVICES. 1980. Smoking programs for
+
+in smoking and smokeless tobaccocon-
+
+youth. Government Printing Office, Wash-
+
+sumption in theUnited States. Ann. Rev.
+
+ington, D.C.
+
+Publ. Hlth. 8:441-467.
+
+_____. 1989. Promoting health/preventing dis-
+
+MILLER, G. H., and D. R. GERSTEIN. 1983. The
+
+ease: Year 2000 objectives for the nation.
+
+life expectancy of nonsmoking men and Draft. Government Printing Office, Wash-
+
+women. Publ. Hlth. Rep. 98:343-349.
+
+ington, D.C.
+
+NATIONAL CENTER FORHEALTH STATISTICS. WYNDER, E.L. 1988. Tobacco and health: A
+
+1986. Health Interview Survey. 1985 Health
+
+review of the history and suggestions for
+
+promotion anddisease prevention. Public
+
+public health policy. Publ. Hlth. Rep.
+
+use data tape and documentation. Issued by
+
+103:8-18.
+
+the Inter-university Consortium for Political
+
+

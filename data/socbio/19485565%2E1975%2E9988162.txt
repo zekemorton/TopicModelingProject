@@ -1,0 +1,336 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Factors affecting the choice of contraceptive method by a group of OEO patients
+Susan H. Cochrane
+To cite this article: Susan H. Cochrane (1975) Factors affecting the choice of contraceptive method by a group of OEO patients, Social Biology, 22:2, 173-180, DOI: 10.1080/19485565.1975.9988162 To link to this article: http://dx.doi.org/10.1080/19485565.1975.9988162
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles
+Citing articles: 2 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:35
+
+Factors Affecting the Choice of Contraceptive Method by a Group of OEO Patients
+Susan H. Cochrane
+Department of Economics University of South Carolina Columbia, South Carolina
+
+r
+
+]'HA
+W
+
+Hi
+
+$
+w
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+Birth control information and materials are generally made available to individuals who are free to ignore them. Thus, population control policies, a subject of grave concern in both developed and developing countries, must be indirect. That is, population policies must be designed to affect what individuals can and want to do rather than what they must do. In the United States, the number of available ways of controlling births has recently been expanded as a result of abortion law liberalization and relaxation of many hospitals' sterilization guidelines. Nevertheless, contraception continues to be the major method of birth control in the United States.
+To achieve a maximum reduction in births per unit of expenditure within a voluntary framework, cheap, attractive, and effective methods must be designed. To do this, the factors which determine the answers to the following three questions must be known. (1) Will a given individual adopt any method of birth control? (2) Which method will be adopted? (3) Will the patient continue using the method selected? Of course, these questions are difficult to separate. Recent research on
+
+continuation rates, for example, indicates that intrauterine device users tend to have much higher continuation rates than those using another highly effective method, oral contraceptives (Hall and Reinke, 1969; Tietze and Lewit, 1971). This fact, together with the fact that the annual cost of using an IUD is quite low if it is used over an extended period of time, cannot be ignored in a discussion of the economics of population policies.
+A great deal of research has been done on the first question and a growing amount on the third. Very little, however, has been done on the second. This paper reports the results of an attempt to use discriminant analysis to determine the combination of characteristics which would best enable one to predict whether a woman will decide to use oral or intrauterine contraception. It is our hypothesis that at the time choice is made it takes a greater commitment to accept the IUD, which is usually retained until removed by a physician, than to accept oral contraceptives that can be discontinued at any time. This hypothesis would seem to be in agreement with the results obtained in a recent article in this
+
+173
+
+174
+
+Cochrane
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+journal (Bauman and Varavej, 1972). The Form (Black, white, Puerto Rican, other
+
+data used in the present study is indirect, Spanish, American Indian, and other). The
+
+but it does provide insights into the prob- first dummy variable would equal unity if
+
+lem. the patient were Black, and zero otherwise.
+
+To prevent linear dependence between the
+
+MATERIALS AND METHODS
+
+dummy variables, there must be one less
+
+The data used for the present study were variable than there are meaningful (non-
+
+gathered between October and December, zero) categories (Suits, 19S7). In our case,
+
+1970, from the Provisional Health Report since all patients were classified as Black
+
+Forms completed for all patients at an or white, there was only one dummy vari-
+
+OEO-sponsored Planned Parenthood clinic able for race.
+
+in Columbia, South Carolina. At this clinic Race, residence, and previous use of con-
+
+there were files for approximately 450 cur- traception have frequently been found to
+
+rent patients. (Patients are considered affect fertility behavior. Referral method
+
+"current" if they have been to the clinic was used because it was felt that the more
+
+for their initial examination or a follow-up recently promoted IUD method would gain
+
+examination within the last twelve months.) acceptance mainly from those referred by
+
+Of these patients, 130 were using IUD's, other patients who had found the method
+
+and 292 were using oral contraceptives. to be good for themselves. Outcome of last
+
+Approximately 90 per cent of the patients pregnancy was included because it would
+
+were black. Twenty-one per cent of the pa- possibly be a reflection of a past induced
+
+tients were under 20 years of age, and 73 abortion or of the poor health of the woman.
+
+per cent of the patients were in the most Both of these factors would make future
+
+fertile age groups, under 30.
+
+pregnancies undesirable and increase the
+
+In this study, quantitative and dummy commitment to fertility control.
+
+variables were used in deriving the dis- The first step in deriving the discriminant
+
+criminant functions. The factors expressed function was to find the means and stan-
+
+by the quantitative variables were age, dard deviations of all nonzero variables for
+
+education, number of children, number of the users of oral and intrauterine contracep-
+
+pregnancies less number of living children, tives. In addition, the correlation between
+
+and months since termination of last preg- the variables for the combined data were
+
+nancy. In addition, for a subgroup of 127 calculated. Then variables were dropped
+
+individuals, available data on weekly in- to eliminate linear dependence between the
+
+come per family member were used. All of dummy variables and correlations of over
+
+these factors have been used frequently 0.7 between any two variables. The re-
+
+in studying fertility behavior.
+
+duced number of variables were then used
+
+The dummy variables were used to ex- in a step-wise discriminant function
+
+press the following factors: race, method BMD07M to determine which added sig-
+
+by which a patient was referred to the nificantly to the discriminant function. In
+
+clinic, contraceptive method used in the the third step, the variables which added
+
+past two years, outcome of last pregnancy, significance to the function were used to
+
+and residence (rural or urban). For each determine the coefficients of the discrimi-
+
+factor there exists one less dummy variable nant function. The approach was used both
+
+than there are categories for that factor. for the whole group of 422 patients using
+
+For example, there are 6 categories of race either IUD's or oral contraceptives and for
+
+given on the Provisional Health Report the subgroup of 127 women for whom in-
+
+Vol. 22, No. 2
+
+Choice of Contraceptive Method
+
+175
+
+come data was available. The discriminant functions were used to classify a random sample of patients from a second OEOsponsored clinic in the same city. This secondary check provides an estimate of the predictive ability of the functions.
+RESULTS
+DIFFERENCES BETWEEN THE MEANS
+Hall (1969) compared the characteristics of pill and IUD users participating in the Baltimore Public Program. Using analysis of variance and a 1 per cent level of significance, she found that "Among whites and non-whites, the oral method reached women who were significantly younger, had fewer children, were of a lower socio-economic level, and more frequently married than those reached by the intrauterine method" (Hall, 1969, p. 57).
+In Table 1, the difference in mean characteristics between the users of the two
+
+methods in the Columbia, South Carolina study are summarized. At the 1 per cent level of significance, we find that users of the pill are younger, have fewer children, and are more likely to have used the pill in the last two years than those using an IUD. This finding seems to be an agreement with Hall's observations. The only variables that might reflect socioeconomic level are income per family member and education. For the subgroup of 127 patients, it seems that income is significantly higher at a 10 per cent level for pill users than IUD users. There is no significant difference between the education of the two groups. This finding conflicts with Hall's results. However, Hall stressed that differences between users vary from clinic to clinic.
+Table 1 shows other significant differences between the two groups. At a S per cent level of significance we find that users
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+TABLE 1
+DIFFERENCES BETWEEN MEAN VALTTES FOR ORAL AND IUD PATIENTS: OEO-SPONSORED PLANNED PARENTHOOD CltNIC, COLUMBIA, SotTTH CAROLINA*
+
+Variable
+1. Age 2. Race ( B l a c k = l ) 3. Hospital referral 4. Other patient referral 5. Program personnel referral 6. No previous method 7. Previous oral 8. Previous IUD 9. Previous foam 10. Previous condom 11. Education 12. Number of children 13. Number of losses 14. Months since last pregnancy 15. Last pregnancy outcome: live term 16. Last pregnancy outcome: live low weight 17. Last pregnancy outcome: dead term 18. Last pregnancy outcome: dead other 19. Last pregnancy outcome: not applicable 20. Residence (rural = 1) 21. Income (weekly, per family member)
+
+Oral
+2^57 0.90 0.54 0.11 0.33 0.26 0.64 0.06 0.02 0.02 10.30 2.71 0.45 22.79 0.77 0.08 0.003 0.08 0.06 0.22 16,81
+
+IUD
+27^23 0.83 0.50 0.08 0.35 0.16 0.07 0.70 0.03 0.02 10.37 3.51 0.62 28.77 0.85 0.06 0.00 0.06 0.02 0.29 13.31
+
+t
+--3.S9t 2.11J 0.25 0.81
+--0.44 2.13§ 10.6t
+--13.9t --1.32§
+0 0.32 --3.13 --1.49§ --2.34** --1.90** 1.00 0.70 0.26 1.57§ --1.53§ 1.72**
+
+* For variables 9, 10, 16, 17, 18 and 19, the sample size is too small, given the low probabilities, to make the use of a normal approximation appropriate.
+1 1 per cent. t 5 per cent. S 10 per cent. ·* 20 per cent.
+
+176
+
+Cochrane
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+of the pill are more likely to be Black, to have previously used no method of contraception, and to have been more recently pregnant than users of IUD's. The younger age of the patients using oral contraceptives probably partially explains the lack of previous use of contraceptives. Age and no previous method have a correlation of --0.35. The preference of Blacks for the pill is harder to explain. The Black patients are if anything slightly older and of higher parity than whites, but there are no variables correlated with race at a level above 0.3. Income is negatively correlated with being black (r = -- 0.22). But as was seen for the sample as a whole, the income of patients using oral contraceptives is significantly higher at a 10 per cent level than that of the others.
+If one reduces the significance level to 20 per cent, there are other variables that are significantly different between the two groups. First, pill users have a lower number of losses. Second, pill users are more likely to be urban. Third, the pill users more frequently have never been pregnant, which is to be expected since doctors seldom prescibe the IUD for nulliparous women. Finally, pill users are less likely to have previously used foam as a contraceptive. However, for these last two variables, the sample size was so small that the validity of the results is questionable.
+The lower losses of pill users partially reflects their lower parity. These two variables have a correlation of 0.33. However, number of losses reflects more than just parity; it also reflects excess fertility. Outcome of last pregnancy reflects possible excess fertility in terms of a woman's health or resort to induced miscarriage in the previous pregnancy, but number of losses reflects cumulative factors and includes child death, a measure of poor economic conditions as well. There are no correlations between zero parity or residence and other
+
+variables that exceed 0.30, except for the subsample which shows that zero parity and income have a correlation of O.SS. This correlation may explain the higher income of pill users. The preference of rural patients for the IUD may reflect the higher costs to them of obtaining a supply of pills.
+The income variables for the small sample show several interesting correlations. Age and income are negatively correlated (r = -- 0.30). Income and education have a correlation coefficient of 0.37, while income and family size have a --0.47 correlation.
+DISCRIMINANT ANALYSIS
+If one wants to predict what method a patient will choose, one could simply use the observed differences between the means. The best characteristic to use for prediction would be the one with the highest t value. To use several factors to determine which method a woman will choose, it is necessary (1) to decide which combination of variables seem to produce the best separation between the two groups and (2) to assign weights to these variables. Discriminant analysis performs this task.
+The object of discriminant analysis is to assign weights to variables in such a way that the mean difference between a linear combination, z, of these variables for the two groups is maximized per unit of dispersion of z. Once the weights are determined, a cut-off score can be obtained that will minimize the expected cost of misclassifying observations. This cut-off score depends on the cost of classifying a member of Group 1 as being in Group 2, C1} and vice versa, and the priori probability of an observation being in Group 1, Ply rather than Group 2, F2. In general, the cut-off score is (c)log (PzC2) PiC2, where c is a constant determined from the discriminant function.
+Several steps were taken in the elimina-
+
+Vol. 22, No. 2
+
+Choice of Contraceptive Method
+
+177
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+tion of variables from the discriminant function. First, all variables for which there were no observations in one group were dropped. "Dead term" was dropped for this reason. In addition, some variables were highly correlated. If two variables had correlations of 0.7 or higher, one would be dropped. The one dropped would be the one least likely to affect the strength of desire to control fertility. I felt that since the decision to use the IUD is less easily reversed than the decision to use the pill and since they are almost equally effective, women choosing the IUD were more strongly motivated to control fertility at the time of choosing the method. On these grounds, age was dropped instead of number of children, and program personnel was dropped rather than hospital referral. In addition, to prevent linear dependency among the outcome of last pregnancy variables, "dead other" was also dropped. The "other" category was large enough in the "previous method" category to prevent linear dependency.
+At this point, the BMD07M program was run for 422 observations using all the variables in Table 1 except 3, 17, 18, and 21. This step-wise discriminant program enters variables in order of their contribution to the discriminant function. The contribution is indicated by the value of "F to enter." If F is significant, it means that the new variable increased the difference in z scores per unit dispension between the two groups. On the basis of this F value, three groups of variables were selected: those that added to the function significant at (1) a 1 per cent level or better, (2) a 5 per cent level or better, and (3) a IS per cent level of significance or better. The first group of variables had three variables: previous use of IUD's, previous pill use, and race. The second group contained the variables in the first group as well as previous use of foam and the number of losses a
+
+woman had experienced. The third contained the above five variables as well as years of schooling and residence.
+These three groups of variables were used to determine three discriminant functions. Table 2 contains the constant terms,
+
+TABLE 2
+DISCRIMINANT FTJNCTIONS FOR PATIENTS AT. OEO-SPONSORED PLANNED PARENTHOOD CLINIC, COLUMBIA, SOUTH CAROLINA
+
+Variables
+
+1* 2t
+
+3t
+
+Constant Race (Black = 1 ) Previous oral Previous IUD
+Previous foam Education Number of losses Residence (rural = 1 )
+
+0.022 0.062 0.247 0.267 0.2SS 0.26S 0.2SS 0.224 0.227 --0.929 --0.881 --0.870
+0.324 --0.331 --0.017
+--0.055 --0.066 --0.084
+
+Degrees of freedom F value Cut-off score
+
+3,418 5,416 7,414 161.48 101.08 73.71 --0.052 --0.047 --0.076
+
+Number misclassified . . . 52 51 48
+
+* AH variables significant at at least 1 per cent. t All variables significant at at least S per cent. X AU variables significant at at least 15 per cent.
+
+coefficients, F values, degrees of freedom, and cut-off scores for each of these three functions. The cut-off scores were calculated on the assumption that the costs of misclassification were equal between the groups and that the a priori probability of choosing the IUD was 0.2 S. Any woman whose score is above the cut-off score will be classified as oral.
+In these discriminant functions, the most interesting finding is that although education was not significantly different between the two groups, this variable does contribute significantly to the function. Also, the use of foam was significantly different between the groups at 20 per cent, but added to the function at 5 per cent. Other things being equal, it appears that the higher a woman's education, the less likely she is to choose the pill. This finding may confirm Hall's observation (1969) that pill users come from lower sodoeco-
+
+178
+
+Cochrane
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+nomic groups. Education may make a woman more aware of new contraceptive methods or more willing to innovate.
+The coefficients also indicate that a woman who has previously used foam is more likely to choose the IUD than the pill. The only explanation I could find for this possibility was a psychological study indicating that women who have used foam and women who are favorable to the IUD have similar attitudes toward and understanding of their reproductive organs (Metzner and Golden 1967). This observation suggests that a correlation may exist between education and previous use of foam. However, a --0.024 correlation exists between these two variables, which is hardly significant and of the wrong sign.
+The fact that the "number of losses" a woman has experienced adds to the discriminant function at a 5 per cent level and "number of children" does not, means that number of losses may be the better measure of excessive fertility. If it does measure excessive fertility, the sign of its coefficient seems to confirm the hypothesis that users of IUD's are more strongly motivated to control fertility than users of the pill. However, it should be noted that one loss alone is not sufficient in either the second or third function to cause a woman to be placed in the IUD category, and in function 3 a woman of average education (10 years) and one loss would still be classified as an oral contraceptive patient.
+The effect of race on classifying is difficult to explain. As mentioned before, the interaction among income, education, and race in the group we are studying does not seem high enough to explain the effect of race on method. To determine if race were perhaps a proxy variable for other factors affecting behavior, a discriminant function was sought that would discriminate between Blacks and whites on the basis of these other variables. The only variable that en-
+
+tered the race function as well as the method function was residence, and the sign of its coefficient indicated that Blacks were more likely to be rural. Thus, Blacks should be more, not less, likely to pick the IUD. One reason there is not more observable difference between Blacks and whites is that to qualify as an OEO patient one must be very poor and the poor have fairly similar characteristics. It may be that attitudes toward children differ between the Black and white poor.
+An alternative explanation may be that the IUD does require greater motivation at the time of method selection and that the sample is selective of highly motivated whites. The reason may be that since the program serves predominantly Black women, white women feel a loss of status in attending the clinic. Therefore, only highly motivated whites are willing to participate in the program. Therefore, sampling bias may cause race to serve as a proxy for motivation.
+All three of the functions obtained using the entire sample had approximately the same ability to separate the groups on the basis of the original data. Each gave the correct classification about 88 per cent of the time. On the basis of pure chance, when one group contains 69 per cent of the observations one could expect correct classification 57.2 per cent of the time. This difference in proportion has a t value of over 12, definitely significant given the sample size. However, a portion of these correct classifications result from sample bias. The best test for bias is to take a secondary sample and use the discriminant function to classify these observations (Frank et al., 1967).
+For these purposes, a 5 per cent systematic sample was taken of the records of patients of a second OEO clinic. This sample yielded information on 70 patients, 59 of whom were currently using the pill and
+
+Vol. 22, No. 2
+
+Choice of Contraceptive Method
+
+179
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+11, the IUD. The three discriminant functions classified about equally well. Each classified correctly. 94 per cent of the time. Although this figure is higher than the percentage of correct classifications obtained on the original data, the per cent that would be correctly classified by chance is also higher, 73 per cent due to the greater concentration of observations in one group. The t value for 93 per cent correct classifications is 3.77. This value is significant at a 1 per cent level, given a sample size of 70. Therefore, this function can predict the method to be adopted by women with a fair degree of accuracy even when these women are attending another clinic.
+To determine if income could be significant in a discriminant function, the step-wise discriminant function was run using data on the subgroup of 127 women for whom we had income data. Due to the smaller sample size, more variables had to be dropped because of insufficient observations. Fourteen variables were included. Of the 21 variables in Table 1, numbers 3, 9, 10, 16, 17, 18, and 19 were dropped. Of the fourteen, only two were significant at a IS per cent level or better. These two were the categories for previous users of oral or intrauterine contraception. Since the F value for income was 0.95, no further use was made of the data. A larger sample would be needed to find the effect of income if it were to enter at all in the discriminant function, or one might have to examine the choice between method for women with a broader economic background.
+We have been examining the choice of method up to this point as if the entire decision rested with the woman in question. In reality, the decision is made jointly by the doctor and the woman, the supplier and the demander of birth control. Given the data available, it is very difficult to enter variables for characteristics of supply in the discriminant function. The only at-
+
+tempt that could be made to control for supply conditions was to drop from the sample all nulliparous women, since doctors seldom prescribe the IUD for such patients. The only effect of eliminating these women was that residence (one of the least significant variables in earlier functions) ceased to be significant at a IS per cent level.
+Even though very little control for supply conditions is possible, consideration of supply conditions may help us understand why race plays an important role in method selection. In general, the doctors at the clinic studied tended to be reluctant to recommend the IUD. Thus, a woman would probably have to be quite insistent to persuade the doctor to prescribe an IUD even if there were no medical contraindicators. Since the doctors were white, Black patients as a whole may have felt more intimidated than white patients in insisting on a method unpopular with the doctors. To determine if this explanation is plausible, one would have to determine attitudes, mannerisms, and race of a wide number of doctors and enter these variables in the discriminant function. This would require a study of a large number of clinics.
+CONCLUSIONS
+The performance of these functions indicate that at least for the two clinics under consideration we can determine the method of birth control a woman will select with fair accuracy. In addition, women with scores close to zero will probably be the easiest to persuade to use an IUD. Before this technique is implemented for determining the type of counseling to be undertaken, attention must be given to the cost of misdassification. If in fact the costs of misclassifying a potential user of oral contraceptives are higher than those of misclassfying a potential IUD user, the cut-off
+
+180
+
+Cochrane
+
+Social Biology
+
+scores should be raised before the functions addition, the interaction between motiva-
+
+are used.
+
+tion and method should bestudied further.
+
+However, there are other, more serious It may be that continuation rates are higher
+
+problems that must be considered. Tradi- for women using the IUD because women
+
+tionally, Planned Parenthood has taken a choosing that method are more highly moti-
+
+strong position on thevoluntary nature of vated at the moment of method choice
+
+their program. They do not try to encourage (however, it is obvious that strong motiva-
+
+people to use birth control, butonly to in- tion is also necessary for a woman to be a
+
+form them of the available methods. There- successful user of theoral method). Influ-
+
+fore, an attempt to alter the choice of encing less-motivated women to use the
+
+method by a woman may not be philosophi- IUD may simply lower the continuation
+
+cally acceptable to Planned Parenthood. In rate of IUD users.
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+REFERENCES
+
+BATMAN, K. E., and P. VARAVEJ. 1972. Reason for The oral and the intrauterine method. Demog-
+
+contracepting and choice between IUD and raphy 6:335-346.
+
+pill: Implications for the difference in continuation rates. Soc. Bio. 19:292-296.
+FRANK, R. E., W. F. MASSEY, and D. G. MORRI-
+SON. 1965. Bias in multiple discriminant analysis. J. Market. Res. 2:250-258. HALL, M. F. 1969. Field effectiveness of the oral and the intrauterine methods of contraception: The Baltimore Public Program. Milbank Mem.
+
+METZNER, R. J., and J. S. GOLDEN. 1967. Psycho-
+logical factors influencing female patients in the selection of contraceptive devices. J. Fertil. Steril. 18:845-856.
+SUITS, D. 1957. Useof dummy variables in regression equations. J. Amer. Statist. Assoc. 52: 549-556.
+
+Fund Quart. 47:55-71.
+
+TIETZE, C., and S. LEWIT. 1971. The IUD and the
+
+HALL, M. F., and W. A. REINKE. 1969. Factors pill: Extended use-effectiveness. Fam. Plan.
+
+influencing contraception continuation rates: Perspect. 3:53-55.
+
+

@@ -1,0 +1,443 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Assortative mating in unwed birth parents, adoptive, and nonadoptive parents
+HsiuZu Ho
+To cite this article: HsiuZu Ho (1986) Assortative mating in unwed birth parents, adoptive, and nonadoptive parents, Social Biology, 33:1-2, 77-86, DOI: 10.1080/19485565.1986.9988624 To link to this article: http://dx.doi.org/10.1080/19485565.1986.9988624
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:41
+
+Assortative Mating in Unwed Birth Parents, Adoptive, and Nonadoptive Parents
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+Hsiu-Zu Ho
+Department of Psychology University of California Santa Barbara, California
+
+ABSTRACT: Correlation between parents for a given characteristic substantively affects estimates of both genetic and environmental parameters. Spouse similarity for biological, adoptive, and nonadoptive parents was examined in a study using a full-adoption design. With regard to isophormic comparisons, moderate assortment was found for age, educational attainment, performance on tests of verbal ability, family background, and habits such as alcohol and current smoking behavior. The effects of cross-assortative mating on population covariance and cross-correlation between relatives are discussed. Although of considerable theoretical interest, little cross-trait assortative mating for personality and cognition was found in the present study, suggesting that its effects will not be large, at least for these variables. Because "assortative mating" may differ from "assortative marriage," comparisons among estimates of homogamy for birth, adoptive, and nonadoptive parents were made. Results indicated differential assortment among the three types of parents for some of the variables examined.
+
+It has been established that assortative mating influences the correlation between relatives and the genetic variance in a population (Fisher, 1918; Wright, 1921; Crow and Felsenstein, 1968). Because most adoption studies have usually obtained little or no data for birth fathers, estimates of heritability have been based entirely upon the correlation between birth mothers and their adopted children (Plomin et al., 1977). These estimates, however, may be inflated if birth parents mate assortatively, since the parent-offspring correlation is a function of mate correlation. Thus, the degree that birth parents mate assortatively can influence estimates of genetic parameters in adoption studies. Similarly, the extent to which adoptive parents marry assortatively will influence estimates of environmental parameters in adoption studies (DeFries and Plomin, 1978).
+Because most of the birth parents in adoption studies were not married at the
+
+time of testing, one might expect their mating to be more at random or that there is less assortment than in adoptive or nonadoptive parents (i.e., a control group of parents who are rearing their own children). In addition, because adoptive parents, for medical reasons, did not conceive, "assortative marriage" may differ from "assortative mating" with respect to certain traits. For these reasons, the degree of spouse similarity based on isomorphic (same trait) as well as cross-trait comparisons was examined in birth, adoptive, and nonadoptive parents who participated in the Colorado Adoption Project (CAP), a longitudinal study of behavioral development utilizing a full-adoption design.
+CROSS-TRAIT ASSORTATIVE MATING
+Previous studies on assortative mating have focused almost entirely on isomorphic comparisons (i.e., relating hus-
+
+77
+
+78 Ho Social Biology
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+band's measure on x with wife's measure on x). Since assortment may take place across traits (i.e., character* [e.g., verbal ability] of the husband may be related to character y [e.g., sociability] of the wife), cross-trait assortative mating is also considered in this study. Because the theoretical implications of cross-trait assortative mating, to my knowledge, have not previously been addressed, the effects of cross-trait assortative mating on additive genetic covariance and on cross-correlations between relatives will now be briefly considered.
+
+EFFECTS OF CROSS-TRAITASSORTATIVE MATING ON ADDITIVE GENETIC COVARIANCE
+
+It has been shown that the additive genetic covariance between two traits increases as a function of the cross-trait assortative mating. It has been derived (Ho, 1980) that for the bivariate case, the additive genetic covariance at equilibrium is inflated according to the formula,
+
+Cov (AxAy) Cov (AxAy) =
+
+j-
+
+where Cov (AxAy) is the additive genetic covariance of two traits x and y, rMF is the cross-assortative mating correlation between character x of the mother and character y of the father, and n is the number of relevant gene loci. These deviations parallel those of Crow and Felsenstein (1968) for the univariate case. For large n, the additive genetic covariance at equilibrium is inflated according to the formula
+
+If the heritability of either x or y is less than one, r (the phenotypic spouse cross-correlation) must be substituted by AMxF, the spouse cross-correlation with respect to genetic values, where
+Thus, the greater the extent of crossassortative mating, the greater the increase in additive genetic covariance between two traits.
+EFFECTS OF ASSORTATIVE MATING ON CROSS-CORRELATIONS BETWEEN RELATIVES
+It has been shown that the crosscorrelations between parent and offspring (e.g., father's or mother's x and offspring's y) is a function of cross-trait assortative mating (Ho, 1980). Considering only the additive genetic values (A) in a path diagram shown in Figure 1, where mx and my refer to isomorphic assortative mating correlations; mxy, to nonisomorphic assortative mating correlations; rAj}, to additive genetic correlation between two traits;A, to the additive genetic value of father (Af), mother (AM) or offspring (Ao); and m, to the genetic correlation m. A = hrhvrn ,, . That is, the additive genetic correlation between mates is equal to the cross-trait assortative mating coefficient weighted by the square root of the heritabilities of each trait. From the figure, it can be seen that the cross-correlation between additive genetic values of parent and offspring is a function of cross-trait assortative mating. That is,
+
+Cov {AxAy) Cov (AxAy) =
+1-/V
+
+%AOy
+
+2^ = 2 (rAK
+
+"V
+
+Vol. 33, No. 1-2
+
+Assortative Mating
+
+79
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+FIG . 1.--Path diagram depicting the effect of cross-trait assortative mating on cross-correlations between parent and offspring.
+
+MATERIALS AND METHODS
+Assortative mating coefficients were calculated for 55 pairs of birth parents, 116 adoptive parents, and 76 nonadoptive parents. The latter is a control group of parents who are rearing their own children. These parents are predominately Caucasian and representative of the Denver metropolitan area. The nonadoptive families were matched to the adoptive families on the basis of sex of the proband (the adopted child), number of children in the family, and age, occupational rating, and educational rating of the father. The parents completed a battery of tests of specific cognitive abilities as well as questionnaires incorporating personality assessments, background, and medical information about themselves and their families. Descriptions of subject recruitment, testing procedures, and general
+
+characteristics of the sample have been previously reported (Plomin and DeFries, 1985). Pearson product-moment correlations were computed for continuous and ordinal variables for both isomorphic and cross-trait comparisons. Cramer's V statistic was computed for nominal variables, and their significance was evaluated by a chi-square test. A test of differences among the three correlations (see Snedecor and Cochran, 1967) was employed to examine differential assortative mating among the birth, adoptive, and nonadoptive parents.
+Although technically the terms assortative mating, assortative marriage, spouse similarity, and parental similarity are not applicable to all three types of parents (birth, adoptive, and nonadoptive), these terms will be used interchangeably in this report.
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+80 Ho SocialBiology
+
+. RESULTS
+AGE, EDUCATIONAL AND OCCUPATIONAL
+STATUS OF PARENTS
+Table 1 presents demographic characteristics of the parents in the sample. Note that the birth parents are considerably younger than either adoptive or nonadoptive parents. It may also be seen that the education and occupational status is on the average lower than those measures for the adoptive and control parents. These differences may be due to the age differences among the three types of parents or it may be due to a sampling bias. The average education and occupational status of the birth grandparents, however, are comparable to those measures for the control grandparents and actually greater than those for the adoptive grandparents. Thus, according to these measures, there is no evidence that the birth parents of the adopted children in the sample are from disadvantaged homes.
+
+ASSORTATIVE MATING FOR AGE,
+HEIGHT, AND WEIGHT
+Table 2 presents the assortative mating coefficients for the birth, adoptive, and nonadoptive parents with respect to age, height, and weight. By far the largest parental correlation for any variable under investigation is that for age. Because many traits, both physical and behavioral, change with development as well as show secular trends, the effects of age on other estimates of homogamy was taken into account. Spouse correlations for age in the birth and adoptive parents are well within the range reported in the literature (ranging from 0.50 to 0.99). A comparison of the correlations for age indicates that parental similarity differs for the three types of parents (p < 0.05).
+The higher assortative mating for age in birth parents may be because many of the younger birth parents were classmates or met in school, and thus were of similar ages. The higher age correlation
+
+TABLE 1
+MEANS AND STANDARD DEVIATIONS FOR AGE, YEARS OF EDUCATION AND OCCUPATIONAL STATUS
+
+PAREITTS
+Birth Mothers Fathers
+Adoptive Mothers Fahters
+Nonadoptive Mothers Fathers
+
+ACE JV X~ S.D~
+54 18.9 3.6 52 20.1 3.0
+112 31.8 3.7 116 33.5 4.3
+76 29.3 3.7 75 31.3 4.3
+
+EDUCATION
+
+NY
+
+S.D.
+
+52 11.6 1.8 52 11.9 1.8
+
+116 15.7 2.6 116 15.7 2.6
+
+65 14.8 2.2 75 15.8 2.3
+
+OCCUPATION8
+
+N JC
+
+S.D.
+
+30 59.1 12.2 45 59.1 9.5
+
+111 56.4 11.5 110 75.4 9.2
+
+72 59.7 13.5 76 75.0 7.9
+
+·Based on an empirically derived rating of job status developed by O. D. Duncan for the National Opinion Research Center (Reissetal.,1961).
+
+Vol. 33, No. 1-2
+
+Assortative Mating
+
+81
+
+for the adoptive parents may be because one ofthe criteria for adoptive parentsis that their combined agenotexceed 75 years ofage. These two descriptions are not typically relevant to the nonadoptive parents and may inpart explainthe lower age correlation for thenonadoptive parents when compared to birth or adoptive parents. The correlations for height for birth parents arelower than those usually reported, although not significantly so. Weight forthe adoptive and nonadoptive parents aresimilar to other reports on American couples (e.g., 0.14 as reported by Price and Vandenberg, 1980).
+
+ASSORTATIVE MATING FOR FAMILY
+BACKGROUND VARIABLES
+The parental correlations for birth, adoptive, and nonadoptive parents with respect tovariables pertaining to family background are presented in Table 3. These correlations arenot adjusted for age. When age was partialled out, these coefficients did not change by more than 0.04. From previous reports of assortment for social class, it is not surprising to find assortment with respect to grandfather's (i.e., the relationship between maternal and paternal grandfather of the adopted or nonadopted child) edu-
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+TABLE2
+ASSORTATIVE MATING COEFFICIENTS FOR AGE AND PHYSICAL TRAITS
+
+VARIABLE
+Age-
+Height Weight
+
+BIRTH PARENTS
+(n = 51-52)
+
+Unadjusted Adjusted for Correlation Parents'Ages
+
+083* ~.
+
+0.07
+
+-0.03
+
+0.03
+
+-0.19
+
+ADOPTIVE PARENTS
+(n = 109-113)
+Unadjusted Adjusted for Correlation Parents'Ages
+078* 77.
+0.14 0.14 0.14 0.12
+
+NONADOPTIVE PARENTS
+(n = 75-76)
+
+Unadjusted Adjusted for Correlation Parents'Ages
+
+0S& 77
+
+0.13
+
+0.16
+
+0.21 0.21
+
+"Assortative mating coefficients were significantly different among the three types ofparents (p < 0.05). V < 005.
+
+TABLE3
+ASSORTATIVE MATING COEFFICIENTS FOR FAMILY BACKGROUND CHARACTERISTICS
+
+Environmental Variable
+Grandfather's education Grandmother's education Midgrandparent education Grandfather's occupation6 Family size Size of home town
+
+Birth Parents (n = 47-49)
+0.41° 0.02 0.37" 0.32" -0.09 0.46"
+
+Adoptive Parents (n = 104-110)
+0.21° 0.21 0.24" 0.02 0.14 0.18
+
+Nonadoptive Parents
+(n = 67-73)
+0.38" 0.34" 0.45a
+0.45" -0.02
+0.10
+
+·p < 0.05. fc Assortative mating coefficients were significantly different (p < 0.05) among the three types of parents with respect to this variable. Sample sizes for grandfather's occupation were 43,85, and 55, respectively, for birth, adoptive, and nonadoptive parents.
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+82 Ho SocialBiology
+
+cation and occupation. There seems to be some assortment with respect to size of the home town for birth parents. Parental similarity for grandfather's occupation is significantly different among the three types of parents. The coefficient for adoptive grandfather is much lower than that for birth or nonadoptive grandfather. This difference cannot be due to differences in variance since variance estimates among the birth, adoptive, and nonadoptive parents are homogeneous with respect to grandfather's occupation.
+ASSORTATIVE MATING FOR
+OCCUPATIONAL STATUS, EDUCATION,
+AND SPECIFIC COGNITIVE ABILITIES
+Spouse similarity for the birth, adoptive, and nonadoptive parents with respect to occupational status, education, general cognitive ability, and four specific cognitive factors are presented in Table 4. With respect to their educational level, there is moderate assortment for these parents. Note that these correlations have been adjusted for parents' ages. This magnitude of assort-
+
+ment is comparable to other studies. For example, Johnson et al. (1976) reported an age-adjusted coefficient for education of 0.46 for Americans of European Ancestry. Price and Vandenberg (1980) reported 0.48 for a sample of American couples. The assortative mating coefficients for the five cognitive composite measures (adjusted for age and educational level) are in general low, although a few are significant. The higher degree of homogamy found for verbal ability compared to the other composites of specific cognitive abilities is consistent with previous reports. It has been speculated that verbal ability may be a more socially visible skill than the other cognitive abilities and that those skills that are most socially visible may be those for which there occurs the greatest degree of homogamy (Zonderman, 1974).
+ASSORTATIVE MATING FORPERSONALITY
+MEASURES
+In general, there was little indication of assortment with respect to the selfreported (age-adjusted) EASI personality measures and general mood (see Ta-
+
+TABLE4
+ASSORTATIVE MATING COEFFICIENTS FOR OCCUPATION, EDUCATION, AND COGNITIVE COMPOSITE MEASURES
+
+VARIABLE
+Occupation" Education General cognitive ability Verbal ability Spatial ability Perceptual speed Memory
+
+BIRTH
+(n = 48-51)
+
+Unadjusted Adjusted for Education Education
+
+-0.30 0.58*
+
+... ...
+
+0.46* 0.40* 0.19 0.11 0.12
+
+0.39* 0.39* 0.19 0.03 0.16
+
+ADOPTIVE
+(n = 106-113)
+Unadjusted Adjusted for Education Education
+0.04 . . . 0.47 . . .
+
+0.24" 0.30* 0.11 0.11 0.18
+
+0.15 0.36* 0.11 0.03 0.17
+
+NONADOPTIVE
+(n = 70-73)
+Unadjusted Adjusted for Education Education
+-0.02 0.466
+
+0.146 0.38* 0.10 0.28* 0.18
+
+0.06 0.25* 0.10 0.32* 0.20
+
+·Sample sizes for occupation were 25,83, and 70, respectively, for birth, adoptive, and nonadoptive parents. »p < 0.05.
+
+Vol. 33, No. 1-2
+
+Assortative Mating
+
+83
+
+ble 5). These results corroborate previousfindingsof low assortment with respect to personality measures (Price and Vandenberg, 1980). It is interesting to note, however, that the correlations based on an individual's report on her
+(his) spouse tend to be higher than correlations based on each spouse s selfreport. Moreover, these significant correlations are negative, giving some support to the notion that "opposites attract." Differential assortment exists among the three types of parents for measures of sociability and activity (based on spouse's report). This may
+
+reflect some divergence with respect to these personality traits in adoptive and nonadoptive couples who are married and likely to have cohabitated for more years than the younger unmarried birth parents.
+Ass0RTATIVE M A T I N G FOR SMOKING A N D
+A L C O H Q L CoNSUMFrION
+Table 6 presents the assortative mating coefficients (age adjusted) for smoking and alcohol consumption for the birth, adoptive, and nonadoptive parents. The results indicate moderate assortment for current smoking and alco-
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+TABLE5
+ASSORTATIVE MATING COEFFICIENTS FOR PERSONALITY TRAITS
+
+Variable
+Generalmood Based on self-report Sociability Activity Emotionality Based on spouse's report: Sociability Activity Emotionality
+
+Birth (n = 45-51)
+0.10
+-0.06 0.02 -0.06
+0.22 0.18 -0.21
+
+Adoptive (n = 106-114)
+0.04
+-0.04 -0.03 -0.06
+0.03 -0.256 -0.16
+
+Nonadoptive (n ~ 72-74)
+0.08
+0.11 -Q.17 -0.14
+-0.27" -0.306 -0.02
+
+"Assortative mating coefficients were significantly different (p < 0.05) among the three types of parents. bp < 0.05.
+
+TABLE6
+ASSORTATIVE MATING COEFFICIENTS FOR SMOKING AND ALCOHOL CONSUMPTION
+
+Variable
+Smoking (dichotomy) Current smoking" Eversmoked
+Alcohol consumption Beer WineLiquor
+
+Birth (n = 40-55)
+0.696 0.23
+0.30 -0.11
+0^7
+
+Adoptive (n = 98-113)
+0.32» 0.286
+0.28* 0.50* 054*
+
+Nonadoptive (n = 66-76)
+0.39* 0.21
+0.34b 0.56" 0.30"
+
+"Assortative mating coefficients were significantly different (p < 0.05) among the three types of parents. bp < 0.05.
+
+84 Ho SocialBiology
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+hoi consumption. The correlations for adoptive and nonadoptive parents are comparable to those reported for a sample of American couples examined by Price and Vandenberg (1980). Differential assortment among parental types for wine consumption may reflect convergence in adoptive and nonadoptive parents due to length of marriage. This explanation, however, does not hold for current smoking.
+CROSS-TRAIT ASSORTATIVE MATING
+Assortative mating across traits was examined for measures within as well as between cognition and personality domains. In general, there is not much cross-trait assortment. Several low correlations were significant, but the number of significant correlations was no more than that expected by chance.
+In addition, a canonical correlation analysis was performed on 13 cognitive tests to account for an underlying dimension of general cross-assortment for cognition by maximizing the relationship between father's set of cognitive measures and mother's set of cognitive measures. There were no significant canonical variates resulting from analyses performed separately on the three types of parents.
+DISCUSSION
+This study examines assortative mating for various physical and behavioral traits in a sample of birth, adoptive, and control parents. Evidence for homogamy with respect to grandfather's education and occupation indicate some assortment for social class. Significant mate correlations found for educational attainment and general cognitive ability, to some extent, also reflect assortment for social class. Since schools tend
+
+to select persons largely with respect to their intellectual abilities, the educational system may be most instrumental in assortative mating. Individuals are brought together in terms of aptitude and family background which influenced the choice of a school.
+The assortative mating coefficients for the personality variables (based on ratings by an individual's spouse) provided some support to Winch's theory (1955) of complementary needs in mate selection. That the estimates of homogamy varied with respect to the rating method (self-rating vs. spouse's rating) was not surprising, particularly for personality measures. Because most of the spouse correlations on personality in past studies are based on self-reports rather than on perhaps other more objective methods of rating, this may, in part, explain why homogamy was not usually found for personality measures.
+The evidence for assortative mating with respect to present smoking and alcohol consumption may be due in part to the tendency for spouses to participate in these activities at the same time.
+Besides examining assortative mating in the three types of parents because of its influence on genetic and environmental parameters, the parents in this study also provided an interesting data source to examine differences in assortative mating and assortative marriage. One might expect assortment among birth parents to be lower than that for adoptive or control parents if the pregnancies were resulting from casual relationships. With respect to the social worker's report, this generally seems not to be the case. Nevertheless, differences with respect to the basis of assortment may exist since the birth parents at the time of testing were not married; the adoptive parents, for medical reasons
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+Vol. 33, No. 1-2
+
+Assortative Mating
+
+85
+
+were not able toconceive; and the con- However, if the spouse correlation is
+
+trol parents have married and con- 0.25, the expected parent/child correla-
+
+ceived. These analyses indicated differ- tion is0.375. Naively doubling this cor-
+
+ential assortment among the birth, relation would result in a substantial
+
+adoptive, and control parents forsome overestimate of heritability. Thus,
+
+of the variables examined.
+
+knowledge of the spouse correlation is
+
+As previously discussed, assortative of considerable importance forestimatmating can lead to increases in homozy- ing genetic parameters. Path models
+
+gosity and population variance, as well that account for assortative mating have as influence the correlation between rel- been developed to estimate genetic and
+
+atives (Crow and Kimura, 1970). Since environmental paremeters in a fullmost of the variables examined in this adoption design (Fulker andDeFries,
+
+study are probably polygenic, effects of 1983). Moreover, these models allow assortative mating on homozygosity are for differential assortative mating
+
+likely to be slight, whereas effects on among the three types of parents.
+
+variance could be large. If assortative Estimates of genetic and environ-
+
+mating for ahighly heritable character is mental parameters based upon correla-
+
+about 0.25, the genetic variance will be tions between relatives often assume
+
+increased by one-eighth after one gener- equilibrium conditions. Although equi-
+
+ation and will eventually be increased by librium may be reached in a relatively
+
+one-third atequilibrium (Crow and Ki- few generations under some conditions
+
+mura, 1970).
+
+(Cavalli-Sforza andBodmer, 1971), it
+
+As discussed, cross-assortative mating can likewise lead to an increase in population covariance and can influence the cross-correlation between relatives. Although of considerable theoretical interest, little cross-trait assortative mating for personality and cognitionwas
+
+should beemphasized that models that assume equilibrium for assortative mating are oversimplified. Further research on the change or stability of estimates of assortative mating and genetic variance over several generations will be useful with regard to this issue.
+
+found in the present study, suggesting
+
+that itseffects will not be large at least for these variables.
+
+ACKNOWLEDGMENTS
+
+If the heritability of a character in a The author would like to thank John De-
+
+random mating population is 0.6, the single-parent/single-child correlation (in
+
+Fries and Robert Plomin for their helpful comments on this manuscript. This work was supported in part by grants from NICHD
+
+the absence ofcommon-family environ- (HD-10333), NSF(BNS78-26204), and
+
+mental influence) is expected to be 0.30. UCSB Academic Senate.
+
+REFERENCES
+
+CAVALLI-SFORZA, L. L., and W. G. Bodmer. 1971. The genetics of human populations. W. H. Freeman, San Francisco.
+CROW, J. F., and J. FELSENSTEIN. 1968. The ef-
+fects of assortative mating on the genetic composition of a population. Eugen. Quart. 15:85-97.
+
+CROW, J. F. and M. KIMURA. 1970. An intro-
+duction to population genetics theory. Harper and Row, New York.
+DEFRIES, J. C , and R. PLOMIN. 1978. Behav-
+ioral genetics. Ann. Rev. Psychol. 29: 473515. FISHER, R.A. 1918. The correlation between
+
+86 Ho Social Biology
+
+relatives on the supposition of Mendelian inheritance. Trans. Roy. Soc. Edinburgh 52: 399-433.
+FULKER, D. W., and J. C. DEFRIES. 1983. Ge-
+netic environmental transmission in the Colorado Adoption Project: Path Analysis. Brit. J. Math. Statist. Psychol. 36:175-188. Ho, H-Z. 1980. Assortative mating in the Colorado Adoption Project. Unpublished Ph.D. dissertation. University of Colorado, Boulder.
+JOHNSON, R. C., J. C. DEFRIES, J. R. WILSON,
+G. E. MCCLEARN, S. G. VANDENBERG,
+G. C. ASHTON, M. P. Mi, and M. N.
+RASHAD. 1976. Assortative marriage for specific cognitive abilities in two ethnic groups. Hum. Biol. 48:343-352.
+PLOMIN, R., J. C. DEFRIES, and M. K. ROB-
+ERTS. 1977 Assortative mating by unwed biological parents of adopted children. Science 196:449-450.
+PLOMIN, R., and J. C. DEFRIES. 1985. Origins
+
+of individual differences in infancy. The Colorado Adoption Project. Academic Press, New York.
+PRICE, R. A., and S. G. VANDENBERG. 1980.
+Spouse similarity in American and Swedish couples. Behav. Genet. 10:59-71.
+REISS, A. J., O. D. DUNCAN, P. K. HATT, and
+C. C. NORTH. 1961. Occupations and social status. Free Press, Glencoe, Illinois.
+SNEDECOR, G. W. and W. G. COCHRAN. 1967.
+Statistical methods. Iowa State University Press, Ames, Iowa. WINCH, R. F. 1955. The theory of complementary needs in mate selection: Final results on the test of general hypotheses. Amer. Sociol. Rev. 20:552-555. WRIGHT, S. 1921. Assortative mating based on somatic resemblance. Genetics 6:144-161. ZONDERMAN, A. B. 1974. Assortative mating with respect to cognitive abilities. Unpublished Master's thesis. University of Colorado, Boulder, Colorado.
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+

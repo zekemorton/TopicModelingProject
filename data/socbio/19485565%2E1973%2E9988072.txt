@@ -1,0 +1,266 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Structural statistics: Models relating demography and social structure with applications to Apache and Hopi
+Paul A. Ballonoff
+To cite this article: Paul A. Ballonoff (1973) Structural statistics: Models relating demography and social structure with applications to Apache and Hopi, Social Biology, 20:4, 421-426, DOI: 10.1080/19485565.1973.9988072 To link to this article: http://dx.doi.org/10.1080/19485565.1973.9988072
+Published online: 23 Aug 2010.
+Submit your article to this journal
+Article views: 2
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:34
+
+Structural Statistics: Models Relating Demography and Social Structure with Applications to Apache and Hopi
+
+*. ·
+
+"ssaa:aa
+3 IS 61
+
+i
+
+\
+J
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+Paul A. Ballonoff
+Center for^ Demographic and Population Genetics Health Science Center University of Texas Houston, Texas
+
+A major unsolved problem in social theory is the relationship of social structures, such as marriage and kinship rules or patterns, to social statistics such as average family size, proportion of women in reproduction, or total group size of a particular system. I present a model which relates these previously separately conceived phenomena in a unified formulation.
+I presume a population divided into L separate exogamous (i.e., out-marrying) units whose members are recruited by descent. Generations are discrete, and each generation must maintain all L units. Each unit must produce at least one male and one female per generation. These assumptions correspond to the obvious meaning in breeding experiments and to many empirical rules in human groups.
+How big must each exogamous unit be per generation to insure survival of all L units with a specifiable probability? Let m be the proportion of males and / be the proportion of females in an offspring population, so that m plus / equals 1. Let n be the number of surviving offspring per unit per generation, and let P be the probability of survival. An exogamous unit will not
+
+meet the assumed conditions if all offspring in the unit are of the same sex, so that the total probability of survival of a particular unit is:
+
+P = 1 -- mn -- /".
+
+(1)
+
+But since there are L such units, the probability of survival of the entire system is
+
+P= (i--
+
+(2)
+
+I will not here study the effect of statistical variations of n within a unit, so Equation (2) expresses the probability of survival of this entire "social system". For development of similar models with application in reliability engineering, see ChengShi-Mei, 1964.
+Equation (2) simplifies to Equation (3) if I assume the sex ratio is m = / = y2:
+
+P=(l-(l/2)-i)*. (3)
+
+From Equation (3), if n equals 1 the probability of survival is zero, from the fact of two sexes. As » increases for fixed L, P also increases. As Lincreases for fixed n, P decreases. Thus, one means of compensating for unreliability of units is for units
+
+421
+
+422
+
+Ballonoff
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+to increase their offspring group size, and hence the total population size.
+Using Equation (3), I estimate the system survival probability of Canyon Day Flat White Mountain Western Apache (reported by Goodwin, 1942, especially Appendix H) as P approaches 0.99 per generation. This follows from an estimate of the number of offspring per clan (reported as number of children per clan in the data source) as n equals 10.5; and from the estimate L equals 11 active resident clans from the same source. As Canyon Day Flat was not quite 100% of the White Mountain Western Apache at the time of the survey, this estimate of P may be small. This or any higher estimate of P is in agreement with the fact that the reference records no disappearances of clans within the reported generation. Unaccounted sources of error are effects of childhood mortality and of out-migration, both of which tend to lower the effective population size; and the effects of about a 2Q°f0exogamy rate to non-White Mountain Western Apache groups. This tends to raise the effective population size, so the two effects compensate in direction.
+Now consider the logic of marriage rules of the Western Apache. Using a published notation (Basso, 1970) I symbolize a clan with a small circle "o", a "clan section" of one or more clans as several small circles in a larger circle, a "close relation" between clan sections (hence of clans in the section) as a solid line between large circles, and a "distant relation" between clan sections as a dashed line. A dotted line between two clans (clan sections) here indicates "unrelated." Figure 1 shows the "minimal structure" which depicts the following condition. Each clan has at least one preferred partner clan in the figure1;
+1 There is an elaborated discussion of the concept "minimal structure in Ballonoff, 1973. However, if each clan has only one partner, surely this is minimal!
+
+FIG. 1.--Minimal system for Western Apache preferred marriage rule. Large circles show clan sections; small circles show clans; solid lines show close relationship; dashed lines show distant relationship (possible but not preferred partners); dotted lines show unrelated (preferred partner) clan sections. See text for further explanations.
+marriage to members of one's own section is strictly prohibited; marriage to closely related clans is strictly prohibited; marriage to distant related clans is permitted but not preferred. Only unrelated clans contain preferred partners.
+Since each clan section conceptually needs only one clan, the figure would be accurate with only one small clan circle within each larger section represented. I have drawn more clans only for diagrammatic purposes. Notice also that the preference pattern for only one section (one clan) has been drawn. If the figure is completed with dashed and dotted lines for all sections, then each clan section has one and only one available partner section.
+Calling s the minimal structure number which uniquely describes the least number of independent reproducing units, Figure 1 illustrates that for the White Mountain Western Apache 5 equals 6 clans, divided into six sections, one clan to each section. This is the correct number, since removal of any one clan causes at least one additional clan to lose its available partners, leading to further structural collapse of the system, whereas addition of one or more clans simply adds structural redundancy. Similar properties have been noted in many other systems (see White, 1963, or Ballonoff, 1973).
+
+Vol. 20, No. 4
+
+Structural Statistics
+
+423
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+FIG. 2.--Illustration (not to scale) of Equation (6) and its relationship to particular empirical and theoretical statistics discussed in the text, for 5 = 6 and s = 7.
+
+I relate s to L as shown in Figure 2, by the following reasoning. Assume that there are JV distinct biological families, and that the probability of a birth occurring in a particular family (given that a birth occurs) is l/N. Let F be the number of females, and let No be the number of families which do not reproduce females. Then the feasible set of (N,F) pairs for a given value of 5 is bounded by Equation (4). This feasible set would be represented in Figure 2 as above and to the right of the curve marked "s = 6." Notice that the axes of this figure are numbers of females and of basic families and that the graphs shown plot sets of values of Equation (6) when j takes specific values. Asymptotic
+
+behavior of the curve reflects the concept of s as a structural minimum:
+
+s^N-N0
+
+(4)
+
+The curve results from noting that the
+
+assumption on birth probability suggests
+
+that No is given by Equation (5), and also
+
+from noting that the lower bound of the
+
+feasible region is given by placing a strict
+
+equality by Equation (4), substituting for
+
+No, and solving for F to get Equation (6):
+
+nJ
+log F--1
+C« L N J
+
+(5) (6)
+
+424
+
+Ballonoff
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+The reader may notice certain unusual because it appears to work. The proposed
+
+features of this argument. Most prominent "integration" is not really legitimate:
+
+is that I have not looked at"variances." In
+
+effect, I amtreating the values obtained analytically as if they were the mean value
+
+= \--rW-N0(N-N0) (7)
+
+of some distribution. This can be corrected by future theoreticians should this basic
+
+=C
+
+N2 (8)
+
+model prove useful. Similarly, the empirical reference of particular terms is
+
+\N0(N-N0)-s\
+
+vague and difficult. In the above, I refer to
+
+"distinct biological families." An equiv-
+
+alent phrase might be "equivalent repro-
+
+ducing females," where the "typical" fe- In Figure 2, a line ofslope --r is shown
+
+male is assumed with zero variance. The tangent to the curve "s = 7." Since this
+
+difficulty in interpretation is significant in lies above and to the right of the curve
+
+that demographic concepts required by for "s = 6," the empirically observed Can-
+
+structural arguments have not yet been yon Day Flat statistics lie comfortably
+
+well formulated.
+
+inside the feasible set denned by Equation
+
+I am now interested in points ofequilib- (4). Note that the curve "s = 7" predicts
+
+rium which are those with one "equivalent the observed data. The fact that the data
+
+reproducing female" perone "basic biological reproduction unit," in this case households. One way of obtaining this is to look at points on the plus 45 degree
+
+are consistent with a larger than minimal structure within thefeasible set is consistent with the high reliability estimate P approaches 0.99.
+
+line through theorigin. Where this line It is also notable that the values L =
+
+intersects a curve in the family of Equa- N -- N0 = ll for N = 32 are given by a
+
+tion (6), we discover a minimal equilib- table of Stirling Numbers of the Second
+
+rium for a particular value ofs. However, Sort (seeAndrew, 1965, or Ballonoff,
+
+another approach also appears to work. 1974), for 32 distinguishable elements
+
+Let --r be the slope of a line drawn from divided into L indistinguishable classes,
+
+a value ofN with a negative slope tangent at least one element toa class, where L =
+
+to one of this family of curves. In the Western Apache data, N = 32 households are thebasic biological reproducers and N -- No = L= 11 is given when r approaches 0.42 from the empirical Equation (9) below. Equation (9) may be related
+
+11 classes produces the greatest number of possible placements of the 32 elements (the greatest amount of variability) for any l ^ Z . ^ 3 2 . This relationship is useful in constructing variants of the model. Consider a population restricted to values on a single curve for fixed values of s. By
+
+mnemonically to Equations (4) through the above reasoning, there are associated
+
+(6) by noting that rearrangement ofEqua- values of N and L which maximize vari-
+
+tion (9) gives Equation (7) which is in ability of placement of N biological re-
+
+the same form as the result of "integrat- producing units into L exogamous units.
+
+ing" Equation (8)with the "constant of What happens if the empirical number E
+
+integration" equal to NB(N-N0). How- of reproducing units exceeds the "opti-
+
+ever, note that, infact, Equation (9) was mum" N?One possibility is a split of the
+
+found adhoc and is presented here only population into two separate populations,
+
+Vol. 20, No. 4
+
+Structural Statistics
+
+425
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+providing 2N^E. A different "split" model may be found if the empirically observed number of exogamous units Le is such that Le^L, but allows the tangent line to "slip" along the "j-curve," while remaining tangent. In both split models, the empirical slopes before a split are flatter than the "optimum" slope which has r approximately 0.42.
+Exceeding the "optimal" minimal value may lead to population growth (Ballonoff, in press). The cost of raising survival probabilities above about 0.85 is increased family size, which with a fixed number of families implies a larger population, which means that more than the equilibrium minimum number of families are possible, etc. This suggests that seeking equilibrium may itself cause growth.
+An example of approximately constant empirical L is provided by the 1903 split of Oraibi Hopi people into two separate groups (Titiev, 1944). Before the split, there were nine groups at the highest level of organization (phratry) which would have been Stirling optimum for N =22 to 24 clans at the next lower level. This in turn would have been Stirling optimum L for N = 79 to 82 households, but empirically there were 29 clans, and approximately 130 households. After the split, each half had almost the same number of phratries (a fact which surprised the reporting ethnographer!). One group had nine phratries, which is Stirling optimum for N = 23 clans which was close to Stirling optimum L for its approximately 75 households. The other group had eight phratries, which was Stirling optimum L for its JV= 19 clans, which was Stirling optimum L for N = approximately 60 households. The pair (N = 19, L= 8) is approximated by a line tangent to the curve "s = 4" with slope r = J4; while the pair (N -- 23, L = 9) is similarly tangent on the curve "5 = 5." A model
+
+assuming either s = 4 or s = 5 but allowing temporary fluctuations in empirical populations gives a good approximation to these data. The model appears to work well (that is, fit the reported numerical data) in spite of the fact that the ethnographer does not rationalize the factionalizing as "caused" by "population."
+Please note that survival probability calculations for this case become complicated. Also, I have not developed a variety of possible variant models. For example, a system may "home" on a particular equilibrium distribution, such as F = N for given s without any split mechanism; but such a model would have an unstable sex ratio, as in cycles of male warfare followed by female infanticide.
+I conclude with an analogy to chemical theory and suggest construction of a "table of the social elements," of which a partial example is presented below. This table can be constructed directly from the theory of minimal structures and a table of Stirling Numbers of the Second Sort.
+
+TABLE 1
+TABLE OP THE SOCIAI, ELEMENTS, SHOWING THEORETICAL POPULATION SIZES FOR SELECTED
+STRUCTURAL NUMBERS REFERRED TO IN THE TEXT
+
+J=
+Minimal Structural
+No.
+2 3 4
+6
+
+L= Typical Optimal No. of Exogamous Units
+8 13 18
+27
+
+N= Typical Empirical No. of Biological Units
+3
+4.5 7 11
+
+N/L = Average No. of Biological Units/ Exogamous
+Units
+2.6 2.9 2.6 2.4
+
+The Hopi and Apache examples show that a final "table of social elements" will be considerably more complicated.
+ACKNOWLEDGMENTS
+I thank Eugene Giles, Department of Anthropology, University of Illinois, for his assistance in preparing the manuscript.
+
+426
+
+Ballonoff
+
+Social Biology
+
+REFERENCES
+
+ANDREW, A. M. 1965. Table of Stirling Numbers of the Second Kind. Technical Report No. 6, Electrical Engineering Research Laboratory, University of Illinois, Urbana.
+BALLONOFF, P. A. 1974. Stability properties of marriage systems. In Proceedings IX I.U.A.E.S. (in press). . Statistical theory of marriage structures. In P. A. Ballonoff (ed.) Mathematical models of social and cognitive structures. University of Illinois Press, Urbana (in press).
+BASSO, K. H. 1970. The Cibecue Apache. Holt, Rinehart, and Winston, New York.
+
+CHENG-SHI-MEI. 1964. Life span and repair in complex systems. Technical Report No. 2, Electrical Engineering Research Laboratory, University of Illinois, Urbana.
+GOODWIN, G. 1942. The social organization of the Western Apache. University of Chicago Press, Chicago.
+TITIEV, M. 1944. Old Oraibi: A study of the Hopi Indians of the third mesa. Papers of the Peabody Museum of American Archaeology and Ethnology, XXII(1).
+WHITE, H. 1963. Anatomy of kinship. Prentice Hall, Englewood Cliffs, N.J.
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+

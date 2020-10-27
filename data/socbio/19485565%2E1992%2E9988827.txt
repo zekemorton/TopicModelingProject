@@ -1,0 +1,229 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Assortative versus selective mating: Is the distinction worthwhile?
+Hamish G. Spencer
+To cite this article: Hamish G. Spencer (1992) Assortative versus selective mating: Is the distinction worthwhile?, Social Biology, 39:3-4, 310-315, DOI: 10.1080/19485565.1992.9988827 To link to this article: http://dx.doi.org/10.1080/19485565.1992.9988827
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 3
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:45
+
+Brief Reports
+Assortative Versus Selective Mating: Is the Distinction Worthwhile?
+
+LL
+Mi
+nvmm*wmm
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+Hamish G. Spencer
+Museum of Comparative Zoology, Harvard University, Cambridge, MA 02138, and Department of Zoology, University of Otago, Dunedin, New Zealand
+
+ABSTRACT: The study examines the distinction between assortative and selective mating made by Lewontin, Kirk, and Crow in 1968 and finds it unproductive. Not only has the difference been ignored on many occasions even as it was invoked, but maintaining it obscures several useful properties of both nonrandom mating schemes and some formally equivalent systems such as fertility selection. The elucidation of these similarities could have accelerated the work of population biologists.
+
+Some twenty-four years ago in this journal (Vol. 15, pp. 141-143, 1968) Richard Lewontin, Dudley Kirk, and James Crow published a note on the definitions of various sorts of nonrandom mating. The note comprised a summary of a committee report to the Fourth Princeton Conference on Population Genetics and Demography. Lewontin et al.'s (1968) taxonomy has been extremely influential, and most biologists today follow it, distinguishing selective mating, assortative mating, and inbreeding. Inbreeding occurs in a population when the relatedness of mates is different from what it would be if they had been chosen at random. It does not lead to a change in gene frequency and is not considered further in this note. In contrast to inbreeding, both assortative mating and selective mating are character specific. They can differ in intensity and direction for different characters in the same population. They are distinguished from each other in Lewontin et al.'s schema in that assortative mating does not
+
+change gene frequency, whereas selective mating does. In other words, with assortative mating all genotypes make the same average genetic contribution to the next generation.
+In this note I shall focus on the distinction Lewontin et al. made between selective and assortative mating. I shall show that their definitions are often ignored (even when the definitions are specifically cited). Moreover, I shall argue, if the distinction is not maintained, parallels between nonrandom mating and other population genetic phenomena become evident. Such similarities have been very productive in population genetic theory. Bodmer (1965) was able to show that his multiplicative fertility selection scheme was formally equivalent to Owen's (1963) two-sex viability system, thereby showing the dynamics were identical. More recently, Pearce and Spencer (1992) showed that certain forms of genetic imprinting lead to identical equations to different systems with standard Mendelian inheritance. In the case of
+
+310
+
+Vol. 39, No. 3-4
+
+Brief Reports
+
+311
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+selective mating, noting the parallels mating is a rather special case of non-
+
+would have permitted the anticipation random mating.
+
+of one famous result by some twenty- Frequency-dependency may also be
+
+one years. Throughout this note I will seen when negative assortative mating
+
+make use of single-locus Mendelian is considered. According to Lewontin
+
+models so as not to obscure the argu- et al.'s (1968) criteria, we want this to
+
+ment in needless algebra, but it should cover situations in which individuals
+
+be noted that none of the points I raise are more likely to mate with individu-
+
+depend on this feature of my examples. als of different genotypes, but where
+
+One well-known problem with the gene frequency does not change.
+
+Lewontin et al.'s definition of assorta- This requirement, however, is often
+
+tive mating is its narrow applicability. impossible. Consider, for example, the
+
+Consider as a simple example, the one- above model, with complete domi-
+
+locus two-allele model of assortative nance added (see, e.g., Crow and
+
+mating without dominance, where Kimura, 1970, p. 144). Let allele A be
+
+each genotype has a certain fraction completely dominant over allele a so
+
+that mate with their own genotype, the that we have only two phenotypes.
+
+rest mating at random (see, e.g., Crow Suppose further that there is a fraction
+
+and Kimura, 1970, p. 144). In most r of the population that mates only with
+
+published work, this fraction is the the other phenotype, the rest mating at
+
+same for all genotypes, but this restric- random. In order that the gene fre-
+
+tion is not necessary. What is critical, quency not change, the negative as-
+
+however, is that the assorting individ- sorters must produce progeny with the
+
+uals (i.e., those who mate only with same gene frequency as the whole pop-
+
+their own genotypes) produce the same ulation. The only matings that occur
+
+average number of offspring as those here, however, are those between the
+
+mating at random. Thus, irrespective homozygous recessives, aa, and the
+
+of their frequency, the assorters have AA and Aa individuals. No change in
+
+no trouble finding a mate, or if they do, the frequencies of A and a thus re-
+
+this problem doesn't affect the number quires that the frequencies of these two
+
+of offspring they produce. In other types of matings depend on the allele
+
+words, the probability of finding a suit- frequencies.
+
+able mate remains constant, or, alternatively, if it is frequency-dependent
+
+Indeed,
+
+then there is compensating frequencydependent fertility selection. This be-
+
+= 0.5[AAxaa] 0.25[Aaxaa] and = 0.5[AAxaa] 0.75[Aaxaa],
+
+havior is in contrast to the random mat-
+
+ers, where the frequency of mating in which
+
+types is directly proportional to the frequency of the genotypes involved. The assumption that assorting individuals have no trouble finding mates is quite
+
+p is the frequency of the A allele, q is the frequency of the a allele (= 1-p), [AA x aa] is the frequency of the mat-
+ings between AA and aa individuals
+
+restrictive and probably not met very
+
+among the negative assorters and
+
+often in practice. Hence, assortative. [/laxaa] is the corresponding frequency for Aa and aa individuals.
+
+312
+
+Brief Reports
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+These equations give
+[Aa x aa] = 2(q-p) = 2(l-2p) and [AA Xaa] = 3p-q = 4p-l,
+which for p > 0.5 or p < 0.25 is impossible, not just frequency dependent. This argument can be modified to remove the assumptions of dominance and equal r for all genotypes, but the conclusion is the same. For negative assortative mating, the frequencies of the matings depend on the gene frequencies, not just the genotype or phenotype frequencies. For monogamous species, the restrictions on mating-type frequencies may be impossible for all allele frequencies.
+It can be noted that the problems arising from Lewontin et al.'s definition of assortative mating are a general feature of problems of filling cells of a contingency table where conditions are imposed on the marginals. Often these problems are only soluble if certain symmetries exist; otherwise, the conditions lead to contradictions. Avoidance of incest in a finite population, for example, leads to an increased probability that an individual will not find a mate (MacCluer, 1974).
+A consequence of these problems with the Lewontin et al. definition is that many supposed models of negative assortative mating are in fact really selective mating because they result in a change in gene frequency. For instance, in Crow and Kimura's (1970) standard population genetics text, both the one-locus two-allele examples of disassortative mating (p. 168) directly contradict the definition (p. 142). Indeed, Crow and Kimura seem to be aware of the problem, noting (p. 166) that disassortative mating is "typically accompanied by gene frequency
+
+changes." The first of Crow and Kimura's examples corresponds to r = 1 of the above example and converges to a stable p =0.5 polymorphism, whatever the initial p value. The second does away with dominance, puts r = 1 and assumes permitted matings occur at random among the negative assorters (i.e., the whole population). With initial values of P (the frequency of AA's) of 0.7, H (the frequency of Aa's) of 0.2 and R (the frequency of aa's) of 0.1, p changes from 0.8 to 0.6304 in the first generation.
+The distinction between selective and assortative mating is, I believe, no more important--indeed probably less important--than the demonstration that there are viability selection schemes that result in genotype frequencies in apparent Hardy-Weinberg proportions, as if no selection were acting (Lewontin and Cockerham, 1959). We could use a special name (say, "Hardy-Weinberg filtering") for this last type of selection, but what purpose would it serve? Indeed, treating this kind of selection as a distinct phenomenon could obscure the obvious parallels with other standard selection schemes.
+The only situations which conform to the definition of negative assortative mating appear to be somewhat unnatural ones in which there are two rounds of mating. In the first round, pairs form at random and a proportion of couples consisting of unlike individuals mate, the rest going on to the second round. In the second round, pairing again occurs at random, among the so-far unmated individuals, and mating then occurs within these pairs. Since all individuals contribute equally to the offsprings' gene pool, allele frequencies
+
+Vol. 39, No. 3-4
+
+Brief Reports
+
+313
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+will not change. A similar scheme can also be described for positive assortative mating. Here again, however, we require the additional assumption that there is no cost to rejecting a mate. It is also doubtful if such a situation is of real biological interest.
+I would like to suggest, therefore, that the distinction between assortative mating and selective mating is not particularly useful. The former are just special (and often artificial) cases of the latter, and I will use the term selective mating for both henceforth. If the most serious consequences of the distinction between assortative and selective mating were that it overemphasized special cases and was inconsistently applied, not much harm would result. I would merely be suggesting a semantic change. Unfortunately, as I have suggested could occur with the use of the term "Hardy-Weinberg filtering," the distinction hides important properties of selective mating.
+One parallel that has been overlooked historically is that between selective mating and fertility selection (but see Karlin, 1978). In fact, Crow and Kimura's model of positive assortative mating with selection (p. 164) is formally equivalent to fertility selection with random mating. The probability of a mating between two individuals is a function of their phenotypes (or genotypes) and thus is identical in its effect to fertility selection. Instances in which gene frequency does not change (what Lewontin et al. call assortative mating) are merely special cases analogous to those in viability selection, e.g., when the genotypic viabilities are inversely proportional to the frequencies. The first case of assortative mating (in the sense of Lewontin
+
+et al.) described above is better understood as frequency-dependent fertility selection, where the frequencies are genotype frequencies (from which the allele frequencies can be derived). The second case of supposed negative assortative mating is also equivalent to frequency-dependent fertility selection, but here the frequencies involved in determining the selection pressures are those of the alleles.
+Observing the similarities between selective mating and fertility selection implies that several properties of fertility selection will also apply to this sort of nonrandom mating and viceversa. For example, Fisher's famous result that under viability selection mean fitness increases does not hold: Kempthorne (1957) noted this for nonrandom mating, but that the same property also applied to fertility selection was not realized for another 21 years (Pollak, 1978). Indeed, it is not difficult to construct examples of selective mating in which the mean viability, w, of the population decreases. A numerical instance of one locus with two alleles is given by the matrices in Table 1, Example 1. When the initial (preselection) frequencies of the AA, Aa and aa zygotes are 0.3, 0.3 and 0.4 respectively, vv decreases monotonically from 0.64 to a polymorphic equilibrium at 0.5030. (The i/th element of the mating-probability matrix gives the relative probability of a mating between individuals with genotypes i and;.) Table 1, Example 2, gives a similar result with heterozygote advantage. With initial genotype frequencies of 0.2, 0.5 and 0.3, vv decreases monotonically from 0.85 to 0.7655. The change in w need not be monotonic, however. The corresponding matrices in Example 3
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+314
+
+Brief Reports
+
+Social Biology
+
+TABLE 1
+VIABILITY MATRIX AND MATING PROBABILITY MATRIX: THREE EXAMPLES
+
+Examples
+1
+2
+3
+
+Viability Matrix
+Aa A 1.0 0.6 a 0.6 0.4
+Aa A 0.7 1.0 a 1.0 0.7
+Aa A 1.0 0.8 a 0.8 1.0
+
+Mating Probability Matrix
+AA Aa aa AA 0.2 0.2 0.2 Aa 0.2 0.6 0.8 aa 0.2 0.8 1.0
+AA Aa aa AA 0.2 0.2 0.2 Aa 0.2 0.6 0.8 aa 0.2 0.8 1.0
+AA Aa aa AA 0.2 0.5 1.0 Aa 0.5 0.5 0.5 aa 1.0 0.5 0.2
+
+of Table 1 with the same initial genotype frequencies as Example 1 result in oscillations of w to a polymorphic equilibrium.
+A further advantage in treating selective mating similarly to fertility selection is the observation that only symmetric mating-probability matrices need be considered. This simplicity arises because of fertility selection's sex-symmetry property (Feldman et al., 1983), and remains true when there is viability selection as well. In other words a system with equal male and female mating preferences will exhibit the same dynamics and structure as one with unequal preferences, but the analysis of the former system is computationally simpler.
+In summary then, I suggest that the distinction between assortative and se-
+
+lective mating made by Lewontin, Kirk and Crow in 1968 is unproductive. Not only has the difference been ignored on many occasions even as it was invoked, but maintaining it obscures several useful properties of both nonrandom mating schemes and some formally equivalent systems such as fertility selection. The elucidation of these similarities could have accelerated population biologists' work significantly.
+ACKNOWLEDGMENTS
+I would like to thank Joe Felsenstein, Kurt Fristrup, Dick Lewontin, Lisa Lloyd, Diane Paul, and Rosemary Redfield for their comments. This work was supported in part by National Institutes of Health Grant No. GM-21179 to R. C. Lewontin.
+
+REFERENCES
+
+BODMER, W. F. 1965. Differential fertility in population genetics models. Genetics 51: 411-424.
+CROW, J. F., and M. KIMURA. 1970. An introduc-
+tion to theoretical population genetics. Burgess, Minneapolis.
+
+FELDMAN, M. W., F. B. CHRISTIANSEN, and U.
+LIBERMAN. 1983. On some models of fertility selection. Genetics 105:1003-1010.
+KARLIN, S. 1978. Comparisons of positive assortative mating and sexual selection models. Theor. Pop. Biol. 14:281-312.
+
+Vol. 39, No. 3-4
+
+Brief Reports
+
+315
+
+KEMPTHORNE, O. 1957. An introduction to genetic statistics. Wiley, New York.
+LEWONTIN, R. C., and C. C. COCKERHAM. 1959.
+The goodness-of-fit test for detecting natural selection in random mating populations.Evolution 13:561-564.
+LEWONTIN, R. C., D. KIRK, and J. CROW. 1968.
+Selective mating, assortative mating, and inbreeding: Definitions andimplications. E.Q. 15:141-143.
+MACCLUER, J. W. 1974. Avoidance of incest: Genetic and demographic consequences,
+
+197-220. In B. Dyke and J. W. MacCluer (eds.), Computer Simulation in Human Population Studies. Academic Press, New York.
+OWEN, A. R. G. 1953.A genetical system admitting two distinct stable equilibria under natural selection. Heredity 7:97-102.
+PEARCE, G. P., and H. G. SPENCER. 1992. Popu-
+lation genetic models of genomic imprinting. Genetics 130:899-907. POLLAK, E. 1978. With selection for fecundity the mean fitness does not necessarily increase. Genetics 90:383-389.
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+

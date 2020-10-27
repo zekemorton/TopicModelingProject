@@ -1,0 +1,457 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+A genetic reform of the civil law computations of the degrees of relationship in families
+Ricardo CruzCoke
+To cite this article: Ricardo CruzCoke (1977) A genetic reform of the civil law computations of the degrees of relationship in families, Social Biology, 24:2, 93-99, DOI: 10.1080/19485565.1977.9988270 To link to this article: http://dx.doi.org/10.1080/19485565.1977.9988270
+Published online: 23 Aug 2010.
+Submit your article to this journal
+Article views: 2
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:36
+
+A Genetic Reform of the Civil Law Computations of the Degrees of Relationship in Families
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Ricardo Cruz-Coke
+Genetic Section Hospital J. J. Aguirre University of Chile Santiago, Chile
+ABSTRACT: Geneticists have been able to demonstrate differences in the estimation of degrees of relationship in families as determined by genetic theory and by civil law computations which are based on the ancient concept of "blood lines." Unfortunately, no systematic effort to clarify and resolve these discrepancies has yet been made. This work suggests a method for estimating the genetic relationship of individuals according to a given genetic family diagram and describes the differences between this system and that of civil law in most countries.
+
+Man has long realized the existence of crepancies has yet been made. This work
+
+natural relationships between members of suggests a method for estimating the ge-
+
+the nuclear family, the basic unit of soci- netic relationship of individuals according
+
+ety. During ancient times, the nature of to a given genetic family diagram and de-
+
+these links was attributed to "blood," and scribes the differences between this system the concept of ancestral blood lines was and that of civil law.1
+
+firmly established at the dawn of civiliza-
+
+tion. This idea supported the blending theory of inheritance for thousands of years until it was disproved by Mendel and declared null hypothesis by the classical demonstration given by Fisher (1918, 1930). Nevertheless, social and legal concepts about marriage and inheritance continue today to be based on an estimate of degrees of relationship between family members derived from the old Roman concept of "blood lines."
+In studying inbreeding and consanguinity, geneticists have been able to demonstrate differences in the estimation of degrees of relationship in family as determined by genetic theory (Cavalli-Sforza
+
+CIVIL LAW COMPUTATIONS BASED ON ROMAN LAW
+Roman law defined two types of relatives--legal and natural. Legal or "affinal" relatives were those related by marriage. Natural or "consanguineous" relatives were those related by "blood," as the term implies, either through a direct line of descent or descent from a common ancestor. Lineal consanguinity followed the straight line of descent, one person from another. Collateral consanguinity followed branches off the main line, involving persons not descended from one another but with a common ancestor.
+
+and Bodmer, 1971) and by civil law computations. Unfortunately, no systematic effort to clarify and resolve these dis-
+
+1 The complexity of the problem increases when the rules of canon law are analyzed. To avoid entangling theological and scientific considerations, I shall omit discussion of the canon law computation.
+
+93
+
+94
+
+Cruz-Coke
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Roman lawyers were unable to define spring (rP0) in a random mating popula-
+
+clearly the relationships of relatives within tion was given by the equation
+
+the same generation, such as sibs, twins,
+
+cousins, and half-sibs. Moreover, some
+
+collateral relatives, such as uncles and where p and q stand for the gene frequen-
+
+great-uncles, were located incorrectly on cies of both alíeles. Table 1 shows the
+
+the collateral lines.
+
+distribution of genetic correlations be-
+
+The concept of consanguinity and the tween family members as given by Fisher
+
+Roman legal computation was simply (1918).
+
+translated and adopted without change in Wright (1922) defined two basic
+
+England in the seventeenth century (Coke, coefficients to correlate family members.
+
+1628) as is shown in Figure 1. With some The "coefficient of relationship," rXY, was
+
+corrections of gross errors, the Roman sys- defined as the correlation between genetic
+
+tem was adapted for use in the civil law of values of two individuals, X and F. The
+
+most nations by the nineteenth century "inbreeding coefficient,"/^ was defined as
+
+and was the computation incorporated in the correlation between the genetic values
+
+the Napoleonic Code. Laws concerning of gametes of both individuals X and Y
+
+marriage and inheritance followed. For that unite to produce the individual Z. As
+
+example, in the United States today, there the correlation coefficient is the ratio of the
+
+are some fifty laws proscribing marriages covariance to the geometric mean of two
+
+between different kinds of related individ- variances, there is a simple mathematical
+
+uals (Farrow and Juberg, 1969).
+
+relationship between rXY and/z (Crow and
+
+Roughly speaking, the most universally accepted diagram of the system on which most civil laws are based today is that shown in Webster (1966). Figure 2 compares the Roman, civil law, and genetic systems. The Roman and civil law computation each respect the principle that one degree equals one generation.
+
+Kimura, 1970). Consequently, it is possible to relate family members genetically in a pedigree to compute/, assuming that a gene has an equal chance (one-half) of having come from either parent to the propositus. In every link between two generations, the general rule is that the contribution of each path is (Vz)n,where n is the number of individuals between both
+
+THE GENETIC COMPUTATION
+
+relatives through a common ancestor.
+
+A genetic computation of the degrees of relationship in families originated in the
+
+Every chain of n generations contributes (VzT+1 to /.
+
+work of Fisher (1918) and Wright (1922). The work of Fisher and Wright has
+
+Using the correlation method, both found- been completed by the contributions of
+
+ers of the theory of population genetics Haldane and Moshinsky (1939), Cotter-
+
+were able to apply Mendelian theory to man (1940), Malécot (1948), and Haldane
+
+estimate the natural relationships between and Jayakar (1962), using probability
+
+family members.
+
+theory. They introduced the idea that the
+
+Fisher demonstrated that the genotypic two homologous genes in an individual
+
+correlation between family members was can be identical by nature, or identical by
+
+solely determined by biological relation- descent. Considering this second possibil-
+
+ships between individuals, being inde- ity, Malécot (1948) defined the "coefficient
+
+pendent of the gene frequencies of the
+
+population. The product-moment correlation coefficient between parents and off-
+
+FIG. 1.--Degrees of relationship in Sir Edward Coke, 1628, showing how English civil law computations were taken from the Roman system.
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+fíat, A*v* ''···/> /. - -
+
+^*^.
+
+v Atta«!».' , 5 * Alto-ia. (/íf (·mlfÜntlhtfitiffT- - yfotrr&ltOntM/fifë'ftT-.
+írta«tw.<f.
+nugtm
+
+lT Stfhil
+
+*i 2
+VfínuvfWf&'r
+Pater. 1 Mater, Fattier,
+
+iw*»a«
+
+$»Ä«w 5
+A tfXm.0trM?ñ?, "rt jií i» BrfÎMh
+95
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+ROMAN CONSANGUINITY
+
+Lineal Abavus
+
+Collateral
+
+- 4 ·-
+
+CIVIL LAW
+
+GENETIC
+
+Proavus ( ï
+Avus (2
+Pater (1
+Propositus
+Filius (5
+Nepos linealis
+Pronepos (3 linealis Abnepus A linealis ^
+
+-3 -
+
+1 Patrus Magnus
+
+-2
+
+o
+
+E -1
+C
+
+Horum
+
+\ Great Ouncle
+QUncle
+3 QCousin
+
+\\
+QChild C>Nephew
+>
+O ·Grand childCl
+
+<$'^' ¡Great ^ ^ ® Chúñele
+
+®T ¿Klncle
+
+U
+
+Zfp Ö.Sib
+
+( 3 Cousin
+
+-Childtl> QNephew U
+
+3-
+\
+
+Degree of "consanguinity"
+
+Degree of parentage
+
+FIG. 2.--Comparison of the Roman, civil law, and genetic systems of determining degrees of relationship in families.
+
+«on3 53
+
+Vol. 24, No. 2
+
+Genetic Reform
+
+TABLE 1
+GENETIC CORRELATIONS BETWEEN REPRESENTATIVE MEASUREMENTS OF RELATIVES FOR RANDOM MATING
+
+Generations
+Own generation Father's generation Grandfather's generation Great-grandfather's generation
+SOURCE: Fisher, 1918.
+
+Ancestral Line
+1 1/2 1/4 1/8
+
+Brother
+1/2 1/4 1/8 1/16
+
+Halfbrother
+1/4 1/8 1/16 1/32
+
+First Cousin
+1/8 1/16 1/32 1/64
+
+Half Cousin
+1/16 1/32 1/64 1/128
+
+97
+Second Cousin
+1/32 1/64 1/128 1/2S6
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+of kinship,"fxy, as the probability that a gene taken at random in the propositus X and a gene taken at random in the relative Y will be identical by descent. The inbreeding coefficient fz of an individual is the same as the coefficient of kinship fXY of his parents. Recently, Jacquard (1970) has defined "identity coefficients" according to the identity of pairs of genes in the gametes.
+According to all these concepts of population genetics, it is possible to conclude that the correlation between relatives under panmixia is equal to the proportion of identical genes derived from a common ancestor and that, in fact, family members share a pool of genes that are identical by descent and determine the degree of relationship between them.
+
+in common (per cent). Arrows show the flow of identical genes across the generations (Cotterman, 1940; Li, 19SS). This diagram excluded the correlation between sex-linked genes, because they represented a small fraction (5 per cent) of the genome, and the nature of the complex correlations is difficult to show in a twodimensional set. This problem has been studied by Haldane and Moshinsky (1939) and Li (1955).
+In this genetic diagram, all so-called "collateral" relatives (sibs, uncles, cousins, nephews) appeared one degree nearer to the proband than when computed with the Roman and civil law computation. This general and wide difference is shown in Figure 2.
+
+A GENETIC FAMILY DIAGRAM
+
+DISCUSSION
+
+The construction of a genetic diagram of the human family to compute degrees of relationship between a proband and relatives was proposed by Cruz-Coke (1974). Figure 3 shows a corrected version of that diagram. It is an autosomal panmictic model containing all possible types of relatives within five overlapping generations and extended to the fifth degree of "collateral" lines. The degrees of relatedness are estimated according to the four yardsticks described previously; the coefficient of relationship (»*y)> the coefficient of inbreeding (fz), the coefficient of kinship UXY), and the proportion of genes
+
+Laws governing marriage between related individuals and inheritance were written before the development of genetic theory during this century and were based on inheritance through "blood lines." Today genetically sound degrees of relationship between family members can be shown following the laws of population genetics, and there is a wide discrepancy between the computations made by civil law and those made through modern genetic knowledge. The time has come when this anachronistic situation should be changed.
+It seems reasonable that lawyers, social
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+coeffi :ients r l a e r a
+
+GENERATIONS AND
+COEFFICIENTS
+
+-4
+c o -3
+
+-2
+
+c
+a
+
+-1
+
+O
+
+u Base
+
+o. 1
+Q.
+2
+
+3 O
+4
+Correlation
+
+Inbreeding
+F.fz
+Kinship fxr
+Genes in common (%)
+
+DEGREES OF RELATIONSHIP
+
+CO
+
+IDENTICAL
+
+First
+
+Second
+
+Third
+
+Fourth
+
+Fifth
+
+/
+PROPÓSITOS ¡S Identical twin \
+^
+
+Parent
+
+^
+
+iN
+
+Full"sib
+
+Fraternal twin \
+
+Child .
+
+Si
+
+Great-greatgrandparent
+
+Great- \¿ y grandparent >.
+
+Greátgranduncle
+
+Grandparent 1 \
+Uncle
+
+Great-uncle ^* Half uncle
+
+Half sib _ ^ ^ First cousin
+
+Nephew
+_^
+Grandchild
+
+Half nephew Grandnephew
+
+Si Greatgrandchild
+
+Half great-uncle
+Si Second uncle
+\
+Si Half
+first cousin \
+Si Second nephew
+\
+Si Half
+grandnephew \
+Si Great-
+^ grandnephew
+
+Si Great-great-
+grandchild
+
+Great-greatgranduncle
+Si Half great-
+grandunde
+S i Second
+great-uncle
+Si Half
+second uncle
+^ Second cousin Si Half
+second nephew
+Si Second
+grandnephew
+Si Half great-
+grandnephew
+Si Great-great-
+grandnephew
+
+1
+
+1/2 1/4 1/8
+
+1/16 1/32
+
+1/4 1/8 1/16 1/32
+
+1/64
+
+1/4 1/8 1/16 1/32
+
+1/64
+
+100% 50% 25% 12.5% 6.25% 3.125%
+
+FIG. 3.--Genetic diagram of the human family (after Cruz-Coke, 1974).
+
+n
+N
+o
+on
+M*
+
+Vol. 24, No. 2
+
+Genetic Reform
+
+99
+
+scientists, and geneticists could reach an agreement in defining a unified system through which the accurate degrees of relationship of individuals in a family could be computed. Such a system would of course have important consequences in changing present laws about prohibited marriages, inheritance of property, and
+
+even royal succession. However, it would be a vast step forward, in that these laws would have a rational scientific basis rather than being based on archaic concepts. We might do well to recall the master precept of Sir Edward Coke three centuries ago: "Reason is the life of the law."
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+REFERENCES
+
+CAVALLI-SFORZA, L. L., and W. F. BODMER. 1971.
+The genetics ofhuman populations. Freeman,San Francisco. COTTERMAN, C. W. 1940. Acalculus forstatisticogenetics. Ph.D. thesis. Ohio State University, Columbus, Ohio.
+COKE, SIR EDWARD. 1628. The first part of the Institutes of the Laws of England, or a commentary upon Littleton. 15th ed., 1794. Brooke, London.
+CROW, J. F., and M. KIMURA. 1970. An introduc-
+tion to population genetics theory. Harper and Row, New York. CRUZ-COKE, R. 1974. A genetic diagram of the human family. Lancet 2:109.
+FARROW, M. G., and R. C. JUBERG. 1969. Genetics
+and laws prohibiting marriage in the United States. J. Amer. Med. Assoc. 209:534-539. FISHER, R. A. 1918. The correlation between relatives onthe supposition ofMendelian inheritance. Trans. Roy.Soc.Edinburgh 52:399-433.
+
+_____. 1930. The genetical theory of natural selection. Clarendon Press, Oxford.
+HALDANE, J. B. S., and S. D. JAYAKAR. 1962. An
+enumeration of some human relationships. J. Genet. 58:81-107.
+HALDANE, J. B. S., and P. MOSHINSKY. 1939. In-
+breeding in Mendelian populations with special reference tohuman cousin marriage. Ann. Eugen. 9:321-340.
+JACQUARD, A. 1970. Structure genetique des populations. Masson, Paris.
+Li, C. C. 1955.Population genetics. Univ. of Chicago Press, Chicago.
+MALÉCOT, G. 1948. Les mathématiques de l'hérédité. Masson, Paris.
+WEBSTER, N. 1966.Third newinternational dictionary of the English language unabridged. In Encyclopaedia Britannica. Chicago.
+WRIGHT, S. 1922. Coefficients of inbreeding and relationships. Amer. Natural. 56:330-338.
+
+

@@ -1,0 +1,792 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Differential reproduction: Its relation to IQ test score, education, and occupation
+Jerome H. Waller
+To cite this article: Jerome H. Waller (1971) Differential reproduction: Its relation to IQ test score, education, and occupation, Social Biology, 18:2, 122-136, DOI: 10.1080/19485565.1971.9987909 To link to this article: http://dx.doi.org/10.1080/19485565.1971.9987909
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 12
+View related articles
+Citing articles: 44 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:54
+
+Differential Reproduction: Its Relation to IQ Test Score, Education, and Occupation
+
+i
+sess
+
+Jerome H. Waller*
+g Institute for Human Genetics University of Minnesota Minneapolis, Minnesota
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+The analysis of differential reproduction among persons grouped on the basis of some measure of their ability has occupied demographers in several countries for many years. In a thorough review of the literature prior to 1955, Anastasi (1956) traced this kind of analysis back to the seventeenth century in Europe and Great Britain. The earliest observations concerned differences in family size among social strata, forexample, between rural and urban families and between the poor and the wealthy. More recent studies have shown an inverse relationship between family size andsuch variables as occupational level and amount of education.
+It had been commonly inferred from studies of the above kinds that there existed a similar inverse relationship between fertility and intelligence, even prior to direct studies of this relationship. Several authors, upon direct investigation of this question, had expressed concern lest the continuance of an inverse relationship should lead to a decline in theintelligence of Western populations generally (see Cattell, 1937; Roberts, 1941; Burt, 1946). When direct tests of
+* Present Address: Department of Biostatistics, Graduate School of Public Health, University of Pittsburgh, Pittsburgh, Pennsylvania.
+
+this predicted decline were made by followup studies of comparable samples after an interval of about half a generation, a small improvement in mean score was noted rather than a decline (Scottish Council, 1949; Burt, 1946; Emmett, 1950;and Cattell, 1951).
+I t has been shown (Higgins, Reed, and Reed, 1962; Bajema, 1963) that thesepredictions were based upon the faulty methodology of inferring the general intellectual level of the population from sampling the IQ scores of school children. Even if the measured IQ score of a child were anunbiased estimate of the level of the family from which hecame (Thomson, 1946; GilesBernardelli, 1950), any inference made from these scores would be applicable only to the reproducing members of theparental generation. This difficulty was alluded to in a paper by Duncan (1952), but it remained for Higgins, Reed and Reed (1962) and Bajema (1963) to study the fertility of complete samples of adults who had been tested as children. These authors found that when the non-reproducing members (both single and married) of the parental generation were included in each group studied, the correlation between IQ score and family size was not significantly different from zero.
+
+122
+
+Vol. 18, No. 2
+
+Differential Reproduction
+
+123
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+Hence, there was no evidence that differentials in family size contributed to a decline in the intellectual ability of the population as a whole.
+It appears that measures of differential fertility by education and occupation contribute less to this argument than one might hope. Most recent studies of differential fertility by educational attainment and occupational level have been based upon census data and have not included nonreproducing persons (Kiser, 1960; Mitra, 1966a, 19666). The studies of Dice, Clark, and Gilbert (1964a, 19646) and Bajema (1966) acknowledged this shortcoming and included data for single and childless persons. Differentials in fertility among educational and occupational groups have apparently been decreasing in recent years, although a slight inverse relationship has been described by several authors (Ruggles and Ruggles, 1940; Dice, Clark, and Gilbert, 19646; Bajema, 1966, 1968).
+The Kalamazoo study (Bajema, 1963) introduced the intrinsic rate of natural increase (rm) into considerations of the differential fertility of IQ score groups. This statistic takes into account not only the differential rates of childbearing, but also differences in mortality and generation length. By use of this "life-table" method one may more accurately estimate the direction of natural selection in relation to ability (as measured by IQ score) than is possible using only the number of children born per individual. When he calculated generation length by this method, Bajema (1963) found a very slight positive relationship between that variable and IQ score. This could lead to a slow deline in the measured IQ of the population if the same relationship were true of the whole population, and if it persisted over many generations.
+Since the heritability of measured IQ is rather high (the best estimates range from 0.6 to 0.7), it is of interest to population geneticists to ascertain what effect natural selection may have had upon the complex
+
+of genes favoring high IQ score. This natural selection estimate has been available only for the urban sample of Bajema (1963). He concluded that the population under study had quite likely experienced "a very slight increase in the frequency of the genetic factors favoring high intelligence during the one generation that the population was studied."
+The present study was undertaken to ascertain whether the same forces were at work in another, somewhat different, population. The two main goals were to establish the presence or absence of differences in generation length among IQ score groups and to evaluate the effect of natural selection in relation to IQ score. At the same time, differential family size was analyzed among educational and occupational groups and the extent of positive assortative mating for IQ score and educational attainment was ascertained.
+MATERIAL AND METHODS
+Some sixty years ago a study of the families of about 1,500 mentally retarded persons in the Minnesota State School and Hospital was completed by staff members of that institution. From 1947 to 1960, a reinvestigation and expansion of that study was conducted at the Dight Institute for Human Genetics at the University of Minnesota. Spouses of persons married in the years after the initial contact and children born in the intervening years were added in that followup study, through contacts with relatives. In addition, IQ scores, years of schooling completed, and occupation were obtained from school records, from the Department of Public Institutions and Welfare, and from contacts with the individuals (see Reed and Reed, 1965).
+In 1967, a sample of this population was chosen for a second follow-up. This sample consisted of families for whom an IQ score was available for both parents and in which the mother was born on or before December 31, 1927. In order to avoid possible bias
+
+124
+
+Waller
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+toward the low end of the IQ scale, relatives of the original patients were excluded if they were of the third degree or closer. Hence, the persons in this study are representative of the Minnesota population, excluding nonwhite persons.
+The above cut-off date established maternal age of 40 years or more as the criterion of completed family size. Vital statistics data for the state of Minnesota during the years 1962 through 1965 (when maternal age at birth was included on the birth certificate) showed that 2.69% (8186/303,976) of live births were to white women of ages 40-44 years and that 0.21% (589/303,976) of the live births were to white women aged 45 years or older. If the reproductive history of the younger females parallels that of the population of the state, their families are not quite complete. However, there were only 227 couples ascertained on the more stringent criterion (maternal age greater than 45 years); moving the age criterion down to age 40 enlarged the initial sample to 529 families.
+To the 529 families thus selected were added the reproducing and nonreproducing siblings of the spouses, if an IQ score was available for them. If an IQ score was available for the spouse of a sibling, that individual was also included. The above criteria for completion of fertility were used for married females. If the wife's age was unknown, the husband's age of 45 years or more was used as the criterion of his completed fertility. For unmarried persons, the criteria of completed fertility were age 35 for females and age 40 for males.
+An attempt was made to locate the 529 families and obtain additional information from them. Sources of addresses used were:
+1. Addresses on file at the Dight Institute 2. City directories 3. Telephone directories 4. "Directory assistance" operators when no
+telephone directory was available locally 5. Death certificates 6. Correspondence with relatives.
+
+An initial letter was sent. If no answer was received, this was followed by a second letter. A third letter was sent via certified mail if neither of the first two mailings had elicited a response. Using this method, information was obtained from 423 of the 529 couples (80%); 43 (8%) were contacted but refused to cooperate; and the addresses of 63 (12%) remained unknown.
+The total sample consisted of 846 parents and 757 siblings and spouses of siblings, a total of 1,603 persons. Information on file at the Dight Institute was used, where pertinent, for the nonrespondents and those with address unknown. This enlarged the data base for the assortative mating comparisons and certain of the correlations.
+The items of information needed for each subject in the present study were these:
+1. Date of birth 2. Amount of schooling completed in years 3. IQ test score, name of test used, and date
+of testing 4. Occupation of father of the subject at sub-
+ject's age 16 years 5. Present occupation of the subject (job
+title and type of industry or service) 6. Items (1) through (5) for the spouse of the
+subject 7. Number of children in the (completed)
+family 8. Names and dates of birth of children 9. Date and place of death if the subject's
+spouse was deceased.
+The files at the Dight Institute contained the information in items (1) through (3) for most of the subjects. A questionnaire was mailed with the above-mentioned letter to each family. The form of this questionnaire closely paralleled that of the OCG (Occupational Changes in a Generation) supplement to the 1962 Current Population Survey of the United States Bureau of the Census (see Blau and Duncan, 1967, Appendix B). When the date of birth of the subject was not known from the records, this additional information was requested. For 30 of the 36 persons known to be deceased, the date of death was known. In the six remaining cases, this date was ascertained from the Depart-
+
+Vol. 18, No. 2
+
+Differential Reproduction
+
+125
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+ment of Vital Statistics of the appropriate tronic calculator, the Wang 360K located in
+
+state.
+
+the Dight Institute, using a program devised
+
+From the relevant items named above, by the author following the computer meth-
+
+the following information was calculated: od of Keyfitz (1965). The sample used for
+
+1. Age at death or age at loss to follow-up in completed years
+2. Age at time of IQ test in completed years 3. Age at birth of each child who lived one
+year or more, in completed months 4. Arithmetic mean age at birth of these chil-
+dren, for both mother and father
+
+^ i s part of the study consisted of 319 males and 380 females, for a total of 699 persons.
+RESULTS
+CORRELATION ANALYSIS
+T h e z e r o . o r d e r correlations among IQ
+
+Occupation level was scored from 1 (high-
+est) to 7 (lowest) and education level from 1 (highest) to 7 (lowest) using the scheme devised by A. B. Hollingshead (1958). Because the value of the farm was unknown for those
+reporting occupation simply as "farmer," it was not possible to score them within the scale so the identifying number 9 was arbitrarily assigned to them.
+
+score> educational attainment rating, social
+class>size of famUy of origin (defined as t h e n u m b e r of s l b l i n S s P l u s t h e subject), the n u m b e r o f c h i l d r e n i n t h e subject's comP l e t e d family> a n d t h e subject's arithmetic
+m e a n a S e a t b i r t h of h i s / h e r c h i l d r e n ( " a g e a t mid-child") are given in Tables 1, 2, and
+3 - A s t h e l e S e n d s indicate, Table 1 deals with
+'t h e d a t a f o r m a I e s T a b l e 2 w i t h t h a t f o r
+
+The "Two-Factor Index of Social Posi- females, and Table 3 with that for the total tion" (ISP) is calculated by multiplying the s a m P l e - T h e m e a n v a l u e s f o r e a c h v a r i a b I e occupation level by a factor weight of 7, Sa r e i v e n i n t h e l a s t c o l u m n of e a c h t a b l e -
+
+multiplying the education value by a weight of 4, and summing the products. This gives a continuum of scores from 11 (highest) to
+
+77 (lowest)). The range of scores was divided
+
+into five classes by Hollingshead, and is as
+
+followsI
+
+Class
+
+IS,,P,,11S-_1c7ores
+
+II 18-31
+
+JJJ 32-47
+
+IV 48-63
+
+V 64-77
+
+G E N E R A T I O N LENGTH ESTIMATES
+T w o m e a s u r e s of generation length were used in this s t u d y : W m e a n aSe of t h e P a r e n t s a t t h e b i r t h of each child w h o s u ^ vived to age one year ("age at mid-child"), ,abnydm(e2a)nsT,of.t.th.hee gi.netn.re,inrasti.iconrat.teimofe, ncaat.lucrualla,tl.endcrease.
+Tjjg observed values of mean generation , , . . ,,, , . - , _ length as given in Tables 1 and 2 are con-
+
+sistent with those commonly reported for The information to be used was numeri- the United States white population (28-30
+
+cally coded and punched on Hollerith cards years). For the 319 males of the 10-year co-
+
+for use in the computer facility at the Uni- hort used in the life-table analysis, the mean
+
+versity of Minnesota. Standard programs generation length was 29.03 ± 4.54 s.d. on file (UMSTAT programs) were used in (s.e. = 0.22); for the females of that cohort,
+
+the computation of r, the Pearsonian corre- the mean generation length was 27.37 +
+
+lation coefficient, and in compilation of 4.08 s.d. (s.e. = 0.19). This difference, sta-
+
+tables of frequency distributions.
+
+tistically significant at the 0.05 level, re-
+
+The intrinsic rate of natural increase (rm) fleeted the fact that males tend to reproduce
+
+was calculated by the life table method somewhat later than females. Unfortunate-
+
+(Bajema, 1963) for IQ score and educational ly, age at marriage was unknown,
+
+attainment groups. The necessary iteration The only variable that correlated highly
+
+was carried out on a programmable elec- with age at mid-child was the size of the in-
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+TABLE 1
+CORRELATION MATRIX FOR TOTAL MALES FOR SIX VARIABLES*
+
+Variables
+1. IQscore 2. Educational attainment
+ratingf 3. Social class* 4. Size of family of origin 5. Size of completed family. 6. Age at mid-child
+
+1
+...
+
+2
++O.57O±O.O91
+... ... ... ... ...
+
+3
++0.S31±0.091
++O.775±O.O91 ... ... ... ...
+
+4
+-O.305±O.14O
++0.205±0.140 +0.204±0.140
+... ... ...
+
+5
+-0.005±0.096
++0.074±0.096 +0.101 ±0.099 +0.072±0.159
+... ...
+
+6
++O.0O5±O.096
++0.108±0.O97 +0.089±0.101 +0.025±0.142 +0.259±0.098
+...
+
+X±sA.
+102.04±15.98
+3.91± 1.20 3.25± 0.89 4.38± 2.55 3.58±1.79 29.03± 4.54
+
+s.e.
+0.70
+0.05 0.04 0.18 0.09 0.22
+
+· Using Pearson r ± 95% confidence limits. The inversion of the scales for educational attainraent and occupational level necessary for the use of the Hollingshead Index of Social Position has
+been taken into account in tabulating the signs of the correlation coefficients. This table is therefore comparable with previous studies.
+
+t Educational attainment groups ranked from 1 (College 4+ ) to 7 (0-6 years) after Hollingshead (1958).
+% Social class according to the subdivision of the Two-Factor Index of Social Position (Hollingsbead, 1958).
+
+TABLE 2
+CORRELATION MATRIX FOR TOTAL FEMALES FOR SIX VARIABLES*
+
+Variables
+1. IQscore 2. Educational attainment
+ratingf 3. Social class of husband* . 4. Size of famUy of origin 5. Size of completed family. 6. Age at mid-child
+
+1
+... ...
+
+2
++0.461±0.095
+... ... ... ... ...
+
+3
++0.271±0.099
++0.443±0.099 ... ... ... ...
+
+4
++0.015±0.128
++0.178±0.129 -0.165±0.134
+... ... ...
+
+5
++0.161±0.091
++0.028±0.096 -0.066±0.010 +0.186±0.139
+... ....
+
+6
++0.142±0.091
++O.135±O.O95 +0.112±0.099 +0.355±0.128 +O.522±O.O93
+...
+
+;f±s.d.
+
+s.e.
+
+104.65±14.91 0.68
+
+3.82± 0.89 3.19±0.90 4.64± 2.86 3.34±3.17 27.37± 4.08
+
+0.04 0.05 0.18 0.15 0.19
+
+* Using Pearson r ± 95%confidence limits. As in Table 1, the signs of the correlation coefficients
+are comparable with previous studies. t Educational attainment groups ranked from 1 (College 4 + ) to 7 (0-6 years) after Hollingshead
+(1958).
+
+X Social class according to the subdivision of the Two-Factor Index of Social Position (Hollingshead, 1958).
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+Vol. 18, No. 2
+
+Differential Reproduction
+
+dividual's completed family (r = +0.365 ± 0.030 Sr). This is a mandatory correlation, since this analysis in effect averages both the onset of reproduction and the spacing of children. The earlier mean reproductive age ofindividuals with fewer years of education is reflected in the small but significant positive correlation between educational attainment and age at mid-child for males and females together (r = +0.119 + 0.034 Sr) and separately (for males, r = +0.108 ± 0.049 ST; for females, r = +0.135 + 0.047 Sr). Ineach case, the standard error of the correlation coefficient is Sr = (1 -- r2)/\/N (see McNemar, 1969, p. 155 ff.).
+The generation length of six IQ score groups (55-70,71-85,86-100,101-115,116130, and 131-145) and of the seven educational attainment groups was examined for each of those samples. In each of these comparisons, both age atmid-child and generation length, T, were used to estimate generation length.
+That there was no significant difference among the IQ score groups examined is shown by Table 4, which is comprised of the summary statistics forthe ten-year cohort of persons having completed families. The analysis of variance performed upon these data (Table 5) showed no significant contribution of IQ group to the variance in generation length. Thecorrelation found between IQ score and age at mid-child (r= +0.065 ± 0.034 Sr) reflected the same lack of association between these two variables. The F-test for the effect of sex upon generation length is highly significant (p < 0.001), reflecting the common observation of shorter generation length among females than among males.
+The values of generation length (T) are shown in Table 6, together with the intrinsic rate of natural increase (rm), for each of the IQ score groups studied. Figure 1 compares the two sets of estimates graphically. In each case T is within the 95% confidence limits of the estimates of age at mid-child.
+
+a
+£
+§
+I
+ro p
+W§
+ia
+uo
+
+Io doodd ·a
+-H -H+l-H-H+1
+S to t o ' ^ c o od
+o oooo +1 -H+l-H-H : d dodo
+SSS2
+d odd
++1 -H-H-H
+od+d+
+d do
+-H -H-H
+g
+d do I 1+
+oo+1 +·o1*
+o
+
+127
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+128
+
+Waller
+
+Social Biology
+
+(No variance estimates, and hence nocon- values of rm and T that were obtained for fidence limits, areforthcoming from the cal- the seven educational attainment groups, culation of T or of rm for a single sample.) and Figure 2 compares the values of Tand
+The analysis of differences in generation age at mid-child for each of the groups. length among educational attainment groups Table 9 displays the correlation found in (Table 7) showed a significant effect of edu- the present study between age ofparent at cation upon generation length {p < 0.005) the birth ofeach child and the IQ score and and a significant effect of sex upon genera- education, respectively, of those parents. tion length (p< 0.005). Table 8 shows the There is no simple linear relationshipbe-
+
+TABLE 4
+GENERATION LENGTH (AGE AT MID-CHILD) BYIQ GROUPS: TEN-YEAR
+COHORT OF PERSONS BORN BETWEEN 1/1/18 AND 12/31/27
+
+IQ GXOUP
+
+131-145 116-130 . 101-115 86-100 71-85 56-70
+
+...
+
+Total . .
+
+MALES
+N Xis.d. s.e. 12 2S.41±2.57 0.74 49 28 08±2.57 0.48 112 29.1613.37 0.32 97 28.81±3.48 0.35 19 29.5313.91 0.90 8 30.4615.95 2.10 297 28.90±3.47 0.20
+
+FEMALES
+
+If JTls.d. s.e.
+
+6 26.0612.37 0.97
+
+17776
+
+27.6413.23 27.2313.17
+
+0.37 0.24
+
+91 27.7213.46 0.36
+
+14 26.9713.25 0.87
+
+3 24.5016.84 3.95
+
+267 27.3913.26 0.17
+
+MALES AND FEMALES
+2V Xis.d. s.e. 18 27.6312.69 0.63 126 27 8113.25 0 29 288 27.9813.38 0.20 188 28 3113.48 0 25 33 28.4413.82 0.66 11 28.8316.47 1.95 664 28.0713.45 0.13
+
+TABLE 5
+ANALYSIS OF VARIANCE OF GENERATION LENGTH BY IQ GROUP AND BY SEX
+
+Source ofVariation
+IQ, adjusted for sex Sex, adjusted for IQ Interaction, adjusted for
+sex and IQ Error
+Total
+
+Sum of Squares
+30.24 359.41
+109.54 7,227.30 7,726.49
+
+d.f.
+5 1 5 652 663
+
+Mean Square
+6.05 359.41
+21.91 11.08
+
+0.55 32.42
+1.98
+
+TABLE 6
+INTRINSIC RATE OF NATURAL INCREASE (rm) AND AVERAGE GENERATION LENGTH (T) I N RELATION TO IQ SCORE: TEN-YEAR COHORT OF PERSONS BORN BETWEEN 1/1/18 and 12/31/27
+
+IQ Group
+131-150 . . . 116-130 101-115 86-100 71-85 56-70
+Total sample
+
+Group Mean
+
+N
+
+T
+
+136.92
+
+17 0.029885 26.59
+
+121.07 132 0.019806 27.74
+
+107.52 303 0.021278 27.91
+
+94.14 200 0.020467 28.26
+
+80.04
+
+36 0.021071 28.12
+
+60.86
+
+11 0.018847 27.58
+
+103.40 699 0.021180 27.97
+
+Agt at mld-cNId T' Generation length
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+78 93 108 123 138
+IQ Score Fio. 1.--Comparison ofgeneration length among IQ groups, using two estimates. The vertical bars represent 95% confidence limits.
+
+TABLE 7
+ANALYSIS OF VARIANCE OF GENERATION LENGTH BY EDUCATIONAL ATTAINMENT AND BY SEX
+
+Source of Variation
+Education, adjusted for sex.. Sex, adjusted foreducation.. Interaction, adjusted for
+sex and education Error
+Total
+
+Sum of Squares
+317.29 386.33
+53.00 5,455.55
+6,212.17
+
+d.f.
+6 1
+6 688
+701
+
+Mean Square
+52.88 386.33
+8.83 7.93
+
+6.67 48.72
+1.11
+
+TABLE 8
+INTRINSIC RATE OF NATURAL INCREASE AND THE AVERAGE GENERATION LENGTH IN RELATION TO EDUCATIONAL ATTAINMENT: TEN-YEAR COHORT OF PERSONS BORN BETWEEN 1/1/18 and 12/31/27
+
+Educational Attainment
+College post-graduate College graduate Business school orcollege
+1-3 years High school graduate 10-11 years
+7-9 years 0-6 years
+Total sample
+
+N
+15 45
+176 349
+81 31
+5
+702
+
+-0.018542 0.014314
+0.020545 0.023381 0.022670 0.026077 0.021416
+0.019840
+
+28.39 28.77
+28.49 27.80 24.11 28.15 26.13
+28.14
+
+Age at Mid-child (X±sA.)
+28.86±2.17 28.63±2.67
+28.51±3.65 27.95+3.33 26.84±3.70 29.47±3.56 24.14±6.32
+28.06±2.97
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+130
+
+Waller
+
+Social Biology
+
+tween ageat birth of each child and theIQ of the parents. In fact, only the correlation
+
+ASSORTATIVE MARRIAGE TOR IQ SCORE AND EDUCATIONAL ATTAINMENT
+
+between the IQ score of the parent and age The presence and degree of assortative
+
+at birth of the sixth child is significantly marriage in the present study was assessed
+
+different from zero at the 0.01 level. Onthe by calculating the Pearsonian correlation
+
+other hand, there is a positive correlation coefficient for husband-wife pairs. The pairs
+
+between education and age at birth of each were classified as farm or nonfarm on the
+
+child in thepresent study. The values of the basis of the husband's occupation.
+
+correlation coefficients are significantly dif- The husband-wife correlation for IQ
+
+ferent from zero at the0.01 level for each of score among 387 nonfarm pairs was r =
+
+the first three births. These data arecon- +0.241 + 0.048 S,. Foreducation, the same
+
+sistent with the significant positive correla- calculation among 383 nonfarm pairs gave
+
+tion observed between educational attain- the value r = +0.498 ± 0.038 Sr.
+
+ment and age at mid-child reported above. For the 23 farm pairs, quite different
+
+TABLE 9
+CORRELATIONS BETWEEN AGE OF PARENTS AT BIRTH OF THEIR FIRST THROUGH SEVENTH CHILD AND THE IQ SCORE AND EDUCATION OF THE PARENTS
+
+OKDEB OF CHILDREN
+
+First Second Third Fourth Fifth Sixth Seventh
+
+·
+
+IQSCOXEXAGE
+
+r
++0.070 +0.077 -0.038 +0.087 +0.048 -0.352 -0.040
+
+(.N)
+(894) (843) (619) (381) (216) (106) (60)
+
+EDCCATIONXAGE
+
+r
++0.184 +0.178 +0.110 +0.041 +0.133 +0.027 +0.137
+
+(#)
+(844) (800) (591) (370) (209) (103) (58)
+
+32
+28
+t5 2 4
+
+--o Ageat m'd-cMi) -- T' Generation length
+
+8 10 12 Years of Education
+
+14
+
+16 »I6
+
+FIG. 2.--Comparison of generation length among educational attainment groups, using two estimates. Vertical bars represent 95% confidence limits.
+
+Vol. 18, No. 2
+
+Differential Reproduction
+
+131
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+values were observed. The husband-wife IQ score correlation was r = --0.316 + 0.188 Sr, and the correlation for educational attainment was r = --0.199 + 0.200 Sr. These figures must serve only as an indication that further research with a larger sample should be done, since the large standard errors obviate any conclusions from these data.
+There was no discernible effect of positive assortative marriage for IQ score upon completed family size for 408 husband-wife pairs. A one-way analysis of variance of family size among three groups (husband's score greater than wife's score, husband and wife in the same IQ score group, husband's score lower than wife's) yielded F = 0.69 (d.f. 2, 405), which is not significant at the 0.05 level.
+Similar results were found when the effect of positive assortative mating for educational attainment upon family size was examined. The one-way analysis of variance among three groups (husband's education rank greater than wife's husband and wife having the same rank, and husband's education rank less than wife's) gave a very small F value that was not significant at the 0.01 level (F = 0.031, d.f. 2, 408). The low F value resulted from a very low betweengroups mean squares, which reflects the fact that the three groups were indeed homogeneous with regard to family size.
+NATURAL SELECTION AND IQ TEST SCORE
+In order to assess the direction of natural selection with regard to ability as measured by IQ test score, the intrinsic rate of natural increase (rm) was calculated for the 699 persons who had completed their fertility. As shown in Table 5 above, in the present study the highest IQ score group had the largest rate of increase, and the lowest group had the smallest rate of increase.
+The effect of natural selection was estimated by calculating a weighted mean for the total sample and comparing it to the observed mean. The observed mean score within each group was weighted by the in-
+
+trinsic rate of increase for that group and by the number of individuals in the group, according to the formula:
+y_
+where w,- = number in each group, rmi = intrinsic rate of increase for each group, Xt = mean IQ score of each group, N = total number in the sample, and rm, = intrinsic rate of increase for the total sample.
+The observed mean IQ score for the sample was 103.40 ± 14.31 s.d. (s.e. = 0.53); the weighted mean was 103.88, an increase of 0.47%.
+The relative fitness of each of the six IQ score groups was assessed by comparing the values of eTmT (Bajema, 1963) among the groups, and by comparing the mean number of offspring per adult (including the nonreproducing individuals) among the groups. The results are shown in Table 10. The highest IQ group had the highest value of eTmT (1.2241). Values for the other groups and for the total sample are expressed as decimal fractions of this one. The intensity of natural selection in relation to IQ score ( 7 = 1 - Wt/Wa) is 0.183 for this sample, where Wt is the relative fitness value for the total sample and Wo is the fitness value of the optimum phenotype. In other words, the phenotypic load due to variability in the phenotype "IQ test score" is 18.3%. There is no evidence from these considerations in this sample that natural selection is acting to decrease the average IQ score, and it may be effecting a very slow increase.
+Within the ten-year cohort used in the life-table analysis there were 371 couples who had completed their families. The mean IQ test score for these reproducingadults is 105.10 + 9.71 s.d. (s.e. = 0.50), whereas the mean score for 35 nonreproducing persons in this cohort was only 92.74 ± 17.97 s.d. (s.e. = 3.04). Thus the mean for the cohort was 103.40 + 14.31 s.d. (s.e. = 0.53). IQ
+
+132
+
+Waller
+
+Social Biology
+
+TABLE 10
+RELATIVE FITNESS IN RELATION TO IQ USING TWO DIFFERENT MEASURES OF POPULATION GROWTH
+
+IQ Range
+131-145 116-130 101-115 86-100 71-85 56-70
+Total sample
+
+Relative No. of Relative Values
+
+Offspring per Adult
+
+of tTmT
+
+1.0000 0.8218 0.8597 0.8520 0.8067 0.8073
+
+1.0000 0.7825 0.8182 0.8055 0.8170 0.7597
+
+0.8504
+
+0.8169
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+test scores were available for 771 children of the reproducing adults. The mean of the children's scores was 109.69 ± 11.39 s.d. (s.e. = 0.41). The mean of the children's scores is significantly higher than the mean of their parents at the 0.01 level (t = 3.38, d.f. 741, 770). This I is corrected for the observed biological correlation of r -- +0.72 between these parents and their offspring (McNemar, 1969, p. 113,114). A substantial part of this difference is probably attributable to the children being tested at an earlier age than were the parents. In his study of a larger sample that included these parents and children, Higgins (1961) estimated that about five points of the difference was due to this age effect.
+ESTIMATES OF HERITABILITY
+Four estimates of the heritability of the phenotype "IQ test score" were calculated from the data of the present study. The first was an estimate of the regression of the average scores of the offspring (mid-child) upon the average scores of the parents (midparent). This estimate was derived by weighting the correlations of mid-child and mid-parent scores for 2- through 5-child families following the procedure outlined by Falconer (1963, p. 204). The weighted zscore of the correlations was +0.844, which is equivalent to a correlation of r = +0.689 for the total sample of 258 families. The regression of mid-child on mid-parent calculated from this weighted r was bop =
+
+0.631 ± 0.046 s.d. Since in the case of regression of mid-child on mid-parent, b = h2, this gives an estimate of 0.631 + 0.046 for the heritability (Falconer, 1960, p. 181). The second estimate of heritability was derived from the regression of mid-child score on the father's score, in which case bop = \W. Using the above method of weighting, bgp was estimated to be 0.334, which leads to an estimate of ¥ = 0.668 + 0.025 s.d. The third estimate was based upon the regression of mid-child score on the mother's score. In this case, the estimated heritability is 0.654 ± 0.025 s.d. The fourth estimate was based upon the intra-class correlation between full siblings in the same sample of families. Here, r' > %k2. The calculated value of r' for this sample is 0.333, which incorporates a correction for sibships of different size (see Cochran, 1939) and yields a heritability estimate of 0.666. All of these values are consistent with each other and are closely comparable to values given in the extensive literature on the subject (see Erlenmeyer-Kimling and Jarvik, 1963).
+DISCUSSION
+The extensive data analyzed in the present study approach the "ideal" set forth by Anastasi (1956) for studies of the relationship between family size and intelligence (as measured by IQ test score). The test scores used for both generations were obtained prior to the vocational differentiation of the subjects, and the subjects in the parental
+
+Vol. 18, No. 2
+
+Differential Reproduction
+
+133
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+generation were followed up after their families were complete. The data utilized in the life-table calculation include the dates of birth of all children and adults, the number and age of deceased persons, and the nonreproducing persons. The amount of education subsequent to testing was known for most of the adults, as was the present occupation of the head of the household. In addition, the status of the families into which the members of the parental generation were born was estimated from the occupational level of their parents. These data are part of a report now in preparation.
+Examination of the correlation matrices (Tables 1, 2, and 3) yields few surprises. The results of the present study are closely comparable to values reported in the literature for the relationships among IQ test score, education, socioeconomic status, and family size (whether family of origin or own completed family). The necessity of including all persons in a given generation (including all single persons and childless marriages) is reiterated.
+The contrasting results of using the two methods of estimating the relationship between IQ test score and family size (that is, excluding versus including the 0-child category) are shown most clearly in the correlations for males (Table 1). Whereas the correlation between IQ test score and size of family of origin is r = --0.305, as commonly reported in the literature, there is no correlation whatever between IQ test score and the males' own completed family size. For the females on the other hand, there is no correlation between IQ score and size of family of origin, whereas there is a significant positive correlation between IQ test score and the females' own completed family size. When the effect of size of family of origin is held constant, the first order partial correlations between IQ test score and size of completed family are ru.i = +0.018 for males and r15.4 = +0.161 for females, both of which represent a eugenic effect of IQ upon completed family size. The corre-
+
+sponding values of the zero-order correlation coefficients for the total sample (Table 3) are r = -0.120 + 0.047 Sr for IQ score by the size of family of origin and r = +0.161 ± 0.033 Sr for IQ score by the subjects' own completed family size. The first order partial correlation between IQ score and size of completed family (holding constant the size of family of origin) is rv>.\ = +0.127. Hence, in this study there appears to be a eugenic effect of IQ test score upon the size of completed family for any given size of family of origin.
+The most useful data for evaluating reproductive performance are those gathered for individuals who have completed their fertility. Unfortunately, by the time these data are available they may not reflect current trends. The comparison of reproductive rates among younger cohorts is possible; for example, curves of the number of offspring per person-year (which could be derived from a life table for the sample) might reveal recent trends.
+The historical trend toward smaller families was analyzed in this study by selecting males and females from the sample used for the life table for IQ score. The size of each individual's own completed family was compared with the size of his or her family of origin (which was the completed family size of the prior generation). For this comparison, only those persons in each generation who had one or more children were included.
+For the 202 female propositi in this sample, the mean completed family size was 3.68 ± 1.69 s.d. (s.e. = 0.12); the mean number of children in their sibships was 4.26 + 2.17 s.d. (s.e. = 0.15). There was thus a decrease in mean family size of 0.58 + 0.19 s.e.x during this one-generation interval. The correlation between the completed family size of the propositi and the size of their sibships was r -- +0.186 + 0.068 ST. The same statistics were calculated for 155 male propositi whose wives were in the same ten-year cohort. The mean completed family size of the male propositi was
+
+134
+
+Waller
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+3.78+1.90 s.d. (s.e.= 0.15); the mean number of children in their sibships was 4.27 ± 1.90 s.d. (s.e. = 0.19). The decrease in mean family size was thus 0.49 + 0.15 s.e.x. There was no significant correlation between the completed family size of the males and the size of their sibships (r = +0.072 ± 0.080 Sr).
+One might infer from a comparison of the correlations for males versus females that it was the female who determined the size of completed family. Since the males and females in this sample were not spouses, this interesting hypothesis cannot be rigorously tested with these data.
+The decrease in mean family size during this interval of one generation is statistically significant at the 0.05 level for the families ascertained through male propositi, and at the 0.01 level for the families ascertained through female propositi. The data for these two samples show clearly a decrease in mean family size of about 0.5 in this one generation, which is attributable to changing attitudes toward family size and to increased use of contraceptive techniques.
+The only study that has reported estimates of generation length for various IQ groups is that of Bajema (1963) who analyzed data from a two-year cohort of persons tested when they were in the sixth grade of the Kalamazoo, Michigan public schools. In that study there was a "very slight positive relationship between IQ and generation length." Other evidence that the age of the parent at reproduction is positively correlated with his IQ score comes from the study of Conrad and Jones (1932), who found a positive correlation between IQ score and age of the parent at the birth of the first through fourth child.
+The data of the present study give no evidence of a correlation between IQ test score and age at mid-child as a measure of generation length (Table 3). As Table 9 shows, there is some evidence for a positive correlation between the IQ score and the age of the parents at birth of their children. This
+
+evidence is equivocal, however, since a negative correlation is found for the third, sixth, and seventh children. Figure 1 shows plainly that in the present study there is no significant difference in the mean age at mid-child among the persons in six IQ score groups. The value of T as a measure of generation length falls within the 95% confidence limits in each case. No variance estimates are forthcoming from the calculation of T for one sample. Thus, it is not possible to state confidence limits for that estimate of generation length. Since these results are calculated from data gathered from a ten-year cohort, it is possible that secular trends during the ten-year period might obscure differences in generation length. However, a twoway analysis of variance among IQ score, age at mid-child, and year of birth in twoyear intervals gave no evidence of a significant interaction between year of birth and age at mid-child (F = 1.018, d.f. 20, 736). In the present study, there is no discernible dysgenic effect of generation length upon intelligence as measured by IQ score.
+Although there is evidence of significant positive assortative marriage for IQ test score and educational attainment in the sample of this' study, no effect of this assortment upon family size was detected. The failure to detect any increase in family size with increasing similarity of the partners on these two measures could be due to insufficient ascertainment of childless siblings of the subjects, to the small number of persons in this sample, or to both of these. The percentage of childless couples was a crucial factor in the demonstration by Garrison, Anderson, and Reed (1968) that positive assortative marriage for educational attainment was associated with an increase in the number of children per woman in the United States white population.
+Assortative marriage among couples claiming farm occupations was markedly different from the pattern for those listing nonfarm occupations. Although the husband-wife correlations among farm couples
+
+Vol. 18, No. 2
+
+Differential Reproduction
+
+135
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+were negative for both IQ test score and education, the small number in the farm category precludes the conclusion that assortment among farm couples is indeed different. The difference found, however, does suggest that further investigation of this question is warranted.
+The prediction of an increase in the mean IQ score of the offspring was bome out. In fact, the offspring mean was considerably higher than the prediction (109.60 vs. 103.88). This is presumably due in part to the several types of tests administered to the two generations, since the scores for neither generation were strictly standardized or adjusted for differences in mean and standard deviation. If we accept the Higgins (1961) estimate that five points of the difference in means is due to difference in age at testing between the two generations, the mean for the children is lowered to 104.60. The comparison of the observed mean with that predicted from the fitness considerations then becomes more reasonable. The direction of change remains the same.
+In the sample of the present study, natural selection seems to be acting to favor the phenotype "higher IQ score." This same result was reported by Bajema (1963) for a sample of adults in Kalamazoo, Michigan. In the Michigan study the phenotypic load due to variability in intelligence was estimated to be 13%; the corresponding figure for the present sample is just over 18%.
+SUMMARY
+The correlations among IQ test score, educational attainment rating, socioeconomic status, total number of children in the family of origin, total number of offspring in completed families, and mean age at birth of live-born children ("age at mid-child") were examined for a representative sample of the Minnesota white population. The intrinsic rate of natural increase (rm) and generation length (T) were calculated by the life-table method (for individuals having completed their fertility) for IQ test score
+
+and educational attainment groups. The degree of assortative marriage for IQ score and educational attainment group was evaluated by use of the Pearsonian correlation coefficient. Finally, the direction of natural selection for the phenotype "IQ test score" (consisting of both genetic and environmental components) was determined by considering the relative fitness of IQ score groups using both the number of offspring per adult and the value of ernT as indices of the reproductive performance of these groups. It seems that natural selection is favoring an increase in mean IQ score in the sample of the present study, or at least there is no evidence for a decrease.
+The correlation analyses corroborated previously reported values in most instances. However, there was no evidence in the data of the present study that differences in generation length among IQ groups contribute to a dysgenic effect of IQ upon relative fitness. To the contrary, lower IQ score was associated with a slightly longer generation length.
+The data of this study showed a decline in mean completed family size in one generation of about 0.5 persons among persons having one or more children. This figure resulted from comparing the mean completed family size produced by 357 propositi with the mean size of their sibships. There was a correlation (r = +0.186 ± 0.068 Sr) between size of family of origin (size of sibship) and size of own completed family among 202 females. No correlation between these two variables was found among 155 males.
+The data of this study showed positive marital assortment for IQ score (r = +0.241 ± 0.048 Sr) and for educational attainment (r = +0.498 + 0.038 Sr).
+Four estimates of the heritability of the phenotype "IQ test score" for this sample coincide well with each other and with the values reported previously. The value of h2 estimated from parent-child regression is 0.631; from a weighted regression of chil-
+
+136
+
+Waller
+
+Social Biology
+
+dren's scores on thescore of thefather alone, Irving I. Gottesman. Special thanks are dueto
+
+it is 0.668 and on the score of the mother
+
+Dr. Sheldon C. Reed for making available the basic material for the study, for his guidance
+
+alone, it is 0.654. The estimate from the during the investigation, and for his careful re-
+
+intra-class correlation of full siblings is0.666. view of themanuscript. I also wish to thank the referees for suggesting some improvements in
+
+ACKNOWLEDGMENTS
+
+the original manuscript. This study was supported by the Behavior
+
+I am indebted to the following persons for Genetics Training Program of the National
+
+their encouragement and helpful suggestions Institutes ofHealth (Grant Number MH10679),
+
+during the course of this investigation: Dr.V. and by the Charles M. Goethe Memorial Fund
+
+Elving Anderson, Dr. Carl J. Bajema, and Dr. in Genetics.
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+REFERENCES
+
+BAJEMA, C. 1963.Estimation of thedirection and GILES-BERNARDELLI, BETTY M. 1950. The decline of
+
+intensity of natural selection in relation to human intelligence in New Zealand. Pop. Stud. 4:200-
+
+intelligence by means of the intrinsic rate of
+
+208.
+
+natural increase. Eugen. Quart. 10: 175-187.
+
+HIGGINS, J. V. 1961. An analysis of intelligence of
+
+. 1966. Relation of fertility to educational 1,016 families. Ph.D. thesis. University of Minne-
+
+attainment in a Kalamazoo public school popula- sota, Minneapolis.
+
+tion: A follow-up study. Eugen. Quart. 13:306- HIGGINS, J. V., E. W. REED, and S. C. REED. 1962. 315. Intelligence and family size: Aparadox resolved.
+
+. 1968.Relation of fertility to occupational Eugen. Quart. 9:84-90.
+
+status, IQ, educational attainment, and sizeof family of origin: Afollow-up study ofa male Kalamazoo public school population. Eugen. Quart. 15:198-203.
+BLAU, P. M., and O. D. DUNCAN. 1967. The Ameri-
+can occupational structure. Wiley and Sons, New York. BURT, C. 1946. Intelligence and fertility. Hamilton, London. CATTELL, R. B.1937. The fight forour national intelligence. King, London.
+. 1951.Thefate ofnational intelligence: Test of a thirteen-year prediction. Eugen. Rev. 42:136-148.
+
+HOLLINGSHEAD, A. B., and F. C. REDLICH. 1958.
+Social class and mental illness. Wiley and Sons, New York.
+KEYFITZ, N. 1965. The intrinsic rate of naturalincrease and thedominant root of the projection matrix. Pop.Stud. 18:293-308.
+KISER, C. 1960.Differential fertility in theUnited States, p. 77-116. In Demographic and economic change in developed countries (National Bureau of Economic Research). Princeton Univ. Press, Princeton, N.J.
+Li, C. C. 1955. Population genetics. Univ. ofChicago Press, Chicago.
+
+COCHRAN, W. G. 1939. The use of the analysis of MAXWELL, JAMES. 1969. Intelligence, education,and
+
+variance in enumeration by sampling. J. Amer.
+
+fertility: A comparison between the 1932 and
+
+Stat. Assn. 34:492-510.
+
+1947 Scottish surveys. J. Biosoc. Sci. 1:247-271.
+
+CONRAD, H. S.,and H. E. JONES. 1932. Afield study MCNEMAR, QUINN. 1969. Psychological statistics.
+
+of thedifferential birth rate. J. Amer. Stat. Assn. 4th ed. Wiley and Sons, New York.
+
+27:153-159.
+
+MITRA, S. 1966a. Education and fertility inthe
+
+DICE, L., P. CLARK, and R. GILBERT. 1964a. Rela-
+
+United States. Eugen. Quart. 13:214-222.
+
+tion of fertility to education in Ann Arbor, Michi-
+
+. 1966b. Income, socioeconomic status,and
+
+gan, 1951-1954. Eugen. Quart. 11:30-45.
+
+fertility in the United States. Eugen. Quart.
+
+. 19646. Relation of fertility to occupation
+
+13:223-230.
+
+and income in the male population ofAnn Arbor, Michigan, 1951-1954. Eug. Quart. 11:154-167.
+
+REED, E. W.and S. C. REED. 1965. Mental retardation: A family study. Saunders, Philadelphia.
+
+DUNCAN, O. D. 1952. Is the intelligence of the general population declining? Amer. Sociol. Rev. 17:401-407.
+EMMETT, W.G. 1950.The trend of intelligence in certain districts of England. Pop. Stud. 3:324337.
+
+REEVE, E. C.R. 1955. The variance of the genetic correlation coefficient. Biometrics 11:357-374.
+ROBERTS, J. A. FRASER. 1941.Thenegative association between intelligence and fertility. Hum. Biol. 13:410-412.
+
+ERLENMEYER-KIMLING, L., and L. F. JARVIK. 1963.
+Genetics and intelligence: A review. Science 142:1477-1478. FALCONER, D. S. 1960. Introduction to quantitative genetics. Ronald Press, NewYork.
+
+RUGGLES, R., and N. RUGGLES. 1960. Differential
+fertility in U. S. Census Data. In Demographic and economic change in developed countries (National Bureau of Economic Research). Princeton Univ. Press, Princeton, N. J.
+
+. 1963. Quantitative inheritance, p. 193-216. SCOTTISH COUNCIL FOR RESEARCH IN EDUCATION. In W. G. Burdette (ed.), Methodology in mam- 1949. The trend of Scottish intelligence: A com-
+
+malian genetics. Halden-Day, Inc., San Fran- parison of the 1947and 1932 surveys of the in-
+
+cisco.
+
+telligence of 11-year-old pupils. Univ. of London
+
+GARRISON, R. S., V. E. ANDERSON, and S. C. REED.
+
+Press, London.
+
+1968. Assortative marriage. Eugen. Quart.15: THOMSON, G.H. 1946. The trend of national intelli-
+
+113-127.
+
+gence. Eugen. Rev. 38:9-18.
+
+

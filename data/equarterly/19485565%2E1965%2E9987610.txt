@@ -1,0 +1,125 @@
+Eugenics Quarterly
+ISSN: 0097-2762 (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi18
+A program for genetic demography based on data from largescale social surveys
+Walter F. Bodmer
+To cite this article: Walter F. Bodmer (1965) A program for genetic demography based on data from largescale social surveys, Eugenics Quarterly, 12:2, 85-89, DOI: 10.1080/19485565.1965.9987610 To link to this article: http://dx.doi.org/10.1080/19485565.1965.9987610
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 2
+View related articles Citing articles: 4 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi18
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:27
+
+A PROGRAM FOR GENETIC DEMOGRAPHY BASED ON DATA FROM LARGE-SCALE SOCIAL SURVEYS*
+
+WALTER F. BODMER
+Department of Genetics Stanford University School of Medicine
+Palo Alto, California
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+I would like to discuss the particular use that may be made of data from largescale surveys such as the Census for studies in genetic demography. The basic need is for family-oriented data, such as is provided by Newcombe's record linking studies (Newcombe, 1962; Morton, 1962) using a variety of source documents and such as can be obtained, to a more limited extent, from population Census data.
+The need to use computers in the analysis of large bodies of data like the Census is self-evident. However, at least at the present time, the primary and perhaps limiting factor in their use is in the nature of the information collected rather than the ability to analyze it. Undoubtedly, the amount of information that can be analyzed on a large scale may explode beyond our present wildest dreams with the promised advances in computer technology. Nevertheless, we must always first ask ourselves, "What information do we need within practicable limits, and why do we need it? What data should be collected and how best can it be collected in a reliable way?"
+* This paper is based on a contribution to the discussion on computer techniques for LargeScale Social Systems (second afternoon session, October 19, 1964, of the Symposium on Computer Methods in the Analysis of Large-Scale Social Systems held at the joint Harvard-MIT Center for Urban Studies). This work was supported by grants GM 10452-02 and HD 00045-01 from the National Institutes of Health. I am very grateful to Professor Joshua Lederberg for many stimulating discussions which helped formulate the ideas presented here.
+
+One of the major aims of the population geneticist is the construction of models which predict the changes from one generation to the next in the genetic structure of a population. Over a long period this provides the theoretical basis for evolution. Over a short time we are studying the microevolutionary changes which are our immediate concern. To construct such models three basic types of information are needed with respect to the characteristics of the population whose changes are being studied, namely:
+1. Relative biological fitness (i.e., combined effects of fertility and mortality)
+2. Mating patterns 3. Genetic determination (i.e., genetic
+component in the case of a complex character, or mode of inheritance for a well-defined genetic characteristic)
+Population genetics, so far, has dealt mainly with relatively simple models although even these are sometimes analytically intractable and require computer analysis. Thus, it has been assumed that the characters have a simple genetic determination (e.g., blood groups); mating is at random or occurs in some well defined pattern; the age structure of the population may be ignored (discrete generations); and the biological fitness is simply measured by the relative numbers of surviving offspring of different types. However, human populations have an age structure which cannot be ignored; many, if not most, of the characteristics
+
+85
+
+86
+
+Bodmer
+
+Eugen. Quart.
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+we are interested in are complex and clearly have no simple genetic determination; and the different contributions to biological fitness involve a complex interaction between mortality, fertility, and the various mating patterns. Nevertheless, a complete age-structured specification of fertility, mortality, and the mating patterns together with perhaps no more than a parent-offspring correlation for the characteristics we are interested in, provide the basis for constructing a comprehensive generalization of conventional population genetics. Our goal is to describe in detail the changes from one generation to the next in the complex structure of human populations. From Census data, our characteristics would be educational achievement, socioeconomic characters, race, nativity, etc., and it is with respect to these that we require the three basic types of information mentioned above.
+There is, at the moment, a lack of adequate information on the genetic determination of such characteristics. To obtain this requires the collection of data over at least two generations. As indicated above, even a simple parent-offspring correlation with respect to Census classifications could provide valuable information setting some limits to the extent of their possible genetic determination. For example, heads of households could be asked for information concerning the educational level achieved by their brothers and sisters, or even just their birth dates. The latter would at least provide some information concerning the genetic components of fertility.
+The major opportunity at present in the analysis of Census data lies in the study of differential fertility. This must now be the most significant component of the major differences in biological fitness, at least in the United States,
+
+following the tremendous decreases in mortality, particularly stillbirths and infant mortality, during this century. Fisher (1930) proved what he called the fundamental theorem of natural selection, namely that "the rate of increase in fitness of any organism at any time is equal to its genetic variance in fitness at that time". If there is no genetic variation in fitness, there can be no differential selection and hence no change in the gene frequencies in the population from one generation to the next. Crow (1958), provided a simple and powerful interpretation of Fisher's theorem. He showed, for the case of discrete generations, that the index
+_ variance (x) ~ (mean x) 2
+where x is the observed number of offspring, is a measure of the maximum opportunity for natural selection. Thus if parents and offspring are counted at the same stage (e.g., zygotes or mature adults), and there is complete genetic determination of fertility, that is, each offspring has exactly the average of his parents fertility, then the fitness of the population will increase at the rate I. The actual rate of increase will depend on the heritability of fertility, i.e., the proportion of the variance in fertility which can be attributed to genetic factors. Thus a simple initial approach to an understanding of the opportunities for differential selection would be to calculate I for a whole range of relevant cross tabulations. The index I does not, of course, take account of the age structure of the population but could be made to do so if x was the instantaneous intrinsic rate of increase (Fisher's 1930 Malthusian parameter), rather than the number of offspring. The Census tabulations can, however, provide a much more complete specification of the
+
+Vol. 12, No. % A Program for Genetics and Demography
+
+87
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+major determinants of fertility than can be incorporated into one such parameter; namely, the age at marriage, number of children ever born, and the distribution of the time interval between successive births (or child spacing). Perrin and Sheps (1964) have recently constructed a general theory to describe child spacing distributions based on probabilities of conception, probabilities of still-births and abortions, distributions of the length of pregnancies and of the length of the sterile period following the termination of a pregnancy. This theory can be generalized to include a simple specification of contraceptive practice. These theoretical distributions can be fitted to the observed child spacing distributions for a series of cross tabulations with respect to relevant socioeconomic and other characteristics. The interactions between these factors and the fertility patterns can then be studied in terms of the estimated values of the parameters used to define the theoretical distributions. These models can be combined with a specification of the age at marriage of husband and wife to investigate the effects of the age of marriage on the total fertility. Such an approach would, I believe, begin to answer the tremendous need for appropriate analysis of large and complicated tabular outputs such as are produced by the Census.
+Mating patterns with respect to available classifications are more easily established. These include, for example:
+1. The extent of assortive mating, that is, correlations between the characteristics of husband and wife
+2. The distributions of the age at marriage and the distributions of the difference between husband and wife in age at marriage
+3. The distribution of the geographical separation at birth of husband and wife
+
+4. The extent of consanguinity as determined by the record-linking techniques used by Kennedy and Newcombe.
+It is clear that only large-scale surveys, such as the Census, can provide enough detailed data for the types of analysis discussed above. Even the largest data files soon yield empty cells in complex cross tabulations. Given large enough data files, the combination of the various factors discussed above can yield comprehensive models for the analysis of changes in the genetic structure of the population. It is only the genetic components of the population structure which may be changed from one generation to the next by the mating process. Some geneticists might argue that the relatively crude characterizations which are all that is at present possible on such a large scale, do not allow enough detailed understanding of the nature of fertility differentials for the construction of such comprehensive models and that the main need is for smaller scale and much more detailed surveys. I believe that there is a need for both types of surveys.
+Special possibilities exist in such large bodies of data for the study of some more specific questions of biological and genetic interest.
+1. For example, it has been pointed out by Lederberg (personal communication) that, since birth rank can have essentially no genetic component, correlations with respect to birth rank may be used to assess specifically the influence of nongenetic factors on, for example, educational status, occupation, and fertility.
+2. Some people have argued (Edwards, 1962), that a male birth may partially immunize a female against subsequent male births so that the probability of a female birth following a male birth may be some-
+
+88
+
+Bodmer
+
+Eugen. Quart.
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+what higher than that of a niale birth following a male birth. Under this hypothesis there should be some correlation between the interval of time between successive births and the sexes of the births. There is, in fact, a significant observed correlation between the sexes of successive children in some bodies of data which is, however, in the opposite direction to that expected under this hypothesis. Nevertheless, whatever the explanation of such correlations, much insight will be gained from a study of child spacing in relation to the sexes of successive births. 3. There is a seasonal variation in the distribution of births which differs significantly for different groups of people. The basis for this is currently being investigated by Dr. Lederberg using Census tabulations.
+At Stanford we are planning to inves-
+tigate some of the problems discussed
+above through a novel cooperative ven-
+ture with the Bureau of the Census,
+which will allow the use of larger files
+for research purposes than has hitherto
+been possible.
+For the future there is clearly a major
+need for the collection of more data per-
+taining to the family as a unit. One of
+the most severe drawbacks of Census data
+is that it is collected by the household
+rather than the family. As mentioned
+above, information on genetic determi-
+nations can be obtained only from data
+collected over at least two generations.
+This could perhaps be provided by spe-
+cially oriented smaller scale sample sur-
+veys such as the current population
+survey or through the cooperation of the
+National Health Survey. In the long
+run, however, this might best be achieved
+by applying the record-linking tech-
+niques of Newcombe and «workers to
+the construction of complete family rec-
+
+ords from birth certificates accumulated over a period of two or more generations. This would be especially appropriate if more information could be collected on the birth certificates. Even dates of birth as opposed to age in years and also date of marriage would be invaluable additions. In general, considerable integration at the level of data collection could be achieved by the collection of more data to accompany birth and death certificates followed by appropriate recordlinking studies. As an example, one may cite programs for testing the blood of all newborn infants to detect phenylketonuria and other similar inborn errors of metabolism. These have now been initiated in the states of Massachusetts and New York and are being planned for the state of California. They may provide data of considerable genetic interest on an extremely large scale, provided the information is correlated with that of the family through the use of birth certificates. A further major advance needed in data collection on this scale is the combining of information on mortality, stillbirths and abortions, and hopefully also morbidity, with the vital statistics. This would make it possible to undertake, on a large scale, studies of the familial incidence of abortions, stillbirths, and various types of illnesses together with their correlations with fertility differences. Some of this data will, of course, come from more detailed smallscale surveys of specific diseases. As an example, at Stanford we are now undertaking such a study with respect to mental retardation in cooperation with the Pacific State Mental Hospital at Pomona, California.
+Record-linking techniques should become important not so much for the linking of records on the same family collected from different sources, as for the
+
+Vol. 12, No. 2 A Program for Genetics and Demography
+
+89
+
+compilation of records on the same family collected at different times.
+REFERENCES
+CROW, J., 1958. Some Possibilities for Measuring Selection Intensities in Man. Human Biol., 30: 1-13.
+EDWARDS, A. W. F., 1962. Genetics and the Human Sex Ratio. Advan. Genet, 11:239-272.
+
+FISHER, R. A., 1930. The Genetical Theory of Natural Selection. Oxford Univ. Press.
+MORTON, N. F., 1962. In The Use of Vital and Health Statistics for Genetic and Radiation Studies. United Nations, NewYork, pp. 167170.
+NEWCOMBE, H. B., 1962. Population Genetics: Population Records. In Methodology in Human Genetics (Burdette, ed.), HoldenDay, Inc., San Francisco, pp. 92-113.
+PERRIN, E. B., and M. C. SHEPS, 1964. Human
+Reproduction: A Stochastic Process. Biometrics, 20: 28-45.
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+

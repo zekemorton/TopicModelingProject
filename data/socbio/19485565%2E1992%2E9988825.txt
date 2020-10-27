@@ -1,0 +1,296 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Unemployment and marital status in Great Britain
+William Sander
+To cite this article: William Sander (1992) Unemployment and marital status in Great Britain, Social Biology, 39:3-4, 299-305, DOI: 10.1080/19485565.1992.9988825 To link to this article: http://dx.doi.org/10.1080/19485565.1992.9988825
+Published online: 23 Aug 2010. Submit your article to this journal Article views: 10 View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:45
+
+Unemployment and Marital Status in Great Britain
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+William Sander
+Department of Economics DePaul University Chicago, IL 60604
+
+ABSTRACT: During the past decade, the marriage rate has declined and the divorce rate has increased in Great Britain. Becker (1981) attributes such changes to improvements in the economic status of women, in that high-wage women gain less from marriage relative to other women. However, an empirical analysis of data from the General Household Survey 1985 in Great Britain shows that male unemployment is another important determinant of changes in marital status. High rates of male unemployment reduce the incidence of marriage and increase the likelihood of divorce.
+
+During the past decade, the marriage rate has declined and the divorce rate has increased in Great Britain. In addition, divorce has become more prevalent (see Ermisch, 1983; Kiernan and Eldridge, 1985; Kiernan, 1983; Sander, 1986). The economic approach to marriage and divorce as developed by Becker (1981) provides a basis for explaining changes in marriage and divorce rates. By and large, Becker (1981) explains changes in the family as a product of the changing economic status of women in that highwage women gain less from marriage relative to other women. Another important factor that might explain changes in marriage and divorce rates is relatively high unemployment. Previous research with county data for the United Kingdom indicates that a decline in employment by men resulted in higher divorce and lower marriage rates (Sander, 1986). Research on Denmark by Jensen and Smith (1990) also supports the hypothesis that unemployment has a negative effect on marital stability. This study provides
+
+additional support with household data on the negative effect of unemployment on the gains from marriage.
+The effect of unemployment on marital status is an important topic for several reasons. First, marital status affects the quality of life. For example, Taubman and Rosen (1982) show that divorce has a negative effect on health. Second, marital status could affect productivity (e.g., through impacts on health). Third, marital status affects academic achievement. For example, studies indicate that single parenthood has a negative effect on children's education (Krein and Beller, 1988). Fourth, marital status affects labor supply by both men and women (Johnson and Skinner, 1986; Reed and Harford, 1989). Fifth, marital status affects government expenditures. For example, divorce and single parenthood affect welfare expenditures. And, marital status affects income distribution.
+The paper is organized as follows. First, theoretical issues are briefly reviewed. Second, the empirical models
+
+299
+
+300
+
+Sander
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+are presented. Third, the results are examined. The paper closes with a discussion of the findings. The data that are used in this study are taken from the "General Household Survey 1985." The survey is an ongoing sample of private households in Great Britain. The number of respondents in the 1985 sample is 29,282. This represents a response rate of 82 per cent. A detailed discussion of the sample is available elsewhere (Office of Population Censuses and Surveys, 1987).
+THEORETICAL ISSUES
+The economic approach to marriage as developed by Becker (1981) assumes rational utility-maximizing behavior in the marriage market. Thus, "participants prefer to marry if, and only if, their utility from marriage exceeds their utility from remaining single" (Becker, 1981, p. 40). It is assumed that the gains from marriage for women decline as female earning ability increases. The reason for this is that higher female earnings have a negative effect on the demand for children and reduce the advantages of the sexual division of labor in marriage (Becker, 1981, p. 231). Further, the prices of not marrying and divorce are lower for high-wage women (Sander, 1985). On the other hand, high-wage men have more ability in the marriage market and gain more from marriage relative to other men. Thus, an increase in male earnings has a positive effect on marriage and a negative effect on divorce (Becker, 1981, p. 231).
+Schooling has an ambiguous effect on the gains from marriage and divorce
+
+because "education reduces the division of labor between mates (thus lowering the gain from marriage) while increasing the gain from any given division of labor" (Becker et al., 1977, p. 1156). For example, schooling increases the labor force participation rate of wives, thus lowering the gains from marriage. On the other hand, highly educated wives "have greater gains because of the spouses' high levels of market and nonmarket skills" (Becker et al., 1977, p. 1156).
+A possibly more important effect of schooling is on age at first marriage. Numerous studies indicate that schooling delays entry into marriage (Carlson, 1979; Keeley, 1974). Also, studies indicate that age at first marriage has a U-shaped effect on divorce (Becker et al., 1977). Thus, schooling might reduce divorce through its effect on reducing relatively early marriages (Bumpass and Sweet, 1972). Schooling also could affect preferences for marriage and divorce.
+The economic model of marriage and divorce is also based upon unexpected events reducing the gains from marriage and increasing the likelihood of divorce. For example, Becker et al. (1977) argue that an increase in the deviation between actual and expected earnings increases the likelihood of divorce. Thus, an unexpected event such as unemployment should result in a decline in the incidence of marriage and an increase in the probability of divorce.
+Many other factors might also affect marriage and divorce rates. Sex ratios affect the availability of a spouse. An increase (decrease) in the ratio of males to females should increase (decrease) the likelihood of marriage for
+
+Vol. 39, No. 3-4
+
+Unemployment and Marital Status
+
+301
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+females and reduce (increase) it for males. Religious and ethnic background might also affect marital "search" costs as well as norms regarding marriage and divorce.
+MATERIALS AND METHODS
+THE MODELS
+Logit is used to estimate the marital status of men age thirty-five to fiftyfour in Great Britain. Estimates of men who are currently married and ever-married men who are currently divorced are undertaken. Estimates for other age groups were also undertaken. These estimates are not reported because they did not contribute anything of additional interest to the paper. Further, estimates for relatively young men and relatively old men are of less interest because many young men have not yet married and many old men are economically inactive. Logit is used since the dependent variables are discrete (either zero or one). The logit model that is estimated is log (p/(l-p))l2 where p is the odds that the respondent is, for example, currently married. The statistical package that is used (SPSSX) divides the logit by two and adds five to the intercept.
+Estimates of women's marital status are not pursued because variables relating to women's labor supply are highly endogenous with marital status. Single and divorced women are more likely to work because the marginal value of their time in work is high relative to married women. Further, women who work are a select group; their unobserved characteristics might be correlated with labor supply variables. These unobservables also might
+
+be endogenous with marital status. For these reasons, the focus is on men. Labor supply variables for men, particularly the ones used in this study, are relatively exogenous to marital status.
+Although the "General Household Survey" contains some information on earnings, it is too limited to be useful in this study. Most of the data on earnings for men are missing. Thus, one shortcoming of this study is that wage rates or earnings cannot be used to estimate marital status. However, detailed data are available on occupation. Since occupation is correlated with earning ability, controls are entered for occupation. Thus, an indirect adjustment is made for earning ability. One must recognize that men's occupations might have noneconomic effects on marital status. Thus, interpretations of occupational effects should be made with caution.
+Data on educational attainment are available. Since education affects earning ability, education also provides another indirect control for economic background. The education variables that are used include respondents with "O" level qualifications (or equivalent), respondents with "A" level qualifications (or equivalent), and respondents with university degrees. "O" level qualifications indicate education beyond the compulsory level. Similarly, "A" level qualifications are superior to "O" levels. A university degree would be taken after "A" levels. Once again, education effects could be noneconomic in nature. The coefficients for these variables should likewise be interpreted with caution.
+The employment variables include men employed and men unemployed. The omitted category includes men
+
+302
+
+Sander
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+who are economically inactive, sick, or waiting for work. The vast majority of men in the omitted category are economically inactive.
+Adjustments are made for whether the respondent is from the New Commonwealth (including Pakistan) or Scotland. These variables are defined by country of birth. In preliminary work with the data, an attempt was made to adjust for other ethnic groups in Great Britain. This effort was not successful because other groups were too small. The New Commonwealth and Pakistan variable could indicate a number of very different influences on marriage and divorce rates. First, racial discrimination against this group could affect earning ability and the gains from marriage (Stewart, 1983). Second, different norms could affect marriage and divorce. For example, data indicate that West Indian families in Britain are less stable while Asian families are more stable (Brown, 1984). And third, differences in the ratio of men and women in this group could affect the incentive to marry.
+The effect of a Scottish heritage is not clear as well. This variable probably picks up social as well as economic phenomena. In a related study residence in Scotland was found to have a negative effect on divorce (Sander, 1986). Finally, adjustments are made for a number of regions within Great
+
+Britain. The omitted region is Greater London. The regional dummies pick up differences in various socioeconomic factors including female earning ability as well as differences in tastes. In Table 1, data are arrayed on the dependent variables and the independent variables that are of particular interest.
+RESULTS
+The estimates of marital status support the suggested hypothesis regarding unemployment. Employment has a highly significant positive effect on the odds that men are married and a highly significant negative effect on the likelihood they are divorced (Table 2). On the other hand, unemployment reduces the odds that men are married, and it increases the probability they are divorced.
+Somewhat surprisingly, schooling and ethnic background were not found to affect marital status. Of the occupational variables, professional and managerial jobs are positively associated with marriage and negatively related to divorce. Also, farmers are less likely to be married.
+Several of the regional variables indicated a higher marriage rate relative to Greater London. These included the Northwest, the Midlands, the Southeast, East Anglia, and Scotland. For the divorce estimate, Scotland was
+
+TABLE 1
+SELECTED SUMMARY STATISTICS FOR THE DATA SET
+
+Statistics
+Married Divorced of ever-married Employed of economically active Unemployed of economically active
+
+Mean
+84.2% 5.1 92.0 8.0
+
+Standard Deviation
+36.5 22.0 27.2 27.2
+
+Vol. 39, No. 3-4
+
+Unemployment and Marital Status
+
+303
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+TABLE 2
+LOGIT ESTIMATES OF MARITAL STATUS FOR M E N AGE 35 TO 54"
+
+Employed
+
+Variables
+
+Unemployed
+
+" O " Levels
+
+"A" Levels
+
+University
+
+New Commonwealth
+
+Scottish
+
+Professional
+
+Manager
+
+Clerical
+
+Sales
+
+Construction
+
+Farmer
+
+Yorkshire/Humberside
+
+North
+
+Northwest
+
+Midlands
+
+Southeast
+
+Southwest
+
+East Anglia
+
+Wales
+
+Scotland
+
+Age
+
+Age squared
+
+Intercept
+
+N
+"Standard errors in parenlheses. *P < 0.10. '? < 0.05. "P < 0.01.
+
+Married
+0.35'' (0.08) -0.176 (0.10) -0.06 (0.08) 0.03 (0.12) -0.06 (0.14)
+0.18 (0.13) -0.17 (0.12) 0.20c (0.08) 0.33d (0.10) -0.12 (0.12)
+0.15 (0.15) -0.04 (0.10) -0.41c (0.17) 0.14 (0.10) 0.16 (0.11) 0.21c (0.09) 0.19c (0.08) 030d (0.11)
+0.01 (0.14)
+0.27* (0.15) 0.17 (0.13) 0.57d (0.13) 0.19" (0.07) -0.0021'' (0.0008) 1.1 (1.5) 3,589
+
+Divorced
+-0.29** (0.14) 0.30* (0.16) 0.06 (0.14) -0.06 (0.23) 0.20 (0.24) 0.08 (0.19) 0.25 (0.20) -0.30' (0.15) -0.33c (0.16) -0.03 (0.22) -0.41 (0.30) 0.13 (0.15) 0.21 (0.31) 0.08 (0.16) -0.05 (0.20) 0.04
+(0-14) -0.06 (0.14) -0.26 (0.20)
+0.34 (0.23) 0.004 (0.23) 0.06 (0.20) -0.77d (0.24) -0.09 (0.12) 0.001 (0.001) 5.7C (2.6) 3,273
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+304
+
+Sander
+
+Social Biology
+
+found to have a significantly lowerdi- marital status for men age thirty-five to
+
+vorce rate. Finally, age has a significant fifty-four. In a previous study on the
+
+nonlinear effect on marriage and no ef- United Kingdom, itwas suggested that
+
+fect ondivorce.
+
+education reduced the marriage rate
+
+and increased the divorce rate (Sander,
+
+DISCUSSION
+
+1986). The previous study used county data that imprecisely measured educa-
+
+Unemployment is directly associ- tion. The finding that education has no
+
+ated with alower incidence of marriage effect on divorce is consistent with preand a higher incidence of divorce for vious research by Jensen and Smith
+
+men. Also, men in relatively high-wage (1990).
+
+occupations (professionals and manag- The results also suggest the essential
+
+ers) areless likely to be divorced and role of employment policy. Cyclical
+
+are more likely to be married. Thus, and structural unemployment have
+
+the evidence isconsistent with the eco- negative effects on family stability.
+
+nomic theory ofmarriage and divorce. Subsequently, family instability results
+
+Employed men with relatively high in substantial social costs including
+
+wages gain more from marriage rela- negative effects on health, children's
+
+tive tounemployed men and men with education, and so on. In the United
+
+relatively low wages.
+
+States, high unemployment in the
+
+The results also provide an addi- black community has contributed sub-
+
+tional explanation for the increase in stantially to a breakdown of the black
+
+the divorce rate in Great Britain during family (Wilson, 1987). This, inturn, is
+
+the past decade: Relatively high rates resulting in high dropout rates in
+
+of unemployment destabilized mar- schools and very high crime rates.
+
+riages. Although Becker (1981, pp.
+
+242-256) explains trends in divorce in
+
+Great Britain as a product ofincreases
+
+in the earning ability of women, this
+
+factor seems tobe only one part of the
+
+ACKNOWLEDGMENTS
+
+story.
+
+The author isgrateful forresearch sup-
+
+One new result in this study is that port from DePaul University's Research
+
+education appears to be unrelated to Council and College of Commerce.
+
+REFERENCES
+
+BECKER, G. S. 1981. A treatise on the family. Harvard University Press, Cambridge.
+BECKER, G. S., E. M. LANDES, and R. T.
+MICHAEL. 1977. An economic analysis of marital instability. J. Polit. Econ. 85:11411187. BROWN, C. 1984.Black and white Britain. Heinemann, London.
+BUMPASS, L., and J. A. SWEET. 1972. Differen-
+tials in marital instability: 1970. Amer.Sociol. Rev. 37:754-766.
+
+CARLSON, E. 1979. Family background, school and early marriage. J. Marr. Fam. 41:341353.
+ERMISCH, J.F. 1983. The political economy of demographic change. Heinemann, London.
+JENSEN, P., and N. SMITH. 1990. Unemployment
+and marital dissolution. J.Pop. Econ. 3:215229.
+JOHNSON, W. R., and J. SKINNER. 1986. Labor
+supply and marital separation, Amer. Econ. Rev. 76:455-469.
+
+Vol. 39, No. 3-4
+
+Unemployment and Marital Status
+
+305
+
+KEELEY, M. 1974. The economics of family formation. Econ. Inq. 15:238-250.
+KIERNAN, K. E. 1983. The structures of families today: Continuity or change? In British Society for Population Studies, The family. Office ofPopulation Censuses and Surveys Occasional Paper 31.
+KIERNAN, K. E., and S. M. ELDRIDGE. 1985. A
+demographic analysis of first marriages in England and Wales, 1956-1980. Centre for Population Studies Working Paper 85-1, London School of Hygiene and Tropical Medicine.
+KREIN, S. F., and A. H. BELLER. 1988. Educa-
+tional attainment of children from singleparent families. Demography 25:221-234.
+OFFICE OF POPULATION CENSUSES AND SURVEYS.
+1987. General household survey 1985, Her Majesty's Stationery Office, London.
+
+REED, W. R., and K. HARFORD. 1989. The mar-
+riage premium and compensating wage differentials, J. Pop. Econ. 2:237-265.
+SANDER, W. 1985. Women, work, and divorce. Amer. Econ. Rev. 75:519-523. . 1986. On the economics of marital instability in the United Kingdom. Scot. J. Polit. Econ. 33:370-381.
+STEWART, M. B. 1983. Racial discrimination and occupational attainment. Econ. J. 93:521541.
+TAUBMAN, P., and S. ROSEN. 1982. Healthiness,
+education, and marital status. In V. R. Fuchs (ed.) Economic aspects of health. Univ. of Chicago Press, Chicago.
+WILSON, W. J. 1987. Thetruly disadvantaged. Univ. of Chicago Press.
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+

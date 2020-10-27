@@ -1,0 +1,566 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+A suicide epidemic model
+Barry R. Davis & Robert J. Hardy
+To cite this article: Barry R. Davis & Robert J. Hardy (1986) A suicide epidemic model, Social Biology, 33:3-4, 291-300, DOI: 10.1080/19485565.1986.9988646 To link to this article: http://dx.doi.org/10.1080/19485565.1986.9988646
+Published online: 23 Aug 2010. Submit your article to this journal Article views: 5 View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:41
+
+A Suicide Epidemic Model
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+Barry R. Davis and Robert J. Hardy
+School of Public Health University of Texas Houston, Texas
+
+ABSTRACT: An epidemic model of suicides clustered in time and space is presented. In this model suicides are depicted as an infection that can be spread from person to person. The model is based on the assumption that spread of suicide ideation via various means of communication increases as the number of suicides increases. A threshold condition for an epidemic to begin and the total size of an epidemic can be calculated. The model is applied to several previous suicide episodes.
+
+The concept of a suicide epidemic has been discussed in the literature and mass media for many years (Ashton and Donnan, 1979; Barraclough et al., 1977; Crawshaw, 1980; Gelman, 1983; Kreitman et al., 1969; Motto, 1967; Nalin, 1972; Rubenstein, 1983; Taylor, 1984; Whitlock, 1975). This terminology has been applied to clusters of suicides. These clusters in time and space are called epidemic when the observed number of suicides is substantially greater than the expected number. The clusters become particularly apparent when the deaths are among adolescents.
+Recently, there have been several clusters of teenage suicides in the .United States (Gelman and Gangelhoff, ^ 9 8 3 ; Taylor, 1984). In such instances a single event appears to trigger a sequence of suicides. Several investigators have studied whether publicity increases suicides (Blumenthal and Bergner, 1973; Bollen and Phillips, 1982; Motto, 1967; Motto, 1970; Phillips, 1974). The primary focus of this research is to determine whether or not extensive media coverage of a suicide results in an in-
+
+creased suicide rate in an impressionable population.
+Phillips (1974) proposed that suicides increase immediately after a suicide story has been publicized in the newspapers. The more publicity devoted to a story, the larger the rise in suicides thereafter. The rise in suicides is mainly restricted to the area in which the story was publicized. He stated that the rise in suicides is due to the influence of suggestion--something he called the Werther effect, named after the protagonist in Goethe's novel The Sorrows of the Young Werther. In this novel, the hero committed suicide. The book was widely read in Europe, and it was said that people in many countries imitated Werther's manner of death.
+A major contribution to the study of suicide was made at the end of the last century by the French sociologist Emile Durkheim (1951). In an attempt to explain suicide patterns, he divided suicides into three social categories: egoistic, altruistic, and anomic.
+Egoistic suicide comprised those who were assumed not to have been strongly
+
+291
+
+292
+
+Davis and Hardy
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+integrated into any social group. Family integration or the lack of it could be used to explain why the unmarried were more vulnerable to suicide than the married and why couples with children were the best protected of all.
+Altruistic suicide described the group whose proneness to suicide stemmed from their excessive integration into a group. Durkheim was describing the kind of suicide that could be expected of certain classes in Japanese society at that time.
+Anomic suicide occurred when a disturbance in the balance of the person's integration with society leaves him without his customary norms of behavior. Anomie could explain the greater incidence of suicide among the divorced as compared with the married. Phillips (1974) presented some theoretical relationships for the possibility of the influence of suggestion on suicide as it relates to anomic individuals. He stated that studies of suicide and of collective behavior indicate that anomic persons are susceptible to solutions to their anomie. Persons who find no meaning in life are thought to be susceptible to religious and political movements which provide them with coherent belief systems that reduce their anomie. Committing suicide or joining certain social movements may be alternative solutions to the general problem of anomie. If suicide and social movements are sometimes alternative solutions to the problem of anomie, why do some anomic individuals then choose suicide? Phillips proposed that it was due to the publicity of certain events and the unavailability or inadequacy of anomie-reducing social movements.
+The type of publicity given to suicide should affect the suicide rate. Studies of suggestion (Lang and Lang, 1961) indicate that a model is more likely to be im-
+
+itated if he is prestigious and if his cir-
+cumstances are thought to be similar to
+the imitator.
+Phillips (1974, 1977, 1978, 1980,
+1982a, 19826,1983) has presented a the-^
+sis through several articles that suicides,
+motor vehicle fatalities, and airplane ac-
+cidents increase after publicized stories
+about'one of these particular events. In
+his 1980 paper, he presented a sociologi-
+cal theory of imitation and suggestion.
+He proposed to conceive of imitation as
+a kind of cultural contagion and de-
+scribed six analogies of biological and
+cultural contagion. These analogies
+were:
+1. Incubation period.-- Just as the symptoms of a disease may appear sometime after a person is infected, the response to a publicized suicide may have a lag time.
+2. Immunization.--People become immune to specific infectious diseases. Why can't they become immune to the idea of suicide?
+3. Specific versus diffuse contagion.-- Specific organisms cause specific diseases. Publicity about a particular suicide may result in suicides committed in a similar fashion, e.g., wrist cuts, hangings, firearms, etc.
+4. Susceptibility to contagion.-- Persons in poor biological health may be more susceptible to biological contagion. Persons who are anomic, have a low selfesteem, and a past history of failure may be said to be in poor cultural and psychological health. Are these people susceptible to cultural contagion?
+5. Channels of infection.--Infectiou^L diseases can be spread through different media--air, air, water, person-to-person. Cultural contagion could be spread by newspapers, television, or by word of mouth.
+6. Quarantine.--The spread of infectious disease can be slowed or stopped by quarantining infectious individuals. Could a cultural quarantine similarly reduce the spread of a cultural contagion? Would less publicity devoted to a suicide result in less of a "contagious effect?"
+
+Vol. 33,No. 3-4
+
+Suicide EpidemicModel
+
+293
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+The purpose of this paper is to terized as consisting of three parts: So,
+
+present an epidemic model of suicide in- Io> and Do where So +-Io + Do = No.
+
+corporating a number of the elements of So is the initial number of susceptible
+
+Phillips' theory of imitation and sugges- members of the population who if "ef-
+
+tion as it relates to the occurrence of sui- fectively" reached will commit suicide.
+
+cides in a population. In this model sui- These are the individuals whom Phillips
+
+cides are depicted in much the same way describes as being in poor cultural and
+
+as an infection that can be spread from psychological health. Io is the initial person to person. This arises from an as- number of members of the population,
+
+sumption that spread of the epidemic via who with the same information that is
+
+various means of communication in- available to members of So, will never creases as the number of suicides in- take their own lives, i.e., they are im-
+
+creases. Applications of the model are mune. Do is the initial suicide in the pop-
+
+presented along with a discussion of the ulation. Since most series of suicides be-
+
+implication of the model for the devel- gin with an initial single event, Do is opment and spread of a suicide epi- usually one.
+
+demic.
+
+Now consider some arbitrary time, t,
+
+beyond the initial event. At that point,
+
+MATERIALS AND METHODS
+
+let S(t) = number of individuals who are susceptible and therefore are poten-
+
+A mathematical model of a biological tial suicide victims in interval (0,t).
+
+or behavioral process attempts to de-
+
+scribe underlying relationships in math- l{t) = number of individuals who are
+
+ematical terms. It is of necessity an exact
+
+immune, i.e., will not commit su-
+
+expression of these presumed relation-
+
+icide in interval (0,t).
+
+ships. In the model which we present, D(t) = number of individuals who actu-
+
+we are trying to express very complex
+
+ally commit suicide in interval
+
+behavioral patterns with a relatively
+
+(0,t)
+
+simple mathematical function. The
+
+result is a gross simplification of the A person who is susceptible may
+
+many factors which influence the proc- commit suicide or become immune, but
+
+ess, but it does so while retaining those once he becomes immune, he will never
+
+which are the salient features.
+
+become susceptible again and will never
+
+In the suicide epidemic model, the take his own life. This is a simplification
+
+population is assumed to be composed in that it is conceivable that a person of individuals susceptible to committing who becomes immune for a period of
+
+suicide, individuals who have commit- time may in time become susceptible
+
+ted suicide as part of the epidemic, and again. We assume that the number of
+
+individuals who have always been or suicides is proportional to both the num-
+
+who have recently become "immune" ber of suicides that have already oc-
+
+to committing suicide. The model de- curred and the number of susceptibles in
+
+scribes the relationship between these the population. The more suicides that
+
+three groups of individuals.
+
+have occurred, the more likely it is that
+
+Let Nobe the total size of the population in the age group that will be affected by a knowledge of a suicide in their age group. This population can be charac-
+
+the idea of suicide will spread and appear as an option to those susceptible. The more susceptibles there are, the more likely it is that a suicide will occur.
+
+294
+
+Davis and Hardy
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+Also, we assume that the number of immunes is proportional to the number of immunes and susceptibles. The more immune individuals there are, the more likely it is that their influence will prevent further suicides; the more susceptibles there are, the more likely it is they will become immune.
+In the model there is a competition for the susceptible population to either commit suicide or become immune. Thus, the larger the susceptible population, the more likely it is both that a new suicide will occur and that the number of immunes will increase.
+The following system of differential equations describes the model at time t after the initial suicide which began the epidemic process.
+
+data by using a nonlinear regression method.
+There is a large body of literature on the solution to such a system of equations. They are with minor modifications the Kermack and McKendrick (1927) equations for an epidemic process with removal of individuals from risk of subsequent infection. In this instance a substitution which gives an approximate solution to Equations (2) to (4) provides a solution which is simple to use and is suitable to a suicide epidemic process.
+At the start of the epidemic when t = 0, the epidemic is initiated by a single suicide; hence,
+
+No = S(t) + 7(0 + D{t) for t>0,
+dp
+dt
+
+(1) Since the number of actual suicides is rarely large, we assume that D<<N0.
+
+This is not unreasonable as the total
+
+(2)
+
+number of suicides will be much less than the population size. The right-hand
+
+side of Equation (4) now becomes
+
+-7) and the solution for I is
+
+(3)
+No[Io/(No-Io)]exp(flnot)
+=
+
+dl
+(4)
+where p. = "suicide infection" rate
+and (3 = "suicide possibility" removal rate.
+The parameters, u.and p, are the rate at which susceptibles commit suicide and the rate at which susceptibles become immune, respectively. In the next section, we will estimate the ratio of these two parameters, |i,/@, from the
+
+In Equation (2) we again assume that D<<N0, and that \x.D(N0-I-D) is approximately equal to (jLD(iV0--/). Substituting / into this expression, the
+solution to Equation (2) becomes
+
+D(t) =
+
+\(I0/N0 + [1 -(k/No
+
+1(6)
+
+where p = u./p = l/(relative removal rate).
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+Vol. 33, No. 3-4
+
+Suicide Epidemic Model
+
+295
+
+At t = 1, this becomes D = (NoIIo)p ·
+
+If we assume
+
+Equation (6) is a logistic-type equation with unknown parameters Io, p, and p. In a closed population of size No and with specification of these parameters, one can calculate the total number of suicides that will occur.
+A THRESHOLD CONDITION
+Before applying the model to actual data on the temporal occurrence of suicides, we wish to further analyze Equation (2) to obtain conditions under which an epidemic will continue. For the moment we drop the argument t for D(t) and /(/) in the subsequent analysis.
+Let us divide Equation (2) by Equation (4) to get dDldl = \LDI$L
+The solution to this equation for d is D = kl^V where k is a constant and for convenience D is expressed in terms of the reciprocal of the relative removal rate, p, to get D = kP. The initial condition where D(0) = 1, determine the constant k = Io~p, and hence
+D=
+or
+
+I0DVP,
+
+or the number of suicides is much less than the number of immunes, this reduces to
+
+N0>I0Dl/P or
+
+or D<
+
+(7)
+
+The epidemic stops when D' = 0, or equivalently where D = (No/Io)p as we derived previously (Equation [6]).
+So, for the epidemic to continue beyond a second suicide, (No/Io)p must be greater than 2 or
+
+(8)
+Since Io ~ No--So Equation (8) becomes
+
+(So/No) & 1 -2-P'*.
+The relative removal rate (3/JJI therefore gives us a threshold proportion (Sol No)for the number of susceptibles to go beyond two suicides.
+
+Substituting this result into Equation (1) yields the derivative of D with respect to t,
+D' = iLD(N0 -D -I0DVP).
+In order for the epidemic to continue,
+D'>0 or
+NO-D-IOD1/P>0
+or No> D
+
+STATISTICAL METHODS
+Estimates of the parameters p, IoINo, and pN0 were obtained by using a nonlinear regression method. The SAS NLIN procedure (SAS User's Guide, 1982) provides least-squares estimates of these parameters. The procedure used was the Marquardt iterative method.
+For the nonlinear model
+-,Xn)
+e=
+
+296
+
+Davis and Hardy
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+the nonlinear "normal" equationsare
+
+TABLE 1
+
+XF(P) = X'ywhere X = 5F/8p.
+
+In the nonlinear situation, both X
+
+AREA AND CUMULATIVE NUMBER OF SUICIDES BY NUMBER OF WEEKS FROM INITIAL SUICIDE
+
+and F(3)are functions of (3, and a
+
+closed-form solution,generally doesnot exist. Thus, one uses aniterative proc-
+
+Area and Cumulative No. of Suicides
+
+Weeks from Initial Suicide
+
+ess. Astarting value for (3is chosenand
+
+continually improved until the error Piano
+
+sum-of-squares e' e(SSE) isminimized.
+
+1 2
+
+0 0.86
+
+The iterative techniques to estimate parameters innonlinear regression used are similar to a series of linear regressions involving the matrix X evaluated
+
+3 4 5 6 7
+
+7.71 24.29
+24.29 25.14 ·· . 49.00
+
+for the current values ofp and y = Y-- 8
+
+61.14
+
+Y, where Y = F(p) are the predicted Clear Lake values evaluated forthe current values 1
+
+0
+
+fp. The iterative process begins atsome
+
+2
+3 ·. .
+4
+
+5.71 8.14 8.43
+
+point p0- Then X and Yare employed to 5
+
+compute aAsuch that
+
+6
+
+8.86 9.14
+
+55£(p0 +A)<
+The updating formula isinthe Marquardt method (1963):
+A = (X'X' + \diag{X'X')YlX'y.
+Marquardt's method is equivalentto performing aseries ofridge regressions and ismost useful when the parameter estimates arehighly correlated.
+RESULTS
+In order to illustrate theutility of the model, we will apply it tothree sets of suicide cluster data sets obtained with permission from the Centers forDisease Control, Atlanta, Georgia. The data sets are presented inTable 1 according to the number ofsuicides and number of weeks after the occurrence of thefirst suicide intheseries.
+The first cluster of teenage suicides occurred over about a one-year period
+
+Wind River (Wl) 1 2 3 4 5 6 7 V.8 9
+Wind River (W2) 1 2 3 4 5 6 7 8
+Wind River (W3) 1 2 3 4 5 6 7 8
+
+0 0.86 1.43 4.86 5.00 6.57 6.71 7.00 7.57
+0 0.86 1.43 4.86 5.00 6.57 6.71 7.00
+0 0.86 1.43 4.86 5.00 6.57 6.71 7.57
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+Vol. 33,No. 3-4
+
+Suicide Epidemic Model
+
+297
+
+in Piano, Texas, during 1983 and 1984. 14.270 (Piano) to 16.194 (Wind River--
+
+The second cluster occurred in Clear Wl). The variations on the Wind River
+
+Lake City, Texas, over about a four- data set yielded 14.073 (W2)and 13.459
+
+month period in 1984. The last cluster (W3). Thepredicted total number of su-
+
+took place in 1985 on the Wind River icides were similar to the actual number
+
+Reservation in Wyoming, where nine for thePiano andClear Lake epidemics.
+
+young people took their lives over a However, the predicted number for the
+
+three-month period. In addition, two Wind River epidemic is much higher
+
+variations of the Wind River data set are than the actual number. The variations
+
+also presented. These variations are(1) decreased the predicted number, but
+
+the final suicide is deleted from the data even variation W3's predicted number
+
+set, or (2) the next to final suicide is de- of about 25is almost three times the ac-
+
+leted from the data set.These variations tual number of9.
+
+were chosen because there were four su- The observed and predicted values
+
+icides in the last week of theWind River for each of the three suicide epidemics
+
+cluster. This might unduly influence the are presented in Figure 1. The model's
+
+model toward predicting a large total predicted values appear to agree best for
+
+number of suicides. We thus wished to the Piano andthe Wind River data.Fig-
+
+explore the implications of variations in ure 2 presents a comparison of the
+
+the data.
+
+models for the three epidemics plus the
+
+Table 2 presents the estimated pa- two variations of theWind River data.
+
+rameters for each of the three suicide
+
+clusters plus the predicted total number of suicides and the initial proportion of
+
+DISCUSSION
+
+suicides necessary for the epidemic to Several researchers have stressed
+
+continue beyond two suicides. In addi- how publicity after a suicide can lead to
+
+tion, the estimated parameters for the further suicides among a susceptible
+
+two variations of the Wind River data population. If we consider the publicity
+
+set are also presented.
+
+as some sort of vector transmitting a
+
+The reciprocal of the relative re- "suicide infection," then a suicide clus-
+
+moval rate, p = u73, ranged from ter behaves like an epidemic.
+
+TABLE2
+f. ESTIMATED PARAMETERS FOR THETHREE SUICIDE CLUSTERS, THEPREDICTED TOTAL NUMBER OF SUICIDES AND THE INITIAL PROPORTION OF SUICIDES NECESSARY FOR THEEPIDEMIC TO CONTINUE BEYOND TWO SUICIDES
+
+Area
+Piano Clear Lake Wind River (Wl) Wind River (W2) Wind River (W3)
+
+|i./p
+14.279 14.992 16.194 14.073 13.459
+
+pNo
+O064 0.119 0.068 0.113 0.130
+
+Io/N0
+0864 0.853 0.691 0.759 0.787
+
+D(«)°
+S\06 10.84 397.64 48.46 25.12
+
+"Predicted total number ofsuicides at t ==c. ^Initial proportion ofsusceptibles inthe population necessary fortheepidemic tocontinue beyond twosuicides.
+
+Thresh*
+0.047 0.045 0.042 0.048 0.051
+
+PIANO SUICIDES
+
+CLEAR LAKE SUICIDES
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+HINO M i m SUICIDES
+12 IS
+FIG. 1.--The observed ( · ) and predicted (-) cumulative number of suicides as a function of time for the three epidemics.
+
+g-
+I
+5S'
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+Vol. 33, No. 3-4
+
+Suicide EpidemicModel
+
+299
+
+The model presented in this paper is closed population, (3) the notion of
+
+one of the simplest forms for a determi- once immune always immune. In the
+
+nistic model of an epidemic. Further re- case of any of the three clusters exam-
+
+finements of this model could be made, ined, one or all of these assumptions
+
+including extension to stochastic ver- may be incorrect.
+
+sions. However, even at this basic level, In addition, there is no good defini-
+
+several useful features should be noted. tion of what a suicide cluster or epidemic
+
+In the applications of the model, is. All suicides that occur in a specified
+
+there was some consistency among the region and time period may either not
+
+estimated parameters. About 15 to 30 be a suicide or may not be part of the ep-
+
+per cent of the populations at risk were idemic. On the other hand, deaths in a susceptible to committing suicide. The specified region and time period that are
+
+thresholds for the epidemics continuing beyond two suicides ranged from 4.2 per cent to 4.7 per cent (up to 5.1 per cent if we include the variations).
+The model predicts an asymptotic total number of suicides. In the case of the Piano and Clear Lake epidemics, the
+
+due to suicide may not be classified as such due to insufficient information. If one of the suicides was not part of the epidemic, then this can easily change the parameters of a model, as seen by examining the variations of the Wind River data set.
+
+predicted numbers were close to the ac- In conclusion, we have presented a
+
+tual ones. In the Wind River epidemic, simple form of a deterministic model of
+
+the predicted number was much greater a suicide epidemic. We hope that suicide
+
+than the actual one. Several assump- clusters viewed from an epidemic view-
+
+tions in the model may account for this. point may lead to both further work and
+
+These assumptions include (1) constant insight into the phenomenon of suicide
+
+"infection" and "removal" rates, (2) a clusters.
+
+SUICIDE EPIDEMIC MODELS
+
+FIG. 2.--The predicted cumulative number of suicides as a function of time for the 5 data sets:
+C = Clear Lake City; P = Piano; W! = Wind River (Original); W2 = Wind River (Variation 1); W3 = Wind River (Variation 2).
+
+300
+
+Davis and Hardy
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+REFERENCES
+
+ASHTON, J. R., and S. P. B. DONNAN. 1979. Su-
+icide by burning--a current epidemic. Brit. Med. J. 2:769-770.
+BARRACLOUGH, B., et al. 1977. Do newspaper reports of coroners' inquests incite people to commit suicide? Brit. J. Psychiat. 131:528-532.
+BLUMENTHAL, S., and I. BERGNER. 1973. Sui-
+cide and newspapers: A replicated study. Amer. J. Pschiat. 130:468-471.
+BOLLEN, K. A., and D. P. PHILLIPS. 1982. Imi-
+tative suicides: A national study of the effects of television news stories. Amer. Sociol. Rev. 47:802-809. CRAWSHAW, R. 1980. An epidemic of suicide among physicians on probation. JAMA 243:1915-1917. DURKHEIM, E. 1951. Suicide. Translated by J. A. Spaulding and G. Simpson. The Free Press, New York.
+GELMAN, D., and B. K. GANGELHOFF. 1983.
+Teen-age suicide inthesunbelt. Newsweek, Aug. 15, p. 70-74.
+HANKOFF, L. M. 1961. An epidemic of attempted suicide. Compr. Psychiat. 2:294298.
+KERMACK, W. , and A. G. MCKENDRICK. 1927.
+Contributions tothemathematical theoryof epidemics (Part I). Proc. Roy. Soc. A. 115:700-721.
+KREITMAN, N., P. SMITH, and E. S. TAN.1969.
+Attempted suicide in social networks. Brit. J. Prev. Soc. Med. 23:116-123.
+LANG, K., and G. E. LAN. 1961. Collective Dynamics. Thomas Y. Crowell Co., New York.
+MOTTO, J. A. 1967. Suicide andsuggestibility-- the role of the press. Amer. J. Psychiat. 124:252-256. . 1970. Newspaper influence on suicide. Arch. Gen. Psychiat. 23:143-148.
+NALIN, D. R. 1972. Epidemic of suicide by malathion poisoning in Guyana. Trop. Georg. Med. 25:8-14.
+
+PHILLIPS, D. P. 1974. The influence of suggestion on suicide: Substantive and theoretical implications of the Werther effect. Amer. Sociol. Rev. 39:340-354.
+. 1977. Motor vehicle fatalities increase just after publicized suicide stories. Science 196:1464-1465.
+. 1978. Airplane accident fatalities increase just after stories about murder and suicide. Science 201:148-150.
+. 1979. Suicide, motor vehicle fatalities, and themass media: Evidence toward a theory of suggestion. Amer. J. Sociol. 84:11501174.
+. 1980. Airplane accident, murder, and the mass media: Towards a theory of imitation and suggestion. Soc. Forc. 58:10011024.
+. 1982a. The impact of fictional television stories on U.S. adult fatalities: Newevidence ontheeffect of the mass media on violence. Amer. J. Sociol. 87:1340-1359.
+. 1982b. The behavioral impact of violence inthemass media: A review of the evidence from laboratory and nonlaboratory investigations. Sociol. Soc. Res. 66:387398.
+. 1983. The impact of mass media violence on U.S. homicides. Amer. Sociol. Rev. 48:560-568. RUBENSTEIN, D. H. 1983. Epidemic suicide among Micronesian adolescents. Soc. Sci. Med. 17:657-665.
+SAS USER'S GUIDE. 1982. Statistics. SAS Institute, Inc., Cary, North Carolina.
+TAYLOR, P. 1984. Cluster phenomenon of young suicides raises contagion theory. Washington Post, March 11,p. 15-16.
+WHITLOCK, F. A. 1975. Suicide in Brisbane, 1956 to 1973: The drug-death epidemic. Med. J. Aust. 1975:737-743.
+
+

@@ -1,0 +1,918 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Demographic and socioeconomic links to cigarette smoking
+Richard G. Rogers , Charles B. Nam & Robert A. Hummer
+To cite this article: Richard G. Rogers , Charles B. Nam & Robert A. Hummer (1995) Demographic and socioeconomic links to cigarette smoking, Social Biology, 42:1-2, 1-21, DOI: 10.1080/19485565.1995.9988884 To link to this article: http://dx.doi.org/10.1080/19485565.1995.9988884
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 6
+View related articles
+Citing articles: 3 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:46
+
+Demographic and Socioeconomic Links to Cigarette Smoking
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+aRichard G. Rogers, bCharles B. Nam, and cRobert A. Hummer
+aDepartment of Sociology and Population Program, University of Colorado, Boulder, Colorado 80309;bDepartment of Sociology and Center for the Study of Population, Florida State University, Tallahassee, Florida 32306; and cDepartment of Sociology, Louisiana State University, Baton Rouge, Louisiana 70803
+
+ABSTRACT: This paper illuminates the demographic and socioeconomic factors associated with smoking statuses. It employs the 1990 National Health Interview Survey's Health Promotion and Disease Prevention Supplement and logistic regression to examine the covariates of smoking status among the U.S. adult population. Polychotomous logistic regression, which provides an alternate way to examine smoking practices, simultaneously considers multiple variables and their interactions, controls for other important covariates, produces predicted values and patterns, and allows multiple comparisons. By examining interactions, we have found that age displays distinct, often curvilinear, patterns with smoking; that compared to females, males have higher rates of cigarette consumption except at the youngest ages; that Anglos, especially Anglo males, exhibit high probabilities of cigarette consumption but also high probabilities of being former smokers; that Black males exhibit high probabilities of light smoking, but only at the older ages, and that they also exhibit high probabilities of being former light smokers; and that Mexican-American females are the least likely to currently smoke or to have ever smoked. By clearly elucidating the demographic and socioeconomic variations in smoking, arguably the most salient marker of health behavior, we can better target programs and policies geared toward the reduction of smoking-related diseases and deaths.
+
+There is a vast literature on the factors that influence smoking. Much of this literature, however, examines only one or two smoking statuses, and much of it is aimed at how to bring about smoking cessation (cf. Giovinno et al., 1992). Our research focuses on multiple smoking statuses and aims to determine the underlying demographic and socioeconomic factors related to smoking status.
+Our research on tobacco smoking takes into account several broad categories of demographic and socioeconomic factors. The central demographic characteristics--age, sex, race/ ethnicity--are those that are ascribed to the individual and are generally not subject to change. The prevalence of smoking is low at the youngest ages,
+
+peaks at ages 25-44, and then declines at older ages (CDC, 1993a). Compared to women, men are more likely to smoke and to smoke more cigarettes per day, but they are also more likely to quit. Furthermore, smoking prevalence has declined since 1965 for men and since the late 1970's for women (CDC, 1993b).
+Compared to whites, blacks exhibit higher rates of smoking, but initiate smoking at later ages and smoke fewer cigarettes per day (CDC, 1991). Although blacks try as often as whites, they are less successful at quitting. Low black cessation rates may be attributed to a high nicotine dependence, induced by menthol cigarettes, and revealed through high black "wake-up" smok-
+
+1
+
+2
+
+Rogers et al.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+minutes of awakening (see Novotny et vious research has presented "aver-
+
+al., 1988; Orleans et al., 1989; Royce et age" smoking characteristics, we illus-
+
+al., 1993). Compared to other groups, trate interactions by age, sex, and race,
+
+Mexican-Americans are much more and mediated by socioeconomic char-
+
+likely to have never smoked; if they do acteristics. Thus, in this article, the
+
+smoke, they smoke small quantities of central question we address is: How
+
+cigarettes (Rogers, 1991).
+
+are demographic and socioeconomic
+
+Socioeconomic status refers to those factors related to smoking habits?
+
+factors that describe an individual's rel-
+
+ative social position in society. In past research, the variables under this ru-
+
+MATERIALS AND METHODS
+
+bric have included aspects of educa- We employ the 1990 National
+
+tion, occupation, income, and wealth. Health Interview Survey, Health Pro-
+
+In the context of this research, socio- motion and Disease Prevention Sup-
+
+economic status reflects the package of plement (HPDP), to examine the so-
+
+social and economic resources that ciodemographic covariates of cigarette
+
+give persons the ability to acquire and smoking. NHIS data are derived from
+
+maintain good health. Compared to a household multistage sampling of the
+
+the upper and middle classes, the lower civilian noninstitutional population of
+
+classes take longer to adapt to new the United States through both cluster
+
+health practices, if they adapt at all. and stratified sampling techniques.
+
+In England, men in the highest social The NHIS-HPDP is based on 41,104
+
+class have largely stopped smoking, respondents aged 18 and over (NCHS,
+
+but men in the lowest social class have 1993). In addition to smoking, the
+
+yet to change their smoking beha- NHIS supplements asked respondents
+
+vior significantly (Fox and Goldblatt, about other characteristics, including
+
+1986). In the United States, those with demographic factors and socioeco-
+
+less education and lower incomes are nomic status.
+
+more likely to smoke and less likely to Smoking categories follow the con-
+
+quit (Novotny et al., 1988; Orleans et vention used by the Federal govern-
+
+al., 1989; CDC, 1993a). Indeed, while ment: current smokers have smoked
+
+cigarette advertising seems to be en- at least 100 cigarettes in their lifetime
+
+couraging more lower-class women . and smoke at present; former smokers
+
+and minorities to smoke, more upper- have smoked at least 100 cigarettes
+
+class men are beginning to quit, or to in the past but do not presently
+
+smoke less (Susser et al., 1985; Covey smoke; never smokers either have
+
+et al., 1992).
+
+never smoked at all or have smoked
+
+Smoking habits represent the criti- fewer than 100 cigarettes in their life-
+
+cal broad category of our analysis and time. We have grouped current and
+
+encompass a number of dimensions of former smokers into light (fewer than
+
+tobacco smoking behavior. These be- 20 cigarettes per day) and moderatehaviors include whether persons have to-heavy smokers (20 or more).1
+
+ever smoked, whether they stopped
+
+smoking if they once smoked, and,
+
+1Some studies have disaggregated current smok-
+
+the amount of smoking for those who smoked. Moreover, whereas most pre-
+
+ers into more categories, examining, say, light, moderate, and heavy smokers. Because of interactions with variables with low frequencies, particu-
+
+Vol. 42, No. 1-2
+
+Cigarette Smoking
+
+3
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+To measure ethnicity, we identified three subpopulations: MexicanAmericans, Anglos, and Blacks. Respondents who identified themselves as Mexican, Mexicano, MexicanAmerican, and Chicano were recorded as Mexican-American. Cubans, Puerto Ricans, and the group "Other Hispanics" were excluded from the data set because they were too small to analyze separately and too diverse to combine with Mexican-Americans. Anglos and Blacks were selected from among those who did not identify themselves as Mexican-American.
+We have included two measures of socioeconomic status: income and education. Education was reported as completed years of schooling. A detailed question on family income was asked, but 11 per cent of the respondents did not answer it. We instead use a broader question, which attained a 98 per cent response rate, as to whether the person's family income is $20,000 or higher. Thus, our analysis is based on 37,282 Anglos, Blacks, and Mexican-Americans whoprovided income, education, and smoking information.
+To capture the smoking relationships within a multivariate framework, we perform polychotomous logistic regression analyses with the statistical package BMDP (Dixon et al., 1988).2
+larly with those involving ethnicity, we have retained the light and moderate-to-heavy smoking categories. Few Mexican-American females smoke, especially at the higher levels of cigarette consumption.
+2BMDP correctly calculates the coefficients for polychotomous logistic regression, but does not take into account NHIS-HPDP's complex sampling design in calculating the standard errors. On the other hand, SUDAAN correctly calculates the standard errors from complex sample surveys for dichotomous but not polychotomous logistic regression (see Shah et al., 1991). Therefore, to correctly estimate the coefficients and the standard errors,
+
+Polychotomous logistic regression, which provides an alternate way to examine smoking practices, simultaneously considers multiple variables and their interactions, controls for other important covariates, produces predicted values and patterns, and allows multiple comparisons. In logistic regression, when the predictor variable X¡ changes by one unit, the corresponding B¡ coefficient indicates how much the log of the odds changes relative to a baseline category (Knoke and Bohrnstedt, 1994).
+In contrasting groups, we examine the odds ratios. Odds ratios offer the advantages of clear interpretation and values that do not vary even with shifts in sample size or changes in the marginal distributions (see Morgan and Teachman, 1988). To present the figures, we examine the probabilities, which are calculated by:
+Prob(event) = 1/(1 + e~z),
+where
+z = Bg + B^X^ + B2X2 + B3X3 + . . . + BnXn.
+This procedure allows us to compare, say, the probabilities of never smoking and smoking low amounts of cigarettes, given certain characteristics, say, for young Mexican-American females. In this way, wecan demonstrate how smoking patterns vary by demographic and socioeconomic factors. Note that the figures we present represent predicted probabilities.
+
+we used BMDP to calculate the coefficients, and
+
+SUDAAN for the standard errors. Because the
+
+standard errors are calculated relative to specific co-
+
+efficients (Hosmer and Lemeshow, 1989), we have
+
+presented the p-values but do not include standard
+
+errors.
+
+GANSER LIBRARY
+
+M!LLEÎÎÔV!LLE UNiVHtSITY
+
+M1LLERSVÍLLE.PA 1 7 5 5 1
+
+4
+
+Rogers et al.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Interactions may take different forms, so we define what we mean by the presence and absence of interactions. If the association between one independent variable, say sex, and the dependent variable, smoking, is the same within each level of another independent variable, say age, then there is no interaction between age, sex, and smoking. If, however, the relationship between sex and smoking varies by different ages, then an interaction is present (see Hosmer and Lemeshow, 1989).
+RESULTS
+COVARIATES OF SMOKING
+Table 1 shows the distribution of smoking habits by different factors. Each of the rows adds to 100 per cent. Thus, the first row shows that in 1990 almost half of all adults have never smoked, one-quarter continue to smoke, and a similar proportion have quit. These results show curvilinear relations by age. For instance, there are high proportions of very young or old never smokers, but smaller proportions of never smokers in the middle years. Among those young individuals who do smoke, most smoke few cigarettes. Few individuals younger than 25 years of age are former smokers because there has been a limited time for younger smokers to initiate and then quit smoking. Compared to those younger than 25, those 25-44 years of age are less likely to have abstained from smoking, are more likely to currently smoke, and are substantially more likely to have quit. Those 65 and over are the most likely of all age groups to have quit.
+
+Compared to males, females are more likely to have never started smoking, are more likely to smoke small quantities of cigarettes currently but less likely to smoke large quantities, and are as likely to have quit smoking small numbers of cigarettes but more likely to have quit smoking large numbers of cigarettes. Blacks and Mexican-Americans are more likely than Anglos to smoke a pack or less of cigarettes a day, but Anglos are more likely than other ethnic groups to smoke larger quantities of cigarettes.
+Generally, higher levels of education are associated with an increase in the propensity of individuals to have never smoked and, if a smoker, to have quit (see CDC, 1993a; Pierce et al., 1989). For example, 43 per cent of those with 11 or fewer years of education have never smoked, compared to 59 per cent of those with 17 or more years of schooling. Smoking differences by income are slight, but suggest that individuals with higher incomes are more likely to have never smoked and, if they ever smoked, to have quit (see also CDC, 1993a).
+Table 2 shows the number of cigarettes consumed for current and former smokers. Overall, current and former smokers average a pack of cigarettes a day, with former smokers having smoked slightly more. Generally, those 45-64 years of age, males, Anglos, and less-educated individuals smoke or smoked more cigarettes than their counterparts. For instance, there is a large sex gap for current and former smokers, but especially for former smokers. Males who formerly smoked average almost seven cigarettes more than similar females. The relationships in this table and Table 1,
+
+Vol. 42, No. 1-2
+
+Cigarette Smoking
+
+s
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+TABLE 1
+SMOKING STATUS DISTRIBUTIONS BY DEMOGRAPHIC AND SOCIOECONOMIC COVARIATES: U.S. ADULTS, 1990a
+
+CURRENT
+
+VARIABLE
+
+Total
+
+Demographic Age (in yrs.) Less than 25 25-44 45-64 65+
+
+:
+
+Sex Female Male
+
+Ethnicity Anglo Mexican-American Black
+
+Socioeconomic Status Education (in yrs.) 0-11 12 13-15 16 17 or more
+
+Income 0 Less than $20,000 1 $20,000 or more
+
+Never
+49.2
+
+Light
+11.0
+
+Moderateto-Heavy
+14.9
+
+65.0 15.0 10.0 49.6 12.8 17.2 39.3 8.8 18.5 50.7 6.2 6.7
+
+56.8 11.5 11.9 40.7 10.3 18.1
+
+47.5 9.6 16.2
+
+60.0 17.7
+
+5.1
+
+57.2 17.8
+
+8.5
+
+43.1 13.0 19.3 46.2 12.3 17.6 52.1 10.6 12.9 57.5 7.2 8.0 59.3 5.9 5.6
+48.6 13.8 16.4 49.5 9.6 14.1
+
+SOURCES: Data derived from NCHS, 1993. "Rows may not add to 100 per cent because of rounding.
+
+FORMER
+
+Light
+10.7
+
+Moderateto-Heavy
+14.3
+
+7.3 2.7 10.1 10.4 11.7 21.6 13.7 22.7
+10.6 9.2 10.9 19.9
+10.8 15.8 11.6 5.7 9.7 6.7
+
+9.6 14.9 9.8 14.2 11.0 13.5 13.1 14.2 14.0 15.2
+9.4 11.9 11.4 15.4
+
+however, may be confounded by other factors. To examine simultaneously multiple covariates of smoking status, we turn to Table 3.
+Table 3 illustrates pattern variations for those who have never smoked compared to those who have ever smoked.3 We tested for and found significant interactions between age and ethnicity, age and sex, and ethnicity and sex. Moreover, we found that the relationship of smoking and age was curvilin-
+3Because these data were examined with polychotomous logistic regression, it is possible to construct comparisons with any two smoking statuses, as we demonstrate in the subsequent figures.
+
+ear and best represented with an age-squared term. Thus, the individual odds ratios for age, sex, and ethnicity cannot be interpreted directly, but must be related to the interactions.
+We are primarily interested in demographic relationships to smoking, but we have controlled for socioeconomic effects. Before we turn to the demographic relationships, we will summarize the socioeconomic relationships with smoking. Compared to those with high levels of socioeconomic status, those with lower levels are much more likely still to smoke at higher consumption levels.
+
+6
+
+Rogers et al.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+TABLE 2
+AVERAGE NUMBER OF CIGARETTES SMOKED FOR CURRENT AND FORMER SMOKERS BY DEMOGRAPHIC AND SOCIOECONOMIC COVARIATES, U.S. ADULTS, 1990
+
+Variable
+Total
+Demographic Age (in yrs). Less than 25 25-44 45-64 65+
+Sex Female Male
+Ethnicity Anglo Mexican-American Black
+Socioeconomic Status Education (in yrs.) 0-11 12 13-15 16 17 or more
+Income 0 Less than $20,000 1 $20,000 or more
+SOURCES: data derived from NCHS, 1993.
+
+Current
+19.0
+14.6 19.0 21.4 17.4
+17.0 20.7
+20.2 10.2 13.1
+19.2 19.2 18.5 18.2 16.9
+18.3 19.4
+
+Former
+21.9
+13.5 19.4 24.6 23.3
+17.9 24.7
+22.6 15.2 16.0
+23.1 22.6 21.0 20.6 20.2
+21.6 22.0
+
+An additional year of education increases the odds of never smoking rather than current moderate smoking by one-quarter. Similar results occur for income: compared to never smokers, individuals with low income are over 30 per cent more likely to smoke currently than individuals with high income. Generally, healthy practices progress from the higher to the lower socioeconomic statuses (see Novotny et al., 1988; Orleans et al., 1989).
+DEMOGRAPHIC INTERACTIONS WITH
+CIGARETTE SMOKING
+Table 3 also illustrates interactions among age, sex, ethnicity, and smoking, which suggests that the demo-
+
+graphic relationships with smoking are complex. Because three two-way interactions are difficult to see and interpret, we display four figures. The first figure presents the probabilities of age arid sex interactions, controlling for other covariates; the second, age and ethnicity interactions; the third, sex and ethnicity interactions; and the fourth figure, the predicted probabilities of smoking based on the three twoway interactions. The probabilities are calculated for different age, sex, and ethnic groups, holding the other covariates constant at their means. For example, in the first figure, we examine males and females by age and smoking status, but (using the sample mean
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+TABLE 3
+POLYCHOTOMOUS LOGISTIC REGRESSION COEFFICIENTS OF CIGARETTE SMOKING STATUS, DEMOGRAPHIC AND SOCIOECONOMIC COVARIATES: U . S . ADULTS, I 9 9 O
+
+VARIABLES
+Age, sex, and ethnicity Age Age2 Sex Anglo Mexican-American Black
+Interactions Age by sex Age2 by sex Age by Mexican-American Age2 by Mexican-American Age by Black Age2 by Black Sex by Mexican-American Sex by Black
+Socioeconomic Education High income Intercept
+SOURCE: Data derived from NCHS, 1993. »PsO.OOl.
+'PsO.Ol. 'PsO.lO.
+
+A. CURRENT LIGHT
+0.154» -0.022» -0.374*
+ref -0.587 -1.511e
+0.078 0.002 0.368* -0.025* 0.533 -0.037 1.003 0.493
+-0.162» -0.333
+0.796
+
+B. CURRENT MODERA TE-TO-HEAVY
+
+C. FORMER LIGHT
+
+Compared to Never Smoker
+
+0.901" 0.077»
+0.102 ref 2.211» 2.594»
+
+0.197» -0.013» -0.288d
+ref -1.101e
+-2.123»
+
+0.102e 0.002 2.285 0.034d 0.338* 0.023* 0.886* 0.670»
+
+0.052
+0.006 0.261d -0.017 0.602» -0.041»
+0.598 0.245
+
+0.301» 0.398» 0.794»
+
+-0.016 0.113*
+-2.060»
+
+D. FORMER MODERATE-TO-HEAVY
+0.752» 0.050» 0.291 ref 2.289e 1.651*
+0.199* 0.001 0.188 0.008 0.147 0.010 0.525d 0.382*
+0.108» 0.138» 2.722»
+
+¡gai
+
+£
+2; o
+n
+1re
+xan o
+E
+03
+
+8
+
+Rogers et al.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+values) hold constant ethnic and socioeconomic characteristics. In the second figure, we examine MexicanAmericans, Blacks, and Anglos by age and smoking status, but hold constant sex and socioeconomic factors.4
+Age and Sex. --To understand how smoking varies by age and sex, Figure 1 presents the probabilities calculated from Table 3.5 We present eight of the ten combinations.6 The first four panels contrast different ever smokers to never smokers. Figure IE compares two groups of current smokers who consume different amounts of tobacco. Figure IG provides a similar contrast, but for former smokers. And Figures IF and 1H each contrast subgroups that currently smoke to others that have quit. Therefore, unlike smoking prevalence rates or quit rates, which compare, say, former smokers to ever smokers, these figures provide more detail, comparing the probabilities that individuals will be in one category or another, say, former light or current light smokers. As Figure 1 demonstrates, such contrasts reveal patterns unexposed by prevalence or quit rates.
+Smoking varies by age, with a distinct curvilinear pattern for ever smokers. In Figures 1A, IB, and IE, the
+4The sample means were 0.47 for sex, 0.05 for Mexican-Americans, 0.11 for Blacks, 12.97 for education, 0.67 for incomes of $20,000 or more, 6.17 for age, 48.17 for age2, 2.86 for age by sex, 21.85 for age2 by sex, 0.22 for age by Mexican-American, 0.64 for age by Black, 1.37 for age2 by MexicanAmerican, and 4.73 for age2 by Black. Age is coded in 5-year age intervals from age 1 (less than 20 years of age) to 11 (age 65 and above).
+5Except for the age extremes, age is presented in the figures as the initial age of the 5-year interval.
+6We do not present current light to former moderate-to-heavy smokers or current moderateto-heavy to former light smokers because these two combinations do not compare subpopulations that are in similar categories.
+
+probabilities of ever smoking begin low in young years, peak in the middle years, and taper to low levels at older years. For example, in Figure 1A, the probability that males are current light smokers rather than never smokers is low at the youngest ages, peaks at ages 40-44, and declines from ages 45 on. Former smokers, especially former light smokers, display a more linear pattern. Figures 1C and IF indicate that older individuals are more likely than younger individuals to have quit, and that the probability of being a former light smoker instead of a never smoker or current light smoker is highest for the oldest ages.
+Several sex differences emerge from these figures. First, males generally exhibit higher probabilities than females of smoking and of smoking larger quantities (see Figures 1A, IB, and IE). But these higher probabilities are partially offset by the greater probabilities males show for having quit smoking, especially at higher levels of cigarette consumption (see Figures 1C, ID, and IG).
+Third, the peaks for smoking statuses vary by sex, with females peaking at earlier ages than males (see Ernster 1993). For example, the peak for current moderate smokers is at ages 45-49 for males, but five years earlier for females. A fourth and interrelated finding is that, between the sexes, there are several age crossovers. Figure 1A shows that, relative to never smokers, young females are more likely than young males to smoke less than a pack of cigarettes a day. These figures, then, help reveal the interrelations among age, sex, and smoking statuses.
+Age and Ethnicity.--Figure 2 presents age and ethnicity interactions by
+
+Vol. 42, No. 1-2
+
+Cigarette Smoking
+
+9
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+smoking status. Again, observe the general curvilinear relations with age. In most figures, Mexican-Americans and Blacks display similar patterns, but with a few unique deviations by Mexican-Americans. For example, while Anglos and Blacks display curvilinear relations between current moderate-to-heavy and light smoking, Mexican-Americans exhibit a linear gradation. The probability of being a current moderate-to-heavy relative to current light smoker peaks at age 45 and then declines for Anglos and Blacks, but continues to increase through the oldest ages for MexicanAmericans. And whereas the probability of being a former smoker, rather than current moderate-to-heavy smoker, is low at the youngest ages and increases slowly until the oldest ages, the probabilities for MexicanAmericans are more progressive. Compared to never smokers, Blacks who smoke are more likely than other groups to smoke less than a pack of cigarettes a day (see Rogers and Crank, 1988). Anglos continue to exhibit the highest levels of moderate-toheavy smoking, but also exhibit the greatest chances of quitting at moderate-to-heavy levels (see Figures 2B, 2D, 2E, and 2G).
+Sex and Ethnicity.--Figure 3 reveals interactions between sex, ethnicity, and smoking. Males are generally more likely than females to have ever smoked, especially at higher levels of consumption. But compared to never smokers, the probability of being a light smoker is greater for Anglo females than males. Usually, Anglo females are more likely than Black females, who are more likely than Mexican-American females, to have
+
+ever smoked. The exception is Black female current light smokers. Anglo males are more likely than other males to be current moderate-to-heavy smokers or to have quit moderate smoking.
+SMOKING PREDICTIONS BASED ON
+THREE TWO-WAY INTERACTIONS
+Figure 4 portrays the predicted probabilities of smoking based on the three two-way interactions of age, sex, and ethnicity on cigarette smoking as calculated from Table 3. Building on the previous figures, we can discern several patterns. Figure 2 showed higher rates of current light smoking for Blacks than other ethnic groups. Figure 4A shows an interaction among ethnicity, sex, age, and smoking. Black males and females exhibit higher rates of light smoking than their Anglo male and female counterparts, but only in the middle years. For example, compared to Anglo females, Black females are less likely to be current light than never smokers below age 25 and at ages 65 and above (Figure 4A). But young Anglo females are twice as likely as Black females to be current light than never smokers (see also Geronimus et al., 1993). Nevertheless, Black middle-aged males are by far the most likely groups to smoke less than a pack of cigarettes a day. The chances of a 45-49 year old Black male being a current light rather than never smoker is 1 in 2.5; the similar probability for Mexican-American females is just 1 in 7.
+Generally, current moderate-toheavy smokers are more likely to be male than female (see Figure 1) and Anglo rather than Mexican-American
+
+10
+
+Rogers et al.
+
+Social Biology
+
+C/5
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+d
+/imqeqoJd
+1
+i] ·Í
+a Z
+\O
+
+3
+O T3 C ta
+! CL
+·a
+I
+
+or Black (see Figure 2). Indeed, Anglo males consistently exhibit the highest rates of current moderate-to-heavy smoking (see Figures 4B and 4E). Anglo females are more likely than all
+
+sex and ethnic groups, save Anglo males, to be current moderate-toheavy smokers through age 35 (Figure 4B); beginning at age 40, the probabilities that Anglo females will be current
+
+Vol. 42, No. 1-2
+3 O
+
+Cigarette Smoking
+X
+ó
+O 3
+O I
+ó
+·oo
+
+11
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+E E
+05
+
+·a o
+c
+Q> V "
+to
+d
+ui
+
+AllüqeqoJd
+
+I
+¿
+
+00
+
+moderate-to-heavy smokers quickly diminishes. Anglo females are more likely to be current moderate-to-heavy smokers than Black males until age 40
+
+and than Mexican-American males until age 55.
+Figure 1 identified sex crossovers by age for current and former light smok-
+
+12
+
+Rogers etal.
+
+Social Biology
+
++ to
+o
+CD
+m m
+o
+m *r
+o g» *<
+m
+CO
+
+ntrOlli
+
+ari tes
+
+c/S D
+»,
+8>
+U 0
+t2 60
+8
+
+60
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+rived i
+·edicted prob ities
+
+oc
+
+o
+cEo
+
+O
+
+m
+CO
+
+*J3
+
+z o ri
+
+S
+
+oo
+CM O
+1
+V
+
+ers, but Anglos are the only ethnie more likely to be former light smokers group to exhibit the sex crossover: (Figure 4C). Anglo females are more through age 25 Anglo females are likely than Anglo males to be current more likely to beformer light smokers; light smokers through age 20 (Figure beginning at age 30, Anglo males are 4A).
+
+Vol. 42, No. 1-2
+
+Cigarette Smoking
+
+13
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+AllliqeqoJd
+
+The sex crossover for former compared to current moderate-to-heavy smokers displayed in Figure 1H and the ethnic crossover displayed in Figure 2H is illuminated in Figure 4H. At
+
+the youngest ages, even though males and females exhibit similar propensities to engage in heavy cigarette consumption (see Figure 4B), females display a greater probability of no longer
+
+14
+
+Rogers et al.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+·mer
+
+E 10
+z
+o
+i
+6
+
+·o
+m
+AllliqeqoJd
+·a
+
+i'
+0) J£
+O
+E i | UHR
+
+z
+o
+
+>
+Z
+
+ca
+i JD O
+
+O
+
+1n1 ex
+%O) -a '·5
+
+&,
+
+£I _\--\_A--^---N---
+
+smoking rather than smoking at high consumption levels (Figure 4H). At the older ages, however, males are more likely than their ethnic counterparts to be former rather than current
+
+moderate-to-heavy smokers (Figure 4H). Mexican-American males and females distinguish themselves as the only two groups in which the probabilities of being a former rather than
+
+Vol. 42, No. 1-2
+
+Cigarette Smoking
+
+Former nav )te-
+
+:V
+
+I Ó
+
+je
+BÊJÊHHHÊÊÊÊÊ O m
+
+0) je
+
+: Smo
+
+E M M ·Jai
+
+H ÍÜÜH|HH|
+
+o
+5
+
+c
+
+!
+j
+
+LI -
+
+d
+o
+
+fmm
+
+.c XwtMxk
+
+£
+IX
+2
+
+J
+
+rmer
+
+s. \ \ \ \ \ \en co r S
+
+r
+
+\o
+
+\
+CJ
+
+\
+i-
+
+fS í-i r-i ei
+
+\
+C
+
+5o
+c
+s
+c o
+>
+X
+ó
+a n ·aoi
+o S
+
+15
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+o Z
+o
+·
+·oo
+o> to i*. 3 ü
+
+i«
+H
+
+\ ·. s \ \ N N
+AltliqeqoJd
+
+1
+o
+
+current heavy smoker is consistently greater at each older age group (Figure
+4H). Figure 4 shows that at theolder ages
+all males, but especially Anglo males,
+
+are more likely than similarly aged females to be former rather than never
+smokers (Figures 4C and 4D). These two figures, however, are slightly misleading. Because more males than
+
+16
+
+Rogers etal.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+A|i|iqcqoJd
+
+o Fen-
+
+A Fern
+
+*«- Blac:k Female ~1 *- Blac:k Male 1
+
+C
+'oSi
+ii CD CO
+w
+tt
+(D
+3 o
+îÏ
+
+i
+-a
+
+to r-~ w
+
+o oj . -
+
+I
+. CA
+D üo
+tC 2
+
+females have ever smoked, there are more clearly determine sex differences fewer male never smokers; therefore, between current and former smokers. at the older ages, youwould expectthe Figures 4F and 4H reveal that within probability of being a former smoker each ethnic group, theprobabilities of or never smoker to approach one. By being a former or current smoker are comparing Figures 4Fand4H, we can almost thesame formales and females.
+
+Vol. 42, No. 1-2
+
+Cigarette Smoking
+
+17
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015 île
+
+to
+
+O
+o
+
+có ÔJ ^ AlüiqeqoJd
+
+o
+
+o
+1/5
+
+ó c\j ^~ AlüiqeqOJd
+
+03
+U.
+Üo ro
+CÛ CD
++<l
+«3
+E
+Q) U_
+«Í <t
+Ss
+t !,
+<D
+E
+1<D
+U.
+Oo CcT 0) <<
+
+8
+
+3 OÖ
+ü
+
+Anglo and Black males have greater probabilities than comparable females of being a former light smoker. But Mexican-American females exhibit a
+
+greater probability than males of being a former rather than current light smoker at every age. And MexicanAmerican females exhibit a greater
+
+18
+
+Rogers et al.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+probability than males of being a former rather than current moderateto-heavy smoker at all but the oldest ages.
+Royce et al. (1993) reported that Blacks were motivated but often unsuccessful at quitting smoking. Figures 1C and ID illustrate that Blacks, especially older males, succeed in quitting. Because Blacks begin smoking at older ages, relatively few young Black males are at risk of quitting. At older ages, however, more Blacks smoke and are therefore at risk of quitting; many do quit. Thus, detailed smoking distributions by age and race clarify otherwise paradoxical findings.
+One pervasive finding is that Mexican-American females are the most likely among sex-ethnic combinations to be never smokers. Therefore, we find pronounced differences in the odds ratios between MexicanAmerican females and groups who exhibit a high propensity to smoke. For example, compared to similarly aged Mexican-American females, Black males aged 45-49 are about 4 times more likely to be current light smokers rather than never smokers; Anglo females aged 40-44 are 15 times more likely to be current moderate-to-heavy rather than never smokers; MexicanAmerican males aged 65 and over are 5 times more likely to be former light than never smokers; and Anglo males aged 55-59 are 17 times more likely to be former moderate-to-heavy than never smokers.
+CONCLUSION
+Demographic and socioeconomic variables influence the odds of a person being a never smoker, current smoker, or former smoker. Past research has
+
+established the consequences of smoking tobacco for the deterioration of a person's health and increased chances of dying prematurely (see Elo and Preston, 1992; Rogers and PowellGriner, 1991). Because the deleterious long latency influences of smoking usually affect individuals most when they are at adult ages, smoking is a critical behavior for the maintenance of health and long life for adults. Indeed, smoking may contribute to leukemia, peptic ulcer disease, diabetes, and declines in bone density, and is clearly implicated in its association with respiratory diseases, circulatory diseases, and cancer, especially lung cancer (see CDC, 19936; Nam et al., 1994; Rimm et al., 1993; Rowe and Kahn, 1987). Therefore, better understanding of the social and demographic factors that influence smoking behavior could result in improved ways to encourage individuals to abstain from smoking, to reduce their smoking, or to quit, and thereby reduce morbid conditions, chronic diseases, and disability.
+We have uncovered several smoking patterns by age and sex. Generally, age is curvilinearly related to smoking, such that the probability of being a never smoker is highest at the age extremes. At the youngest ages, before individuals are initiated into smoking, there are a large number of never smokers. Thus, to maintain a high proportion of never smokers requires that social and public health programs prevent youths from ever becoming full initiates. At the older ages, three separate phenomena may produce a large proportion of never smokers. First, since smoking practices have changed over time, older individuals may represent a cohort who never started smoking. Individuals aged 50 and over
+
+Vol. 42, No. 1-2
+
+Cigarette Smoking
+
+19
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+would have been adolescents, the age group at highest risk of smoking initiation, before cigarette consumption reached its peak, in 1963 (Ravenholt 1990). Second, older individuals who smoked briefly or in the distant past may consider themselves never smokers even though they do have a past smoking history. Third, since ever smokers have higher mortality than never smokers, this higher mortality may selectively kill smokers leaving never smokers at the older ages. Most likely the three explanations combine to account for the high proportion of never smokers, with the first explanation the most salient.
+At younger ages, females are as likely as males to consume high numbers of cigarettes and more likely to consume low to moderate numbers of cigarettes. Thus, at the younger ages, females are not only paralleling but are exceeding male smoking habits. Fortunately, young females exhibit high probabilities of quitting. If females exhibited low rates of smoking and high rates of quitting, we would expect that subsequent lung cancer diagnosis and mortality attributed to cigarettes would be substantially lower than, rather than close to, male rates.
+There are interactions by sex and ethnicity. Generally, never smokers are more likely to be female and Mexican-American; current moderateto-heavy smokers are more likely to be male and Anglo (see also Fiore et al., 1989). Thus, we can expect the largest differences between MexicanAmerican females and Anglo males. In fact, compared to Mexican-American females aged 45-49, Anglo males at similar ages are 33 times more likely to be moderate-to-heavy smokers rather than never smokers. This suggests that
+
+there are substantial differences in smoking by age, sex, and ethnicity that must be recognized in any public health or policy decisions.
+Several studies reported high Black motivation but low success in smoking cessation (see Orleans et al., 1989; Royce et al., 1993). Others have noted that education moderates the race effects in smoking: "Education is negatively related to age of smoking onset, amount smoked, and perceived difficulties quitting; it is positively related to plans to quit, beliefs that smoking is related to lung cancer and that lung cancer would have serious consequences" (Manfredi et al., 1992, p. 268). We have shown that many Blacks successfully quit smoking, especially at older ages. Thus, age and education adjustments clarify Black smoking patterns. Nevertheless, continued antismoking programs are warranted, particularly for the poor. For example, Lacey et al. (1993) recommend that programs deal with the root causes of smoking, including, for example, the unique stress, isolation, and limited social and economic resources apparent in public housing.
+Like most previous studies, we have examined smokers at one point in time to compare one smoking status to another. These relations illustrate how smoking is affected by demographic variables and other covariâtes, but we have not been able to compare smoking transitions. Such comparisons, which require longitudinal data, are warranted for future research and could show, for instance, the quit rates for people at different consumption levels.
+These results can inform health planners and policy makers. Policy decisions and health care strategies can
+
+20
+
+Rogers et al.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+be effective at the individual or structural levels.
+For examples, policies can influence individual health behaviors, but are mediated by demographic characteristics--age, sex, race, and ethnicity-- and also by major social institutionsfamily, school, and work. Individual smoking choices are often based on peer norms, whether family members smoke, and larger social norms and values.
+Structural forces can promote positive individual health behavior: the American Cancer Society and the American Heart Association cansponsor such programs as the Great American Smokeout; federal, state, andlocal governments can legislate smoking practices; schools can teach smoking prevention curricula; businesses can enact policies to prevent smoking; the media can promote anti-smoking campaigns; and health care providers can advise smokers to quit (see CDC, 1993c; DHHS, 1991; Shopland, 1993). Such programs help, but are dwarfed
+
+by the advertising and influence of the tobacco industry (Davis, 1987;Barry, 1991).
+Ultimately, then, individuals themselves must opt for healthy lifestyles free of cigarettes. This article has further elucidated both the complex nature and patterned responses to smoking. By clearly elucidating the demographic and socioeconomic variations in smoking, arguably the most salient marker of health behavior, we can better target programs and policies geared toward the reduction of smoking-related diseases and deaths.
+ACKNOWLEDGMENTS
+This research was supported in part by National Institute on Aging grant No. 1R01 AG10113-01A2. An earlier version of this paper was presented at the annual meetings of the Southern Demographic Association held October 21-23,1993, in New Orleans, LA. The authors are grateful for statistical advice from Jay Teachman, research assistance from Jacqueline Carrigan, and word processing from Susan Spika.
+
+REFERENCES
+
+BARRY, MICHELLE. 1991. The influence of the
+U.S. tobacco industry on the health, economy, and environment of developing countries. New Eng.J. Med.324(13):917-919.
+CENTERS FOR DISEASE CONTROL. 1993a. Cigarette
+smoking among adults--United States, 1991. Morbid. Mortal. Wkly. Rep. 42(12):230233. _____. 1993b. Cigarette smoking--Attributable mortality and years of potential life lostUnited States, 1990. Morbid. Mortal. Wkly. Rep. 42(33):645-649. _____. 1993c. The Great American Smokeout, November 18, 1993. Morbid. Mortal. Wkly. Rep. 42(44):853. _____. 1991. Differences in the age of smoking initiation between blacks and whites-- United States. Morbid. Mortal. Wkly. Rep. 40:754-757.
+COVEY, LIRIO S., EDITH A. ZANG, and ERNST L.
+WYNDER. 1992. Cigarette smoking andoccu-
+
+pational status: 1977 to 1990. Amer. J. Publ. Hlth. 82(9):1230-1234.
+DAVIS, RONALD M. 1987. Current trends in cigarette advertising and marketing. New Eng. J. Med.316(12):725-732.
+DIXON, W. J., M. B. BROWN, L. ENGELMAN,
+M. A. HILL, and R. I. JENNRICH. 1988.
+BMDP statistical software manual. Volume 2. Univ. of California Press, Los Angeles, CA.
+ELO, IRMA T., and SAMUEL H. PRESTON. 1992.
+Effects of early-life conditions on adultmortality: A review. Pop.Index 58(2):186-212. ERNSTER, VIRGINIA L. 1993. Women and smoking. Amer. J. Pub. Hlth. 83(9):1202-1204.
+FIORE, M. C., T. E. NOVOTNY, J. P. PIERCE, E. J.
+HATZIANDREU, K. M. PATEL, and R. M.
+DAVIS. 1989. Trends in cigarette smoking in the United States: Thechanging influence of gender and race. J. Amer. Med. Assoc. 261:49-55.
+
+Vol. 42, No.1-2
+
+Cigarette Smoking
+
+21
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Fox, JOHN, and PETER GOLDBLATT. 1986. Have
+inequalities in health widened? A preliminary study of recent changes in social class differences in male mortality. In Spcioeconomic differential mortality. International Seminar on theSocio-Economic Aspectsof Differential Mortality. Statistical Publishing House, Hungary.
+GERONIMUS, ARLINE T., LISA J. NEIDERT, and
+JOHN BOUND. 1993. Agepatterns of smoking in U.S. black and white women of childbearing age. Amer. J.Pub. Hlth. 83(9):12581264.
+GIOVINNO, GARY A., MICHAEL P. ERIKSEN, and
+JEFFREY W. MCKENNA. 1992. Thevital diversity of tobacco control research. Amer. J. Publ. Hlth. 82(9):1203-1205.
+HOSMER, DAVID W., and STANLEY LEMESHOW.
+1989. Applied logistic regression. John Wiley and Sons,NY.
+KNOKE, DAVID, and GEORGE W. BOHRNSTEDT.
+1994. Statistics for social data analysis. 3rd ed. F. E. Peacock Publishers, Itasca, IL.
+LACEY, LORETTA P., CLARA MANFREDI, GEORGE
+BALCH, RICHARD B. WARNECKE, KAREN
+ALLEN, and CONSTANCE EDWARDS. 1993. So-
+cial support in smoking cessation among black women in Chicago public housing. Pub. Hlth. Rep. 108(3):387-394.
+MANFREDI, CLARA, LORETTA LACEY, RICHARD
+WARNECKE, and MARIANNE BUIS. 1992.
+Smoking-related behavior, beliefs, andsocial environment of young black women in subsidized public housing in Chicago. Amer. J. Publ. Hlth. 82(2):267-272.
+MORGAN, S. PHILIP, and JAY D. TEACHMAN.
+1988. Logistic regression: Descriptions, examples, and comparisons. J. Marr. Fam. 50(4):929-936.
+NAM, CHARLES B., ROBERT A. HUMMER, and
+RICHARD G. ROGERS. 1993. Underlying and
+multiple cases of death related to smoking. Pop. Res.Pol. Rev. 13(3):305-326.
+NATIONAL CENTER FOR HEALTH STATISTICS. 1993.
+National Health Interview Survey, 1990: Health promotion and disease prevention supplement. Public UseSample, documentation, and codebook. NCHS, Hyattsville, MD.
+NOVOTNY, THOMAS E., KENNETH E. WARNER,
+JULIETTE S. KENDRICK, and PATRICK L.REM-
+INGTON. 1988. Smoking byblacks and whites: Socioeconomic and demographic differences. Amer. J. Pub. Hlth. 78(9):1187-1189.
+ORLEANS, CAROLE TRACY, VICTOR J. SCHOEN-
+
+BACH, MARY ANNE SALMON, VICTOR J.
+STRECHER, WILLIAM KALSBEEK, DANA
+QUADE, EDWARD F. BROOKS, ROBERT KON-
+RAD, CHARLES BLACKMON, and CHARLES D.
+WATTS. 1989. Asurvey ofsmoking and quitting patterns among black Americans. Amer. J. Pub. Hlth. 79(2):176-181.
+PIERCE, J. P., M. C. FIORE, T. E. NOVOTNY, E. J.
+HATZIANDREU, and R. M. DAVIS. 1989.
+Trends in cigarette smoking in the United States: Educational differences areincreasing. J. Amer. Med. Assoc. 261:56-60. RAVENHOLT, R. T. 1990. Tobacco's global death march. Pop. Develop. Rev. 16(2):213-240.
+RIMM, ERIC B., JOANN E. MANSON, MEIR J.
+STAMPFER, GRAHAM A. COLDITZ, WALTER C.
+WILLETT, BERNARD ROSNER, CHARLES H.
+HENNEKENS, and FRANK E. SPEIZER. 1993.
+Cigarette smoking and the risk ofdiabetes in women. Amer. J. Pub. Hlth. 83(2):211-219.
+ROGERS, RICHARD G. 1991. Demographic characteristics ofcigarette smokers inthe United States. Soc.Biol. 38(1-2):1-12.
+ROGERS, RICHARD G., and JOHN P. CRANK. 1988.
+Ethnic differences in smoking patterns: Findings from NHIS. Pub. Hlth. Rep. 103(4):387-393.
+ROGERS, RICHARD G., and EVE POWELL-GRINER.
+1991. Life expectancies of cigarette smokers and non-smokers in the United States. Soc. Sci. Med.32(10):1151-1159.
+ROWE, JOHN W., and ROBERT L. KAHN. 1987.
+Human aging: Usual and successful. Science 237:143-149.
+ROYCE, JACQUELINE M., NORMAN HYMOWITZ,
+KITTY COBETT, TYLER D. HARTWELL, and
+MARIO A. ORLANDI. 1993. Smoking cessation factors among African Americans and whites. Amer. J. Publ. Hlth. 82(2):220-226.
+SHAH, BABUBHAI V., BETH G. BARNWELL, P. Ni-
+LEEN HUNT, and LISA M. LAVANGE. 1991.
+SUDAAN user's manual. Research Triangle Institute, Research Triangle Park, NC. SHOPLAND, DONALD R. 1993. Smoking control in the 1990's: A National Cancer Institute Model for Change. Amer. J. Publ. Hlth. 83(9):1208-1210.
+SUSSER, MERVYN W., WILLIAM WATSON, andKIM
+HOPPER. 1985. Sociology in medicine. Oxford Univ. Press, NewYork.
+U.S. DEPARTMENT OF HEALTH AND HUMAN SER-
+VICES. 1991. Healthy people: National health promotion and disease prevention objectives. USGPO, Washington, DC.
+
+

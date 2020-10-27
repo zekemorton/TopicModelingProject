@@ -1,0 +1,756 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Contribution of causespecific mortality to changing sex differences in life expectancy: Seven nations case study
+Frank Trovato & N. M. Lalu
+To cite this article: Frank Trovato & N. M. Lalu (1998) Contribution of causespecific mortality to changing sex differences in life expectancy: Seven nations case study, Social Biology, 45:1-2, 1-20, DOI: 10.1080/19485565.1998.9988961 To link to this article: http://dx.doi.org/10.1080/19485565.1998.9988961
+Published online: 23 Aug 2010.
+Submit your article to this journal
+Article views: 48
+View related articles
+Citing articles: 4 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:47
+
+Contribution of Cause-specific Mortality to Changing Sex Differences in Life Expectancy: Seven Nations Case Study
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Frank Trovato and N. M. Lalu
+Population Research Laboratory Department ofSociology University ofAlberta Edmonton, Alberta T6G 2H4 Canada
+
+ABSTRACT: During the last two decades some industrialized nations witnessed varying degrees of constriction in their sex gaps in overall life expectancy. We investigate this development by paying particular attention to the contributions of major causes of death to the change in the difference between 1970 and 1990. The analysis is based on the experiences of seven nations: Australia, United States, Sweden, England and Wales, Portugal, Hungary, and Japan. In the first four countries the gap has been narrowing during the last twenty years; in Hungary and Japan, the difference remains substantial and continues to expand; in Portugal the situation is characterized by a slowdown in the amount by which the sex gap is expanding over time. We apply decomposition analysis to answer the following questions: (1) What is the relative contribution of major causes of death to sex differences in average length of life within broad age categories? (2) How do the contributions of age and cause of death vary across time to either widen or narrow the sex gap in survival? (3) How do the patterns of cause contribution vary across societies?
+
+During this century industrialized countries have followed a pattern of widening sex differences in life expectancy at birth. This difference has favored females over males by anywhere from two to seven years, depending on the time period and the country.1 Notwithstanding a continuation of life expectancy gains by both sexes, some societies have witnessed during the last two decades varying degrees of constriction in the sex difference in overall survival. Though not yet widespread to all industrialized nations, this trend may represent an emerging feature of the most advanced stages of epidemiologic transition (Omran, 1971;
+1Before the advent of modern medicine in the Western world, females had higher death rates than males in the ages between 15 and 49 (i.e., the childbearing years).
+
+Olshansky and Ault, 1986; Rogers and Hackenberg, 1991; Trovato and Lalu, 1996). Should this phenomenon sustain, it will represent a break from the historical pattern of change in one of the most entrenched differences in human populations (Ascadi and Nemeskeri, 1970; Lopez, 1983; Vallin, 1983, 1993; Preston, 1976; Stolnitz, 1956; Waldron, 1993).
+Our statistical analysis of the change in this differential involves an examination of cause-of-death contributions to the sex gap within broad categories of age between 1970 and 1980, and then between 1980 and 1990. We have selected seven nations which represent varying patterns of development in the difference in survival between men and women: Australia, the United States, Sweden, England/Wales, Portugal, Hungary, and
+
+1
+
+2
+
+Trovato and Lalu
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Japan. The first four societies are highly advanced Western nations where the sex gap has been narrowing. Portugal is a country where the gap has continued to widen, but the magnitude of change in this measure over time (i.e., the rate of change of sex gap with respect to time) is getting smaller. Hungary and Japan reflect two diverse societies where the difference in survival has been expanding by a relatively large amount over the last two decades. We investigate the varied experiences of these seven nations from the point of view of three questions: (1) What is the relative contribution of causes of death categories to sex differences in average length of life within broad age groups? (2) How do the contributions of age and cause of death vary across time periods to either widen or narrow the sex gap in survival? (3) What is the pattern of cause contribution to the sex gap within each of the seven nations?
+CHANGE IN THE SEX DJPFERENTIAL IN LIFE EXPECTANCY AT BIRTH: 1940-1990
+Figure 1 shows country-specific trends in the differential (i.e., the female expectancy minus the male expectancy) from 1940 to 1990 in ten-year intervals.2 In 1940 the gaps in overall survival ranged from a low of 2.8 in Japan, to a high of 6.2 in Portugal. The peak value of this difference in Australia, the United States and Sweden, occurred in 1980. In England and Wales (hereafter England/Wales) the apex took place a decade earlier.
+
+Since 1980, the gender-based difference in Hungary has been expanding by a relatively large amount; and by 1990 this country showed the most pronounced disparity of all seven nations in this analysis. Earlier this century (i.e., in 1940) Hungarian women lived on average 4.2 more years than their male counterparts. By the early 1970's this gap had risen to 5.9, widening to 9.0 years in 1990. The divergence in the sex gap in this society can be attributed to the large mortality gains females have enjoyed over the past four or five decades on the one hand, and to some erosion in male expectancy, most noticeable since the early 1970's.
+Currently, the life expectancies of Japanese men and women exceed those of other persons in all other nations (Yanagishita and Guralnik, 1988). However, the sex differential in overall survival in this country has been expanding. The change in the sex gap peaked during the decade of the 1960's, when the female advantage over males had increased from that which prevailed in the preceding decade by 1.50 years of life expectancy. Between 1960 and 1970 there occurred a decline of half a year in this measure; and even though there was no perceptible change between 1970 and 1980, over the ensuing decade the disparity had expanded by almost a whole year of life expectation (i.e., 0.90), representing one of the largest expansions in the sex gap across all industrialized nations.
+EPIDEMIOLOGICAL TRANSITION AND SEX DIFFERENCES IN LIFE EXPECTANCY
+
+2Thelife expectancy figures are actually for the following periods: 1939-41, 1949-51, 1959-61, 1970, 1980, and 1990. Data sources are given in the footnote in Figure 1.
+
+What epidemiological shifts might explain the different experiences of the seven nations? Trovato and Lalu (1996)
+
+Vol. 45, No. 1-2
+
+Life Expectancy
+
+3
+
+Change of Female-Male Gap in Life Expectancy at Age Zero, 1940 · 1990
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+··x
+-- · - --Japan
+-- Australia
+- - X - -USA - - S K - - EnglandMfeles
+-- e - -- Portugal
+--i-- -- Hungary
+
+1940
+
+1960
+
+1960
+
+1970
+
+Year
+
+1960
+
+1990
+
+FIG. 1.--Change of female-male gap in life expectancy at age zero, 1940-1990. (Data are from World Health Organization Statistics Annual for periods before 1970. For 1970, 1980, and 1990, data are from World Health Organization computerized tapes. Data for Portugal, 1940, are from Preston et al., 1972. Data for Hungary, 1940, are not available.)
+
+have documented that narrowing of sex differences in overall life expectancy in industrialized nations is the result of a more rapid acceleration of male expectancy over the last two decades, coupled with a concomitant slowdown in the pace of female gains in this measure. We have observed a similar situation among the four countries in this analysis that have experienced some degree of narrowing in the sex gap--that is, in the United States, Australia, England and Wales, and Sweden. In nations where the sex gap continues to expand, as in Portugal, Japan, and Hungary, the female expectancy has risen
+
+faster than that of males (equations available on request).
+In the first four countries, the underlying dynamics for narrowing sex differences in survival are likely to be found in relatively recent changes in mortality among the older age segments of the population. In fact, Olshansky and Ault (1986) have shown that since the early 1970's mortality declines in the United States (and presumably also in other highly advanced nations) are concentrated mostly at advanced ages; and the distribution of deaths for degenerative conditions is being shifted progressively toward the
+
+4
+
+Trovato and Lalu
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+older ages. However, mortality changes in youth and the working ages may also play an important part in either widening or narrowing sex differences in life expectation over time. Rogers and Hackenberg (1991) have argued that the contemporary epidemiological scene in advanced nations is increasingly being conditioned by life styles and personal behaviors, as reflected in the use of harmful and illegal substances, alcohol, and tobacco. The rising incidence of social pathologies among the relatively young, and increased risks of motor vehicle fatalities, suicide, homicide, and other forms of violence, account for an alarming number of deaths on a yearly basis (Singh and Yu, 1996). The rise of HIV/AIDS and the reemergence of resistant strains of tuberculosis, also have strong links to profligate practices.
+Concerning smoking, until relatively recently in history, lung cancer death rates have been rising more rapidly for males than for females. It now appears that this cause of premature mortality is increasing faster among females. According to Lopez et al. (1995), between 1950 and 1980 in the industrialized world the female age-adjusted death rate of lung cancer increased by 330 per cent, while that of males rose by 270 per cent. "What has happened," they say " . . . is that social and economic emancipation of women has removed societal taboos against practices such as cigarette smoking" (p. 12). Other researchers have estimated that the future is bound to witness further increases in female lung cancer mortality, and that over the next thirty years tobacco-related deaths among women will more than double (Bartecchi et al., 1994; Chollat-Traquet, 1992; Lopez, 1995). Given the significance of lung cancer as a determinant of overall mortality in con-
+
+temporary society, the rise in the death rate among women may differentiate those nations that have experienced a reduction in the magnitude of the sex gap in life expectancy from those that continue to follow a widening trend in this measure.
+Nathanson (1995) has proposed that female life expectancy has been rising more rapidly in societies where the female emancipation movement has not yet attained a "mature" stage. In such countries female smoking is not widely accepted, and the rise in lung cancer mortality has not been as steep as in those nations where women have been "liberated" from conventions governing this type of behavior. Consequently, women's life expectancy in the "less liberated" societies has been rising faster over time (and presumably this rise has contributed to a continuation of widening sex gaps in survival) man in nations where the female emancipation movement is well-established, as in the cases of the United States, Sweden, Netherlands, Australia, and the United Kingdom. Of course, the amount of contraction or expansion in the gender-based difference in life expectancy in a given society will also depend on the male mortality trends from lung cancer, and the extent to which males have been abandoning smoking or foregoing this habit altogether.
+The female emancipation thesis may also be of relevance to explaining changing sex differences in suicide. This cause of death is directly linked to problems in living. If the changing role of women in society entails negative consequences, female suicide rates in the most advanced nations should be on the increase. In fact, according to the observations of Ruzicka (1995), between the mid-1950's and mid1980's, marked increases in suicide in the industrialized world have tended to occur
+
+Vol. 45,No. 1-2
+
+Life Expectancy
+
+5
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+more often in females than in males. It remains to be seen whether in fact changes in male and female suicide over the last two decades have contributed to either widening or narrowing sex gaps in life expectancy, and whether the effect of such changes has been uniform across societies.
+In addition to suicide and lung cancer, we will pay specific attention to other causes of death that are known to be strongly associated with life style and behavioral practices. We examine change in sex differences in mortality from accidents and violence, cirrhosis of the liver and heart disease. If over recent history women have increasingly been adopting "masculine" modes of behavior, they should exhibit some of the negative health effects associated with these types of diseases, and the effects of changing sex differences in mortality from these causes should all contribute to narrowing of the sex gap in life expectancy. However, this explanation may apply more in some societies than in others. For example, these types of changes in mortality may explain in part the narrowing of gender differences in overall survival in Australia, United States, Sweden, and England/Wales, whereas in Portugal, Hungary, and Japan, the contributions of these same components may serve to widen the sex difference because the female emancipation movement may not be as fully developed as in the preceding nations (Nathanson, 1995).
+MATERIALS AND METHODS
+DECOMPOSITION ANALYSIS
+Temporal changes (decreases or increases) in life expectancy in infancy are typically not equally attributable to all
+
+age categories in the life table (Arriaga, 1984). For example, in highly advanced nations, where spectacular mortality improvements in infancy and childhood have already been actualized, further survival gains in these age segments will not produce very large increases in life expectancy at age zero. In developing countries, however, where the fight against death has not reached such a high level of success, improvements in early age mortality would raise life expectancy in infancy by a significant amount. It is also true that age groups experience different rank order of primacy in the causes responsible for death, as in the case of accidents and violence in youth and young adulthood, and chronic/degenerative conditions prevailing in the older ages.
+In order to take these important points into account our decomposition analysis is executed separately by age. We analyze partial expectation of life (PEL) differences between the sexes within the following age groups: 0-15, 15-35, 35-55, 55-75, and 75M. PEL at age x for the age interval x to JtMn is defined as the average number of years lived in the interval x to xMn by those who reach age x, and is expressed as "ex & (Tx N Txm)l\x (Arriaga, 1984). Using life table notation, Tx is the total number of person-years lived by those who reach age x (© lx) between age x and the end of the life span. We constructed separate abridged multiple decrement life tables for the sexes (using standard life groupings for age: 0-1, 1-5, 5-10, . . . , 85M); and from these tables we derived PEL within the broad age intervals indicated above over three separate time periods, 1970, 1980, and 1990.
+Note that PEL for a given age class is not affected by mortality changes in other age groups and thus may be thought of
+
+6
+
+Trovato and Lalu
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+as a measure derived from a life table summarizing the death rates in a selected age range alone. It should be noted that "ex has an upper limit of n which can be attained only when the death rate for all ages in the interval x to x+n are zero. For example, PEL for age interval 15 to 34 (i.e., 2Oel5) is the average number of years lived in the age interval 15 to 34 by those who survive to age 15. It is clear that the maximum value of the expected number of years lived in this interval is 20 years. Moreover, from the definition of "ex it can be easily seen that e0 = SfLyig . nex].
+Sex differences in PEL within an age group are decomposed into components that can be attributed to various causes of death. To illustrate, consider a hypothetical case where mortality is a function of only two causes of death. In the context of multiple decrement life tables, the PEL for n years at age x in this case will be a function of the cause-specific probabilities of death for the two diseases in the age interval x to x+n. That is,
+
+nex (males) = F(A, B) ner (females) = F(a, b)
+
+(D
+(2)
+
+where A and B are the vectors of agespecific probabilities of death from the two causes in the age interval x to x+n for males; and a and b are the corresponding vectors for females. Thus, the sex difference in PEL can be decomposed into the two cause components (Das Gupta, 1993):
+
+Difference in "ex=F(a,b)-F{A, B) = [F(a,b)-F(A,b)+F(a,B)-F(A, B)]I2 + [F(a,b)-F(a,B)+F(A,b)-F(A,B)V2. (3)
+
+The first and second components are attributable to the first and second causes of deam respectively; and the sum of the two
+
+components will therefore add up to the total gender difference in PEL. In substantive terms each component represents its net contribution to the sex difference in PEL as a function of sex difference in that cause of death if all other causes were held constant in this particular age interval. Components with positive values would indicate that the sex mortality differential for that cause of death serves to increase the female advantage in PEL over males, whereas a negative value would reflect the opposite effect. The magnitude of component contributions can be expressed either in relative terms (i.e., as percentage) or in absolute terms (i.e., in actual years of life expectancy). Since the decomposition analysis is based on multiple decrement life tables, our statistical results are net of age compositional differences.
+The data analyzed in this study were provided by the World Health Organization (1995) as a multidimensional tabulation including deaths by age, sex, country, year, cause of death, and population counts. The ten cause-of-death components chosen for this analysis represent causes of wide significance in the context of advanced societies due to their strong association with life style and behavior: Cl = heart disease; C2 = other circulatory diseases; C3 = lung cancer; C4 = breast cancer; C5 = prostate cancer; C6 = other cancers; C7 = cirrhosis of the liver; C8 = other accidents and violence excluding suicide; C9 = suicide; and CIO = all other cause of death (residual).
+In our decomposition analysis, each cause component is expressed as having an independent effect on the PEL difference within a given age range while holding constant the effects of other causes. We pay attention to both period-specific contributions as well as to change in con-
+
+Vol. 45, No. 1-2
+
+Life Expectancy
+
+7
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+tribution of cause components. The former type of observation provides indication of how much a given cause accounts for the difference in survival in a given time point, while the latter affords an assessment of whether a given cause of death acts either to widen or narrow the sex gap in PEL. For example, if the trend in contribution of lung cancer to the sex difference in PEL in a given age range declines between two time periods, this decline would signify that changes in sex differences in lung cancer mortality over time served to narrow the sex difference in PEL (i.e., the female advantage in partial expectation of life over males). An increasing time trend would denote the opposite effect.
+These interpretations are premised on the fact that in the majority of cases sex differences in mortality from major causes of death are characterized by men having the higher death rates, and therefore time-wise reduction in contribution to PEL differences by a given cause would most certainly arise as a result of larger male than female gains in survival over time. Of course, the possible mechanisms which would result in a narrowing of PEL differences may involve a variety of combinations in sex-specific changes in cause-specific mortality, such as when between periods the male death rate declines while that of females increases, or when both rates decline but that of men declines more, or when female rates remain constant and those of men decline.
+RESULTS
+
+puted age-cause-specific sex differences in PEL (measured as the female minus male PEL) for each country during three points in time suggested the following summary (refer to Table 1 and Figure 2):
+(a) The age pattern of sex differences in PEL is fairly constant across societies. The gaps are small in the youngest age classes and peak in the oldest age category (in Hungary, they peak at age 55-75).
+(b) Below age 15, PEL differences between the sexes are very small, but all seven nations show temporal declines in their gaps.
+(c) Among 15-35 year olds, Portugal and Hungary show rising time trends in their PEL gaps (i.e., increasing female gains over males) while the other five countries follow the opposite pattern. In 1990, Portugal, Hungary, and USA had the largest sex gaps in this age category, while the smallest gaps occurred in Japan and Sweden.
+(d) For the age group 35-55, Hungary is the only nation with rising PEL differentials over time. The other societies in this analysis experienced either declining or stable sex gaps in this age category.
+(e) In general, the largest age-specific declines in sex differences in PEL between 1970 and 1990 are evidenced among 55-75 year olds. Hungary deviates from this pattern, as it shows a widening of the PELgapin this age group.
+(/) The PEL differential among persons 75 and older has been expanding in favor of females, except for Australia and USA, where the gap has been constricting, at least since 1980.
+
+AGE PATTERN OF SEX DIFFERENCES
+IN PEL
+
+PRIMACY OF CAUSE COMPONENTS IN PERIOD-SPECIFIC SEX DIFFERENCES IN PEL
+
+Our analysis (detailed decomposition We draw the following conclusions calculations available on request) ofcom- concerning primacy of cause components
+
+8
+
+Trovato and Lalu
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 1
+SEX DIFFERENCE (F-M) IN PARTIAL EXPECTATION OF LIFE (AVERAGE NUMBER OF YEARS LIVED WITHIN SPECIFIED AGE GROUPS) BY PERIOD AND SELECTED COUNTRIES
+
+AGE GROUP
+AND COUNTRY
+Age<15 Australia U.S.A Sweden England/Wales Portugal Hungary Japan
+
+1970
+0.080 0.084 0.060 0.078 0.184 0.128 0.066
+
+YEAR
+1980
+0.049 0.051 0.025 0.049 0.094 0.089 0.035
+
+1990
+0.032 0.039 0.022 0.031 0.056 0.055 0.019
+
+Age 15-35 Australia U.S.A Sweden England/Wales Portugal Hungary Japan
+
+0.188 0.231 0.120 0.096 0.191 0.167 0.124
+
+0.178 0.216 0.098 0.094 0.255 0.165 0.090
+
+0.133 0.196 0.085 0.092 0.261 0.175 0.080
+
+Age 35-55 Australia U.S.A Sweden England/Wales Portugal Hungary Japan
+
+0.278 0.400 0.223 0.201 0.469 0.377 0.278
+
+0.248 0.337 0.240 0.166 0.408 0.642 0.234
+
+0.185 0.365 0.167 0.156 0.397 0.880 0.174
+
+Age 55-75 Australia U.S.A Sweden England/Wales Portugal Hungary Japan
+
+1.999 2.072 1.314 1.929 1.775 1.630 1.424
+
+1.687 1.684 1.444 1.639 1.663 2.172 1.192
+
+1.215 1.322 1.160 1.228 1.645 2.691 1.267
+
+Age 75M Australia U.S.A Sweden England/Wales Portugal Hungary Japan
+
+2.379 1.943
+1.743 2.446 1.385 1.321 1.730
+
+2.881 3.089 2.534 2.734 1.751 1.839 2.155
+
+2.776 2.944 2.764 3.019 1.783 1.841 3.064
+
+in explaining period-specific sex differences in PEL by age class (detailed calculations available on request):
+
+(a) Below age 35, in all seven countries there is a predictable pattern of primacy of cause contribution, with "residual," accidents/violence and sui-
+
+Vol. 45,No. 1-2
+
+Life Expectancy
+
+9
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+hi
+
+15-19
+
+35-55
+
+M-73
+
+England/Wales
+
+3.9 i 3
+
+Japan
+
+__.
+V
+
+II 1
+
+0 . im-- . ^>»-i ^Wii) HB'^1-I
+
+<td
+
+1S-39
+
+39-09
+
+99-79
+
+79+
+
+<19
+
+19-39
+
+35-99
+
+59-79
+
+75*
+
+FIG. 2.--Age contribution to sex difference in PEL (female-male) by country and year.
+
+cide being the leading components. Accidents/violence and suicide are more pronounced among 15-34 year olds in the USA, Sweden, Hungary, and Japan. In England/Wales andPortugal, the two leading components in
+
+this age range are accidents/violence excluding suicide, and "residual."
+(b) Beyond age 35,heart disease is the leading cause component in Australia, USA, Sweden, and England/Wales, irrespective
+
+10
+
+TYovato and Lalu
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+of time period. In Portugal, Hungary, and Japan, the key components differ: in Portugal, it is accidents and violence plus residual; in Hungary, heart disease and residual lead, and in Japan primacy varies with the age group (i.e., accidents and violence plus heart disease in the 35-55 age range, other circulatory plus other cancers among 55-75 year olds, and other circulatory plus residual in the oldest age class).
+CHANGE OVER TIME IN CAUSE
+COMPONENT CONTRIBUTION TO
+SEX DIFFERENCES IN PEL
+In the following section we provide an overview of the leading cause components accounting for either a narrowing or a widening of sex differences in PEL over time within five broad age categories. In Table 2 we indicate whether the time trend in contribution is up (denoted by the letter "u"), or down (denoted by "d"), or is more-or-less stable (denoted by "s"). On some occasions the time trend is curvilinear; that is, up and then down (ud), or down then up (du).
+Heart Disease.--Period-specific contributions of heart disease to sex differences in PEL tend to be largest in the age groups of 55-75 and 75 and older. However, the pattern of contribution of this disease to the gender-based difference in survival is different in the nations of Australia, USA, England/Wales, and Sweden from those of Portugal, Hungary, and Japan. Figure 3 indicates clearly that in the former set of nations there is a general pattern of declining contribution over time among not only 55-75 year olds, but also among those aged 35-55. In Hungary and Japan the corresponding patterns for these same age groups tend to be in the opposite direction. This tendency is also seen in connection with the oldest age group in these societies, partic-
+
+ularly in Japan, where this category displays large contributions of heart disease to expand the sex gap in PEL. The situation concerning heart disease in Portugal is reflective of a society that is somewhat in-between the experiences of the two sets of nations above. Although among 35-55 year olds since 1980 the contribution of heart disease to the sex difference in survival has been larger, in the subsequent age classes its contribution has served to reduce the sex gap in survival.
+As shown in Figure 3, in Australia, USA, Sweden, and England/Wales, the decline in the amount of contribution of this disease to the sex gap has been largest among 55-75 year olds. The contribution of this cause among those aged 75 and above between 1980 and 1990 are not as spectacular.
+Accidents and Violence (Excluding Suicide).--Along with "residual" cause component, accidents and violence (excluding suicide) is responsible for a large portion of the sex gap in PEL in the ages below 35, reflecting to some extent problems with safety for young boys and girls on the one hand, and difficulties in living on the other, particularly for those aged 15-35, where accidents and violence figure prominently as risk factors of premature mortality. As demonstrated in Table 2 and Figure 4, for the under-15 age category, changes in sex differences in this component over time have tended to reduce the sex gap in PEL in all seven nations. This finding implies that in a comparative sense, over time boys in this age class have been making larger improvements in risk than girls.
+What is striking about the time trend of this cause of death in 15-35 year olds, is its uniformity across nations in showing overall declines in contribution at least since 1980. Hungary presents the only ex-
+
+Vol. 45, No. 1-2
+
+Life Expectancy
+
+11
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 2
+SUMMARY OF LEADING CAUSE COMPONENTS" IN SEX DIFFERENCES IN PEL AND DIRECTION OF CHANGE IN THEIR CONTRIBUTION OVER TIME*
+
+COUNTRY
+Australia
+
+<15
+RES(s) AV (d)
+
+15-35
+AV (d) SUI (u)
+
+AGE
+35-55
+HD (d) AV (d) BC (u) SUI (u) LC (d) RES(u)
+
+55-75
+HD (d) LC (u) RES(d) OC (d) BC (u)
+
+754
+HD (d) RES (d) LC (u) PROST (u) OC (u)
+
+USA Sweden England/Wales Portugal
+
+Hungary
+
+... .
+
+RES(d) AV (d)
+RES(d) AV (d)
+RES (d) AV (d)
+RES(d) AV (d)
+
+AV (d) SUI (u)
+AV (d) SUI (ud) OC (d) RES (u)
+AV (d) RES(u) OC (d) HD (d) SUI (u)
+AV (ud) RES(u) SUI(du)
+
+HD (d) AV (d) BC (u) LC (d) SUI (u) RES(u)
+HD (d) AV (d) SUI (d) BC (d) RES (u)
+HD (d) BC (s) AV (u) LC (d) SUI (u)
+RES(d) AV (d) HD (u) BC (u) CL (d)
+
+RES(d) AV (s)
+
+AV (du) SUI(ud) HD (d)
+
+HD (ud) AV (u) SUI (u) RES (s) BC (d)
+
+HD (d) RES(d) LC (u) OC (u) AV (d)
+HD (d) RES (u) BC (d) LC (du) AV (d)
+HD (u) LC (d) RES(d) BC (u) OC (u)
+RES (d) HD (u) OCR (s) OC (u) AV (ud) CL (u) LC (u)
+HD (d) RES (d) LC (u) OCR(d) OC (u) AV (u)
+
+HD (d) RES (u) OCIRC (d) PROST (u) LC (u) OC (u)
+HD (d) RES (s) PROST (d) OC (u) LC (d)
+HD (u) RES (d) LC (u) OC (u) PROST (u)
+RES (d) OCR (u) HD (u) PROST (u)
+RES (d) HD (d) OC (u) PROST (d)
+
+Japan
+
+RES (d) AV (d)
+
+AV (d) SUI (ud)
+
+AV (d) OC (d) RES(d) CL (ud) HD (u) BC (u)
+
+OC (d) OCR(u) RES (d) HD (u) LC (u)
+
+OCR (d) RES (u) OC (u) HD (u)
+
+a RES = Residual cause; AV = Accidents and violence excluding suicide; SUI = Suicide; HD = Heart disease; LC = Lung cancer; BC = Breast cancer; PROST = Prostate cancer; OC = Other cancers; OCR = Other circulatory; CL = Cirrhosis of the liver.
+*(u) or (d) or (s) signify whether over time the contribution of a given cause serves to widen (u), or narrow (d) the sex gap in PEL, or there is stability (s). If (ud) appears next to a given component that indicates the effect is to widen and then to narrow (i.e., curvilinear) the sex gap in PEL. If (du) appears next to a given component that indicates the effect is to narrow and then to widen (i.e., curvilinear) the sex gap in PEL.
+
+12
+
+Trovato and Lalu
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+12
+!J
+0.4
+i 02
+0
+
+Ainlratla
+· 1970 · 1D80
+ii fi"D1M0
+
+i15-39
+
+W\mm
+35-09 A»»
+
+95-73
+
+75*
+
+H
+
+1.4
+r;
+| 0-6 a 0.4
+b
+<15
+
+U.S. A
+
+15-35
+
+39-83 At*
+
+55-75
+
+75+
+
+1.4
+12
+1·
+| 0.8 | OB
+j 0.4
+02
+0 <15
+
+Sw«d«n
+J
+
+1*49
+
+35-89
+
+59-75
+
+m
+--l 75+
+
+OJS
+1" > J1 °-19
+d 01
+OJW
+0
+
+<)9
+
+Portugal
+
+II
+
+15-39
+
+35-93
+
+55-75
+
+75+
+
+12
+
+i:
+
+a 0.4 !.2
+0
+
+·- · 1
+<15 15-35 JM9
+
+[I
+99-75
+
+1
+79+
+
+FIG. 3.--Contribution of heart disease to sexgap in PEL(female-male) by country andyear.
+
+ception to this trend, showing instead a rising effect on the PEL gap since 1980. Barring the Hungarian case, the temporal decline in contribution indicates that
+
+while both genders have been making mortality improvements from this cause, the decline for men has tended to be larger, andtheoverall impact of thiscom-
+
+Vol. 45, No. 1-2
+
+Life Expectancy
+
+13
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+ponent has served to have a narrowing effect on the PEL gap (change in agespecific death rates available on request).
+Concerning 35-55 year olds, the situation regarding contribution of this cause is mixed: In England/Wales it is curvilinear, with a decline between 1970 and 1980, followed by a rise thereafter to more-orless the same level as in 1970. Hungary shows a striking upward trend, while all other five countries have followed a declining pattern over the three time points. These trends indicate that social and economic conditions in Hungary must not have been very favorable to males in this age range over the last two decades (Eberstadt, 1995). In fact, judging from the patterns in Figure 4, this same conclusion would apply to men in the older age categories as well.
+With the exception of Hungary, all other countries show a declining time effect on the sex gap in PEL among 55-75 year olds. However, among those aged 75+ the effect of change in this component has contributed to a widening of the survival differential except for the United States. Interestingly, Japan and Sweden demonstrate the largest positive contribution to the sex gap in PEL in the 75+ category
+Lung Cancer.--In Figure 5 there are striking differences in the pattern of period-specific contributions to sex differences in PEL between the four countries where narrowing has occurred and the three nations where divergence is continuing. In the former case the temporal trend in contribution for ages beginning with 35-55 is clearly downward--at least since 1980--indicating that over the period sex differences in lung cancer mortality have changed in such a manner as to narrow the PEL differences. The situations of Portugal, Hungary, and Japan reflect the
+
+opposite pattern of effect on PEL. In these societies there have been rising contributions of lung cancer mortality differences between the sexes on the PEL gaps in the corresponding age classes.
+The varied trends in lung cancer contribution between these two sets of nations are generally consistent with the Nathanson (1995) thesis, that in societies where female emancipation is at a "mature" stage (i.e., Australia, USA, Sweden, England/Wales) prolonged smoking among women has been responsible for some erosion in the degree of life expectancy gains as compared to men, partly as a function of more rapid rise in lung cancer death rates in women.
+Cancer of the Breast and of Prostate.--Mortality rates for these two gender-specific ailments have been rising in the industrialized world. The former disease tends to kill women in their late reproductive ages, while the latter claims mostly older men. The contribution of breast cancer to the sex gap in life expectancy will always be to narrow the difference, while that of prostate cancer will always widen it. Judging from the magnitude of temporal effects of these two cause components, in the age range of 35-55 breast cancer has had a larger impact in explaining temporal changes in life expectancy differences than has prostate cancer; but in the older age groups the effects of prostate cancer are greater. In Portugal, Hungary, and Japan the impact of breast cancer tends to be larger than that of prostate cancer.
+Other Cancers.--This component contains many cancers besides those already mentioned. Its contribution to PEL differentials appears to be of significance mainly in the two older age groups. In Japan it has considerable impact on the
+
+14
+0.1 S o.ia 0.14 0.12 · 0.04 0.02
+
+Trovato and Lalu
+
+Social Biology
+
+I
+* 0.13
+
+Portugal
+
+0.16 0.14
+jo.
+d 0.04
+
+13-3S
+
+33-55
+
+Hungary
+
+19-39
+
+39-99
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+FIG. 4.--Contribution of accidents and violence except suicide to sex gap in PEL (female-male) by country and year.
+sex gap, as it ranks second and first in groups the impact on PELdifference over importance among 55-74 and 75+ year time has served to widen the survival adolds, respectively. In both of these age vantage of females over males.
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Vol. 45,No. 1-2
+
+0.3 0.25
+02 0.13
+0.1 O.OS
+
+01970 · 1U0 Q1M0
+
+Life Expectancy
+0.16 -r 0.14 j 0.12.
+
+Portugal
+
+15
+
+Hungary
+
+15-39
+
+39-65
+
+95-73
+
+73+
+
+England/Wales
+
+Japan
+
+FIG. 5.--Contribution of lung cancer to sex gap in PEL (female-male) by country and year.
+Suicide.--Suicide differences between sex differences in coping with problems men and women are partly a reflection of in living. Our calculations (available on
+
+16
+
+Trovato and Lalu
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+request) indicate that in 1990 this cause of death explained between 6 and 7 per cent of the sex gap in life expectancy at age zero. In Hungary, where the suicide rate is one of the highest in the world, the contribution is in the order of 10 per cent.
+Period-specific effects of sex differences in suicide on the gender-based difference in PEL tend to be most pronounced in the ages of 15-35 and 35-55. As shown in Figure 6, in Australia, USA, and England/Wales, the time trend in contribution is generally upward across all age classes (but in the USA among 55-75 year olds the trend was down between 1970 and 1980, but went up in the subsequent period). This general pattern of contribution indicates that in comparison to females, the suicide rates of men have increased more over time, or possibly declined less, thus serving to widen the age-specific sex gaps in PEL. The temporal pattern of change in contribution in Sweden is generally downward, indicating the opposite situation has prevailed, with the exception that in the oldest age group male suicide has increased more than that of females.
+In Portugal, Hungary, and Japan, the age-specific contributions of suicide to PEL differences is less regular. In Portugal, between 1970 and 1980 there occurred substantial reductions in contribution among 35-55 and 55-75 year olds, with no perceptible change thereafter. However, in the 15-34 age class there was a noticeable rise in contribution to PEL gap between 1980 and 1990, a situation that describes the experience among those aged 75 and above. Thus, in this country, there appears to have been some significant improvements among men in suicide risk between 1970 and 1980, but this trend seems to have stalled thereafter.
+
+In Hungary the peak of contribution to the sex gap in survival is noticeable among 35-55 year olds, where there is a clear upper temporal pattern of influence on PEL difference, which means that women have continued to gain more than men in terms of survival. It is also clear in Figure 6 that among 15-35 year olds, males have enjoyed some degree of improvement over females between 1980 and 1990, a situation which repeats itself in the oldest age category.
+In Japan since 1980 there have been larger male improvements in risk reduction as compared to females in the ages of 15-35 and 35-55, but not in the subsequent two age categories, where the opposite conclusion applies. It would seem that these two age-specific trends have canceled each other out in terms of net impact on overall sex difference in life expectancy in infancy, as the amount of widening or narrowing in these ages is about equal.
+Residual Causes.--This component consists of many heterogeneous causes of death, including infectious diseases and conditions associated with infancy and childhood. From the data contained in Table 2, we find that this component is responsible for a large part of the sex gap in PEL in the age group below 15 and generally ranks either first or second among 55-75 and 75+ age groups. Its time trend of contribution to PEL differences is generally downward, reflecting larger male improvements from this condition over time. Therefore, in grosso modo, temporal changes in sex differences in residual causes have tended to contribute to a narrowing of PEL gap.
+CONCLUSIONS
+We have seen in this analysis that Australia, the United States, Sweden, and
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Vol. 45, No. 1-2
+
+Life Expectancy
+0.05 0.049 0.04 0.035 p 0.03 · 0.023 E 0.02 0.015 0.01 0.009
+
+Portugal Hungary
+
+17
+
+0.03S 0.03
+0.023 0.02 0.01S j o.oi 0.003
+
+Japan
+
+13^3
+
+3W5
+
+99-73
+
+73+
+
+FIG. 6.--Contribution of suicide to sex gap in PEL (female-male) by country and year.
+England/Wales represent societies where the other hand, Portugal, Hungary, and the survival gap at age zero between the Japan reflect nations where the gap has sexes has been narrowing recently. On been expanding by varying degrees. The
+
+18
+
+Trovato and Lalu
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+decomposition analysis has helped in providing a better understanding of the cause-of-death components that have been responsible for these societies' different trajectories of change in this measure over the last two decades. Varying levels of improvement in mortality across countries for males as compared to females explain why the gender-based gap in survival has been narrowing in some countries and widening in others. In Australia, the United States, Sweden, and England/Wales, constrictions in the survival gap can be attributed to larger improvements in cause-specific mortality among men as compared to women, particularly in the 55-75 age category. The leading cause components for this development are heart disease, accidents and violence (excluding suicide), and lung cancer. Rising rates of breast cancer mortality in women have also added to this trend by reducing their pace of life expectancy gains over time. In other words, female expectancy would be noticeably higher were it not for the counteracting effects of rising breast cancer mortality. In Portugal, Hungary, and Japan, the expansion of the sex differential can be attributed to these same cause components, except that in these countries men have not enjoyed a commensurate level of mortality improvement as in the other four nations.
+In these three societies, males would close some of the female advantage in survival if middle-aged men were to experience larger improvements over time with respect to causes such as heart disease in particular, accidents and violence, and lung cancer. Portugal seems to be closer to actualizing this condition than either Hungary or Japan. In Japan, the survival gap would eventually narrow if
+
+adult men were to experience larger mortality improvements with respect to "other cancers," "other circulatory diseases," and "accidents/violence," since these causes account for a large portion of the genderbased discrepancy in survival.
+We have found that much of the differential in life expectancy between the sexes is attributable to sex differences in mortality in late adulthood and old age. This is particularly true in Australia, the United States, Sweden, and England/Wales, where constrictions in the sex gap are mainly the result of changing mortality dynamics in the 55-75 and 75+ age classes, and to a lesser extent among the 35-55 year olds. This finding is consistent with the proposition of Olshansky and Ault (1986) concerning the rising importance of old age mortality in the fourth stage of epidemiological transition.
+At the same time, one should not overlook the contribution of the younger age segments to either narrowing or widening sex gaps in survival. Our analysis indicated that men in the age ranges of 15-35 and 35-55 have experienced notable mortality improvements over time with respect to some of the most lethal conditions, including accidents and violence (but not suicide), heart disease, and lung cancer. This situation was shown to be most prevalent in those countries where the gender gap in life expectancy at age zero has been narrowing (i.e., Australia, United States, Sweden and England/ Wales). This aspect of our analysis lends some support to the views of Rogers and Hackenberg (1991) concerning the growing importance of epideniiological shifts among youth and young adults in explaining convergent trends in survival between the sexes across advanced societies.
+
+Vol. 45,No. 1-2
+
+Life Expectancy
+
+19
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Concerning thepossible link between is anincomplete explanation forthe phe-
+
+female emancipation and the changing nomenon of narrowing sex differences in
+
+sex gapin life expectancy, our findings life expectancy observed in this research.
+
+provide some support forthe proposition A more comprehensive explanation of
+
+that in some societies the sex differential changing gender roles and mortality con-
+
+in overall survival has been constricting vergence is needed to take into account
+
+partly as a result of either more rapidly changes in the behaviors of men and
+
+rising female death rates from lung can- women simultaneously, and how such
+
+cer and/or a slowdown in the pace ofin- changes affect their survival probabilities.
+
+crease in the male death rate from this More attention should bedirected to how
+
+disease. In Australia, the United States, the male role is changing and how this
+
+England/Wales, and Sweden, where the change relates toreductions indeath rates
+
+female emancipation movement has at- from leading causes, including heart dis-
+
+tained a "mature" stage, a large part of ease, lung cancer, accidents, violence,
+
+the narrowing trend in the sex differen- and suicide.
+
+tial canalso be attributed to females not
+
+having made as large an improvement in risk reduction as men with respect to
+
+ACKNOWLEDGMENTS
+
+accidents and violence (excluding sui-
+
+This study was funded bya research grant
+
+cide). These trends suggest that perhaps from the Social Sciences and Humanities Re-
+
+changes in therole andstatus of women in society may be associated with these tendencies in the pattern and pace of change in survival over time. However, it is clear that theemancipation hypothesis
+
+search Council of Canada (No.410-95-0844). The support of the Council is greatly appreciated. Wealso wish tothank Dr. Odile Frank of the World Health Organization, Geneva, for helping us obtain the data utilized in this study.
+
+REFERENCES
+
+ASCADI, GY, and J. NEMESKERI. 1970. History of
+human lifespan and mortality. Akademiai Kiado, Budapest.
+ARRIAGA, EDUARDO E. 1984. Measuring and ex-
+plaining the change in life expectancies. Demography 21(1):83-96.
+BARTECCHI, CARL F., THOMAS D. MACKENZIE, and R.
+W. SCHRIER. 1994. The human costs of tobacco use: Part I. NewEngl. J.Med. 330(13): 907- 912.
+CHOLLAT-TRAQUET, CLAIRE. 1992. Women and to-
+bacco. World Health Organization, Geneva.
+DAS GUPTA, PRITHWIS. 1993. Standardization and
+decomposition of rates: A user's manual. U.S. Department of Commerce (Cat. No. P23-186), Washington, DC.
+EBERSTADT, NICHOLAS. 1995. The tyranny of num-
+bers: Mismeasurement andmisrule. AEI Press, Washington, DC. LOPEZ, ALAN D. 1983. The sex mortality differential in developed countries, p. 53-120. In Alan D. Lopez and Lado T. Ruzicka (eds.), Sex differen-
+
+tials in mortality: Trends, determinants and consequences. Department of Demography,Australian National University Printing Press, Canberra, Australia.
+. 1995. The lung cancer epidemic in developed countries, p. 111-134. In Alan D. Lopez, Gabriella Caselli, and T. Valkonen (eds.), Adult mortality in developed countries: From description to explanation. Clarendon Press, Oxford.
+LOPEZ, ALAN D., GABRIELLA CASELLI, and TAPANI
+VALKONEN (eds.). 1995. Moving from description toexplanation of adult mortality: Issues and approaches, p. 1-8. In their edited volume Adult mortality in developed countries: From description toexplanation. Clarendon Press, Oxford.
+NATHANSON, CONSTANCE A. 1995. The position of
+women and mortality in developed countries, p. 135-157. In Alan D. Lopez, Gabriella Caselli, and Tapani Valkonen (eds.), Adult mortality in developed countries: From description to explanation. Clarendon Press, Oxford.
+
+20
+
+Trovato andLalu
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+OLSHANSKY, S. J., and A. B. AULT. 1986. The fourth
+stage of epidemiologic transition: The age of delayed degenerative diseases. Milbank Mem. Fund Quart. 46(3):355-391.
+OMRAN, ABDEL R. 1971. The epidemiological transition: A theory of epidemiology of population change. Milbank Mem. Fund Quart. 49:509-538.
+PRESTON, SAMUEL H. 1976. Causes ofdeath responsible for variation in sex mortality differentials. Chapter 6.In Samuel H. Preston, Mortality patterns in national populations. Academic Press, New York.
+PRESTON, SAMUEL, S. SCHOEN, and N. FEYFITZ.
+1972. Causes of death life tables for national populations. Seminar Press, New York.
+ROGERS, RICHARD G., and ROBERT HACKENBERG.
+1991. Extending epidemiologic transition theory: Anew stage. Soc. Biol. 34(3-4):234-243. RUZICKA, LADO. 1995. Suicide mortality indeveloped countries, p. 83-110. In Alan D. Lopez, Gabriella Caselli, andTapani Valkonen (eds.), Adult mortality in developed countries: From description to explanation. Clarendon Press, Oxford.
+SINGH, GOPAL K., and STELLA M. YU. 1996. Trends
+and differentials in adolescent and young adult mortality in the United States, 1950through 1993. Amer. J. Publ. Hlth. 86(4):560-564.
+STOLNITZ, GEORGE. 1956. A century of international mortality trends: II. Pop. Stud. 10(1):17-42.
+
+TROVATO, FRANK, and N. M. LALU. 1996. Narrowing
+sex differences in life expectancy in theindustrialized world: Early 1970's to early 1990's. Soc. Biol. 43(1-2):20-37. VALLIN, JACQUES. 1993. Social change and mortality decline: Women's advantage achieved orregained?, p. 190-212. In Nora Federici, Karen Oppenheim Mason, and S. Sogner (eds.), Women's position and demographic change. Clarendon Press, Oxford.
+VALLIN, JACQUES. 1983. Sexpatterns of mortality: A comparative study of model life tables and actual situations with special reference to the case of Algeria and France, p. 443-476. In Alan D. Lopez andLado T. Ruzicka (eds.), Sex differences in mortality. Australian National University, Canberra.
+WALDRON, INGRID. 1993. Recent trends in sex mortality ratios for adults in developed countries. Soc. Sci.Med. 36(4):451-462.
+WORLD HEALTH ORGANIZATION. 1995. Computer-
+ized data file of deaths by cause by age by sex by country for 1970, 1980, and 1990. WHO, Geneva.
+YANAGISHITA, MACHIKO, and JACK M. GURALNIK.
+1988. Changing mortality patterns that led life expectancy in Japan to surpass Sweden's: 1972-1982. Demography 25(4):611-624.
+
+

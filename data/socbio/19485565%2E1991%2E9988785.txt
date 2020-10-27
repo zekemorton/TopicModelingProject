@@ -1,0 +1,613 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Trials and tribulations in the search for genes causing neuropsychiatric disorders
+Kenneth K. Kidd
+To cite this article: Kenneth K. Kidd (1991) Trials and tribulations in the search for genes causing neuropsychiatric disorders, Social Biology, 38:3-4, 163-178, DOI: 10.1080/19485565.1991.9988785 To link to this article: http://dx.doi.org/10.1080/19485565.1991.9988785
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 3
+View related articles
+Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:44
+
+Trials and Tribulations in the Search for Genes Causing Neuropsychiatric Disorders
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+Kenneth K. Kidd
+
+Department of Genetics Yale University School of Medicine New Haven, Connecticut
+
+During the past decade, the field of psychiatric genetics has become an amalgamation of three sciences: psychiatry, molecular biology, and genetics. The complexities of the problems in psychiatric genetics are illustrated by a quote attributed to Emerson Pugh to the effect that if the human brain were so simple that we could understand it, we would be so simple that we couldn't. While that may prove to be the case, the hope is that we can understand the human brain, and the neuropsychiatric disorders are clearly disorders of the human brain. They are disorders that, in the classic tradition of genetics, may be useful in attempts to understand the normal function of this very complex organ/system. Such attempts are, not surprisingly, not without their trials and tribulations.
+One approach to psychiatric genetics is the one used so successfully in modern molecular human genetics to identify and clone the genes for genetic diseases such as cystic fibrosis (Riordan et al., 1989; Rommens et al., 1989; Kerem et al., 1989) and fragile X mental retardation (Yu et al., 1991; Oberl6 et al., 1991). This approach has often been called "reverse genetics," inappropriately, as noted by Botstein (1990). Figure 1 illustrates the distinction between the biochemical ap-
+
+proach to cloning disease genes and the modern genetic approach, more commonly referred to today as positional cloning. Previously, researchers could study the biochemistry of the disorder, find the missing enzyme or defective protein, and then ultimately identify and clone the gene itself. That is not possible for disorders of unknown etiology. The genetic approach, previously applied to experimental organisms but not possible in humans, uses the fact that there is a gene that can be mapped. Once its position is known, researchers can use molecular biological techniques to clone the gene, find out what protein it produces, and ultimately understand both normal function and the pathophysiology leading to the genetic abnormality. For complex human disorders, knowledge of both normal function and the pathophysiology are essential before one can effectively and optimally intervene to prevent the illness or treat the symptoms.
+Linkage mapping is made possible by the organization of DNA into long strands within the chromosomes and the behavior of that DNA during meiosis, the genetically relevant part of gamete formation. In the formation of gametes there are recombination events during which parts of a paternal
+
+163
+
+164 Biochemical
+
+Kidd
+
+Social Biology Genetic
+
+Map Position
+
+Map Position
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+FIG. 1.--A simplified representation of the two approaches to cloning a gene. The more biochemical approach starts from the known protein product while the more genetic approach starts from the known location in the genome. This genetic approach, because of its "reverse" direction with respect to the biochemical approach, was initially mislabeled "reverse genetics." It is more appropriately called positional cloning. Figure adapted from Kidd and Simpson (1990).
+
+chromatid actually interchange and join up with parts of the homologous maternal chromatid; the product coming out has a block of genes from that individual's mother and a block from that individual's father. The process is exceedingly precise and the recombined chromosome still has exactly one copy of all the genes; only the ancestral origins of those genes are shuffled. Whenever there is normal genetic variation in part of the DNA we can use it to follow transmission of a particular ancestral copy; loci showing such variation are called markers. There are now enough markers on most chromosomes to use them in arrays along a chromosome. If they are close together, a whole set of markers is usually transmitted intact. Other times we can see that there has been a crossover event, and the sperm cell from the father has genes in one region that derive
+
+from his father's chromosome and in an adjacent region from his mother's chromosome. That type of data reveals the precise order of genes and provides a measure of the distances between them. Genes tend to travel in blocks, but these recombination events allow shuffling in a probabilistic way. If a disease gene of interest is located somewhere along a chromosome, its pattern of transmission could be followed through families if there were markers, i.e., normal variation that would flag nearby positions on the chromosome. When those markers were close enough to the disease gene, the patterns of transmission through families of the disease and the marker would be virtually identical.
+Human genetics prior to 1978 can be called the dark ages of modern human genetics. In 1978, the first DNA polymorphism, identified directly in the
+
+Vol. 38, No. 3-4
+
+Genes and Neuropsychiatric Disorders
+
+165
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+DNA molecules, was discovered by Kan and Dozy (1978). This was a restriction fragment length polymorphism (RFLP), a term which refers to the particular technology for visualizing these differences (Botstein et al., 1980). As discussed later, there are now additional technologies for detecting DNA polymorphisms which cannot be called RFLP's. Until 1978, there were no known DNA polymorphisms; by 1981 there were 23 loci with known DNA polymorphisms. By the time of the summary at the Tenth Human Gene Mapping Workshop in 1989 (Kidd et al., 1989), the number of DNA marker loci that were mapped and cataloged was almost 2,000. The number has now increased to above 2,400 (Kidd, 1991). During the last decade, the total has increased 100 fold from two dozen to more than 2,400 of these normal genetic variants (markers) in Homo sapiens that are identifiable in the DNA. Today human geneticists can follow through families virtually any part of any chromosome to observe exactly how it has been transmitted; we can easily answer questions such as which grandchildren inherit which genes from which of the grandparents.
+Some interesting scientific history is preserved in the differential increases of known polymorphisms, chromosome by chromosome (Figure 2). In the summer of 1985 (at HGM8) chromosome 4 and the X chromosome had more markers than any others (Willard et al., 1985). Chromosome 4 had such a disproportionate number because just a year before the gene for Huntington's Disease had been mapped to chromosome 4 (Gusella et al., 1983),
+
+and research efforts were already being focussed on finding more markers specifically on 4. The X chromosome had always been the subject of specific research because of the several important genetic diseases known to be X-linked, such as Duchenne Muscular Dystrophy (DMD), fragile-X mental retardation, among many others. The totals two years later at HGM9 (Pearson et al., 1987) show a disproportionate increase for chromosomes 7 and 17. The increase on 17 reflects the mapping of neurofibromatosis to that chromosome in the intervening years (see Wallace et al., 1990). The mapping of cysticfibrosisin 1985 (Tsui et al., 1985) motivated a huge increase in research on chromosome 7. Just prior to HGM9 the gene for one form of inherited cancer (MEN2A) was mapped to chromosome 10 (Mathew et al., 1987; Simpson et al., 1987), which prior to that had been one of the most poorly mapped chromosomes. Several laboratories immediately jumped in, and by HGM10 in 1989 (Kidd et al., 1989) there had been an almost three-fold increase in the number of markers known on human chromosome 10. Science continues to drive the increases since HGM10, and some chromosomes show large increases (e.g., 3, 5, 11) while others show very little increase (e.g., 9 and 14), but all of the chromosomes show an increase. All of the chromosomes are becoming better mapped, better covered with DNA markers (Stephens et al. 1990; Kidd, 1991). It has become easier and easier to do linkage studies of genetic diseases, and this strategy is now a very powerful and useful tool in medical research.
+
+166
+
+Kidd
+
+Social Biology
+
+TRENDS IN DNAPOLYMORPHISMS
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 X Y XY CHROMOSOME
+H H G M 8 ( 1 9 8 5 ) E I H G M 9 ( 1 9 8 7 ) S ^ HGM10 (1989) CZIjAN,1991
+
+FIG. 2.--Trends in discovery and cataloging of DNA polymorphisms. For each locus the histogram shows the total number of mapped and cataloged DNA polymorphisms known on that chromosome as of four different dates. The height of the bar at the top of each shaded area gives the number at the corresponding time. Thus, for Chromosome 1, only about 10 DNA polymorphisms were known in 1985, 80 were known in 1987, 121 were known in 1989, and 148 were known as of January 1991. This figure is an update of the figure in Kidd and Simpson (1990) using data in Kidd (1991) for the January 1991 totals.
+
+TABLE 1
+POPULATION HETEROZYGOSITIES"
+
+Population
+Mixed Europeans Chinese C.A.R. Pygmies Zaire Pygmies Melanesians Karitiana (Amazon Basin Amerindians) R. Surui (Amazon Basin Amerindians) Campeche Mayans (Yucatan Amerindians)
+
+Mean Heterozygosity
+0.373 0.340 0.313 0.304 0.267
+0.274
+0.312
+0.358
+
+Number of Systems
+100 100 100 100 100
+30
+29
+29
+
+This summary of randomly selected DNA polymorphisms is based on data from studies by Bowcock et al. (1987,1991) and Kidd et al. (1991). Even the most isolated populations (e.g., Melanesians and Amazon Basin Amerindians) show nearly as much genetic variation as Caucasians of mixed European ancestry.
+
+Vol. 38, No. 3-4
+
+Genes and Neuropsychiatric Disorders
+
+167
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+Table 1 is a summary that shows these DNA markers are not limited to Caucasians (Bowcock et al., 1987; Kidd et al., 1991). Most markers have been studied only in Caucasians because most have been discovered in research labs located in North America and Western Europe; by default the families and unrelated individuals studied are primarily Caucasian. Despite this form of ascertainment bias, African Pygmies, Melanesians, Chinese, and Amerindians all have reasonably high levels of heterozygosity for these same markers. The markers summarized in Table 1 are a sample chosen at random. More recent unpublished data show that these markers are pervasive throughout the human species; they are usable in any population. There is nothing unique about Caucasians.
+Human geneticists are very gradually putting together the maps of all human chromosomes from family data with many markers. Initially most of the markers were RFLP's, but researchers are not limited to RFLP's any longer. The Polymerase Chain Reaction (PCR) is a new molecular tool of great power. PCR allows molecular biologists to duplicate a specific small DNA segment in the test tube. The great power comes from being able to cycle the reaction simply by changing the temperature and to make two identical copies of each existing molecule at every cycle. After 30 cycles, there are 230 copies of the original DNA molecule. In fact, researchers can start from a single DNA molecule in the test tube--a single sperm cell (Arnheim et al., 1990) or a single molecule from DNA taken from one cell (Ruano et al., 1990)--and make millions and mil-
+
+lions of identical copies, enough copies to study. The increased power of this method is illustrated by the polymorphism at APOB. The protein product of this gene is quite important in lipid metabolism, and certain defects in this gene cause heart disease in some cases (Boerwinkle et al., 1989; Ludwig et al., 1989). In Figure 3, samples from African pygmies and Melanesians from near New Guinea illustrate one of the polymorphisms. In the Pygmies there are many different forms of the gene, but in the Melanesians there appears to be no or very little variation. However, the actual sizes are hard to resolve using this RFLP technology. Using PCR to amplify just the small piece of DNA that shows this size variation, we can actually determine the number of repeat units that give rise to this length variation, measure it precisely, see much finer grades of variation, and in fact see that there are two different forms in the Melanesians, whereas before that was highly questionable. The new molecular techniques are providing more markers all the time, and the individual markers are becoming easier to deal with, have greater resolution, and have, hence, greater power in looking at how genes have been transmitted through families.
+REQUIREMENTS FOR A LINKAGE STUDY OF A COMPLEX DISORDER
+What conditions must be met in order to justify a linkage study to find a gene by scanning the genome? When dealing with a complex disorder, where we know there is genetic involvement but are not absolutely certain what the mode of inheritance is, we must have
+
+168
+
+Kidd
+
+Social Biology
+
+APOLIPOPROTEIN B (APOB) POLYMORPHISM IN TWO HUMAN POPULATIONS
+
+PYGMIES
+
+NASIOI
+
+- 2.8 kb 2.0-2.5 kb
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+PROBE: pAB1 from J.Scott
+ENZYME: Mspl
+FIG. 3.--an APOB polymorphism by RFLP technology. Thebands are fragments of DNA that migrate todifferent positions asa function of the length of DNA. Inthe size range ofthe polymorphic fragment (2.0-2.5 kilobases), resolution of different alleles ispoor. Nonetheless, it is clear that there are several different alleles in the Pygmies. Some of the Melanesian samples in this figure suggest there aredistinct but very similar alleles, butarenot clear enough for a definite conclusion using this RFLP technology.
+what I would call a disbelief in compatible with a major locus, that polygenic inheritance. If many differ- does notprove a major locus is responent genes are involved and each of sible. However, compatibility does them has a very small effect, none of provide some rationale for continuing them could ever be found. Thus, re- to try to find by linkage what would searchers must have either disbelief in amount to proof of a major locus. A the polygenic mode of inheritance or final condition is absence of a clearetisome evidence that the actual mode of ology for the disorder. A linkage apinheritance is notpolygenic in order to proach is a fairly expensive and timemake the investment in effort required consuming one. If there is a very clear of a linkage study. Formost neuropsy- etiologic hypothesis, another approach chiatric disorders, there is no proof may be much better--the biochemical that they are NOT polygenic. One can approach in Figure 1or something else never prove a hypothesis; onecanonly directed to a particular gene. Unfortudisprove hypotheses. There issome ev- nately, in the neuropsychiatric disoridence for compatibility, at least, with ders, the problem isnotlack of hypothmajor locus inheritance. However, eses on genetic etiology; it is the even when thepattern of inheritance is plethora of hypotheses on etiology,
+
+Vol. 38,No.3-4
+
+Genes and Neuropsychiatric Disorders
+
+169
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+with almost none supported any better able to offer genetic counseling, to be
+
+than another. Nohypothesis standsout able to offer proper medication to af-
+
+as being especially noteworthy ofpur- fected individuals, and ultimately to
+
+suit from a more biochemical point of clone the gene. Finding the linkage is
+
+view.
+
+really just the beginning of a wholese-
+
+What resources are needed in order ries of other studies.
+
+to undertake a scan of the genome for
+
+a disease gene? Genetic linkage of a complex disorder is inherently amultidisciplinary study, as examples to be
+
+THE CANDIDATE GENE APPROACH
+
+given later will illustrate, and so re- The linkage approach discussed
+
+sources from several disciplines are above is a broad scanning of the ge-
+
+necessary. Most important, it is essen- nome, testing for linkage section by
+
+tial to have good diagnosis and nosol- section; as noted, genes for cystic fi-
+
+ogy for the disorder under study. This brosis, neurofibromatosis, and many
+
+requires involvement of good clinicians other genetic diseases have been
+
+and good diagnosticians because diag- mapped by that approach. An alterna-
+
+nosis and nosology are ongoing areas tive linkage strategy exists for some
+
+of research in the neuropsychiatric neuropsychiatric disorders for which
+
+disorders. It is also essential to have we may suspect involvement of specific
+
+family material with several affected genes. If a traditional biochemical ap-
+
+individuals in each of thefamilies. For- proach cannot be used to test thereltunately, those types of families do ex- evance of this gene or its protein prod-
+
+ist in which good diagnostic evalua- uct, possibly because the gene product
+
+tions can be made on the family cannot even be detected in vivo, it is
+
+members. In contrast to a decadeago, still possible to use linkage withDNA
+
+sufficient genetic markers now exist, polymorphisms detected by the cloned and more markers and even better gene to test for its involvement. Sev-
+
+markers are being discovered all the eral situations in neuropsychiatry
+
+time, as summarized earlier. Finally, would be appropriate for this strategy.
+
+statistical approaches must be able to utilize both the multiple genetic markers and a very sophisticated understanding of the nature of the disorder. Such methods exist, and some of them are discussed by Risch (1990).
+
+Many of the neurotransmitters and some of the receptor molecules in the brain exist in such minute quantities that they cannot even be studied in post-mortem material; one certainly cannot biopsy a living individual to do
+
+What does one do once a linkage is an assay on part of the brain. Many of
+
+found? That is when the really chal- these neuropsychiatrically relevant
+
+lenging andexciting research (the fun) genes and their products are being
+
+begins. Finding and mapping a gene cloned and mapped. Even if some of
+
+that contributes to a complex neu- the proteins canbe detected using a ra-
+
+ropsychiatric disorder is just the first dioimmune assay or a fluorescently
+
+step; the ultimate aimof such research tagged monoclonal antibody for in situ
+
+is to be able to understand the cause studies, such methods are antigenicas-
+
+and development of thedisorder, to be says, not functional assays. In situa-
+
+170
+
+Kidd
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+tions where adequate amounts of gene product are detected by these methods, it may be, nonetheless, a nonfunctional or otherwise abnormal product.
+As another example, consider situations in which the enzyme can be identified and its activity assayed, but only in other tissue, such as peripheral blood, not in brain. There are multiple examples of duplicate genes producing essentially identical enzymes but in different tissues; in general, even if only a single gene, the functioning is regulated differently in different tissues. For example, catechol-O-methyl transferase (COMT) can be assayed in red blood cells, but its red cell activity may be irrelevant to whether or not there is normal activity in the central nervous system (CNS). Thus, COMT could be functioning normally in the red cells, but be absent or otherwise not functioning appropriately in the CNS. In all of the above situations, a linkage paradigm can mark the DNA region that encompasses the gene and, using normal variation in that region, allow a "yes" or "no" answer to the question of whether something in the DNA around the gene is related to presence or absence of the illness. This is a much simpler paradigm than sequencing the gene from affected individuals to see whether there is a genetic abnormality in the gene itself.
+A cautionary note to the candidate gene approach using linkage is illustrated by the recent discovery that the gene for the amyloid precursor protein is the cause of Alzheimer's disease in several families (Goate et al., 1991). A linkage study had previously excluded this gene based on obligate cross-overs in some families. Genetic heterogeneity or simple diagnostic errors may
+
+have been the explanation for those data but, whatever the explanation, direct sequencing of the gene from patients finally identified the defect.
+EXAMPLES OF "PROGRESS" IN STUDIES OF SPECIFIC DISEASES
+TOURETTE SYNDROME (TS)
+Tourette syndrome is one of the neuropsychiatric disorders for which pedigree analysis provides quite strong support for a single gene, autosomal dominant mode of inheritance (Pauls and Leckman, 1986). Some uncertainty still remains about the precise nosology. Some individuals with the same genetic predisposition may manifest symptoms that fall into other diagnostic categories, such as obsessivecompulsive disorder. Also, there may be multiple genetic causes of the syndrome consisting of just chronic multiple tics, a diagnosis that is in many individuals clearly a milder manifestation of what in close relatives leads to full Tourette syndrome. These are relatively minor problems in view of the strong overall pattern of inheritance, and TS is an excellent disorder for a linkage study.
+A large collaborative project has been underway for several years in an attempt to find the location of the hypothesized major gene for Tourette syndrome (Kurlan et al., 1986; Pakstis et al., 1991a). The project is based on high-density families which have undergone very thorough clinical evaluations. Cell lines have been established in the laboratory for each of the 300 or so individuals being studied in order to provide an essentially infinite supply of
+
+Vol. 38, No. 3-4
+
+Genes and Neuropsychiatric Disorders
+
+171
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+DNA to be tested. Establishing permanent cell lines is an essential component of a linkage study that will systematically scan the genome because dozens to hundreds of markers may have to be studied before linkage is found. Rather than take large amounts of blood from each subject in order to get the amount of DNA that will be needed, it is possible to take a small blood sample, purify the B lymphocytes, and establish a permanent transformed cell line. These cells can be grown in culture to large numbers and large amounts of DNA can be extracted. Moreover, aliquots of these cells are frozen in a viable state in liquid nitrogen so that in the future when more DNA is needed they can be thawed and regrown to large numbers providing the additional DNA required. This is far easier than having to travel many hundreds of miles to get another sample from a critical individual when the first DNA sample is used up. This strategy provides insurance against Murphy's law. In studies such as this, Murphy's law might be stated, "The critical sample for the next test is the one that you just ran out of."
+The effort invested in establishing cell lines and typing large numbers of DNA markers would be wasted if the diagnostic evaluations were not of the highest quality. The collaborators in this study include three scientists who are expert diagnosticians and have responsibility for the clinical evaluation of all individuals in the families. These evaluations are ongoing with repeated visits every year or two to individuals in various parts of the extended kindreds to update the clinical information. Other components of this study include the scientists responsible for all of the
+
+DNA analyses and, not the least important, the scientists who are responsible for the management of the extensive amounts of data collected and the linkage analyses of those data using sophisticated computer programs. Studies such as this are not mterdisciplinary, but muWdisciplinary.
+The strategy for scanning the genome involves systematically looking at blocks of DNA in specific regions of the chromosomes so that the maximum amount of information can be obtained for each region of the chromosome. This strategy is illustrated by our studies of the dopamine D2 receptor (DRD2) gene which is a candidate gene for TS but which we have studied in its genomic context along with nearby markers in order to evaluate thoroughly the entire region (Gelernter et al., 1990). DRD2 is a candidate gene because there is reason to think that some component in the dopaminergic system might be involved in causing TS. Certainly, haloperidol, which suppresses the dopamine system, can ameliorate the symptoms of TS in some patients. DRD2 was the first of the dopamine receptor genes to be cloned (Grandy et al., 1989a); several others have now been cloned and mapped (See McAlpine et al., 1990), and they are being studied in a similar fashion.
+Using a normal DNA polymorphism that is adjacent to the DRD2 gene (Grandy et al., 19896; Hauge et al., 1991), Gelernter et al. (1990) showed that in some families the pattern of inheritance of the DRD2 gene was different from the pattern of TS. For example, cousins, both of whom had TS from the same grandparent, had copies of the DRD2 gene that
+
+172 Kidd Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+came from completely different ances- ies are now focussed on that remaining
+
+tors, not from the same affected grand- 20 per cent of the genome. Several
+
+parent. In other cases, two affected years of quite extensive effort have
+
+children of an affected man got differ- been devoted to this study of TS, and
+
+ent copies of the DRD2 gene from there are no positive findings to date.
+
+their father. These observations pro- This is disappointing but is not unex-
+
+vide strong evidence excluding DRD2 pected or that unusual. Approximately
+
+as the cause of TS.
+
+90 per cent of the genome had been ex-
+
+However, not all parts of these fam- cluded for cystic fibrosis before that ilies were informative for linkage. gene was finally mapped to chromo-
+
+There are additional polymorphisms within and immediately adjacent to the DRD2 gene (Hauge et al., 1991), but these were not available for this initial study. Instead, the DRD2 gene was
+
+some 7. While we are optimistic that a TS gene will be found in the remaining 20 per cent of the genome, we must acknowledge that an alternative hypothesis--that there is no single
+
+studied in a large number of normal families and mapped with respect to other polymorphisms that were close to it on the long arm of chromosome
+
+gene causing this disorder--will become much more likely if we approach exclusion of 100 per cent of the genome without finding a TS gene.
+
+11. Using this genetic map, it was pos-
+
+sible to do a complete scan of this genomic region and determine the trans-
+
+SCHIZOPHRENIA
+
+mission pattern of DRD2 by studying polymorphisms at the marker loci flanking it. With this approach, additional segments of these families, that were not informative for how the DRD2 locus itself was transmitted, were informative for these nearby anonymous DNA markers and provided additional evidence that this entire block of chromosome 11 shows a pattern of inheritance that is different from TS. The clear conclusion is that whatever its role in the dopamine system, the DRD2 locus is not the primary cause of TS.
+
+In contrast to the several years of linkage studies on TS with much of the genome already studied, linkage studies of schizophrenia are in a much more preliminary state. At an early stage a particularly appealing hypothesis of a candidate region was suggested by the finding of Dr. Bassett and her colleagues (see Bassett, 1991, a paper in this same issue). The partial trisomy they identified focussed attention on the proximal long arm of chromosome 5, a region in which the glucocorticoid receptor had been provisionally mapped. Since steroid psychosis can
+
+Using the general linkage paradigm, mimic schizophrenia, two suggestions
+
+we have now studied over 200 marker were converging on the same region of loci on this set of TS families. No sig- the genome. Two independent studies nificant evidence of linkage has been were undertaken and reached diamet-
+
+found, and the data are sufficient to ex-. rically opposite conclusions. Sherelude the TS locus from approximately rington et al. (1988) found evidence in 80 per cent of the total genome (Pakstis favor of genetic linkage to this region, et al., 1991a, and unpublished). Stud- while Kennedy et al. (1988) excluded a
+
+Vol. 38, No. 3-4
+
+Genes and Neuropsychiatric Disorders
+
+173
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+gene for schizophrenia from this region. In a slightly earlier study, Giuffra et al. (1988) had shown that the glucocorticoid receptor (GRL) gene had been incorrectly mapped to this region of chromosome 5 and actually was located at the distal end of the long arm of chromosome 5, quite far genetically. Such errors in the human genetic map exist as do gaps in knowledge about the map. A significant part of linkage studies must be checking the map, revising it if necessary, and building it when none exists in the region. In any case, Kennedy et al. (1988) showed that GRL was not linked to schizophrenia.
+Several other groups have studied the proximal long arm of chromosome 5 in additional families and consistently exclude the gene for schizophrenia from this region (see review in Gelernter and Kidd, 1990). Since even the original family material studied by Sherrington et al. (1988) shows less evidence for linkage with schizophrenia when additional markers are included, there is now the consensus that if a gene causing schizophrenia does exist in the proximal long arm of chromosome 5, it accounts for a very small fraction of the familial cases of schizophrenia. Though the initial cytogenetic findings of Bassett et al. (1991) remain to be accounted for, the linkage data of Sherrington et al. (1988) are thought by most to have been an unfortunate false positive, the type of chance event that can happen in linkage studies when results are only at the threshold of statistical significance. In fact, the results of Sherrington et al., and those of Egeland et al. (1987) discussed below, both appear to have been false positives that are causing a reevaluation of the levels of statistical signifi-
+
+cance that must be used for linkage studies of complex disorders (Robertson, 1989).
+The dopamine D2 receptor that has been studied for TS is also a candidate gene for schizophrenia. In a study very analogous to that for TS, we have studied the DRD2 locus and nearby markers and excluded this gene as a cause of schizophrenia in the large kindred we are studying (Moises et al., 1991). Overall, in this large kindred, we have now studied over 100 loci but have excluded only about 8 per cent of the genome and have no strong positive findings suggesting linkage for schizophrenia (Barr et al., 1991). We now believe that this kindred is typical of most schizophrenia families in that the low density of overt illness and the concomitant low penetrance in the model result in statistical uncertainty in the precise pattern of transmission of alleles at the postulated susceptibility locus. Strong evidence for linkage or for exclusion will require the use of highly informative individual markers or a set of closely linked markers. Fortunately, both are becoming available.
+MANIC DEPRESSIVE ILLNESS
+Manic depressive illness is the best example of the vicissitudes of genetic linkage studies for neuropsychiatric disorders. In a much publicized finding, Egeland et al. (1987) reported quite significant evidence for genetic linkage of DNA markers on the short arm of chromosome 11 with manic depressive illness in a large Old Order Amish kindred. The conclusion that a gene had been identified had to be revised when additional data were collected on that family (Kelsoe et al.,
+
+174
+
+Kidd
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+1989). A brief review of that reversal illustrates the difficulties inherent in these studies and some of what we have learned as a consequence.
+The lod scores in the original Egeland et al. report were quite positive, reaching a peak of +4.9 at the tip of the short arm of chromosome 11 immediately adjacent to the harvey-ras oncogene (HRAS). When this finding was published, most researchers thought it was quite strong evidence for linkage since a lod score of + 3 was the conventional level of significance. In addition, tyrosine hydroxylase (TH), the gene producing the enzyme for the first step in catecholamine synthesis, was mapped into that region. Since TH was known to have alternative splicing in different tissues (Horellou et al., 1988), including the brain, it seemed possible that TH could function normally in some tissues but abnormally in some brain neurons. Thus, it was a good candidate gene. Interestingly, when we attempted to refine the map position of TH, we found that it had been incorrectly mapped by a few centiMorgans and was actually very close to the insulin gene (INS) (Xue et al., 1988). At almost the same time, a molecular study placed TH immediately adjacent to INS (O'Malley and Rotwein, 1988). Though still close to the position where manic depressive illness mapped in this Old Order Amish family, TH was no longer as likely a candidate gene.
+The similarities between this situation and GRL in the candidate region for schizophrenia are illustrative of the current problems of obtaining an accurate human linkage map. While there is a good general framework map and most genes are mapped correctly with
+
+respect to entire chromosome, a map position along the chromosome that is based on preliminary data is very likely to be revised as more data are accumulated. Most loci are still only regionally mapped on the basis of preliminary data; so, the accuracy of the map will continue to be a problem for some time. Fortunately, the human genetic map is constantly improving and newer molecular methodologies are allowing even preliminary mapping data to be much more accurate than was possible just two or three years ago.
+The revised conclusion in the Amish study, however, was not caused by the removal of tyrosine hydroxylase as a candidate gene, but rather by the essential elimination of all evidence favoring linkage. This drastic change came about for two reasons. First, additional family members were studied in an attempt to bolster the original finding as well as to refine the localization. Second, while those additional family members were being collected, time passed, and two individuals in the original family had initial onset of illness. The evidence contributed by the additional family members is entirely negative and argues strongly against a locus near HRAS. The new onsets alter the diagnostic picture--individuals previously unaffected became affected --and indicate that disease susceptibility is being transmitted in a different pattern than had previously been suggested. With the new pattern of disease transmission, the evidence in favor of linkage to HRAS and INS diminished considerably and no longer reaches the level of statistical significance. Thus, there is currently no statistically significant evidence for a gene for manic depressive illness at the tip of the short
+
+Vol. 38, No. 3-4
+
+Genes and Neuropsychiatric Disorders
+
+175
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+arm of chromosome 11; thegene that into the Pakstis etal. summary, but in-
+
+was "found" has now been "lost." Ev- dicate that such positive lod scores can
+
+idence wasnot found for linkage to and dooccur bychance alone.
+
+HRAS in any of several other studies
+
+that attempted toreplicate the original finding(see discussion inKelsoe etal.,
+
+CONCLUSION
+
+1989). It is important to note thatthe Much of our discussion of signifi-
+
+data used in the original Amish analy- cance hasbeen based on having lod
+
+sis for segregation ofthe genetic mark- scores of +3.0 asthe criterion forac-
+
+ers were correct and that the statistical cepting positive proof. That is no
+
+evidence oflinkage was a false-positive longer considered sufficient in lightof
+
+finding, not a result of data errors. the current, more "sophisticated"un-
+
+As a result ofthe revised conclusion derstanding. This sophistication has
+
+about finding a gene in the Old Order been thrust upon us by finding positive
+
+Amish kindred, we and others have be- results that disappear before our eyes.
+
+gun searching inother parts of the ge- More rigorous evidence and higher
+
+nome using that same family in the standards of proof are necessary before
+
+hopes of identifying a gene elsewhere. accepting linkage as proven for these
+
+A summary of our data shows that complex disorders. However, linkage
+
+about 25percent of thegenomehas remains a promising avenue toap-
+
+been excluded for linkage based on proach these disorders and holds great
+
+more than ahundred different markers promise for significant results in the
+
+typed on that kindred (Pakstis et al., next few years. More information can
+
+19916). Interestingly, out of the 185 only give usan improved understand-
+
+linkage analyses done, the two with the ing of the complexities of these disor-
+
+highest positive lod scores were HRAS ders, provided we tolerate trialsand
+
+and INS. Those were still positive be- tribulations along the way. While link-
+
+cause data onthe newest set of family age studies still are not perfect, atleast
+
+members have notbeen incorporated they are the state of the art today.
+
+REFERENCES
+
+ARNHEIM, N., H. LI, and X. Cui. 1990. PCR
+analysis of DNA sequences in single cells: Single sperm gene mapping and genetic disease diagnosis. Genomics 8:415-419.
+BARR, C. L., J. L. KENNEDY, A. J. PAKSTIS, L.
+WETTERBERG, B. SJOGREN, J. GELERNTER, J.
+HALLMAYER, H. MOISES, L. L. CAVALLI-
+SFORZA, and K. K. KIDD. 1991. Progress in
+genome scan for linkage in schizophrenia. Abstract, 8th International Congress of Human Genetics. BASSET, A. 1991. Linkage analysis of schizophrenia: Challenges and promise. Soc. Biol. 38:189-196.
+BOERWINKLE, E., W. XIONG, E. FOUREST, and L.
+CHAN. 1989. Rapid typing of tandemly repeated hypervariable loci by the polymerase chain reaction: Application to the apolipo-
+
+protein B 3' hypervariable region. Proc. Natl. Acad. Sci. 86:212-216. BOTSTEIN, D. 1990. 1989 Allen award address: The American Society of Human Genetics Annual Meeting, Baltimore. Amer. J. Hum. Genet. 47:887-891.
+BOTSTEIN, D., R. L. WHITE, M. SKOLNICK, and
+R. W. DAVIS. 1980. Construction of a genetic linkage map in man using restriction fragment length polymorphisms. Amer. J. Hum. Genet. 32:314-331.
+BOWCOCK, A. M., C. Bucci, J. M. HEBERT, J. R.
+KIDD, K. K. KIDD, J. FRIEDLAENDER, L. L.
+CAVALLI-SFORZA. 1987. Study of 47DNA markers in five populations from four continents. Gene Geog. 1:47-64.
+BOWCOCK, A. M., J. R. KIDD, J. L. MOUNTAIN,
+J. M. HEBERT, L. CAROTENUTO, K. K. KIDD,
+
+176
+
+Kidd
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+and L. L. CAVALLI-SFORZA. 1991.Drift, admixture, and selection in human evolution:A study with DNA polymorphisms. Proc.Natl. Acad. Sci. 88:839-843. EGELAND, J. A., D. S. GERHARD, D. L. PAULS,
+
+MALLET. 1988. Multiple human tyrosine hydroxylase enzymes, generated through alternative splicing, have different specific activities in Xenopus oocytes. J. Neurochem. 58:652-655.
+
+J. N. SUSSEX, K. K. KIDD, C. R. ALLEN, A. M. HOSTETTER, and D. E. HOUSMAN.
+1987. Bipolar affective disorders linked to DNA markers on chromosome 11. Nature 325:783-787.
+
+KAN, Y. W., and A. M. DOZY. 1978.Polymorphism of DNA sequence adjacent to human -globin structural gene: Relationship to sickle mutation. Proc. Natl. Acad. Sci. 75:5631-5635.
+
+GELERNTER, J., and K. K. KIDD. 1990. The cur- KELSOE, J. R., E. I. GINNS, J. A. EGELAND,
+
+rent status of linkage studies in schizophre-
+
+D. S. GERHARD, A. M. GOLDSTEIN, S. J.
+
+nia, p. 137-152. In P. McHugh andV. A.
+
+BALE, D. L. PAULS, R. T. LONG, K. K. KIDD,
+
+McKusick (eds.), Brain and behavior.
+
+G. CONTE, D. E. HOUSMAN,and S. M. PAUL.
+
+GELERNTER, J., A. J. PAKSTIS, D. L. PAULS, R.
+
+1989. Reevaluation of the linkage relation-
+
+KURLAN, S. T. GANCHER, O. CIVELLI, D.
+
+ship between chromosome l i p loci and the
+
+GRANDY, and K. K. KIDD. 1990. Tourette
+
+gene forbipolar affective disorder in the Old
+
+syndrome is not linked to D ceptor. Arch. Gen. Psychiat.
+
+24d7:o1p0a7m3-i1n0e77r.e-
+
+Order Amish. Nature 342:238-243.
+KENNEDY, J. L., L. A. GIUFFRA, H. W. MOISES,
+
+GOATE, A., M-C. CHARTIER-HARLIN, M. MUL-
+
+L. L. CAVALLI-SFORZA, A. J. PAKSTIS, J. R.
+
+LAN, J. BROWN, F. CRAWFORD, L. FIDANI, L.
+
+KIDD, C. M. CASTIGLIONE, B. SJOGREN, L.
+
+GIUFFRA, A. HAYNES, N. IRVING, L. JAMES, R. MANT, P. NEWTON, K. ROOKE, P. ROQUES, C. TALBOT, M. PERICAK-VANCE, A. ROSES, R. WILLIAMSON, M. ROSSOR, M. OWEN, and J.
+HARDY. 1991. Segregation of a missense mutation inthe amyloid precursor protein gene with familial Alzheimer's disease. Nature 349:704-706.
+GRANDY, D. K., M. A. MARCHIONNI, H.
+
+WETTERBERG, and K. K. KIDD. 1988. Evi-
+dence against linkage of schizophrenia with markers on chromosome 5 in a Northern Swedish Pedigree. Nature 336:167-170.
+KEREM, B., J. M. ROMMENS, J. A. BUCHANAN, D. MARKIEWICZ, T. K. COX, A. CHAKRAVARTI, M. BUCHWALD, and L. C. Tsui. 1989.
+Identification of the cystic fibrosis gene: Genetic analysis. Science 245:1073-1080.
+
+MAKAM, R. E. STOFKO, M. ALFANO, L. FROTHINGHAM, J. B. FISCHER, K. J. BURKEHOWIE, J. R. BUNZOW, A. C. SERVER, and O.
+CIVELLI. 1989a. Cloning of the cDNA and
+
+KIDD, J. R., F. L. BLACK, K. M. WEISS, I. BAL-
+AZS, and K. K. KIDD, 1991. Studies of three Amerindian populations using nuclear DNA polymorphisms. Hum. Biol. 63: 775-794.
+
+gene for a human D2dopamine receptor. KIDD, K. K. 1991. Progress toward completing
+
+Proc. Nat. Acad. Sci. 86(24):9762-9766.
+
+the human linkage map. Curr. Opin. Genet.
+
+GRANDY, D. K., M. LITT, L. ALLEN, J. R. BUN-
+
+Develop. 1(1):99-105.
+
+ZOW, M. MARCHIONNI, H. MAKAM, L. REED, KIDD, K. K., A. M. BOWCOCK, J. SCHMIDTKE,
+
+R. E. MAGENIS, and O. CIVELLI. 1989b. The
+human dopamine D2 receptor gene islocated in chromosome 11 at q22-q23 and identifies a TaqI polymorphism. Amer. J. Hum. Genet. 45:778-785.
+GIUFFRA, L. A., J. L. KENNEDY,C. M. CASTIGLIONE, R. M. EVANS, J. J. WASMUTH, and
+K. K. KIDD. Glucocorticoid receptor maps to the distal long arm of chromosome 5. Cytogenet. Cell Genet. 49:313-314.
+GUSELLA, J. F., N. S. WEXLER, P. M.CONNEALLY, S. L. NAYLOR, M. A. ANDERSON,
+
+R. K. TRACK, F. RICCIUTI, G. HUTCHINGS, A.
+BALE, P. PEARSON, and H. F. WILLARD, with help from J. GELERNTER, L. GIUFFRA, and K. KUBZDELA. 1989. Report of the DNA com-
+mittee and catalogs of cloned and mapped genes andDNA polymorphisms. HGM10. Cytogenet. Cell Genet. 51:622-947.
+KURLAN, R., J. BEHR, L. MEDVED, I. SHOULSON,
+D. PAULS, J. R. KIDD, and K. K. KIDD. 1986.
+Familial Tourette's syndrome: Report of a large pedigree and potential for linkage analysis. Neurology 36:772-776.
+
+R. E. TANZI, P. C. WATKINS, K. OTTINA, M. R. WALLACE, A. Y. SAKAGUCHI, A. B. YOUNG, I. SHOULSON,E. BONILLA, and J. B.
+MARTIN. 1983. A polymorphic DNA marker genetically linked to Huntington's disease. Nature 306:234-238.
+
+LUDWIG, E. H., W. FRIED, and B. J. MCCARTHY.
+1989. High-resolution analysis ofa hypervariable region in thehuman apolipoprotein B gene. Amer. J. Hum. Genet. 45:458-464.
+MATHEW, C. B. P., K. S. CHIN, D. F. EASTON, K. THORPE, C. CARTER, G. I. Liou, S.-L.
+
+HAUGE, X. Y., D. K. GRANDY, J. H. EUBANKS,
+
+FONG, C. D. B. BRIDGES, H. HAAK, A. C.
+
+G. A. EVANS, O. CIVELLI, and M. LITT. 1991.
+Detection and characterization of additional DNA polymorphisms in the dopamine D2receptor gene. Genomics 10:527-530.
+HORELLOU, P., B. LE BOURDELLES, J. CLOTHUMBERT, B. GUIBERT, V. LEVIEL, and J.
+
+NIEUWENHUIJZEN KRUSEMAN, S. SCHIFTER, H. H. HANSEN, H. TELENIUS, M. TELENIUSBERG, and B. A. J. PONDER. 1987. A linked
+genetic marker for multiple endocrine neoplasia type 2A on chromosome 10. Nature 328:527-528.
+
+Vol. 38,No.3-4
+
+Genes andNeuropsychiatric Disorders
+
+177
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+MCALPINE, P. J., L. C. STRANC, C. BOUCHEIX,
+and T. B. SHOWS. 1990. The 1990catalog of mapped genes and report of the nomenclature committee. HGM10.5 Cytogenet. Cell Genet. 55:5-76.
+MOISES, H. W., J. GELERNTER, L. A. GIUFFRA,
+V. ZARCONI, O. CIVELLI, L. WETTERBERG,
+K. K. KIDD, L. L. CAVALLI-SFORZA. 1991. No
+linkage between D2-dopamine receptor gene region and schizophrenia. Arch. Gen. Psychiat. 48:643-647.
+OBERLÉ, I., F. ROUSSEAU, D. HEITZ, C. KRETZ,
+D. DEVYS, A. HANAUER, J. BOUÉ, M. F.BER-
+THEAS, and J. L. MANDEL. 1991. Instability of
+a 550-base pair DNA segment and abnormal methylation in fragile X syndrome. Science 252:1097-1102.
+O'MALLEY, K. L., and P. ROTWEIN. 1988. Hu-
+man tyrosine hydroxylase and insulin genes are contiguous on chromosome 11. Nucleic Acids Res. 16:4437-4446.
+PAKSTIS, A. J., P. HEUTINK, D. L. PAULS, R.
+KURLAN, B . J . M . VAN DE WETERING, J . F .
+LECKMAN, L. A. SANDKUYL, J. R. KIDD, G. J. BREEDVELD, C. M. CASTIGLIONE, J. WEBER, R. S. SPARKES, D. J. COHEN, K. K. KIDD, and B. A. OOSTRA. 1991a. Progress in the search for genetic linkage with Tourette Syndrome: An exclusion map covering more than 50 per cent of the genome. Amer. Hum. Genet. 48:281-294. PAKSTIS, A. J., J. R. KIDD, C. M. CASTIGLIONE, and K. K. KIDD. 1991b. Status of the search for a major genetic locus for affective disorder in the Old Order Amish. Hum. Genet. 87:475-483. PAULS, D. L., and J. F. LECKMAN. 1986. The inheritance of Gilles de la Tourette's syndrome and associated behaviors. New Engl. J. Med. 315:993-997. PEARSON, P. L., K. K. KIDD, and H. F. WILLARD. 1987. Report of the committee on human gene mapping by recombinant DNA techniques HGM9: Human Gene Mapping Workshop 9. Cytogenet. Cell Genet. 46:390566.
+RIORDAN, J . R . , J . M . ROMMENS, B . KEREM, N .
+ALON, R. ROZMAHEL, Z. GRZELCZAK, J. ZIE-
+LENSKI, S. LOK, N. PLAVSIC, J. L. CHOU,
+M. L. DRUMM, E . IANNUZZI, F. S. COLLINS,
+and L. C. Tsui. 1989. Identification of the cystic fibrosis gene: Cloning and characterization of complementary DNA. Science 245:1066-1073. RISCH, N. 1990. Linkage strategies for genetically complex traits. I. Multilocus models. Amer. J. Hum. Genet. 46:222-228. ROBERTSON, M. 1989. False start on manic depression. Nature News Views 342:222.
+ROMMENS, J. M., M. C. IANNUZZI, B. KEREM,
+M. L. DRUMM, G. MELMER, M. DEAN, R.
+ROZMAHEL, J. L. COLE, D. KENNEDY, N.
+HiDAKA, M . ZSiGA, M . BUCHWALD, J . R . R i -
+
+ORDAN, L. C. Tsui, F. S. COLLINS. 1989. Identification of the cystic fibrosis gene: Chromosome walking and jumping. Science 245:1059-1065.
+RUANO, G., K. K. KIDD, and J. C. STEPHENS.
+1990. Haplotype of multiple polymorphisms resolved by enzymatic amplification of single DNA molecules. Proc. Natl. Acad. Sci. 87:6296-6300.
+SEIZINGER, B. R.; G. A. ROULEAU, L. J. O Z E LIUS, A. H. LANE, A. G. FARYNIAZ, M. V. CHAO, S. HUSON, B. R. KORF, D . M. PARRY, M. A. PERICAK-VANCE, F. S. COLLINS, W. J. HOBBS, B. G. FALCONE, J. A. IANNAZZI, J. C. ROY, P. H. ST. GEORGE-HYSLOP, R. E. TANZI, M. A. BOTHWELL, M. UPADHYAYA, P. HARPER, A. E. GOLDSTEIN, D. L. HOOVER, J. L. BADER, M. A. SPENCE, J. J. MULVIHILL, A. S. AYLSWORTH, J. M. VANCE, G. O. D . ROSSENWASSER, P. C. GASKEL, A. D. ROSES, R. L. MARTUZA, X. O. BREAKEFIELD, and
+J. F. GUSELLA. 1987.Genetic linkage of von Recklinghausen neurofibromatosis to the nerve growth factor receptor gene. Cell 49:589-594.
+SHERRINGTON, R., J. BRYNJOLFSSON, H. PETURSSON, M. POTTER, K. DUDLESTON, B. BARRACLOUGH, J. WASMUTH, M. DOBBS, and H.
+GURLING. 1988. Localization of a susceptibility locus for schizophrenia on chromosome 5. Nature 336:164-167.
+SIMPSON, N. E., K. K. KIDD, P. J. GOODFELLOW, H. MCDERMID, S. MYERS, J. R. KIDD, C. E. JACKSON, A. M. V. DUNCAN, L. A. FARRER, K. BRASCH, C. CASTIGLIONE, M. GENEL, J. GERTNER, C. R. GREENBERG, J. F. GUSELLA, J. J. A. HOLDEN, and B. N. WHITE. 1987. As-
+signment of multiple endocrine neoplasia type 2A to chromosome 10 by linkage studies. Nature 328:528-530.
+STEPHENS, J. C., M. L. CAVANAUGH, M. I. GRADIE, M. L. MADOR, and K. K. KIDD.
+1990. Mapping the human genome: Current status. Science 250:237-244.
+Tsui, L. C., M. BUCHWALD, D. BARKER, J. C. BRAMAN, R. KNOWLTON, J. W. SCHUMM, H. EIBERG, J. MOHR, D. KENNEDY, N. PLAVSIC, M. ZSIGA, D. MARKIEWICZ, G. AKOTS, V. BROWN, C. HELMS, T. GRAVIUS, C. PARKER, K. REDIKER, and H. DONIS-KELLER. 1985.
+Cystic fibrosis locus defined by a genetically linked polymorphic DNA marker. Science 230:1054-1057.
+WALLACE, M. R., D. A. MARCHUK, L. B. ANDERSON, R. LETCHER, H. M. ODEH, A. M. SAULINO, J. W. FOUNTAIN, A. BRERETON, J. NICHOLSON, A. L. MITCHELL, B. H. BROWNSTEIN, and F. S. COLLINS. 1990. Type 1 neu-
+rofibromatosis gene: Identification of a large transcript disrupted in three NF1 patients. Science 249:181-186.
+WILLARD, H. F., M. SKOLNICK, P. PEARSON, and
+J.-L. MANDEL. 1985. Report of the Commit-
+
+178
+
+Kidd
+
+Social Biology
+
+tee on Human Gene Mapping by recombinant DNA techniques. Eighth International Human Gene Mapping Works (HGM8). Cytogenet. Cell Genet. 40:360-489.
+WILLIAMSON, R., A. BOWCOCK, K. KIDD, P.
+PEARSON, J. SCHMIDTKE, H. S. CHAN, M.
+CHIPPERFIELD, D. N. COOPER, J. HEWITT, F.
+LEWITTER, B. MAIDAK, M. QUITT, F. RIC-
+CIUTI, and R. TRACK. 1990. Report of the
+DNA committee and catalogues of cloned and mapped genes and DNA polymorphisms. HGM10.5, Cytogenet. Cell Genet. 55:457-778.
+
+XUE, F., J. R. KIDD, A. J. PAKSTIS, C. M. CASTI-
+GLIONE, J. MALLETT, and K. K. KIDD. 1988.
+Tyrosine hydroxylase maps to the short arm of chromosome 11 proximal to the insulin and HRAS1 loci. Genomics 2:288-293.
+Yu, S., M. PRITCHARD, E. KREMER, M. LYNCH, J.
+NANCARROW, E. BAKER, K. HOLMAN, J. C.
+MULLEY, S. T. WARREN, D. SCHLESSINGER,
+G. R. SUTHERLAND, and R. I. RICHARDS.
+1991. Fragile X genotype characterized by an unstable region of DNA. Science 252:11791181.
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+

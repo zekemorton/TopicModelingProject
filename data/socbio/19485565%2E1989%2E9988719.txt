@@ -1,0 +1,1486 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Fertility determinants in the oil region of Mexico
+James B. Pick , Glenda L. Tellis & Edgar W. Butler
+To cite this article: James B. Pick , Glenda L. Tellis & Edgar W. Butler (1989) Fertility determinants in the oil region of Mexico, Social Biology, 36:1-2, 45-66, DOI: 10.1080/19485565.1989.9988719 To link to this article: http://dx.doi.org/10.1080/19485565.1989.9988719
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles Citing articles: 3 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:42
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+Fertility Determinants in the Oil Region of Mexico
+aJames B. Pick, bGlenda L. Tellis, and bEdgar W. Butler
+aGraduate School of Management and bDepartment of Sociology, University of California, Riverside, California
+ABSTRACT:This study analyzes fertility determinants in the oil region of Mexico, consisting of the states of Veracruz, Tabasco, and Campeche. Data are from the 1980 Mexican census and the unit of analysis is the municipio. The regression models, in which the dependent variables of children ever born and child-woman ratio are examined, reveal religious variables to be most significant, with greater fertility for non-Catholics and persons with no religion than for Catholics. Also of great importance are economic variables. Literacy and urbanization, both "classical" Mexican fertility variables, reduce fertility. There are major differences among three urban/rural and three indigenous language subsamples. Results are discussed vis-a-vis demographic theories and prior research.
+Although Mexican fertility has been to favor growth of the capitol's greater lowered substantially over the past metropolitan area (Fukurai et al., 1987; fifteen years, Mexico still is growing rap- Pick etal., 1989). idly due to population momentum. One The goal of the present research is to projection indicates a population of 105 examine variation in and determinants million in the year 2000, a growth incre- of fertility in the oil region of Mexico, ment of about 21 million persons from consisting of the states of Veracruz, Tapresent (Population Reference Bureau, basco, and Campeche. The geographi1988). With such a large anticipated in- cal unit for the study is the municipio. crease, fertility control remains a vital The municipio is a unit analogous to the national issue. Another related issue is county in the United States and is that of population distribution. Mexico defined by the Mexican census as the is suffering from the effects of maldistri- base unit of territorial division and bution, especially in relation to over- political/administrative organization in population in the national capital of the nation (Secretaria de Programacion Mexico City and its surrounding states. y Presupuesto, 1982-85; see also Pirez, Hence it is important to improve under- 1981). The region is selected because of standing of regional demographic differ- its major economic importance for the ences in order to plan for the location of present and future development of present and future population. Al- Mexico. The research objectives are: to though the De La Madrid government analyze and compare basic levels and during its 1982-88 term adopted a pol- differences in fertility to determine the icy of national population decentraliza- important predictors of fertility, to comtion, migration patterns have continued pare results to those for the U.S.-
+45
+
+46
+
+Picketal.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+Mexico border region, and to discuss the results in terms of demographic research and theory.
+The present research contributes to an enhanced knowledge of demographic processes in the oil region of Mexico. Following discovery of an oil superfield in the region in the mid 70's, the region's economic output and importance have increased. In 1986, this region accounted for 95per cent of Mexico's 913million barrels of crude oil production, and 77 per cent of its 35.5 billion cubic meters of natural gas production (Pemex, 1986). Oil reserves are also largely concentrated in this region. The economic significance of these reserves in Mexico's future is shown by national proven crude oil reserves at the end of 1986 of 54.9 billion barrels, an amount estimated at 46 per cent of the Western Hemisphere's and 8 per cent of the world's proven oil reserves (Pemex, 1986).
+Prior to the oil discovery, the region was characterized by an agricultural orientation and average population growth. From 1930 to 1980, the region grew in population from 1.7 million to 6.9 million, at rates approximating the nation. Since the oil discovery, the region has experienced diverse population and economic effects. First, the oil industry has caused a shift in economic growth and production from the region's largest city of Veracruz to other cities, especially Tampico, Poza Rica, Coatzacoalcos, Villahermosa, and Ciudad de Carmen. As a result, the region has become more urban. For the state of Tabasco, an indicator of oil-related growth is the increase in employees in Pemex, the national oil company, from just a few employees before 1973 to 18,400 (7,000 permanent and 11,440 temporary) employees in 1979 (Ne-
+
+grete, 1984). Nevertheless, oil industry decision-making and power largely has remained in Mexico City. The oil boom has in many ways destroyed local traditions and culture in cities affected by it, although Veracruz has managed to maintain much of its traditional culture (Riding, 1985).
+In summary, since the mid 70's, the oil region has experienced an economic and demographic transformation. From a somewhat sleepy, agriculturally-oriented region, it has become one of potentially great economic strength and productivity. Data in the present research paper refer to the region about five years into this transformation.
+BACKGROUND
+MEXICAN FERTILITY
+The present study adds to a substantial knowledge base on Mexican fertility. Several studies have summarized the existing knowledge on the country's fertility (Rubin-Kurtzman, 1987; Martinez, 1982). These summaries reveal many types of models constructed to examine the relationships and determinants of Mexico's fertility. These models include geographically-based statistical studies, psychosocial analyses, medically-based studies of biological aspects of fertility, and others. This section concentrates on the first category of studies. It is perhaps premature to present a uniform theory to account for the dynamics of Mexican fertility. Therefore, it is more worthwhile to review here four key determinants, which have been emphasized in the body of Mexican fertility research: urban-rural differences, education/literacy, economic activity, and migration. All have been studied often in the past, and for
+
+Vol. 36, No. 1-2
+
+Fertility Determinants
+
+47
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+some, a clear consensus of findings has occurred. Other determinants, not discussed, include family size attitudes, standard of living, legal versus consensual marriage, and indigenous background. Religion, an under-studied determinant, is mentioned at the end of the section.
+Urban-rural residence is a determinant of great importance in prior Mexican studies. Theoretically, much work has been accomplished in such studies, drawing on a larger body of research on developing nations (Rubin-Kurtzman, 1987). The inverse relationship between urban residence and fertility has sometimes been ascribed to a dualistic focus. In rural areas, children are needed to preserve the family unit both due to direct economic contributions and to other influences including strengthening of social bonds, provision of insurance against the ravages of infant mortality, and giving care to family elders. In urban areas, children usually represent more of an economic burden than asset (Kasarda et al., 1986), and they are valued less. At the same time, infant mortality is lower, and more government care for the elderly is available.
+Empirical studies have repeatedly affirmed urbanization as perhaps the strongest of all fertility determinants in Mexico. Geographically-based studies, utilizing a variety of data sources from a fifty-year period, have consistently confirmed an inverse relationship (Robinson and Robinson, 1960; Benitez Zenteno, 1962; Coale and Hoover, 1958; Zarate, 1967; Hicks, 1974; Pillet, 1980; Pick et al., 1986, 1987a). Although, as pointed out by Espinosa and Welti (1983), there is more complexity underlying "urban" and "rural" than is shown by inclusion of a single variable, usually the researcher is handicapped by availa-
+
+ble data sources in penetrating the underlying subtleties of urban and rural distinctions.
+Another important determinant is education, and closely-related is literacy. Studies including education or literacy have consistently noted an inverse influence on fertility (Hicks, 1974; Seiver, 1975; Garcia y Garma, 1979; Zambrano Lupi, 1979; Holian, 1986; Pick et al., 1986; Pick, Butler, and Pavgi, 1987a). Theories have been constructed showing that education lowers fertility through a variety of pathways (Rubin-Kurtzman, 1987;Kasarda et al., 1986). These include increase in employment opportunities outside the household, increase in the cost of childbearing, increase in the age at marriage, and greater knowledge and utilization of contraception.
+Empirical studies on Mexico have consistently confirmed the importance of education/literacy, based on a variety of methodologies and sample units including the state, municipio, and household. For instance, a study of the borderlands region at the municipio level, similar in design to the present one, showed that literacy had a dominating inverse effect on fertility (Pick et al., 1986). A different type of study was based on 1970 household survey data in Mexico City (Zambrano Lupi, 1979). In addition to education, this study also examined the effect of the respondent's social position by dividing respondents into three social groups: (1) manual laborers earning wages, (2) nonmanual salaried workers, and (3) nonmanual professionals and employers. Results confirmed the major importance of education, with fine differences noted between categories of manual and nonmanual workers.
+Economic activity and related em-
+
+48
+
+Picketal.
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+ployment variables have often been significant fertility determinants, but with neither the consistency nor the importance of urbanization and education/ literacy. Also, the female economic activity determinant has been studied to a greater extent than that of male economic activity. A review of the female economic activity determinant in Mexican fertility studies (Rubin-Kurtzman, 1987) has classified studies of female economic activity into the following three types: (1) Studies that focus on the economic activity itself. Here an inverse relationship between female economic activity or employment and fertility has usually been noted. (2) Studies of a larger set of female occupational characteristics and fertility (for instance, Hass, 1972). These studies vary to a greater extent, and fewer inconsistencies were noted. (3) Studies based on models of the domestic unit (for example, Garcia and Oliveira, 1978). These more complicated studies incorporate theoretical concepts such as the marriage life cycle, new household economy, and female role conflict. Studies examining male economic activity or employment have tended to focus on the perspective of occupation or social mobility (RubinKurtzman, 1987). These studies have generally not found male economic activity to be a major fertility predictor, although a strong effect from male economic activity was noted for the Mexican borderlands (Pick et al., 1986, 19876).
+Migration has been included in a number of Mexican fertility studies in order to examine migration-fertility interactions. Here, the theory is not yet clear, even in the direction of causation. In addition, empirical results have shown a variety of results. For instance, in a study based on a national fertility
+
+household survey, Espinosa and Welti (1983) examined correlations between fertility and migration by region and age of correspondent. There were no consistent relationships. For instance, regions differed considerably in direction and strength of the relationship. Other survey studies have concentrated on the fertility of residents of large Mexican cities, relative to migratory history, and have had varying results (for example, Brito, 1969).
+Lastly, it is important to mention religion as a possible fertility determinant, although it has rarely been included in Mexican studies. The present researchers were able to locate only one prior Mexican study which included a religious variable (Davidson, 1973). The lack of inclusion is surprising given the frequent importance of religion as a variable in U.S. studies of fertility. The main reason may be Mexico's small proportion of non-Catholic population (7.4 per cent in the 1980 census). Davidson's study included religiosity as an independent variable in a study of fertility variation among women in the Federal District, Mexico, compared to women in Caracas, Venezuela. Controlling for education, religiosity of wives revealed no consistent relationship to fertility for ever-married women.
+THE MUNICIPIO AS A UNIT OF ANALYSIS
+The municipio was established in Mexico by the 1917 Constitution with the intention of giving more emphasis to regions and localities (Pirez, 1981). However, since that time the government in Mexico has increasingly been concentrated at the federal level, as revealed by the decrease in the municipio's share of overall governmental income from 5.3 per cent in 1940 to 1.5 per cent in 1970 (and probably less today).
+
+Vol. 36, No. 1-2
+
+Fertility Determinants
+
+49
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+Partly because municipio boundaries authors feel it is premature to attempt a
+
+have not been substantially altered since theory of regional fertility causation in
+
+1917, there is an unequal number of Mexico, a development which should
+
+municipios among the states. For in- await a larger body of empirical studies.
+
+stance, there are 571 municipios in Oax- The two dependent variables utilized
+
+aca and 222 in Puebla, versus only 4 in are as follows:
+
+Baja California, 32in Morelos, and 38in (1) Children Ever Born, Women
+
+Coahuila. Municipios are also charac- Aged 20-29.--This variable has been
+
+terized by heterogeneity, inequality in utilized frequently in Mexican fertility
+
+social and economic characteristics, and research (Pick et al., 1986, 1987ft; Ho-
+
+variation in geographical size. The dis- lian, 1983,1986; Garciay Garma, 1980).
+
+tributions of income, literacy, and hous- It is denned as the ratio of all live births
+
+ing by municipio are unbalanced, for women age 20-29, to the total num-
+
+weighted toward the lower end.
+
+ber of women aged 20-29. The variable
+
+Several studies have evaluated the has a disadvantage that census respon-
+
+accuracy of the Mexican censuses of 1970 (Camposortega, 1983) and 1980 (Lopez, 1982), and caution must be exercised in using census data. In spite of problems, the above studies agree that the 1970 and 1980 Mexican census data, on the whole, are acceptable for research purposes.
+
+dents may not have accurately recalled their fertility histories. In addition, there is a longer time frame for fertility than for children ever born, i.e., the cumulative fertility of the 20-29 age group took place throughout the 70's and even earlier. Earlier fertility and its explanation may not relate at all to 1979-80 fertility. However, results of a prior analy-
+
+sis for the Mexican borderlands (Pick et MATERIALS AND METHODS al., 1987ft) reveals that Mexican fertility
+
+The major objective of this study is to examine possible important determinants on fertility in the oil region. Selection of the two dependent fertility variables, one cohort and one period, was limited by the constraints of the Mexican census. The selected variables mea-
+
+was very stable geographically over a thirty-year period. Another disadvantage of this variable is that some fertility, for women who inmigrated, occurred outside of the oil region. This problem, however, is common to all of the abovecited studies.
+
+sure recent fertility, since the Mexican (2) Child-Woman Ratio--To allow
+
+census does not provide an accurate se- a comparison and to cross-check the va-
+
+ries of historical cohort data. Also, vari- lidity of the results, a second fertility
+
+ables measuring earlier cohort fertility measure is used, child-woman ratio,
+
+would not correspond in time to the defined as the ratio of population age 0-
+
+1980 independent variables. Because 4, to the female population of childbear-
+
+this study of regional fertility is uncom- ing age, 15-49. Seiver (1975) used this
+
+mon in the Mexican literature, the inde- variable for 1970 state data. Seiver ad-
+
+pendent variables examined include justed the child-woman ratio for esti-
+
+those well known in the Mexican and mated regional variations in underenu-
+
+worldwide literature and others of sus- meration and infant mortality. These
+
+pected importance for this research. adjustments are impossible for the pres-
+
+This study is empirical in nature. The ent study, since no estimates have ever
+
+50
+
+Picketal.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+been made of the two error factors for years and older. Persons falling into this
+
+the oil region municipios. The relatively category may or may not speak Spanish.
+
+low estimated undercount for the 1980 This variable has been infrequently used
+
+Mexican Census, mentioned earlier, is a in Mexican fertility studies. It is in-
+
+favorable factor supporting use of this cluded in the present study because of its
+
+variable. This variable has an advantage significance asreported by Hicks (1974),
+
+over children ever born, women age 20- the high proportion of indigenous popu-
+
+29, in that the fertility must have oc- lation (21.0 per cent) in the oil region,
+
+curred in the 1975-80 period, and thus and the importance of the indigenous
+
+relates better to the 1975-80 indepen- population to the social and political
+
+dent variables. Inclusion of two depen- structure of the region (Riding, 1985).
+
+dent variables affords comparison of the differential effects of independent variables. Effects confirmed by both dependent variables can then be considered strong.
+
+Non-Catholic.--This variable is defined as the ratio of persons of Protestant or Evangelist, Jewish, and Other religion to the entire population. Although inclusion of the entire popula-
+
+The following independent variables tion may be surprising, the Mexican cen-
+
+were selected:
+
+sus does ask for religion for children and
+
+Literacy.--Literacy is defined as the infants (almost always the religion of the
+
+ratio of literate population 15 years and parents). For Mexico as a whole, the
+
+older to population 15 years and older. Protestant or Evangelist, Jewish, and
+
+Numerous prior studies of Mexican fer- Other categories constitute respectively
+
+tility point to the important influence of 3.29,0.09, and 0.86 per cent of the pop-
+
+education and/or literacy on reducing ulation. These three categories are in-
+
+fertility (Pick et al., 1986,1987a, b; Ho- cluded together under Non-Catholic,
+
+lian, 1983,1986; Seiver, 1975). Because merely as a convenient variable label.
+
+of collinearity problems, only literacy All people in this group represent orga-
+
+was included in the analysis.1Because of nized religious belief which is non-
+
+the low literacy/educational levels in the Catholic; Protestants constitute 78 per
+
+oil region, literacy relates to a much cent of this category. As far as can be de-
+
+larger proportion of the population than termined, this variable has not been in-
+
+primary education. Nevertheless, the cluded in prior studies of Mexican fertil-
+
+two variables are so closely correlated ity. It was included because of the past
+
+that results are very similar regardless of importance of religion for differential
+
+choice.
+
+fertility in the U.S. (Westoff and Ryder,
+
+Indigenous Language.--Indigenous language is defined as the ratio of population 5 years and older which speaks an indigenous language to population 5
+
+1977; Dolan and Leege, 1985; Goldscheider, 1967; Mosher and Goldscheider, 1984; Mosher and Hendershot, 1984a, b: Mosher et al., 1986) and in other countries (Day, 1968,1983;
+
+'Primary education was also considered for inclusion as an independent variable. It was defined
+
+Van Heek, 1956; Wright and Davies, 1974).
+
+as the ratio of population aged 10 years and older with less than completion of primary education to the total population aged ten years and older. It was excluded from the analysis because of possible collinearity problems resulting from its highly significant correlation of -0.79 with literacy.
+
+No Religion.--No religion is defined as the ratio of population not having religion to the entire population. It does not necessarily connote aetheism or ag-
+
+Vol. 36, No. 1-2
+
+Fertility Determinants
+
+51
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+nosticism, but rather lack of belief in or- years and older, excluding those not
+
+ganized religion. It likely includes a specifying hours worked.
+
+small portion of believers in native or This variable has been included in
+
+syncretist religions, some with tinges of only a few prior Mexican fertility stud-
+
+Catholicism (Riding, 1985). In Mexico, ies, is unavailable for many surveys, but
+
+this category constitutes 3.1 per cent of is available by calculation in the Mexi-
+
+the population. It has not been included can census. It was included in a prior
+
+in prior studies of Mexican fertility, but municipio-based study of the U.S.-
+
+is included here because it is a significant Mexico borderlands (Pick et al., 19876)
+
+proportion of the non-Catholic popula- in which it showed a secondary but a
+
+tion and is expected to differ substan- significant effect on reducing fertility.
+
+tially in effects from Non-Catholics.
+
+No/low Income.--No/low income is
+
+Labor Force Participation: Male and defined by the following ratio: economi-
+
+Female.--Male labor force participa- cally active population 12 years and
+
+tion is defined as the ratio of economi- older, with no income or income of 1-
+
+cally active males aged 15-29 to male 1970 pesos/month/economically active
+
+population 15-29. Female labor force population 12 years and older, exclud-
+
+participation is similarly defined. This ing those not specifying income.
+
+age category includes those in their This variable excludes a substantial
+
+years of highest reproductivity.
+
+proportion of economically active with
+
+Seiver (1975) included labor force income level unspecified. The only pre-
+
+participation, pooled for both sexes, as viously cited Mexican fertility study con-
+
+an independent variable, but it lacked taining this variable was by Seiver
+
+significance. Pick et al. (19876) included (1975), with no significant results. It is
+
+male and female labor force participa- important to note that the 1980 ex-
+
+tion as separate independent variables change rate for the peso was about 23 to
+
+and noted the expected reduction in fer- the U.S. dollar, versus a much higher
+
+tility by female labor force participation rate today.
+
+but, surprisingly, an increase in fertility Urbanization.--Urbanization is
+
+from higher levels of male labor force defined as the ratio of persons living in
+
+participation. In the fertility literature places of 2,500 population or more to to-
+
+for other nations, female labor force tal population. Other studies of Mexi-
+
+participation has frequently been in- can fertility, Seiver (1975), Holian
+
+cluded and usually has a significant ef- (1983, 1986), and Pick et al. (1986,
+
+fect on reducing fertility (Kasarda et al., 19876) almost unanimously noted that
+
+1986). These results, however, are less urbanization reduced fertility, a finding
+
+consistent when urbanization and type in accord with many worldwides studies,
+
+of employment are taken into account such as the World Fertility Survey (Cle-
+
+(see, for example, Mueller and Short, land and Hobcraft, 1985). Oil region
+
+1983; Standing, 1983; and Repetto, municipios have a large variation in ur-
+
+1979).
+
+banization, and as noted above, urban-
+
+Unemployment.--Unemployment is ization is increasing as a consequence of defined by the following ratio: economi- the oil boom.
+
+cally active population, 12 years and Inmigration, 1979-80.--This varia-
+
+older, working 0 hours per week/ ble is defined as the ratio of population
+
+economically active population, 12 which inmigrated into a municipio or
+
+52
+
+Picketal.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+state in the year preceding the 1980 census to thepopulation of the municipio or state in 1980. Inmigration has rarely been included in prior studies of Mexican fertility. Using individual level data for four regions of Mexico, Pick et al. (1987a) noted relatively little influence of migration on fertility. For borderlands municipios, Pick et al. (1987b) likewise noted little effect of inmigration on fertility. It is included to examine the possible effects on fertility of increased inmigration into the oil region during 1979-80, much of it associated with the oil boom.
+The data are from the 1980Mexican Census of Population (Secretaria de Programacion yPresupuesto, 1982-85). The statistical methods utilized are descriptive statistical analysis, correlation, and regression analysis. The regression analysis uses both favored stepping and backward elimination algorithms. Generally, for less than a full setof variables, the backward elimination algorithmwas used. Usually the results for forward and backward stepping were highly comparable. The sample unit selected is the municipio. For municipios other than the largest metropolises and rural areas, the municipio unit accurately
+
+reflects areal differences since it corresponds generally to the location of a single town or city, and in fact often is named the same as the town or city (e.g., Veracruz Municipio contains one major city, Veracruz). This correspondence, originally established about seventy years ago,remains largely valid. In rural areas, municipio boundaries often correspond to geographic features. However, since the governmental authority, albeit weak for municipios, corresponds to these boundaries, themunicipio represents a more coherent smallpopulation aggregate than any other unit having the necessary data.
+The present study interprets the effects of municipio characteristics on municipio fertility, in order to avoid the ecological fallacy. While it may be preferable to utilize individual data, no such data are available on a systematic and recent basis for the oil region. Even if available, it is unlikely that a survey would include the municipio or locality as a variable (for example the data set from the World Fertility Survey of 1976-77 does not include a municipio/ locality coding). Most prior studies of Mexico fertility using census data have utilized the state as a unit of analysis (for
+
+TABLE 1
+MEANS ANDSTANDARD DEVIATIONS: FULL SAMPLE ANDMAJOR SUBSAMPLES
+
+OIL REGION SAMPLES
+(N)
+
+CHILDREN EVER BORN*
+Mean SD
+
+Oil region
+
+Entire (228)
+
+2.022 0.336
+
+HighUrbzn. (42) . . . . 1.715 0.319
+
+L o w U r b z n . ( l l l ) . . . 2 . 0 6 7 0.281
+
+Rural (75)
+
+2.126 0.324
+
+Highindig.(42)
+
+2.186 0.276
+
+Med.indig.(118) . . . 1 . 9 7 5 0.367
+
+Lowindig.(68)
+
+2.002 0.281
+
+Border region Entire (272)
+
+1.801 0.357
+
+"Women 20-29.
+
+CHILD-WOMAN RATIO
+Mean SD
+0.660 0.111 0.566 0.101 0.667 0.092 0.704 0.114 0.688 0.069 0.640 0.115 0.679 0.120
+0.643 0.115
+
+LITERACY
+Mean SD
+0.676 0.166 0.785 0.132 0.716 0.104 0.557 0.189 0.449 0.176 0.743 0.110 0.700 0.112
+0.877 0.080
+
+INDLANG
+Mean SD
+0.210 0.314 0.157 0.263 0.156 0.236 0.319 0.404 0.828 0.148 0.103 0.113 0.013 0.004
+0.028 0.064
+
+NON-CATHOUC
+Mean SD
+0.060 0.049 0.069 0.047 0.069 0.048 0.041 0.046 0.062 0.054 0.068 0.048 0.044 0.042
+0.051 0.051
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+Vol. 36, No. 1-2
+
+Fertility Determinants
+
+53
+
+example, Hicks, 1975; Seiver, 1974). ple consists of 118 municipios with per
+
+Only a few census-based studies have cent indigenous speakers less than 50.0
+
+utilized the individual level and only for per cent and greater than or equal to 2.0
+
+1970 (see Holian, 1983, 1986). Such a percent.
+
+sample is not available for 1980.
+
+(g.) Low Indigenous.--The sample
+
+The samples below were chosen for consists of 68 municipios with per cent
+
+analysis:
+
+indigenous speakers less than 2.0 per
+
+(a.) All municipios.--The full oil- cent.
+
+region universe consists of 228 munici-
+
+pios in the three states. (b.) High Urbanization.--The sam-
+
+RESULTS
+
+ple consists of 42 municipios with urban- Statistical analysis was performed for
+
+ization greater than 65.0 per cent. The the oil-region universe and the samples
+
+purpose of this sample is to access differ- denned above. A summary of descrip-
+
+ential fertility in oil-region urbanized tive statistics for the major samples is
+
+municipios.
+
+presented in Table 1. The mean value
+
+(c.) Low Urbanization.--The sample for children ever born compares to pre-
+
+consists of 111 municipios with urban- vious studies; it is 12 per cent higher
+
+ization equal to or less than 65.0per cent than the comparable mean for the bor-
+
+and greater than 0.0 per cent.
+
+der region. On the other hand, child-
+
+(d.) Rural.--The sample consists of woman ratio is only 3 per cent higher in
+
+75municipios with no urbanization, i.e., the oil region. This finding may reflect
+
+0.0 per cent.
+
+convergence in fertility between re-
+
+(e.) High Indigenous.--The sample gions, since the child-woman ratio rep-
+
+consists of 42 municipios with per cent resents, on the average, more recent fer-
+
+indigenous speakers greater than or tility than does children ever born.
+
+equal to 50.0 per cent. The purpose of Another reason may be regional differ-
+
+this sample is to access differential fertil- ences in infant and child mortality rates,
+
+ity across a range of levels of proportion which are reflected in child-woman ra-
+
+indigenous.
+
+tio, but not in children ever born. In
+
+(f.) Medium Indigenous.--The sam- fact, infant mortality rates for 1979 were
+
+TABLE 1 (Continued)
+
+NO RELIGION
+Mean SD
+
+LF MALE
+Mean SD
+
+LF FEMALE
+Mean SD
+
+UNEMP
+Mean SD
+
+NOLO1NCOME
+Mean SD
+
+UBBZN
+Mean SD
+
+INM1G
+Mean SD
+
+0.054 0.051 0.046 0.041 0.066 0.050 0.042 0.055 0.065 0.067 0.059 0.050 0.039 0.038
+
+0.812 0.082 0.740 0.078 0.797 0.065 0.873 0.061 0.851 0.064 0.792 0.073 0.820 0.095
+
+0.246 0.070 0.254 0.060 0.245 0.050 0.242 0.097 0.245 0.096 0.254 0.057 0.231 0.071
+
+0.072 0.042 0.072 0.033 0.074 0.030 0.069 0.058 0.085 0.068 0.071 0.032 0.067 0.034
+
+0.602 0.203 0.417 0.186 0.576 0.158 0.744 0.171 0.826 0.138 0.530 0.187 0.589 0.162
+
+0.324 0.303 0.812 0.106 0.359 0.148 0.000 0.000 0.187 0.287 0.428 0.299 0.230 0.255
+
+0.006 0.005 0.009 0.006 0.006 0.004 0.003 0.003 0.003 0.003 0.008 0.006 0.004 0.002
+
+0.036 0.033 0.801 0.074 0.241 0.087 0.111 0.087 0.407 0.208 0.340 0.372 0.012 0.011
+
+54
+
+Picketal.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+higher in the oil than in the border region (Secretaria de Programacion y Presupuesto, 1981). For children ever born and child-woman ratio, there are urban gradients, with the rural sample values respectively 23.9 and 24.4 per cent higher than for the urban sample. There is less variation in fertility among the three indigenous samples, with variation from the high to low indigenous samples of 9.2 and 1.3 per cent respectively for the two fertility measures.
+For the entire oil-region universe, mean values for non-Catholic, labor force, and urbanization conform to those for the borderlands. However, literacy is notably lower; indigenous language is much higher; no religion is much higher; unemployment is much lower; no/low income is much higher; and the inmigration rate is half the borderlands rate. The economic variables reflect lower incomes, but caution must be exercised because the Mexico-U.S. border economy tends to raise income levels on the Mexican side.
+For many variables there are significant differences in mean values across the urban/rural and indigenous samples. One of particular interest is nonCatholic religion, which is higher in the other urbanization samples (6.9 per cent) than in the rural sample (4.1 per cent). It is high in the high and medium indigenous samples (6.2 and 6.8 per cent) and low (4.4 per cent) in the low indigenous sample. Clearly, the nonCatholic religious population is not synonymous with rural and/or low indigenous areas. No religion shows a different pattern. In the urban/rural samples, it ishighest in low urbanization areas, while it decreases consistently in value from the high to low indigenous samples. The region's oil boom may be reflected in a level of inmigration about
+
+three times as great in the high urbanization versus the rural sample. By contrast in the border region, inmigration for the urban sample is only 33 per cent higher. Other differentials and trends in mean values and standard deviations are presented in Table 1.
+REGRESSION ANALYSIS
+The results of the regression analysis, with all independent variables included, are shown in Tables 2 and 3. The regression equations were highly significant, except for the high indigenous sample. Inclusion of all independent variables allows complete cross-comparison of results. However, in four of the samples (high urbanization, rural, high indigenous, and low indigenous), the ratio of variables to cases, with the full set of independent variables, was considered by the authors to be low, i.e., less than 1-to10. For these four subsamples, further stepwise regressions were performed, in order to test the effect of raising the above ratio to l-to-10 or more. The forward stepping algorithm was utilized. The results of the stepwise regressions are presented in Table 4. There is close correspondence between the results with the full set of independent variables and the stepwise results, in the direction and significance of variables and in overall adjusted R2. However, for two regression equations, high urbanization/ children ever born and low indigenous/ children ever born, the significant variables selected by stepwise technique is somewhat different. For these two equations, the stepwise results will be referred to in the discussion of results.
+For the rural and high indigenous subsamples, even after the significance improvements of the stepwise results, the adjusted R2 was low, and in the latter sample insignificant. In these sam-
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+TABLE2
+STANDARDIZED REGRESSION COEFFICIENTS AND T VALUES: ALL MUNICIPIOS AND URBANIZATION SUBSAMPLES, O I L REGION
+
+Oil Region Samples (AQ
+Entire (228) Children ever born"
+Child-woman ratio
+High urbzn. (42) Children ever born"
+Child-woman ratio
+Low urbzn. (Ill) Children ever born"
+Child-woman ratio
+Rural (75) Children ever born"
+Child-woman ratio
+"Women aged 20-29.
+60.05.
+rO.O01. ''0.01.
+
+INDLANG NON-CATHOLIC NOREUGION
+
+UNEMP NOLOINCOME
+
+ARJ RSQ
+
+-0.206 - -0.178 (-2.11)" (-2.53)b -0.042 -0.248c (-0.41) (-3.38)'
+
+0.232 (3.96)' 0.255 (4.18)'
+
+0.279 (4.45)' 0.037 (0.S6)
+
+0.095 -0.175 -0.176 (1.32)' (-3.63)' (-3.24)<< 0.208 -0.179 -0.184 (2.80)d (-3.59)' (-3.26)d
+
+0.508 (5.14)' 0.594 (5.78)'
+
+-0.148 (-2.31)" -0.106 (-1.59)"
+
+0.149 (2.45)"
+0.105 (1.66)
+
+0.520 0.481
+
+25.63' 22.07'
+
+0.122 (0.96) 0.398 (1.97)
+
+0.158 -0.141 (2.32)* (-1.38) 0.240 -0.183 (2.23)" (-1.14)
+
+0.511 (5.33)' 0.509 (3.37)d
+
+0.315 -0.400 -0.106 (4.99)' (-5.89)' (-1.37) 0.398 -0.473 -0.244 (4.00)' (-4.43)' (-1.98)
+
+0.486 (3.93)' 0.567
+
+-0.115 (-2.25)6
+-0.50 (-0.62)
+
+0.098 (1.47)
+0.026 (0.25)
+
+0.922 0.807
+
+49.64' 18.13'
+
+-0.206 -0.035 (-1.80) (0.42) -0.198 -0.211 (-1.49) (-2.22)"
+
+0.380 (4.82)' 0.395 (4.32)'
+
+0.288 (3.50)' 0.034 (0.36)
+
+-0.076 -0.102 (-1.00) (-1.47) -0.103 0.053 (-1.17) (-0.67)
+
+-0.164 (-2.36)* -0.286 (-3.55)'
+
+0.563 (4.31)' 0.603 (3.97)'
+
+-0.203 (-2.70)"* -0.268 (-3.07)"1
+
+0.341
+(4.62)' 0.300 (3.51)'
+
+0.596 0.455
+
+17.21' 10.19'
+
+-0.493 -0.364 (-2.46)" (-1.91) -0.149 -0.409 (-0.83) (-2.41)"
+
+0.030 (0.23) 0.23 (0.20)
+
+0.278 (1.93) 0.039 (0.31)
+
+0.178 -0.172 -0.188
+(1.21) (-1.54) (-1.48) 0.402 -0.210 -0.094 (3.06)" (-2.11)" (-0.83)
+
+0.129 (0.73) 0.288 (1.82)
+
+0.090 (0.78) 0.017 (0.17)
+
+0.195 0.356
+
+2.99d 5.55'
+
+o
+c &
+§
+
+(SI
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+TABLE3
+STANDARDIZED REGRESSION COEFFICIENTS AND T VALUES: ALL INDIGENOUS LANGUAGE SAMPLES
+
+Oil Region Samples
+(W)
+High indig. (42) Children ever born-
+Child-woman ratio
+Med. indig. (118) Children ever born"
+Child-woman ratio
+Low indig. (68) Children ever born"
+Child-woman ratio
+"Women aged 20-29.
+*0.Q5.
+'0.01. '0.001.
+
+LITERACY INDLANO NON-CATHOLIC NORELIOION LFMALE LFFEMALE
+
+UNEMP NOLOINCOME URBZN
+
+1NMIG
+
+ADJ RSQ
+
+-0.077 (-0.30)
+0.022 (0.08)
+
+-0.119 (-0.63) -0.108 (-0.54)
+
+-0.010 (-0.05)
+0.103 (0.51)
+
+0.460 (2.08)" 0.199 (0.84)
+
+0.419 -0.194 -0.352 -0.050 (1.69) (-1.23) (-1.77) (-0.22) 0.412 -0.108 -0.257 -0.184 (1.55) (-0.64) (-1.21) (-0.76)
+
+0.116 0.184 (0.58) (0.91) 0.128 -0.066 (0.59) (-0.31)
+
+_ U'1U6
+
+-0.364 (-3.24)' -0.225 (-2.30)*
+
+0.098 (1.58) 0.094 (1.52)
+
+0.356 (4.78)'' 0.344 (4.66)"
+
+0.177 (2.27)" 0.046 (0.59)
+
+0.050 0.114 -0.040 (0.50) (-2.02)* (-0.64) 0.186 -0.180 -0.124 (1.88) (-3.21)' (-2.00)*
+
+0.265 -0.221 (2.03)" (-2.45)* 0.342 -0.167 (2.65)' (-1.87)
+
+0.173 (2.39)* 0.159 (2.23)"
+
+0.678 25.66'' 0.685 26.39"
+
+-0.349 -0.099 (-2.57)" (-0.89) -0.070 -0.026 (-0.52) (-0.23)
+
+0.177 (1.63) 0.144 (1.33)
+
+0.166 (1.34) -0.127 (-1.02)
+
+0.018 -0.176 -0.194 (0.13) (-1.81) (-1.950 -0.113 -0.188 -0.278 (-0.85) (-1.93) (-2.81)'
+
+0.447 -0.223 (2.76)' (-2.16)* 0.580 -0.121 (3.58)" (-1.17)
+
+0.208 (1.67) 0.192 (1.54)
+
+0.478 7.12" 0.481 7.21"
+
+Sal.
+
+& 2.
+§ sw
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+TABLE 4
+STANDARDIZED REGRESSION COEFFICIENTS AND T VALUES: STEPWISE REGRESSIONS FOR SELECTED SUBSAMPLES0
+
+Oil Region Samples
+(N)
+Highurbzn.(42) Children ever born*
+Child-woman ratio
+Rural (75) Children ever born6
+Child-woman ratio
+Rural w/outlier cases dropped (70) Children ever born6
+Child-woman ratio
+Highindig. (42) Children ever born* (34)
+Child-woman ratio (39)
+
+LITERACY 1NDLANG NON-CATHOLIC NOREL1GI0N
+
+-0.383 . . . (-4.37)' . . .
+
+. . . 0.337 . . . (5.38)' . . . 0.259 . . . (3.41)'
+
+-0.602 (-3.82)'
+
+-0.354 (-2.24)' -0.265 (-2.40)'
+
+... ... ...
+
+...
+
+-0.791 (-5.76)'
+
+-0.459 (-3.35Y -0.265 (-2.40)'
+
+... ...
+
+...
+
+. . . 0.522 . . . (2.84)' ... ...
+
+High indig. w/outlier cases dropped Children ever born6
+Child-woman ratio
+
+. . . 0.637 . . . (3.63)' ... ...
+
+Low indig. (68) Children ever born6
+Child-woman ratio
+
+-0.423 (-3.18)d
+...
+
+... ... ...
+
+"Immigration was notselected inany stepwise equation. *Women aged 20-29. '0.001. ·<0.01.
+'0.05.
+
+0.261 (2.70)' ... ...
+
+...
+
+LFMA.LE
+
+LFFEMA.LE
+
+UNEMP NOLOINCOME URBZN
+
+0.314 (3.96)' 0.380 (4.27)'
+
+-0.286 (-3.83)' -0.353 (-4.161)'
+
+... ...
+
+0.309 (3.47)J
+
+0.445 -0.208 . . . (3.79)' (-2.23)' . . .
+
+0.318 (2.19)'
+
+0.609 -0.177 . . . (5.61)' (-2.06)' . . .
+
+0.244 (1.83)
+
+0.428 (2.27)'
+
+-0.479 (-2.61)'
+
+-0.329 (-1.75)
+
+0.792 (3.88)'
+
+-0.631 (-0.360)'' . . .
+-0.483 (-2.37)'
+
+...
+
+0.263 -0.210
+(2.01)' (-2.22)'
+. . . -0.191 -0.325 0.647 (-2.14)' (-3.70)c (7.28)'
+
+0.846 0.772
+0.152 0.388
+0.316 0.523
+0.150 0.076
+0.272 0.287
+0.447 0.486
+
+57.24' 35.80
+7.64' 12.71'
+16.95' 19.93'
+4.62' 2.69
+8.09d 7.64''
+14.56' 22.08'
+
+yDete
+
+re1
+1
+
+58
+
+Picketal.
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+pies, we carried the analysis further by testing for outlier cases and dropping cases where the standardized residual was more than two standard deviations from the mean residual. This method has been utilized in related studies (for example, see London and Smith, 1988). The results, shown in Table 4, show further improvement in the significance levels of R2, while retaining for the selected independent variables the same orderings of significance and directions of effect, as prior to dropping the cases. Hence, the outliers do not affect the selection of variables. For these two samples, the stepwise results, after dropping cases, will be referred to in the discussion of regression results.
+Regression Resultsfor Children Ever Born, Women Age 20-29.--For children ever born (women age 20-29), for the entire oil-region universe, the most important effects are lower fertility for higher literacy and increased fertility for higher Non-Catholic, no religion, and no/low income. Results are quite different for the three urban/rural samples. For high urban, the fertility-raising effect of no religion is very important, along with labor force effects (positive for male and negative for female), and the fertility-lowering effect of literacy. The strong effect of no religion and lack of effect for non-Catholics is inversely related to the proportions, since there is a low proportion of no religion and a high proportion of non-Catholics in urban municipios.
+For low urban, there are significant effects in reducing fertility from nonCatholic, no religion, and no/low income, and in increasing fertility from urbanization. Of secondary importance is a fertility-lowering effect of unemployment, corresponding to a similar, stronger effect in the urban sample. For
+
+rural, there is significant lowering of fertility from literacy and indigenous language.
+For the high indigenous sample, no religion is associated with higher fertility and employment with lower fertility. For the medium indigenous sample, the results resemble closely those for the low urbanization sample, with significant literacy, non-Catholic, no/low income, and immigration effects in expected directions. For the low indigenous sample, results were weaker than for medium indigenous. No/low income is the most significant influence.
+RegressionResultsfor Child-Woman Ratio.--Regression results are compared for the two fertility measures, referring to the stepwise results for the smaller N samples (less than 75 cases). Regression results for child-woman ratio resemble those for children ever born (see Tables 2,3, and 4). Thus, only exceptions to an otherwise close similarity will be mentioned. For the entire oil region, no religion has no significance, a lack of effect which also exists for several other samples. The explanation of its greater strength generally for children ever born may be the fact that children ever born reflects fertility at an earlier mean time point than child-woman ratio. This may indicate that religious differentials in fertility are lessening, and the effect may be expected to be weaker at the later time point.
+For the entire universe, another difference is the greater importance of male labor force participation in increasing fertility in contrast to most other results for this variable.
+For the high urbanization sample, no religion again is diminished in importance, while literacy is important only for children ever born. In the low urbanization sample, no religion is not signi-
+
+Vol.36, No. 1-2
+
+Fertility Determinants
+
+59
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+ficant, but higher indigenous language on fertility in the Mexican population
+
+significantly reduces fertility.
+
+literature. Davidson's finding for Mex-
+
+For the high indigenous sample, ico City that greater religiosity increased
+
+child-woman ratio has different deter- fertility for a low-educated subsample
+
+minants: male labor force participation has limited application to the present
+(positive) and no/low income (nega- results. Since non-Catholics are minoritive). For medium indigenous, both no ties in Mexico, they actually may be religion and urbanization became non- more religious than Catholics or may significant, while unemployment signi- suffer from some form of socioeconomic ficantly reduces fertility. For the low in- exploitation.
+
+digenous sample, the differences are Three theoretical arguments from
+
+that unemployment and female labor Mosher et al. (1986) are examined for
+
+force participation have fertility reduc- possible explanation of the religious ef-
+
+ing effects; literacy, non-Catholic reli- fects. These are the minority status,
+
+gion, and urbanization are not signi- characteristics, and norms arguments.
+
+ficant.
+
+The minority status argument is that
+
+DISCUSSION
+
+if, after controlling for socioeconomic characteristics, a religious group is ac-
+
+In this section, the effects of specific culturated, oriented toward upward mo-
+
+variables or sets of variables, are dis- bility, and not pronatalist, it will have cussed. Results are then compared lower fertility than the religious major-
+
+across the three urban and three indige- ity. On the other hand, if it does not
+
+nous samples. Finally, fertility determi- meet these conditions, it will have
+
+nants are compared between the oil and higher fertility than the majority group.
+
+border regions. For the rural and high An example of the former is Jewish fer-
+
+indigenous samples, the discussion al- tility in the United States (Gold-
+
+ways refers to the additional regres- scheider, 1967). The group meets all
+
+sions.
+
+three conditions and has maintained
+
+The most surprising results are significantly lower fertility than the two greater fertility for non-Catholic and no other principal religious groups. Examreligion. These results are quite strong plesof the latter are U.S. Catholics prior and consistent across a variety of sam- to the 1980's (Westoff and Ryder, 1977; ples. Overall, for children ever born, no Mosher and Hendershot, 1984a, b) and religion is second in significance and Catholics in various European nations non-Catholic is third. If the pair of reli- (Van Heek, 1956; Day, 1968, 1983; gious variables are regarded as a set, Wright and Davies, 1974). Although in they are second in importance to eco- the 1970's minority Catholics had a 24 nomic variables. For the regression per cent higher cohort fertility rate than analyses, with a full set of independent Protestants, the two groups appear revariables, non-Catholic or no religion cently to have largely converged (Wesare significant in 9 out of 14 regressions, toff, 1986; Mosher et al., 1986). One and both are significant in 2 out of study indicates that the true model 14 regressions. Likewise, religious vari- should reflect reversals in Catholic/ ables are significant in half of the Protestant fertility differentials from stepwise regressions. There is almost no generation to generation (Dolan and previous recognition of religious effects Leege, 1985). Another example is that
+
+60
+
+Picketal.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+of Catholics in Northern Ireland, who have shown elevated fertility compared to Protestants, which is likely due in part to minority group response to perceived oppression by the majority (Wright and Davies, 1974).
+It is difficult to determine whether or not the minority group conditions are met by oil-region non-Catholics. It is more likely that Evangelist denominations do not meet the conditions (and hence have a positive effect) since they sometimes have pronatalist ideology and are less acculturated. Older, more traditional Protestant denominations may tend to be neutral on the conditions and argument. If this argument does support a positive effect, this effect likely is amplified by the small percentage of the minority versus other countries. This minority argument is more difficult to apply to the no-religion category.
+Another argument hypothesizes that religious fertility differentials are artifacts of socioeconomic differentials. This argument is illustrated by a study in the United States which showed that fertility had converged for non-Hispanic Protestants and non-Hispanic Catholics, while the fertility of Hispanic Catholics remained elevated (Mosher et al., 1986). This hypothesis has not been examined for Mexico, because no study is known which compares the socioeconomic characteristics of Mexican religious groups. Nevertheless, on the crucial characteristic of literacy, Catholics may be favored by enhanced opportunities for schooling, which, despite church doctrine, results in reduced fertility.
+For the no-religion group, the characteristics and norms arguments appear more logical than the minority status one. One avenue of further study would be to examine an expected higher pro-
+
+portion of non-believers among workers in the petroleum and other unionized industries and their socioeconomic characteristics.
+The norms hypothesis is that fertility differences may be explained by different norms among religious groups,especially in regard to the intermediate biological and marriage variables such as contraception, age at first marriage, etc. An example is the influence of religious affiliation on marriage patterns in Ireland (Wright and Davies, 1974). In the present case, this argument is also difficult to apply, due to lack of prior studies and appropriate data. For the noreligion group, future research might decompose the category--i.e., aetheists, agnostics, believers in syncretist religions--and assess the intermediate variables associated with the groups.
+Overall, the results on religion are very strong and opposite to the worldwide Catholic-Protestant differential. However, they are difficult to explain due to lack of prior surveys with adequate sample designs studying individuals in the various religious groups.
+The set of economic variables consists of male and female labor force participation, unemployment, and no/low income. Overall, the most important economic variables are noAow income, unemployment, and male labor force participation. One theoretical explanation of economic effects which is useful to this discussion focuses on the value of children (Kasarda et al., 1986; Whiteford, 1986). According to this argument, couples make decisions on family size based on the costs and benefits of children. In rural areas, the costs of children are small while the benefits in terms of labor and future security are large. In more urban areas, the costs of children rise substantially while their
+
+Vol. 36, No. 1-2
+
+Fertility Determinants
+
+61
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+benefits for labor decrease. These arguments are assumed to also apply when the unit of analysis is the muncipio.
+In urban areas the direction of effect of unemployment and male labor force participation on fertility corresponds to an economic argument regarding reduced fertility. The reasoning is that in urban areas there is greater economic wellbeing. For urban municipios, greater economic wellbeing implies greater ability of families to afford costs of childbearing/rearing and greater government revenue leading to better infrastructure (schools, health facilities, etc.) to support child rearing. Curiously, in rural areas these variables do not reverse in direction as expected from the argument. The effects for these two variables correspond to results for the Mexican borderlands in Pick et al. (19876) and to the comparison model in Table 5.2
+On the other hand, the increased fertility associated with no/low income in the oil states samples is opposite to that expected from this argument. An alternative argument is that in low-income municipios, there are fewer funds available for families to purchase contraception, and governmental units are less likely to support the dispersal of contraceptives and education in their use; hence, fertility is higher. By comparison, in the borderlands samples, greater income levels increase fertility in agreement with the economic-wellbeing argument. In the border rural areas, the higher fertility rates with no/low income correspond to the economic-wellbeing
+Tor the borderlands samples, equations of less than l-to-10 ratio of variables to cases were further tested by stepwise procedures. The stepwise results corroborated the results shown in Table 5 with only minor differences.
+
+argument, in that, in rural municipios low income levels may lead to increased childbearing as a way of offsetting future detrimental effects of low income. Such income differentials may be masked at the state level, since Hicks (1974) found no significant impact of income on fertility at the state level.
+Possible explanation for male labor force participation increasing fertility takes an interactive perspective on the male and female portions of the labor force. The argument expands on the standard model for female labor force participation, in which female employment reduces fertility through both direct and indirect pathways (Kasarda et al., 1986, Chap. 7). The additional reasoning is that in a limited labor market, high male labor force participation reduces job possibilities for females. Alternatively, the argument can be reversed so higher childbearing lowers female labor force participation resulting in increased job possibilities for males. Regression results correspond to this theory (i.e., positive male effect, negative female effect) for the overall, high urbanization, and rural samples. Since similar interactive results are present for the border region, an expanded theoretical model of male labor force participation and fertility for Mexico appears to be necessary.
+Literacy's significant effect of reducing fertility for certain samples closely corresponds to prior literature on the relationship of literacy and/or education to fertility. In a broad theoretical discussion, Kasarda et al. (1986) regard education as the key variable affecting fertility by allowing women to achieve independent status which in turn affects intermediate variables. Among studies in Mexico, Seiver found that per cent of population with no education was sec-
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+TABLE 5
+STANDARDIZED REGRESSION COEFFICIENTS AND T VALUES: A L L MUNICIPIOS, URBANIZATION AND INDIGENOUS SUBSAMPLES, BORDER REGION
+
+Border Region Samples
+w
+Entire (272) Children ever born3
+Child-woman ratio
+
+LITERACY
+
+INDLANG NON-CATHOLIC NOREUGION LFMALE
+
+LFFEMALE
+
+UNEMP NOLOINCOME URBZN
+
+1NMIG
+
+ADI R5Q
+
+0.987 -0.430 (-11.23)* (-6.14)* .. - 0 819 -0.354
+(-9.92)* (-5.38)*
+
+0.138 (2.97)' 0.131 (3.01)*
+
+0.045 (-0.74) -0.026 (-0.46)
+
+0.125 -0.181 -0.005 -0.192 0.070 -0.033 (2.39)" (-3.44)* (-0.06)* (-2.08)* (1.02) (-0.69) 0.266 -0.162 -0.132 -0.106 -0.056 0.031 (5.42)* (-3.27)' (-1.98)" (-1.23) (0.87) (0.70)
+
+0.492 0.552
+
+High urbzn. (80) Children ever born"
+Child-woman ratio
+
+.. ..
+
+Low urbzn. (12) Children ever born" . . . . ..
+
+Child-woman ratio
+
+..
+
+-0.554 -0.048 (-5.41)* (-0.55) - 0 380 -0.060 (-3.71)* (-0.70)
+- 0 747 -0.594 (-3.48)* (-2.89)' - 0 796 -0.735 (-4.71)* (-4.54)*
+
+-0.008 (-0.09) -0.035 (-0.38)
+0.052 (0.42) -0.009 (-0.09)
+
+0.042 (0.45) -0.064
+(-0.68)
+
+0.386 -0.149 (3.80)* (-1.57) 0.402 -0.214 (3.96)* (-2.25)*
+
+0.176 -0.200 0.027 -0.126 (1.31) (-1.51) (0.25) (-1.40) 0.171 -0.391 -0.206 -0.001
+(1.27) (-2.96)' (-1.91) (-0.01)
+
+0.050 -0.092 (0.27) (-0.72) 0.231 -0.014 (1.56) (-0.14)
+
+0.014 0.026 (0.11) (0.14) 0.034 -0.076 (0.36) (-0.52)
+
+0.006 (0.03) 0.235 (1.30)
+
+0.052 -0.213 (0.31) (-1.42) 0.124 0.004
+(0.94) (0.03)
+
+0.545 0.544
+0.275 0.550
+
+Rural (130) Children ever born0 . . . . .. Child-woman ratio .. . . ..
+
+- 1 204 (-9.55)*
+-1015 (-7.82*
+
+-0.573 (-5.41)* -0.467
+(-4.28)*
+
+0.191 (2.94)' 0 202 (3.03)'
+
+-0.083 (-1.01) - 0 089 (-1.05)
+
+0.166 -0.148 0.019 -0.304 (2.70)' (-2.36)" (0.20) (-2.87)* 0.315 -0.132 -0.140 -0.185
+(4.99)* (-2.05)* (-1.43) (-1.70)
+
+0.025 (0.40) 0.058 (-0.89)
+
+0.534 0.506
+
+Med. indig.(52) Children ever born"
+Child-woman ratio
+
+1 239 -0.262 (-3.90)* (-1.11) . - 0 994 -0.291 (-3.27)' (-1.28)
+
+0.356 -0.224 (2.66)" (-1.68) 0.232 -0.186 (1.82) (-1.46)
+
+0.075 -0.208 -0.008 -0.355 -0.130
+(0.48) (-1.33) (-0.04) (-1.26) (-0.62) 0.121 -0.189 -0.137 -0.241 -0.318 (0.82) (-1.26) (-0.73) (-0.89) (-1.58)
+
+0.117 (1.01)
+
+0.532
+
+0.231 (2.08)*
+
+0.573
+
+Lowindig. (??) Children ever born"
+Child-woman ratio
+
+-0.677 0.062
+(-10.46)* (1.13)
+... -0.565 -0.51 (-9.12)* (-0.98)
+
+0.084 (1.66) 0.122 (2.51)"
+
+0.105 (1.72)
+0.099 (1.70)
+
+0.143 -0.240 0.023 -0.232 -0.061 -0.053 (2.26)' (-4.26)* (0.33) (-2.54)* (-0.86)* (-1.06) 0.307 -0.167 -0.081 -0.146 -0.013 -0.025 (5.87)* (-3.10)' (-1.24) (-1.67) (-0.19) (-0.52)
+
+0.529 0.568
+
+"Women aged 20-29.
+
+'0.01. "0.05.
+
+F
+27.21* 34.37*
+10.47* 10.44*
+3.31' 8.46*
+17.44* 15.67*
+6.81* 7.84*
+25.44* 29.67*
+
+J?
+aJJ7*
+i
+w
+3'
+
+Vol. 36, No. 1-2
+
+Fertility Determinants
+
+63
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+ond in importance to urbanization as an influence on child-woman ratio for 1970. Holian (1983) demonstrated that, for a sample of legally married women, higher education generally implied a lower number of children ever born. Holian's 1986 census-based study confirmed the importance of literacy and education for fertility but ascribed greater overall importance to primary education. Pick et al. (1986,1987b) found literacy to be the dominant variable influencing fertility in ·the borderlands. In sum, the present result showing reduced fertility by literacy isin accord with a large body of prior studies. Likewise, the effect of urbanization in lowering fertility corresponds to many previous studies of Mexican fertility (for example, Holian, 1983,1986; Garcia y Garma, 1979; and Seiver, 1975) as well as to worldwide studies (Cleland and Hobcraft, 1985). The effects of urbanization may actually be stronger than shown, since other variables may to some extent be acting as proxies for it.
+There is a slight negative effect of indigenous language in the low urbanization sample, and a strong negative effect in the rural sample. These effects correspond to the results of Hicks for Mexican states in 1970. Interpretation is difficult, especially since raw fertility levels do not vary much across indigenous samples. Perhaps more explanation could be achieved by a detailed, individuallevel sample survey of differential fertility levels for a variety of indigenous and nonindigenous groups across urban/ rural samples. Inmigration is not significant except for the low-urbanization and medium-indigenous subsamples. Its lesser overall significance corresponds to comparison results for the borderlands (see Table 5) and to other studies which included migration (see Pick et
+
+al., 1987a, b for example). Greater fertility associated with migration is opposite in direction to results of Repetto (1979) for a Korean sample. However, the present one-year migration measure is of shorter duration than Repetto's. In the future, surveys which gather more detailed migration histories at the individual level may alter this conclusion.
+COMPARISON OF RESULTS FOR
+SUBSAMPLES
+Comparison of the three urban/rural subsamples, reveals several major differences in the variables that significantly influence fertility rates. For the high urbanization sample, they are labor force participation, no/low income, and no religion; for the low urbanization sample, no/low income, unemployment, non-Catholic religion, and urbanization. For the rural sample, the important variables are literacy, indigenous language, and labor force participation. These differences imply varying causation of fertility based on urban/rural location. Generally, indigenous language usage is most important in the rural samples. The non-Catholic variable is weakest in the urban sample, whereas no religion lessens in importance the more rural the sample. Economic variables are important in specific ways for all three samples. Inmigration (positive) and urbanization (negative) are important only in the low urbanization sample. Elucidation of the latter differences requires further research. Specifically, the inmigration patterns of oil workers need to be studied, including the levels of urbanization of their destinations and conversely their cumulative effects on the urbanization of destination, as well as the fertility patterns of inmigrants, vis-a-vis their origins and destinations.
+Comparison of the indigenous sam-
+
+64
+
+Picketal.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+pies shows distinctive patterns. For the force participation, and lower fertility in
+
+low indigenous sample, the most signi- areas with greater female labor force
+
+ficant variables are economic--unem- participation but higher overall unem-
+
+ployment and no/low income. The me- ployment.
+
+dium indigenous sample closely resem- 3. There are significant fertility-
+
+bles the low urbanization sample, with lowering effects from literacy and ur-
+
+literacy, non-Catholic, and urbanization banization, both well-known effects in
+
+as the most significant determinants. previous worldwide and Mexican litera-
+
+For the high indigenous sample, the im- ture.
+
+portant effects are no religion on increased fertility and a variety of economic effects. Overall, economic effects are important in all three indigenous samples; literacy is important in medium and low indigenous samples, while religious variables are important in all three samples, but more so in explaining children ever born. More sophisticated and detailed study of the indigenous population in the oil region and elsewhere in Mexico will be necessary to explain fully these differences.
+
+4. Inmigration is generally not significant except for secondary importance in the low urbanization and medium indigenous areas.
+5. Comparison across urban/rural samples shows that religious variables are important for the high and low urbanization samples but not for the rural samples, that economic effects are important for all three samples, and that indigenous language is most important for the rural sample.
+6. Comparison of indigenous sam-
+
+ples reveal that literacy is more signi-
+
+CONCLUSIONS
+
+ficant for the medium and low indige-
+
+For the municipios in the oil region of Mexico, regression analyses were conducted to estimate socioeconomic ef-
+
+nous samples, while there are samplespecific religious and economic effects for all three indigenous samples.
+
+fects on fertility, measured by children
+
+ever born to women, age 20-29, and by
+
+child-woman ratio. The major findings
+
+ACKNOWLEDGMENTS
+
+are summarized as follows:
+
+This project was made possible by UC-
+
+1. Religious effects were of great im- MEXUS grants, funds from the UCR-
+
+portance, in particular the increased fertility in areas with greater concentrations of non-Catholics and of no religion. The religious effects may be explained by one version of the minority-
+
+Mexico Collaborative Research and Training Group, and intramural grants from the Graduate School of Management, UCR. Appreciation is expressed to these funding agencies, to Professors Adalberto Aguirre and Robert Singer, and to Larry Sautter,
+
+status hypothesis.
+2. Economic determinants of fertility were highly significant. Particularly notable were higher fertility in areas with
+
+Alex Ramirez, and Bill Vanore of Computing, UCR. We thank Francisco Alba, Carlos Brambilla, Manuel Esparza, Hiroshi Fukurai, Carlos Jarque, Jeanne Power, Ted Proffitt, Jesus Tamayo, and Susan Tiano for
+
+greater no/low income and male labor their comments and suggestions.
+
+Vol. 36,No. 1-2
+
+Fertility Determinants
+
+65
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+REFERENCES
+
+BENITEZ ZENTENO, R. 1962. La poblacion
+
+In Proc. United Nations World Population
+
+rural-urbana en Mexico. Rev. Mex. Soc. Conference, Belgrade, Yugoslavia, United
+
+24(3):689-703.
+
+Nations, New York.
+
+BRITO, V. E. 1969. La fecundidad segun status HASS, P. H. 1972. Maternal role incompatibilsocioeconomico: Analisis comparativo de la ity and fertility research in urban Latin
+
+ciudades de Mexico y Buenos Aires. De- America. J. Soc. Issues 29(2):111-127.
+
+mog. Econ. 3(2):156-185.
+BRONFMAN, M., E. LOPEZ, and R. TUIRAN.
+1986. Practica anticonceptiva y clases sociales enMexico: Laexperiencia reciente. Estud. Demog. Urban. 1(2):165-203.
+BRUCH, H. A., S. B. HARTMAN, and J. L.
+
+HICKS, W. W. 1974. Economic development and fertility change in Mexico, 1950-1970. Demography 11(3):407-421.
+HOLIAN, J. 1983. Fertility differentials in Mexico: An individual level analysis. Secolas Annals 14:47-60.
+
+SANCHEZ-CRESPO. 1980.The health and vital statistics systems in Mexico. In Vital registration systems infivedeveloping countries, Chap. 2,DHHS Publication No. (PHS)311353, National Center for Health Statistics, Hyattsville, Maryland.
+
+. 1986.The effect of female education on marital fertility in different size communities in Mexico. Soc.Biol. 31(34):298-307.
+KASARDA, J. D., J. O. G. BILLY, and K. WEST.
+1986. Status enhancement andfertility. Ac-
+
+CAMPOSORTEGA, S. 1982.Evaluation y correc-
+
+ademic Press, Orlando, Florida.
+
+tion de la poblacion Mexicana censada en LEHRER, E., and M. NERLOVE. 1986. Female la-
+
+1970. Rev. Estad. Geog. 3(10). Secretaria
+
+bor force behavior and fertility inthe
+
+de Programacion y Presupuesto, Mexico,
+
+United States. Ann.Rev. Soc. 12:181-204.
+
+D.F.
+
+LONDON, B., and D. A. SMITH. 1988. Urban
+
+CLELAND, J., and J. HOBCRAFT (eds.). 1985. Re-
+productive change indeveloping countries. Oxford Univ. Press, Oxford.
+
+bias, dependence, andeconomic stagnation in noncore nations. Amer. Social Rev. 53:454-463.
+
+COALE, A., and E. HOOVER. 1958. Reproduc- LOPEZ CHAVEZ, M. G. 1982. Metodologia para
+
+tive change in developing countries. Oxford Univ. Press, Oxford.
+
+la critica de la information del censo de poblacion y vivienda de 1980. Rev. Estad.
+
+DAVIDSON, M. 1973. Comparative study of fer-
+
+Geog. 3(10):9-16.
+
+tility in Mexico City and Caracas. Soc. Biol. MARTINEZ MANAUTOU, J. (ed.). La revolution
+
+20(4):460-472.
+
+demografica en Mexico: 1970-1980. Insti-
+
+DAY, L. H. 1968. Nationality and ethnocentri-
+
+tuto Mexicano del Seguro Social, Mexico,
+
+cism: Some relationships suggested by an D.F.
+
+analysis of Catholic-Protestant differentials. MOSHER, W., and C. GOLDSCHEIDER. 1984.
+
+Pop. Stud. 22:74-89.
+
+Contraceptive patterns of religious andra-
+
+. 1983. Analyzing population trends:
+
+cial groups inthe United States, 1955-1976:
+
+Differential fertility in a pluralistic society.
+
+Convergence and distinctiveness. Stud.
+
+St. Martins Press, New York.
+
+Fam. Plan. 15:101-111.
+
+DOLAN, J. P., and D. C. LEEGE. 1985. A profile MOSHER, W., and G. E. HENDERSHOT. 1984a.
+
+of American Catholic parishes and parishio- Religious affiliation andthe fertility ofmar-
+
+ners: 1820's to the 1980's. Report No. 2. No- ried couples. J. Marr. Fam. 46:671-677.
+
+tre Dame Study of Catholic Parish Life,
+
+. 1984b. Religion and fertility: A replica-
+
+South Bend, Indiana.
+
+tion. Demography 21(2):185-191.
+
+ENTWISLE, B., and W. M. MASON. 1985. Multi-
+level effects ofsocioeconomic development and family planning programs on children ever born. Amer. J. Sociol. 91(3):616-649.
+FUKURAI, H., J. B. PICK, and E. W. BUTLER.
+
+MOSHER, W., D. P. JOHNSON, and M. C. HORN.
+1986. Religion andfertility in the United States:The importance ofmarriage patterns and Hispanic origin. Demography 23(3): 367-379.
+
+1987. Interstate migration in Mexico, 1980: MUELLER, E., and K. SHORT. 1983. Effect of in-
+
+A spatial analysis. Soc. Social Res.
+
+come and wealth on thedemand for chil-
+
+71(4):312-322.
+
+dren, p. 590-642. InR. Butatao and R. Lee
+
+GARCIA Y GARMA, I. 1980. Fertility determi-
+
+(eds.), Determinants offertility in develop-
+
+nants in rural Mexico. Ph.D. Dissertation,
+
+ing countries, Vol. 1,Academic PressInc.,
+
+University ofPennsylvania, Philadelphia.
+
+New York.
+
+GOLDSCHEIDER, C.1967. Fertility of the Jews. NEGRETE, SALAS, M. E. 1984. Petroleo y desar-
+
+Demography 4:196-209.
+
+rollo regional: El caso deTabasco. Demog.
+
+GOMEZ, C. J. 1965. Religion, education, and
+
+Econ. 18(1):86-109.
+
+fertility control inLatin American societies.
+
+66
+
+Picketal.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+PEMEX. 1986. Anuario estadistico, 1986. Insti- 23, center for U.S.-Mexican Studies, Uni-
+
+tuto Mexicano del Petroleo, Mexico, D.F.
+
+versity ofCalifornia, San Diego.
+
+PETERSEN, W. 1975. Population. Macmillan, SANDER, W. 1986. Farm women, work, and fer-
+
+New York.
+
+tility. Quart. J. Econ. 51(3):653-657.
+
+PICK, J. B. 1977. Correlates of fertility and mor- SECRETARIA DE PROGRAMMACION Y PRESU-
+
+tality in low-migration standard metropolitan statistical areas. Soc. Biol. 24:69-83.
+
+PUESTO. 1981. Anuario estadistico de los estados unidos Mexicanos. Secretaria de Pro-
+
+PICK, J. B., G. L. TELLIS, E. W. BUTLER, and
+
+gramacion yPresupuesto, Mexico, D.F.
+
+S. NAG.1986. Socioeconomic effects on fertility in Mexican border state municipios, 1980, p. 373-378. Proc. Amer. Stat. Assoc., Soc. Stat. Section.
+
+SEIVER, D. A. 1975. Recent fertility in Mexico: Measurement and interpretation. Pop. Stud. 29(3):341-354.
+. 1976. Comment on W. Whitney Hicks'
+
+PICK, J. B . , E. W. BUTLER, and S. PAVGI.
+1987a. Socioeconomic determinants of fertility: Selected Mexican regions, 1976-77. Soc. Biol., in press.
+
+"Economic development and fertility change inMexico, 1950-70" and W. Whitney Hicks' reply. Demography 13(1):149155.
+
+PICK, J. B., G. L. TELLIS, E. W. BUTLER, and SINGH, S., and J. CASTERLINE. 1985. The socio-
+S. NAG. 1987b. Socioeconomic influences economic determinants of fertility, p. 199-
+
+on fertility in the Mexican borderlands, 1980. Ms.
+
+222. In J. Cleland and J. Hobcraft (eds.), Reproductive change in developing coun-
+
+PICK, J. B., S. NAG, G. TELLIS, and E. W. BUT-
+
+tries, Oxford Univ. Press, Oxford.
+
+LER. 1987c. Geographical distributionand STANDING, G. 1983.Women's work activity and
+
+variation in selected socioeconomic varia- fertility. In R. Bulatao and R. Lee (eds.),
+
+bles for municipios in sixMexican border Determinants of fertility in developing
+
+states, 1980. J. Border. Stud. 2(1):58-92.
+
+countries, Vol. 1, Academic Press Inc.,
+
+PICK, J. B., E. W. BUTLER, and E. L. LANZER.
+
+New York, 517-546.
+
+1989. An atlas of Mexico. Westview Press, VAN HEEK, F. 1956. Roman Catholicismand
+
+Boulder, Colorado, in press.
+
+fertility in the Netherlands: Demographic
+
+PIREZ, P. 1981. Para el estudio delos munici- aspects of minority status. Pop. Stud.
+
+pios y la politica regional en Mexico. De- 10:125-138.
+
+mog. Econ. 15(3):344-358.
+
+WESTOFF, C., and N. RYDER. 1977. The contra-
+
+POPULATION REFERENCE BUREAU. 1987. 1987
+
+ceptive revolution. Princeton Univ. Press,
+
+World population data sheet. Population Reference Bureau, Washington, D.C.
+
+Princeton. . 1986. Fertility in the United States. Sci-
+
+RENDON, T., and C. SALAS. 1986. La poblacion
+
+ence 234:554-557.
+
+economicamente activa en el censo de 1980: WHITEFORD, L. M. 1986. Economic diversity, Commentaries criticos y una propuesta de family strategy, and fertility in a Mexican-
+
+ajuste. Estud. Demog. Urb. l(2):291-309.
+
+American community, p. 237-247. In W.P.
+
+REPETTO, R. 1979. Economic equality and fer- Handwerker, Culture and reproduction,
+
+tility in developing countries. Johns Westview Press, Boulder and London.
+
+Hopkins Univ. Press, Baltimore.
+
+WRIGHT, P., and S. DAVIES. 1974. Fertility be-
+
+RIDING, A. 1985. Distant neighbors. Alfred A. havior of a minority population: The Catho-
+
+Knopf, New York.
+
+lics in Northern Ireland. Ekistics 221:249-
+
+ROBERTS, B. R. 1985. Urban poverty and pub- 256.
+
+lic welfare in Mexico and Britain. Comp. ZARATE, A.O. 1967. Some factors associated
+
+Urb. Res. 11(1-2):105-125.
+
+with urban-rural fertility differentials in
+
+ROBINSON, W., and E. ROBINSON. 1960. Rural-
+
+Mexico. Pop. Stud. 21(3):283-293.
+
+urban fertility differentials in Mexico. ZUNIGA, M. E., C. SANTOS, C. MENKES, and D.
+
+Amer. Social. Rev. 25(1):77-81.
+
+HERNANDEZ. 1986. Organization del trabajo
+
+RUBIN-KURTZMAN, J. R. 1987.The socioeco- familiar y fecundidad en el Mexico rural.
+
+nomic determinants of fertility in Mexico: Estud. Demog. Urb. l(2):205-225.
+
+Changing perspectives. Monograph Series,
+
+

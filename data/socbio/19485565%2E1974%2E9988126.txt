@@ -1,0 +1,155 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Reply to Mitra's observations on "heterogeneity of childless families"
+Jerome Waller , B. Raja Rao & C. C. Li
+To cite this article: Jerome Waller , B. Raja Rao & C. C. Li (1974) Reply to Mitra's observations on "heterogeneity of childless families", Social Biology, 21:3, 309-310, DOI: 10.1080/19485565.1974.9988126 To link to this article: http://dx.doi.org/10.1080/19485565.1974.9988126
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:34
+
+Vol. 21, No. 3
+
+Communications
+
+Reply to Mitra's Observations on "Heterogeneity of Childless Families"
+
+Jerome Waller, B. Raja Rao, and C. C. Li
+
+Graduate School of Public Health University of Pittsburgh
+Pittsburgh, Pennsylvania
+
+309
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+We appreciate the thoughtful comments case presented, considering the parsimony
+
+of Dr. S. Mitra on our article "Heteroge- of our model. Brief comments on Dr.
+
+neity of childless families" (Social Biology, Mitra's four points follow.
+
+Vol. 20 [1973], No. 2, pp. 133-138). The 1. Dr. Mitra seems to suggest that the
+
+discussion reminds us of the historical sit- heterogeneity is not limited to childless
+
+uation surrounding the discovery of genetic families but exists for every family size.
+
+linkage. In fitting the expected 9 : 3 : 3 : 1 If so, we have made a good start toward
+
+ratio to the F 2 individuals of certain two- a more complete understanding of the disfactor crosses, the breeders found consistent tribution of family size in human popula-
+
+deviations from the expected ratios. Such tions. In the observed data, the family
+
+consistent deviations led to the formulation size ranges from 0 to 15+. We hope that
+
+of the hypothesis of genetic linkage between Dr. Mitra is not suggesting that we in-
+
+the two factors. Somewhat similarly, in try- troduce IS additional parameters to the
+
+ing to fit a negative binomial to the ob- distribution. There is also the matter of
+
+served distribution of the number of chil- definition. Whether we should define, for
+
+dren of completed families, we found gen- example, a couple having four children but
+
+erally good fit but with a consistent excess failing to produce a fifth as sterile or not
+
+of childless families.
+
+is open to question.
+
+Although our paper cites only one set 2. A negative binomial distribution may
+
+of data, we have tried the method on a be derived in several different ways. Per-
+
+number of other published distributions haps it was unnecessary for us to give any
+
+(census data) and found that the number of derivation at all, as it is permissible to
+
+childless families is invariably in excess make use of a standard and established
+
+and is apparently not a random deviation. distribution in applied problems. The deri-
+
+It is this consistent excess that leads us vation we did give in our paper is, we
+
+to hypothesize the heterogeneity of the thought, one of the simplest, as it is based
+
+childless families. Of course, it is open to on a pure birth process and involves only
+
+other" interpretations, as any hypothesis two assumptions. Dr. Mitra seems to argue
+
+is. We have gone no further than the set that the birth of a child cannot affect the
+
+of data permits us to.
+
+probability of the next birth in the manner
+
+Dr. Mitra specifically pointed out four shortcomings of our model, and we ourselves can think of still others. A model is never complete; its usefulness is judged by
+
+inherent in the model. This is such a moot point that we can say neither yes nor no. In either case, it is irrelevant as far as fitting is concerned.
+
+its goodness of fit with observations. As 3. Nearly the same comments may ap-
+
+Dr. Mitra has noticed, the fit is good in the ply to the third point raised by Dr. Mitra.
+
+310
+
+Communications
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+Although the language employed in our less biased. As to Dr.Mitra's final remark
+
+derivation is X(O) = r, the latter need that we have forced a bell-shaped curve
+
+not be an integer in fitting an observed upon a distribution that is nonincreasing,
+
+distribution or in anyother type of appli- we may point out that in census data for
+
+cation. The important feature of a negative women of ages 45 andover thenumber of
+
+binomial distribution is that it has two women having one child is consistently
+
+parameters, p and r, to be estimated from lower than either those having none or
+
+the observed data.
+
+those having two children (U.S. Bureau
+
+4. Dr. Mitra regarded our selection of of the Census, 1964, Table 2). Hence we
+
+data asunfortunate. The set of data we em- would not characterize the distribution of
+
+ployed forillustration is the most carefully number of children as nonincreasing, and
+
+compiled data weknow of. I t took Eliza- we would characterize the number of child-
+
+beth and Sheldon Reed noless than fifteen less families as excessive.
+
+years to check every birth of every family We are grateful to Dr.Mitra for his in-
+
+recorded in their report (Reed and Reed, terest in our idea and wish to thank the
+
+1965). We could have simply copied a cen- editor of Social Biology for giving us the
+
+sus table, but we believe that the data of opportunity to discuss the matter more
+
+Reed and Reed aremore homogeneous and fully.
+
+REFERENCES
+
+REED, E W., and S. C. REED. 1965. Mental re-
+tardation: A family study. Saunders, Philadelphia.
+U.S. BUREAU OF THE CENSUS. 1964. U.S. census
+
+of population: 1960. Subject reports. Women by number of children ever born. Final report PC (2)--3A. Government Printing Office, Washington, D.C.
+
+

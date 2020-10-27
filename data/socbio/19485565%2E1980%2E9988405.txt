@@ -1,0 +1,559 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+The effect of variable progeny size and social selection on the population dynamics of rare lethal genes
+Shozo Yokoyama
+To cite this article: Shozo Yokoyama (1980) The effect of variable progeny size and social selection on the population dynamics of rare lethal genes, Social Biology, 27:1, 70-77, DOI: 10.1080/19485565.1980.9988405 To link to this article: http://dx.doi.org/10.1080/19485565.1980.9988405
+Published online: 23 Aug 2010.
+Submit your article to this journal
+Article views: 2
+View related articles
+Citing articles: 5 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:38
+
+The Effect of Variable Progeny Size and Social Selection on the Population Dynamics of Rare Lethal Genes
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Shozo Yokoyama
+Department of Psychiatry, Washington University School of Medicine, and The Jewish Hospital, St. Louis, Missouri
+
+ABSTRACT: When a family has a member affected by a rare lethal genetic disease, the normal members of the family have a reduced chance of marrying or of reaching the fertility level of the general population. This paper shows that gene frequency change is divided approximately into two parts: the change due to individual selection and that due to social pressure. It is also shown that a large progeny size in a family generally decreases the equilibrium of lethal genes because of social pressure.
+
+In human populations, it has often been observed that family structure has an important role in the determination of fitnessof an individual. Huntington's disease is an example. Reed and Neel (1959) showed that when a family has affected individuals selection operates against all the sibs even those with normal genotypes.
+Such social selection has been studied mathematically for rare deleterious genes (Yokoyama, 1980; Yokoyama and Templeton, 1980). We have shown that social selection has an important role in the population dynamics of deleterious genes and that the equilibrium gene frequency depends strongly on the magnitude of social selection.
+In these papers, we have assumed that each family has a large number of offspring. However, progeny size is often limited and the variance in progeny size could be substantial. Therefore, it is important to know the effect of variable progeny size on the population dynamics of rare deleterious genes. In this paper, I shall consider the population dynamics of lethal genes under the joint effect of individual selection and social selection with variable progeny sizes.
+
+DETERMINISTIC CHANGE OF GENE FREQUENCIES
+We consider a mutant gene a and its wild type allele A in a population. We assume that only individuals of genotype aa develop the trait. Let us consider the processes of mating, reproduction, and selection, in that order. Let us distinguish five classes: (1) a group of individuals of genotype AA who have no affected individuals within the nuclear family, (AA),; (2) those whose genotypes are AA, but have at least one affected individual within the nuclear family, (AA)2; (3) those of genotype Aa who have no affected family members, 04a),; (4) those of genotypes Aa who have at least one affected individual within the family, (Aa)2; and (5) those of genotypes aa who are phenotypically abnormal, (aa).
+In individual selection, we assume that the relative viabilities of the genotypes AA, Aa, and aa are 1,1-h and 0, respectively. Suppose that the frequencies of genotypes AA ,Aa, and aaafter individual selection are P, Q, and R, respectively. Let q be the frequency of allele a among adults. Thus, P=\-2q, Q = 2q, and
+
+70
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Vol. 27, No.1
+
+Variable Progeny Size
+
+71
+
+R =0. Furthermore, let kx be the relative frequency of AA individuals who have at least one affected individual in the nuclear family. Similarly, let&2be the relative frequency of Aa individuals in the affected nuclear family. Thus, the frequencies of (AA),, (AA)2, (Aa),, (Aa)2, and (aa) among adults are (l-k,)P, k,P, (l-k2)Q, k2)O, and 0, respectively.
+In mating, we assume that the amount of reduction in mating success or in fertility for an individual in the classes (AA)2 and (Aa)2 is w, due to social impact. Since only individuals with genotypes AA and Aa participate in the mating, the newly born individuals can be classified as (AA)2 or (Aa)2 only when they have aa individuals in the family. Thus, the classes {AA)2 and (Aa)2 arise from the matings between two heterozygous individuals. Let us now denote the probabilities of progeny of (AA),,(AA)2, (/4a),, (Aa)2, and (aa) from the matings between two heterozygous individuals as D,, D2, D3, D4, and 0.25, respectively (see Table 1). It should be noted that D, + D2 = 0.25 and D3 + D4 = 0.50. The evaluation of these quantities shall be postponed to the next section, and we shall treat them as constants in the following section.
+
+After some algebra, it can be shown that the frequency of allele a after mating, reproduction, and viability selection, is given by
+(1 - h)(\ - wk2)Q q 2P(\-wk]) + (3-2h)(\-wk2)Q
+(1)
+(see also Equation [1] in Yokoyama, 1980).
+Putting P=l--2q and Q =2q in Equation (1), we have
+(1 - h)(l - wk2)q
+
+(2)
+
+Using the definition of A:,, the value after viability selection, k,, is given by
+
+k\ = D2
+
+2P(l
+
+22(1 -
+- w/c,) + Q(\ -
+
+wk2) J "
+
+(3)
+
+TABLE I
+MATING TYPE FREQUENCIES AND THE PROBABILITIES OF TYPES OF OFFSPRING PRODUCED
+
+MATING TYPE
+
+FREQUENCY
+
+(AA), x (AA),
+(AA), x (AA)2 (AA), x (Aa),
+(AA), x (Aa)2 (AA)2 x (AA)2 (AA)2 x (Aa), (AA)2x (Aa)2 (Aa), x (Aa),
+(Aa), x (Aa)2
+(Aa)2x.(Aa)2
+
+(1-
+2(1
+2(\-k,)(\-k2)PQIT 2(\-w)(\-k,)k2PQIT (l-w)2/c,2?2/r
+2(l-w)k,(l-k2)PQIT (2l-(k\-2w)2)Q2k2,/kT2PQIT
+2(l-w)k1(\-kJ)QVT (1-
+
+'T={P(l-wk,) + Q(l-wk2)]2.
+
+(AA),
+1 1 0.50 0.50 1 0.50 0.50 D, D, D,
+
+PROBABILITY OF OFFSPRING
+(AA)2 (/la), (AA)2
+... 0.50 ... 0.50
+... 0.50 ... 0.50 D2 D} Dt D2 D 3 D4 D2 £>3 Dt
+
+(aa)
+0.25 0.25 0.25
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+72
+
+Yokoyama
+
+Social Biology
+
+Similarly, k', = DA 2P(l-
+
+where
+
+~ wki) \
+(4)
+
+iv = [2P(l -- wk{) + (?(1 -- wA:2)]
+[2P{\ - wkx)
+-- wk-
+
+From Equations (3) and (4), k' ( k' \2 D2 \D4)'
+or
+
+Thus,
+or
+
+k\P' k'2Q' D2 D4{\ - h) '
+k,P D2 D4(\ - h) ·
+
+(8)
+
+Considering the frequencies of (AA),and (Aa)2 after selection, we also find that
+
+Using Equations (5) and (8) and putting P=l-2qand Q =2q, we have
+k-,= (9)
+
+k\P' = D, - wk2)2QQ2 w
+and
+
+k'2Q'=D4-
+
+w
+
+Finally, from Equations (2) and (9), we can show that
+, (l-h)2[0-h)(l-2q)-2WD4q]q 1~ O-h)2(l-2q)[l+(l-2h)q]
+- 2wq2[2D2 + Z>4(3- 2h)(\ - h)s
+(7) (10)
+
+The change in gene frequency is given by
+
+2wq{(l - h)2DA - [2D2 + £>4(3 - 2h)(l - h)]q)
+
+Aq = --
+{\-h)\\-2q)[\
+
+}
+
+- 2wq2[2D2 + D4(3 - 2h)(l - h)}
+
+(11)
+
+When D2 =0.25, D4 = 0.50, and, therefore D, = 0, then Aq isreduced toEquation (9) in Yokoyama (1980).
+For q « 1, as is usually the case, the
+
+denominator of Equation (11) can be approximated as (1-h)2 (l-2q) [1 + ( 1 2h)q\ with a high degree of accuracy. Thus, aslong as(l-/i)2D4>> [2D2 + Di
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Vol. 27, No.1
+
+Variable Progeny Size
+
+73
+
+(3-2h) (l-h)]q, the change in gene fre- distribution of Zis given by
+
+quencies can be approximated by
+
+Px = Pr(X = x)
+
+(\-2h)q]
+
+(13)
+
+(l-2h)q
+2D4wq2
+(l-2q)[\+(\-2h)q]
+
+(12)
+
+Thus, the gene frequency change does not depend on Dr
+EVALUATION OF D2 ANDD4
+It is generally accepted that the negative binomial distribution provides agood fit to observed progeny size distribution (e.g.,see Cavalli-Sforza and Bodmer, 1971). Therefore, we shall assume that the progeny size in each family follows the negative binomial distribution. Let X be the number of offspring in the family. The
+
+for x = 0,l,2, . . . where t=l+s. It has been observed that n= 2~6 and 5= 0.6-2.2 (seeTable 6-11 in CavalliSforza and Bodmer, 1971).
+Let D.(x) bethe value ofD. for X=x, i =2 and 4. Note that the probabilities of genotypes AA, Aa, and aa from the mating between two heterozygotes are 0.25, 0.50, and 0.25, respectively. Thus, D2(l) = 0 and D4(l) = 0. Let us consider the case of X=2. (AA)2\s produced only when one sib is AA and another is aa with probability 2(0.25)2. Since one of these children belongs to (AA\, D2 (2) = (0.25)2. (Aa)2 is obtained when one sib isAa and another is aa. This probability is (2) (0.50)(0.25). Since one of the two has the genotype Aa, D4(2) = (0.50)(0.25). Continuing the same procedure, we can see that for A ^ x
+
+D2(x)
+
+(1/4)2
+x-\
+
+x= 1
+
+and X= 1
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+74
+
+Yokoyama
+
+Social Biology
+
+In the computation of D2 and D4 , we Results are shown in Table 2. We see that
+
+only consider the case of *2=1 and
+
+the values of D2 and Dt increase when n
+
+and s increase. When the number of prog-
+
+eny in a family is large, the matingbe-
+
+tween two heterozygotes islikely topro-
+
+duce aa individuals. Then, all other sibs
+
+where Px isgiven in Equation (13). Then are classified as either (AA)2 or (Aa)2. Un-
+
+we can show that
+
+der thecondition, D, =0, £>2= 0.25, Di
+
+= 0, and Dt =0.50. Consider the case of
+
+D2 =
+±
+
+00 X-- 1
+yy
+
+n = 6.0 and 5= 2.2 inTable 2. We can see that D2=0.2263 and D4 = 0.4525, and we find that these values aresufficiently close to the values D2 = 0.25 and £>4 = 0.50. We
+
+oo x -- 2x --i--l
++2 2 2
+
+have seen that the value of D4 is especially interesting because the effect of progeny
+distribution on the gene frequency change
+
+x =3 i=l y = l
+T(« + X)
+
+is only through D4. For realistic combinations of n and s, D4is about 0.1 ~ 0.3.
+
+Thus, the finiteness of offspring number in
+
+arm]
+
+a family reduces the value of D4 from 20 to 40 per cent compared to that for an
+
+infinitely large number of offspring, where
+
+£>4 = 0.50. and
+EQUILIBRIUM GENE FREQUENCY
+
+1 I 0"0- X·*-- I'
+ir 2 2
+
+Let us now consider the mutational change from A toa with probability u in each generation. Then the gene frequency change is given approximately by
+
+oo x -- 2 s -- i-- 1
+22 2
+*=3,=1 y=l
+T{n + x)
+xT(i)Y(J+\)Y(x-i-j+\)
+
+Aq=-
+
+(l-2h)q] 1 + (1- 2 %
+2D4wq2
+
+(14)
+
+where F=l/[(f-lh(/i)]. Since itis not easy to simplify D2 and D4,
+the numerical computations for D2 and Dt have been done for reasonable values of n and s:
+n = 2.0, 3.0,4.0,5.0, and 6.0; 5 = 0.6,1.0,1.4, 2.0, and 2.4.
+
+Setting Aq = 0, we obtain
+
+2(1 - [1 - Ah
+
++ u)q3 2wD4 + w(l - 6h)]qz
+2u(\ + h)]q+u = 0.
+(15)
+
+Vol. 27,No. 1
+
+Variable Progeny Size
+
+75
+
+TABLE 2
+PROBABILITIES OF TYPES OFOFFSPRING FROM THEMATING BETWEEN TWOHETEROZYGOTES (D2 AND D4)WHEN OFFSPRING DISTRIBUTION ISTAKEN ASA NEGATIVE BINOMIAL WITH PARAMETERS n ANDS
+
+s = 0.6
+
+i.o
+
+1.8 2.2
+
+2.0
+
+D2= 0.0501
+
+0.0767
+
+0.0987
+
+0.1170
+
+0.1323
+
+D4 = 0.1001
+
+0.1533
+
+0.1974
+
+0.2340
+
+0.2646
+
+3.0
+
+D2= 0.0677
+
+0.1026
+
+0.1299
+
+0.1514
+
+0.1682
+
+D4 = 0.1354
+
+0.2051
+
+0.2599
+
+0.3027
+
+0.3363
+
+4.0
+
+D2= 0.0851
+
+0.1266
+
+0.1569
+
+0.1789
+
+0.1949
+
+D4 = 0.1702
+
+0.2532
+
+0.3138
+
+0.3577
+
+0.3898
+
+5.0
+
+£»2= 0.1019
+
+0.1480
+
+0.1790
+
+0.1993
+
+0.2136
+
+D4 = 0.2039
+
+0.2960
+
+0.3579
+
+0.3993
+
+0.4273
+
+6.0
+
+D2= 0.1179
+
+0.1665
+
+0.1964
+
+0.2134
+
+0.2263
+
+D, =0.2358
+
+0.3330
+
+0.3928
+
+0.4295
+
+0.4525
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Then, assuming that q is much smaller than unity, we find the equilibrium gene frequency is given approximately by
+if/i >0
+
+V 1 + 2D4
+
+if h <0
+
+(16)
+
+When h>0, the equilibrium gene frequency does notdepend on either £>4 or w. Otherwise, the equilibrium gene frequency becomes smaller for a strong social selection and larger progeny size.
+
+population isalways finite. It is important, therefore, to study the population dynamics of lethal genes in a finite population. To derive the stationary distribution of gene frequencies in a finite population, we must know the mean, Miq, Viq, of gene frequency change pergeneration (Wright, 1938). In the present case.
+
+MA =
+
+{\-2h)q]
+
+l +( l - 2 %
+
+2D4w(\ -
+
+{\-h)\\-2q)[\
+
+(17)
+
+and
+
+DISCUSSION
+I have shown that the equilibrium frequency oflethal genes isgenerally inversely related to the value of Z)4 (seeEquation [16]). Numerical computation shows that the value of Dt increases as the progeny size gets larger. Thus, the equilibrium frequency of lethal genes becomes small fora large number of offspring in a family through social pressure. Sofar ourdiscussion is restricted to an infinitely large population. In reality, however, the size of a
+
+(18) 2N
+where Nis the effective population size. Following Wright's (1938) general formula, we find the frequency distribution of allele a is given approximately by
+
+-4Nhq - 2N(l -2h + 2D4w)q2]
+
+qTM-1
+
+(19)
+
+76
+
+Yokoyama
+
+Social Biology
+
+where Cis determined bythe relationship of
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+When
++2D4w)u/2 ,
+the mean and variance of gene frequencies are given approximately by ulh and ulANh2. Thus, when individual selection operates asa partially recessive, thevariable progeny size does not affect the population dynamics of rare deleterious genes. When
+
+where q is defined in Equation (16)foran infinitely large population. Furthermore, the sum of the frequencies of offspring with affected sibs from this mating isabout D2 + Dy Thus, the frequency of phenotypically normal individuals who aresubjected to social selection is given byAn (D2 + D4)q2, where q is given in Equation (16). In this model, the population incidence of the trait is given by
+
+/i«-/(l +2D4w)u/4 ,
+the mean and variance of gene frequencies are given by
+T(2Nu
+and u/(l+ 2D4w), approximately. In this case, the equilibrium gene frequency decreases asN decreases. Therefore, strong viability selection against allele a, large number of progeny in a family, and small population size generally decrease the equilibrium frequency of allele a.
+The extension of the single locus analysis to common diseases has been done with some restrictions (Yokoyama, 1980). Morton (1978) suggests that about one-sixth ofmental retardation in children of matings of normal parents could be due to rare recessive genes. Suppose that the trait is controlled by rare deleterious alleles at n loci. Let us assume that the trait is expressed whenever an individual has at least one homozygous locus for lethal genes. Then, assuming linkage equilibria among n loci, the mating frequency between two individuals who have at least one heterozygote locus is given by
+
+Suppose that the trait is caused bythe genetic mechanism described here and that the population incidence is0.01. When /J= 0.0, the number of loci, n, is given approximately by 0.01/M = 103for u = 10~5. Because of its restrictive assumptions, thepresent model may not apply to common diseases directly. But,itis possible to consider a similar genetic mechanism for these diseases. For example, the rather high population incidence of schizophrenia maybe explained by the balance between selection and mutation with multiple loci, without assuming an extremely high mutation rate as proposed previously (Book, 1953; Penrose, 1956; Kishimoto, 1957).
+In thestudy of social selection, theestimation of w becomes important. So far, not many studies have been done in this area. FortheHuntington's disease data in Reed and Neel (1959), w has been estimated to be about 0.2. (see Yokoyama andTempleton, 1980). Forschizophrenia, Lindelius (1970) has shown that normal sibs of schizophrenic probands have a marital fertility of 83 percent of that in the general population. More recently, Buck et al. (1975) have observed a slight reduction in the proportion of ever-married in-
+
+Vol. 27,No. 1
+
+Variable Progeny Size
+
+77
+
+dividuals in both brothers andsisters of from an affected nuclear family has a
+
+probands compared to the general popu- somewhat lower chance of marrying than
+
+lation. They also observed aslightly lower an individual from a normal nuclear fam-
+
+rate of marital fertility among the sisters of ily. No definite conclusion can yet be
+
+probands than among the general popula- drawn from this preliminaryfinding.The
+
+tion ofwomen. They claim that the fertil- data arevery extensive, andmore detailed
+
+ity of nonschizophrenic sisters is 93 per analysis onsocial response to the disease
+
+cent of that in the general population. needs to be done.
+
+These studies indicate that thevalues ofw We arestill intheearly stages of under-
+
+are about 0.05-0.20. However, Erlen- standing the social impacts of both rare
+
+meyer-Kimling (1978) did not see any dif- and common genetic diseases. In thefu-
+
+ferences between the reproductivity of ture, it isexpected that data onsocial re-
+
+sibs andthose in thecontrol group.
+
+sponses to different diseases in different
+
+In their studies on mental retardation, regions will be accumulated.
+
+Reed and Reed (1965) found no
+
+significant difference in reproduction be-
+
+tween that of normal persons from sibships including a retardate and their normal first cousins from sibships without retardates. However, our preliminary analysis of the data in Reed and Reed
+
+ACKNOWLEDGMENTS
+This research was supported inpart byUSPHS Grants AA-03539 and MH-31302 to Washington University. Comments by anonymous reviewers onanearlier version of this pa-
+
+(1965) indicates that thenormal individual per were appreciated.
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+REFERENCES
+
+BOOK, J. A. 1953. Agenetic and neuropsychiatric investigation of a North-Swedish population with special regard to schizophrenia and mental deficiency. Acta Genet. 4:1-139.
+BUCK, C , G. E. HOBBS, H. SIMPSON, and J. M.
+WANKLIN. 1975. Fertility of the sibs of schizophrenic patients. Brit. J. Psychiat. 127:235-239.
+CAVALLI-SFORZA, L. L., and W. F. BODMER. 1971.
+The genetics of human populations. W. H. Freeman, San Francisco.
+ERLENMEYER-KIMLING, L. 1978.Fertility of psychotics: Demography. In R. Cancro (ed.), Annals, review of the schizophrenic syndromes, 1976-77. Brunner/Mazel, New York.
+KISHIMOTO, K. 1957.A study of the population genetics of schizophrenia. Proc. 2d. Intern. Congr. Psychiat. (Zurich). 2:20-28.
+LINDELIUS, R. 1970. A study of schizophrenia. Acta. Psychiat. Scand. Suppl. 216:1-125.
+MORTON, N. E. 1978. Effect ofinbreeding on IQ
+
+and mental retardation. Proc. Natl. Acad.Sci. 75:3906-3908.
+PENROSE, L. S. 1956. Mutations in men. Acta Genet. 6:169-182.
+REED, T. E., and J. V. NEEL. 1959. Huntington's
+chorea in Michigan. 2. Selection and mutation. Amer. J. Hum.Genet. 11:107-136.
+REED, E. W.,andS. C. REED. 1965. Mental retardation: Afamily study. W. B. Saunders, Philadelphia.
+WRIGHT, S. 1938. The distribution of gene frequencies under irreversible mutation. Proc. Natl. Acad. Sci.24:253-259.
+YOKOYAMA, S. 1980. Theeffect ofsocial selection on population dynamics of rare deleterious genes. Heredity 45:271-280.
+YOKOYAMA, S., and A. TEMPLETON. 1980. The ef-
+fect of social selection on the population dynamics of Huntington's disease. Ann. Hum. Genet., 43:413-417.
+
+

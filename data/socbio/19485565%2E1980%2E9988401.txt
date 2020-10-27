@@ -1,0 +1,724 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+General causal models for sex differences in the familial transmission of multifactorial traits: An application to human spatial visualizing ability
+John Rice , C. Robert Cloninger & Theodore Reich
+To cite this article: John Rice , C. Robert Cloninger & Theodore Reich (1980) General causal models for sex differences in the familial transmission of multifactorial traits: An application to human spatial visualizing ability, Social Biology, 27:1, 36-47, DOI: 10.1080/19485565.1980.9988401 To link to this article: http://dx.doi.org/10.1080/19485565.1980.9988401
+Published online: 23 Aug 2010.
+Submit your article to this journal
+Article views: 3
+View related articles
+Citing articles: 22 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:38
+
+General Causal Models for Sex Differences in the Familial Transmission of Multifactorial Traits: An Application to Human Spatial Visualizing Ability
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+John Rice, C. Robert Cloninger, and Theodore Reich
+Department of Psychiatry, School of Medicine,WashingtonUniversity, and TheJewish Hospital of St. Louis, St. Louis, Missouri
+
+ABSTRACT:A general multifactorial model is given for the inheritance of traits that exhibit a sexual dimorphism. The model allows for polygenic inheritance, cultural transmission, phenotypic assortative mating, and a common environment of rearing. Several cultural mechanisms are described for which transmission from parent to offspring is sex-dependent and for which many different patterns of sex-specific correlations can result. A special case of the general model is described in which phenotypic differences between males and females are due only to differences in nontransmissible environmental factors and/or genetic factors that do not contribute to variability within a sex. Application of these models to human spatial visualizing ability, using data reported by others, gives an estimate of 45 per cent for the proportion of the variance that is accounted for by transmissible factors. Neither an X-linked hypothesis nor a sex-specific cultural mechanism is required to explain the transmission of spatial ability.
+
+The traditional multifactorial model for the inheritance of a quantitative trait, as proposed by Fisher (1918), requires the assumption that phenotypic similarity between relatives is due solely to genetic factors. This model has only recently been extended to incorporate the contribution of nonrandom environmental sources of variation to familial resemblance. Current formulations of the multifactorial model allow for direct parent-to-offspring transmission of environmental factors (cultural inheritance) as well as for correlated nontransmissible environments of individuals reared together.
+The traditional model assumes that a phenotype, P, may be partitioned as P = A +D + E, where A denotes the additive effect of many loci, D the dominance effect, and E random environmental effects on the phenotype. The covariances COV (A,D), COV (A,E), and COV (£>,£) be-
+The original date of receipt of this article was September 26, 1978; the date of acceptance was October 28, 1980.
+
+tween the components are assumed to be 0. The parameters of the model can be estimated from the parent-offspring and sibling correlations since rpo = Vih2 and roo = Vih2 + Vtd1, with h = crAI crP and d = aD / o>, where cr denotes the standard deviation of the indicated variable. The presence of cultural transmission will, however, lead to an inflated estimate of d.
+For behavioral or developmental phenotypes, comprehensive models are needed which do not exclude a priori either genetic or cultural transmission. Such models can then provide a framework for integrating sociocultural and biological indices with models of family resemblance. Cavalli-Sforza and Feldman (Cavalli-Sforza and Feldman, 1973a,6; Feldman and Cavalli-Sforza, 1975, 1977) have pioneered the.development of general models that include various types of non-Mendelian transmission. They note that cultural inheritance may be mediated either by social learning and modeling or by parents directly teaching their offspring certain customs and prefer-
+
+36
+
+Vol. 27, No. 1
+
+Spatial Visualizing Ability
+
+37
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+ences. They emphasize the plasticity of genotypes in response to their environments and deal explicitly with the effect of phenotype-to-phenotype transmission. Morton (1974) and Rao et al. (1974,1976) have developed a general linear model of familial resemblance using path analytic techniques to incorporate both an index of home environment and cultural transmission. They describe the effects of secondary assortative mating due to social homogamy and have recently included direct phenotypic assortment (Rao et al., 1979).
+Rice et al. (1978, 1980) and Cloninger et al. (1979a,6) have described two models which allow for combined polygenic and cultural transmission, primary or secondary phenotypic assortative mating, correlated environments of rearing, and variable family structure. The BETA Model (Cloninger et al., 1979a,6) is appropriate when separation data are available and explicitly contains as parameters both h2, the (narrow) heritability, and b2, the proportion of the phenotypic variance due to cultural transmission. This model has recently been used by Rice et al. (1980) in their analysis of IQ and SES (socioeconomic status) data. The TAU Model (Rice et al., 1978, 1980) is appropriate when data are available only for individuals who are reared in intact nuclear families. The model assumes that a phenotype P may be partitioned as P = T + E, where T denotes both genetic and cultural factors which are transmissible from parent to offspring and E denotes all other effects with COV (T,E) = 0. Familial resemblance is determined by the following two structural equations given in terms of standardized variables:
+
+P = tT + eE,
+
+To =
+
+rR,
+
+(1) (2)
+
+coefficients (standardized partial regression coefficients) t and e are given by o>/ o> and aE /CTP,respectively, so that f + e2 = 1. The path coefficients i> and TM measure the relative contribution to the offspring's phenotype made by each parent, and R, with path coefficient r, is the residual term of the regression equation which is assumed uncorrelated with TM and TF. In the case of polygenic inheritance, TM and TFwould be one-half and R would be segregation from midparent genotype. The TAU model also allows for a correlation between the phenotypes of mates and a correlation between the E's of individuals reared together.
+In this paper we shall extend the TAU Model to allow for the distributions of both T and E to differ for males and females as well as to allow for the T'S to depend both upon the sex of the parent and the sex of the offspring. This model, termed the TAU Model With Sex Effect, allows for differences in the means of males and females as well as for sex differences in correlations. Using this model, we demonstrate that cultural inheritance can lead to many different sex-dependent patterns of familial correlations. In contrast, such patterns may be difficult to explain when only genetic transmission is considered.
+
+THE THEORETICAL MODELS
+THE GENERAL MODEL
+Consider a quantitative phenotype P' for which the distributions Pt' and P2' of males and females, respectively, may be partitioned as
+
+Pi = al + TX' Pi VEi.= «2 '+· T2' ·
+
+(3) (4)
+
+when M, F and O denote mother, father We adopt the conventions of using a prime and offspring, respectively. The path for variables which are not standardized
+
+38
+
+Rice et al
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+and of using 1and2 to denote malesand females, respectively. In Equations (3) and (4)weassume the means of Ttand £, are 0 and that P' is measured on a scale where males have mean al and females have mean a2. Thevariables T- denote the effects ofall factors relevant to the development ofP- and which aretransmissible from aparent of sex ito anoffspring of either sexand E,' denote theeffects of all other factors relevant tothe development of P/. It isassumed that COV (T/,E,') = 0,/=l,2.
+In terms of standardized variables, Equations (3)and(4)yield thepath equations:
+
+P . ^ . r . + e.JE,, e2E2,
+
+Fig. 1.--Path diagram depicting the sources of re-
+(5) semblance between parent and offspring and be-
+tween two siblings. Observed quantities are inboxes
+(6) and latent variables are incircles.
+
+Equations (5) through (8) areconven-
+
+where the path coefficients t, and e, are iently represented by thepath diagram in
+
+given byt, = aTiI uFiand e, = aEiI o>,.. Figure 1which depicts the relationship be-
+
+Family resemblance is determined by the tween twosiblings andtheir parents.Us-
+
+path equations
+
+ing the rules of path analysis (Wright,
+
+1968; Li, 1975) the parent-offspring corre-
+
+lations rpoij between aparent ofsex iandan
+
+offspring of sex/ and the sibling-sibling where TOj,T,and T2denote the F s of an correlations rooij are givenby: offspring of sex i, the father and the
+
+mother, respectively, and/?,an uncorrela-
+
+rPon = Tnti2 + rm2xtxt2,
+
+(9)
+
+ted residual. The path coefficients itj are standardized partial regression
+
+= T12 r, t2 nn22 tf, (10)
+
+coefficients which measure the contribu-
+
+tion of a parent of sex / to anoffspring of
+
+nnutl2, (11)
+
+sex/. Asnoted byRice etal. (1978,1980),
+
+direct phenotypic assortative mating is
+
+mT,2r,f2, (12)
+
+described bythe path equation
+
+P, = mP2 + Wf/,
+
+(8)
+
+212)^ +
+c11e12,
+
+(13)
+
+where m isthephenotypic correlation between mates and Uis anuncorrelated residual. Finally, we allow forcorrelationsc,y between the nontransmissible environment £,and Ej of full siblings ofsex i and / who arereared together.
+
+^oo\2 ~~ '"oo21 ~ (,TllTl2 "·"
+T2, T22 ) txt2 + W(T,,T22 + T2I T12)f,2f22 c,2e,e2,
+rOa22 = ( T 1 2 2 + T 2 2 2 ) f22 + T22r,r23 + c22e22.
+
+(14) (15)
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Vol. 27, No.1
+
+Spatial Visualizing Ability
+
+39
+
+The GeneralSex Effect Model has a total to the sibling correlations rool2 and roo2X
+
+often parameters, viz, m, /,,T,7, C{j, with i ,j which must beequal.
+
+= 1,2,and with c12 = c21.Spouse, parentoffspring, and sibling observations yield a
+
+EQUIDISTRIBUTIONAL SUBMODELS
+
+maximum of eight observations which Consider the special case of 7\' = T2 may beused for parameter estimation, so = T and£,' = E2' = £'. Then Equathat observations on more classes of rela- tions (3) and (4) reduce to
+
+tives would be needed to make the full
+
+model determinant. We describe below
+
+P\ = a, + r + £ ' , (16)
+
+several submodels of the general model.
+
+These may be fit to data containing only parent-offspring and sibling data. They
+
+P'2 = a2 + T'+E',
+
+(17)
+
+also allow thedescription ofawide variety and P,' and P2 differ only in their means. of plausible cultural mechanisms for the Such a difference in mean phenotypic
+
+transmission ofa phenotype when asexual values mayresult either from a systematic
+
+dimorphism is present.
+
+cultural bias which differentially appliesto
+
+Equations (10) and (11) show that in one sexor from systematic biological dif-
+
+general the father-daughter and mother- ferences between the sexes. These dif-
+
+son correlations need notbe equal. Even ferences are systematic in the sense that
+
+in thecase in which alltheT,/S areequal, there arenointerfamilial differences, the
+
+assortative mating will introduce anasym- same familial andrandom environmental
+
+metry in these two correlations. In the factors govern thevariation of both sexes
+
+case of polygenic transmission with all T,V about their respective means. In this case = 'A, wehave rpoU - rpo2l = V2 m {t\ - t]), tt = t2 -- t, anddifferences in sex-specific so that the two correlations will be un- correlations result from differences in sex-
+
+equal when t, ± t2.This canresult either specific parent-offspring transmission. from males and females having different Some of the possible paradigms areillus-
+
+genes involved in the expression of the trated in Table 1. For some of these
+
+phenotype orfrom males andfemaleshav- models, theresiduals Rl andR2 (seeEqua-
+
+ing the same T' in Equations (3) and (4) tion 7) are assumed here to compensate
+
+but different phenotypic variances. Such for the different degree of parental deter-
+
+an asymmetry does not apply, of course, mination of T, and T2. However, the
+
+TABLE 1
+MODELS IN WHICH SEX DIFFERENCES ARECAUSED BY SEX-DEPENDENT PARENTAL TRANSMISSION
+
+Model No Sex Effect Maternal Effects Daughter Effects
+Cross Sex Effects
+·Assuming all c(-: = c.
+
+T Parameters
+
+Parent-Offspring Correlation Sibling Correlation*
+
+T = T.y TF= T U= T12
+TM = T21 = T22
+T,= T U=T21
+Trf = T 1 2 = T 2 2
+TM= T, , = T22
+TOI = T12 = T21
+
+rpo -
+Tpoll = rpo2\ =
+'poll ~ rpol2 ~
+
+rPoij rpol2 rpo22 rpo21 rpo22
+
+f'pnro>l\l 1 -- f>po22 'po\2 - rpo21
+
+'oo -- 'ooij xoo = rooij
+'poll
+
+40
+
+Rice et a]
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Daughter Effect and Cross Sex Effect to conform to this model. When
+
+models could lead to different f,'s. These identification is with the parent of the
+
+equidistributional models are easily gen- same sex,TSJ> TOSand rpoU = rpo22 > rpol2 =
+
+eralized to allow forr,=£f2.
+
+rpo2l, and when identification is with the
+
+For the MaternalEffects Model, we as- parent of the opposite sex, TOS> TSS and sume that the mother and father contrib- rPai2 > 'Von- ^ is interesting to note,how-
+
+ute to an offspring's phenotype to dif- ever, that in either case rooll is always
+
+ferent degrees in a way that does not greater than or equal to rool2.This follows
+
+depend on the offspring's sex. In many from Equations (13) and (14) and thein-
+
+contemporary cultures the mother tends equality that ij + -rj 3=2 TSJ JOS. This last
+
+to have a greater share in child rearing, so inequality may be seen by expanding that for some phenotypes we may expect (r - T )2 5= 0
+
+TW > TF, where TM and i> represent the con- The parameters of these models are m,
+
+tribution from the mother and father, re- r-,the T'Sgiven in Table 1, and thec,/s.
+
+spectively, to an offspring.
+
+The equality of the sibling correlations in
+
+For theDaughterEffects Model, we as- Table 1 occurs when all c,7's are equal, so
+
+sume each parent contributes equally,but that the inclusion of sex specific c's will
+
+that the total parental contribution de- provide more degrees of freedom to allow
+
+pends on the sex of the offspring. As a re- their estimation.
+
+sult, the T, of the other sex is to a greater A test of fit of these models may be
+
+extent determined by nonfamilial en- done bytesting whether thepredictedpat-
+
+vironmental factors. Such a model may tern of equality of correlations occurs.
+
+apply in a culture in which offspring of one However, for many of these models, the
+
+sex receive more parental supervision or underlying parameters cannot be esti-
+
+attention or aregiven less exposure to out- mated from parent-offspring and sibling
+
+side activities. Forexample, if exposure to data alone. For example, the No Sex Efcertain factors in theteenage years are rel- fect Model has four parameters, m, t2, T,
+
+evant to the development of a phenotype, and c, butonly three parameters canbe es-
+
+and male offspring are given greater timated since the model canbe reparame-
+
+freedom to explore nonfamilial situations terized in terms of the parameters m^ rpo
+
+during these years, we mayexpect daugh- and roo. Estimation of thefour parameters
+
+ters to more closely resemble their would require observations on another
+
+parents. The contributions from a parent class of relatives or the making of a priori to a sonor daughter are denoted by TS and assumptions such asT = lA.
+
+Td,respectively.
+
+For the Cross Sex Effects Model, we assume that offspring of one sex are
+
+THE ENVIRONMENTAL MODEL
+
+influenced to a greater (or lesser) extent In this section we will make the as-
+
+by a parent of the opposite sex. This sumption that all T,/S are equal to a commodel would apply to phenotypes where mon T, and that 71/ and T2 of Equations
+
+gender identification or sex-role modeling (3) and (4) are equal to a common T.By
+
+were relevant to etiology. The influence equality, we mean that 7\ and T2 are ran-
+
+between a parent and same-sex offspring dom variables drawn from thesame distri-
+
+is denoted by TSS, and between a parent bution of phenotypic effects of transmissiand opposite-sex offspring by TOS. Some ble elements or, in other words, the psychodynamic interpretations of per- transmissible elements and their ultimate
+
+sonality development would be expected phenotypic effects are the same for both
+
+Vol. 27, No. 1
+
+Spatial Visualizing Ability
+
+41
+
+males and females, so that both parents are identical with respect to their influence on an offspring's T. This model, termed the Environmental Model, is given by the structural equations
+
+P,' = a, + T+ £ / ,
+
+(18)
+
+P2' =OL2+T+E2', (19)
+
+origin for differences in the means of males and females.
+By setting all the Tf/'s equal to T in Equations (9) through (15), we obtain the following two relationships among the phenotypic correlations:
+
+^021 ''poll
+
+(21)
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+(20)
+where O, F, M, denote the offspring, father and mother, respectively. The difference in the phenotypic distributions of males and females is due only to the effects of nontransmissible factors or biological factors that do not show variability within a sex. If the variance of £, and E2 are equal, but a^ctj, as in the case of systematic cultural or biological differences discussed previously, then males and females will have the same variance and only differ in their means, so that all parent-offspring correlations will be equal. If, however, £,' and E2' have different variances, then the variances of P,' and P2' will differ, and the path coefficients r, and t2 will be unequal, even though the phenotypes differ only for environmental reasons. In such a model, the standardized path equations might mislead an investigator (Duncan, 1975). Indeed, all sex differences could be explained by the two phenotypes differing only in their reliability of measurement.
+Note, however, that the standard polygenic model is a special case of the Environmental Model, so that a fit to this model does not imply the presence of cultural transmission. "Environmental" here only refers to the implication that iff, + t2, then this difference is explained by differences in nontransmissible factors. Moreover, even iff, = t2, it is possible that the means of males and females are the same, so that a fit to the Environmental Model does not imply an environmental
+
+tr o22 -- c 2 e22) + c12 e, e2. (22)
+If observations satisfy these two equations, and there is a reduced variance for the sex with the higher same-sex correlation, then the Environmental Model should be considered as a likely explanation of the data. If m is zero, and all c,7's are zero, then
+
+ol2 ~" ^021 ~~ V
+
+xpo22 :
+
+and
+
+Even when the cjs are not zero, rooX2 is approximately equal to
+V '"ooll ''0022
+so that the phenotypic correlations themselves may be used in a test of fit to the model. A formulation of the Environmental Model for this case was given by Reich et al. (1979) for a two-disease model and applied to data on diastolic hypertension.
+THE SEX EFFECT MODEL FOR
+SEMICONTINUOUS TRAITS
+The multifactorial model for threshold characters has been described by Falconer (1965,1967), Reich et al. (1972,1975) and Curnow and Smith (1975). In this model it is assumed that the manifestation of a qualitative trait is governed by a normally distributed variable X, termed the liability scale. Affectational status is determined by a threshold, with an individual being "affected" if his score on X is above the threshold and "unaffected" otherwise.
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+42
+
+Rice et al
+
+Social Biology
+
+For the sex effect model, we assume liability scales Xx and X2 for males and females, respectively.
+The above models are formulated in terms of Xt and X2 and their correlations between relatives, together with the threshold values for males and females. The correlations between relatives may be estimated using the tetrachoric correlation coefficient (Rice et al., 1979) and the threshold values from population prevalences. Although the models for qualitative traits require the prevalences of affected males and females as two additional parameters, direct estimates are usually available and may be incorporated into an analysis.
+In the case of semicontinuous traits, a sexual dimorphism on the (unobserved) liability scales is reflected as differences in frequencies on the observed qualitative scales.
+APPLICATIONS OF THE MODELS
+We applied the above models in the analysis of the transmission of spatial visu-
+
+alizing ability, a trait which exhibits markedly different distributions in males and females. Maximum-likelihood parameter estimates were obtained from reported correlations using a FORTRAN program XTAU, available upon request. The likelihood function was computed as described by Rice et al. (1978), and the general purpose searching program MAXLIK (Kaplan and Elston, 1972) was used for maximization.
+Several studies of spatial ability had suggested the influence of an X-linked major locus in the transmission of spatial ability (Stafford, 1961; Hartlage, 1970; Bock and Kolakowski, 1973). However, more recent studies have cast doubt upon this hypothesis (DeFries et al., 1976; Bouchard and McGee, 1977; Loehlin et al., 1978; Park et al., 1978). The reported parent-offspring correlations from these latter studies are displayed in Table 2 along with the sample size (number of pairs of relatives) given in parentheses. A test of equality of the four sex-specific parent-offspring correlations is reported in the last column (Snedecor and Coch-
+
+TABLE2
+PARENT-OFFSPRING CORRELATIONS OF SPATIAL TEST SCORES AND TESTS OF HOMOGENEITY
+
+Father-
+
+Father-
+
+Father-
+
+*
+
+Mother
+
+Son Daughter
+
+DeFries et al. (1976)* AEA sample
+AJA sample
+Park et al. (1978)*
+Bouchard and McGee (1978)t
+Loehlin etal. (1978)*
+Pooled data§
+
+0.06 (144) 0.14 (192) 0.11 (333)
+
+0.27 (434) 0.33 (130) 0.33 (99)
+0.23 (185) 0.28 (183) 0.26 (365)
+
+0.32 (438) 0.31 (138) 0.45 (107)
+0.17 (172) 0.30 (201) 0.24 (370)
+
+*Spatial factor from factor analysis. tMental rotation test. tSpatia! composite. §PooIed data of Bouchard and McGee (1978) and Loehlin et al. (1978).
+
+MotherSon
+0.28 (434) 0.21 (130) 0.37 (100)
+0.20 (204) 0.34 (183) 0.27 (384)
+
+MotherDaughter
+
+0.41 (438)
+0.13
+(138)
+0.53 (113)
+
+6.82 0.05<p< 0.1
+3.89
+0.25<p< 0.50
+3.74 0.25<p< 0.50
+
+0.16 (196)
+0.28 (201)
+0.22 (394)
+
+0.60 0.75<p< 0.90
+0.54 0.90 <p< 0.95
+0.64 0.75<p< 0.90
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Vol. 27, No. 1
+
+Spatial Visualizing Ability
+
+43
+
+ran, 1967, pp. 186-18), where the resulting test statistic has a chi-square distribution with three degrees of freedom.
+The last row of Table 2 consists of correlations obtained by pooling those of Bouchard and McGee (1978) and Loehlin et al. (1978). Each pooled correlation was obtained by taking the weighted sum of the two corresponding Z-transformed correlations and then taking the inverse Ztransformation (Snedecor and Cochran, 1967). The "effective" sample size (the sum of the two sample sizes less three) for the pooled correlations is given in parentheses.
+The sibling correlations reported by Bouchard and McGee (1978) and Loehlin et al. (1978) are displayed in Table 3. The former set of correlations and the pooled correlations were found to be heterogeneous at the 0.05 significance level while those of Loehlin et al. (1978) were not, reflecting their small sample sizes. We shall apply the above models to the pooled correlations reported in Tables 2 and 3 after giving a brief description of the two samples.
+The sample of Bouchard and McGee (1978) consisted of 801 individuals from 200 families ascertained through University of Minnesota undergraduate students. The students were administered the Mental Rotation Test (Vandenberg, 1975) and the Hidden Patterns Test and were then trained to administer these tests to their
+
+family members between the ages of 11 and 69. The correlations in Tables 2 and 3 are the reported Mental Rotation Test correlations after correcting for age using Z scores in five-year age intervals. Bouchard and McGee also report that only 20 per cent of females scored above the male median.
+The sample of Loehlin et al. (1978) consisted of 192 families in the Tel Aviv area. Each family contained a father, mother, and two children at least 13 years of age with an upper limit of 60 years of age for the parents. Families were tested in their homes with a battery of tests adapted from the Educational Testing Service Kit of cognitive tests. Scores were adjusted using a multiple regression equation with years of education, birth rank, and a quadratic in age as independent variables. The correlations displayed in Tables 2 and 3 are age-adjusted scores based on a composite scale derived from scores on card rotations, cube comparisons, hidden patterns, and paper folding. Loehlin et al. also report that the mean score for males was significantly higher than that for females.
+The results of the analyses are displayed in Table 4. Parameter estimates for separate analyses of the two data sets are displayed in brackets to allow monitoring of the effect of pooling. To obviate the problem of indeterminance, T was fixed at 0.5 in all of the analyses. The program
+
+TABLE 3
+SIBLING CORRELATIONS AND TESTS OF HOMOGENEITY
+
+Study
+Bouchard and McGee (1978). Loehlin etal. (1978) Pooled data
+
+BrotherBrother
+0.50 (132) 0.53 (42) 0.51 (171)
+
+BrotherSister
+0.33 (249) 0.26 (99) 0.31 (345)
+
+SisterSister
+0.21 (112) 0.39 (51) 0.27 (160)
+
+7.01 0.025 <p< 0.05
+3.01 0.1<p<0.25
+8.44 0.01<<p< 0.025
+
+44
+
+Rice et al
+
+Social Biology
+
+TABLE4
+MAXIMUM-LIKELIHOOD PARAMETER ESTIMATES FOR THE MODELS TESTED
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Parameter*
+X2(d.f.) . . .
+
+No constraints
+0.11 0.06,0.14 0.70 0.66,0.73; 0.64 0.54,0.72 0.46 0.44,0.52 0.14 0.23,0.00: 0.10 0.10,0.24
+0.25 (2)
+
+0.11 [0.06,0.14] 0.67 [0.60,0.72]
+0.50 [0.49,0.52]
+0.14 [0.23,0.00] 0.07 [0.04,0.23]
+0.64 (3)
+
+0.11 0.07,0.14 0.75 0.74,0.75 0.58 0.46,0.70 0.23 0.28,0.16
+4.61 (4)
+
+' t2,cu =
+0.11 [1.06,0.14] 0.68 [0.60,0.73] 0.22 [0.26,0.16]
+9.08 (5)
+
+"Parameter estimates for Bouchard and McGee (1978) and Loehlin etal. (1978), respectively, are displayed inbrackets.
+
+XTAU was used to estimate m, tx, t2, cu, square is obtained by adding the squared c12, and c22 and then used totest linear con- differences of the observed andpredicted straints placed upon the parameters.The Z-transformed correlations. The degrees
+
+resulting maximum-likelihood parameter of freedom are given by the number ofob-
+
+estimates are displayed in Table 4 to- served correlations less thenumber of es-
+
+gether with chi-square goodness-of-fit timated parameters, which yields 8-6 = 2
+
+statistics. Tests of the linear constraints degrees of freedom for the model withno
+
+are performed using the likelihood ratio constraints. This model provided a good
+
+test (Kendall andStuart, 1973), sincethe description of the data (x* = 0.25, 0.75 <
+
+difference in the chi-squares of the con- p<0.90).
+
+strained and unconstrained models is The hypothesis that f, = t2is accepted asymptotically a chi-square random varia- (Xl = 0.64 - 0.25 = 0.39, p > 0.5), in
+
+ble whose degrees offreedom are given by agreement with the acceptance of the
+
+the number of constraints.
+
+equality of the parent-offspring correla-
+
+In thepresent application, thelog like- tions for thestudies displayed in Table 2.
+
+lihood function differs from the reported Under the assumption that tt = t2, the hy-
+
+goodness-of-fit chi-squares by a multipli- pothesis that cu = c12 = c22can bere-
+
+cative factor of minus one-half and bya jected (x* = 9.08 - 0.64 = 8.44, p <
+
+constant which is independent ofthe para- 0.025). Accordingly, our estimates for the
+
+meters ofthe model. This constant cancels model which best describes the pooled
+
+when the difference of two such chi- data arem = 0.11, f = 0.45, cn = 0.50,
+
+squares is taken, so that the value of the c12 = 0.14 and c22 = 0.07.
+
+difference of the chi-squares of the con- We conclude, therefore, that the trans-
+
+strained and unconstrained models is mission of spatial ability is described by
+
+identical to the value of the likelihood- the Environmental Model with tl = t2. ratio chi-square (Raoet al., 1974). This This is compatible with polygenic trans-
+
+test is more powerful than the chi-square mission with a heritability of 45 per cent,
+
+goodness-of-fit test, which is appropriate although the effects of non-sex-specific
+
+when testing against an unspecified al- cultural factors may mimic polygenic
+
+ternative hypothesis.
+
+transmission (Rice et al., 1978)so that
+
+We first fitted the full six parameter model to thedata with noconstraintsand obtained the parameter estimates displayed inTable 4. The goodness-of-fit chi-
+
+other types of data would be needed to separate thetwosources of resemblance. From our analyses, there isno evidence to support X-linkage, maternal effects, or
+
+Vol. 27, No. 1
+
+Spatial Visualizing Ability
+
+45
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+any of the sex-specific cultural mechanisms which we have described.
+The conclusion that cn + cn + ^ i n d i cates that the nontransmissible environmental factors relevant to the development of spatial ability are different for males and females. This is compatible with the argument that boys are encouraged in the home to engage in activities which enhance the development of spatial ability, whereas girls are not. These factors would be nontransmissible if they depend only on the offspring's sex and not on the parental spatial ability scores themselves. This could also explain in part why a2 < au although sex differences in cortical organization is an alternative explanation for these mean differences. Further research is needed before the relative contributions of biological and sociocultural factors can be determined.
+DISCUSSION
+The models we propose are an attempt to relax two assumptions which are implicit in the standard polygenic model for a phenotype P when partitioned into its genetic and environmental components as P = G + E. The first assumption is that E is uncorrelated between a parent and his offspring. Cultural inheritance is one source of such a covariance which may be important for many behavioral or developmental phenotypes. Another possibility is that a genotype "seeks out" certain environments so that G and £ are correlated within an individual and hence would lead to correlated E's between parent and child. The salient point is, however, that such phenomena can be modeled and incorporated into genetic analyses to provide logical and consistent models for complex traits.
+The second assumption is that E is uncorrelated between individuals who are
+
+reared contemporaneously. Such covariances may result not only from individuals being reared in the same household, but from E itself being related to covariates such as age or SES. Such hypotheses cannot be explored without models which allow for more comprehensive types of environmental variation. These problems are compounded by the fact that the environmental similarity between two individuals in general increases along with their genetic similarity. We have found path analysis and the related method of structural equations to be a valuable tool in addressing these problems.
+Since its introduction in 1918 (Wright, 1918), path analysis has proven a useful technique in many areas of genetics. In contrast, its applications in the social sciences have by and large been unfruitful (Duncan, 1975). This has occurred in part because even a few variables will produce too many plausible diagrams relating these variables if no a priori casual schema can be deduced. In genetics, however, only a few causal patterns are reasonable in most situations so that only a few models need to be considered. In the investigation of behavioral phenotypes, models which first consider the causes of familial resemblance, both genetic and environmental, are more likely to be fruitful than "shotgun" approaches which use many variables to produce ad hoc models. The high covariances between family members for many phenotypes indicate that interfamilial variations can explain a large portion of the total variances for these phenotypes.
+In analyzing the spatial ability data we chose to test the equality of all four parent-offspring correlations as a first step in our analysis. Unless the pattern of correlations is predicted a priori, this is necessary to avoid the pitfalls of multiple comparisons. No clear pattern is apparent in Table 2 across the individual studies. Dif-
+
+46
+
+Rice et al
+
+Social Biology
+
+ferent measures ofspatial ability are used in these studies of different populations, so no definitive conclusion should be made. It is clear, however, from Table 2 that an X-linked model does not seem likely.
+
+ACKNOWLEDGMENTS
+This research was supported inpart by USPHS grants AA-03539, MH-31302, and MH-25430, andResearch Scientist Development Award MH-00048 (CRC).
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+REFERENCES
+
+BOCK, R. D., and D. F. KOLAKOWSKI. 1973.
+Further evidence of sex-linked major gene influence onhuman spatial visualizing ability. Amer. J. Hum. Genet. 25:1-14.
+BOUCHARD, T. J., and M. G. MCGEE. 1977. Sex
+differences in human spatial ability: Not an Xlinked recessive gene effect. Soc.Biol. 24: 332-335.
+CAVALLI-SFORZA, L. L., and M. W. FELDMAN.
+1973a. Cultural versus biological inheritance: Phenotypic transmission from parents to children. (A theory of theeffect of parental phenotypes on children's phenotypes). Amer. J. Hum. Genet. 25: 618-637.
+. 1973b. Models for cultural inheritance. I. Group mean and within group variation. Theor. Popul. Biol. 4: 42-55.
+CLONINGER, C. R., J. RICE, and T. REICH. 1979a.
+Multifactorial inheritance with cultural transmission and assortative mating. II.A general model of combined polygenic and culturalinheritance. Amer. J. Hum. Genet. 31: 179-198.
+. 1979b. Multifactorial inheritance with cultural transmission andassortative mating. III. Family structure and the analysis of separation experiments. Amer. J. Hum. Genet. 31:366-388.
+CURNOW, R. N., and C. SMITH. 1975. Multifacto-
+rial models forfamilial diseases in man. J.R. Statist. Soc. A 138:131-169.
+
+. 1977. The evolution ofcontinuous variation. II. Complex transmission and assortative mating. Theor. Popul. Biol. 11: 161-181. HARTLAGE, L. C. (1970). Sex-linked inheritance of spatial ability. Percept. Mot. Skills 31:610.
+KAPLAN, E. B., and R. C. ELSTON. 1972. A sub-
+routine package for maximum likelihood estimation (MAXLIK). Institute of Statistics Mimeo Series, No. 823. Univ. ofNorth Carolina, Chapel Hill.
+KENDALL, M. G., and A. STUART. 1973. The ad-
+vanced theory of statistics. Vol. 2. Inference and relationship. 3d ed. Hafner, N.Y. Li, C. C. (1975). Path analysis--A primer.The Boxwood Press, Pacific Grove, Calif.
+LOEHLIN, J. C., S. SHARAN, and R. JACOBY. 1978.
+In pursuit of the "spatial gene," a family study. Behav. Genet. 8: 27-41. MORTON, N. E. (1974). Analysis of family resemblance. I. Introduction. Amer. J. Hum. Genet. 26: 318-330.
+PARK, J., R. C. JOHNSON, J. C. DEFRIES, G. C.
+ASHTON, G. E., MCCLEARN, M. P. Mi, M. N.
+RASHAD, S. G. VANDENBERG, and J. R.
+Wilson. 1978. Parent-offspring resemblance for specific cognitive abilities in Korea. Behav. Genet. 8: 43-52.
+RAO, D. C., N. E. MORTON, and S. YEE. 1974.
+Analysis of family resemblance. II. A linear model for familial correlation. Amer. J. Hum. Genet. 26: 331-359.
+
+DEFRIES, J. C., G. C. ASHTON, R. C. JOHNSON, A.
+
+. 1976. Resolution ofcultural and biologi-
+
+R. KUSE, G. E. MCCLEARN, M. P. Mi, M. R.
+
+cal inheritance by path analysis. Amer. J.
+
+RASHAD, S. G. VANDENBERG, and J. R.
+
+Hum. Genet. 28: 228-242.
+
+WILSON. 1976. Parent-offspring resemblance RAO, D. C., N. E. MORTON and C. R. CLONINGER.
+
+for specific cognitive abilities in two ethnic
+
+1979. Path analysis under generalized assorta-
+
+groups. Nature 261: 131-133.
+
+tive mating. I. Theory. Genet. Res., Camb.
+
+DUNCAN, O. D. 1975. Introduction to structural
+
+33: 175-188.
+
+equation models. Academic Press, N.Y.
+
+REICH, T., J. W. JAMES, and C. A. MORRIS. 1972.
+
+FALCONER, D. S. 1965. The inheritance ofliability
+
+The use ofmultiple thresholds in determining
+
+to certain diseases estimated from the inci-
+
+the mode of transmission of semi-continuous
+
+dence among relatives. Ann. Hum. Genet. 29:
+
+traits. Ann. Hum. Genet. 36: 163-184.
+
+51-76.
+
+REICH, T., C. R. CLONINGER, and S. B. GUZE.
+
+. 1967. The inheritance of liability to dis-
+
+1975. The multifactorial model of disease
+
+ease with variable age ofonset with particular
+
+transmission. I. Description of the model and
+
+reference to diabetes mellitus. Ann. Hum. its use in psychiatry. Brit. J. Psychiat. 127:
+
+Genet. 31: 1-20.
+
+1-10.
+
+FELDMAN, M. W., and L. L. CAVALLI-SFORZA.
+1975. Models of cultural inheritance: A general linear model. Ann.Hum. Biol. 2: 215-226.
+
+REICH, T., J. RICE, C. R. CLONINGER, R. WETTE,
+and J. JAMES. 1979. The use of multiple thresholds and segregation analysis in analyzing the phenotypic heterogeneity of multifac-
+
+Vol. 27,No. 1
+
+Spatial Visualizing Ability
+
+47
+
+torial traits. Ann. Hum. Genet., Lond., 42: 371-390.
+RICE, J., C. R. CLONINGER, and T. REICH. 1978.
+Multifactorial inheritance with cultural transmission and assortative mating. I. Description and basic properties of the unitary models. Amer. J. Hum.Genet. 30: 618-643.
+. 1980. The analysis of behavioral traitsin the presence of cultural transmission and assortative mating: Applications to IQ andSES. Behav. Genet. 10: 73-92.
+RICE, J., T. REICH, C. R. CLONINGER, and R.
+WETTE. 1979. An approximation to the multivariate normal integral: Its application to multifactorial qualitative traits. Biometrics 35: 451-459.
+
+SNEDECOR, G., and W. COCHRAN. 1967. Statistical
+methods. The Iowa State Univ. Press, Ames.
+STAFFORD, R. F. 1961. Sex differences in spatial visualization asevidence ofsex-linked inheritance. Percept. Mot.Skills. 13: 300-308.
+VANDENBERG, S. G. 1975. Sources ofvariation in performance on spatial tests, p. 57-66. InJ. Eliot and N. J. Salkind (eds.), Children's spatial development. Charles C Thomas, Springfield, Ill.
+WRIGHT, S. 1918.On thenature of size factors. Genetics 3:367-374.
+. 1968. Evolution andthegenetics of populations. Vol. 1. Genetic and Biometric Foundations. Univ. ofChicago Press, Chicago.
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+

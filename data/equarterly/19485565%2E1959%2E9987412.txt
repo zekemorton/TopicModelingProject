@@ -1,0 +1,812 @@
+Eugenics Quarterly
+ISSN: 0097-2762 (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi18
+Intervals between confinements
+Kumudini Dandekar
+To cite this article: Kumudini Dandekar (1959) Intervals between confinements, Eugenics Quarterly, 6:3, 180-186, DOI: 10.1080/19485565.1959.9987412 To link to this article: http://dx.doi.org/10.1080/19485565.1959.9987412
+Published online: 23 Aug 2010. Submit your article to this journal Article views: 1 View related articles Citing articles: 6 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi18
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:25
+
+INTERVALS BETWEEN CONFINEMENTS
+KUMUDINI DANDEKAR Gokhale Institute of Politics
+and Economics Poona, India
+
+Downloaded by [University of Michigan] at 13:25 08 December 2015
+
+EDITOR S NOTE:
+The December 1958 issue of Eugenics Quarterly presented a statisticalanalysis of "Intervals Between Confinements in the Absence of Birth Control" by Louis Henry of the Institut National D'ttudes Demographiques in France. Mr. Henry's data are subjected to some further analysis in the article that follows by Kumudini Dandekar of the Gokhale Institute of Politics and Economics in India. Louis Henry presented mean intervals between confinements and the internal variance of the intervals. In the article below, Mrs. Dandekar takes as a point of departure the fact "that the striking feature of the data by Louis Henry is the rather small internal variances of intervals be-
+
+tween confinements." Her analysis involves estimated subdivisions of the intervals into the periods "before" and "after" the resumption of menstruation. She concludes that the small variances reported by Louis Henry "can be explained only on the assumption of a considerable post-partum sterile period during which not only fecundability but even the probability of renewal of ovulation is zero." It is hoped that the original article by Mr. Henry and the present article by Mrs. Dandekar will stimulate further interest and research in the important but relatively neglected subject of birth intervals.
+
+In a recent article in this journal, Louis Henry has examined the fertility histories of 50 families. These families had had at least 6 children, and their first 4 intervals between confinements were normal (i.e., the child born at the last previous confinement had lived for at least 12 months). The analysis was based mainly on an examination of the means and variances of the first 4 intervals between confinements for the several families. Four out of the 50 families were rejected from analysis on grounds that, in their cases, the successive intervals showed large internal variances. For the remaining 46 families, the total variance among the recorded 46 X 4, that is,
+
+184 intervals, was analyzed (by the statistical technique of analysis of variance) into three components: (1) among families, (2) among birth orders and (3) residual. On grounds that the first two components were statistically large in comparison with the third component, it was concluded that the differences between the families and between the birth orders, in the matter of mean intervals, were real and not merely accidental. In other words, it was concluded that (1) some couples were more likely than others to bear children within short intervals and (2) intervals between successive confinements tended to increase with the order of birth.
+
+180
+
+Downloaded by [University of Michigan] at 13:25 08 December 2015
+
+The purpose of the present paper is to examine the same material from a somewhat different statistical standpoint. For convenience of reference, the basic data are reproduced in Table 1.
+As Louis Henry observes: "In the absence of birth control, marital fertility and, hence, intervals between confinements depend mainly on three factors-- (1) The woman's fecundability, denned as the probability that she will conceive in the course of one menstrual cycle or, say, within one month. (2) The frequency of uninduced miscarriages and stillbirths, since confinements resulting in live births only are here under consideration. (3) The time lapse between a confinement and the next onset of ovulation." (p. 203) During this period, beginning with a conception and ending with the next onset of ovulation, fecundability is zero. We may therefore refer to this period briefly as the "infecund" period.
+These factors may appropriately be made the starting point for a statistical analysis of intervals between confinements. In the following, the first and the third of the above three factors are taken into consideration. The second factor is neglected for want of data.
+Let p denote fecundability, namely, the probability that a woman will conceive in the course of one menstrual cycle or say within one month.
+Let P (x) denote the probability of an interval of x menstrual cycles or say x months between two successive confinements. Then P(x) is given by the following:
+P(x) =
+For a large set of intervals arising out of the same condition of fecundability, the mean and variance of the intervals are given by
+
+181
+mean = i-p/p variance = l-p/p3
+From this it follows that
+Variance = mean (1 -f- mean)
+Let us examine whether this theoretical relationship between the mean and the variance of the intervals holds good in the observed data. From Table 1, it is obvious that the relation does not hold good. For all the families, either the mean intervals are too large or the variances of the intervals are too small for the relation to hold good. For instance, for family No. 1, the mean interval is 18 so that in accordance with the theoretical relation, the internal variance for this family should have been 18 X 19, that is, 342. In fact it is only 3. The same is true for all the families. In all cases, the variances are very much smaller than what would accord with the means. Even the family No. 50, which shows an internal variance of above 400, has a mean interval of 34.25 and hence would require the variance to be above 1200.
+One reason why the observed variances are too small in comparison with what they should be in accordance with the observed means is that the observed mean intervals are exaggerated. It will be noticed that while deriving the theoretical relationship between the mean and the variance of the intervals, p was defined to be the probability of a woman conceiving in the course of a menstrual cycle. Hence for the theoretical relationship to hold good, the intervals should be considered as beginning from the reappearance of the menstrual cycle after a confinement. In fact, the recorded intervals are measured from one confinement to the next and hence include the infecund period as well. This exaggerates the mean intervals but leaves the
+
+Downloaded by [University of Michigan] at 13:25 08 December 2015
+
+182 Eugenics Quarterly
+
+TABLE 1
+
+NORMAL INTERVALS BETWEEN SUCCESSIVE CONFINEMENTS
+
+Women married at Crulai (Normandy) from 1674 I:o 1742, with at least 6 confinements
+
+during the marital life
+
+Internal Variation
+
+Interval Between Confinements
+
+Mean
+
+Standard
+
+Families No.
+
+1-2
+
+2-3 3-4 (in completed months)
+
+4-5 Interval
+
+Deviation
+
+(months) Variance (months)
+
+1 17 17 16 20 18
+
+3 1.73
+
+2 33 32 32 29 32
+
+3 1.73
+
+3
+
+20
+
+20
+
+15
+
+18
+
+18.75
+
+5.67 2.39
+
+4 34 34 39 37 36.5 6 2.45
+
+5 16 20 22 18 19.5 6.67 2.58
+
+6 19 23 17 21 20.5 6.67 2.58
+
+7 24
+
+29
+
+25
+
+23
+
+25.75
+
+7
+
+2.65
+
+8
+
+34
+
+30
+
+28
+
+29
+
+30.75
+
+7
+
+2.65
+
+9 14 12 19 17 16
+
+9.67 3.11
+
+10 29
+
+30
+
+25
+
+23
+
+2755
+
+11
+
+3.33
+
+11
+
+21
+
+17
+
+17
+
+24
+
+20.25
+
+11.67
+
+3.41
+
+12 22 17 26 23 22.5 14 3.74
+
+13
+
+21
+
+24
+
+15
+
+17
+
+19.75
+
+1633
+
+4.04
+
+14
+
+32
+
+36
+
+26
+
+35
+
+32.75
+
+20.33
+
+4.51
+
+15
+
+25
+
+20
+
+29
+
+30
+
+265
+
+20.67
+
+4.54
+
+16
+
+21
+
+20
+
+30
+
+26
+
+24.75
+
+21.67
+
+4.65
+
+17
+
+31
+
+30
+
+40
+
+36
+
+34.75
+
+21.67
+
+4.65
+
+18 14 19 23 26 21 27 5.20
+
+19
+
+15 21
+
+28
+
+23
+
+22.25
+
+29
+
+5.39
+
+20
+
+13 22 21 26 21
+
+29.67
+
+5.45
+
+21 12 19 26 21 20
+
+33.67
+
+5.80
+
+22 20 13 22 27 21
+
+33.67
+
+5.80
+
+23
+
+14
+
+21
+
+28
+
+18
+
+20.75
+
+35
+
+5.92
+
+24 24 34 37 27 31
+
+36.33
+
+6.03
+
+25
+
+15
+
+21
+
+30
+
+23
+
+22.75
+
+38.33
+
+6.19
+
+26
+
+26
+
+24
+
+28
+
+38
+
+29.5
+
+38.67
+
+6.22
+
+27 18 28 18 30 24 41 6.40
+
+28
+
+15
+
+29
+
+25
+
+28
+
+24.75
+
+41
+
+6.40
+
+29
+
+34
+
+35
+
+23
+
+39
+
+33.25
+
+47
+
+6.86
+
+30
+
+38
+
+54
+
+41
+
+42
+
+44.25
+
+49.67
+
+7.05
+
+31
+
+43
+
+31
+
+31
+
+44
+
+37.75
+
+52.33
+
+7.23
+
+32
+
+18
+
+22
+
+35
+
+24
+
+25.25
+
+53
+
+7.28
+
+33 36 31 23 20 28
+
+53.67
+
+7.33
+
+34
+
+32
+
+41
+
+30
+
+46
+
+37.75
+
+57
+
+7.55
+
+35
+
+36
+
+32
+
+31
+
+48
+
+37.25
+
+61
+
+7.81
+
+36 12 30 15 17 19 63 7.94
+
+37 40 25 29 42 34
+
+68.67
+
+8.29
+
+38
+
+15
+
+15
+
+26
+
+32
+
+225
+
+71.33
+
+8.45
+
+39
+
+19
+
+24
+
+19
+
+37
+
+25.25
+
+72.33
+
+8.51
+
+40
+
+43
+
+30
+
+22
+
+26
+
+30.75
+
+83
+
+9.11
+
+41
+
+23
+
+42
+
+42
+
+29
+
+34.5
+
+91.33
+
+9.58
+
+42
+
+28
+
+13
+
+36
+
+20
+
+24.75
+
+99
+
+9.95
+
+43
+
+17
+
+40
+
+23
+
+35
+
+29.25
+
+112.33
+
+10.60
+
+44
+
+25
+
+26
+
+32
+
+48
+
+33.25
+
+113
+
+10.63
+
+45
+
+17
+
+28
+
+43
+
+23
+
+28.25
+
+123.67
+
+11.12
+
+46
+
+20
+
+26
+
+24
+
+47
+
+29.75
+
+146.33
+
+12.09
+
+47
+
+13
+
+26
+
+29
+
+53
+
+30.75
+
+278.33
+
+16.68
+
+48
+
+17
+
+19
+
+53
+
+23
+
+28.5 284
+
+16.85
+
+49
+
+16
+
+19
+
+57
+
+43
+
+34.25
+
+386.33
+
+19.65
+
+50
+
+14
+
+45
+
+56
+
+20
+
+34.25
+
+400.33
+
+20.01
+
+variances unchanged. Hence the mean intervals appear too large to be in theoretical relation with the variances.
+
+Under the circumstances, we may make the internal variances to be the basis of further analysis and derive esti-
+
+mates of mean intervals so as to be in true theoretical relationship with the variances. For reasons explained above, such derived mean intervals would be much smaller than the recorded mean intervals. The difference between the two provides estimates of the infecund period, namely, the period beginning with a conception and ending with the next onset of ovulation. In Table 2, we give for the 46 families such derived estimates of mean intervals, estimates of the infecund period and the underlying fecundability, namely, the probability that a woman would conceive within one active menstrual cycle or say the corresponding month.
+The most striking feature of Table 2 is the great variation in fecundabilities of different families. This was suggested by Louis Henry in the first of his two conclusions, namely, that some couples were more likely than others to bear children within short intervals. The
+
+183
+evidence of the same in the form of estimates of fecundabilities of different families appears more direct. It will be seen that the fecundabilities range from above 0,4 to below 0.08 so that the highest fecundabilities are more than five times as large as the lowest fecundabilities.
+The families are also seen to vary in the infecund period following a conception. This period is seen to vary roughly from 15 months to 30 months. It will be noted that the shortest recorded interval between confinements for a family itself provides an estimate of the infecund period. As it is, in a majority of the cases, the estimates of the infecund period based on the internal variances are a little above the shortest recorded intervals. However, the difference between the two is usually very small and the agreement between the two may be regarded as satisfactory. This agreement would improve if two minor computa-
+
+Downloaded by [University of Michigan] at 13:25 08 December 2015
+
+TABLE 2
+
+Family No.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+
+REDUCED MEAN INTERVALS, INFECUND PERIODS, AND FECUNDABILITIES
+
+Reduced
+
+Infecund
+
+Mean Interval Period
+
+(months) (months)
+
+1.30 16.70 1.30 30.70 1.93 16.82 2.00 34.50 2.13 17.37 2.13 18.37 2.19 23.56 2.19 28.56 2.65 13.35 2.85 24.40 2.95 17.30 3.27 19.23 3.57 16.18 4.04 28.71
+4.07 22.43 4.18 20.57 4.18 30.57 4.72 16.28 4.91 17.34
+4.97 16.03 5.32 14.68 5.32 15.68 5.44 15.31
+
+Fecunda-
+bility
+P
+.4343 .4343 .3409 .3333 .3194
+.3194 .3132 .3132 .2740
+.2595 .2530 .2339 .2187 .1986 .1971 .1930 .1930 .1748 .1693 .1675 .1581 .1581 .1554
+
+Family
+No.
+24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46
+
+Reduced
+
+Infecund
+
+Mean Interval Period
+
+(months) (months)
+
+5.55 5.71 5.74 5.92 5.92 6.37 6.57 6.75 6.80
+6.84 7.07 7.33 7.45 7.80 7.98 8.02 8.62 9.07 9.46
+10.11 10.14 10.63 11.61
+
+25.45 17.04 23.76 18.08 18.83
+26.88 37.68 31.00 18.45 21.16 30.68 29.92 11.55 26.70
+14.52 17.23 22.13 25.43 15.29 19.14 23.11
+17.62 18.14
+
+Fecunda-
+bility
+P
+.1527 .1490 .1484 .1445 .1445 .1356 .1322 .1290 .1283 .1275 .1240 .1201 .1183 .1136 .1113 .1109 .1039 .0993 .0956 .0900 .0898 0860 .0793
+
+184 Eugenics Quarterly
+
+Downloaded by [University of Michigan] at 13:25 08 December 2015
+
+tional corrections were adopted. One is in the computation of the mean interval. It is obvious from the manner in which the mean interval is derived from the fecundability that the intervals must be in terms of completed menstrual cycles or months and that the mean must be the mean of such intervals. In the given data, the intervals are recorded in complete months. But while computing the mean interval, half a month has been added to the mean of the intervals in complete months. It seems that this addition of half a month is not appropriate from the standpoint of the theoretical derivation of the mean interval from fecundability. For the purpose of the present analysis, therefore, the recorded mean intervals should be reduced by 0.5. That would reduce the estimate of infecund periods by the same amount and hence bring them in closer agreement with the shortest recorded intervals.
+The other correction or rather refinement is in respect of the recording of the intervals. In the given data, the intervals are recorded in terms of complete months. More appropriately they should be recorded in completed menstrual cycles. For obvious reasons this could not be done. But because a menstrual cycle is usually shorter than the month, the intervals would appear numerically somewhat larger if they were recorded in completed menstrual cycles. That would raise the mean interval numerically but would raise the variance still more. For instance, if we take 13 menstrual cycles for every 13 months, the mean would be raised by the factor
+13/12 and the variance would be raised by the square of that factor, namely, (13/12)2. This would slightly reduce the estimates of the infecund period and thus bring them in closer agreement with the shortest recorded intervals.
+
+Louis Henry appropriately describes conception as a random process. As he observes, "There is merely a certain probability, called fecundability, that sexual relations will result in a conception. This conception, in turn, has only a certain probability to result in a live birth, or a confinement proper. The delay in the renewal of ovulation, finally, is subject to random variation." We have so far considered the first of these random processes. In its application to the recorded data, it revealed the existence of certain infecund periods included in the recorded intervals. The third of the random processes suggested above means that these infecund periods may themselves be the result of a random process. Louis Henry has not indicated the nature of this random process. But the following may be postulated.
+We may suppose, for instance, that each month after confinement, there is a certain probability that the ovulation may renew and that the actual delay in its renewal is the result of the operation of this probability. The recorded interval between two confinements may thus be regarded as consisting of three parts: (1) interval between confinement and renewal of ovulation, (2) interval between renewal of ovulation and conception, and (3) interval between conception and confinement, namely, the period of pregnancy. According to the hypothesis being suggested above, the first two of these intervals are the results of the operations of two independent probabilities, respectively, namely a probability of renewal of ovulation each month after confinement and a probability of conception each month after the renewal of ovulation. The third interval may be regarded as more or less constant and not subject to chance operation. Algebraically, we may state this as follows:
+
+Downloaded by [University of Michigan] at 13:25 08 December 2015
+
+If x is the recorded interval,
+x = Xi -f x2 + c
+where xx is the interval between confinement and renewal of ovulation, x% is the interval between renewal of ovulation and conception and c is the pregnancy period. Here xx is to be regarded the result of a probability pt of renewal of ovulation each month after confinement, and x2 is to be regarded the result of a probability p2 of conception each month after the renewal of ovulation. Here c is to be regarded a constant.
+Means and variances of the intervals Xi and x2 are given, respectively, by
+Mean (xa) = (l-/?i) /pa Variance (xt) =
+Mean (x2) = (l-fc) /pz> Variance (x2) =
+The mean of the recorded interval is therefore given by
+Mean (x) = (l-fr)/pi+ (l-p2)/p2 + c
+
+185
+If the two probabilities, namely, of renewal of ovulation and of conception are regarded independent, the variance of the recorded interval x is given by Variance (*) = (1-fr)//>!*+ (1-fr) /p22These formulae for the mean and variance of the recorded intervals lead to the following relationship between the two:
+Variance (x) cannot be less than (mean -- c) (mean -- c -f- 2) /2.
+In Table 3, we give the minimum values of c which satisfy this relation between the variance and mean. It will be seen that these values of c are only a little smaller than the estimates of infecund periods given in Table 2 and that, in particular, the values of c are not close to 9 months which would be the normal pregnancy period. This means that the probability of the renewal of ovulation is zero not only during pregnancy but also for some time after confinement. If we regard 9 months to be the normal period of pregnancy, the difference between the values of c
+
+Family
+No.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+
+C
+16.35 30.35 16.24 33.89 16.71 17.71 22.88 27.88 12.49 23.45 16.32 18.11 14.95 27.30 20.99 19.09 29.09 14.58 15.57 14.23 12.73 13.73 13.32
+
+TABLE 3
+
+P = Pi= p2
+
+Family No.
+
+.5486
+.5486 .4432 .4343 .4178 .4178
+.4104 .4104 .3630
+.3451 .3371
+.3132 .2940 .2683 .2664 .2611 .2611 .2376 .2304 .2281 .2158 .2158
+.2122
+
+24
+25 26 27 28 29
+30 31 32 33 34
+35 36 37 38 39 40 41 42 43 44 45
+46
+
+C
+23.42 14.94 21.65 15.89 16.64 24.50 35.23 28.47 15.91 18.59 28.03 27.16 8.73 23.74 11.51 14.18 18.83 21.95 11.64 1553 19.18 13.49 13.61
+
+P = pi= p2
+.2087 .2038 .2030 .1978 .1978 .1861 .1815 .1773 .1763 .1753 .1706 .1654 .1630 .1567 .1540 .1530 .1437 .1374 .1324 .1248 .1245 .1193 .1103
+
+186 Eugenics Quarterly
+
+Downloaded by [University of Michigan] at 13:25 08 December 2015
+
+and 9 months gives us the estimates of this post-partem sterile period.
+As mentioned above, the values of c given in Table 3 are the minimum values. They just satisfy the relation between the variance and the mean. That is to say, for these values of c the variance just equals (mean -- c) X (mean -- c -f- 2) /2. These are also the values of c which make the two probabilities pi and p2, namely, of renewal of ovulation and of conception equal. Such equal values of pi and p2 corresponding to the minimum values of c are also shown in Table 3. The maximum values of c are those shown as infecund period in Table 2. For these values of c, the probability pi of renewal of the ovulation is 1; that is to say, we no more regard the renewal of ovulation, after a certain post-partem sterile period, a chance phenomenon but rather a certainty. Under those conditions, the values of the probabilities p2, namely, of conception, are given by what are shown as fecundabilities in Table 2.
+
+Probably the facts lie somewhere between these two extremes. The postpartem sterile period together with the pregnancy period lies somewhere between the minimum values of c given in Table 3 and the estimates of the infecund periods given in Table 2. The values of probabilities pi of renewal of ovulation lie between the values of p given in Table 3 and the value 1. The values of probabilities p2 of conception lie somewhere between the values of p given in Table 3 and the values of fecundabilities given in Table 2.
+In conclusion, we may note that the striking feature of the data given by Louis Henry is the rather small internal variances of intervals between confinements. These small variances can be explained only on the assumption of a considerable post-partem sterile period during which not only fecundability but even the probability of renewal of ovulation is zero.
+
+

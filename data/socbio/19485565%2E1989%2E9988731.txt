@@ -1,0 +1,1596 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Maternal age, gravidity, and pregnancy spacing effects on spontaneous fetal mortality
+John B. Casterline
+To cite this article: John B. Casterline (1989) Maternal age, gravidity, and pregnancy spacing effects on spontaneous fetal mortality, Social Biology, 36:3-4, 186-212, DOI: 10.1080/19485565.1989.9988731 To link to this article: http://dx.doi.org/10.1080/19485565.1989.9988731
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles
+Citing articles: 3 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:43
+
+Maternal Age, Gravidity, and Pregnancy Spacing Effects on Spontaneous Fetal Mortality
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+John B. Casterline
+Department of Sociology Brown University Providence, Rhode Island
+
+ABSTRACT: Differentials in the probability of pregnancy loss are examined using pregnancy history data from eight WFS surveys in developing countries. Multiple logistic regression equations are estimated. The probability of loss varies substantially over the reproductive career. Both higher-order pregnancies and those conceived at older ages are more likely to terminate in loss. Maternal age differentials are more pronounced for lower-order pregnancies. First and second pregnancies conceived over age thirty suffer especially high levels of loss. Pregnancies conceived relatively soon after the termination of the previous pregnancy are more likely to be lost, as are pregnancies conceived after long intervals. Risk of loss is higher for women previously experiencing loss, and the effect persists beyond the pregnancy following the loss.
+
+Fetal loss is a major source of the discrepancy between the amount of unprotected exposure to risk of conception and levels of human fertility (Henry, 1964). Clinical evidence indicates that approximately 60 per cent of fertilized ova in human females do not result in a live birth. Of fertilized ova that implant in the uterus, approximately 35 per cent do not survive long enough to cause a delayed or missed menstrual period, and thus are ordinarily never recognized (Schlesselman, 1979). Of the pregnancies which can be recognized, roughly 20 to 25 per cent result in spontaneous fetal losses, including stillbirths (Leridon, 1977).
+In fertility analysis, spontaneous pregnancy loss is conventionally regarded as a given, one of a complex of factors determining the maximum level of fertility (Bongaarts andPotter, 1983). The implicit assumption is that rates of fetal loss are roughly constant across
+
+populations. There is, in fact, no firm evidence verifying this assumption (Leridon, 1977; WHO, 1970), and thus the possibility of significant differentials between populations cannot be rejected out-of-hand. Known relationships between the prevalence of venereal disease and levels of sterility, for example, could be in part the consequence of differences in rates of fetal loss, since infections of the reproductive system are thought to increase the risk of loss (WHO, 1970; see evidence from central Africa in Retel-Laurentin, 1973).
+More likely than differences between population groups in levels of fetal loss are inherent differences between women (Leridon, 1977; Naylor, 1974) and differences between pregnancies at different stages of the reproductive career, as indexed by age or gravidity (WHO, 1970). The former may account for some of the unexplained variation between women in reproductive perfor-
+
+186
+
+Vol.36,No. 3-4
+
+Spontaneous FetalMortality
+
+187
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+mances; but, for the time being, it is difficult to envisage development of practicable means of measuring these unobserved levels of risk. Variation over the course of the reproductive career is more readily examined and is the principal focus of this article.
+There is a dispute about the relationship between fetal loss and the principal indices of stage of reproductive career. Previous empirical analyses have, without important exception, found the risk of loss to be greater for pregnancies to older women, and for pregnancies of higher order (Awan, 1975;Kieley et al., 1986; Leridon, 1976; Naylor, 1974; Nortman, 1974;Pebley et al., 1985;Shapiro et al., 1970; Yerushalmy et al., 1956). * These findings do not necessarily imply increasing probability of loss as maternal age and pregnancy order rise. James (1963, 1968, 1974) has pointed out that the observed relationships with maternal age and pregnancy order would appear if pregnancies at advanced ages and higher orders occurred disproportionately to women at higher risk of loss. This finding could occur if loss itself prompted pregnancies at older ages (efforts to achieve target family sizes) and of higher order (shortened pregnancy intervals, due to losses, resulting in a larger number of pregnancies), or if common sets of factors (e.g., socioeconomic status) influenced both the probability of loss and the probability of becoming pregnant at later ages and higher orders. James (1968, 1974) reports analyses which suggest that such artifactual processes are the primary
+
+cause of the observed relationships with age and order, but other empirical research is not consistent with James' argument (Naylor, 1974; Leridon, 1976). Moreover, there is clinical evidence that some of the suspected causes of fetal deaths are positively associated with age and possibly order (James, 1974; Naylor, 1974; WHO, 1970).
+All of the pertinent sets of factors are not easily taken into account. Tests for genuine age and order effects clearly must examine probabilities of loss over the reproductive career, i.e., the woman or pregnancy history must be the unit of analysis. Ordinarily, however, pregnancy history data for contemporary populations are collected from crosssections of reproductive-age women, few of whom have completed their childbearing at the time of the interview. Analysis can be restricted to women at the older reproductive ages. But the data for such women often suffer from omissions of events in the more distant past, which itself will result in an impression of positive age and order effects. A further confounding factor in populations where fertility control is exercised is that pregnancy progression may be contingent on pregnancy outcome (Billewicz, 1973). As noted above, this can lead to a selectivity for high risk of those conceiving at older ages and higher orders. Estimated order effects can also be more subtly distorted if there is a tendency to stop childbearing with a successful outcome. Last pregnancies will then show lower loss rates.
+
+1Some of the same studies provide evidence of higher risk of loss before age twenty and for first pregnancies, but these results are not universal, and the estimated effects of young age andfirstorder are typically rather small.
+
+Finally, adding to these complexities is the practical consideration that most pregnancy loss data either do not distinguish spontaneous and induced losses, or, where they are recorded separately, a significant proportion of induced
+
+188
+
+Casterline
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+losses are likely to be misreported as variation of age and order is far from
+
+spontaneous losses. Because induced perfect. Moreover, although average
+
+abortion is a method of volitional fertil- prior pregnancy intervals are a simple
+
+ity control, often it is positively associ- function of age at first pregnancy, preg-
+
+ated with maternal age and pregnancy nancy order, and age at the pregnancy in
+
+order (Tietze, 1981).
+
+question, there is room for considerable
+
+Pregnancy spacing is a feature of the reproductive career which has received relatively less attention than age and order in the analysis of pregnancy loss. The interval between births is now rec-
+
+variation beyond the second pregnancy in the length of any particular interval. Nevertheless, the empirical associations among age, order, and interval length can be expected to be strong enough so
+
+ognized as an important determinant of that observed effects of any one could infant and child mortality (see Hobcraft represent in part disguised effects of one et al., 1984; Pebley and Millman, 1986). or both of the others.
+
+Previous analyses of pregnancy loss re- In this article, we examine pregnancy
+
+veal that risk is highest for pregnancies history data collected in the World Ferfollowing relatively short and relatively tility Survey (WFS) in eight developing long intervals, with the probability of countries. Our principal objective is to
+
+loss being lowest when the interval ranges between 12 and 23 months (measured from month of termination of the previous pregnancy to month of conception) (Swenson and Harper, 1978; Sha-
+
+consider the relative importance of maternal age, pregnancy order, and pregnancy spacing as determinants of spontaneous fetal loss. There are few, if any, previous studies which have systemati-
+
+piro et al., 1970; Yerushalmy et al., 1956). The increased rate of loss at longer intervals could result from reproductive impairments which affect both the probability of conception and the probability of loss, the existence of unreported (and perhaps unrecognized) losses reflective of a greater propensity
+
+cally considered effects of all three of these determinants. We take account of the associations among the three by fitting multivariate equations; we also analyze disaggregated one-way and two-way tables as a means of monitoring and pursuing further the outcome of the multivariate modelling. Effects of ma-
+
+to spontaneously abort, or the presence ternal education and type of place of res-
+
+of induced losses among spontaneous idence are also estimated for evidence of
+
+losses.
+
+differentials in completeness of report-
+
+Clearly, age, order, and interval length are associated. Higher-order pregnancies must occur at relatively later ages, and almost all first pregnan-
+
+ing of losses and/or in the inclusion of induced losses. The article concludes with an examination of some of the characteristics of pregnancy loss histories.
+
+cies occur before age thirty in develop-
+
+ing countries. Pregnancy spacing can be regarded as a form of age-order interac-
+
+MATERIALS AND METHODS
+
+tion. A simple interaction of the two Retrospective information on preg-
+
+does not entirely determine pregnancy nancy losses was collected in all WFS
+
+spacing, however. The onset of child- surveys in developing countries. The ob-
+
+bearing varies over a range of ten years jective of collecting these data was not
+
+or more in many societies, so that the co- to provide estimates of levels of sponta-
+
+Vol. 36, No. 3-4
+
+Spontaneous Fetal Mortality
+
+189
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+neous and induced loss, as the conventional wisdom was that coverage of these events is inevitably seriously incomplete in retrospective maternity history data. Assessment of the coverage in WFS surveys confirms a significant level of omission. The highest rates of spontaneous loss obtained from nonclinical studies range from 20 to 24 per 100pregnancies after the fourth gestational week (Erhardt, 1963; French and Bierman, 1962; Shapiro et al., 1970). These estimates are obtained by life table methodologies which account for variation in the timing (with respect to gestational duration) of entrance to observation. Crude rates of loss--total losses divided by total observed pregnancies-- from the same studies range from 10 to 15 per 100 pregnancies, and these are the proper standard for assessing retrospective pregnancy history estimates. By this standard, we conclude that 50 to 80 per cent of fetal losses have been detected in WFS surveys (Casterline, 1989).
+For this analysis we select eight countries where the coverage appears relatively complete: Ivory Coast, Tunisia, Syria, Korea, the Philippines, Costa Rica, Mexico, and Guyana. (For details about the design of the eight surveys and the basicfindings,see Central Bureau of Statistics, 1982; Direccion General de Estadistica, 1979; Direccion General de Estadistica y Censos, 1978; National Bureau of Statistics, 1977; National Census and Statistics Office, 1979; Office Nacional du Planing Familial et de la Population, 1982; Statistical Bureau, 1980.) The countries are purposely chosen not only on the basis of the reported level of loss, but also to provide a diversity of societal and demographic settings. In terms of the prevalence of volitional fertility control, at
+
+one end of the spectrum are the Ivory Coast and Syria, which appear to be largely natural fertility populations; at the other end fall Korea and Costa Rica, which show the most controlled fertility regimes among the 41 developing countries surveyed in the WFS.
+In each of the countries, women of reproductive age were asked to provide the date of termination of all pregnancies. (In Syria, Korea, and the Philippines, only ever-married women were interviewed; elsewhere, women of all marital statuses were interviewed.) The format of the maternity history varied among the eight countries (Singh, 1984). Elsewhere we conclude that the format per se did not substantially affect the coverage of pregnancy losses (Casterline, 1988). Under every format, respondents were asked for the calendar month and year of all pregnancy terminations. Failing to obtain the calendar date, the interviewer was instructed to ascertain the number of years since the termination and, as a last resort, the birth interval for pregnancy losses.2
+Early fetal losses (miscarriages, induced abortions) and late fetal losses (stillbirths) are distinguished in all eight countries. We treat miscarriages and stillbirths together as "spontaneous" losses. Stillbirths comprise one-quarter or less of all losses in each country. In two of the countries--Syria and Guyana--miscarriages and induced losses were not reported separately. The levels and differentials in these two countries strongly suggest the presence of a substantial proportion of induced losses (Casterline, 1988). We include
+2In the WFS Standard Recode files we utilize, missing calendar dates have been imputed by a random procedure. It is likely that imputation was required more often for losses than live births (Casterline, 1988).
+
+190
+
+Casterline
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+the two countries in this analysis as illustration of the impact on the estimates of an almost certain mixing of spontaneous and induced losses.
+Analysis of pregnancy loss requires some departures from the conventions of analysis of fertility survey data. First, to place pregnancy losses and live births on an equal footing, we date in terms of month of conception (assuming a fixed nine-month gestation period for all live births) and count multiple births as one pregnancy. Second, to avoid truncation bias, pregnancies conceived in the nine months preceding the survey date are excluded from consideration. The sample consists of conceptions in the period 10 through 128 months preceding the survey date. Estimates of rates of lossby historical period suggest relatively less omission of losses during this reference period (Casterline, 1988).
+In countries where spontaneous and induced losses are distinguished (Syria and Guyana are the exception), pregnancy outcome is a three-category variable: live birth, spontaneous loss, induced loss. Multiple regression analysis is considerably simplified when the dependent variable is a dichotomy. In the Ivory Coast, the Philippines, Costa Rica, and Mexico, reported induced losses comprise 1 per cent or less of pregnancies and thus are of little concern. However, in countries where induced losses constitute a higher proportion of all outcomes (Tunisia, 3.5 per cent of losses; and Korea, 25.4 per cent of losses) their treatment in the analysis of spontaneous loss will affect the results. As there is some evidence that reported induced losses occur on average at earlier gestational durations than do spontaneous losses (Casterline, 1988), we exclude induced losses from the sample. This is far from an optimal
+
+solution to the analytic problems introduced by the multiple loss outcomes.
+We fit multiple logistic regression equations, with pregnancy outcome as the response. Omitting subscripts, the statistical model is
+LnE(P/(l-P)) = Xb
+where Ln denotes the natural logarithm transformation, E is the mathematical expectation operator, P is the probability of pregnancy loss, Xis a vector of explanatory variables, and b is the vector of parameters to be estimated. The data are assumed to be binomially distributed. The statistical significance of particular terms is judged through a chisquare test on the difference in goodness-of-fit between equations including and excluding the term in question. All of the explanatory variables are entered into the equations as categorical variables. To identity the equations, the parameter for the first category of each variable is omitted. The coefficients for the other categories thus represent differences (in Ln (P/l-P)) (i.e., in the "logit of fetal death") between the category in question and the omitted category.
+RESULTS
+We first examine unadjusted levelsof spontaneous loss by categories of maternal age, pregnancy order, pregnancy interval, maternal schooling, and type of place of residence (Table 1). The percentage distributions of all pregnancies according to these variables are presented in Table 2. The overall level of loss ranges from 7.1 per cent in Korea to 17.4 per cent in Guyana. The relatively low level in Korea is probably explained by the high level of induced abortion (20.6 per cent of all pregnancies con-
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE 1
+PERCENTAGE OF PREGNANCIES'1 TERMINATING IN SPONTANEOUS6 LOSS, BY DEMOGRAPHIC CHARACTERISTICS: PREGNANCIES CONCEIVED IN THE TEN YEARS PRECEDING THE SURVEY.
+
+Variable and Category
+
+Mean Maternal age at conception
+<20years 20-29 30-39 40+
+
+Pregnancy order 1-2 3-6 7-9 10+
+
+'.
+
+Ivory Coast
+96
+
+Tunisia
+Z7
+
+Syriac
+Ho
+
+Korea
+~\
+
+Philippines
+877
+
+Costa Rica
+V2J>
+
+Mexico
+9^4
+
+Guyanac
+1X4
+
+9.3 6.9 8.8 8.0 5.9 8.2 7.2 11.9 8.3 6.1 9.0 6.5 6.9 11.4 8.2 15.4 11.5 9.4 13.7 7.9 10.8 16.0 12.1 24.9 17.2 14.0 24.4 12.4 21.1 27.3 18.8 41.2
+
+9.0 7.4 7.8 6.2 7.0 9.2 7.0 12.2 8.7 5.8 8.8 7.2 8.0 12.1 9.4 16.4 11.9 9.1 14.5 8.3 9.7 14.8 10.5 21.9 15.0 18.8 22.7 19.9 17.0 21.0 14.5 31.3
+
+Interval since previous pregnancy'
+
+< 9 months
+
+13.5 11.8 15.1 14.5 10.9 17.1 12.6 21.7
+
+9-15 10.4 9.2 12.8 7.0 8.8 11.2 8.7 16.6
+
+16-23
+
+9.8 4.9 9.1 5.1 7.4 11.9 8.3 13.9
+
+24-35
+
+6.8 3.7 7.3 4.3 7.9 11.2 8.1 16.4
+
+36+ 9.6 4.9 7.4 7.6 10.5 11.9 10.8 22.6
+
+First pregnancy
+
+9.2 8.1 7.8 6.9 7.1 9.3 6.6 11.0
+
+Maternal schooling"
+
+Low 9.7 7.6 9.7 5.1 8.7 13.3 8.1 21.6
+
+Mid 9.2 7.8 14.1 6.3 8.3 12.5 9.6 18.1
+
+High
+
+8.6 14.1 10.1
+
+9.5 11.6 11.2 16.6
+
+Place of residence Rural Urban Metropolitan
+
+8.8 6.2 7.9 12.0 8.3 12.5 10.0 11.4 18.4
+
+6.1 8.1 11.8 7.5 16.1 7.6 9.5 15.6 10.1 16.1 8.2 11.3 12.6 12.1 21.6
+
+"Pregnancies conceived in the nine months preceding the survey and induced abortions are excluded. Only the first birth of multiple births is included. All pregnancies are dated from the month of conception, with a gestation period of nine months assumed for all live births.
+^Miscarriage or stillbirth.
+Induced losses not distinguished from miscarriages. interval in months from termination of the previous pregnancy to conception of the pregnancy. 'Low, 0 yrs.; mid, 1-6 yrs.; high, 7+ yrs.; Phillipines, Costa Rica, and Guyana, low, 0-3 yrs., and mid, 4-6 yrs. Ivory Coast, mid, 1- 6 and 7 + yrs. combined.
+
+£. W 2<
+£
+w» g §· | o g 3 £ 5 o1 | J:
+^ \O **
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE2
+PERCENTAGE DISTRIBUTION OF PREGNANCIES, BY DEMOGRAPHIC AND SOCIOECONOMIC VARIABLES: PREGNANCIES CONCEIVED IN THE TEN YEARS PRECEDING THE SURVEY"
+
+Variable and Category
+Maternal age at conception <20years 20-29 30-39 40+
+
+Ivory Coast
+
+Tunisia
+
+Syria
+
+Costa Korea Philippines Rica
+
+Mexico Guyana
+
+29.0 10.3 18.9 (3.9) 11.5 16.7 18.8 22.9
+
+45.3 51.5 47.2 65.2 51.1 52.8 50.9 51.6
+
+22.0 33.4 29.4 28.7 33.1 27.0 27.1 23.1
+
+(3.7)" (4.8)
+
+4.5 (2.2)
+
+4.3 (3.4) (3.2) (2.4)
+
+Pregnancy order
+1-2 3-6 7-9 10+
+
+37.0 30.9 28.2 39.9 31.1 36.3 31.0 33.9 43.0 45.8 42.5 49.5 43.7 36.1 40.8 40.2 15.6 17.4 18.7 9.1 17.0 13.3 17.5 15.3 4.5 5.9 10.5 (1.5) 8.2 14.2 10.8 10.6
+
+Interval since previous pregnancy
+
+<9months
+
+11.6 23.1 27.6 13.7 19.8 27.8 25.5 32.2
+
+9-15 18.0 18.9 21.8 17.2 22.0 18.8 22.2 20.2
+
+16-23
+
+21.9 17.7 18.0 23.4 20.3 12.7 16.8 13.1
+
+24-35
+
+18.9 13.0 10.7 16.9 12.4 9.3 10.3
+
+7.9
+
+36+
+
+9.5 11.0
+
+7.3 8.8
+
+9.6 12.1
+
+8.8
+
+8.4
+
+First pregnancy
+
+20.1 16.3 14.6 20.6 15.9 19.2 16.4 18.2
+
+Maternal schooling Low Mid High
+
+83.5 79.6 69.4 19.5 18.8 40.1 23.6
+
+6.9
+
+16.5 15.2 20.8 53.6 52.4 41.1 64.3 26.3
+
+(5.2) 9.7 29.9 28.8 18.8 12.1 66.8
+
+Place of residence Metropolitan Rural Urban
+
+16.8 15.9 15.0 26.8 10.2 23.9 24.8 23.5
+
+20.2 29.6 34.9 29.4 17.8 17.4 30.0
+
+8.0
+
+62.9 54.6 50.1 43.7 72.0 58.7 45.1 68.5
+
+Number of pregnancies'
+
+11,466 8,533 11,165 9,404 22,170 5,756 14,464 7,608
+
+"Pregnancies conceived in the nine months preceding the survey and induced abortions are excluded. Only the first birth of multiple births is counted.
+^Parentheses denote categories containing less than 500 pregnancies. ^Sampling weights applied in the Philippines.
+
+B'
+
+Vol. 36, No. 3-4
+
+Spontaneous Fetal Mortality
+
+193
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ceived in this period, according to respondents' reports), as induced abortions are selective of those pregnancies more likely to be aborted spontaneously (higher order, older maternal age). The relatively high level of overall loss in Guyana is probably the consequence of the presence of induced losses, which are not distinguished from spontaneous losses in the data from this country.
+The differentials by demographic characteristics are in conformity with previous research. The risk of loss rises with age and pregnancy order. Pregnancies conceived before age twenty are at slightly greater risk in the Ivory Coast, Tunisia, and Korea; first pregnancies are at slightly greater risk in the Ivory Coast, Kenya, Tunisia, Korea, the Philippines, and Costa Rica. But the additional rates of loss for these pregnancies is minimal relative to the increased rates at older ages and higher orders. The unadjusted percentage by length of interval since the previous pregnancy show a U-shaped pattern, with pregnancies conceived 16 to 35 months after termination of the previous pregnancy least likely to end in a fetal death. In the Philippines and Guyana, the risk of loss for pregnancies conceived after 35 months is roughly the same as the risk for those conceived after an interval of nine months or less, indicative that the causes of higher loss following longer intervals must be rather powerful. In several countries--Tunisia, Costa Rica, Mexico--long intervals are associated with little additional risk of loss.3
+3Note in Table 2 that long intervals are slightly more common in these three countries. We are reluctant to place much weight on subtle differences between countries in the patterns by pregnancy interval, since the proportion of termination dates imputed also varies between countries (Casterline, 1988).
+
+The differentials by maternal education are rather small in the Ivory Coast, Tunisia, the Philippines, and Costa Rica. In Syria, Korea, and Mexico, better-educated women report a higher percentage lost, whereas in Guyana an inverse pattern emerges. The majority of the Guyanese sample, however, falls into the highest educational category. Excepting Syria, Korea, and Mexico, then, there is no evidence of markedly better reporting, or of higher proportions of disguised induced losses, among the better educated. Differentials by type of place of residence are somewhat sharper and more uniform, with rural women in all eight countries reporting the lowest rates of loss. As completeness of reporting would seem more likely to be associated with maternal education than place of residence, we interpret the latter differentials as reflective of a higher incidence of induced loss (reported as spontaneous) in urban areas, where abortion services are likely to be more available.
+ADDITIVE MODELS
+We combine all five of the explanatory variables in Table 1 in an additive equation. Statistical tests of the significance of each variable are summarized in Table 3. Maternal schooling emerges as the weakest predictor of the five, showing significant effects only in Syria, Korea, the Philippines, and Mexico. All other variables test as significant, with the exception of pregnancy order in the Ivory Coast and residence in Korea. The results demonstrate that it is reasonable to speak of independent effects of factors such as maternal age and pregnancy order.
+In order to consider the nature of the net effects of each variable, we turn to
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE3 *
+P-VALUES FOR CHI-SQUARED TESTS OF SIGNIFICANCE OF ADDITIVE EFFECTS OF EXPLANATORY VARIABLES IN EQUATIONS FOR SPONTANEOUS LOSS"
+
+Variable
+Maternal age Pregnancy order Pregnancy interval Maternal schooling Place of residence
+
+Ivory Coast
+0.000 0.579 0.000 0.613 0.000
+
+Tunisia
+O000 0.000 0.000 0.763 0.000
+
+Syria
+O000 0.000 0.000 0.000 0.000
+
+Korea
+O020 0.000 0.000 0.000 0.705
+
+Philippines
+O000 0.000 0.000 0.041 0.000
+
+Costa Rica
+blJOO 0.001 0.000 0.247 0.000
+
+Mexico
+o!oOO 0.005 0.000 0.000 0.000
+
+Guyana
+0.000 0.000 0.000 0.633 0.000
+
+"Significance tests are based on a comparison of the goodness of fit of equations including and excluding the variable in question. All five variables are tested against equations consisting of the other four variables. For description of the statistical model, see text.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE 4
+LOGISTIC REGRESSION COEFFICIENTS" FOR EQUATIONS PREDICTING SPONTANEOUS LOSS6,
+PREGNANCIES CONCEIVED IN THE TEN YEARS PRECEDING THE SURVEY*
+
+Variable and Category
+
+Ivory Coast
+
+Intercept
+
+-1.84
+
+Maternal age at conception
+<20years 30-39 40+
+
+0.05 0.35 0.82
+
+Pregnancy order 1-27-9 10+
+
+0.06 0.13 0.18
+
+Interval since previous pregnancy''
+
+9-15 months
+
+-0.31
+
+16-23
+
+-0.37
+
+24-35
+
+-0.78
+
+36+ -0.47
+
+First pregnancy
+
+-0.36
+
+Maternal schooling' Mid High
+
+-0.05
+
+Place of residence Urban Metropolitan
+
+0.40 0.21
+
+Tunisia
+-2.03
+-0.11 0.61 0.91
+0.11 0.17 0.76
+-0.27 -0.99 -1.34 -1.16 -0.12
+0.05 0.13
+0.22 0.61
+
+Syria
+-1.90
+0.12 0.24 0.93
+-0.28 0.51 0.86
+-0.22 -0.62 -0.94 -1.09 -0.29
+0.40 0.52
+0.40 0.78
+
+Korea Philippines
+-2.44 -2.41
+
+0.32 -0.18 0.28 0v,.4TM8 0.63 1.20
+
+-0.48 0.14 0.97
+
+-0.08 -0.04
+0.37
+
+-0.70 -1.07 -1.26
+-0.74 -0.45
+
+-0.23 -0.45 -0.46 -0.30 -0.14
+
+0.37 0.09 0.86 0.19
+
+0.06 0.15 0.09 0.38
+
+T h e coefficients represent contrasts with omitted categories, which are shown in Table 1. 'Miscarriage or stillbirth. cSee Table 1, Footnote a. ''See Table 1, Footnote d.
+'See Table 1, Footnote «.
+
+Costa Rica
+-2.25
+-0.27 0,,..2,,4 0.86
+-0.31 0.16 0.44
+-0.52 -0.51 -0.60 -0.63 -0.25
+0.16 0.09
+0.47 0.23
+
+Mexico
+-2.27
+0.05 0,,.4-,,4 0.97
+-0.30 -0.01
+0.14
+-0.40 -0.48 -0.57 -0.38 -0.41
+0.24 0.43
+0.28 0.49
+
+Guyana
+-1.31
+-0.12 0».3^4-. 1.08
+-0.18 0.23 0.54
+-0.40 -0A.6' "7 -0.50 -0.14 -0.42
+-0.09 -0.12
+-0.01 0.45
+
+i
+&
+Z ^
+^§
+2
+e
+>-»
+vo
+
+196
+
+Casterline
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+the parameter estimates presented in pregnancies (Table 5). Since the median
+
+Table 4. Recall that each coefficient rep- typically falls around fifteen months (see
+
+resents a difference in the logit of the Table 2), previous intervals of length 9
+
+probability of fetal loss between the cat- through 23 months are most relevant.
+
+egory in question and the omitted cate- When the interval length is taken as 9
+
+gory. On balance, the age effects seem through 15 months, the risk of loss is
+
+somewhat sharper than the order ef- roughly the same for first and second
+
+fects; only in Syria might the opposite pregnancies in most of the countries. At
+
+apply. Previous studies also suggest that intervals between 16 and 23 months,
+
+maternal age is more dominant (see and 24 through 35 months as well, first
+
+Yerushalmy et al., 1956; Nortman, pregnancies are distinctly disadvan-
+
+1974; Leridon, 1977.) In all countries, taged relative to second pregnancies,
+
+pregnancies conceived at ages thirty and except in the Ivory Coast and Mexico.
+
+over suffer greater loss, especially those The probability of loss relative to pregconceived at age forty and over.4 Simi- nancies of order three through six var-
+
+larly, pregnancies of order ten and ies. Only in Tunisia do first pregnancies
+
+above suffer disproportionate rates of suffer much higher loss when the inter-
+
+loss relative to orders three through six, val is set at 16 to 23 months, for exam-
+
+with the exception of the Ivory Coast ple. Thus, conclusions about the relative
+
+and Mexico. The absence of differen- risk of first pregnancies depend on as-
+
+tials by pregnancy order in the Ivory sumptions about the length of the inter-
+
+Coast is interesting in view of the low val preceding higher order pregnancies.
+
+level of fertility control. In general, the First pregnancies are uniformly disad-
+
+country differences do not suggest an at- vantaged relative to second pregnancies
+
+tenuation of order effects due to selec- only when the previous pregnancy inter-
+
+tivity of last pregnancies for successful val falls between 16 and 35 months, and
+
+outcomes, a danger alluded to earlier. this circumstance typifies a minority of
+
+On the contrary, if anything, order ef- pregnancies. Compared to the majority
+
+fects are weakest where fertility is less of pregnancies, which follow the preced-
+
+controlled, as in the Ivory Coast and ing pregnancy by less than 16 months,
+
+Mexico.
+
+first pregnancies show no higher risk of
+
+An important question not directly answered by Table 4 concerns the effect of first pregnancies. First pregnancies are represented in the equation by two coefficients, that for pregnancies of order one to two and that for the first pregnancy category of the previous interval
+
+terminating in a fetal loss. (As we shall demonstrate below, this conclusion does not apply to first pregnancies occurring at older maternal ages.) This finding is consistent with the bulk of previous evidence of weak first pregnancy effects (Leridon, 1977).5
+
+variable. A first pregnancy effect can be
+
+calculated from the two coefficients, but
+
+comparison with higher orders requires an assumption about the length of the interval preceding the higher-order
+4These constitute 5 per cent or less of the sample pregnancies in every country, however. See Table 2.
+
+5This summary statement applies especially to evidence from developed countries (Shapiro et al., 1970; Yerushalmy et al., 1956), including Naylor's (1974) study which incorporated an additive control for maternal age. Two studies from South Asia, on the other hand, show distinctly higher rates of loss for first pregnancies (Awan, 1975; Potter et al., 1965). Potter et al. suggest that young
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE5
+FIRST AND SECOND PREGNANCY EFFECTS, EXPRESSED AS CONTRASTS WITH EFFECT FOR PREGNANCIES 3-6", BY LENGTH OF INTERVAL SINCE PREVIOUS PREGNANCY
+
+Lenth of Interval and Pregnancy
+< 9 months First pregnancy Second pregnancy
+9-15 months First pregnancy Second pregnancy
+16-23 months First pregnancy Second pregnancy
+24-35 months First pregnancy Second pregnancy
+
+Ivory Coast
+
+Tunisia
+
+Syria
+
+Korea Philippines
+
+-0.30 0.06
+0.01 0.06
+0.07 0.06
+
+-0.01 0.11
+0.26 0.11
+0.98 0.11
+
+-0.57 -0.93 -0.28 -0.48
+-
+-0.35 -0.23 -0.28 -0.48
+0.05 0.14 -0.28 -0.48
+
+-0.22 -0.08
+0.01 -0.08
+0.23 -0.08
+
+0.48 1.33 0.37 0.33 0.24 0.06 0.11 -0.28 -0.48 -0.08
+
+SOURCE: Coefficients in Table 3. "Effects for pregnancies with maternal age 20-29, no maternal schooling, and rural residence.
+
+Costa Rica
+-0.56 -0.31
+-0.04 -0.31
+-0.05 -0.31
+0.04 -0.31
+
+Mexico
+-0.71 -0.30
+-0.31 -0.30
+-0.23 -0.30
+-0.14 -0.30
+
+Guyana
+-0.60 -0.18
+-0.20 -0.18
+0.07 -0.18
+-0.10 -0.18
+
+I
+r/j *O
+!j § 2 K 3 B; 5 §. % <?
+
+198
+
+Casterline
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+The patterns of adjusted effects for intervals since the previous pregnancy largely resemble the unadjusted percentages, so we do not discuss these further. The same comment applies to the differentials by maternal schooling and place of residence. We note again that the educational differentials test is statistically significant in four of the eight countries, whereas place of residence is significant everywhere except Korea, further indication of the stronger association of pregnancy loss with residence than with education of the mother.
+We noted earlier that age and order differentials need not imply increasing risk of loss as maternal age and pregnancy order increase. The potential sources of spurious patterns are complex and not easily controlled. However, several types of simpler tables provide a more demanding test of the existence of the relationships apparent in Tables 3 and 4. In Table 6, we consider the differentials by maternal age, restricting attention to specific pregnancy orders. This serves as a control for the possibility that experience at older ages is distorted by the continued childbearing of women more likely to experience loss. The maternal age patterns evident here largely resemble those in Table 4, except where small sample sizes lead to unstable results. The incidence of loss of pregnancies conceived over age 40 is 1.5 to 2 times greater than the loss at ages 30-34 in Korea, the Philippines, Mexico, and Guyana. In other countries the positive age effect is less sharp, but nevertheless distinct, with the
+
+exception of the Ivory Coast. Somewhat higher rates of loss below age thirty in most countries are probably the consequence of the short pregnancy spacing implicit in this age-order interaction.
+We pursue both maternal age and, in particular, pregnancy order effects in Table 7. A tendency for higher-order pregnancies and pregnancies at older maternal ages to be contributed disproportionately by women more likely to experience loss is a plausible explanation of the estimated order and age effects (James, 1974). A more severe test is provided by examination of differentials by order within pregnancy histories. This can be approximated by considering probabilities of loss by order for women whose reproduction is largely complete, namely women age 40-44 at the survey, classified according to their gravidity at the survey. Because age is not controlled here, age effects will be expressed in the order effects. Thus, this analysis examines more generally the pattern of loss over reproductive careers. It is clear from Table 7 that the risk of loss rises with pregnancy order among women of the same (completed) gravidity (first two panels). Indeed, comparisons with the overall pattern of loss (i.e., without stratification by gravidity) shown in the final panel indicate that the overall pattern is fairly well reproduced in the histories of women of specific gravidity.6 Consistent with the earlier analysis,firstpregnancies tend to show a higher risk of fetal death. The effect is not uniformly apparent and is rather small in magnitude in most instances. Note that memory loss effects operate against reported higher loss of
+
+maternal age explains the higher loss of first pregnancies in the Punjab. The first pregnancy effects considered here are adjusted for maternal effects, which in any case appear to be minor before age thirty.
+
+6The flat order-pattern in the Ivory Coast remains an anomaly.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE6
+PERCENTAGE OF PREGNANCIES" TERMINATING IN SPONTANEOUSLOSS6, PREGNANCY ORDERS 6 - 9 , BY MATERNAL A G E AT CONCEPTION: PREGNANCIESCONCEIVEDIN THE TEN YEARS PRECEDING THE SURVEY
+
+Pregnancy Order and Maternal Age
+Six-seven pregnancies Per cent loss, 30-34 Ratio to loss at 30-34 <30 30-34
+35--39
+40+
+Eight-nine pregnancies Per cent loss, 30-34
+Ratio to loss at 30-34 <30 30-34 35-39 40+
+
+Ivory Coast
+
+Tunisia
+
+Syria
+
+7.9 8.0
+
+1.23 1.00
+1.01
+(0.84)c
+
+0.74 1.00
+1.08
+(0.79)
+
+10.8
+1.09 1.00 i1..1i44 (0.88)
+
+15.8 9.1 13.9
+
+0.55 1.00 0.80 1.37
+
+1.06 1.00 1.15 1.20
+
+1.41 1.00 1.06 1.34
+
+"See Table 1, Footnotea. *See Table 1, Footnote b. cParentheses denote cells containing less than 100pregnancies.
+''Ellipses denote cells containing less than 20 pregnancies.
+
+Costa Korea Philippines Rica
+
+5.8
+2.11 1.00 i1..o81i (2.01)
+
+7.9 17.2
+
+1.01 1.00 1.17/ 22.3.37 7
+
+0.78 1.00 (0v.9y3j;) . . .d"
+
+5.1 8.1 12.4
+
+1.25 1.14 1.00 1.00 1.00 1.48 1.44 (0.79) (0.71) 1.72 (2.26)
+
+Mexico
+9.4
+0.98 1.00 1.1111 (1.62)
+9.6
+1.11 1.00 1.13 (1.78)
+
+Guyana
+17.1
+1.21 1.00 i1.3j 4t (1.95)
+19.6
+1.00 1.00 1.40 (1.75)
+
+i
+1
+*
+c/3 g £
+M
+ft g jjf e ^
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE7
+PERCENTAGE OF PREGNANCIES" TERMINATING IN SPONTANEOUS LOSS*, BY PREGNANCY ORDER AND BY GRAVIDITY AT SURVEY: WOMEN AGED 40-44
+
+Gravidity and Pregnancy Order
+Eight-nine pregnancies Per cent loss, orders 2-3 Ratio to loss at orders 2-3 1 2-3 4-5 6-7 8-9 Number respondents
+
+Ivory Coast
+4.9
+1.00 1.00 0.64 0.72 2.83 1,225
+
+Ten or more pregnancies Per cent loss, orders 2-3 Ratio to loss at orders 2-3 1
+2-3 4-5 6-7 8-9 10+ Number respondents
+
+9.3
+1.14 1.00 0.57 1.00 1.04 1.11 1,246
+
+All women Per cent loss, orders 2-3 Ratio to loss at orders 2-3 1 2-3
+4-5 6-7 8-9 10+ Number respondents
+
+7.7
+0.98 1.00 0.83 0.83 1.52 1.35 3,453
+
+"See Table 1, Footnote a. 'See Table 1, Footnote b. Tarentheses denote less than 100 pregnancies.
+
+Tunisia
+5.0
+0.82 1.00 1.00 1.84 1.91 1,441
+2.9
+2.72 1.00 2.85 2.85 4.32 6.04 1,556
+4.2
+1.33 1.00 1.37 1.97 2.65 4.17 4,747
+
+Syria
+7.2
+1.30 1.00 1.10 1.50 2.06 1,167
+6.2
+1.28 1.00 1.36 2.08 2.68 3.07 2,361
+6.0
+1.15 1.00 1.34 1.95 2.67 3.16 4,434
+
+Costa Korea Philippines Rica
+
+2.6
+1.54 1.00 1.66 2.03 2.48 1,221
+
+4.3
+0.77 1.00 1.42 2.04 2.19 2,584
+
+8.6
+(0.40)< 1.00 1.10 1.50 (1.48)
+492
+
+4.9
+(1.08) 1.00 1.80 1.53 (2.20) (3.83) 594
+
+5.9
+1.42 1.00 1.24 1.08 1.62 2.31 3,980
+
+10.4
+0.79 1.00 1.12 1.33 1.01 1.83 1,656
+
+3.4
+1.10 1.00 1.15 1.93 2.44 (5.99) 4,490
+
+6.0
+0.84 1.00 1.22 1.27 1.59 2.29 9,677
+
+8.6
+0.75 1.00 1.26 1.56 1.28 2.20 2,836
+
+Mexico Guyana
+
+6.4
+1.57 1.00 1.43 1.16 1.71 1,271
+
+4.6
+(1.14) 1.00 2.57 2.85 4.62 654
+
+8.7
+1.17 1.00 1.25 1.29 1.27 1.48 3,027
+
+8.2
+1.43 1.00 1.81 1.57 2.29 3.23 1,560
+
+7.3
+1.04 1.00 1.45 1.39 1.52 1.77 5,677
+
+9.9
+0.94 1.00 1.67 1.39 1.98 2.68 3,004
+
+n
+I
+I
+8
+E
+fcd
+I5 '
+
+Vol. 36, No.
+
+Spontaneous FetalMortality
+
+201
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+first pregnancies and in favor of a monotonic rise in rates of loss with order.
+With respect to the patterns of lossby length of the preceding pregnancy interval, we asked two further questions. First, to what extent is the length of pregnancy interval a feature of women or of births? If pregnancy intervals vary little over a woman's reproductive career, then perhaps pregnancy interval effects proxy for other characteristics of women which are the cause of higher incidence of loss. On the other hand, substantial within-woman variability in pregnancy intervals strengthens the case for assigning responsibility to effects of interval length per se. We have again analyzed careers of women advanced in their reproductive career as of the survey date (women aged 35-39 and 4044). A simple decomposition of variation in pregnancy intervals (defined as months between termination and conception) reveals that 75per cent or more of the total variation occurs among intervals within careers of particular women. Further multivariate analysis suggests that the absolute length of the previous pregnancy interval is a stronger correlate of the probability of loss than the mean interval length or the deviation of the previous interval from the mean. The data strongly suggest that the crucial variable is the absolute length of the interval, which itself tends to vary over a woman's career.
+A second question is whether the previous interval effect applies equally well when the previous pregnancy survives through the gestation of the pregnancy in question and when the previouspregnancy dies before conception. If the mechanism of the effect is depletion of maternal resources, one might expect less strain on the mother when the previous pregnancy does not survive
+
+to conception. But recovery of certain maternal resources may require fixed periods of time regardless of fetal and infant survival. The survival status of the previous pregnancy is also an element in an artifactual explanation of the interval effect, which goes as follows. The probability of loss is greatly elevated following a loss (Leridon, 1976;see also analysis below). Moreover, the interval to the next conception will on average be shorter following a loss, due to a briefer anovulatory period (especially in populations practicing extended breastfeeding). These two factors together contribute to an observed negative association between interval length and the risk of loss.
+To consider this possibility, we reestimated the equations of Table 4 separately for pregnancies classified by the survival status of the previous pregnancy (Table 8). Included among pregnancies not surviving to the next conception are fetal losses. Comparison of the coefficients of Panel A with the corresponding coefficients in Table 4 reveals no consistent differences. The estimated interval effect is essentially unaffected by the elimination of pregnancies preceded by a fetal loss or infant death. Thus, we reject the artifactual explanation proposed above. Unfortunately, sample size does not permit sound comparison of Panels A and B, which would indicate whether survival of a previous live birth through the pregnancy accentuates the interval effect, as a consequence of the physical strain of breastfeeding, for example (see evidence in Swenson and Harper, 1978).
+INTERACTIVE EFFECTS
+All the effects considered thus far are derived from equations of additive ef-
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE8
+LOGISTIC REGRESSION COEFFICIENTS'2, FOR EQUATIONS PREDICTING SPONTANEOUS LOSS* FOR CATEGORIES OF DURATION SINCE PREVIOUS PREGNANCY*, BY SURVIVAL STATUS OF PREVIOUS PREGANCY: PREGNANCIES CONCEIVED IN TEN YEARS PRECEDING SURVEY^
+
+Interval Since Previous Pregnancy
+
+Ivory Coast
+
+Tunisia
+
+Previous pregnancy survived to survey date
+
+9-15 months
+
+-0.31 -0.40
+
+15-23 months
+
+-0.20 -1.01
+
+24-35
+
+-0.57 -1.29
+
+36+ -0.21' -1.0&
+
+No. of pregnancies
+
+6,519 5,722
+
+Syria
+-0.11 -0.45 -0.82 -0.94/ 7,722
+
+Costa Korea Philippines Rica
+
+-1.06
+-1.30 -1.58 -1.07/ 5,739
+
+-0.25 -0.50 -0.42
+-0.2fy 15,410
+
+-0.34 -0.37 -0.26
+-0.51 3,706
+
+Mexico Guyana
+
+-0.31 -0.41 -0.43
+-0.25/ 11,270
+
+-0.37 -0.29 -0.29
+0.12/ 4,815
+
+Previous pregnancy died before conception*
+
+9-15 months
+
+-0.01 0.10 0.08 -0.18
+
+16-23
+
+-0.12 (-0.60)" (-0.48 -0.68
+
+24-35
+
+-0.56 (-1.36) (-0.69) (-0.37)
+
+36+ -0.41 (-1.04y (-1.00)' (-0.09)
+
+No. of pregnancies
+
+2,208 1,127 1,534 1,610
+
+0.11 0.11
+-0.48 -0.24 2,604
+
+(-0.62) -0.17 -0.06 (-0.56) (0.16) (-0.40)
+(-1.56) (-0.09) (-0.53)
+(o.osy (0.04) (-0.19)
+878 1,246 1,281
+
+"See Table 4, Footnote a.
+*See Table 4, Footnote b. Equations include all variables of Table 4 equations. cSee Table 1, Footnote d. dSee Table 1, Footnote a. 'Significant at 0.01 level.
+/Significant at 0.001 level.
+^Includes previous pregnancies terminating in fetal loss. ^Parentheses denote categories containing less than 200 pregnancies.
+
+W
+5'
+
+Vol. 36, No. 3-4
+
+Spontaneous Fetal Mortality
+
+203
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+fects of the five explanatory variables. There are reasons to suspect that this formulation is inappropriate. For example, there is some suggestion in previous work that maternal age and pregnancy order interact. First pregnancies at older ages, and higher order pregnancies at younger ages, appear especially disadvantaged (Naylor, 1974; Nortman, 1974). Unusually high risks for higher order pregnancies at younger ages are, plausibly, the consequence of pregnancy spacing effects, but interactions between first pregnancy and age might well be genuine, reflecting physiological difficulties in commencing reproduction at advanced ages. Similarly, one might posit interactions between the demographic variables and the socioeconomic characteristics of the mother. To the extent that medical care can alleviate the risks of loss, the demographic differentials might be attenuated for bettereducated and urban women, who are more likely to make use of modern medical services. On the other hand, induced abortion is probably more common in these strata, and the reporting of these as spontaneous losses would tend to accentuate effects of demographic characteristics.
+
+The results of the statistical tests are summarized in Table 9. Since a certain fraction of effects will test as significant due to chance alone, depending on the significance level used as a criterion, we consider only those interactions emerging as significant at the 0.10 level in three or more countries. Thus, we conclude that maternal schooling and residence do not interact in affecting the probability of loss, nor does schooling interact with maternal age or pregnancy order. An interaction between schooling and the length of the pregnancy interval is apparent, however, as is a corresponding interaction between type of place of residence and the pregnancy interval. We have examined the parameter estimates for this interaction, in those countries where it is significant. An impressively uniform picture emerges. In all cases, the interval effects are sharper for less-educated and rural women. Bettereducated and urban women, in contrast, show relatively weak associations between pregnancy spacing and the risk of fetal loss. The mechanism underlying this interaction is not clear; perhaps the shorter breastfeeding durations of educated and urban women (Ferry and Smith, 1983) is a partial explanation.
+
+In order to test for interactions, we add terms representing two-way interactions to the additive equation estimated earlier. The ten two-way interactions are tested singly, i.e., ten estimations per country. We collapse across categories of each variable, to avoid small cell sizes in the two-way interactions.7
+7The recoded variables are asfollows: maternal age, < 20,20-29, 30 + ;pregnancy order 1-2, 3-6, 7+; pregnancy interval, < 9, 9-23, 24+ , first pregnancy; maternal schooling, low, mid-high (excepting Korea, Philippines, and Guyana: low-mid, high); residence, rural urban.
+
+In contrast to maternal schooling, residence interacts with maternal age and pregnancy order. We have also examined these interactions in detail. The results are not as uniform as those discussed above. In general, in the countries where these interactions are significant, they consist of sharper age and order effects for urban women. The opposite holds in Guyana, however, where the age and order effects are more pronounced for rural women. We speculate that the sharper effects for urban women in Syria, Korea, the Philippines, and Mexico reflect the inclusion of in-
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE9
+P-VALUES FOR CHI-SQUARED TESTS OF SIGNIFICANCE OF INTERACTIONS BETWEEN EXPLANATORY VARIABLES IN EQUATIONS FOR SPONTANEOUS LOSS"
+
+Interaction
+Schooling and residence Schooling and:
+Maternal age Pregnancy order Pregnancy interval"
+Residence and: Maternal age Pregnancy order Pregnancy interval"
+Pregnancy interval and: Maternal age" Pregnancy order"
+Maternal age and pregnancy order
+
+Ivory Coast
+0.734
+0.861 0.560 0.119
+
+Tunisia
+O548
+0.599 0.431 0.877
+
+Syria
+O397
+0.043 0.272 0.001
+
+Korea
+0126
+
+Philippines
+O160
+
+Costa Rica
+9.378
+
+0.439 0.417 0.245
+
+0.410 0.054 0.042
+
+0.791 0.283 0.009
+
+Mexico
+O704
+0.588 0.194 0.047
+
+Guyana
+0.018
+0.163 0.002 0.054
+
+0.716 0.539 0.459
+
+0.353 0.297 0.257
+
+0.063 0.340 0.009
+
+0.067 0.123 0.128
+
+0.359 0.038 0.088
+
+0.902 0.671 0.522
+
+0.003 0.000 0.000
+
+0.012 0.021 0.419
+
+0.013 0.328 0.732 0.349 0.901 0.280 0.588 0.810 0.158 0.293 0.059 0.728 0.082 0.914 0.366 0.137
+
+0.011 0.186 0.422 0.001 0.000 0.984 0.109 0.087
+
+"Significance tests are based on a comparison of the goodness of fit of equations including and excluding the interaction in question, with all other additive effects included in the equations. For description of the statistical model, see text.
+Tirst pregnancies omitted from estimations.
+
+Vol. 36, No. 3-4
+
+Spontaneous Fetal Mortality
+
+205
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+duced losses among the pregnancies analyzed. Induced abortions are likely to be more common in urban areas and among women at older ages and higher gravidities.
+Table 9 indicates that the effects of pregnancy interval are additive with those of maternal age and pregnancy order.
+Finally, we consider the interaction between maternal age and pregnancy order, which is of particular interest because of implications about preferable timings of childbearing during the reproductive years. The results do indicate that significant interactions exist. We have pursued this interaction further, exploring a variety of parameterizations in an effort to capture the interaction with the most parsimonious specification. (Moreover, the rarity of some combinations, such as higherorder pregnancies conceived before age 20, argues for collapsing the full interaction.) The full interaction may be sketched as shown in Table 10. Cell 1is the omitted category under the parameterization we adopt. When the full interaction is fit, Cells 2 and 3 and Cells 4 and 7 are represented by the additive order and age terms, respectively, and Cells 5, 6,8, and 9 are represented by the terms comprising the interaction. However, a
+
+TABLE 10
+INTERACTION BETWEEN MATERNAL AGE AND PREGNANCY ORDER
+
+ORDER
+
+AGE
+<20 20-29 30 +
+
+1-2 3-6 7+
+123 456 7 89
+
+simpler equation, in which the interaction is represented by two additional parameters, captures the interaction and yields more sensible patterns of effects. The equation includes a term representing pregnancies of order three through six conceived at ages 30 + (Cell 8), and a term representing pregnancies at order seven and above conceived at ages 30 + (Cell 9). That is, terms representing these same two sets of pregnancy orders at ages 20-29 are superfluous, probably because of the lack of pregnancies at the same orders under age 20, which serve as a reference in the full interaction.
+The patterns of effects derived from estimating this equation are presented in Table 11.The most salient feature of the interaction is the elevated risk of loss for first or second pregnancies conceived above age thirty. This conclusion is based not on the absolute values shown in Table 11,but rather on the age differentials within each order. It is in this respect that first pregnancies at older ages are especially disadvantaged. The difference in the probability of loss between pregnancies conceived before and after age thirty is substantially greater for first pregnancies than higherorder pregnancies in most of the countries (note the Ivory Coast, Tunisia, the Philippines, Guyana, Costa Rica, Mexico). This same interaction is observed by Kiely et al., (1986), Naylor (1974), and Nortman (1974).
+A second feature of the patterns of effects in Table 11 is a heightened risk for higher order pregnancies conceived under age thirty. In contrast, at ages over thirty, differentials by order are small or absent. We interpret this result as reflecting effects of pregnancy spacing beyond the impact of length of the preceding pregnancy interval, which is controlled. That is, there appear to be
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE 11
+INTERACTION EFFECTS", MATERNAL AGE AND PREGNANCY ORDER
+
+AND AGE
+Ivory Coast <20 . 20-29 . . . . . 30+
+Syria < 20 20-29 . . . . . 30+ .
+Philippines < 20 . 20-29 . . . . 30+ .
+Costa Rica < 20 . 20-29 . . . . . 30+ .
+
+PREGNANCY ORDER
+1-2 3-6 7 +
+
+0.00 -0.09
+1.32
+
+0.02 0.01 -0.06 -0.07
+0.17 0.51 p-value = 0.004
+
+0.00 -0.14
+-0.04
+
+0.20 0.98 0.07 0.84 0.56 1.14
+p-value = 0.339
+
+0.00 0.09 0.69 0.10 0.19 0.79 1.02 0.80 1.00
+p-value = 0.003
+
+0.00 0.32 0.73 0.22 0.54 0.96 0.70 0.91 1.22
+p-value = 0.767
+
+COUNTRY AND AGE
+Tunisia < 20 . 20-29 . . . . . 30+
+Korea <20 . 20-29 . . . . . 30+
+Guyana < 20 20-29 . . . . . 30+ .
+Mexico < 20 . 20-29 . . . . . 30+
+
+PREGNANCY ORDER
+1-2 3-6 7 +
+
+0.00 -0.04 0.31 0.07 0.03 0.38 1.22 0.54 1.01
+p-value = 0.092
+
+0.00 -0.36
+0.37
+
+0.42 1.90 0.07 1.54
+0.42 0.56
+p-value = 0.001
+
+0.00 0.15 0.59 0.11 0.27 0.70 0.78 0.83 1.07
+p-value = 0.428
+
+0.00
+-0.07 0.97
+
+0.33 0.42 0.26 0.35 0.73 0.80 p-value = 0.047
+
+"Logisticregression coefficients, representing contrasts with maternal age < 20 and pregnancy order 1-2. For specification of equation, see text.
+fr P-value of chi-squared test of significance of interaction terms.
+
+Vol. 36,No. 3-4
+
+Spontaneous Fetal Mortality
+
+207
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+cumulative spacing effects in addition to the immediate impact of the time elapsed between the previous pregnancy termination and the conception of the pregnancy in question.
+PREGNANCY LOSS HISTORIES
+Pregnancy history data permit analysis of the occurrence of pregnancy losses in the context of a pregnancy history. The effects of pregnancy spacing evident in Tables 1,3,4, and 8 demonstrate the insight afforded by treating pregnancies as a sequence of events over a woman's reproductive career rather than as independent occurrences. Whereas the analysis in previous sections was restricted to pregnancies conceived in the ten years preceding the survey, here we examine the entire pregnancy history up to the survey date.
+We first consider the frequency of occurrence of losses over the pregnancy history, using birth intervals as the unit of observation. From Panel A of Table 12, it is evident that reported spontaneous pregnancy loss is a rare event. Only in Guyana (where we suspect appreciable numbers of induced losses) do 10per cent or more of intervals contain a reported loss, and in the other countries the figure is 7 per cent or less. This is a lower percentage than the overall percentage of pregnancies terminating in spontaneous loss, because of the higher probability of a loss following a loss than a live birth (a fact we consider below). Indeed, as the figures in Panel B of Table 12 document, more than 10 per cent of pregnancy losses were not isolated occurrences, but rather occurred in intervals in which one or more other losses occurred. In some age groups in some countries, as many as 20 per cent or more of losses occurred along with one
+
+or more others. Guyana shows this tendency to the greatest extent.
+Implicit in the comparison of Panels A and B is the fact that the risk of loss is higher following a loss. We now turn to this matter, which has received considerable attention in other studies (Leridon, 1976; Naylor, 1974; Pantelakis et al., 1973; Potter et al., 1975; Shapiro et al., 1970; Yerushalmy et al., 1956). Our findings reinforce the previous work. In Table 13, we show the spontaneous loss rates for sequences of three pregnancies (all such sequences among pregnancies one through fifteen, aggregated together). When the previous pregnancy terminates in loss, the next pregnancy is approximately three times as likely to terminate in spontaneous loss in five countries, the exceptions being the Philippines, Costa Rica, and Mexico. (The risk is approximately four times greater in Tunisia and Korea.) This conclusion also applies to third pregnancies following a loss as compared to a live birth in a sequence of which the first is a live birth. When the first of a sequence of three is lost, however, the probability of loss is elevated for third pregnancies, compared to first pregnancies, whether the second is a live birth or a loss (a finding in agreement with Leridon, 1976). In seven of the eight countries (except Mexico) the relative risk of loss following a loss is reduced in this circumstance. Finally, considering the two extreme sequences, we note that the probability of loss following two live births is somewhat lower than the overall probability of loss (as represented by "first pregnancy") , but little less generally than the probability of loss of a second pregnancy following a live birth. The probability of pregnancy loss following two losses, on the contrary, is substantially greater than the probability of loss following
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE 12
+PERCENTAGE DISTRIBUTION OF BIRTH INTERVAL BY NUMBER OF SPONTANEOUS LOSSES" IN THE INTERVAL, AND PERCENTAGE DISTRIBUTION OF SPONTANEOUS LOSSES ACCORDING TO SINGLE OR MULTIPLE OCCURRENCES WITHIN BIRTH INTERVALS: WOMEN AGED 30-49 AT SURVEY
+
+Age at Survey and Number of Losses
+
+Ivory Coast
+
+Tunisia
+
+Syria*
+
+Percentage distribution of birth intervals by number of losses
+
+Women aged 30-39
+
+None
+
+94 96 93
+
+One 5 4 6
+
+Two or more
+
+10 1
+
+Total
+
+100 100 100
+
+Number of intervals
+
+8,197 8,340 9,112
+
+Women aged 40-49 None One Twoormore Twoormore
+Number of intervals
+
+93 5 2 100
+6,818
+
+95 4 1 100
+9,300
+
+93 5 2 100
+9,124
+
+Percentage distribution of losses by number within interval
+
+Women aged 30-39
+
+One 83 86 83
+
+Two 14 11 11
+
+Threeormore
+
+336
+
+Total
+
+100 100 100
+
+Number of losses
+
+515 353 631
+
+Women aged 40-49 One Two Threeormore Total
+Number of losses
+
+81 81 77 12 12 13 7 7 10 100 100 100
+422 481 638
+
+"Miscarriages and stillbirth. ^Miscarriages and induced losses not distinguished.
+
+Costa
+Korea Philippines Rica
+
+96 3
+1 100
+10,180
+
+94 5 1
+100
+19,983
+
+92 6
+2 100
+6,267
+
+97 3 0 100
+9,892
+
+93 6 1 100
+20,247
+
+91 7 2 100
+6,311
+
+88 90 80 9 7 15 3 35 100 100 100 372 1,143 487
+86 86 81 12 12 14 2 25 100 100 100 339 1,318 584
+
+Mexico Guyana1*
+
+94 5 1 100
+13,629
+
+91 7 2 100
+6,519
+
+92 6 2 100
+11,338
+
+89 7 4 100
+595
+
+84 77 10 13 6 10 100 100 846 602
+82 70 13 19 5 11 100 100 896 628
+
+I
+I
+u
+S"
+I
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE 13
+PERCENTAGE OF PREGNANCIES" TERMINATING IN SPONTANEOUS6 LOSS, BY OUTCOME OF PRIOR PREGNANCIES, PREGNANCY ORDERS 1-15
+
+Pregnancy* and Outcome
+of Prior Pregnancy
+First pregnancy
+Second pregnancy0
+First: Livebirth Loss
+Third pregnancy' First: Live birth Second: Livebirth Loss First: Loss Second: Livebirth Loss
+Total pregnancies
+
+Ivory Coast
+7.8
+
+Tunisia
+6.4
+
+Syria
+9.3
+
+Korea Philippines
+5.1 7.0
+
+6.9 25.0
+6.5 23.3
+13.8 42.2 11,944
+
+5.5 22.8
+... 5.1 18.2
+... 15.9 40.2
+12,463
+
+8.3 26.9
+... 7.4 22.4
+... 21.9 44.1
+15,141
+
+4.4 21.6
+... 4.1 15.8
+... 10.4 41.1
+12,497
+
+7.3 15.3
+... 7.1 13.5
+... 15.5 27.4
+28,418
+
+"See Table 1, Footnote a. 'See Table 1, Footnote b. Tregnancy number refers not to absolute pregnancy order but relative order of pregnancy.
+
+Costa
+Rica
+11.8
+11.0 26.3
+... 9.8 23.2
+... 19.4 38.8 9,005
+
+Mexico
+9.1
+8.3 23.6
+... 7.6 17.1
+... 17.6 41.0 19,615
+
+Guyana
+12.6
+11.6 36.9
+10.7 31.5
+28.7 57.6 10,444
+
+I
+in
+1
+I
+
+210
+
+Casterline
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+only one loss and approaches or exceeds 40 per 100 pregnancies in all countries except the Philippines.
+There are several explanations for the increased risk of loss following a loss (Potter et al., 1975). Two spurious relationships are candidates: selection of women for completeness of reporting of losses; or inclusion of induced abortions as spontaneous losses, taking account of the tendency for induced abortions to repeat (Tietze and Jain, 1978). A genuine tendency for the risk of loss to be elevated following a loss can be a reflection of heterogeneity among women in risk, due to whatever genetic or behavioral factors. In the data of Pantelakis et al., (1973), the incidence of premature births increases following a spontaneous or induced loss, which suggests anatomical defects as a contributory factor. Behaviorial factors, such as a tendency towards short pregnancy intervals, could also easily play some role. The heterogeneity could consist of a subgroup of women characterized by uniformly higher risks, but a gradation of risk seems more likely, perhaps following a beta or negative binomial distribution (Leridon 1977; Naylor, 1974).
+
+at ages thirty and above suffer higher levels of loss than expected on the basis of the overall maternal age and pregnancy order effects.
+The probability of loss is associated with two features of the mother's previous pregnancy history: the interval elapsed since the termination of the most recent pregnancy, and the occurrence of previous fetal deaths. Pregnancies conceived relatively soon after the previous pregnancy are more likely to be lost, as are pregnancies conceived after long intervals. This U-shaped relationship conforms with previous work and can be understood as the consequence of several behavioral and biological factors. The relationship is weaker for better-educated and urban women, for unknown reasons. The data also suggest that there are effects of a succession of relatively closely spaced pregnancies in addition to the effect of the length of the interval immediately preceding a pregnancy. The increased risk for women previously suffering loss is well recognized. This analysis indicates that the increased risk applies beyond the pregnancy following a loss, but the effects are sharpest for this pregnancy.
+
+We noted earlier that pregnancy loss
+
+DISCUSSION
+
+is commonly neglected in fertility research, in part because most spontane-
+
+It is clear that the probability of loss ous loss is assumed to be beyond voli-
+
+varies over the reproductive career. tional control, and in part because of the
+
+Pregnancies conceived at older ages and known deficiencies in the data collected
+
+higher order pregnancies are more in conventional fertility surveys. The
+
+likely to end in loss. This analysis pro- first assumption is not entirely correct,
+
+vides no consistent evidence of higher A number of behavioral variables affect
+
+risk for teenage pregnancies, however, the risk of loss (e.g., maternal smoking
+
+or of higher risk for first pregnancies. A and drinking during pregnancy; see
+
+finding with implications for decisions Cooksey, 1987). But even accepting the
+
+about the timing of childbearing is the validity of both arguments, the WFS evi-
+
+more pronounced maternal age differ- dence presented in this article suggests
+
+entials for lower-order pregnancies. that taking into account reported preg-
+
+First and second pregnancies conceived nancy losses measurably improves our
+
+Vol. 36, No. 3-4
+
+Spontaneous Fetal Mortality
+
+211
+
+understanding of variation in fertility over the reproductive years.
+ACKNOWLEDGMENTS The analysis presented in this articlewas completed while theauthor was astaff mem-
+
+ber at the World Fertility Survey, London, U.K. Theauthor gratefully acknowledges technical assistance provided by Hazel Ashurst atthe WFS andElizabeth Cooksey at Brown University. Sandra Yeghian assisted in manuscript preparation.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+REFERENCES
+
+AWAN, A. K. 1975. Some biological correlates KIELY, J. L., N. PANETH, and M. SUSSER. 1986.
+
+of pregnancy wastage. Amer. J. Obstet.
+
+An assessment of the effects of maternalage
+
+Gynecol. 119(4):525-532.
+
+and parity indifferent components ofperi-
+
+BILLEWICZ, W. Z. 1973. Some implicationsof
+
+natal mortality. Amer. J. Epidemiol.
+
+self-selection for pregnancy. Brit. J. Prev.
+
+123(3):444-443.
+
+Soc. Med. 27:49-52.
+
+LERIDON, H. 1976. Facts andartifacts in the
+
+BONGAARTS, J., and R. G. POTTER. 1983.Fertil-
+
+study of intra-uterine mortality: A reconsid-
+
+ity, biology and behavior: An analysis of the eration from pregnancy histories. Pop.
+
+proximate determinants. Academic Press,
+
+Stud. 30(2):319-336.
+
+New York.
+
+. 1977. Human fertility: The basic com-
+
+CASTERLINE, J. B. 1988.Pregnancy loss in de- ponents. University of Chicago Press,Chi-
+
+veloping countries: A review of evidence
+
+cago.
+
+from the WFS. Working Paper No. 88-02, NATIONAL BUREAU OF STATISTICS. 1977. The
+
+Population Studies and Training Center,
+
+Korean National Fertility Survey. Seoul.
+
+Brown University.
+
+NATIONAL CENSUS AND STATISTICS OFFICE. 1979.
+
+CENTRAL BUREAU OF STATISTICS. 1982. Syria
+
+Republic of the Philippines Fertility Survey.
+
+fertility survey 1978. Damascus.
+
+Manila.
+
+COOKSEY, E. C. 1987. The epidemiology offe- NAYLOR, A.F. 1974. Sequential aspects of
+
+tal loss. IPPF Med. Bull. 21(4):2-4.
+
+spontaneous abortion: Maternal age, parity
+
+Direccion GENERAL DE ESTADISTICA. 1979. En-
+
+and pregnancy compensation artifact. Soc.
+
+cuesta Mexicana de fecundidad: Primer in- Biol. 21(2):195-204.
+
+forme nacional. Mexico City.
+
+NORTMAN, D. 1974. Parental age asa factor in
+
+DIRECCION GENERAL DEESTADISTICA Y CENSOS.
+
+pregnancy outcome and child development.
+
+1978. Encuesta Nacional defecundidad de
+
+Rep. Pop. Fam. Plan. No.16.
+
+Costa Rica. SanJose.
+
+OFFICE NATIONAL DU PLANNING FAMILIAL ET DE
+
+ERHARDT, C. L. 1963. Pregnancy losses in New LA POPULATION. 1982. Enquête Tunisienne
+
+York City, 1960. Amer. J. Publ. Hlth. sur la fécondité 1978. Tunis.
+
+53(9):1337-1352.
+
+PANTELAKIS, S. N., G. C. PAPADIMITRIOUS, and
+
+FERRY, BENOIT, and DAVID P. SMITH. 1983.
+
+S. A. DOXIADIS. 1973. Influence ofinduced
+
+Breastfeeding differentials. WFS Compara- and spontaneous abortions on the outcome
+
+tive Studies No. 23. ISI,Voorburg.
+
+of subsequent pregnancies. Amer. J. Ob-
+
+FRENCH, F. E., and J. E. BIERMAN. 1962. Prob-
+
+stet. Gynecol. 116(6):799.
+
+abilities offetal mortality. Publ. Hlth.Rep. PEBLEY, A. R., S.L. HUFFMAN, A. K. M.
+
+77(10):835-847.
+
+ALAUDDIN CHOWDHURY, and P. W. STUPP.
+
+HENRY, L. 1964.Mortalité intra-utérine et fé- 1985. Intra-uterine mortality and maternal
+
+condabilité. Population 19(5):899-940.
+
+nutritional status in rural Bangladesh.Pop.
+
+HOBCRAFT, JOHN, JOHN W. MCDONALD, and
+
+Stud. 39(3):425-440.
+
+SHEA RUTSTEIN. 1984. Child-spacing effects PEBLEY, A. R., and S. MILLMAN. 1986. Birth-
+
+on infant andearly child mortality. Pop. In- spacing andchild survival. Internat. Fam.
+
+dex 49(4):585-618.
+
+Plan. Persp. 12(3):71-79.
+
+JAMES, W. H. 1963. Notes towards an epidemi- POTTER, R. G., J. B. WYON, M. NEW, and J. E.
+
+ology of spontaneous abortion. Amer. J. GORDON. 1965. Fetal wastage ineleven Pun-
+
+Hum. Genet. 15:223.
+
+jab villages. Hum. Biol. 37:262-273.
+
+. 1968. Stillbirth and birth order. Ann. POTTER, R. G., K. FORD, and B. MOOTS. 1975.
+
+Hum. Genet. 32:151-162.
+
+Competition between spontaneous and in-
+
+. 1974. Spontaneous abortion and birth duced abortion. Demography 12(1):129-
+
+control. J.Bioso. Sri. 6(1):23-41.
+
+141.
+
+212
+
+Casterline
+
+Social Biology
+
+RETEL-LAURENTIN, A. 1973. Fécondité et syphilis dans larégion dela Volta Noire. Population 28(4):793-815.
+SCHLESSELMAN, J. J. 1979. How does oneassess the risk ofabnormalities from human in vitro fertilization? Amer. J.Obstet. Gynecol. 135:135-148.
+SHAPIRO, S., H. S. LEVINE, and M. ABRAMO-
+WICZ. 1970. Factors associated with early and late fetal loss. Adv. Plan. Parent. 6:4563.
+SINGH, SUSHEELA. 1984. The content of questionnaires in 41 WFS surveys. WFS Comparative Studies No. 32. ISI,Voorburg.
+STATISTICAL BUREAU. 1980. Guyana survey. Guyana.
+SWENSON, I., and P. A. HARPER. 1978. The re-
+lationship between fetal wastage and pregnancy spacing in Bangladesh. Soc. Biol. 25(3):251-257.
+
+TIETZE, C.1981. Induced abortion. A Population Council factbook. The Population Council, New York.
+TIETZE, CHRISTOPHER, and ANRUDH K. JAIN.
+1978. Themathematics of repeat abortions: Explaining the increase. Stud. Fam. Plan. 9(12):294-299.
+WORLD HEALTH ORGANIZATION. 1970. Sponta-
+neous and induced abortion. World Health Organization Technical Report Series No. 461. Geneva.
+YERUSHALMV, J., J. M. BIERMAN, D. H. KEMP,
+A. CONNER, and F. FRENCH. 1956. Longitu-
+dinal studies of pregnancy onthe islandof Kauai: Analysis of previous reproductive history. Amer. J. Obstet. Gynecol. 71(1):80-96.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+

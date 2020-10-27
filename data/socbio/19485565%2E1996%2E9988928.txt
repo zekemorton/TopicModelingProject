@@ -1,0 +1,822 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+The determinants of IUD discontinuation in china: A discretetime competing risk model analysis
+Duolao Wang
+To cite this article: Duolao Wang (1996) The determinants of IUD discontinuation in china: A discretetime competing risk model analysis, Social Biology, 43:3-4, 271-289, DOI: 10.1080/19485565.1996.9988928 To link to this article: http://dx.doi.org/10.1080/19485565.1996.9988928
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 4
+View related articles Citing articles: 2 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:47
+
+The Determinants of IUD Discontinuation in China: A Discrete-time Competing Risk Model Analysis
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Duolao Wang
+
+Population Studies London School of Economics London WC2A 2AE Great Britain
+
+ABSTRACT: This research examines the social, demographic, and family-planning-program factors that influence the occurrence of IUD discontinuation among Chinese women, using a sample of 14,639 IUD use segments from the 1988 Chinese National Survey of Fertility and Contraceptive Prevalence. A discrete-time competing-risk event history method is employed to identify the determinants of IUD discontinuation by five kinds of reasons: contraceptive failure, expulsion, switching method, side-effects and other nonmethod-related reasons. The predictors of IUD discontinuation suggest that a number of mechanisms are in operation. Some of the determinants may reflect the effects of the family planning program; some may illustrate women's physiological and biological reactions to IUD's; some may be related to women's previous history of contraceptive use; and still others may indicate social characteristics of women that lead them to have their IUD's removed.
+
+There are about 80 million women using IUD's (Intrauterine Devices) for contraception in the world, of which 60 million live in China (Weinberger, 1991; Kaufman, 1993; Wang et al., 1996). At present, the IUD is the most widely used form of contraception in China, especially in rural areas, and also one of the main methods rigorously promoted by the national family planning program. In 1988, IUD's accounted for around 42 per cent of contraceptive use (Wang et al., 1996); in 1992, the contraceptive prevalence rate reached the historical high at 83 per cent among married women of reproductive age, with users of the IUD still making up 40 per cent of total users (State Family Planning Commission, 1993).
+IUD use in China was closely associated with family size, according to the study by Wang et al (1996). Chi-
+
+nese women of reproductive age seldom used IUD's before their first child, but nearly half of the women who have just one child adopted IUD's. When women have two or more children, about half of them turned to sterilization, whereas only a quarter of them were still fitted with IUD's. The patterns of IUD use clearly indicate the enforcement of the family planning program since the current national family planning policy strongly encourages the insertion of an IUD after the birth of the first child, and sterilization after two or more children.
+Although China has the largest number of IUD users in the world, there has been evidence that IUD discontinuation rates in China are also among the highest. Wang et al. (1996) showed that the first year failure rate for IUD's is 10 per cent. This figure is the second highest after Brazil (13 per
+
+271
+
+272
+
+Wang
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+cent) among some developing countries selected from Asia, Latin America, and Africa, whereas in developed countries the first-year failure rate for IUD's is only 2 per cent (Moreno and Goldman, 1991; Hatcher et al., 1992). Some studies suggest that the high discontinuation rates are related to the quality of IUD's manufactured in China. Almost all IUD's used in China are domestically manufactured. The main IUD produced locally is the stainless steel ring (SSR), which is made in several sizes (20-23mm). There are also other domestically designed devices available, including the "Mahua" ring, the Copper V-200 (also known as the "Shanghai V"), and others (Xiao, 1989; Kaufman, 1993). One clinical study by the State Family Planning Commission of China in 1983-84 in 13 provinces compared three IUD's available in China--the SSR, the Copper T-220, and Copper V-200. The SSR had a first-year failure rate of 10.6 per cent, compared with a rate of 1.7 per cent for the Copper T, and 2.1 per cent for the Copper V (State Family Planning Commission, 1985). Another clinical study, conducted by Gao et al. (1986) in 1981-86 in Beijing, found two-year failure rates of 8 per cent for the SSR, 2.1 per cent for the Copper V, and 1 per cent for the Copper T, and two-year expulsion rates of 12.6 per cent for the SSR compared with 1.6 per cent and 1.7 per cent for the Copper V and the Copper T, respectively. However, a recent study by Tu (1995), based on data from a speciallydesigned retrospective survey in four counties in North China, showed that the failure and expulsion rates from his study are higher for copper IUD's but lower for noncopper IUD's than those
+
+from the clinical studies and so the difference in the failure and expulsion rates between copper and noncopper IUD's is small. He listed three possible reasons for the small difference between copper and noncopper IUD's: (1) poorly performed insertions of copper IUD's by inadequately trained rural family planning workers at the township service stations, (2) misidentification of the type of IUD, or by users' deliberate removal of copper IUD's, and (3) their misreporting the causes of discontinuation.
+Low effectiveness and continuation rates of IUD's used in China may have a considerable demographic impact on the Chinese family planning program. Wang and Diamond (1995) demonstrated that contraceptive failures contributed 7 per cent to the general fertility among women aged 15-49 in the 1980's, 72 per cent of which were due to IUD failures. Induced abortion has been an important backup method for the Chinese family planning program, and about 70 per cent of the estimated 11 million abortions carried out each year were due to contraceptive, especially IUD failure (Delfs, 1990). Despite its ineffectiveness, the SSR is still widely used by about 90 per cent of IUD users (Kaufman, 1993).
+Although the studies mentioned above provide us with some very important information about IUD discontinuation in China, they have been largely limited to examining the effects of types or qualities of IUD's on their discontinuation based on clinical studies or local studies. Clinical studies could not provide accurate information on the effectiveness of the method under real-life situations in China because of the selection biases in subject
+
+Vol. 43, No. 3-4
+
+IUD in China
+
+273
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+recruitment, service quality, etc. Also, studies of IUD discontinuation patterns and determinants for the whole nation are rare. Yet little is known about sociodemographic factors that lead to the discontinuation of IUD use due to failure, expulsion, side-effects, etc. Although Tu's study (1995) examined the IUD discontinuation patterns and determinants for the real-life situation of rural China by using a polychotomous logistic regression technique that allows the simultaneous consideration of IUD discontinuation determinants, it has several limitations. First, his study was based on data from just four counties, and the results can not be generalized for the whole country. Second, it examined the effects of some individual, household, and institutional variables only on firstthree-years discontinuation patterns of IUD removal, pregnancy, and expulsion. We do not know what happens after three years of IUD use and what the patterns and correlates are for other reasons of IUD discontinuation such as side-effects, switching-method, and the like. Third, most importantly, the study used a relatively small sample of 2,450 IUD use segments, compared with 14,639 use segments in our study from which it is expected that more stable estimates and reliable information could be obtained.
+In this paper I study the patterns and correlates of IUD discontinuation in a new way. I use a national sample to identify the sociodemographic and family-planning-program determinants of IUD discontinuation by five different reasons (pregnancy, expulsion, switching method, side-effects, and other nonmethod-related causes), during the first eight and a half years of
+
+IUD use under real-life situations. I employ a discrete-time competing risk model, which has an important methodological advantage over polychotomous logistic regression in that it takes into account time-dependence of IUD discontinuation. Failure to control for the time-dependence may create a serious bias if the discontinuation rates change dramatically and in different ways with time during the period of study. The purposes of this study are two-fold: (1) to provide detailed information about the relationship between women's sociodemographic and family-planning-program factors and IUD discontinuation, and (2) to understand the mechanisms through which those factors influence the occurrence of IUD stopping.
+MATERIALS AND METHODS
+This study uses a 10 per cent sample of data from the National Survey of Fertility and Contraceptive Prevalence, often called the Two-perThousand Fertility Survey, carried out by the State Family Planning Commission in 1988. The central elements of the survey were the pregnancy and contraceptive-use histories, but data on characteristics of both husband and wife, as well as other household members were also gathered. In the complete contraceptive history, a woman was asked the month and year she had started contraception for each continuous period of use, the method she had adopted, the date she had stopped using that method, and the reason she stopped at that specific time (Lavely, 1991; Chen, 1991).
+The sample for analysis of IUD discontinuation is restricted to all IUD
+
+274
+
+Wang
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+uses that started from January 1, 1980 (after the introduction of the one-child policy). The sample therefore has 14,639 segments of IUD uses, contributed by 12,334 women.
+There were a total of ten reasons for stopping IUD use listed in the questionnaire: (1) side-effects, (2) illness, (3) menopause, (4) switching method, (5) widowhood or separation or divorce, (6) waiting to have a child with a license, (7) waiting to have a child without a license, (8) contraceptive failure (pregnancy occurring while an IUD is fitted), (9) other reasons, (10) expulsion. Table 1presents the composition of discontinuation by different reasons for the sample.
+For convenience of analysis these reasons are collapsed into five categories: (1) contraceptive failure (41.0 per cent), (2) expulsion (20.9 per cent), (3) switching (17.3 per cent), (4) sideeffects (3.4 per cent), and (5) other reasons (17.3 per cent). The first four reasons for stopping are methodrelated whereas the last category is not method-related. Such a classification makes it possible to distinguish the determinants of method-related discontinuation from those of person-related discontinuation.
+Four sets of variables that are likely to influence the occurrence of IUD discontinuation are included in the analysis: socioeconomic, demographic, contraceptive-use-history, and familyplanning-program variables. The socioeconomic variables in the analysis are woman's rural-urban residence (UR), educational attainment (EDC), occupation (OCP), ethnicity (ETH), and geographic region (RG). Demographic variables include the woman's age at the start of IUD use (AGE) and
+
+number of living children (NLC). Contraceptive history is indicated by prior contraceptive use (PU) and failure (PF), and motivation (MOT). The cohorts of users (COH), or period of use since or before 1984 is introduced as a family-planning-program variable to indicate the change in the one-child policy since 1984. The definitions of these variables and their frequency distributions by reason for stopping are presented in Table 2. The Two-perThousand Fertility Survey did not collect information on types of IUD's, making it impossible to check the impact of IUD type on IUD discontinuation. However, a finding from Tu (1995) suggests that the difference in the probabilities of removal, pregnancy, and expulsion between the copper and noncopper IUD's under reallife situations is not statistically significant when the effects of other variables are controlled.
+IUD discontinuation by different reasons can be analyzed within the framework of a competing-risk eventhistory model (Allison, 1982; Yamaguchi, 1991). Either discrete-time or continuous-time competing-risk methods can be employed. A discrete-time competing-risk model is used in this study for the following two reasons. First, the sample has 14,639 spells of use. There is therefore the problem of a large number of tied observations, which may bias results if continuoustime hazard models are used. The second reason is that a discrete-time competing risk model is in fact a multinomial logit model, and therefore it can be estimated by using a multinomial logit program (Allison, 1982). When the independent variables are categorical, estimation of the multi-
+
+Vol. 43, No. 3-4
+
+IUD in China
+
+275
+
+TABLE 1
+REASONS FOR DISCONTINUATION OF IUD USE
+
+Reasons
+Side-effects Illness Menopause Change method No partner Waiting pregnancy" Waiting pregnancyft Failure Other reasons Expulsion
+Censored Total
+"Wanting to have a child with a license. ^Wanting to have a child without a license.
+
+N
+198 136 86 994 46 235 386 2,357 107 1,200
+8,894 14,639
+
+Per Cent (Inc. censored)
+1.4 0.9 0.6 6.8 0.3 1.6 2.6
+16.1
+0.7 8.2
+60.8 100.0
+
+Per Cent (Exc. censored)
+3.4 2.4 1.5
+17.3
+0.8 4.1 6.7
+41.0
+1.9
+20.9
+100.0
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+nomial logit model is most easily accomplished using log-linear modelling technique (Allison, 1982).
+The first step in the procedure for the analysis of IUD continuation is to break up each use spell into a set of discrete time units, with time divided into intervals of six months. Each sixmonth interval is treated as a separate observation or unit of analysis. For each of these observations, the dependent variable, discontinuation of IUD use, is a polytomy having six categories (i.e., five events being failure, expulsion, switching, side-effects and nonmethod reasons, and the extra category being nonoccurrence of any of the five events, i.e., still using IUD or continuation). The explanatory variables associated with each of these intervals remain constant as none contains information on change over time. It is important to include in the data file a variable for duration of IUD use because, like any event history methods, the competing-risk model needs a time variable to build its baseline hazard
+
+function. However, duration is introduced as a time-varying variable as each six-month interval is treated as a different observation. Pooling across all the time units, the next step is to form a contingency table for all the categorical variables. This results in a total of 79,387 observations from 14,639 segments of IUD uses. Table 3 presents the frequencies by cause for stopping and duration of use.
+Finally, I fit log-linear models corresponding to logit models for the dependent variable with six response levels. It can be seen from Table 3 that most cells after 84 months have zero frequencies. As duration determines the shape of baseline hazard function in competing-risk model analysis of IUD stopping, it is necessary to consider collapsing some adjacent duration periods in Table 3 to get stable estimates of its parameters. When duration periods are collapsed, the number of events and exposure to risk simply need to be summed across categories. If adjacent time periods
+
+276
+
+Wang
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 2
+DESCRIPTIVE STATISTICS
+
+INDEPENDENT VARIABLES
+Socioeconomic characteristics
+Residence Urban Rural
+Geographic region of residence North Northeast East South Southwest Northwest
+Education No or primary school Junior school +
+Occupation Agriculture Others
+Ethnicity Han Minority
+
+FREQUENCY
+
+(!)
+
+4,243 14.2 10,496 16.9
+
+2,505 2,183 4,021 2,996 1,580 1,354
+
+15.3 17.0 18.9 14.1 17.5 11.1
+
+7,574 7,065
+
+16.9 15.2
+
+10,209 4,430
+
+16.9 14.3
+
+13,463 16.4 1,176 12.8
+
+RELATIVE FREQUENCY"
+
+(2) (3)
+
+(4) (5)
+
+3.9 3.5 1.6 9.8 8.1 1.3
+
+7.0 7.4 2.2
+
+3.0 4.9
+
+.4
+
+8.7 7.8 1.2
+
+12.2 7.7 1.8
+
+6.8 4.8
+
+.9
+
+9.7 5.9 1.3
+
+10.0 9.6 1.2 6.2 3.8 1.5
+
+10.1 8.1 1.3 3.7 3.7 1.5
+
+8.4 7.0 1.4 5.0 4.9 1.0
+
+3.7 8.0
+5.9 5.4 5.9 9.1 7.0 7.8
+8.4 5.1
+8.1 3.7
+6.6 8.7
+
+Demographic characteristics
+Age at start of use < =23 24-26 27-29 > =30
+No. of living children <=1 2 3+
+
+3,706 19.3 12.0 3.1 4,347 19.3 8.9 5.6 3,225 15.6 7.1 10.1 3,361 8.9 4.0 9.2
+
+1.2 1.4 1.1 1.7
+
+7.4 7.7
+5.6
+6.2
+
+7,497 16.1 5.3
+
+1.4 1.2
+
+3.2
+
+4,218 17.5 12.1 11.4 1.5 11.9
+
+2,924 14.1 9.9 14.1 1.5
+
+8.5
+
+Contraceptive use characteristics
+Prior use No Yes
+Prior use failure No Yes
+Motivation Response to campaign No Yes
+Year of use <84 > =84
+
+10,509 16.5 8.8 6.1 1.4 4,130 15.0 6.6 8.6 1.1
+12,275 15.6 9.0 6.5 1.4 2,364 18.7 3.6 8.0 1.1
+
+1,638 15.4 7.2 9.9 1.8 13,001 16.2 8.3 6.4 1.3
+
+6,167 22.4 11.5 12.1 2.0
+
+8,472 11.5 5.8 2.9
+
+.9
+
+"(1) failure, (2) expulsion, (3) switching. (4) side-effects. (5) non-method reasons, (6) continuation.
+
+7.6 4.8
+7.3 4.2
+7.3 6.7
+11.5 3.3
+
+(6)
+73.0 56.0
+62.1 69.3 57.6 55.1 63.0 64.3
+53.9 68.2
+55.5 73.1
+60.2 67.5
+57.0 57.1 60.5 70.0
+72.8 45.6 51.9
+59.6 63.9
+60.1 64.3
+58.4 61.1
+40.5 75.6
+
+Vol. 43, No. 3-4
+
+IUD in China
+
+277
+
+TABLE 3
+FREQUENCY DISTRIBUTION BY REASON AND DURATION
+
+0-5 6-11 12-17 18-23 24-29 30-35 36-41 42-47 48-53 54-59 60-65 66-71 72-77 78-83 84-89 90-95 96+
+
+DuRATtoN
+
+No. AT START
+OF INTERVAL
+14,639 11,770 9,548 7,761 6,614 5,553 4,841 4,062 3,451 2,879 2,348 1,829 1,416 1,015
+798 539 324
+
+REASONS"
+
+(1) (2) (3)
+
+623 502 209 544 249 181 367 155 160
+
+229 86 86 178 56 101 125 45 77
+
+93 40 70 74 23 59
+
+39 13 20 33 10 10
+
+19 8 9
+
+13 2 4
+
+8 42
+
+6 22
+
+2 14
+
+3 00
+
+10
+
+0
+
+(4)
+102 25 23 11
+8 5 6 3 5 1 3 1 1 2 0 0 2
+
+Total
+
+79,387 2,357 1,196 994
+
+198
+
+"(1) failure. (2) expulsion. (3) switching, (4) side-effects. (5) nonmethod reasons, (6) continuation.
+
+(5)
+131 96 113 101 69 72 90 78 68 47 41 34 19 18 12
+5 0
+994
+
+(6)
+1,302 1,127
+969 634 649 388 480 374 427 430 439 359 367 187 240 207 321
+5,739
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+need to be collapsed, this should be done after the calculation of units of analysis (Yamaguchi, 1991). In this analysis, IUD use-segments after 84 months are combined.
+Backward elimination is used to select the best parsimonious main-effects log-linear model. For the model selection, the Bayesian information criterion (BIC) is used for comparisons among nonnested models (Raftery, 1986), and the likelihood-ratio chisquare statistic is used for comparisons of nested models.
+MODEL SELECTION
+The SAS log-linear procedure CATMOD is used here for the multinomial logit analysis of IUD discontinuation (SAS Institute, 1988). Model selection is carried out in two steps in this study. The first step is to model the time de-
+
+pendence of IUD discontinuation, and the second step involves a search for the main-effects model which fits the data best.
+Generally, there are two distinct approaches to modelling time dependence. One approach is parametric, assuming that the form of time dependence is characterized by a specific function of time. CATMOD specifies independent variables that are to be treated quantitatively (like continuous or ordinal variables) by a DIRECT statement, which makes it very convenient to fit the parametric duration dependence. The second approach to modelling time dependence is nonparametric. It can be effectively employed for a log-linear model. In this approach, dummy variables are used to distinguish a discrete set of time points or time intervals. Parameters for
+
+278
+
+Wang
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+the dummy variables are estimated, thereby characterizing time dependence without specifying its functional form.
+Here I consider some of the most commonly used and simplest functions that can be used to represent the baseline time dependence:
+Model 1: log oddsi = a, + b, x DR Model 2: log odds, = a, + b, x DR.2 Model 3: log odds, = a, + b, x DR +
+c, x DR2 Model 4: log odds, = a, + b, x log(DR) Model 5: log oddst = a, + b, x DR +
+c, x log(DR) Model 6: log odds, = a, + b, x DR1/2 Model 7: log odds, = a, + b, x DR +
+c, x DRm Model 8: log odds, = A,m (Dl,
+6-month intervals) Model 9: log odds, = A,02 (D2, 0-5,
+6-11, 12-23, 24-35, 36-47, 48+) Model 10:logodds,= A,m (D3, 0-5,
+6-11, 12-17, 18-31, 32-47, 48+)
+where log odds, is the logarithm of the odds of stopping IUD use for reason i (/= 1, failure; 2, expulsion; 3, switching; 4, side-effects; 5, non-method related reasons) as opposed to continuing an IUD use. Variable DR represents the linear effect of duration on log odds of IUD discontinuation. The variable DR is assigned the value of the midpoint for each time interval of duration, i.e., DR = 2.5, 8.5, 14.5, 80.5, 90. Note the last period gets a score of 90, because this time period represents the combined duration of 84-89,90-95 and 96 +. Of all the specifications, the first seven models are parametric and the last three models are nonparametric for the time dependence of IUD discontinuation. The likelihood ratio statistics and BIC are presented for each of these models in Table 4.
+
+Table 4 shows that all models are statistically significantly better than the constant model according to the likelihood ratio chi-square statistics. However, we can not judge the relative goodness-of-fit of those models using the chi-square statistic because they are nonnested. Model selection among nonnested models can be done using BIC (Raftery, 1986; Yamaguchi, 1991). According to BIC in Table 4, models that have a two-parameter characterization for duration dependence fit the data better than nonparametric specification. Among the duration models with two parameters, the model with a parabolic specification of duration dependence fits the data best. However, when the shape of the duration effect is specified net of other variables this way, it may not be fully separated from the effects of the other variables. To check that this is not the case, I estimate models with other significant independent variables included. The results show that this specification is still the best of ten duration-dependent models of IUD discontinuation. So this quadratic polynomial function of duration of IUD use is adopted as the baseline time-dependent form for the analysis.
+Table 5 displays the backward elimination process of model selection, beginning with the model with all the main-effect terms together with the parabolic duration effect. At each stage, I delete the term for which the resulting increase in G2 is the smallest. The first stage deletes UR, though two other models are nearly as good. Subsequent stages eliminate MOT and EDC. Further simplifications are not fruitful, and M6 is the simplest maineffects model to fit adequately. All the
+
+Vol. 43,No.3-4
+
+IUDin China
+
+279
+
+TABLE 4
+MODELLING THE TIME DEPENDENCE"
+
+MODELS
+1. Parametric model with linear duration effect Linear (DR)
+
+A/- dj_ BIC
+
+1,420.3
+
+5 1,363.9
+
+2. Parametric models with curvilinear duration effects Curvilinear 1 (DR2) Curvilinear 2 (DR, DR2)
+
+1,239.9
+
+5 1,183.5
+
+1,532.4 10 1,419.6
+
+3. Parametric models with log duration effects Log Duration 1 (LDR =log (DR)) Log Duration 2 (DR, LDR)
+
+1,297.8
+
+5 1,241.4
+
+1,519.0 10 1,406.2
+
+4. Parametric models with square-root of duration effects Square Root l(SDR =DRm) Square Root 2 (DR, SDR)
+
+1,302.4
+
+5 1,246.0
+
+1,529.3 10 1,416.5
+
+5. Nonparametric duration model
+
+Duration 1 (£>1,6-month intervals)
+
+1,636.1 70
+
+846.4
+
+Duration 2 (D2, 0 - 5 , 5 - 1 1 , 12-23, 24-35, 36-47,48 + ) . . 1,550.5 25 1,268.4
+
+Duration 3 (D3, 0-5, 5-11, 12-17, 18-31, 32-47, 48+ ) . . ,1,567.3 25 1,285.3
+
+"BIC = X2 - (rf/) Log (N). X2 is the likelihood ratio test statistic for comparing the constant model with no covariates with the model of interest; d/is the degree of freedom. N. the sample size, is 79. 378 in this study. Thebigger the BIC, the better the model.
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 5
+BACKWARD ELIMINATION PROCESS FOR MODEL SELECTION"
+
+Stage and Model
+Initial: Full model M0: (DR, DR2, UR, RG, OCP, EDC, ETH, AGE, NLC, PU, PF,MOT, COH)
+
+C-
+21938.2
+
+dfl
+100420
+
+P\
+1.0000
+
+X2
+
+dfl
+
+P2
+
+Stage 1 Ml:M0-UR M2: M0-EDC M3:M0-MOT
+
+21942.9 100425 1.0000 4.7 5 > 0.05 21948.2 100425 1.0000 10.0 5 >0.05 21947.7 100425 1.0000 9.6 5 > 0.05
+
+Stage 2 M4: Ml-MOT M5: Ml-EDC
+
+21952.4 100430 1.0000 9.5 5 > 0.05 21953.6 100430 1.0000 10.7 5 > 0.05
+
+Stage 3 M6:M4-EDC
+
+21963.0 100435 1.0000 10.6 5 > 0.05
+
+"G- represents the deviation of a set of frequencies expected from the model from a set of observed frequencies. A larger value for a given degree of freedom indicates a poorer fit of the model with the data, dfl is the degrees of freedom, equals the number of non-empty cells from cross-classifications of independent variables in a model minus the number of linearly independent parameters in the model. For example, in the initial model M0. there are 100441 non-empty cells on the basis of cross-classifications of variables listed in the model and 21 independent parameters (including the constant). So dfl = 100441 - 21 = 100420. PI is the probability that the null hypothesis that the observed frequency data aregenerated from the model cannot be rejected. Thelarger the probability, the better the model fits. X1 is the likelihood-ratio statistic for comparing nested models, which test the null hypothesis that expected values from the models are identical except for differences due to random variation, dfl is the difference in number of parameters between the twomodels. P2 is the probability of rejecting the null hypothesis. If P2 < 0.05. we conclude that the model with more parameters improves the fit of the model with fewer parameters; if PI > 0.05,we should accept the model with fewer parameters as having a more parsimonious fit than the model with more parameters.
+
+280
+
+Wang
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+remaining variables in the model are significant at P smaller than 0.05.
+RESULTS
+This section presents the interpretation of the parameter estimates from the final parsimonious main-effects multinomial logit model for IUD discontinuation. The results of the multinomial logit model are presented in Table 6. Coefficients, as well as their statistical significance for individual parameters for each type of stopping, are presented in the first five columns, each providing a contrast between discontinuation due to a specific reason and continuation (the reference category). The remaining columns provide the chi-square test of each variable effect (Wald test), which is similar to analysis of variance for the leastsquares analysis.
+It can be seen from Table 6 that the number of living children and age at the start of IUD insertion are the most important determinants of IUD discontinuation, with the large differences in the logit coefficients among their categories and the big average chi-square statistics per degree of freedom being 76.69 and 48.34, respectively. The period of use has the third strongest effect on IUD stopping. Compared with these three variables, other variables contribute relatively little to discontinuing an IUD use.
+The logit coefficients can be converted into the odds of discontinuation and can be interpreted as follows: For the effect of period of use on IUD failure, when the effects of other covariates are controlled, the odds of having an IUD failure are 1.39( = exp(0.1637)/ exp(--0.1637)) times higher for women
+
+who started IUD use before 1984 than for women who started IUD use since 1984.
+In the discussion below, the effects of these variables on each reason for stopping are examined in more detail, beginning with an assessment of differentials in the discontinuation rates by duration, period of use, and region. It should be mentioned here that because this study uses a quite different method and different sets of variables from those used in Tu's study (1985) it is not feasible to make direct comparison of the results from the two studies, although both studies address the same topic.
+EFFECTS OF DURATION, PERIOD OF
+USE, AND REGION
+Table 6 shows that duration of IUD use, period of use, and geographic region are the only variables that have statistically significant influences on each type of IUD discontinuation. Therefore I discuss the effects of these variables before making separate analyses of reason-specific discontinuation. To illustrate the effects of duration on the likelihood of stopping IUD use, Figure 1 shows the predicted (standardized) probabilities of discontinuing an IUD use calculated by holding all other variables constant at their averages. Different patterns emerge for different reasons of discontinuation. IUD failure is at its peak during the first year of use and declines steadily afterwards. Similarly, the probability of expulsion is highest in the first year after insertion and decreases until four years of use, then remains almost unchanged afterwards. For stopping due to changing method, the probability remains at above 0.5 per cent during the
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Characteristics
+Intercept Duration
+Linear Squared Region North Northeast East South Southwest Northwest Occupation Agriculture Others Ethnicity Minority Han Age at start of use £23 24-26 27-29 30+ No. of living child. sl 2 3+ Prior use No Yes Prior failure No Yes Period of use <1984 al984
+"p < 0.01 V < 0.05
+
+TABLE 6
+MULTINOMIAL LOGIT ESTIMATES OF IUD DISCONTINUATION BY REASON
+
+Failure
+-3.0043"
+
+Expulsion
+-4.1227"
+
+Switching
+-4.7062"
+
+Side-effects
+-5.3462"
+
+Other
+-5.0846"
+
+·If
+
+-0.1058" -0.0065"
+-0.0407 0.0074 0.1510" 0.0291 0.1716"
+-0.3184
+
+-0.3374" 0.0103"
+-0.0100 -0.7912"
+0.1259'' 0.5466" -0.0480 0.1767
+
+0.0738'' -0.0213"
+0.1595'' 0.0175 0.2874" 0.1117'' -0.3326" -0.2435
+
+-0.5783" 0.0340"
+0.6251" -1.0860"
+0.0673 0.5023" -0.2023 0.0936
+
+0.2094" -0.0117"
+-0.1225 -0.1837" -0.0939
+0.3788" 0.0327 -0.0114
+
+5 5 25
+
+0.0877" -0.0877
+
+0.2702" -0.2702
+
+0.1888" -0.1888
+
+-0.0701 0.0701
+
+0.2594 -0.2594
+
+-0.0856 0.0856
+0.6675" 0.3294" -0.0804" -0.9165
+-0.1790" O.O712h 0.1078
+
+-0.2761" 0.2761
+0.8175" 0.3357" -0.1201" -1.0331
+-0.5594" -0.2002"
+0.7596
+
+-0.2968" 0.2968
+-0.1359" 0.0799 0.3155"
+-0.2595
+-1.4610" 0.6567" 0.8043
+
+-0.1551 0.1551
+0.1474 0.0717 -0.2693" 0.0502
+-0.1217 0.0981 0.0236
+
+0.0055 -0.0055
+0.5843" 0.2921" -0.3124" -0.5640
+-0.8108" 0.5742" 0.2366
+
+15 10
+
+0.0793 -0.0793
+
+-0.2487" 0.2487
+
+-0.1152" 0.1152
+
+0.1164 -0.1164
+
+0.0681 -0.0681
+
+-0.3135"
+
+0.4371" -0.0181
+
+0.3135 -0.4371
+
+0.0181
+
+0.0449 -0.0449
+
+0.0671 -0.0671
+
+0.1637"
+
+0.2001"
+
+0.2959"
+
+0.2555" -0.0972*
+
+-0.1637 -0.2001 -0.2959 -0.2555
+
+0.0972
+
+9836.60 0.0001 1967.32
+
+293.68 0.0001 123.97 0.0001 252.24 0.0001
+
+58.74 24.79 10.09
+
+88.22 0.0001 17.64
+
+37.50 0.0001
+
+7.50
+
+725.03 0.0001 48.34
+
+766.89 0.0001 76.69
+
+46.76 0.0001
+
+9.35
+
+94.76 0.0001 18.95
+
+152.83 0.0001 30.57
+
+O
+
+282
+
+Wang
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+f§
+
+O O
+
+CpO
+
+o"
+
+p d
+
+Failure Explusion Switching Side-effects Non-Method Reasons
+
+d 0
+
+20 40 60 IUD Use in Months
+
+FIG. I.--IUD discontinuation rates
+
+80
+
+first four years of use and then drops to below 0.5 per cent during the following years of use. The probability for nonmethod reasons has an increasing trend with duration of use in the first fourand-a-half years of use. Side-effects are the least likely reason for stopping use and are more likely to occur during the first six months after insertion and to remain constant after six months, which is consistent with clinical studies (Treiman and Liskin, 1988; Hatcher et al., 1992).
+During the first year of use, contraceptive failure is the most important reason to discontinue use of an IUD, followed by expulsion, switching method, nonmethod reasons, and sideeffects. The relative importance to stopping IUD use by cause changes during the time period of IUD use. After four years of use, nonmethod reasons replace contraceptive failure as the most important reason, with the
+
+probability of discontinuing an IUD caused by other reasons (except for contraceptive failure) being almost constant and at relatively low levels.
+According to Table 6, region (RG) and period of use (COH) are found to have universally significant effects on types of discontinuation: failure, expulsion, switching, side-effects and nonmethod-related stopping.
+The descriptive statistics in Table 2 show that there appears to be a strong cohort effect on the likelihood that a woman will stop IUD use, with higher rates of discontinuation reported in the pre-1984 period. However, this finding may possibly be caused by the selection biases as those starting their IUD's use after 1983 have a shorter exposure time and most of them are censored at the time of the survey. After the possible selection biases due to differences in exposure have been removed by controlling for the duration of IUD use in
+
+Vol. 43, No. 3-4
+
+IUD in China
+
+283
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+the model, the strong cohort effect on IUD discontinuation by all reasons is confirmed. The results from Table 6 indicate that the log-odds are stopping IUD use due to failure, expulsion, and side-effects among women who initiated use since 1984 are much lower than among those who started use before 1984. For IUD users, the largest reduction in IUD discontinuation rate since 1984 compared with the earlier pre-1984 period is due to switching an IUD to another method; the next most important reasons are side-effects, expulsion, failure, and then nonmethodrelated reasons. The odds of discontinuing an IUD use due to those reasons are, respectively, 1.81, 1.67, 1.49, 1.39 and 1.21 times higher for women initiating IUD use before 1984 than since 1984.
+The reason for this decline in discontinuation rates may perhaps be the promotion of the family planning services. Another possible explanation may be the relaxation of the family planning program after 1983. Greenhalgh (1986) documented that the Chinese government has eased enforcement of the one-child policy slightly (referring to its action as "opening a small hole" in 1984). This policy of leniency, when it happens, is likely to affect contraceptive behavior. For example, users may be more motivated to use an IUD so the discontinuation rate is lower.
+Regional differentials in IUD discontinuation rates (Table 6) are expected. China can be described as a mosaic of different cultures. It has an area of 9.6 million square-kilometers and 31 administrative regions, with each region having its own cultural and geographic characteristics. Also, there
+
+is diversity in fertility patterns and family planning programs (Peng, 1991; Anderson and Silver, 1995). To simplify the presentation, the 29 regions included in the sample have been grouped into six large areas: North, Northeast, East, South, Southwest, and Northwest. This grouping, based on the geographic criterion, is somewhat arbitrary. It may conceal internal differences in terms of economic, environmental, and cultural heritage, but it still has captured some regional variability.
+Contraceptive failure and switching rates are the lowest in the Northwest region, which has the lowest IUD use rate and a fairly large proportion of minorities. It is also observed that the probabilities of discontinuation caused by expulsion, side-effects, and nonmethod-related reasons are significantly the lowest in the Northeast, which has the highest IUD use rate and the most effective family planning program (Wang et al., 1996; Peng, 1991).
+FAILURE
+In addition to geographic region and period of use, age at starting an IUD use, number of living children, and previous failure are found to have a statistically significant impact on IUD failure (Table 6).
+Age at the initiation of IUD use seems to be the most important determinant of IUD failure, with young women having a significantly higher likelihood of IUD failure. For example, the odds of experiencing an IUD failure for women aged below 24 is 4.87 times as high as that for women aged 30 and over. This finding is not surprising since women's fecundity decreases with age, and also advancing age probably
+
+284
+
+Wang
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+strengthens women's motivation to use an IUD effectively and to terminate childbearing (Vaughan et al., 1977).
+The effects of number of living children and occupation reveal that women with two children or more, and those engaged in agricultural work, have a higher rate of IUD failure than their counterparts. In China, some women, especially multiparous mothers in rural areas, may have their IUD's removed privately and get pregnant intentionally, but report the pregnancy as a method failure, and then have a birth without incurring a penalty from the government.
+Prior experience of contraceptive failure strongly increases the chance of experiencing another accidental pregnancy. Those women may perhaps be more sexually active or more fecund and may have experienced repeated contraceptive failures (Wang et al., 1996).
+EXPULSION
+IUD characteristics, such as size, shape, and quality, may contribute to differences in the expulsion rate for different IUD's. The expulsion rate may also depend on a number of administrative, patient, and medical variables, including ease of insertion, clinical experience, and the user's access to medical services. In addition, user characteristics, such as age, parity, and occupation, etc., may also explain differences in expulsion rates.
+All the explanatory variables that are included in the parsimonious model are shown to be strongly associated with IUD expulsion. According to Table 6, age at the start of IUD insertion has the strongest effect on IUD expulsion. The odds of expelling an
+
+IUD for women in the youngest age group is 6.36 times as great as for women in the oldest age group. This finding suggests a physiological reaction of women to IUD's. The uterus of younger women may be more sensitive to foreign objects so that the IUD expulsion rate is higher for younger women (Hatcher et al., 1992).
+The number of living children is the second most important determinant of IUD expulsion. The coefficients of number of living children in Table 6 indicate the women with three or more children have significantly higher odds of 3.74 to expel IUD's than women with two or less children. The effects of number of living children may reflect the discontent with the family planning policy. It is possible that reported expulsions are user-initiated removals because some women may have a strong desire for another child and may have their IUD's removed and misreport the causes of discontinuation.
+Occupation is clearly social in origin. As Table 6 shows, occupation significantly affects the log-odds of expulsion. Women engaged in agricultural work are more likely than women in other occupations to have their IUD's expelled since they are engaged in heavy labor and enjoy less favorable medical and family planning services. Village rural doctors usually receive less training and may have limited supplies of different types and sizes of IUD's, which may lead to higher rates of IUD expulsion.
+Minority women are less likely to expel their IUD's than Han majority women. Minority women enjoy a lenient family planning policy, and so IUD users are probably those who are highly motivated to use it effec-
+
+Vol. 43, No. 3-4
+
+IUD in China
+
+285
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+tively. They may also have less need to call a removal an expulsion since expulsion requires no further explanation whereas removal does.
+The effect of previous use indicates that women with an experience of contraception have an elevated logodds of having an expulsion. However, women with experience of failure have a lower log-odds to expel. The reasons for these results are unclear.
+SWITCHING METHODS
+Changing from an IUD to another method may denote women's dissatisfaction with the characteristics of IUD's, such as use-effectiveness, health effects, and level of convenience. It may also indicate the enforcement of the family planning policy.
+Age at the start of IUD fitting, number of siblings, previous experience of contraceptive use, and occupation and ethnicity significantly affect the propensity to switch from an IUD to another method.
+The coefficients of age indicate that women in age group 27-29 have the highest log-odds of switching. This result may suggest that women in this group use an IUD for spacing their births.
+The size of the family of a Chinese woman might influence her decision to change method from an IUD to a more effective method like sterilization. High-parity women are urged or pressured by the family planning personnel to adopt highly effective methods to avoid having additional children. The results in Table 6 provide clear evidence that family size is the most important factor in IUD switching.
+
+Women with more children are more likely to change method. The multinomial logit model shows that the odds of removing an IUD to use another method are 8.31 and 9.34 times higher for women with two children and with at least three children, respectively, than for women with one child. As reported earlier in this paper, less than one-fourth of women with two or more children used IUD's compared with more than half who used sterilization (Wangetal., 1996).
+Women who have used contraception previously are more likely to change method than women without any experience of use. This group of women may be more knowledgeable about contraceptive methods. They may have changed from IUD's to other reversible methods. The occupation effects show that agricultural women are clearly more likely than other women to change to some other method, probably sterilization, suggesting that women in agricultural work use an IUD for birth spacing whereas women in other occupations use IUD's for preventing additional pregnancies. The differentials in the log-odds of changing methods for the ethnic minorities demonstrate that minority women are less likely to change IUD use. The possible explanation is that national minorities enjoy a more lenient family planning program, so they may face less pressure to change to sterilization than do Han majority women.
+SIDE-EFFECTS
+Another variable, age at the start of IUD fitting, is found to influence significantly the removal of IUD's because of side-effects.
+
+286
+
+Wang
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+The age effect on IUD removal because of side-effects may illustrate women's physiological reactions to IUD's. This study shows that women aged between 27 and 29 have the lowest odds of removing an IUD due to side-effects and that most IUD removals due to side-effects occur during the first six months (see Figure 1). This finding partially echoes the clinical reports of an elevated risk of infection only during the first four months after insertion (Hatcher et al., 1992; Treiman and Liskin, 1988). Some clinical studies also report high rates of IUD removal because of bleeding and pain among both nulliparous and younger women (Hatcher et al., 1992; Treiman and Liskin, 1988). Our analysis reveals no parity effect and the signs of coefficients of age show that women younger than 27 have a slightly higher removal rate as a result of sideeffects, but these results are not significant.
+NONMETHOD REASONS
+Nonmethod reasons represent those reasons other than expulsion, failure, side-effects, and switching. Sixty-two per cent of IUD stopping is attributed to women's desire to have a child. Apart from region and period of use, two other variables--age at the start of IUD fitting and number of siblings-- are found to be strongly associated with the probability of IUD removal for nonmethod-related reasons.
+An inverse relationship between age and the rate of abandoning method is found in Table 6. The odds of women in the youngest age group (23 or less) having their IUD's removed are 3.15 times the odds for women in the highest age group (30 or over). Thisfinding
+
+may suggest that younger women use IUD's for spacing whereas older women use IUD's for preventing the births of additional children.
+A positive relationship between number of siblings and method abandonment due to nonmethod-related reasons is found in the analysis. Women with one or no child have the lowest log-odds of stopping IUD use, suggesting that the nulliparous or single-child women may be those urban women who use an IUD for preventing pregnancy, whereas multiparous women may be those rural women who use an IUD for spacing.
+SUMMARY AND CONCLUSIONS
+In this study a discrete-time competing-risk event history method is used to identify the determinants of fivetypes of IUD discontinuation: failure, expulsion, switching, side-effects, and nonmethod-related reasons. Since the discrete-time competing risk model is equivalent to a multinomial logit model, and since the independent variables included in this study are categorical, the log-linear modelling technique is used for model selection and parameter estimation. The details of modelling, the duration dependence of IUD discontinuation, and selection of the most parsimonious main-effects loglinear model are presented.
+Based on the parsimonious multinomial logit model, IUD discontinuation determinants by cause are identified and discussed in the study. The determinants of IUD discontinuation suggest that there are several different mechanisms through which the covariates included in the analysis may influ-
+
+Vol. 43, No. 3-4
+
+IUD in China
+
+287
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+ence the likelihood of IUD discontinuation. Some of the covariates may reflect the effect of the family planning program; some may illustrate women's physiological reactions to IUD; some may reflect contraceptive-use history; others reflect the social characteristics of women that lead them to have their IUD's removed for a specific reason.
+The first type of predictors may reflect the effect of the family planning program on IUD discontinuation. The most obvious example is the effect of period of use. IUD discontinuation rates for all reasons including methodrelated and nonmethod-related reasons, declined dramatically among women who initiated IUD use since 1984 compared with those before 1984. The Chinese government has been working hard to promote the family planning services in the 1980's and more reliable types of IUD's were introduced in the 1980's (Kaufman, 1993). The effect of region provides a second example of the family planning program effect. The Northeast region, which includes Liaoning, Jilin, and Heilungjiang, has a more effective family planning program than other regions, and has the lowest removal rates due to expulsion, side-effects, and nonmethod-related reasons. The determinants of IUD removal to switch to another method show further evidence of the influence of the family planning program on IUD discontinuance. The results show that women with more children are more likely to change to another method, most likely sterilization because the family planning program urges multiparous women to use sterilization.
+Some other reasons for IUD discontinuation may also be essentially re-
+
+lated to the family planning program. First, there is clear evidence of a defiance of, and resistance to, the family planning program policy by some groups of women. The fact that women with more children are more likely to experience a contraceptive failure, to expel an IUD, and to remove an IUD to have another child are such examples. A higher expulsion rate among multiparous women may be attributed to removing an IUD deliberately because they want to have another child. They may also have their IUD's removed intentionally and then get pregnant but report it as a contraceptive failure. The removal of an IUD to get pregnant for multiparous women is clear evidence of resistance to the onechild policy. Secondly, the results in this study show that women have a lower IUD discontinuation rate when they enjoy a relaxed family planning policy. Ethnic minority women have enjoyed a lenient family planning policy, and they have lower IUD expulsion and switching rates compared with Han majority women who face a rather strict family planning policy. Also, users who started their IUD use after 1984 (which was a period of relaxation of the one-child policy) had significantly lower rates of IUD discontinuation for the five reasons studied than those who started their IUD's in the earlier strict period. These results may indicate the negative effects of the Chinese family planning program.
+The second type of correlates may reflect the action of physiological effects on stopping IUD use. Younger women have higher removal rates due to IUD failure and expulsion. Younger women are certainly more fecund and may be more sexually active than older
+
+288
+
+Wang
+
+Social Biology
+
+women; the uterine cavities of younger The last predictor, occupation, is a
+
+women may be more sensitive to for- social factor. Women in agricultural
+
+eign objects so that they have a higher work are more likely than women in
+
+expulsion rate. Besides, young women other occupations toexpel their IUD's
+
+are more likely tohave their IUD's re- because they are engaged in heavyla-
+
+moved within thefirst year of use be- bor, receive less favorable family plan-
+
+cause of side-effects of IUD use.
+
+ning services, and have limited supplies
+
+The third category of predictors of different types and sizes of IUD's.
+
+may berelated to the history of wom-
+
+en's contraceptive use. Women with
+
+ACKNOWLEDGMENTS
+
+previous experience of contraceptive failure have a higher probability of having another contraceptive failure, suggesting that contraceptive failure
+
+This research was carried out withfinancial support from the Programme of Research Development and Training in Human Reproduction, World Health Or-
+
+may occur frequently among some ganization, and The Population Councilin
+
+women. In addition, women with previous use of reversible methods are more likely to change from use of the IUD to other methods.
+
+New York, while the author was a Ph.D. candidate inthe Department of Social Statistics, University of Southampton, United Kingdom. I amindebted to Professor Ian Diamond forhis supervision of this study.
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+REFERENCES
+
+ALLISON, P. D. 1982. Discrete time methodsfor the analysis of event histories, p. 61-98. In S. Leinhardt (ed.), Sociological methodology. Jossey Bass, San Francisco.
+ANDERSON, B. A., and B. D. SILVER. 1995. Eth-
+nic differences in fertility andsexratios at birth in China: Evidence from Xingjiang. Pop. Stud. 49(2):211-226. CHEN, S. 1991. Sampling design of China'sfertility and birth control sample survey, p. 1022. In Proceedings of National Conference on China's 1988 Two-per-Thousand Fertility and Birth Control Survey. Hangzhou, China. DELFS, R. 1990. Population growth threatens to get out of control: The fertility factor. Far East. Rev., July 19.
+GAO, J., H. SHEN, S. ZHENG, H. FAN, M. H.
+HUI, L.H. HAN, and G.Z. YAO. 1986. A randomized contraceptive clinical evaluation of the steel ring, V Cu-200 and T Cu-220C IUD's. Contraception 33(5):443-454. GREENHALGH, S. 1986. Shifts in China's population policy. Pop. Develop. Rev. 12:491-515.
+HATCHER, R. A., F. STEWART, J. TRUSSELL, D.
+KOWAL, F. GUEST, G. K. STEWART, and W.
+CATES. 1992. Intrauterine devices (IUD's), p. 355-385. In Contraceptive technology.Irvington Publishers, Inc., New York. KAUFMAN, J. 1993. The cost of IUD failure in China. Stud. Fam. Plan. 24:(3):194-196. LAVELY, W. R. 1991. China unveils its monu-
+
+mental Two-per-Thousand Fertility Survey. Asian Pop. For. 5(4):89-92.
+MORENO, L., and N. GOLDMAN. 1991. Contra-
+ceptive failure rates indeveloping countries: Evidence from the Demographic and Health Survey. Fam. Plan. Persp. 17(2):44-49. PENG, X. 1991.Demographic transition in China: Fertility trends since the 1950's. Clarendon Press, Oxford. RAFTERY, A. E. 1986. A note on Bayes factors for log-linear contingency table models with vague prior information. J. Roy. Statist. Soc. (Series B) 48:249-250. SAS INSTITUTE. 1988. SAS/STAT User's Guide, Version 6.03 Edition, p. 189-282. SAS Institute, Cary, NY.
+STATE FAMILY PLANNING COMMISSION OF CHINA.
+1985. A clinical trial ofthree commonly used IUD's, p. 19-21. InCondensed summary of family planning scientific research results during the sixth Five Year Plan. State Family Planning Commission of China, Beijing.
+. 1993. Data on population and family planning. State Family Planning Commission, Beijing.
+TREIMAN, K., and L. LISKIN. 1988. IUD's--A
+New Look. Pop. Rep.Series B, No. 5, March, 1988. Tu, P. 1995. IUD discontinuation patterns and correlates in four counties in North China. Stud. Fam. Plan. 26(3):169-179.
+
+Vol. 43, No. 3-4
+
+IUD in China
+
+289
+
+VAUGHAN, B., J. TRUSSELL, J. MENKEN, and
+E. F. JONES. 1977. Contraceptive failure among married women in the United States, 1970-1973. Fam. Plan. Perspect. 9(6):251258.
+WANG, D., and I. DIAMOND. 1995. Impact on fer-
+tility of contraceptive failure in China in the 1980's. J. Biosoc. Sci. 27:277-284.
+WANG, D., I. DIAMOND, and S. CURTIS. 1996.
+Contraceptive use and failure in China. In I. Shah and T. Pullum (eds.). Transitions in
+
+contraceptive use in developing countries. SAGE Publications, Thousand Oaks, CA. WEINBERGER, M. B. 1991. Recent trends in contraceptive behaviour, p. 555-573. In Proceedings of Demographic and Health Surveys World Conference, Vol. 1. XIAO, B. 1989. Contraception in China. Outlook 7(1):2-6.
+YAMAGUCHI, K. 1991. Event history analysis. Sage Publications, Thousand Oaks, CA.
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+GANSER LIBRARY MILLERSVILLE UNIVERSITY MILLERSVIUE, PA 17551
+
+

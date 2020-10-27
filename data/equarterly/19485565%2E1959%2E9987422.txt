@@ -1,0 +1,237 @@
+Eugenics Quarterly
+ISSN: 0097-2762 (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi18
+Some problems in predicting a couple's contraceptive future
+Robert G. Potter Jr.
+To cite this article: Robert G. Potter Jr. (1959) Some problems in predicting a couple's contraceptive future, Eugenics Quarterly, 6:4, 254-259, DOI: 10.1080/19485565.1959.9987422 To link to this article: http://dx.doi.org/10.1080/19485565.1959.9987422
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles Citing articles: 2 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi18
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:25
+
+SOME PROBLEMS IN PREDICTING A COUPLE'S CONTRACEPTIVE FUTURE
+ROBERT G. POTTER, JR.
+Office of Population Research Princeton University
+
+Downloaded by [University of Michigan] at 13:25 08 December 2015
+
+_ S WAS STRESSED AT A RECENT CONFERENCE sponsored by the Planned Parenthood Federation of America (P.P.F.A., 1959), workers in a birth control clinic are repeatedly asked by patients: "How sure can I be that this method of contraception will protect me from another pregnancy?" Is this question answerable? More particularly, does information about the patient's contraceptive past permit precise inferences about her contraceptive future? If the patient is considering method X and if other patients using this method have experienced a specified number of pregnancies per 100 years of exposure, is it possible to derive from this group failure rate a specific prognosis for the individual patient?
+This paper will argue that these questions must usually be answered in the negative. Ordinarily it is not feasible to predict a patient's chances of avoiding another pregnancy, at least with any useful degree of precision. However something can be said to the patient about factors increasing or decreasing her chances of full protection. Accordingly a second objective of this paper is to construct a highly simplified model relating risk of another pregnancy to (1) regularity of contraceptive practice and (2) numbers of years during which protection is sought.
+
+LIKELIHOOD OF ENTIRELY SUCCESSFUL
+CONTRACEPTION
+A given patient hopes to use contraception to space her births and then, after attaining desired family size, to prevent any further pregnancies. Her chances of doing so may be viewed, in a highly idealized manner, as a function of two main factors: (a) her monthly risk of pregnancy during practice of contraception; and (b) the length of her "risk period," including in the latter both the desired postponements of wanted pregnancies and the interval between attaining desired family size and onset of permanent sterility.
+Her monthly risk of pregnancy with contraception may be interpreted as the product of two probabilities, namely, her fecundability--monthly likelihood of pregnancy when no efforts are made to prevent conception--and her contraceptive efficiency. By the latter is meant the extent to which practice of contraception reduces her fecundability toward zero. Strictly speaking, both fecundability and contraceptive efficiency vary from month to month, as well as tending upward or downward in the long run; but as first approximations they will be taken as constants.
+Given the assumption that the monthly risk of pregnancy during contraception is constant, the patient's chances of
+
+254
+
+Downloaded by [University of Michigan] at 13:25 08 December 2015
+
+being entirely successful with contraception may be estimated by the formula
+where p is the constant monthly risk of contraceptive failure and t is the length of the risk period in months.
+But ordinarily one does not have an estimate for either p or t. One cannot estimate the length of the risk period without first predicting age at onset of permanent sterility. It is well documented that mothers' ages at last confinement vary greatly in societies believed to be practicing little or no contraception (Tietze, 1957). To circumvent this problem, one might stipulate a range of risk period length, perhaps predicating the lower bound on sterility at age 35 and predicating the upper bound on sterility at age 34. Thus a woman marrying in her early twenties faces a risk period varying from more than 10 to more than 20 years.
+Even more difficult to estimate is the patient's monthly risk of pregnancy during contraception. Perhaps the patient has not used contraception earlier, and one has only information about how long she has taken to conceive in the absence of birth control. This information tells something about her fecundability but nothing about her potential efficiency with contraception. If she has practiced contraception earlier, often it has been with another method than is now being recommended. The assumption that she will be at least as efficient with the new method as with the old is risky because, as many clinics have found, the use-effectiveness of a method depends as much upon the patient's reaction to the method as upon its intrinsic effectiveness.
+The best situation for estimating, then, is when the patient has already accumulated experience with the method being recommended. In this case it is more reasonable to assume that her
+
+255
+future contraceptive efficiency will be at least as great as her past efficiency. Unfortunately this past experience usually does not extend more than 2 or S years and rarely longer than 5 years. Yet even 5 years is not enough experience to permit an usefully precise inference. This is worth illustrating, and in the examples below it is assumed that the patient's monthly chances of avoiding pregnancy with contraception are constant from month to month.
+Suppose that a particular patient has successfully used contraception 2 years before her first pregnancy and three years before her second. Altogether this makes 5 years of contraception without a failure. Quite possibly the patient is enjoying a high level of protection and deserves assurance about her future; but there is also an appreciable likelihood that her protection is quite mediocre and that so far she has merely been lucky. Adopting R. A. Fisher's principle of maximum likelihood, one may ask what monthly chance of avoiding pregnancy yields the observed record with highest probability. That is, what value of q maximizes the expression g60? The answer, a «/-value of one, is scarcely satisfactory unless one is willing to admit the possibility of perfect contraceptive efficiency. It does indicate that a high degree of protection has greater likelihood than a low degree of protection. Nevertheless the latter inference cannot be dismissed. By setting q60 equal to .05, one finds that 5 per cent of the time a couple can escape pregnancy for five years with a monthly chance of avoiding pregnancy as low as .95. Such a low qvalue represents an expectation of several pregnancies during a ten-year risk period. Considering a less extreme possibility, one-third of the time a .98 monthly chance of avoiding pregnancy might generate the record observed; yet
+
+256 Eugenics Quarterly
+
+Downloaded by [University of Michigan] at 13:25 08 December 2015
+
+it carries an expectation of approximately two pregnancies per ten-year risk period. Thus from a record of no failures in five years of contraception one can infer rather little.
+As a second example, suppose that the patient has experienced one pregnancy during 60 months of contraception. Here a monthly chance of avoiding pregnancy of .983 has the greatest likelihood, that is, constitutes the q-value which maximizes the expression pq59.1 However, a wide range of g-values have likelihoods nearly as large. Thus, monthly probabilities of avoiding pregnancy of .950 and .997 both have likelihoods more than onethird as high as the maximum likelihood value of .983. Yet the first of these values promises several pregnancies during a twenty-year risk period, while the other assures a 50-50 chance of escaping pregnancy altogether during the same period.
+EXTRAPOLATING FROM GROUP EXPERIENCE
+Let us suppose that the clinic has accumulated enough experience with the method being recommended so that a fairly stable failure rate based on a sizable sample can be computed. Now x pregnancies per 100 years of contraceptive exposure implies a little under x/10 pregnancies per ten-year risk period, or a little under x/5 pregnancies per twentyyear risk period. For instance, if the clinic patients using the recommended method have experienced 15 pregnancies per 100 years of contraceptive exposure, this implies an expectation of somewhat under 1.5 pregnancies during a ten-year risk period or somewhat under
+1 Given a record of one pregnancy in t months of contraceptive exposure, the maximum likelihood estimate of p, the monthly probability of pregnancy despite contraception, is 1/t, derived by setting the first derivative of p(l-p)t-l equal to zero and solving for p. The complement of 1/t furnishes the maximum likelihood estimate of q.
+
+3.0 pregnancies during a twenty-year risk period. How relevant are these statistics for predicting a single patient's future?
+Obviously these expectations of almost 1.5 and 3.0 pregnancies will be too high if the patient is fated for an early onset of permanent sterility. Extrapolating from group experience also has the disadvantage that it tends to lead to an unduly pessimistic or optimistic prognosis depending on whether the patient and her husband are above or below average in their contraceptive efficiency. Moreover, errors of pessimism are likely to outnumber mistakes of optimism. When the durations of contraceptive exposure of a group are arranged into a frequency distribution, they reveal great skewness, suggesting that a minority of the sample are well above the group's average with respect to monthly risk of unplanned pregnancy, while the majority are below it. But quite aside from this issue of accuracy of prediction, one may wonder how much encouragement a patient draws upon hearing that she has an expectation of somewhat under 1.5 to 3.0 pregnancies during the remainder of her reproductive period.
+The fact that a patient's prospects with a particular method are not precisely calculable does not mean that the patient will ask for a prediction any less often. Some kind of answer must be given, and of course a statistically sound answer is not necessarily the most politic one. Nevertheless it seems worthwhile to try to outline some of the elements of a statistically sound reply.
+ELEMENTS OF A REPLY
+Only sterility or perfect contraceptive efficiency assures complete protection against unwanted pregnancy. Since perfectly efficient use of contraception does not exist, any fecund patient faces at least a small risk of eventual pregnancy
+
+Downloaded by [University of Michigan] at 13:25 08 December 2015
+
+regardless of the method she is using. Other things equal, the risk of eventual pregnancy is greater when the risk period is longer and, for a constant risk period, is greater or less according to the patient's monthly chance of contraceptive failure. The patient exercises considerable control over the latter factor through the regularity with which she practices contraception. This last fact may be dramatized if long enough histories with the recommended method are available. Then it becomes possible to cite that amongst a sample of apparently fecund users, some have gone many years without an unintentional pregnancy while others have experienced multiple pregnancies in the same period.
+Estimates of mean fecundability typically range from .2 to A.2 Accordingly when the risk period is as long as ten years, very efficient contraception must be practiced in order to insure even a 50 per cent chance of escaping further pregnancy; and of course even more efficient contraception is required for a 95 per cent chance of complete protection. Indeed in this last case, virtually no chance-taking in the form of omitting contraception near the middle of the menstrual cycle can be afforded. The remainder of this paper is devoted to documenting these last statements.
+PROTECTION DURING LONG RISK PERIODS
+To determine the monthly probability of avoiding pregnancy which is necessary to yield a 50 per cent chance of complete protection during a risk period
+2These estimates come from two sources: (a) among successful contraceptors eventually becoming pregnant, the proportion who report doing so in the first month after deliberately stopping contraception for that purpose; and (b) among newly-weds not using contraception and eventually getting pregnant, the proportion who report getting pregnant the first month of marriage.
+
+257
+of t years, set q* equal to .5 and solve for q. Subtracting this answer from one gives the associated monthly risk of contraceptive failure. Finally, this monthly probability of failure is multiplied by 1200 in order to convert it into the form which has become conventional in the literature, namely, number of failures per 100 years of contraception. The requirements for a 95 per cent chance of complete protection are derived in the same manner, except that .95 is substituted for .50 in the first equation.
+In Table 1, results are given for risk periods of 1, 5, 10, and 20 years. Because of a major simplifying assumption, namely, that the monthly risk of unplanned pregnancy is constant, these results indicate only orders of magnitude. Nevertheless, it is interesting that the failure rates estimated as necessary for a .95 chance of complete protection during risk periods of 5, 10, and 20 years are below the lowest rates recorded in the literature.
+OMISSIONS OF CONTRACEPTION
+It remains to consider what frequencies of contraceptive omission are consistent with a .50 or .95 chance of complete protection during risk periods of specified length. Enough simplifying assumptions are made so that the results, tabulated in Table 2, are only suggestive.
+The length of time during a menstrual cycle when coitus has an appreciable chance of initiating pregnancy, hereafter termed the "fertile period," is brief. It is assumed that every month includes a 24-hour fertile period and that coitus coinciding with this fertile period always produces pregnancy. During the week centered on the fertile period, coitus is practiced with a specified frequency, spaced at least 24 hours apart. Fecundability stands in direct proportion to coital frequency: a frequency of c times
+
+258 Eugenics Quarterly
+
+TABLE 1
+CONTRACEPTIVE FAILURE RATES YIELDING . 5 0 AND .95 CHANCES OF COMPLETE PROTECTION DURING RISK PERIODS OF SPECIFIED LENCTH
+
+Length of risk period
+(years)
+1 5 10 20
+
+Pregnancies per 100 years of contraception
+
+SO chance of
+
+.95 chance of
+
+complete protection
+
+complete protection
+
+67.5 52 13.8 1.0 7.0 0.5 35 0.2
+
+Downloaded by [University of Michigan] at 13:25 08 December 2015
+
+TABLE 2
+RATES OF CONTRACEPTIVE OMISSION CONSISTENT WITH £0 AND . 9 5 ASSURANCES OF NO PREGNANCY DURINC RISK PERIODS OF SPECIFIED LENGTH, FOR STIPULATED COITAL FREQUENCIES
+
+Length of risk period
+(years)
+
+.50 assurance of complete protection, given coital
+frequencies of:
+
+lx/wk
+
+2x/wk
+
+4x/wk
+
+.95 assurance of complete protection, given coital
+frequencies of:
+
+lx/wk
+
+2x/wk
+
+4x/wk
+
+1
+
+.3926
+
+.1963
+
+.0981
+
+.0301
+
+.0150
+
+.0075
+
+5
+
+.0805
+
+.0402
+
+.0201
+
+.0063
+
+.0031
+
+.0015
+
+10
+
+.0406
+
+.0203
+
+.0101
+
+.0028
+
+.0014
+
+.0007
+
+20
+
+.0203
+
+.0101
+
+.0050
+
+.0014
+
+.0007
+
+.0004
+
+per week implying a fecundability of
+c/7.3
+It is further assumed that contracep-
+tion is perfectly efficient when used but
+is omitted with a stipulated frequency
+during the week centered on the fertile
+period. When contraception is used,
+there is zero chance of pregnancy. But
+when contraception is omitted during
+a coitus coinciding with the fertile peri-
+od, pregnancy is certain.
+Given these assumptions, simple cal-
+culations lead to the results tabulated
+in Table 2. To illustrate, consider the
+3 Given the other assumptions being made, a fertile period of 24 hours leads to levels of fecundability approximating those empirically observed. According to the statistics of Kinsey et al., modal coital frequencies for Americans in early marriage are 2 and 3 times a week. (Kinsey et al., 1953) These frequencies imply fecundabilities of 2/7 and 3/7 respectively, or .28 and .43 which fit fairly well with observed mean fecundabilities ranging from .2 to .4.
+In reality, of course, the length of the fertile period is variable and during many months must average substantially longer than 24 hours in order to compensate for the pregnancies aborting too early to be recognized, and for the months when there is no fertile period because the menstrual cycle is anovulatory or the released ovum defective and unfertilizable.
+
+frequency of chance-taking permissible for a .5 assurance of no pregnancy during a risk period of ten years, given a coital frequency of twice a week. According to earlier calculations made in connection with Table 1, a monthly pregnancy chance of .0058 can be tolerated. Without any contraception (100 per cent chance-taking) the monthly chance of pregnancy is 2/7 or .2857. The rate of chance-taking which will reduce this fecundability to the critical .0058 level is .0058/.2857, or .013. Thus, omissions of contraception around the middle of the menstrual cycle must be confined to something like 13 in 1000 times.
+Table 2 indicates that, when risk periods are as long as 10 years, very little chance-taking can be afforded. Even with a coital frequency of once a week, omission of contraception must be kept under 5 times in a hundred in order to secure a .50 chance of complete protection; and to reach .95 insurance against eventual pregnancy, the omissions must be kept under 5 times in a thousand. Resting on so many simplifying assump-
+
+Downloaded by [University of Michigan] at 13:25 08 December 2015
+
+tions, these estimates are subject to large errors. But it is more likely that they exaggerate the limits of permissible chance-taking than underestimate them because of the assumption that contraception is perfectly effective when used.
+SUMMARY
+Usually there is no way to answer exactly the contraceptive patient who asks: "How sure can I be that this method will protect me from another pregnancy?" Chances of complete protection during the remainder of her reproductive period depend on (1) the length of that period and (2) her typical monthly risk of unplanned pregnancy during that period. Ordinarily neither of these statistics can be estimated with any precision from the patient's previous record.
+It is even hard to find an answer that is both optimistic and honest. If the patient has borne all her desired children by her late twenties, then her period of pregnancy risk may last 10 or 15 years more. To be nearly certain of protection during such a long risk period presupposes a monthly risk of contraceptive failure lower than any of the risks implied by published failure rates. For example, a rate of 3 pregnancies per 100 years of exposure furnishes only a .74 chance of complete protection during
+STATEMENT REQUIRED BY THE ACT OF AUGUST 24, 1912, AS AMENDED BY THE ACTS OF MARCH S, 1933, AND JULY 2, 1946 (Title 39, United States Code, Section 233) SHOWING THE OWNERSHIP, MANAGEMENT, AND CIRCULATION OF EUGENICS QUARTERLY, published Quarterly at Baltimore, Maryland, for October 1, 1959 1. The names and addresses of the publisher, edi-
+tor, managing editor, and business managers are: Publisher, American Eugenics Society, Inc., 230 Park Ave., New York 17, N. Y. Editor, Frederick Osborn, 230 Park Ave., New York 17. N. Y. Editor, Helen G. Hammons, 230 Park Ave., New York 17, N. Y. Managing Editor, Helen G. Hammons, 230 Park Ave., New York 17, N. Y.
+2. The owner is: (if owned by a corporation, its name and address must be stated and also immediately thereunder the names and addresses of stockholders owning or holding 1 percent or more of total amount of stock. If not owned by a rated firm, its name and address, as well as that of each individual member, must be given.) American Eugenics Society, Inc., 230 Park Ave., New York 17, N. Y.
+3. The known bondholders, mortgagees, and other security bolders owning or holding 1 percent or more of
+
+259
+
+a ten-year period, well short of the .95 assurance or better that the patient would like. Thus group failure rates cannot be cited in encouragement unless one can assume that the patient in question will prove unusually proficient in her use of the recommended method; but her past record seldom is extensive and relevant enough to demonstrate this decisively.
+In this predicament, one hopes to be able to state that the recommended method compares favorably with other methods in group use, or even better, that some couples have remained protected by it for long periods. In any case, one stresses that the protection received from the recommended method, like that from any other method, depends greatly on the regularity with which it is used. Virtually no chance-taking during the middle of the menstrual cycle can be afforded if a high assurance of complete protection is desired.
+
+REFERENCES
+KINSEY, A. C. et al., 1953. Sexual Behavior in the Human Female. Table 93. W. B. Saunders, Philadelphia.
+PLANNED PARENTHOOD FEDERATION OF AMERICA,
+Inc. and Ortho Research Foundation, CoSponsors of a Statistical Conference, New York, May 22, 1959.
+TIETZE, C., 1957. Reproductive span and rate of reproduction among Hutterite women, Fertility and Sterility, 8:89-97.
+
+total amount of bonds, mortgages, or other securities are: None.
+4. Paragraphs 2 and 3 include, in cases where the stockholder or security holder appears upon the books of the company as trustee or in any other fiduciary relation, the name of the person or corporation for whom such trustee is acting; also the statements in the two paragraphs show the affiant's full knowledge and belief as to the circumstances and conditions under which stockholders and security holders who do not appear upon the books of the company as trustees, hold stock and securities in a capacity other than that of a bona fide owner.
+5. The average number of copies of each issue of this publication sold or distributed, through the mails or otherwise, to paid subscribers during the 12 months preceding the date shown above was: (This information is required from daily, weekly, semiweekly, and triweekly newspapers only.)
+
+HELEN G. HAMMONS, Business Manager.
+
+Sworn to and subscribed before me this Slst day of
+
+October, 1959
+
+[SKAL]
+
+ETHEL. J. MCFAODEN
+
+(My commission expires May 1, 1961)
+
+

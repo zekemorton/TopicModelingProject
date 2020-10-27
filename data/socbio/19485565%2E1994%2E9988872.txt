@@ -1,0 +1,2197 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Determinants of infant and early childhood mortality in Cameroon: The role of socioeconomic factors, housing characteristics, and immunization status
+Barthélémy Kuate Defo
+To cite this article: Barthélémy Kuate Defo (1994) Determinants of infant and early childhood mortality in Cameroon: The role of socioeconomic factors, housing characteristics, and immunization status, Social Biology, 41:3-4, 181-211, DOI: 10.1080/19485565.1994.9988872 To link to this article: http://dx.doi.org/10.1080/19485565.1994.9988872
+Published online: 23 Aug 2010.
+Submit your article to this journal
+Article views: 11
+View related articles
+Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:46
+
+Determinants of Infant and Early Childhood Mortality in Cameroon: The Role of Socioeconomic Factors, Housing Characteristics, and Immunization Status
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Barthélémy Kuate Defo
+Center for Demography and Ecology and Department of Preventive Medicine University of Wisconsin-Madison Madison, Wisconsin53706
+
+ABSTRACT: This study examines factors impinging on the survival of children in Cameroon using longitudinal data collected by the United Nations Demographic Training and Research Institute of Yaounde, Cameroon. It deals especially with the role of socioeconomic factors (mother's education, employment, marital status, ethnicity, and household income), housing characteristics (construction materials, power source, source of water supply, extent of crowding), and immunization status on infant and child mortality. Two-state parametric and nonparametric hazards models for the risk of death at any time within the course of the study are used, with and without accounting for unmeasured heterogeneity. Overall, overcrowding has robust deleterious effects on infant and child survival. As regards the effects of socioeconomic variables, the robustness of the effects of household income and ethnic differentials are unchanged, even after controlling for unmeasured heterogeneity; the deleterious effects of marital status are also apparent, but these effects are largely explained by unmeasured covariates. The data also suggest that the protective effects of full immunization status are robust and not contaminated by confounding factors, at least in the first 16 months of life. These findings provide solid ground to support immunization programs and efforts as a means to reduce significantly infant and child mortality.
+
+In general, the high mortality of developing countries is associated, among other factors, with poverty, ignorance, malnutrition, inadequate quality of housing, lack of environmental sanitation, and low levels of immunity. Many of these potential determinants of mortality are highly associated, and their effects are thus mutually confounded.
+Failure to control for confounding variables can lead to erroneous associations between a factor and mortality. For example, feeding method is highly associated with child health at birth; and if poor health condition of the child is a true cause of mortality, fail-
+
+ure to control for child health status will produce an association between feeding method and mortality. The feeding regimen, however, may merely be a marker of poor child health, and not a true causal determinant of mortality.
+The goal of this study is to examine factors impinging on the survival of children in Yaounde", Cameroon, using data from the Yaounde Infant and Child Mortality Survey (YICMS). We deal especially with the role of socioeconomic factors (mother's education, employment, marital status, ethnicity, and household income), housing characteristics (construction materials,
+
+181
+
+182
+
+Kuate Defo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+power source, source of water supply, extent of crowding), and immunization status on infant and early child mortality. While the practice of primary health care, along with other interventions, will probably lead to further reductions in the mortality of many developing countries, it is likely to be less effective unless policies are based upon a clear understanding of the factors which influence the mortality patterns in those countries (Walsh and Warren, 1979; Henderson, 1983; Mosley,1983; Halstead et al., 1985; DaVanzo and Habicht, 1986; Caldwell et al., 1990; Kunitz, 1990).
+BACKGROUND
+SOCIOECONOMIC BACKGROUND
+AND CHILD SURVIVAL
+Most studies of differential mortality in developing countries have not always disentangled the ways in which the social, cultural, and economic characteristics of individuals and families operate to impact the survival of children (e.g., Adamchak, 1979; Behm, 1983; Hobcraft et al., 1984; Akoto, 1990; Akin, 1991; Victoria et al., 1992). Most often the mechanism is surmised.
+EDUCATION
+Several studies have suggested that child mortality in developing countries is associated more closely with maternal education than with any other socioeconomic factor (Caldwell, 1979; Cochrane et al., 1980; Behm, 1983; Caldwell et al., 1990; Gupta, 1990; Hobcraft et al., 1984). This finding has led some researchers to conclude that the mother's education is an important
+
+and independent covariate of mortality. According to Caldwell (1986), mother's education is not a simplesubstitution variation for a set of other variables with which it is correlated, but produces its own impact. This inverse association hasbeen attributed to many causes: (a) Education helps mothers break with traditional childraising practices and facilitates the acquisition of information related tofamily planning. The latter, through its effects on spacing and timing of births and pregnancies, acts to delay adolescent childbearing which is a risk factor of infant and child mortality, (b)Education decreases fatalism about illness and increased use of modern medical facilities, (c) Education creates aspirations for upward social mobility and the accumulation of wealth, enhances the likelihood of outside female employment, reduces the perceived economic utility of children, and increases availability of higher-quality foods made possible by increased income.
+Some joint effects have also been described. Modernization and urbanization more generally are theorized to influence mortality through, or jointly with, education. Finally, there might be "spillover effects" which serve toincrease the average level of education in the community. However, in many settings, it is still not clear why education is related to child survival.
+HOUSEHOLD INCOME
+The potential role of income-related factors in child survival is complex, mainly due to the multifaceted nature of income itself (United Nations,1985, 1986; Schultz, 1984). Household income may serve as an indicator of children's consumption of goods and
+
+Vol. 41, No. 3-4
+
+Childhood Mortality
+
+183
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+services that affect their health. However, despite the availability of numerous studies of the relationships between income and mortality, the interpretation of such relationship is not straightforward. A higher household income is expected to be associated with lower child mortality risks. This assumption is based on the premise that children in higher-income households will consume more healthenhancing goods and services per capita than will children in lower income households. But higher income could be obtained at the expense of extra hours of work that reduce women's time spent in child care. If so, the effect of income on mortality could be adverse. The relatively few studies focusing on the relation between infant mortality and income at the household level in developing countries found consistently negative associations. These studies vary only in terms of explanatory power attributed to income in relation to other factors (United Nations, 1985).
+ETHNICITY
+Ethnicity has sometimes been identified as an important variable associated with child mortality (Morley et al., 1963;DaVanzo et al., 1983; United Nations, 1985; Blacker, 1991). In some cases this relationship may be explained by the fact that certain customs might strengthen or weaken a group's defenses against environmental hazards (Blacker, 1991). Such practices may include: (1) obstetric methods used by traditional birth attendants, especially the type of dressing put on the umbilical stump; (2) traditions affecting the duration of breastfeeding, including that of full or partial breast-
+
+feeding and the appropriate period before breastfeeding is discontinued; (3) type and nutritional value of the weaning foods generally given to infants and the methods of their preparation, particularly their susceptibility to bacterial contamination; (4) traditional diets and food avoidances likely to affect the nutritional status of pregnant and lactating mothers and hence the birthweight of their children and their own ability to breastfeed adequately; (5) other traditional practices, particularly postpartum abstinence, likely to affect birth spacing; (6) traditional treatments and remedies prescribed for childhood sicknesses, particularly diarrhea, with particular reference to whether or not fluids are withdrawn, and other practices likely to aggravate the condition and weaken the child; (7) traditional practices relating to sanitation and the disposal of human excrement; (8) modes of living that affect crowding; (9) child care and childrearing practices.
+Morley et al. (1963) drew attention to the important influence of traditional beliefs and practices on measles mortality and their contributing role toward complications. In African countries in general, and in Cameroon in particular, groups are differentiated primarily on the basis of language and culture. In every ethnic group in Cameroon, there is no disease other than measles for which there has been developed so impressive an array of nursing care practices, dietary restrictions, and medicinal therapies. These practices are likely to influence the mortality, the severity, and the kinds of temporary and permanent sequelae which ensue. Among the mechanisms by which ethnicity may influence child
+
+184
+
+Kuate Defo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+survival, genetic elements should also be considered. The most obvious of these is the sickle-cell trait, which protects against malaria but also contributes to infant mortality through sickle-cell anemia, particularly among populations of black origin. Although many studies have suggested strong effects of ethnicity on mortality of children in Africa (Akoto, 1990; United Nations, 1985; Cantrelle et al., 1986; Hill and Randall, 1984), none have been able to demonstrate the contingencies of the operation of these effects.
+MARITAL STATUS
+Several studies have reported higher mortality rates for out-ofwedlock children compared to children of married women (Isaac and Feinberg, 1982; United Nations, 1973, 1986; Behm, 1983; Morley et al., 1968; World Health Organization, 1978). Several explanations have been proposed for such a relation: (a) higher socioeconomic status of currently married women as reflected, in particular, in their higher educational attainment; (b) it is possible that widowhood and divorce are associated with substantial stress, which in turn may affect child health. By depriving the mother of a principal means of support for her childrearing activities, widowhood and divorce may also have a calamitous effect on her financial situation. These effects are doubtless culturally mediated (Morley et al., 1968). ^ The World Health Organization (1978) suggests that much of this higher mortality could be ascribed to the fact that the birthweight distribution of babies of unmarried mothers
+
+was lower. Some additional disadvantage of births to unmarried women resulted from their being born disproportionately to teenage mothers and to women without previous births. It was found in Latin America that the infant mortality rate was consistently higher for illegitimate than for legitimate births, and differential being larger in the postneonatal than in the neonatal period, which suggests that it may be produced principally by environmental factors, including aspects of child care, rather than by endogenous factors present at a child's birth (United Nations, 1986).
+RELATIONSHIPS BETWEEN HOUSING
+CHARACTERISTICS AND MORTALITY
+We examine the relationships of child mortality and four pertinent aspects of the dwelling place collected by the YICMS survey: housing materials, water-supply, electricity (power source), and crowding. In the survey, data on these aspects of the dwellingplace are based on the observation of interviewers, which helps ensure accuracy in reporting. Housing characteristics are expected to exert an impact on mortality because these conditions are closely related to the risk of exposure to infectious agents and the extent to which residents are protected from environmental hazards (e.g., cold, heat, wind, rain, air pollution).
+The characteristics of the dwelling place have long been recognized as an important influence on infant and child mortality. The majority of relevant studies of the impact of housing conditions on mortality have focused on the presence and type of water-supply, the type of lavatory facilities, the
+
+Vol. 41, No. 3-4
+
+Childhood Mortality
+
+185
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+power source, and the type of building materials used to construct the house.
+Examination of some of the major fatal diseases of the eighteenth and nineteenth centuries strongly suggests a relationship with housing and associated problems. Infectious diseases were the major causes of death in Europe for most of the nineteenth century. In England and Wales in 1850, they were responsible for some 60 per cent of all deaths. Smallpox, because of its highly infectious etiology, was caused by direct or indirect contact with a preceding case, and therefore easily transmitted in overcrowded living conditions (Kunitz, 1986).
+Harrington's (1974) study of West African societies views a child's chance of survival as the outcome of a series of factors governing exposure to disease and those encompassing the course and outcome of disease. These factors can be summarized as exposure and resource variables, the former group including environmental and socioeconomic elements and the latter containing such components as nutritional status and access to medical care.
+The type of dwelling affects mortality mainly through the elements of exposure. Benjamin (1965) contends that the most important effects of housing conditions on health work through their impact on the incidence of infectious diseases, in particular diarrheal diseases which he found to increase in prevalence in England and Wales with the incidence of crowding. Particularly problematic were instances where rooms are used for both day-to-day living and sleeping and where more than one family shared the same sanitary facilities. These types of situations are
+
+not uncommon in Yaounde' in popular neighborhoods such as Mokolo, Briqueterie, and Nkoldongo.
+The role of infectious disease in mediating the effect of the family dwelling on child mortality has been noted by others. Feachem (1984) points out that of the infectious diseases related to water supply and lavatory facilities, diarrheal diseases are of the greatest importance and that the reduction of these diseases would be the major benefit of programs launched to improve dwelling units and the facilities therein. It is now well known that water, if not purified and safe, can carry dangerous diseases and consequently, cause considerable morbidity and mortality in the population. In developing countries, safe water supply is a problem and the rural population of these countries is more exposed to such risks. In countries like Cameroon where limited resources are available for the health sector (Ministry of Plan and Regional Development, 1986), only low-cost welfare services are possible. This argument is supported by the findings of Butz and his colleagues (1984) in Malaysia, that breastfeeding has a larger protective effect on infant mortality in areas where sanitary facilities are poorer.
+However, these housing and health studies have usually failed to separate or take into account the multifactorial nonhousing variables with which they are highly correlated or which affect health (e.g., social class, social status, income, employment, neighborhood of residence, poverty, ignorance, poor health and lack of medical care). This difficulty in isolating the effects of bad housing on health from other
+
+186
+
+Kuate Defo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+predisposing factors, which often accompany it, is compounded as one moves back in time (Schultz, 1984).
+RELATIONSHIPS BETWEEN
+IMMUNIZATION STATUS AND CHILD
+SURVIVAL
+In developing strategies to combat child mortality, we find that a number of research issues arise. Governments in developing countries often assume that the optimal route to lower child mortality is through expansion of the formal health sector. Recently, however, this assumption has been called into question with arguments that too much emphasis is still being placed on short-term vertically organized public health interventions and modern medical institutions at the expense of social and economic development. The apparent reduction in the rate of mortality decline after a period of rapid progress has helped to convince some that the current approach to health care in developing societies is not appropriate to the disease environment (Gwatkin, 1980; Palloni, 1981). While the importation of medical technology in the form of vaccines has reduced or in some areas even eliminated such diseases as smallpox, now it is argued that a much greater proportion of infant deaths is due to diseases the prevention of which appears to be responsive to improved personal hygiene (Mosley, 1985).
+Whether access to and utilization of current health facilities guarantee significant reductions in child mortality is perhaps the most important question (Foster, 1984; Koenig et al., 1991;Clemens et al., 1988). As the immunity derived from the mother declines markedly, a large majority of children over
+
+six months of age become susceptible to infectious diseases (World Health Organization, 1981). The six diseases (measles, pertussis, diphtheria, tuberculosis, tetanus, poliomyelitis) of the Expanded Programme on Immunization (EPI) in general and measles in particular continue to cause serious child morbidity and mortality in Africa and require further epidemiological work (Feachem and Jamison, 1991).
+It is estimated that worldwide, these infectious diseases kill ten children with each passing minute and disable ten more, measles being responsible for one-third of these deaths and disabilities (Assaad, 1983; Henderson, 1983). Recent estimates suggest that 1 out of every 10 children in Africa dies of measles (Rodriguez, 1991). Vaccination can be a powerful tool in the control of some of these diseases and other causes of childhood death (for a review, see Anderson and May, 1982). Unfortunately, in sub-Saharan African as a whole, vaccine uptake was still low in 1986. Only 20 per cent of African children had received, by the end of their first year of life, a complete course of vaccination against the six EPI diseases (Feachem and Jamison, 1991).
+On the other hand, the influence of immunization in preventing mortality has been controversial, and vaccination may not be a panacea. The kind of problem one faces in studies of immunization status and child survival can be illustrated by the question: "What is the ultimate effect of preventing an infant death by immunization?" The immediate mortality may be prevented, but the environment may not be altered in any way, and the susceptibility to fiirther attacks therefore remains
+
+Vol. 41, No. 3-4
+
+Childhood Mortality
+
+187
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+high. If death in these subsequent cases is also prevented by, say, measles vaccine, is the child's susceptibility to death from other diseases increased? Does the lowering of the death rate in the shorter term imply an offsetting increase in a somewhat longer term?
+Among the economically advantaged populations of all countries, infant and childhood mortality rates are generally lower. In such populations, it is often difficult to demonstrate the influence of a single intervention to improve health status or survival. Similarly, in economically disadvantaged populations, the impact of a single health care intervention may be hidden by many other factors that contribute to mortality. An argument has also been made that measles vaccination did not result in improved overall child survival (Hendrickse, 1975; Kasongo Project Team, 1981). But other data have suggested that measles vaccine has not only a major protective effect on immediate infant and child survival, but also that its residual effects contribute to reduce malnutrition and mortality from other diseases for many subsequent months (Morley et al., 1963; Clemens et al., 1988; Koenig et al., 1991; Aaby et al., 1993). But, the magnitude of the impact of immunization in general and measles vaccine in particular on prevention of mortality may be dependent on the age at vaccination and other factors that contribute to childhood mortality.
+We assess the influences of full immunization on mortality in a Cameroonian setting. The following age schedule of immunization is used in Cameroon: DPT and poliomyelitis No. 1 plus BCG at 6-8 weeks, DPT and poliomyelitis No. 2 one month later, DPT
+
+and poliomyelitis No. 3 one month later, and measles at 9 months. A child was considered fully immunized by age t if he/she had completed all his/her appropriate immunizations by that age. We will control for a number of potential inhibiting factors discussed above in order to evaluate the effects of immunizations on child survival.
+MATERIALS AND METHODS
+DATA
+We analyze a remarkably rich data source, the Yaounde survey carried out by the Institut de Formation et de Recherche D6mographiques (IFORD) survey of Yaounde", Cameroon, to investigate the determinants of child survival. This survey was carried out from January 1978 to January 1981.The survey was designed to measure levels and patterns of maternal health during the first two years post-partum, and its demographic, biomedical, cultural and socioeconomic determinants. The information was collected through a twostage process of follow-up interviews.
+The first stage was initiated with the registration at maternity wards (hospitals) of newly delivered mothers who were residents of Yaoundd. The information gathered at this stage included demographic, cultural, and socioeconomic characteristics of the woman and her partner, characteristics of the pregnancy and of the newly born child.
+The second stage consisted of seven waves of interviews with the women or their surrogates. The interviews took place 1, 4, 8, 12,16, 20 and 24 months after delivery. These interviews were designed to collect information on characteristics of the household, timing of following conception, breastfeeding
+
+188
+
+Kuate Defo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+regimens, and health conditions of the mother and the child. The survey contained information on maternal episodes of illnesses collected at each wave. These data have been described and assessed elsewhere and found of good quality (IFORD, 1987; Kuate Defo, 1992; Kuate Defo and Palloni, 1992).
+As in most African countries, in Cameroon the levels of mortality within the boundaries of large cities are lower than in surrounding areas and the countryside. As estimated from the WFS, infant mortality for Cameroon during the year 1978 stood at about 0.106. This figure is roughly 1.9 times higher than the level estimated for Yaounde from the Yaounde" survey under study. Clearly, the data from this survey cannot be representative of the entire country. But, is it a good reflection of conditions prevailing in Yaounde"? The evidence available to us suggests that it is.
+First, using the World Fertility Survey data for Cameroon, Ferry (1983) showed that approximately 90 per cent of births in Yaounde occurred in the 11 maternity wards surveyed by this survey. Second, in separate studies, Disaine and Garsen (1983) and Garsen (1985) estimated that about 88 per cent of the population of Yaounde was covered by the survey. Finally, Houehougbe (1985) and Garsen (1985) argue convincingly that the fraction of births that occurred outside the maternities surveyed by the Yaoundd survey is likely to have a negligible impact on mortality estimates. In fact, if we conservatively assume that between 10 and 12 per cent of the births are missed and that these births experience the highest levels of infant mortality observed for
+
+any group in the sample, we are led to errors of about 3.72 per 1,000 births, which is within a 95 per cent confidence interval constructed with the estimated sampling error. Thus, although the mortality conditions assessed by the Yaounde survey do not reflect national conditions, they should provide a very good yardstick to evaluate conditions in Yaounde" and in similar cities in Cameroon.
+STATISTICAL METHODS
+While we are chiefly interested in the effects of socioeconomic and housing characteristics and immunization status, we locate these factors within a more complex causal framework that includes proximate as well as background variables. The models we formulate are designed to minimize some of the problems of simultaneity, spuriousness, and selection that were discussed earlier.
+The model we pose is a two-state hazards model for the risk of death at any time within the course of the study:
+H(f;Z(0) = jio(0«P(PZ(0) (1)
+Where u(r;Z(f)) is the risk of dying in the interval (t, t+dt) for a child with a vector of characteristics Z(t), Hv(t)is a baseline hazard and P is a vector of effects.
+For most variables that change over time, we have monthly information. However, we have adopted a conservative strategy to minimize errors of response. In particular, we will estimate effects assuming that we observe events in discrete segments: 0, 1-3, 4-7, 8-11, 12-15, and 16-23. When a death occurs within a segment, it is assigned to the middle. Experiments with alternative solutions, including
+
+Vol. 41, No. 3-4
+
+Childhood Mortality
+
+189
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+the use of observed age at death, do not change our results in any significant way. Censoring times are also assigned to the middle of the segment because, unlike the timing of death, their exact values are not known. Selected fixed and time-varying covariates are defined in Table 1. We use the following general rule to assign values to the time-varying covariates: let Z(t) be the value of the time-varying covariate at time t and t<T, where T is the lower value of an age segment selected for analysis (T = 0, 1, 4, 8, 12, 16). Its value can be either 0 or 1 depending on the occurrence (nonoccurrence) of an event before the child enters the segment {T,T+n). For example, the value of full breastfeeding for a child who is followed to 4 months will be 1if he/she initiated supplementation or stopped breastfeeding any time before month 4, and 0 otherwise. Similarly, the value of following conception will be 1 if the mother experienced a conception sometime before 4 months postpartum.
+Estimation of Model (1) proceeds under two different assumptions about the baseline hazard, Ho(0- The first is that it can be represented as a piecewise constant with nodes at 1-3, 4-7, 8-11,12-15, and 16-23 months (Tables 3 through 5). This strategy is designed to circumvent the proportionality assumption inherent in conventional hazards models (Cox, 1972). The second is that it can be efficiently represented by a Weibull hazard (Table 6). This assumption is pertinent in that the Weibull distribution is widely used in reliability theory and has been shown to represent well the duration structure of infant and childhood mortality (e.g., Choe, 1984).
+
+The estimated vaccine efficacy for prevention of mortality (EVEPM) based on estimated relative risks (RR) will be calculated as follows:
+EVEPMM = 100(1 - RR), (2)
+for all vaccinated children.
+RESULTS
+FREQUENCY DISTRIBUTION OF MAJOR
+VARIABLES
+Table 2 presents the sample proportions of target independent variables. In general, there is a stability of the frequency distribution of categories of these variables in various age segments considered. There is a discrepancy between the proportions of educated versus employed women. These figures probably reflect the fact that because of childbearing and childrearing, most of the educated women in Yaounde do not work. On average, less than half of families have income higher than 20,000 CFA francs, and about onethird of families have income between 20,000 and 50,000 CFA francs. The major ethnic groups in Yaound6 reflect the picture of ethnic group distribution in the country. The ethnic groups of the Centre-South and the West provinces are the most important groups. Although generally low, the level of immunization coverage seems to increase with age for all vaccines as well as for full immunization status. Only 32 per cent of children have completed all their immunizations by their first birthday; this percentage rises to 44 per cent by their second birthday. More than two-thirds of children end up having their BCG and DPT-polio (1st dose) by their second birthday, but only 39 per
+
+190
+
+Kuate Defo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+TABLE 1
+DEFINITION OF SELECTED VARIABLES"
+
+Variables
+
+Definition
+
+MEDU
+
+1 if mother educated
+
+EMPM
+
+1 if mother employed
+
+MSIT
+
+1 if mother not married
+
+SINCO
+
+1 if household income between 20,000 and 50,000 CFA francs
+
+TINCO
+
+1 if household income greater than 50,000 CFA francs
+
+BETI
+
+1 if ethnic groups of the Center and South regions
+
+DOUBA
+
+1 if ethnic groups of the Littoral and South-West regions
+
+BANT
+
+1 if ethnic groups of the East region
+
+NORT
+
+1 if ethnic groups of the North region
+
+MOKOLO
+
+1 if quarter of residence is Mokolo
+
+BRIQUETERIE
+
+1 if quarter of residence is Briqueterie
+
+NKOLDONGO
+
+1 if quarter of residence is Nkoldongo
+
+DRY
+
+1 if dry season of birth
+
+WALL*
+
+1 if wall is modern
+
+ROOF*
+
+1 if roof is modern
+
+FLOOR*
+
+1 if floor is modern
+
+ELEC*
+
+1 if electricity in the house
+
+PIPEDWAT*
+
+1 if piped water
+
+WELLWAT*
+
+1 if well water
+
+CROWDING*
+
+1 if more than 3 persons share the bedroom with the child
+
+FAGE
+
+'. 1 if maternal age at child's birth < 20 years
+
+SAGE
+
+1 if maternal age between 20-34 years
+
+LAGE
+
+1 if maternal age at child's birth > 34 years
+
+SECO
+
+1 if birth order 2-3
+
+THIR
+
+1 if birth order 4+
+
+PRES
+
+1 if preceding child deceased
+
+CARE
+
+1 if prenatal care
+
+NDEL
+
+1 if multiple births
+
+TLBW
+
+1 if normal-term low birthweight
+
+PTLBW
+
+1 if preterm low birthweight
+
+PTNBW FBF6
+
+1 if preterm normal birthweight 1 if the index child was fully breastfed in the age interval
+
+immediately preceding the age interval of estimation
+
+PBF*
+
+1 if the index child was partially breastfed in the age
+
+interval immediately preceding the age interval of estimation
+
+FC* 1 if the following conception was reported to have occurred in
+
+the age interval immediately preceding the age interval of estimation
+
+HEBI
+
+1 if the index child had poor health status at birth
+
+RESP*
+
+1 if the index child had suffered from acute respiratory infections in the age
+
+MEAS6
+
+interval immediately preceding the age interval of estimation 1 if the index child had measles in the age interval
+
+immediately preceding the age interval of estimation
+
+MALA*
+
+1 if the index child had malaria in the age interval
+
+DiA6
+
+immediately preceding the age interval of estimation 1 if the index child had diarrhea in the age interval
+
+immediately preceding the age interval of estimation
+
+NUT*
+
+1 if the index child had nutritional deficiencies in the age interval
+
+immediately preceding the age interval of estimation
+
+MRESP*
+
+1 mother has acute respiratory infectious in the age interval
+
+immediately preceding the age interval of estimation
+
+BREAS*
+
+if mother had breast infection in the age interval
+
+immediately preceding the age interval of estimation
+
+MMALA*
+
+1 if mother had malaria in the age interval immediately
+
+' preceding the age interval of estimation
+
+IMAL* 1 if the index child was fully immunized prior to the age interval of estimation
+
+"All variables were coded as dummies. ^Time-varying covariates.
+
+Vol. 41, No. 3-4
+
+Childhood Mortality
+
+191
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+TABLE 2
+SAMPLE PROPORTION OF SELECTED VARIABLES" BY AGE INTERVAL
+
+VARIABLES
+
+Mother educated (MEDU)
+
+Mother unmarried (MSIT)
+
+Mother employed (EMPM)
+
+Household income (in F CFA)
+20,000-50,000
+50,000+
+Ethnicity BETI DOUBA BANT NORT
+
+Immunizations BCG DPT-Poliol DPT-Polio2 DPT-Polio3 Measles vaccine Full immunization
+
+·.
+
+Household characteristics Modern wall Modern roof Modern floor Electricity
+
+Source of water supply Other Piped water Well water
+
+Index child shares the room with 3+persons
+
+0 1-3
+85.0 85.6 27.6 26.2 15.5 16.3
+32.4 37.3 13.6 15.7
+39.2 39.5 11.8 11.9 8.7 8.9 7.0 6.5
+0.9 28.5 0.5 25.8
+4.5 1.2 .2 0.2 25.0
+12.6 12.8 79.7 81.3 60.0 62.4 37.1 38.7
+29.6 27.6 17.7 17.5 52.7 54.9
+30.0 31.6
+
+"Variables are abbreviated as shown in Table 1.
+
+AGE IN COMPLETED MONTHS
+4-7 8-11 12-15
+85.4 85.3 85.2 25.5 24.5 23.9 16.6 16.9 17.1
+
+16-19
+85.0 23.6 17.1
+
+20-23
+85.7 22.9 17.2
+
+39.9 41.4 42.3 42.8 43.4 16.6 17.3 17.7 17.9 18.3
+
+39.1 38.8 38.8 38.8 39.1 11.9 11.8 11.5 11.4 11.5 8.8 8.7 8.7 8.5. 8.2 6.4 6.3 6.3 6.2 5.3
+
+47.5 57.6 62.2 64.6 66.4
+46.6 56.8 61.5 63.8 65.8
+18.9 28.6 33.9 36.6 38.7 10.1 18.0 23.2 25.7 27.5 1.5 24.7 35.4 39.9 43.3 19.4 32.3 36.8 41.4 44.4
+
+12.3 12.0 10.6 10.3 10.3 78.6 77.8 69.7 67.1 69.6 60.4 60.3 54.4 52.9 54.1 38.5 38.5 35.1 34.4 35.1
+
+29.5 30.7 38.7 40.1 37.9 16.8 16.4 13.8 11.8 12.7 53.7 52.9 47.5 48.1 49.4
+
+32.9 34.6 33.0 38.4 47.7
+
+cent among them get their DPT-polio (2nd dose), and among the latter only 28 per cent get their DPT-polio (3rd dose). About 2 per cent of children had their measles vaccine before the required age of 9 months, some 25 per cent by their first anniversary, and only about 43 per cent by their second birthday.
+As regards housing characteristics, not all the construction materials are of the same standard. Only about 12 per cent of walls are modern, while about
+
+80 per cent of dwelling places have modern roofs and 60 per cent modern floors. Some 37 per cent of households have electricity as power source, that is, only about one-third of households can refrigerate their food. Some 70 per cent of the households have access to clean water. The level of overcrowding is quite high in Yaounde". In at least 30 per cent of families, the index child shared the room with more than 3 persons, and this proportion rises to 48 per cent by the time the child is 2 years old.
+
+192
+
+Kuate Defo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+EFFECTS OF SOCIOECONOMIC FACTORS
+ON CHILD SURVIVAL
+The piecewise hazards estimates of the effects of socioeconomic variables on child survival are shown in Table 3.
+Model 1 shows that, in general, all these factors have primary influences on infant and child mortality. The protective significant effects of mother's schooling and employment are limited to the neonatal period and 16-19 completed months, with an improperly signed effect of maternal education for 4-7 months. It is possible that in addition to biological factors affecting neonatal mortality, cultural factors also play an important role. Household income appears to have strong effects at least until the age 16-19 months. Children of unmarried mothers are at a disadvantage across all age intervals. The other ethnic groups are generally worse off than the referent ethnic group (i.e., ethnic groups from the West).
+In Model 2, maternal education, employment, marital status, and household income are entered simultaneously in the regression- equation. The estimates suggest that the effects of maternal employment and mother's martial status are largely explained by her household income level, but the effects of unwed motherhood remain unexplained in 20-23 months. The pattern of effects of maternal education remains unaffected by these controls.
+Model 3 adds ethnicity to the estimation equation. While the pattern of ethnic differentials persists, the magnitude of the effects of maternal schooling in the neonatal period are somewhat reduced, but the magnitude and
+
+direction of effects of the other factors remain virtually unchanged. This result suggests that to some extent, the maternal-education relation in the neonatal period is partly explained by the mother's ethnic identity which reflectspractices, rituals, and taboos surrounding birth. The ethnic groups of the North region appear to be the most disadvantaged in the neonatal period (p<0.01).
+The impact of a control for quality of neighborhood of residence and season of birth is marginal to estimated effects from the previous model (results not shown). Once a control is introduced for household characteristics (Model 4), the protective effects of maternal schooling are restricted to the age 16-19 months, but the deleterious effects of education in 4-7 months are still not accounted for. The effects of household income are restricted to the first 8 months of life. Ethnic differentials remain virtually unchanged. Thus, household characteristics basically capture any noticeable effects attributable to household income after the first year of life.
+In Model 5, we investigate the possibility that poor pregnancy outcomes may explain socioeconomic differentials in mortality. Of interest is the persistence of the effects of maternal schooling and household income. In the first month, being of the ethnic groups of the Center-South region is an advantage once these variables are accounted for, and the magnitude and statistical power of the disadvantage associated with the ethnic groups of the North region is somewhat reduced. These results indicate that at least in the neonatal period, biological factors
+
+Vol. 41, No. 3-4
+
+Childhood Mortality
+
+193
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+TABLE 3
+PIECEWISE HAZARDS ESTIMATES OF INFLUENCES OF SOCIOECONOMIC VARIABLES ON INFANT AND CHILD MORTALITY
+
+VARIABLES
+MEDU EMPM SINCO TINCO MSIT BETI DOUBA BANT NORT
+
+AGE INTERVALS; t (IN COMPLETED MONTHS)
+
+0
+
+1-3
+
+4-7
+
+8-11
+
+12-15
+
+16-19
+
+20-23
+
+Model V
+
+.. -0.667* 0.575 0.930^ -0.176 -0.019 -0.893* 1.127
+
+(0.173) (0.418) (0.449) (0.252) (0.351) (0.300) (0.719)
+
+-0.562c -0.272 -0.016 -0.118 -0.303 -0.858d -0.595
+
+(0.255) (0.354) (0.302) (0.263) (0.401) (0.500) (0.508)
+
+-2.288" -1.132* -0.851* -0.525' -0.273 -0.388 -0.483
+
+(0.311) (0.301) (0.263) (0.207) (0.292) (0.295) (0.344) -2.210" -1.515* -0.775c -0.778' -0.653d -1.416' -0.644
+
+(0.453) (0.517) (0.359) (0.314) (0.445) (0.604) (0.489)
+
+0.517" 0.731* 0.541c 0.437' 0.496d 0.329
+
+1.166*
+
+(0.154) (0.242) (0.233) (0.201) (0.289) (0.307) (0.320)
+
+-0.036
+
+1.195* 0.278
+
+0.419* 0.470
+
+0.919' 1.093'
+
+(0.195) (0.372) (0.267) (0.226) (0.334) (0.388) (0.404)
+
+0.468e 1.318* 0.215
+
+0.129
+
+0.080
+
+0.718 -0.249
+
+(0.237) (0.440) (0.378) (0.340) (0.520) (0.527) (0.787)
+
+-0.167
+
+1.324* 0.158
+
+0.429
+
+0.833'' 1.014c 0.085
+
+(0.333) (0.470) (0.430) (0.340) (0.443) (0.527) (0.789)
+
+1.138* 0.840 -0.073 -0.628 -0.925 0.933-* -0.165
+
+(0.230) (0.600) (0.539) (0.600) (1.026) (0.600) (1.057)
+
+(X .
+MEDU EMPM SINCO TINCO ... MSIT
+V2
+df No
+
+Model 2'
+
+.. -2.862" -6.258* -7.157* -3.970* -5.211* -4.595* -6.957*
+(0.158) (0.422) (0.448) (0.254) (0.395) (0.310) (0.735)
+.. -0.657" 0.530 0.896' -0.206 -0.057 -0.881' 0.867
+(0.177) (0.430) (0.450) (0.255) (0.385) (0.314) (0.725) -0.305 -0.216 -0.017 -0.071 -0.334 -0.685 -0.882'' (0.260) (0.365) (0.311) (0.273) (0.415) (0.534) (0.539) -2.253* -1.027* -0.786* -0.450* -0.139 -0.305 -0.082 (0.314) (0.312) (0.272) (0.217) (0.308) (0.312) (0.370) -2.084" -1.358C - 0 . 7 * -0.660* -0.424 -1.145'' -0.023 (0.460) (0.533) (0.380) (0.332) (0.472) (0.624) (0.538)
+0.132 0.341 0.214 0.279 0.455 0.329 1.166* (0.162) (0.261) (0.252) (0.220) (0.319) (0.338) (0.359)
+
+145 28 19 12 6666
+
+5 17 18 666
+
+9,774 8,398 7,727 7,146 6,658 6,343 6,049
+
+(continued)
+
+(health conditions at birth) seem to explain most of the ethnic differentials in mortality.
+After a control for maternal reproductive patterns (maternal age, parity, survival status of preceding sibling) (Model 6), the disadvantage of the eth-
+
+nic groups of the North in the neonatal period is eliminated, and the relative advantage of the ethnic groups of the East in the same period regains statistically significant explanatory power. Thus, childbearing practices (particularly adolescent childbearing) appear
+
+194
+
+Kuate Defo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+TABLE 3 (continued)
+
+VARIABLES
+MEDU EMPM SINCO TINCO MSIT BETI DOUBA BANT NORT
+X2
+df No
+
+AGE INTERVALS t (IN COMPLETED MONTHS)
+
+0
+
+1-3
+
+4-7
+
+8-11
+
+12-15
+
+16-19
+
+20-23
+
+Model 3*
+
+-3.152* -7.059* -7.260* -3.939* -5.246* -5.127* -7.212*
+
+(0.219) (0.544) (0.501) (0.293) (0.454) (0.434)
+
+.. -0.362'' 0.567
+
+0.956* - 0 . 4 0 3 d -0.256 -0.011*
+
+(0.809) 0.785
+
+(0.207) (0.465) (0.477) (0.267) (0.403) (0.344) (0.749)
+
+-0.244 -0.297 -0.020 -0.139 -0.396 -0.825'' -0.980''
+
+(0.262) (0.366) (0.313) (0.275) (0.422) (0.534) (0.539)
+
+.. -2.255* -0.993* -0.784* -0.433* -0.116 -0.267 -0.025
+
+(0.314) (0.312) (0.272) (0.217) (0.310) (0.312) .. -2.136* -1.420c -0.718* -0.642* -0.402 -1.155''
+
+(0.374) 0.048
+
+(0.460) (0.533) . (0.380) (0.333) (0.480) (0.624) (0.543)
+
+0.175
+
+0.110
+
+0.202
+
+0.188
+
+0.341
+
+0.103
+
+0.916*
+
+(0.170) (0.270) (0.267) (0.231) (0.334) (0.350) (0.383)
+
+.. -0.238
+
+1.022*. 0.052
+
+0.188
+
+0.403
+
+1.038* 0.804^
+
+(0.211) (0.390) (0.290) (0.231) (0.357) (0.404) (0.435)
+
+0.419'' 1.259C · 0.092
+
+0.153
+
+0.115
+
+0.945'' -0.380
+
+(0.242) (0.445) (0.383) (0.345) (0.530) (0.531) - (0.435)
+
+.. -0.371
+
+1.234* 0.072
+
+0.333
+
+0.752'' 0.923'' -0.080
+
+(0.337) (0.476) (0.435) (0.344) (0.450) (0.531)
+
+0.806* 1.035d 6.270 -0.877 -1.108
+
+0.352
+
+(0.796) 0.182
+
+(0.257) (0.632) (0.563) (0.617) (1.050) (0.632) (1.082)
+
+167 40 20 18 11 25 24 10 10 10 10 10 10 10
+
+9,774 8,398 7,727 7,146 6,658 6,343 6,049
+
+MEDU EMPM SINCO TINCO MSIT BETI DOUBA BANT NORT
+X2
+df No
+
+Model 4 '
+
+.. .. .. .. ..
+,.
+... ...
+
+-2.839*
+(0.256) -0.274 (0.209) -0.133 (0.264) -2.106* (0.317) -1.882* (0.469)
+0.208 (0.172) -0.313 (0.214) 0.346 (0.244) -0.503 (0.338) 0.756* (0.266)
+273
+21
+9,774
+
+-8.740*
+(0.732) 0.645 (0.457) -0.253 (0.368) -1.133* (0.315) -1.386' (0.543) 0.250 (0.276) 1.052* (0.394) 1.210* (0.447) 1.194* (0.478) 1.270* (0.628)
+90
+21
+8,398
+
+-8.122*
+(0.593) 1.049* (0.488) 0.141 (0.317) -0.816* (0.278) -0.590* (0.392) 0.426 (0.267) 0.135 (0.294) 0.041 (0.387) 0.062 (0.439) 0.305 (0.569)
+109 21
+7,727
+
+-5.165*
+(0.408) -0.196 (0.269) -0.088 (0.276) -0.237 (0.221) -0.290 (0.341)
+0.447 (0.235) 0.283 (0.245) 0.009 (0.345) 0.149 (0.345) -0.753 (0.628)
+128 21
+7,146
+
+-7.008* (0.600) 0.113 (0.409) -0.238 (0.424) -0.048 (0.312) -0.060 (0.484) 0.484 (0.333) 0.460 (0.366) 0.107 (0.529) 0.642 (0.451) -1.228 (1.040)
+80 21
+6,658
+
+-5.953*
+(0.559) -0.836* (0.350) -0.738 (0.534) -0.263 (0.320) -0.925 (0.630)
+0.233 (0.359) 1.013* (0.411) 0.866" (0.532) 0.842'' (0.533) 0.319 (0.646)
+
+-10.050*
+(1.044) 1.067 (0.783) -0.929'' (0.546) 0.116 (0.387) 0.366 (0.559) 1.069* (0.387) 0.914* (0.443) -0.467 (0.803) -0.166 (0.800) 0.167 (1.122)
+
+58 71 21 21
+
+6,343 6,049
+
+(continued)
+
+Vol. 41, No. 3-4
+
+Childhood Mortality
+
+195
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+VARIABLES
+a MEDU EMPM SINCO TINCO MSIT BETI DOUBA BANT NORT
+·£·
+df No
+a
+MEDU EMPM SINCO TINCO MSIT BETI DOUBA BANT NORT
+X2 df No
+
+TABLE 3 (continued)
+
+AGE INTERVALS / (IN COMPLETED MONTHS)
+
+0
+
+1-3
+
+4-7
+
+8-11
+
+12-15
+
+16-19
+
+Model 5*
+
+. -3.464* -8.880* -8.185* -5.165* -6.985* -5.949*
+
+(0.265) (0.730) (0.596) (0.408) (0.605) (0.561)
+
+-0.380- 0.554
+
+1.003- -0.196
+
+0.101 -0.838-
+
+(0.200) (0.452) (0.487) (0.269) (0.412) (0.350)
+
+-0.101 -0.181 0.169 -0.087 -0.231 -0.737
+
+(0.264) (0.370) (0.318) (0.277) (0.425) (0.534)
+
+-1.914* -1.074- -0.778* -0.237 -0.040 -0.262
+
+(0.317) (0.316) (0.279) (0.222) (0.312) (0.320)
+
+-1.823* -1.340- -0.565 -0.290 -0.061 -0.925
+
+(0.470) (0.549) (0.392) (0.342) (0.483) (0.629)
+
+0.084
+
+0.133
+
+0.304
+
+0.447rf 0.468 0.233
+
+(0.173) (0.279) (0.270) (0.236) (0.333) (0.359)
+
+.. -0.51T1 0.974- 0.094
+
+0.283
+
+0.454
+
+1.012-
+
+(0.210) (0.395) (0.295) (0.245) (0.366) (0.412)
+
+0.153
+
+1.149- 0.020
+
+0.009
+
+0.119 0.868''
+
+(0.246) (0.449) (0.387) (0.346) (0.529) (0.532)
+
+.. -0.705
+
+1.120- 0.077
+
+0.149
+
+0.645 0.842''
+
+(0.340) (0.480) (0.439) (0.345) (0.451) (0.533)
+
+0.602'' 1.117'' 0.249 -0.753 -1.240 0.315 (0.256) (0.623) (0.570) (0.627) (1.041) (0.648)
+
+547 142 123 134 81 58 25 25 25 25 25 22
+
+9,774
+
+8,398
+
+7,727
+
+7,146
+
+6,658
+
+6,343
+
+20-23 ...
+
+-3.326*
+(0.334) -0.420(0.222) -0.058 (0.267) -1.929* (0.318) -1.840* (0.471)
+0.055 (0.181) -0.488(0.212) 0.176 (0.248) -0.700(0.343) 0.573 (0.260)
+549
+30
+9,774
+
+-8.464*
+(0.810) 0.512 (0.489) -0.120 (0.374) -1.062* (0.317) -1.289(0.551) 0.001 (0.308) 0.996(0.398) 1.193(0.451) 1.146(0.483) 1.055'' (0.627)
+139
+30
+8,398
+
+Model 6'
+
+-7.850* -4.908*
+(0.677) (0.500) 0.847'' -0.263 (0.514) (0.300)
+0.183 -0.053 (0.320) (0.280)
+-0.739- -0.223 (0.280) (0.223) -0.518 -0.286 (0.394) (0.342) 0.096 0.352 (0.299) (0.259) 0.192 0.317 (0.302) (0.249) 0.078 0.029 (0.389) (0.346) 0.103 0.170 (0.440) -' (0.346) 0.253 -0.796 (0.576) (0.631)
+
+128 135 30 30
+
+7,727
+
+7,146
+
+-6.913* (.748) 0.241 (0.459)
+-0.281 (0.428) -0.057 (0.313) -0.035 (0.482) 0.322 (0.370) 0.418 (0.373) 0.123 (0.530) 0.620 (0.451) -1.081 (1.042)
+90
+30
+6,658
+
+-5.971*
+(0.733) -0.747'' (0.404)''
+-0.708 (0.536)
+-0.269 (0.320) -0.900 (0.629) 0.091 (0.391) 1.016(0.417) 0.865'' (0.534)
+0.843'' (0.533) 0.384 (0.654)
+
+-10.350*
+(1.127) 1.609(0.813)
+-0.900"* (0.550)
+0.080 (0.389) 0.278 (0.562)
+1.130(0.421)
+0.804 (0.449) -0.494 (0.808)
+-0.218 (0.802)
+0.322 (1.110)
+
+64 78 27 26
+
+6,343 6,049
+
+(continued)
+
+196
+
+Kuate Defo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+VARIABLES
+a MEDU EMPM SINCO TINCO MSIT BETI DOUBA BANT NORT
+y2 df No
+a MEDU EMPM SINCO TINCO MSIT BETI DOUBA BANT NORT
+X2 df No
+
+TABLE 3 (continued)
+
+AGE INTERVALS t (IN COMPLETED MONTHS)
+
+0
+
+1-3
+
+4-7
+
+8-U
+
+12-15
+
+16-19
+
+Model 7/
+
+-2.967" -6.016* -8.579* -3.343* -5.468* -4.853*
+
+(0.389) (1.215) (0.868) (0.600) (0.930) (0.961)
+
+-0.372'' 0.462 0.875'' -0.272 0.358 -0.719"*
+
+(0.227) (0.490) (0.522) (0.304) (0.468) (0.411)
+
+.. -0.003 -0.175 0.126 -0.124 -0.484 -0.657
+
+(0.269) (0.374) (0.324) (0.284) (0.440) (0.538)
+
+-1.924* -1.052* -0.718' -0.224 -0.117 -0.235
+
+(0.318) (0.318) (0.282) (0.224) (0.309) (0.323)
+
+.. -1.839* -1.306* -0.476 -0.372 -0.114 -0.828
+
+(0.470) (0.550) (0.400) (0.349) (0.485) (0.631)
+
+-0.016 -0.035 0.115 0.330 0.409 0.132
+
+(0.186) (0.305) (0.298) (0.258) (0.378) (0.405)
+
+.. -0.458' 0.903' 0.175 0.177 0.280 1.056'
+
+(0.213) (0.400) (0.305) (0.252) (0.376) (0.418)
+
+0.202
+
+1.056' 0.004 -0.137 -0.008
+
+9.902''
+
+(0.248) (0.454) (0.391) (0.351) (0.534) (0.534)
+
+-0.708' 1.017' 0.062 0.103 0.600 0.905*
+
+(0.342) (0.488) (0.442) (0.347) (0.450) (0.534)
+
+0.476rf 0.895 -0.133 -1.154'' -1.402
+
+0.097
+
+(0.270) (0.625) (0.583) (0.644) (1.046) (0.676)
+
+552 151 165 166 106 31 33 34 34 34
+
+72 31
+
+9,774
+
+8,398
+
+7,727
+
+7,146
+
+6,658
+
+6,343
+
+20-23
+
+-3.569* (0.416) -0.063 (0.233) 0.196 (0.270) -1.893* (0.321) -1.813* (0.469) 0.015 (0.189) -0.649' (0.221) 0.194 (0.247) -0.880* (0.346) 0.111 (0.282)
+655 32
+9,774
+
+-6.191* (1.240) 0.464 (0.489) -0.162 (0.374) -1.032* (0.318) -1.277* (0.550) -0.002 0.304) 0.867' (0.400) 1.025' (0.457) 1.008' (0.487) 0.869 (0.629)
+154 37
+8,398
+
+-8.616* (0.874) 0.844'' (0.522) 0.042 (0.327) -0.703' (0.282) -0.453 (0.401) 0.135 (0.300) 0.167 (0.308) 0.014 (0.391) 0.053 (0.443) -0.158 (0.583)
+180 39
+7,727
+
+Model 8*
+-5.354* (1.202) -0.268 (0.306) -0.080 (0.284) -0.206 (0.225) -0.340 (0.352) ' 0.335 (0.258) 0.214 (0.253) -0.086 (0.352) 0.184 (0.349) -1.133d (0.642)
+175 40
+7,146
+
+-6.764* (1.427) 0.369 (0.470) -0.448 (0.442) -0.141 (0.309) -0.086 (0.486) 0.386 (0.381) 0.249 (0.380) -0.042 (0.537) 0.587 (0.452) -1.433 (1.052)
+111 39
+6,658
+
+-7.263" (1.101) -0.793' (0.416) -0.735* (0.539) -0.207 (0.324) -0.767 (0.632) 0.186 (0.409) 1.020' (0.423) 0.894'' (0.534) 0.805 (0.540) 0.008 (0.684)
+85 36
+6,343
+
+-11.800* (1.348) 1.838' (0.829) 0.144 (0.394) 0.144 (0.393) -0.324 (0.573) 1.155' (0.427) 0.772d (0.458) -0.551 (0.815) -0.340 (0.830) 0.213 (1.100)
+100 34
+6,049
+
+(continued)
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Vol. 41, No. 3-4
+
+Childhood Mortality
+
+197
+
+VARIABLES
+MEDU EMPM SINCO TINCO MSIT BETI DOUBA BANT NORT .
+X2
+df No
+
+TABLE 3 (continued)
+
+AGE INTERVALS / (IN COMPLETED MONTHS)
+
+0
+
+1-3
+
+4-7
+
+8-11
+
+12-15
+
+16-19
+
+20-23
+
+Model 9>
+
+-6.243"
+(1.254) 0.476 (0.490) -0.140 (0.376) -1.036* (0.320) -1.281C (0.556) -0.001 (0.306) 0.863c (0.405) 1.024c (0.461) 1.046c (0.490) 0.865 (0.634)
+156 39
+
+-8.635"
+(0.875) 0.842'' (0.522) 0.029 (0.327) -0.706c (0.282) -0.453 (0.402) 0.140 (0.300) 0.164 (0.308) 0.020 (0.391) 0.047 (0.443) -0.161 (0.583)
+181 41
+
+-5.352"
+(1.203) -0.275 (0.307) -0.087 (0.284) -0.204 (0.225) -0.337 (0.352)
+0.338 (0.259) 0.215 (0.253) -0.095 (0.353) 0.180 (0.349) -1.142'' (0.642)
+175 42
+
+-6.802"
+(1.428) 0.373 (0.470) -0.450 (0.442) -0.140 (0.309) -0.084 (0.485) 0.385 (0.382) 0.249 (0.380) -0.046 (0.537) 0.581 (0.453) -1.436 (1.052)
+111 40
+
+-7.172"
+(1.118) -0.807c (0.424) -0.689 (0.546) -0.156 (0.328) -0.723 (0.644)
+0.191 (0.412) 1.051c (0.428) 0.959'' (0.540) 0.727 (0.552) 0.088 (0.688)
+91 38
+
+-11.690"
+(1.362) 1.828C (0.827) -0.761 (0.552) 0.170 (0.397) 0.357 (0.575) 1.137' (0.428) 0.766 (0.459) -0.546 (0.815) -0.302 (0.826) 0.203 (1.101)
+101 35
+
+8,398
+
+7,727
+
+7,146
+
+6,658
+
+6,343
+
+6,049
+
+(continued)
+
+to explain the disadvantage of the ethnic groups of the North and East regions, and to reinforce the biological argument suggested above for ethnic differentials in neonatal mortality. The ethnic differentials associated with the other age intervals (particularly the disadvantage of the ethnic groups of the Center-South in 16-19 months) remain unexplained. Income differentials persist as well.
+The possibility that socioeconomic differences in mortality (notably ethnic differences) could reflect differencesTM breastfeeding practices was sought, but there is no such evidence (results not shown). Similarly,,controls for following conception with and without con-
+
+trolling for breastfeeding patterns have no effects on the magnitude, direction, and sign of estimated effects in the previous model (results not shown).
+In Model 7, we investigate the possibility that the differentials noted so far could be mediated by differences in health care services utilization. The results lend no support to this conjecture. The possibility that observed mortality differentials by socioeconomic factors could be due to the poor health of the child over time was sought as well (Model 8), but once again, these differentials remain, particularly income and ethnic differentials in the first year of life. In a similar vein, we investigated the possibility
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+198
+
+Kuate Defo
+
+Social Biology
+
+TABLE 3 (continued)
+
+AGE INTERVALS t (IN COMPLETED MONTHS)
+
+VARIABLES
+a
+MEDU EMPM SINCO TINCO MSIT...... BETI DOUBA BANT NORT
+X2 df No
+
+0
+
+1-3
+
+4-7
+
+8-11
+
+12-15
+
+16-19
+
+20-23
+
+Model 10"1
+
+. . . -5.991* -8.515" -4.993* -6.399* -7.050* -11.810*
+
+(1.241) (0.871) (1.200) (1.432) (1.131) (1.382)
+
+0.570
+
+0.894rf -0.187
+
+0.349 -0.791''
+
+1.809'
+
+(0.496) (0.523) (0.306) (0.468) (0.425) (0.827)
+
+-0.161 0.028 -0.098 -0.450 -0.690 -0.762
+
+(0.376) (0.327) (0.284) (0.441) (0.545) , (0.552)
+
+-0.976* -0.708' -0.191 -0.116 -0.143
+
+0.170
+
+(0.319) (0.282) (0.226) (0.309) (0.328) (0.398)
+
+-1.222' -0.414 -0.269 -0.076 -0.711
+
+0.339
+
+(0.555) (0.402) (0.354) (0.489) (0.644) (0.577)
+
+-0.030 0.107 0.281 0.355 0.164
+
+1.156'
+
+(0.305) (0.299) (0.260) (0.381) (0.413) (0.429)
+
+0.648rf 0.046 -0.063
+
+0.103
+
+0.996'
+
+0.837''
+
+(0.402) (0.305) (0.255) (0.384) (0.433) (0.472)
+
+0.829d -0.070 -0.348 -0.142
+
+0.933* -0.516
+
+(0.459) (0.390) (0.354) (0.538) (0.542) (0.818)
+
+0.879'' -0.036 -0.062 0.494 0.690 -0.231
+
+(0.491) (0.443) (0.349) (0.454) (0.554) (0.831)
+
+0.794 -0.202 -1.280' -1.579 0.053
+
+0.215
+
+(0.630) (0.584) (0.642) (1.058) (0.690) (1.102)
+
+... 177 193 220 118 40 42 43 41
+
+91 100 39 36
+
+8,398 7,727 7,146 6,658 6,343 6,049
+
+NOTE: Variables are abbreviated as shown in Table 1. Standard errors are in parentheses underneath the estimated coefficients.
+"Model 1 = Univariate estimates.
+V < 0.01.
+'p < 0.05. dp < 0.10. 'Model 2 = MEDU + EMPM + SINCO + TINCO + MSIT. /Model 3 = Model 2 +BETI + DOUBA + BANT+NORT.
+SModel 4 = Model 3 +DRY + MOKOLO +BRIQUETERIE + NKOLDONGO
++ WALL+ ROOF+FLOOR + ELEC + PIPEDWATER + WELLWATER + CROWDING. *Model 5 = Model 4 +NDEL+TLBW+PTLBW+PTNBW. 'Model 6 = Model 5 +SAGE + LAGE + SECO + THIR + PRES. Model 7 = Model 6 +FBF+PBF+FC + CARE. 'Model 8 = Model 7 +HEBI + NUT+RESP + MEAS+ DIA + MALA. 'Model 9 = Model 8 +MRESP + BREAS + MMALA. "Model 10 = Model 9 +IMAL.
+
+that maternal health could mediate some of these differentials (Model 9), but the data fail to show any such mediating mechanism. Finally, the possibility that the immunization status of the child could differentiate them in terms of the risk factors being studied was examined (Model 10), but only marginal impact could be identified.
+
+EFFECTS OF HOUSING CHARACTERISTICS ON INFANT AND CHILD MORTALITY
+Table 4 shows the estimated hazards of dying by housing characteristics. The primary associations (Model 1) show that modern building materials (wall, roof, floor), availability of electricity, and availability of clean water
+
+Vol. 41, No. 3-4
+
+Childhood Mortality
+
+199
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+TABLE 4
+PlECEWISE HAZARDS ESTIMATES OF INFLUENCES OF HOUSING CHARACTERISTICS ON INFANT AND CHILD MORTALITY
+
+- VARIABLES
+WALL ROOF FLOOR ELEC PIPEDWAT WELLWAT CROWDING
+
+0
+-0.51* (0.26) -1.24' (0.16) -0.80' (0.15) -0.87' (0.18) -1.02' (0.25) -0.70' (0.16) 0.87' (0.15)
+
+1-3
+-0.31 (0.39) 1.10* (0.51) 0.22 (0.26) -0.36 (0.26) 0.05 (0.42) 0.44 (0.31) 1.48 (0.26)
+
+AGE (IN COMPLETED MONTHS)
+
+4-7 8-11 12-15
+
+Model 1"
+
+-0.38 (0.39)
+-0.09 (0.27) -0.08 (0.23) 0.26
+(0.22) 0.22 (0.34) 0.13 (0.27) 1.92' (0.27)
+
+-0.23 (0.32) 0.04 (0.23) -0.24 (0.19) -0.41*
+(0.20) -0.24 (0.33)
+0.24 (0.22) 2.03' (0.23)
+
+-0.68 (0.58) -0.19 . (0.29) -0.38 (0.27) -0.85* (0.34) -1.09'' (0.58) -0.22 (0.28) 2.04' (0.34)
+
+16-19
+-1.73d (0.98) -0.15 (0.29) -0.36 (0.28) -0.30 (0.31) -0.86 (0.59) -0.24 (0.29) 1.51' (0.32)
+
+20-23
+-0.76 (0.72) 0.87* (0.44) 0.41 (0.33) -0.08 (0.34) -0.71 (0.76) 0.46 (0.35) 1.79' (0.44)
+
+WALL ROOF FLOOR ELEC PIPEDWAT WELLWAT CROWDING
+
+-0.01
+(0.35) -1.78' (0.31)
+0.06
+(0.23) -0.46rf (0.25)
+0.71'' (0.44) 0.44 (0.30) 1.62' (0.19)
+
+-0.11
+(0.48) 0.93 (0.62) 0.33
+(0.31) -0.28 (0.32) -0.03 (0.55) -0.08 (0.37)
+1.42' (0.27)
+
+-0.61
+(0.47) -1.27* (0.53) -0.18
+(0.35) 0.62'' (0.32) 0.87 (0.60) 0.62 (0.59) 2.17' (0.28)
+
+Model V
+0.31 (0.40) -0.50 (0.40) -0.12 (0.26) -0.26 (0.27) 0.30 (0.52) 0.41 (0.37) 2.05* (0.24)
+
+0.32
+(0.72) 0.19 (0.48) 0.07
+(0.39) -0.59 (0.43) -0.94
+(0.82) -0.66 (0.44)
+2.14C (0.34)
+
+-1.31 (1.04) 0.29 (0.49) -0.13
+(0.44) 0.33
+(0.42) -0.61 (0.77) -0.64 (0.47)
+l.so^ (0.33)
+
+-0.16
+(0.82) 1.33* (0.63) 0.35
+(0.45)
+-0.19 (0.40) -1.33 (0.91) -0.45 (0.47) 1.96' (0.45)
+
+WALL ROOF FLOOR ELEC PIPEDWAT... WELLWAT CROWDING
+
+-0.05
+(0.35) -1.43C (0.35) -0.09 (0.23) -0.20 (0.26)
+0.51 (0.46)
+0.38 (0.34) 1.40' (0.18)
+
+-0.14
+(0.48) 0.92
+(0.63) 0.30
+(0.31) -0.12
+(0.33) -0.13 (0.55) -0.21
+(0.38) 1.40 (0.27)
+
+-0.57 (0.47) -1.25* (0.52) -0.14 (0.34) 0.61d (0.32) 0.83 (0.60) 0.60 (0.48) 2.14' (0.28)
+
+Model V
+0.32 (0.40) -0.50 (0.40) -0.13 (0.26) -0.23 (0.27) 0.30 (0.52) 0.42 (0.37) 2.05' (0.24)
+
+0.31
+(0.71) 0.15 (0.48) 0.11
+(0.40) -0.61 (0.44) -0.91 (0.82) -0.64 (0.44)
+2.15' (0.34)
+
+-1.31 (1.04)
+0.29 (0.49) -0.12 (0.44)
+0.33 (0.42) -0.61 (0.77) -0.64
+(0.47) 1.50' (0.73)
+
+na na na na na
+na na
+
+(continued)
+
+200
+
+Kuate Defo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+VARIABLES
+WALL ROOF FLOOR ELEC PIPEDWAT WELLWAT CROWDING
+WALL ROOF FLOOR ELEC PIPEDWAT WELLWAT CROWDING
+
+TABLE 4 (continued)
+
+0
+-0.19 (0.35) -1.07* (0.37) -0.25 (0.24) -0.15 (0.26) 0.86d (0.48) 0.54 (0.35) 1.44* (0.18)
+
+1-3
+-0.24 (0.48) 0.97d (0.64) 0.21 (0.32) -0.16 (0.33) -0.06 (0.56) -0.15 (0.38) 1.57* (0.27)
+
+AGE (IN COMPLETED MONTHS)
+
+4-7 8-11 12-15
+
+-0.44
+(0.48)
+-1.27'' (0.53) -0.18 (0.35)
+0.71'' (0.33) 0.76 (0.60) 0.63 (0.49) 2.26* (0.28)
+
+Model 4?
+0.25 (0.40)
+-0.30 (0.42) -0.23 (0.26) -0.23 (0.27) 0.26 (0.52) 0.38 (0.38) 2.12* (0.25)
+
+0.17 (0.72)
+0.33 (0.49) 0.01
+(0.40) -0.64 (0.44) -0.92 (0.83) -0.63 (0.45)
+2.20* (0.34)
+
+16-19
+-1.41 (1.04) 0.35 (0.50) -0.16 (0.44) 0.35 (0.42) -0.62 (0.78) -0.60 (0.47) 1.61* (0.33)
+
+20-23
+-0.23 (0.81) 1.3ld (0.64) 0.28 (0.45) -0.23 (0.42) -1.04 (0.90) -0.31 (0.47) 1.94* (0.45)
+
+Model S*
+
+na -0.24 -0.43 0.25 0.17 -1.39 -0.22
+
+(0.49) (0.48) (0.40) (0.72) (1.09) (0.82) na 0.99d -1.29" -0.30 0.33 0.42 1.30"
+
+(0.65) (0.54) (0.42) (0.49) (0.50) (0.64)
+
+na
+
+0.20 -0.16 -0.23
+
+0.01 -0.18
+
+0.28
+
+(0.32) (0.35) (0.26) (0.40) (0.44) (0.45)
+
+na -0.17
+
+-0.23 -0.64
+
+0.34 -0.25
+
+(0.33) (0.33) (0.27) (0.44) (0.42) (0.42)
+
+na -0.06 0.76 0.26 -0.92 -0.60 -1.04
+
+(0.56) (0.60) (0.52) (0.83) (0.79) (0.91)
+
+na -0.16 0.63 0.38 -0.63 -0.61 -0.30
+
+(0.38) (0.49) (0.38) (0.45) (0.47) (0.48)
+
+na 1.57* 2.27* 2.12* 2.20* 1.63* 1.05*
+
+(0.28) (0.28) (0.25) (0.34) (0.34) (0.45)
+
+(continued)
+
+(piped or well water) are protective for child survival, while overcrowding (more than three persons sharing the room with the index child) has deleterious effects on child survival. This general pattern is also age-dependent. In particular, the advantage associated with a modern roof is restricted to the neonatal period. It is clear that in the neonatal period, the greatest advantage derives from living in a house constructed from modern materials, from the availability of power source (electricity) and clean water, and from hav-
+
+ing fewer than three persons share the room with the newborn.
+Model 2 investigates the possibility that these primary associations might be confounded by the socioeconomic characteristics of the family (mother's education, employment, marital status, household income, ethnicity) or by the neighborhood of residence within the city. Such possibility exists for the protective effects attributable to modern wall construction, and availability of electricity and clean water. In fact, after the socioeconomic factors are
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Vol. 41, No. 3-4
+
+Childhood Mortality
+
+201
+
+TABLE 4 (continued)
+
+AGE (IN COMPLETED MONTHS)
+
+VARIABLES
+
+0
+
+1-3
+
+4-7
+
+8-11
+
+12-15
+
+16-19
+
+20-23
+
+WALL ROOF FLOOR ELEC PIPED WAT ,, WELLWAT CROWDING ,
+
+Model 6>
+
+na -0.27 -0.44 0.25 0.28 -1.38 -0.20
+
+(0.49) (0.47) (0.39) (0.72) (1.09) (0.82) na l.(Hd -1.23rf - 0 . 3 5 0.34 0.41
+
+(0.65) (0.54) (0.42) (0.49) (0.50) (0.64)
+
+na
+
+0.23 -0.16 -0.19
+
+0.03 -0.19
+
+0.27
+
+(0.32) (0.35) (0.26) (0.40) (0.44) (0.45)
+
+na -0.11 0.80'' -0.14 -0.64 0.35 -0.27
+
+(0.33) (0.33) (0.27) (0.44) (0.43) (0.42)
+
+na -0.04 0.76 0.30 -0.94 -0.59 -1.05
+
+(0.56) (0.60) (0.51) (0.83) (0.79) (0.91)
+
+na - 0 . 1 3 0.65 0.47 - 0 . 6 1 -0.60 -0.31
+
+(0.38) (0.49) (0.37) (0.45) (0-47) (0.48)
+
+na
+
+1.53C
+
+2.27C
+
+2.17C
+
+2.24C
+
+1.62C
+
+1.95C
+
+(0.28) (0.28) (0.25) (0.34) (0.34) (0.45)
+
+NOTE: Variables are abbreviated as shown in Table 1. Standard errors are in parentheses underneath the estimated coefficients,
+na = not applicable.
+"Model 1 = Univariate estimates. V < 0.05.
+<p < 0.01.
+<>p<0.W. 'Model 2 = Model 1 +MED + EMPM + S1NCO+ T1NCO+ MSIT + BETI+DOUBA + BANT+NORT+
+MOKOLO + BRIQUETERITE + NKOLDONGO. /Model 3 = Model 2 +NDEL+TLBW + PTLBW +PTNBW. SModeU = Model 3 +FAGE + LAGE + SECO + THIR + PRES + FBF + PBF+FC + CARE
++ HEBI + RESP+DIA + MEAS + MALA. *Model5 = Model 4 +MRESP + BREAS+ MMALA. 'Model 6 = Model 5 +IMAL.
+
+controlled, some of the effects reverse signs and turn into a disadvantage as in the case of electricity in 4-7 months and piped water in the first month. But the effects of crowding remain unchanged by these controls. Modern roofing retains its protective effects in the neonatal period and its disadvantage in the postneonatal period is reversed and even significant in 4-7 months. It is likely therefore that the influences on mortality of housing construction materials and availability of electricity and clean water in families are mainly mediated by the socioeconomic status of these families.
+The possibility that health conditions at birth might explain the remaining effects noted above was also sought
+
+(Model 3). There is evidence that the residual effects of the availability of electricity or clean water in the first month are explained by the poor health of the newborn (e.g., poor pregnancy outcome). These controls did not affect the significance of the effects of a modern roof and overcrowding over time. Furthermore, controls for maternal reproductive patterns (age and parity) and survival status of the preceding sibling leave these results unchanged. Similar results were found after introducing controls for breastfeeding patterns and timing of following conception, and prenatal care visits (results not shown).
+We also explore the possibility that child health could account for the
+
+202
+
+Kuate Defo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+relationships between housing charac- the protective effects of full immuniza-
+
+teristics and mortality (Model 4). It tion is restricted to the first 16 months
+
+appears that child health does not' of life (Model 3). These protective ef-
+
+confound previous relationships. A fects of full immunization remain un-
+
+similar conclusion is reached after con- changed after controls for neighbor-
+
+trolling for maternal health (Model 5) hood of residence (Model 4), housing
+
+or immunization status of the child characteristics, availability of electric-
+
+(Model 6).
+
+ity or clean water in the family, and
+
+Overall, overcrowding has direct overcrowded family structure (Model
+
+and robust deleterious effects on infant 5), health conditions of the child at and child survival. The greatest advan- birth (Model 6), and maternal repro-
+
+tage derives generally from living in a ductive characteristics (Model 7).
+
+house constructed from modern mate- The possibility that maternal anti-
+
+rials with modern amenities, although bodies (through the immunological
+
+the mortality of children living in properties of breast milk) could inhibit
+
+houses with nonmodern materials or some of the effects attributable to full
+
+without access to electricity or clean immunization status was sought
+
+water is sometimes almost as low as (Model 8). There appears to be no ev-
+
+--or even lower than--that of their idence whatsoever that breastfeeding
+
+modern material counterparts. A pos- patterns mediate the protective effects
+
+sible explanation of this anomaly is of full immunization on child survival.
+
+that a modern housing structure could Further controls for prenatal care
+
+indicate hastily constructed tempo- checkups (Model 9), child health over
+
+rary housing using modern materials time (Model 10), or maternal health
+
+which degenerate into modern slums, status over time (Model 11) did not
+
+whereas traditional housing may have modify these conclusions.
+
+received greater care in construction. The tendency for a modern facility to exhibit the lowest mortality risks is maintained with regard to modern wall construction.
+
+In terms of the efficacy of full immunization status of children on their survival prospects, the efficacy of full immunization is strongest in the first 4 months of life (about 90 per cent,
+
+EFFECTS OF IMMUNIZATION STATUS ON CHILD SURVIVAL
+
+p < 0.01) and decreases as the child ages to a level of about 40 per cent by the end of the second year of life. It is
+
+Table 5 presents the estimated ef- important to notice that the efficacy of
+
+fects of full immunization status on full immunization in saving children's
+
+infant and child mortality. The gross lives peaks at 1-3 months and later at
+
+effects (Model 1) indicate that full im- 8-11 months. The peak at 8-11
+
+munization status is associated with months probably reflects the over-
+
+significant reduction in mortality at whelming role of measles vaccine for
+
+least up to 16-19 months of age. These saving children's lives in this age group
+
+results are virtually unaffected by a where measles morbidity and mortality
+
+control for socioeconomic background peaks in Cameroon. Thus, there is no
+
+of the family (Model 2). Once ethnic- evidence that full immunization status
+
+ity is accounted for, the robustness of has limited or no protective effects on
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Vol. 41, No. 3-4
+
+Childhood Mortality
+
+203
+
+TABLE 5
+INFLUENCES OF FULL IMMUNIZATION STATUS (IMAL) ON INFANT AND CHILD MORTALITY
+
+AGE (IN COMPLETED MONTHS)
+
+MODE
+Model V Model 2" Model 3C Model ¥ Model 5e Models. Model 7* Model 8* Model 9' Model W Model 11*
+
+1-3
+-2.45'
+(0.66) -2.34' (0.71) -2.22' (0.71) -2.21' (0.71) -2.34' (0.71) -2.26' (0.71) -2.27' (0.71) -2.28' (0.71) -2.28' (0.71) -2.29' (0.71) -2.29' (0/71)
+
+4-7
+-1.52m (0.51) -1.44" (0.51) -1.45"1 (0.51) -1.47"1 (0.51)
+-1.54' (0.51) -1.47m (0.51)
+-1.50" (0.51) -1.47"1 (0.51)
+-1.50TM (0.51)
+-1.50TM (0.51)
+-1.49" (0.51)
+
+8-11
+-2.13' (0.42) -2.06' (0.42)
+-2.05' (0.42)
+-2.05' (0.42)
+-2.12' (0.42)
+-2.12' (0.42)
+-2.12' (0.42)
+-2.10' (0.42)
+-2.09' (0.42)
+-2.11' (0.42)
+-2.12' (0.42)
+
+12-15
+-1.05" (0.36) -1.00" (0.37) -0.95"1 (0.38) -0.94m (0.37) -0.91"1 (0.37)
+-0.91"" (0.37) -0.93"1 (0.37)
+-0.98TM (0.37)
+-0.98TM (0.37) -0.92"1 (0.37) -0.92"1 (0.37)
+
+16-19
+0.59"" (0.31) -0.47" (0.32)
+-0.27 (0.33)
+-0.27 (0.33)
+-0.27 (0.33)
+-0.27 (0.33)
+-0.30 (0.33)
+-0.30 (0.33)
+-0.30 (0.33)
+-0.27 (0.33)
+-0.26 (0.33)
+
+20-23
+-0.24 (0.33) -0.13 (0.33) 0.04 (0.34) 0.08 (0.35) 0.16 (0.35) na
+0.17 (0.36) 0.28 (0.36) na
+0.26 (0.36) 0.23 (0.37)
+
+NOTE: Variables are abbreviated as shown in Table 1. Standard errors are in parentheses underneath the estimated coefficients, na = not applicable.
+"Model 1 = Univariate estimates. 'Model 2 = Model 1 +MEDU + EMPM + SINCO+TINCO + MSIT. cModel3 = Model 2 +BETI + DOUBA + BANT+ NORT. ·Model 4 = Model 3 +MOKOLO + BRIQUETERIE + NKOLDONGO. 'Model 5 = Model 4 + WALL+ ROOF+FLOOR+ ELEC + PIPEDWAT+ WELLWAT+ROOM.
+/Model 6 = Model 5 +NDEL+TLBW + PTLBW+ PTNBW. SModel7 = Model 6 +FAGE + LAGE + SECO + THIR + PRES. *Model8 = Model 7 +FBF + PBF+FC. Model 9 = Model 8 +CARE. 'Model 10 ·= Model 9 +HEBI + RESP+ DIA + MEAS+MALA. 'Model 11 = Model 10 +MREASP + BREAS+MMALA. >p < 0.01. mp < 0.05. "p < 0.10.
+
+survival in infancy and early childhood. The data suggest that the protective effects of full immunization status are robust and not contaminated by confounding factors, at least in the first 16 months of life. These findings provide solid ground to support immunization programs and efforts as a means to reduce significantly infant and child mortality.
+
+MODELS WITH DURATION DEPENDENCE TERMS AND UNOBSERVED HETEROGENEITY
+The possibility exists that none of the control variables may capture conditions that simultaneously affect target variables and child survival and modify mortality risks associated with them. This problem is generally
+
+204
+
+Kuate Defo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+referred to in the literature as the problem of unmeasured heterogeneity (e.g., Trussell and Rodriguez, 1990; Rogers, 1992; Gill, 1992). To test whether or not ourjesults are sensitive to omitted covariates, we use a Weibull hazard model with nonparametric heterogeneity (Heckman and Singer, 1984). We choose nonparametric heterogeneity over parametric heterogeneity since the results of the latter are very sensitive to the distribution imposed on the unknown covariate(s) (Trussell and Richards, 1985). In addition, since we are fairly certain that the duration structure of child survival is well represented by a Weibull, we are in a position to minimize the identification problems that plague hazard models with unmeasured heterogeneity (parametric or nonparametric).
+Table 6 presents the results of the effects of measured covariates within a continuous-time hazards framework, with and without accounting for unmeasured heterogeneity. The first 7 models are nested models incorporating stepwise controls, and the last two models (8 and 9) incorporate a control for unmeasured variables. If the estimated effects show no change, our inferences regarding the estimated effects receive further confirmation.
+As regards the effects of socioeconomic variables, the robustness of the protective effects of household income (p < 0.01) and ethnic differentials are unchanged, even after controlling for unmeasured heterogeneity. In general, the referent ethnic groups (i.e., ethnic groups of the region of West) are at an advantage. The deleterious effects of marital status are also apparent, but these effects are largely explained by unmeasured covariates.
+
+The general results for housing characteristics show that a family with modern wall and roof housing has the greatest survival advantage, while a family with more than three persons in the room of the index child suffers the greatest disadvantage, even after accounting for unobserved heterogeneity.
+Finally, the protective effects of full immunization status of the index child on his/her survival over the first two years of life is robust and insensitive to unmeasured heterogeneity. This lends support to the argument that immunization directly saves lives of children.
+Overall, a comparison of Model 7 with Models 8 and 9 in Table 6 shows that the introduction of nonparametric heterogeneity with two points of support (additional points of support could not be estimated) has no impact on the estimated effects. These results suggest that the estimates are indeed robust.
+DISCUSSION
+Overall, the data suggest that household income has robust effects on child survival and that there are substantial ethnic differentials in mortality in Yaounde. These ethnic differentials are possibly mediated by behavioral mechanisms in the postneonatal period and beyond. Maternal schooling shows no clear pattern of effects on child survival in this setting. Similar results of the poor performance of maternal schooling as an explanatory factor of infant and child mortality in urban Africa were found by Mbacke and van de Walle (1989) in Bobo Dioulasso in Burkina Faso. It is generally suggested that income can only affect child
+
+Vol. 41, No. 3-4
+
+Childhood Mortality
+
+205
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+TABLE 6
+WEIBULL ESTIMATES OF INFLUENCES ON INFANT AND CHILD MORTALITY
+
+VARIABLES
+Constant Slope MEDU EMPM SINCO TINCO MSIT BETI DOUBA BANT NORT DRY MOKOLO BRIQUETERIE NKOLDONGO WALL ROOF FLOOR ELEC PIPEDWATER WELLWATER CROWDING NDEL FAGE LAGE
+
+MODELS
+
+1» 2* ¥_ ¥_ 5< ff_ 7« 8*
+
+9
+
+-4.49> -4.74'" -5.12> -4.02/ -4.23' -4.48/ -4.42/ -4.56/ -7.93/ (0.11) (0.15) (0.21) (0.23) (0.23) (0.23) (0.23) (0.44) (0.48)
+
+-0.39/ -0.38' -0.4& -0.55' -0.54/ -0.50/ -0.43/ -0.39/ -0.01
+
+(0.04) (0.04) (0.04) (0.05) (0.05) (0.05) (0.05) (0.05) (0.07)
+
+-0.22* -0.16 -0.05 -0.04 0.02 0.04 0.07 0.21' -0.13 (0.11) (0.12) (0.13) (0.13) (0.13) (0.13) (0.13) (0.12) (0.19)
+
+-0.26* -0.30* -0.19' -0.18' -0.16 -0.12 -0.14 0.18' -0.27 (0.13) (0.13) (0.13) (0.13) (0.13) (0.13) (0.13) (0.12) (0.18)
+
+-0.84' -0.82'' -0.79/ -0.78' -0.78' -0.78' -0.76/ -0.87' -1.33/ (0.11) (0.11) (0.11) (0.11) (0.11) (0.11) (0.11) (0.10) (0.16)
+
+-1.02/ -1.03/ -0.83/ -0.8CV -0.80' -0.78' -0.75/ -0.84/ -1.40/ (0.17) (0.17) (0.17) (0-17) (0.17) (0.17) (0.17) (0.16) (0.22)
+
+0.32'' 0.22* 0.28* 0.29* 0.22* 0.23* 0.23* 0.18* 0.17
+
+(0.09) (0.10) (0.10) (0.10) (0.10) (0.10) (0.10) (0.09) (0.15)
+
+0.32* 0.29* 0.29* 0.31* 0.31* 0.17 0.22* 0.24 (0.11) (0.12) (0.12) (0-12) (0.12) (0-12) (0.10) (0.16)
+
+0.41* 0.34* 0.33* 0.34* 0.38* 0.27' 0.26* 0.29
+
+(0.14) (0.14) (0.15) (0.15) (0.14) (0.14) (0.13) (0.20)
+
+0.30* 0.18 0.20 0.20 0.23 0.12 0.08 0.02 (0.16) (0.16) (0.16) (0.16) (0.17) (0.17) (0.16) (0.23)
+
+0.41* 0.53* 0.44* 0.28' 0.10 0.03 0.23 1.05/ (0.19) (0.19) (0.19) (0.19) (0.19) (0.19) (0.16) (0.29)
+
+-0.15' -0.13' -0.14' -0.08 -0.08 -0.07 -0.17' -0.19' (0.09) (0.08) (0.09) (0.09) (0.09) (0.09) (0.08) (0.13)
+
+0.26 0.16 0.17 0.13 0.21 0.20 0.08 0.27 (0.20) (0.20) (0.20) (0.20) (0.20) (0.20) (0.20) (0.33)
+
+0.21 0.16 0.20 0.27 0.29 0.27 0.21 0.01 (0.18) (0.18) (0.18) (0.18) (0.18) (0.18) (0.16) (0.26)
+
+0.28' 0.27' 0.27' 0.30' 0.24 0.23 0.22' -0.01 . . . (0.17) (0.17) (0.17) (0.17) (0.16) (0.16) (0.14) (0.24)
+
+-0.18 -0.19 -0.19 -0.22 -0.19 -0.35* -0.29 (0.18) (0.18) (0.18) (0.17) (0.17) (0.16) (0.21)
+
+-0.46* -0.40* -0.35* -0.37* -0.35* -0.15 -0.54*
+
+(0.18) (0.18) (0.18) (0.18) (0-17) (0.16) (0.23)
+
+0.04 (0.12) -0.12
+
+0.01 (0.12)
+-0.11 (0.13)
+
+0.01 (0-12)
+-0.09 (0.13)
+
+-0.04 (0.12)
+-0.03 (0.13)
+
+-0.02 (0.12)
+0.01 (0.13)
+
+-0.30* (O.H) 0.05 (0.11)
+
+0.03 (0.16)
+0.03 (0.17)
+
+(0.13) 0.13 0.14 0.24 0.23 0.39* 0.29
+
+0.14 (0.23) (0.23) (0.23) (0.22) (0.19) (0.30)
+
+(0.23) 0.09 0.09 0.16 0.16 0.29* 0.21 0.10 (0.17) (0-17) (0.16) (0.16) (0.13) (0.22)
+
+(0.16) 1.48' 1.51' 1.51' 1.52/ 1.60/ 1.84/ 1.49/ (0.09) (0.09) (0.09) (0.09) (0.09) (0.10)
+
+(0.09) 0.98' 0.98' 0.66* 0.64/ 0.33* 2.02/ 0.98' (0.14) (0.14) (0.15) (0.15) (0.12) (0.24)
+
+(0.14) 0.12 0.14 0.06 0.01 0.16' 0.24 0.14 (0.12) (0.12) (0.12) (0.12) (0.10) (0.18)
+
+(0.12) 0.21 0.23 0.21 0.22 0.19 0.09 0.21 (0.16) (0.16) (0.16) (0.16) (0.16) (0.23)
+
+(0.16)
+
+(continued)
+
+206
+
+Kuate Defo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+TABLE 6 (continued)
+
+MODELS
+
+VARIABLES
+SECO THIR PRES FBF PFB FC NOCARE HEBI NUT RESP MEAS MALA DIA MRESP BREAS IMAL
+L
+
+P
+3,718
+
+2*
+3,707
+
+V_ 4^
+
+?
+
+^ 7« 8*
+
+»
+
+-0.25* -0.26* -0.23* -0.21' -0.26* -0.34* -0.29' (0.13) (0.13) (0.12) (0.12) (0.12) (0.11) (0.18)
+-0.31* -0.32* -0.31* -0.27' -0.33* -0.47' -0.35' (0.14) (0.14) (0.14) (0.14) (0.14) (0.13) (0.19) 0.36* 0.36* 0.36* 0.21 0.21 0.33' 0.23 (0.16) (0.16) (0.16) (0.16) (0.16) (0.11) (0.24)
+-1.201 -1.20' -1.15> -1.10' -1.25> -0.90' (0.12) (0.12) (0.12) (0.12) (0.11) (0.14)
+-1.07' -1.06* -1.05* -1.00> - l . i y -0.75^
+(0.12) (0.12) (0.13) (0.13) (0.12) (0.15)
+0.30* 0.31* 0.28' 0.34* 0.42* 0.47* (0.15) (0.16) (0.15) (0.15) (0.15) (0.19)
+0.91' 0.95/ 0.92' 0.75> 0.7cV (0.17) (0.18) (0.18) (0.17) (0.27)
+2.33> 2.35> 3.22/ na (0.12) (0.13) (0.12) (0.19) 1.1& 1.171 \.6SI 1.41' (0.36) (0.36) (0.35) (0.52) 0.01 0.01 -0.03 -0.06 (0.11) (0.11) (0.10) (0.12) 0.20 0.17 0.10 0.33 (0.23) (0.23) (0.23) (0.27) -0.19 -0.11 -0.03 0.03 (0.16) (0.16) (0.15) (0.17)
+0.23' 0.28* 0.18 0.35* (0.14) (0.14) (0.13) (0.15) -0.14 -0.15 -0.21 -0.31 (0.45) (0.46) (0.45) (0.44) -0.09 -0.12 -0.11 -0.59 (0.73) (0.73) (0.73) (0.77)
+-1.041 -1.19> -1.48> (0.16) (0.15) (0.18)
+
+3,542 3,496 3,484 3,374 3,346 3,404 3,406
+
+NOTE: Variables are abbreviated as shown in Table 1. Standard errors are in parentheses underneath the estimated coefficients. L = - Log likelihood.
+"Model 1 = MEDU + EMPM + SINCO+TINCO + MSIT.
+'Model 2 = Model 1 +BETI + DOUBA + BANT+NORT+MOKOLO + BRIQUETERIE + NKOLDONGO + DRY. 'Model 3 = Model 2 + WALL+ROOF+FLOOR+ELEC + PIPEDWAT+WELLWAT+CROWDING + FAGE
++ LAGE + SECO+THIR + PRES. ''Model 4 = Model 3 +FBF+PBF+FC. 'Model 5 = Model 4 +CARE.
+/Model 6 = Model5 + HEBI+ NUT+RESP + MEAS + MALA + DIA + MRESP+ MBREAS. sModel 7 = Model 6 +IMAL (Full model). AModel 8 = Full model corrected for unmeasured heterogeneity. 'Model 9 = Full model (excluding HEBI) corrected for unmeasured heterogeneity. ip < 0.01. *p < 0.05. >p <0.10.
+
+mortality through other factors The persistence of ethnic differentials (United Nations, 1985). We found in mortality, although all groups are asstrong income effects even after con- similated into the general urban cultrolling for unmeasured heterogeneity, tural environment, suggests that there
+
+Vol. 41, No. 3-4
+
+Childhood Mortality
+
+207
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+still remains a considerable degree of difference among these groups in their health beliefs and practices.
+The data generally suggest that the hazards to health arise mainly from overcrowding, unhygienic methods of construction, inadequate and impure water supplies, and the arrangements for cooking and storage of food. If housing structure variables are important determinants of child survival, much of their impact would be retained when other socioeconomic variables are introduced; which proves to be the case for overcrowding throughout this research. Overcrowding has direct and robust deleterious effects on infant and child survival. This importance of overcrowding within households as a factor in the spread of infectious disease has recently been highlighted in Africa. Although bad housing can clearly facilitate the transfer of communicable diseases, it is not possible to isolate the house as a physical structure from the external environment in which it is located, or from the wider social and economic environment of its occupants. On the other hand, while poor housing almost always accompanies overcrowding, poor sanitation, poor diet, and a generally poor standard of living as part of the cycle of deprivation, improved housing could even result in an increase in mortality when higher rents mean that there is less to spend on food, treatment of recurrent infections, and general health of the household, and the most vulnerable are children. The tendency for most modern facilities to exhibit the lowest mortality risk is maintained with regard to modern wall construction. While one would have expected mortality to be lower
+
+where running water is available inside the house, and also where electricity is available, we found no such tendency. These deviations have been observed elsewhere in Africa (United Nations, 1985). In Ghana, better housing structure, particularly at intermediate levels, does not improve the survival status of children. Deviations from the expected patterns were also found in Sierra Leone where the child mortality in houses with water taps in the household yard is higher than that associated with the water supply from public taps, and in the Sudan, where the mortality level related to pipes in the compounds is slightly higher than that in the households obtaining water from village pipes. It should be noted that piped water in some areas is more subject to the risk of contamination than water from wells or streams, particularly where the water-supply system is not well maintained. This explanation is plausible in Yaounde" where there are frequent interruptions of running water in the city.
+This study has shown that vaccines remain one of the most effective disease-prevention technologies available and have the potential to significantly reduce mortality in infancy and childhood. We found that full immunization status could prevent as much as 90 per cent of deaths due to lack of immunization in the first 4 months and about the same proportion at 8-11 months where measles is most prevalent in Cameroon (Direction Nationale du Deuxieme Recensement/IRD, 1992). Currently, there are three diseases--neonatal tetanus, pertussis, and measles--which contribute significantly to childhood mortality and
+
+208
+
+Kuate Defo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+which are amenable to prevention by immunization of the mother and/or the child. In most developing countries, however, little impact has been made on mortality from these diseases because of low coverage of the population by vaccine programs (in the range of 10 to 30 per cent) (Aaby and Clements, 1989). These preventable childhood infectious diseases not only kill many children of the Third World, but additionally many have after-effects that leave the survivors handicapped for life. Effective, safe vaccines have greatly reduced the incidence of diphtheria, whooping cough, tetanus, tuberculosis, measles and poliomyelitis. Improved techniques of immunization and of simple cold storage systems have also contributed to the effectiveness of immunization efforts. This study provides further evidence that full immunization against diphtheria, pertussis, tetanus, tuberculosis, measles, and poliomyelitis can effectively reduce the incidence, lethality and mortality of these diseases in infancy and childhood. These findings are important and need to be incorporated into the national vaccination policy since immunization coverage is still low.
+There is an urgent need for intensification of immunization efforts through amalgamation of the preventive and curative services in Cameroon,- especially for children attending health centers for medical care. Those who attend to sick children must also accept the responsibility of initiating or completing their immunization programs. One possible strategy for increasing coverage is the routine and
+
+obligatory immunization of all children presenting for episodic care in medical facilities, public and private. Each child attending a health center for clinical consultation should be screened as to immunization status and those currently in need should be immediately immunized. It is not known whether vaccination integrated with episodic care will effect sufficient coverage of all subgroups to assure the attainment of program objectives without additional efforts. The advantages of beginning from the general health services are both managerial and technical. Overburdened clinics are unlikely to accept the additional burden of immunization when parallel vertical programs exist which are designed to do only immunizations (e.g., EPI). Monitoring and evaluating programs could include, among other things, monitoring the prevalence and mortality of preventable diseases, studying vaccine uptake and efficacy, exploring the reasons behind the nonacceptance of programs, identifying local groups with low vaccine coverage, and evaluating the impact of different strategies to expand vaccine coverage.
+ACKNOWLEDGMENTS
+This research was made possible by a fellowship from the Rockefeller Foundation. I am grateful to Alberto Palloni, Larry Bumpass, Robert Mare, and Theresa Young for their insightful comments on earlier drafts of this manuscript.
+
+Vol. 41,No. 3-4
+
+Childhood Mortality
+
+209
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+REFERENCES
+
+Aaby P., M. Andersen, and K. KNUDSEN. 1993. Excess mortality after early exposure to measles. Internat. J. Epidemiol. 22:156-162.
+AABY, P., and J. CLEMENTS. 1989. Measles im-
+munization research: A review. Bull. World Health Organ. 67:443-448. ADAMCHAK, D. 1979. Emerging trends inthe relationship between infant mortality and socioeconomic status. Soc.Biol. 26:16-29. AKIN, J. S. 1991. Estimating the impacts of socio-economic and biomedical factors on child health: TheCebu Study, p. 407-427. In J. Cleland and A. G.Hill (eds.), The health transition: Methods and measures. Health Transition Series no. 3. Health Transition Centre, Canberra. AKOTO, E. 1990.Christianisme et inégalitésen matière de mortalité des enfants en Afrique Noire. Population 6:971-992.
+ANDERSON, R. M., and R. M. MAY. 1982. Di-
+rectly transmitted infectious diseases: Control by vaccination. Science 215:1053-60.
+ASSAAD, F. 1983.Measles: Summary of worldwide impact. Rev. Infect. Dis. 5:452-459.
+BEHM, H. 1983.Final report on the Research Project on Infant and Childhood mortality in the Third World. CICRED, Paris.
+BEHRMAN, J., J. SICKLES, and P. TAUBMAN. 1990.
+Age-specific death rates with covariates: Sensitivity to sample length and unobserved frailty. Demography 27:267-284. BENJAMIN, B. 1965. Social and economic factors affecting mortality. Marton, Paris. BLACKER, J. 1991. Infant and child mortality: Development, environment, and custom, p. 75-86. In R. G. Feachem andD. T. Jamison. Disease and mortality in Sub-Saharan Africa. Oxford Univ. Press, Oxford.
+BUTZ, W. P., J-P. HABICHT, and J. DAVANZO.
+1984. Environmental factors in the relationship between breastfeeding and infant mortality: Therole ofwater andsanitation inMalaysia. Amer. J. Epidemiol. 119:516-525. CALDWELL, J. C. 1986.Routes to low mortality in poor countries. Pop. Develop. Rev. 12:171-220.
+. 1979. Education as a factor inmortality decline: An examination of Nigerian data. Pop. Stud. 33:395-413.
+CALDWELL, J., S. FINDLEY, P. CALDWELL et al.
+(eds.). 1990. What do weknow about health transition: Thecultural, social and behavioral determinants of health. Health Transition Series No. 2(Vol. I). Health Transition Centre, Canberra.
+CANTRELLE, P., I. L. DIOP, M. GARENNE, M.
+GUEYE, and S. SADIO. 1986. The profile of
+mortality and its determinants in Senegal, 1960-1980, p. 1-4. InDeterminants of mor-
+
+tality change and differentials in developing countries. Population Studies, No. 94, United Nations, New York.
+CHOE, M. K. 1984. Proportional hazards and logistic regression models for the analysis of infant and childhood mortality. Asian Specif. Census Forum 11:5-8.
+CLEMENS, J. D., B. F. STANTON, J. CHAKRA-
+BORTY, et al. 1988. Measles vaccination and childhood mortality in rural Bangladesh. Amer. J. Epidemiol. 128:1330-1339.
+COCHRANE, S. H., D. J. O'HARA, and J. LESLIE.
+1980. The effects of education on health. World Bank Working Papers No. 405, Washington, D.C. Cox, D. R. 1972. Regression models and life tables (with discussion). J. Royal Statist. Soc. Series B34:187-220.
+DAVANZO, J., and J-P. HABICHT. 1986. Infant
+mortality decline in Malaysia, 1946-1975: The roles of changes invariables andchanges in thestructure of relationships. Demography 23:143-160.
+DAVANZO, J., W. P. BUTZ, and J-P. HABICHT.
+1983. How biological andbehavioral influences on mortality in Malaysia vary during the first year of life. Pop. Stud. 37:181-402.
+DIRECTION NATIONALE DU DEUXIÈME RECENSE-
+MENT GÉNÉRAL DE LA POPULATION ET DE
+L'HABITAT (DNDRGPH). 1992. Cameroun: Enquête démographique et de santé 1991. MINPAT, Yaoundé.
+DISAINE, B., and J. GARSEN. 1983. Niveau et
+structure de la mortalité avant deux ans à Yaoundé. IFORD, Yaoundé.
+FEACHEM, R. G. 1984. Interventions for the control ofdiarrhoeal diseases among young children: Promotion of personal and domestic hygiene. Bull. WHO 62:467-476.
+FEACHEM, R. G., and D. T. JAMISON (eds.).
+1991. Disease and mortality in Sub-Saharan Africa. Oxford Univ. Press, Oxford. FERRY, B. 1983. Les déterminants proches de la fécondité au Cameroun et leur importance dans les changements démographiques potentiels. Paper presented to Séminaire sur les Résultats del'Enquête Nationale sur la Fécondité auCameroun, Yaoundé. FOSTER, S.O. 1984. Immunizable and respiratory diseases andchild mortality. In W. H. Mosley and L.C. Chen (eds.), Child survival: Strategies forresearch. Pop.Develop. Rev. 10(Suppl.):119-140. GARSEN, J. 1985. Estimation de la complétude de l'enquête surla mortalité infantile etjuvénile à Yaoundé, p. 18-43. In IFORD, Etude de quelques problèmes méthodologiques liés aux enquêtes EMIJ. Imprimerie Nationale, Yaoundé.
+
+210
+
+Kuate Defo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+GILL, R.D. 1992. Multistate life-tables and re- KASONGO PROJECT TEAM. 1981. Influence of mea-
+
+gression models. Math. Pop.Stud. 3:259-
+
+sles vaccination on survival pattern of7-35
+
+276. month old children in Kasongo, Zaire.Lan-
+
+GUPTA, M. D. 1990. Death clustering, mother's
+
+cet 1:764-767.
+
+education and thedeterminants of child mor- KOENIG, M. A., V. FAUVEAU, and B. WOJTY-
+
+tality in rural Punjab, India. Pop. Stud.
+
+NIAK. 1991. Mortality reductions from health
+
+44:489-505.
+
+interventions: Thecase of immunization in
+
+GWATKIN, DAVIDSON R. 1980. Indications of
+
+Bangladesh. Pop. Develop. Rev.17:87-104.
+
+change in developing country mortality KUATE DEFO, B. 1992. Mortality and attrition
+
+trends: Theend of an era? Pop. Develop.
+
+processes in longitudinal studies in Africa:
+
+Rev. 6:615-644.
+
+An appraisal of the IFORD Surveys. Pop.
+
+HALSTEAD, SCOTTB., JULIA A. WALSH, and KEN-
+
+Stud. 46:327-348.
+
+NETH S.WARREN (eds.). 1985. Good healthat KUATE DEFO, B., and A. PALLONI. 1992. Deter-
+
+low cost. Proceedings of a Conference held at minants of infant andearly childhood mor-
+
+the Bellagio Conference Center, Bellagio, It- tality inCameroon. Center for Demography
+
+aly, April 19-May 2, 1985. Rockefeller
+
+and Ecology, Working Series Paper No. 92-
+
+Foundation, NewYork.
+
+93, University of Wisconsin, Madison.
+
+HARRINGTON, J. 1974. Economic development KUNITZ, STEPHEN J. 1986. Mortality since
+
+and mortality ininfancy and childhood: Com-
+
+Malthus, p. 279-302. In David Coleman and
+
+ments from the West African case. Popula-
+
+Roger Schofield (eds.), The state of popula-
+
+tion Planning Working Paper No. 10. De- tion theory. Oxford Univ. Press, Oxford.
+
+partment of Population Planning, Schoolof KUNITZ, S. J. 1990. Thevalue ofparticularismin
+
+Public Health, University of Michigan, Ann
+
+the study of the cultural, social andbehav-
+
+Arbor.
+
+ioural determinants of mortality, p.92-109.
+
+HECKMAN, J., and B. SINGER. 1984. A method for
+
+In J. Caldwell, S. Findley, P. Caldwell, G.
+
+minimizing the impact of distributional as-
+
+Santow, W. Cosford, J. Braid, andJ. Broers-
+
+sumptions in econometric models for dura-
+
+Freeman (eds.), What do we know about
+
+tion data. Econometrica 52:271-320.
+
+health transition: Thecultural, social and be-
+
+HENDERSON, R.H. 1983. Primary health care as
+
+havioural determinants of health. Health
+
+a practical means for measles control. Rev. Transition Series No. 2(Vol. 1). Health Tran-
+
+Infect. Dis.5:592-595.
+
+sition Centre, Canberra.
+
+HENDRICKSE, R. G. 1975. Problems of future MBACKE, C., and E. VANDE WALLE. 1989. Les
+
+measles vaccination indeveloping countries.
+
+facteurs socioéconomiques et l'influence de
+
+Trans. Royal Soc. Trop. Med. Hyg. 69:31-
+
+la fréquentation desservices de santé, p. 67-
+
+34. 84. In G. Pison, E. vande Walle, and M.
+
+HEYMANN, D., G. MAYBEN, K. MURPHY, et al.
+
+Sala-Diakanda (eds.), Mortalité et société en
+
+1983. Measles control in Yaounde: Justifica-
+
+Afrique. Travaux et documents, Cahierno.
+
+tions of a onedose, nine months minimum
+
+124. INED/UIESP/IFORD/MNHN. PUF,
+
+age vaccination policy in tropical Africa.
+
+Paris.
+
+Lancet 2:1470-1472.
+
+MORLEY, D. 1973. Pediatrics priorities inthe de-
+
+HILL, A., and S. RANDALL. 1984. Différences
+
+veloping world. Butterworths, Boston.
+
+géographiques et sociales dans la mortalité MORLEY, D. C., M. WOODLAND, and W. MAR-
+
+infantile et juvénile au Mali. Population
+
+TIN. 1963.Measles in Nigerian children: A
+
+6:921-945.
+
+study of the Disease in West Africa and its
+
+HOBCRAFT, J. N., J. W. MCDONALD, and S. O.
+
+Manifestations in England andother coun-
+
+RUTSTEIN. 1984. Socioeconomic factors in in- tries during different epochs. J. Hyg. 61:115-
+
+fant and child mortality: A cross-national
+
+135.
+
+comparison. Pop. Stud. 38:193-223.
+
+MOSLEY, W. H. 1985.Biological andsocioeco-
+
+HOUEHOUGBE, A. 1985. Examen de quelques
+
+nomic determinants of child survival. A prox-
+
+problèmes liés à l'échantillonnage, aux
+
+imate determinants framework integrating
+
+déperditions et auxméthodes d'estimations
+
+fertility and mortality variables, p. 189-208.
+
+dans lesenquêtes sur la mortalité infantile et
+
+In Internat. Pop. Conf. Ordina Editions,
+
+juvénile, p. 9-17. In IFORD, Etude de
+
+Liege.
+
+quelques problèmes méthodologiques liés MOSLEY, W. 1983. Will primary health carere-
+
+aux enquêtes EMU. Imprimerie Nationale,
+
+duce infant andchild mortality? Acritiqueof
+
+Yaoundé.
+
+some current strategies with special reference
+
+IFORD. 1987. Bilan de lacollecte et de l'exploi-
+
+to Africa andAsia. InJ. Vallin, andA. Lopez
+
+tation de l'EMIJ de Yaoundé. Imprimerie
+
+(eds.), Health policy, social policy and mor-
+
+Nationale, Yaoundé.
+
+tality prospects. Proceedings of Seminar,
+
+ISAAC, B. L., and W. E. FEINBERG. 1982. Marital
+
+IUSSP, Paris, February 28-March 4, 1983.
+
+form andinfant survival among the Mendeof MINISTRY OFTHE PLAN AND REGIONALDEVELOPrural Upper Bambara Chiefdom, Sierra Le- MENT. 1986. Republic of Cameroon. VIth
+
+one. Hum.Biol. 54:3.
+
+Five year economic, social, and cultural de-
+
+Vol. 41, No. 3 - 4
+
+Childhood Mortality
+
+211
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+velopment plan 1986-1991. MINPAT, Yaoundé. PALLONI, A. 1981. Mortality in Latin America: Emerging patterns. Pop. Develop. Rev. 7:623-649.
+RODRIGUES, L. C. 1991.EPITarget Diseases: Measles, Tetanus, Polio, Tuberculosis, Pertussis, and Diphtheria, p. 173-189. InR. G. Feachem and D. T. Jamison (eds.), Disease and mortality in Sub-Saharan Africa. Oxford Univ. Press, Oxford.
+ROGERS, A. 1992. Heterogeneity and selection in multistate population analysis. Demography 29:31-38.
+SCHULTZ, PAUL T. 1984. Studying the impact of household economic and community variables on child mortality. Pop. Develop.Rev. 10(Suppl.):215-235.
+TRUSSELL, J., and G. RODRIGUEZ. 1990. Hetero-
+geneity indemographic research, p. 111-132. In J. Adams, D. A. Lam, A. I. Hermalin, and P. E. Smouse (eds.), Convergent issues in genetics and demography. Oxford Univ. Press, NewYork.
+TRUSSELL, J., and T. RICHARDS. 1985. Correcting
+for unobserved heterogeneity in hazard models: An application of the Heckman-Singer procedure todemographic data, p. 242-276. In N. Tuma, (ed.), Sociological methodology. Jossey-Bass, San Francisco.
+UNITED NATIONS. 1986. Determinants of mortal-
+
+ity change and differentials in developing countries. Department ofInternationalEconomic and Social Affairs, Population Studies No. 94. United Nations, NewYork.
+. 1985. Socioeconomic differentials in child mortality in developing countries. United Nations, New York.
+. 1973. The determinants and consequences ofpopulation trends: New summary of findings and interaction of demographic, economic and social factors. Vols. I and II. United Nations, NewYork.
+Vaupel, J., K. Manton, and E. STALLARD.1979. The impact of heterogeneity in individual frailty on the dynamics ofmortality. Demography 16:439-454.
+VICTORIA, C., F. BARROS, S. HUTTLY, et al. 1992.
+Early childhood mortality in a Brazilian cohort: The roles of birthweight and socioeconomic status. Int. J. Epidemiol. 21:911-921.
+WALSH, J. A., and K. S. WARREN. 1979. Selec-
+tive primary health care: An interim strategy for disease control in developing countries. New Eng. J. Med.301:967-974.
+WORLD HEALTH ORGANIZATION. 1981. Expanded
+programme on immunization (EPI). Wkly. Epidemiol. Rec.56:9-16.
+. 1978. Main findings of the comparative study of social and biological effects ofperinatal mortality. World H. Statist. Rep. 31:3.
+
+

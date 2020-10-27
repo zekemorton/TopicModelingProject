@@ -1,0 +1,992 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Socioeconomic development, status of women, family planning, and fertility in Bangladesh: A district level analysis
+Md. Nazrul Hoque & Steve H. Murdock
+To cite this article: Md. Nazrul Hoque & Steve H. Murdock (1997) Socioeconomic development, status of women, family planning, and fertility in Bangladesh: A district level analysis, Social Biology, 44:3-4, 179-197, DOI: 10.1080/19485565.1997.9988946 To link to this article: http://dx.doi.org/10.1080/19485565.1997.9988946
+Published online: 23 Aug 2010.
+Submit your article to this journal
+Article views: 41
+View related articles
+Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:47
+
+Socioeconomic Development, Status of Women, Family Planning, andFertility in Bangladesh: A District Level Analysis
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Md. Nazrul Hoque and Steve H. Murdock
+Department of Rural Sociology Texas A&M University College Station, Texas 77843
+
+ABSTRACT: In this paper we examine the effects of socioeconomic development, the status of women, and family planning on fertility and the extent to which these effects vary among the nineteen districts of Bangladesh. The 1983 and 1991 Bangladesh Contraceptive Prevalence Survey data are used to examine the effects of these factors on differences in contraceptive use among currently married women aged 15-49. The proportion of currently married women aged 15-49 using contraception was 46.3 per cent in 1991, a considerable increase from 26.5 per cent in 1983. Contraceptive use rates for all the districts increased substantially over the period between 1983 and 1991and the gap between Dhaka's rate and those of other districts was narrower in 1991 than in 1983. An analytical model composed of socioeconomic development, status of women, and family planning variables is tested using logistic regression. The logit model is used to evaluate the effects of a selected group of variables on the probability of using contraceptive methods. The analysis demonstrates clearly that socioeconomic development and women's status significantly impact the use of contraceptive methods in Bangladesh. Theresults alsosuggest that better-educated, employed women are more likely to use contraception than thosewho have little or no formal education and whoare not employed. In 1983, rural-urban differences in contraceptive use were significant, but in 1991 area of residence was not significant, which suggests that family planning programs mayhave played an important role in providing contraceptive information and technology to rural areas. Our analysis also suggests that family planning programs operated more efficiently in some districts than in others, and regional differences remained important in 1991as they were in 1983. Decomposition analysis suggests that shifts in population structure favored increased contraceptive use in Bangladesh. This analysis also indicates that change in rate is also important, contributing about 21 per cent of the overall increase in contraceptiveuse.
+
+The contemporary debate concerning the interrelationships among fertility, development, and family planning programs reaches back to the eighteenth century (Demeny, 1979; Mauldin and Berelson, 1978; Freedman and Berelson, 1978; Tsui and Bogue, 1978). More recently, demographers have debated about the importance of these programs in contributing to fertility declines in relation to other factors, especially improvements in educational and economic opportunities (e.g., Barr, 1992; Freedman and Freedman,
+
+1992; Ross and Lloyd, 1992; Khuda et al., 1990; Bulatao and Lee, 1983).
+One position is that the mere availability of family planning programs causes fertility decline independent of cultural, political, or socioeconomic influences (Freedman and Freedman, 1992; Mauldin and Berelson, 1978; Ross and Lloyd, 1992). Other scholars maintain that development will bring about a natural decline in fertility that is presumably independent of programs to promote contraception (Simmons, 1979; Easterlin, 1978).
+
+179
+
+180
+
+Hoque and Murdock
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Many observers have also suggested that an increase in the acceptance of family planning and reductions in fertility can be brought about more rapidly if population programs are integrated into development projects at the community or area level (Kocher, 1984). Because integrated population-development programs at the community level may enhance employment and income opportunities--particularly for women--and because they provide direct access to social and family welfare services, they are believed to create eventually an environment conducive to changing contraceptive and reproductive behavior to be consistent with national population objectives (Obérai, 1992).
+Socioeconomic development provides a social context within which the functions of the family are reduced, the value of children is decreased, and the cost of children is increased. Thus, socioeconomic development helps to reduce desired family size. In this paper, we contribute to this debate by investigating the effects of socioeconomic development, the status of women, and family planning on fertility and the extent to which these effects vary among the districts of Bangladesh.
+In recent years there has been a sustained interest among demographers in the West about the population of Bangladesh. This interest stems from at least three factors. First, Bangladesh, with a current population of 116 million, is densely settled and represents the eighth most populous country in the world. Second, in recent years the practice of family planning in Bangladesh has increased substantially. Results from the 1991 Contraceptive Prevalence Survey show that the proportion of currently married women under age 50 using contraception
+
+was 46.3 per cent, a substantial increase from 26.5 per cent in 1983. Third, the country has experienced a pronounced and rapid decline in fertility. Data from the Bangladesh Contraceptive Prevalence Survey (CPS) and from Bangladesh Fertility Surveys (BFS) show that fertility has declined substantially in the past 25 years, with women now having around 4.6 live births over their reproductive life spans as opposed to about 7 during the 1960's.
+Analyses of this decline have suggested that family planning programs have played a major role in the decline (DeGraff, 1991; Ahmed, 1987; Bhatia, 1983). Hoque (1988) found that contextual variables may also play a role in reducing fertility. In his study, contextual variables (i.e., the availability of health and family planning services within or near a village, the availability of education facilities within or near a village, and accessibility to communication centers) were positively and significantly related to family planning practices and negatively and significantly related to ideal family size in both electrified and nonelectrified villages in rural Bangladesh.
+This paper endeavors to expand the discussion of the relationships between socioeconomic development, women's status, family planning, and fertility in two regards. First, nearly all previous studies of Bangladesh fertility patterns have concentrated on the country as a whole or on a single subregion (for example, Matlab Thana). As a result, the potential effects of regional differences have not been adequately examined. Second, although Bangladesh Contraceptive Prevalence Survey data have been available since 1981, no previous study was found that examined trends in contracep-
+
+Vol. 44, No. 3-4
+
+Fertility in Bangladesh
+
+181
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+tive use in Bangladesh over time. Previous studies have been based on crosssectional national survey data (Ahmed, 1987; DeGraff, 1991; Hoque, 1988). This paper is thus unique because it represents the first attempt to examine trends in contraceptive use in Bangladesh at the district level. This examination is particularly important because the data cover a period of substantial social and economic change in the country. During this period, Bangladesh made substantial progress in educational attainment and in the reduction of infant mortality rates. Women's participation in the labor force and age at first marriage also increased considerably during this period.
+This paper pursues two forms of analysis. We first examine trends in fertility and contraceptive use in Bangladesh between 1983 and 1991 at both the national and regional levels. Second, we examine the impact of socioeconomic development, the status of women, and family planning programs on contraceptive use and the extent to which these effects vary among the districts of Bangladesh. In the process we seek to ascertain whether shifts in population composition could account for the observed increase in contraceptive use in Bangladesh. Decomposition procedures are used to delineate factors that may have contributed to the observed change.
+Analyses of regional patterns in Bangladesh are important for several reasons. We believe that considering the nation as a composite of highly divergent regions is a particularly advantageous way to investigate fertility differentials in Bangladesh. Although one might imagine that Bangladesh is a homogenous country and that there is little regional variation in socioeconomic conditions because Bangladesh is predominantly rural and economically dependent on
+
+agriculture, there is nonetheless considerable variability among the regions in levels of socioeconomic development and in family planning program development (Haque, 1992). According to the 1981 Population Census of Bangladesh, the Dhaka district had the highest proportion of urban population followed by the Chittagong district, while the Faridpur district had the lowest proportion of urban population--38.5, 31.1, and 6.9 per cent respectively. The density of population ranged from a low of 147 persons per square mile in the district of Rangamati to a high of 3,477 persons in the district of Dhaka. Rangamati had the highest proportion of Buddhist population, with 55.0 per cent. The highest proportions of Hindu populations were in the districts of Dinajpur, Faridpur, Sylhet, and Barisal--21.9, 18.8, 18.0, and 15.1 percent, respectively. School enrollment ranged from a low of 11.1 per cent in the district of Rangamati to a high of 30.2 per cent in the district of Patuakhali (Bangladesh Bureau of Statistics 1984). Family planning practice rates in 1983 ranged from a low of 13 per cent in the Pabna district to a high of 47 per cent in the Tangail district. There is thus substantial variability among parts of Bangladesh that may impact fertility change (see Table 1).
+MATERIALS AND METHODS
+DATA
+This study analyzes 1983 and 1991 Bangladesh Contraceptive Prevalence Survey data. Both surveys were developed and conducted by Mitra Associates and funded by the United States Agency for International Development (USAID, 1983; USAID, 1991). The Bangladesh Contraceptive Prevalence Survey obtained data on
+
+182
+
+Hoque and Murdock
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+DISTRICTS
+BANGLADESH
+Dhaka Mymensingh Tangail Faridpur Chittagong Rangamati Comilla Sylhet Noakhali Khulna Kushtia Jessore Barisal Patuakhali Rajshahi Pabna Rangpur Dinajpur Bogra
+
+TABLE 1
+SELECTED CHARACTERISTICS OF POPULATION IN BANGLADESH, I 98 I
+
+DENSTTY
+PER SQ. MILE
+1,567
+3,477 1,775 1,867 1,785 1,971
+147 2,655 1,283 1,877
+935 1,708 1,556 1,672 1,100 1,443 1,796 1,759 1,227 1,817
+
+PER CENT
+URBAN POPULATION
+15.18 38.52
+10.04
+7.56 6.94 31.14 30.44 8.13 8.74 10.79
+22.41
+14.55 0.82 11.96 9.02
+10.34
+11.65 10.90
+8.56 7.44
+
+PER CENT OF
+POPULATION
+ENROLLED
+IN SCHOOL
+21.9 25.2 17.3 20.5 19.8 25.8 17.9 23.7 18.6 25.6 27.5 16.5 22.4 29.5 30.2 20.0 18.2 16.5 21.3 21.4
+
+Muslim
+86.6 90.5 91.8 90.6 80.9 84.5 32.2 91.6 81.3 93.0 71.9 95.1 80.3 84.5 90.3 88.6 92.5 88.0 75.9 91.1
+
+PER CENT DISTRIBUTION OF POPULATION BY RELIGION
+
+Hindu Buddhist Christian
+
+12.1 0.6
+8.9 0.1
+7.4 0.0
+9.0 0.0
+18.8 0.0
+13.0 2.2
+11.4 55.0
+8.2 0.1
+18.0 0.0 6.9 0.0 27.2 0.0 4.5 0.0 19.6 0.0 15.1 0.0 9.4 0.2 9.5 0.0 7.3 0.0 11.6 0.0 21.9 0.0 8.4 0.0
+
+0.3 0.4 0.6 0.2 0.3 0.1 0.9 0.0 0.3 0.1 0.8 0.3 0.1 0.3 0.0 0.4 0.1 0.1 0.6 0.1
+
+Other
+0.3 0.1 0.2 0.1 0.0 0.2 0.3 0.1 0.4 0.0 0.1 0.1 0.0 0.1 0.1 1.5 0.1 0.3 1.6 0.4
+
+fertility, contraception, child survival, and selected sociodemographic characteristics for large, nationally representative samples of 15,916 women in 1983 and 12,050 women in 1991 from the nineteen districts of Bangladesh. Both surveys used the same type of questions on contraceptive use and employed the same methodology using female interviewers to administer questionnaires in local languages. Since our analysis focused on contraceptive use, women who were not in need of contraception at the time of the survey were excluded from our analysis. Our analysis focuses on currently married nonpregnant women who are 15-49 years of age because they are the women most likely at risk of getting pregnant.
+EMPIRICAL MODEL
+The empirical model uses a logit equation to evaluate the effect of a select group of variables on the probability of us-
+
+ing modern contraceptive methods. The logit model is appropriate because the dependent variable is dichotomous (Demaris, 1992). The logistic regression model for the log odds of contraceptive use is
+where Ln [P¡/(l--P¡)] is simply the conditional odds of using a contraceptive method, given the explanatory variables (x¡).
+Two multivariate logit models are used for this analysis, one for each period. We examine the results for differences across areas in terms of the significance of coefficients, as well as in terms of the direction and magnitude of the effects of selected variables. Decomposition procedures are also used to delineate factors that may have contributed to the observed change. Regression decomposition techniques are used to break down change in contracep-
+
+Vol. 44, No. 3-4
+
+Fertility in Bangladesh
+
+183
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+tive use into its constituent parts (i.e., composition, rates, and interaction components). This technique is similar to ones developed by Clogg and Eliason (1986), Coombs and Sun (1981), and lams and Thornton (1975). The equation for the 1983 period is
+and the equation for the 1991 period is
+ßA(9l)-
+The result obtained by Ln ^ ^ ( 8 3 ) -- Ln [P¡Kl~P,)](9i) is then decomposed by using the following equation:
+Logit(91) - Logit(83) =
+( ) (3)
+ß(X83) ~ß(X91) + ^ Pij(83) + ^ ßy(83) (Pij (91) ~ P S (Pij(9\) ~Pij(fi3)> (ßy(91)
+where
+Logit(83) = Ln [PiKl-Pi)] in 1983, ( ) = Ln[P,./(l-JP/)]inl991,
+( ) = the proportion in the th category of the ;th explanatory variable in 1983, P..(91) = the proportion in the th category of the ¡th explanatory variable in 1991, ßo(83)= t n e regression constant for 1983, ß<X9i)= the regression constant for 1991, ßy(83)= the coefficient for the th category of the (th explanatory variable for 1983, and ßy(9i)= the coefficient for the th category of the j-th explanatory variable for 1991.
+This procedure results in four components: (1) the intercept component, which reflects the difference in the intercepts of the equations for the two time periods;
+
+(2) the rates or coefficient component, which indicates the differences between the slopes; (3) the composition component, which indicates the part of the overall differences produced by the independent variables; and (4) the interaction component, which is the covariation or collinearity between the means and the coefficients for the two time periods. This last component can be interpreted as the effect of changing both means and regression coefficients together versus the effects of changing them one at a time (lams and Thornton, 1975).
+EXPLANATORY VARIABLES
+The dependent variable in this analysis is current use of modern methods of contraception, coded 1 for current use and 0 otherwise. We focus on modern methods of contraception because they account for most of the contraceptive use in Bangladesh, and modern methods are more effective than traditional methods. In 1983 only 5.0 per cent of women were using traditional methods, whereas 21.5 per cent of women were using modern methods. In 1991, 8.3 per cent of women were using traditional methods compared with 37.9 per cent of women who were using modern methods. To trace contraceptive use trends, we include several independent variables to control for factors that are frequently incorporated in models of fertility behavior in Bangladesh and elsewhere (United Nations, 1987). Independent variables are grouped into three categories: socioeconomic development variables, women's status variables, and the family planning variables that have been shown in earlier studies to be influential in accounting for fertility decline and increases in contraceptive use. Other variables also affect contraceptive use and may have contributed to
+
+184
+
+Hoque and Murdock
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+change over time, but they have been excluded from the analysis, either because they were not adequately measured or they were not included in the data sets. For example, this study excludes variables describing the expansion of family planning services because communitylevel data on availability and/or accessibility of these services were not obtained in both surveys.
+The importance of women's education as a variable influencing fertility behavior has been documented in several studies both in developed and developing countries (Bellew et al., 1992; Greenspan, 1992; Gomes, 1984; Cochrane, 1979). Education is expected to influence women's access to modern knowledge and their desires for new ways of life, and hence the extent to which they are familiar with and approve of contraception, know how to acquire and correctly use contraceptive methods, and are able to engage in new forms of behavior such as contraception. In addition, women's education tends to break down barriers to communication between spouses regarding contraception. As a result of the diminished costs associated with fertility regulation, as well as the motivation arising from their potentially higher supply of and lower demand for children, better-educated women are more likely to practice contraception.
+The evidence available from developing countries indicates that the fertilityenhancing effects of education are strong in societies that are in the early stages of fertility transition but that, as the process continues, these effects are gradually overtaken by the fertility-reducing effects characteristic of modern societies. For example, an analysis of the relationship between education and fertility in over 30 developing countries concluded that the
+
+more developed of these countries often reveal a negative association, whereas the less developed countries were likely to exhibit a curvlinear or positive association (United Nations, 1987). In the present study, respondent's education is a categorical variable indicating whether she has no formal education, primary education (one to five years), secondary education (six to ten years), or a college or university level of education (eleven years or more).
+Increased labor force participation of women has been proposed repeatedly in both the demographic literature and population policy statements as a means of promoting development and reducing fertility in developing countries (Miah and Mizan, 1991; United Nations, 1985). It has been argued that women who work may be more independent and enjoy a more egalitarian marital relationship, which allows them to exercise more control over fertility decisions (Oppong, 1983). In addition, some evidence indicates that with increasing education and the greater participation of women in the labor force, domestic labor becomes more equally divided between husband and wife. Although women still perform the majority of domestic labor, this change may precipitate a shift among men to lower desired family sizes. Fertility may also be related to the timing of work. Women who work prior to marriage may marry later than women with no premarital work experience. They may also develop greater work commitment and motivation to work, thereby raising the opportunity costs of having children during marriage.
+Substantial empirical work has been carried out which examines the relationship between women's employment and fertility in developing countries. The as-
+
+Vol. 44, No. 3-4
+
+Fertility in Bangladesh
+
+185
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+sertion that women's employment is negatively related to fertility receives support from most empirical studies. Nevertheless, the claim that work is causally related to fertility has, as yet, been inadequately examined for Bangladesh. In this analysis, a woman's employment status is a categorical variable indicating whether or not she is working outside the home for money.
+Region of residence has received increasing attention as a macrostructural factor affecting contraceptive use in many developing countries (Haque, 1992; Poston and Gu, 1987). Studies with this emphasis propose two major explanations for regional differentials in contraceptive use. The socioeconomic hypothesis suggests that regions whose women have low education, limited formal-sector employment, and limited access to health and family outlets may be expected to have low rates of contraceptive use. A second explanation for the importance of region of residence may be as a proxy for ethnic and cultural boundaries that are related to acceptance of contraceptive methods. The important mechanisms through which ethnicity may affect the use of modern contraceptives are norms and customs affecting age at marriage, type of marital unions, postpartum abstinence, breastfeeding, and resilience in the face of innovation (Lesthaeghe, 1989; Murty and De Vos, 1984). Regions of residence in this study are coded into nineteen categories representing the administrative districts that were covered by both surveys.
+Studies of the relationship between contraceptive use and child mortality yield contradictory findings. Most studies suggest that couples who have experienced the death of one or more children are less likely to use a contraceptive
+
+method than those who have not; yet Van de Walle and Knodel (1980) argue that the prior death of a child may be a sign of an unmet need for contraception. In their opinion, deaths of children may often be caused by intentional neglect because the births were unwanted. Consequently, women who have previously experienced the death of a child may be more highly motivated to practice contraception than those without. Child loss in this study is coded as a dummy variable indicating whether or not the mother has lost a child.
+Rural-urban differences are among the most widely studied socioeconomic differentials in individual fertility (United Nations, 1987). Empirical studies have yielded various results concerning the pattern and magnitude of rural-urban fertility differences. Rural fertility has consistently been found to be higher than urban fertility in European and developed countries. Results for developing countries have not been as consistent. In Latin American and Caribbean countries, a pattern similar to that of developed countries has been observed, where urban fertility is lower than rural fertility (United Nations, 1987). In Africa and Asia, however, several patterns have been observed. In some countries, higher rural fertility has been reported; in other countries, there has been higher urban fertility. In still other countries, no significant differences by place of residence have been reported. However, urbanization in many developing countries has often been associated with higher levels of education, better access to medical care and family planning services, and other social services. Consequently, rates of contraceptive use are expected to be higher in urban than in rural areas.
+
+186
+
+Hoque and Murdock
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+RESULTS
+Table 2 presents the proportions of currently married, nonpregnant women using contraceptives in Bangladesh in 1983 and in 1991. Several patterns emerge from data in this table. First, the proportion of Bangladeshi women using a contraceptive method increased dramatically during in the period between the 1983 and 1991 Contraceptive Surveys. In 1983, 26.5 per cent of women were using a modern contraceptive method, but by 1991, the figure had increased to 46.3 per cent. A second pattern is that every subgroup (except college/university educated women) showed some gains in the use of contraceptives, although the amount of change differed greatly among groups. Furthermore, areas that had the lowest use rates in 1983 (such as residents of Rajshahi, Pabna, Rangpur, and Bogra) made the most significant gains in use over the period. Third, there were subgroup differences at each survey period, but these differences declined sharply from 1983 to 1991. The 1983 survey data show clear differentials in contraceptive use for many of the variables considered for analysis, especially education, urbanization, child loss, and district of residence. By 1991, however, contraceptive use had increased in all strata except among more highly educated women where use rates were already high by 1983.
+Table 3 suggests that the composition of the population changed in ways that may have contributed to increased contraceptive use in Bangladesh. For example, the percentage of women employed in the labor force increased from 9.5 per cent to 26.4 per cent in the eight-year period. A significant increase in educational attain-
+
+ment also occurred; the proportion of women with no formal education declined from 66.4 per cent in 1983 to 57.8 per cent in 1991. The proportion of women with secondary levels of education increased from 9.3 per cent in 1983 to 13.4 per cent in 1991. The age composition also shifted between the two periods. The number of women in the 15-19 year old age group decreased from 18.1 per cent to 13 per cent. This change may have been due to an increase in the women's age at first marriage since the Contraceptive Prevalence Survey selected only married women who were 15--49 years of age. The proportion of women who experienced the death of a child declined from 92 per cent in 1983 to 40 per cent in 1991. This dramatic decrease in the number of women who did not experience the death of a child is quite interesting. One possible explanation for this extraordinary decrease is that we are observing the effects of intense immunization efforts and prenatal care over the years. Infant mortality rates in Bangladesh dropped from 148 per 1,000 women in 1984 (Population Reference Bureau 1984) to 91 per 1,000 women in 1994 (World Bank 1994). Another explanation for this phenomenon would be that there are two different samples. The proportion of women who wanted more children declined from 43.7 per cent in 1983 to 39.7 per cent in 1991 while the proportion of women who wanted no additional children increased from 52.5 per cent in 1983 to 59.5 per cent in 1991.
+Table 4 presents the results of the multivariate analysis of the determinants of contraceptive use among currently married nonpregnant women in Bangladesh in 1983 and 1991. Columns 1 and 2 show the coefficients and standard errors for
+
+Vol. 44, No. 3-4
+
+Fertility in Bangladesh
+
+187
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 2
+PER CENT OF WOMEN USING CONTRACEPTIVES AMONG CURRENTLY MARRIED NONPREGNANT WOMEN IN BANGLADESH, 1983 AND 1991
+
+Independent Variables
+Women's Status Variables Education No Education Primary Secondary College/University
+
+CPS 1983
+21.43 28.53 49.25 72.89
+
+CPS 1991
+42.07 47.28 57.39 70.15
+
+Relative Change
+20.64 18.76 8.14 -2.74
+
+Relative % Change
+96.31 65.76 16.53 -3.75
+
+Employment Not Employed Employed
+
+25.30 38.37
+
+43.64 53.54
+
+18.34 15.17
+
+72.49 39.54
+
+Socioeconomic and Demographic Variables
+Age 15-19 20-24 25-29 30-34 35-39 40-44 45-49 Total
+
+13.80 25.11 33.78 34.90 35.85 25.28 13.73 26.54
+
+24.70 40.18 52.41 57.23 60.31 48.12 30.43 46.25
+
+10.90 15.07 18.63 22.33 24.46 22.84 16.70 19.75
+
+78.99 60.02 55.15 63.98 68.24 90.35 121.63 74.53
+
+Type of Residence Rural Urban
+
+21.47 42.29
+
+43.69 53.76
+
+22.22 11.47
+
+103.49 27.12
+
+Child Loss None One or more
+
+28.09 9.03
+
+46.87 45.84
+
+18.78 36.81
+
+66.86 407.64
+
+Desire for Children Wants more children Undecided Wants no more children
+
+11.62 12.83 39.83
+
+27.75 41.56 58.67
+
+16.13 28.73 18.74
+
+138.81 223.93 46.93
+
+Religion Muslim Non Muslim
+
+25.30 36.46
+
+44.86 56.00
+
+19.56 19.54
+
+77.31 54.59
+
+Belongs to Women's Organization Don't Belong Belong
+
+-- 45.26 -- 54.70
+
+--
+
+--
+
+Source of Drinking Water Pond, River Tube well Pipe
+
+-- 38.61 -- 43.88 -- 63.65
+
+--
+
+Place of Defecation Outdoor Kutcha toilet
+
+-- 42.40 -- 44.74
+
+--
+
+--
+
+188
+
+Hoque and Murdock
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Independent Variables
+Pukka toilet Flush toilet
+Family Planning Variables Visit by a Family Planning Worker Did not visit Visited
+Visit Hospital/Health Center Don't visit Visited
+District of Residence Dhaka Mymensingh Tangail Faridpur Chittagong Rangamati Comilla Sylhet Noakhali Khulna Kushtia Jessore Barisal Patuakhali Rajshahi Pabna Rangpur Dinajpur Bogra
+
+TABLE 2 (continued)
+
+CPS 1983
+-- --
+
+CPS 1991
+54.98 73.26
+
+25.46 29.24
+--· --
+39.66 30.44 47.23 32.64 20.56 39.20 24.36 26.94 25.22 17.38 19.15 26.06 30.77 33.33 17.38 13.96 14.69 22.09 19.85
+
+37.16 58.74
+41.97 60.72
+54.73 41.35 57.99 45.03 35.06 84.62 30.47 30.78 31.69 51.68 60.00 57.94 44.22 47.74 56.59 50.35 44.87 52.34 60.83
+
+Relative Change
+-- --
+11.70 29.50
+--
+15.07 10.91 10.76 12.39 14.50 45.42 6.11 3.84 6.47 34.30 40.85 31.88 13.45 14.41 39.21 36.39 30.18 30.30 41.08
+
+Relative % Change
+-- --
+45.95 100.89
+--
+38.00 35.84 22.78 37.96 70.54 115.86 25.08 14.25 25.65 197.35 213.32 122.33 43.71 43.23 225.60 260.67 205.44 137.54 206.95
+
+the regressions on contraceptive use for 1983 and Columns 3 and 4 show the coefficients and standard errors for the regressions on contraceptive use for 1991. By comparing the coefficients for different periods we can determine whether the effects of each variable on contraceptive use changed between the two periods and whether this change is significant.
+The results show that the variables selected for the analysis are generally important predictors of contraceptive use. Overall, age has significant net negative effects in 1983 and net positive effects under age 45 in 1991, which suggests that high parity women are less likely to use
+
+contraception. The effects of education on contraceptive use are those which one would expect from previous research. Large, statistically significant differences in contraceptive use by educational level were observed despite controls for other variables both in 1983 and in 1991. Women with the highest levels of education (college/university degree) were three times more likely to use contraceptives than those who had no education.
+Logit analysis confirms the expectation that employed women are more likely to use modern contraceptive methods than those who are not employed. The coefficient is statistically significant,
+
+Vol. 44, No. 3-4
+
+Fertility in Bangladesh
+
+189
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 3
+PER CENT OF RESPONDENTS IN BANGLADESH CONTRACEPTIVE SURVEY BY SELECTED CHARACTERISTICS,
+I983 AND I99I
+
+INDEPENDENT VARIABLES
+Women's Status Variables Education No Education Primary Secondary College/University
+
+PROPORTION 1983 1991
+
+RELATIVE CHANGE
+
+RELATIVE % CHANGE
+
+SA^.in_E SIZE 1983 1991
+
+66.36 22.54 9.31
+1.79
+
+57.79 26.09 13.37
+2.75
+
+-8.57 3.55 4.06 0.96
+
+-12.91 15.75 43.61 53.63
+
+6,150 2,089
+863 166
+
+5,640 2,546 1,305
+268
+
+Employment Not Employed Employed
+
+90.49 9.51
+
+73.62 26.38
+
+-16.87 16.87
+
+-18.64 177.39
+
+8,381 7,184 881 2,574
+
+Socioeconomic and Demographic Variables
+Age 15-19 20-24 25-29 30-34 35-39 40-44 45-49
+
+18.14 20.24 20.76 13.51 11.14
+8.75 7.47
+
+12.98 21.60 20.39 16.72 13.06 9.01
+6.23
+
+-5.16 1.36
+-0.37 3.21 1.92 .26
+-1.24
+
+-28.45 6.72
+-1.78 23.76 17.23 2.97 -16.60
+
+,681 ,876 ,924 ,252 L032 811 692
+
+1,267 2,108 1,990 1,632 1,275
+879 608
+
+Type of Residence Rural Urban
+
+75.64 24.36
+
+74.50 25.50
+
+-1.14 1.14
+
+-1.51 4.67
+
+7,010 7,270 :>,258 2,489
+
+Child Loss None One or more
+
+8.12 91.88
+
+59.88 40.12
+
+51.76 51.76
+
+637.44 -56.33
+
+Í5,515 5,844 753 3,915
+
+Desire for Children Wants more children Undecided Wants no more children
+
+43.74 3.70
+52.56
+
+39.73 0.79
+59.48
+
+-4.01 -2.91
+7.00
+
+-9.17 78.65 13.17
+
+4,054 343
+4,871
+
+3,877 77
+5,805
+
+Religion Muslim Non Muslim
+
+88.84 11.16
+
+87.45 12.55
+
+-1.39 1.39
+
+-1.56 12.46
+
+Í3,234 8,534 ,034 1,225
+
+Belongs to Women's Organization
+
+Don't Belong
+
+--
+
+Belong
+
+--
+
+89.41 10.59
+
+--
+
+--
+
+8,726 -- 1,033
+
+Source of Drinking Water Pond, River Tube well Pipe
+
+-- 9.85 -- -- 84.04 -- 6.12
+
+--
+
+961 -- 8,201
+597
+
+Place of Defecation Outdoor Kutcha toilet Pukka toilet Flush toilet
+
+-- 30.74 -- 50.87 -- 16.48 -- 1.92
+
+-- 3,000 4,964 1,608 187
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+190
+
+Hoque and Murdock
+
+Social Biology
+
+TABLE 3 (continued)
+
+INDEPENDENT VARIABLES
+Family PlanningVariables Visit by a Family Planning Worker Did not visit Visited
+
+PROPORTION 1983 1991
+
+71.29 28.71
+
+57.85 42.15
+
+Visit Hospital/Health Center
+
+Did not visit
+
+-- 77.15
+
+Visited
+
+-- 22.85
+
+District of Residence Dhaka Mymensingh
+Tangail Faridpur Chittagong Rangamati Comilla Sylhet Noakhali Khulna Kushtia Jessore Barisal Patuakhali Rajshahi Pabna Rangpur Dinajpur Bogra
+
+16.08 6.84
+2.92 6.74 4.25 2.15 4.21 5.57 5.01 5.84 1.52 3.81 2.24 2.14 6.83 5.64 7.27 3.71 7.23
+
+12.56 9.89
+2.24 5.05 7.34 0.27 7.40 5.63 4.56 5.17 2.66 4.78 5.14 1.59 6.07 4.44 7.49 3.74 3.99
+
+RELATIVE CHANGE
+-13.44 13.44
+--
+-3.52 3.05
+-0.68 -1.69
+3.09 -1.88
+3.19 0.06 -0.45 -0.67 1.14 0.97 2.90 -0.55 -0.76 -1.20 0.22 0.03 -3.24
+
+RELATIVE % CHANGE
+
+SAMPLE SIZE
+1983 1991
+
+-18.85 46.81
+--
+-21.89 44.59
+-23.28 -25.07
+72.71 -87.44
+75.77 1.08
+-8.98 -11.47
+75.00 25.46 129.46 -25.70 -11.13 -21.27 3.03
+.81 -44.81
+
+6,607 5,646 2,661 4,113
+
+7,529 -- 2,230
+
+1,490 634 271 625 394 199 390 516 464 541 141 353 208 198 633 523 674 344 670
+
+1,226 965 219 493 716 26 722 549 445 505 260 466 502 155 592 433 731 365 389
+
+and the odds are almost two to one both in 1983 and in 1991.
+Having experienced the death of a child was also a significant predictor of contraceptive use in 1983. At that time, among the mothers who had experienced the death of at least one child, contraceptive use rates were less than half the rates of those who had not experienced a child loss. In 1991, the difference was insignificant, and the odds were less than one.
+The positive relationship between desire for no more children and contraceptive use is strong and consistent. Even when other variables are held constant, desire for no more children has signifi-
+
+cant effects on the decision to use a contraceptive method; the odds of contraceptive use among the women who desire no more children are four times greater than among those who want more children.
+Religion is an important determinant of contraceptive use in Bangladesh. The coefficient was positive and significant in both 1983 and 1991--suggesting that nonMuslim women were more likely to practice contraception than Muslim women.
+In 1983, contraceptive use was higher in urban areas than in rural areas, with urban women being two times more likely to use contraception than rural women. In 1991 the difference was not statistically
+
+Vol. 44, No. 3-4
+
+Fertility in Bangladesh
+
+191
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 4
+LOGISTIC COEFFICIENTS FOR REGRESSION ON CONTRACEPTIVE USE AMONG CURRENTLY MARRIED NONPREGNANT WOMEN INBANGLADESH, 1983 AND 1991a
+
+INDEPENDENT VARIABLES
+Women's Status Variables Education (No Education) Primary Secondary College/University
+
+CPS 1983
+
+Coefficient
+
+Standard
+Error
+
+CPS 1991
+
+Coefficient
+
+Standard Error
+
+0.375* 1.277* 2.268*
+
+0.066 0.092
+0.208
+
+0.152c 0.611*
+1.005*
+
+0.056 0.078
+0.164
+
+Employment (Not Employed) Employed
+
+0.450*
+
+0.087
+
+0.233*
+
+0.054
+
+Socioeconomic and Demographic Variables
+Age (15-19) 20-24 25-29 30-34 35-39 40-44 45-W
+
+0.044
+-0.053 -0.169 -0.255c -0.853* -1.666*
+
+0.105 0.110 0.120 0.124 0.134 0.156
+
+0.290* 0.412* 0.468* 0.516* 0.049 -0.722*
+
+0.087 0.094 0.102 0.110 0.119 0.133
+
+Type of Residence (Rural) Urban
+
+0.640*
+
+0.068
+
+0.097
+
+0.061
+
+Child Loss (None) One ormore
+
+-0.626*
+
+0.152
+
+-0.068
+
+0.052
+
+Desire forChildren (Wants more children) Undecided Wants nomore children
+
+0.204 2.00*
+
+0.182 0.079
+
+0.477c 1.317*
+
+0.256 0.062
+
+Religion (Muslim) Non Muslim
+
+0.471c
+
+0.083
+
+0.454*
+
+0.070
+
+Belongs toWomen's Organization (Don't Belong) Belong
+
+--
+
+0.117
+
+0.076
+
+Source ofDrinking Water (Pond, River) Tube well Pipe
+
+-- --
+
+0.052 0.119
+
+0.081 0.143
+
+Place of Defecation (Outdoor) Kutcha toilet
+
+--
+
+0.183*
+
+0.059
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+192
+
+Hoque and Murdock
+
+Social Biology
+
+INDEPENDENT VARIABLES
+Pukka toilet Rush toilet
+Family PlanningVariables Visit by a Family Planning Worker (Did not visit) Visited
+Visit Hospital/Health Center (Did not visit) Visited
+District of Residence (Dhaka) Mymensingh Tanga» Faridpur Chittagong Rangamati Comilla Sylhet Noakhali Khulna Kushtia Jessore Barisal Patuakhali Rajshahi Pabna Rangpur Dinajpur Bogra
+Constant Log-likelihood Chi-square N
+"Reference category inparentheses. ^Significant at0.001 or better. «"Significant at0.05 or bener.
+
+TABLE 4 (continued)
+
+CPS 1983
+
+Coefficient
+
+Standard Error
+
+-- --
+
+CPS 1991
+
+Coefficient
+
+Standard Error
+
+0.396* 0.803*
+
+0.086 0.224
+
+0.045
+0.009 0.594* 0.092 -0.718* 0.479c -0.562* -0.498* -0.328c -0.639*" -O.653c -0.108 0.263 0.254 -0.670* -0.815* -0.739 -0.296c -0.694*
+-2.918* 10,718.3 2.270.2 9,262
+
+0.060
+
+0.665c
+
+0.047
+
+0.384*
+
+0.057
+
+0.118 0.158 0.117 0.155 0.179 0.149 0.131 0.138 0.141 0.240 0.151 0.182 0.182 0.134 0.156 0.137 0.161 0.125
+0.159 --
+
+-0.087 0.496*
+-0.269c -0.634*
+1.166C -0.677* -0.837* -0.611*
+0.006 0.578* O.3O3c -0.186 -0.073 0.487* 0.170 -0.021 0.156 0.536*
+-2.000* 13,472.5 2,193.2 9,758
+
+0.101 0.167 0.121 0.108 0.583 0.112 0.124 0.131 0.120 0.155 0.126 0.120 0.187 0.115 0.126 0.111 0.139 0.135
+0.132 --
+
+significant. This suggests that family planning programs mayhave played an important role in increasing contraceptive use inrural areas.
+Place of defecation wasa significant predictor of contraceptive use in Bangladesh. Those who usea flush toilet were twice aslikely touse contraceptive meth-
+
+ods than those who did nothave a flush toilet. The variable can be seen as an indicator of modernization of the place or socioeconomic development.
+visits to a hospital or health center were also significant inexplaining contraceptive use among Bangladeshi women. Women who visited a hospital or health
+
+Vol. 44, No. 3-4
+
+Fertility in Bangladesh
+
+193
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+center were two times more likely to use a contraceptive method than those who did not visit such a facility.
+In 1983, visits from a family planning worker were not significantly related to the use of contraception. But in 1991, such visits were an important determinant of contraceptive use in Bangladesh.
+With regard to place of residence, Table 4 shows that the gaps between Dhaka (reference district) and other districts were narrower in 1991 than in 1983. The most notable changes occurred in the Khulna, Kushtia, Jessore, Rajshahi, Pabna, Dinajpur, and Bogra districts, districts where the coefficients for contraceptive use were negative and nonsignificant in 1983 and became positive and significant in 1991. Contraceptive use rates increased considerably over the period between 1983 and 1991 for other districts (see Table 2), but contraceptive use rates were still lower than in Dhaka. Thus, the coefficients for these areas are negative and significant. Therefore, the Bangladesh government's efforts to make family planning services more accessible to all the districts of the country may have operated more efficiently in some districts than in others and regional differences remained important in 1991 as in 1983.
+DECOMPOSITION OF CONTRACEPTIVE
+USE, 1983 AND 1991
+The above analysis highlights changes that may have contributed to increases in contraceptive use in Bangladesh, but does not explain whether this change is due to change in rates of contraceptive use or change in population composition in 1991. Thus, to assess the relative importance of rate effects and composition effects, we provide the results of the decomposition analysis in Table 5. The
+
+composition effect measures change resulting from population composition, assuming no changes in specific rates. The rate effect measures change in specific rates assuming no change in population composition. The interaction effect involves changes resulting from both composition and specific rates. A comprehensive discussion of the rationale for and the mathematical formulation has been presented by Kitagawa (1955). Others who have contributed to the development of decomposition methods include Das Gupta (1978), Clogg and Eliason (1986), and Kim and Strobino (1984). From Table 5 one can see that the major component of the increase in contraceptive use, explaining 30 per cent of the change, is change in population composition. Change in rate is also important, contributing about 21 per cent of the overall increase in contraceptive use. Fourteen per cent of the change in contraceptive use is due to interaction effects.
+Decomposition analysis also suggests that shifts in population structure favored increased contraceptive use in Bangladesh. Fifty-four per cent of the increase in compositional change in contraceptive use was due to increases in the proportion of women who did not experience a child loss. The proportion of women who wished to cease childbearing was also important in explaining compositional change in the population. The dramatic increase in the number of women who did not experience child loss explained almost 18 per cent (54.16/( 105.54+91.86+63.97+47.26)) of the absolute change in contraceptive use in Bangladesh. The proportion of women who wish to cease childbearing explained 5 per cent (15.43/ (105.54+ 91.86+ 63.97+ 42.26)) of the absolute change in contraceptive use. Education and employment explained
+
+194
+
+Hoque and Murdock
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 5
+DECOMPOSITION OF CHANGE IN USE OF CONTRACEPTIVE METHODS IN BANGLADESH, 1983 AND I 99 I
+
+VARIABLES
+Education Employment Age Type of Residence Child Loss Desire for Children Religion Visit by a Family Planning Worker District of Residence Intercept Total
+
+INTERCEPTS
+... ... ... ... ... ... ... ... ... 105.54 105.54
+
+PER CENT CHANGE DUE TO
+
+Composition
+
+Rales or Regression Coefficients
+
+Interaction
+
+9.92 8.73 1.03 0.84 54.16 15.43 0.75 0.70 0.30
+-- 91.86
+
+-15.45 -2.37 53.77
+-15.21 32.75
+-40.11 -00.22
+20.46 30.35
+-- 63.97
+
+-5.39 4.21
+-6.23 0.71
+-33.20 -6.40 0.03 9.58
+-10.57 --
+-42.26
+
+Per Cent Absolute Change Per Cent Absolute Change
+for Model Excluding District of Residence
+
+34.75 40.22
+
+30.25 34.89
+
+21.07
+
+13.92
+
+12.80
+
+16.10
+
+6 per cent of the absolute change in increased use of contraceptives in Bangladesh.
+The importance of district of residence is evident when the rates or coefficient effects are examined. District of residence explained almost 10 per cent of the absolute change in rates in contraceptive use in Bangladesh. Age was also important, explaining 17.7 per cent of the absolute change in rates of contraceptive use. Finally, these data reveal that the mix of "rate" and "composition" effects varies significantly across explanatory variables. For example, district of residence did not have explanatory power for compositional effects while it had major significant explanatory power for rate effects, This finding suggests that family planning programs played an important role in increasing contraceptive practice rates across the country. We also examined a model excluding district of residence, The results of the decomposition analysis show that significant power for rate ef-
+
+fects is lost when district of residence is dropped from the regression model. For example, the proportion of change due to the rate effect decreased from 21.07 per cent to 12.8 per cent, while the proportion of change due to composition increased from about 30 per cent to 35 per cent (see the lower part of Table 5). Change in the intercept was also larger than the previous model indicating that this regression equation contains a larger unexplained component than the one presented earlier in this paper.
+Table 5 also reveals that 35 per cent of the change in contraceptive use is due to change in the intercept. This finding can be interpreted as change in the rates for variables not considered in the model. Although many factors that may determine contraceptive use could not be included in the study, a major set of elements may consist of socioeconomic factors and the availability of family planning services in the community. Previous studies show that the availability of family planning
+
+Vol. 44, No. 3-4
+
+Fertility in Bangladesh
+
+195
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+services has significantly affected contraceptive use in Bangladesh. Income may be another variable which is significantly related to contraceptive use. The analysis of such effects will require further work.
+SUMMARY AND CONCLUSIONS
+This paper examined the trends and determinants in contraceptive use in Bangladesh at the district level between 1983 and 1991. We used data from the 1983 and the 1991 Bangladesh Contraceptive Survey. To our knowledge, no previous study has examined trends in contraceptive use in Bangladesh at the district level. Our findings suggest that socioeconomic development, the status of women and availability of family planning played important roles in the increased use of contraceptives in Bangladesh. All of these variables were significantly related to contraceptive use in Bangladesh.
+A substantial increase in contraceptive use occurred in Bangladesh between 1983 and 1991. In 1983, 26.5 per cent of women were using a contraceptive method, but by 1991 the figure increased to 46.3 per cent. This increase was shared by all groups investigated in this study, but the amount of change differed greatly among groups. Better educated, employed women were more likely to use a contraceptive method in both periods. This study suggests that contraception was adopted initially by younger women; however, by 1991 the differential between age groups had narrowed considerably. In 1983 rural-urban differences in contraceptive use were significant, and urban women were two times more likely to use contraception than rural women, but in 1991 this difference was not significant. This finding suggests that family planning
+
+programs have been quite successful in rural areas. Visits to a hospital or health center were significant in explaining contraceptive use in Bangladesh, as well. Visits from a family planning worker also played an important role in increasing contraceptive use in Bangladesh.
+Our analysis demonstrates that contraceptive practice rates in Bangladesh vary among the districts. Family planning practice rates in 1983 ranged from a low of 13 per cent in the Pabna district to a high of 47 per cent in the Tangail district. Contraceptive use rates for all the districts increased considerably over the period between 1983 and 1991, and the gap between the districts was narrower in 1991 than in 1983. However, family planning practice rates in 1991 varied from a low of 30 per cent to a high of 85 per cent. The relative change in family planning practice varied from a low of 14 per cent in the Comilla district to a high of 260 per cent in the Pabna district. This finding suggests that family planning programs operated more efficiently in some districts than in others, and regional differences remained important in 1991 as in 1983.
+This study also decomposed the increase in contraceptive use during the decade. The decomposition revealed that shifts in population composition--toward an increase in the proportion of women who did not experience a child loss and also in the proportion of women who want to cease childbearing--were the primary sources of aggregate change in contraceptive use in Bangladesh. Changes in rates were also important, particularly in the district of residence. Change in the intercept suggests that the most important rate change occurred for variables that are excluded from the compositional analysis.
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+196
+
+Hoque and Murdock
+
+Social Biology
+
+This finding suggests that family plan- may inhibit even extensive policy-related
+
+ning variables and contextual variables changes topromote contraceptive use.
+
+may have been some of the unexplained In regard to the continuing debate
+
+components.
+
+about the relative importance of develop-
+
+Overall, the results of this analysis ment andfamily planning factors in fer-
+
+suggest that policy-based programsmay tility decline, the results here tend to sup-
+
+substantially impact contraceptive use port the importance of program-related
+
+and, through such use, fertility levels, but changes, with socioeconomic develop-
+
+that regional levels of variation in socio- ment largely playing a mediating role in
+
+economic development may hinder the moderating or inhibiting the impacts of
+
+full adoption of such programs. Thus, the change. Clearly, analyses involving more
+
+findings showing the effects of reduced direct family planning variables and
+levels of child loss and a desire for fewer village-level development variablesmay
+children on contraceptive use clearly be necessary to further reveal these relasuggest that health- and contraception- tive effects. Nevertheless, the case ofBanrelated government programs may have gladesh makes evident thefact that rapid impacted contraceptive use. In addition, increases in contraceptive use may be obthe fact that contraceptive use changed tained if programs to increase child substantially in virtually all districts in health and welfare are improved and conBangladesh shows that change in the use traception isreadily available. of contraceptives has been pervasive.
+
+Such results suggest that policy-related
+
+changes may impact contraceptive use.
+
+ACKNOWLEDGMENTS
+
+At the same time, the existence of continuing regional effects suggests that the primary differences between regions, which mainly appear to betheir levels of socioeconomic development, are factors affecting contraceptive use. Very limited levels of socioeconomic development
+
+We would like to acknowledge the helpof Sheri Keyes and editors and reviewers of Social Biology in helping usimprove the earlier version of this article. Direct correspondence to Md. Nazrul Hoque, Department of Rural Sociology, Texas A&M University, College Station, TX77843-2125.
+
+REFERENCES
+
+AHMED, B. 1987. Determinants of contraceptiveuse in rural Bangladesh. The demand for children, supply of children, and costs of fertility regulation. Demography 24(3):361-373.
+BANGLADESH BUREAU OFSTATISTICS. 1984. Bangla-
+desh population census 1981. Bangladesh Bureau of Statistics: Government of the People's Republic ofBangladesh, Dakka. BARR, C. 1992.Female empowerment leads to fewer births. Christian Science Monitor, July 8, p. 14. BHATIA, S. 1983. Contraceptive users in Bangladesh: A time trend analysis. Stud. Fam. Plan. 14:20-28.
+
+BULATAO, R. A., and R. LEE. 1983. Determinants of fertility in developing countries. Academic Press, New York.
+CASTERLINE, J. B. 1984. The proximate determinants of fertility: Cross-national and subnational variations. Paper presented at the Annual Meetings of the Population Association of America, Pittsburgh, Pennsylvania, 14-16 April 1983.
+CLOGG, C., and S. ELIASON. 1986. On regression
+standardization formoments. Sociol. Meth. Res. 14(4):423-446. COCHRANE, S. 1979.Fertility and education: What do we really know? The Johns Hopkins Univ. Press, Baltimore.
+
+Vol. 44, No.3-4
+
+Fertility in Bangladesh
+
+197
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+COOMBS, L.C., and T. H.SUN. 1981. Family values in a developing society: A decade of change in Taiwan. Soc. Fore. 59(4):1229-1255.
+DEGRAFF, D.S. 1991. Increasing contraceptive use in Bangladesh: The role of demand and supply factors. Demography 28(1):65-81.
+DEMARIS, A. 1992. Logit modeling: Practical applications. Sage Publications, New York.
+DEMENY, P. 1979. On the end of the population explosion. Pop. Develop. Rev. 5:141-162.
+DIXON, R.B. 1982. Women in agriculture: Counting the labor force in developing countries. Population Reference Bureau Reports on the World Fertility Survey, No. 5. Population Reference Bureau, Washington, D.C.
+DAS GUPTA, P. 1978. A general method of decomposing a difference between two rates into several components. Demography 15(1):99-112.
+EASTERLIN, R. A. 1978. An economic framework for fertility analysis. Stud. Fam. Plan. 6:54-63.
+FREEDMAN, R., and B. BERELSON. 1978. The record
+of family planning programs. Stud. Fam. Plan. 7(1): 1-40.
+FREEDMAN, R., and D. FREEDMAN. 1992. The role of
+family planning programs as fertility determinants, p. 10-27. In J. F.Phillips, and J. A. Ross (eds.), Family planning programs and fertility. Clarendon Press, Oxford. GREENSPAN, A. 1992. Effects of education on reproductive behavior: Lessons from Pakistan. AsiaPacific Population and Policy (Dec.) (23):1-4. GOMES, M. 1984. Family size andeducational attainment in Kenya. Pop. Develop. Rev. 10(4): 647-660.
+HAQUE, M. M. 1992. A multilevel contextual analysis of fertility differentials in Bangladesh. Unpublished Ph.D. dissertation, University of Utah, Logan, Utah.
+HOQUE, M.N. 1988. A contextual analysis of rural electrification and its impact on fertility: Evidence from Bangladesh. Unpublished Ph.D.dissertation, Pennsylvania State University, University Park, Pennsylvania.
+KHUDA, B., S. F. HARBISON, and W. C. ROBINSON.
+1990. Is development really the best contraceptive?: A 20-year trial in Comilla District, Bangladesh. Asia-Pacific Pop. J. 5(4):3-16.
+KIM, Y. J., and D. M. STROBINO. 1984.Decomposition ofthe differences between tworates with hierarchical factors. Demography 21(3):361-372.
+KITAGAWA, E. M. 1955. Components of a difference between two rates. J. Amer. Statist. Assoc.50: 1168-1194.
+KOCHER, J. E. 1984.Income distribution and fertility, p. 216-234. In W. Schutjer, andC. Stokes (eds.), Rural development and human fertility. Macmillan Publishing Company, New York.
+
+LAMS, H. W., and A. THORNTON. 1975. Decomposi-
+tion of difference: A cautionary note. Sociol. Meth. Res.3(3):341-352.
+LESTHAEGHE, R. 1989. Reproduction and social organization in Sub-Saharan Africa. Univ. of California Press, Berkeley.
+MAULDIN, W. P., and B. BERELSON. 1978. Condi-
+tions of fertility decline indeveloping countries, 1965-1975. Stud. Fam. Plan. 9(5):89-147.
+MIAH, M. M., and A. N. MIZAN. 1992. Labor force participation and fertility: A study of married women in Bangladesh. Internat. J. Sociol. Fam. 22(2):69-82.
+MURTY, R. K.,and S. DEVOS. 1984.Ethnic differences in contraceptive use in Sri Lanka. Stud. Fam. Plan. 15(5):222-232.
+NJOGU, W. 1991. Trends anddeterminants ofcontraceptive use in Kenya. Demography 28(1): 83-99.
+OBERAI, A. S. 1992. Assessing the demographic impact of development projects: Conceptual, methodological and policy issues. Routledge Publications, New York.
+OPPONG, C. 1983. Women's roles, opportunity costs, and fertility, p. 547-589. In R.A. Bulatao, and R. Lee (eds.), Determinants of fertility in developing countries. Academic Press, New York.
+POPULATION REFERENCE BUREAU. 1984. 1984 World
+population data sheet. Population Council, Washington, D.C.
+POSTON, D. L., JR., and B. Gu. 1987. Socioeconomic development, family planning and fertility inChina. Demography 24(4):531-550.
+Ross, J. A., and C. B. LLOYD. 1992. Methods for measuring the fertility impact of family planning programs: The experience of last decade. Population Council, New York.
+SIMMONS, G.B. 1979. Family planning programs or development: How persuasive is the newwisdom? Internat. Fam. Plan. Perspect. 5:101-110.
+Tsui, A., and D. BOGUE. 1978. Declining worldfertility: Trends, causes and implications. Pop. Bull. 33(4):2-56.
+UNITED NATIONS. 1985. Women's employment and fertility: Comparative analysis of world fertility survey results for 38 developing countries.Population Studies, No. 96. . 1987. Fertility behavior in the context of development: Evidence from the World Fertility Survey. United Nations, New York.
+VAN DE WALLE, E., and J. E. KNODEL. 1980. Eu-
+rope's fertility transition: New evidence and lessons for today's developing world. Population Reference Bureau, Bulletin No.34. WORLD BANK. 1994. World development report 1994: Infrastructure for development. Oxford Univ. Press, New York.
+
+

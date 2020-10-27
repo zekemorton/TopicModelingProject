@@ -1,0 +1,710 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Socioeconomic development, medical care, and nutrition as determinants of infant mortality in lessdeveloped countries
+J. Jayachandran & George K. Jarvis
+To cite this article: J. Jayachandran & George K. Jarvis (1986) Socioeconomic development, medical care, and nutrition as determinants of infant mortality in lessdeveloped countries, Social Biology, 33:3-4, 301-315, DOI: 10.1080/19485565.1986.9988647 To link to this article: http://dx.doi.org/10.1080/19485565.1986.9988647
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 6
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:41
+
+Socioeconomic Development, Medical Care, and Nutrition as Determinants of Infant Mortality in Less-developed Countries
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+J. Jayachandran and George K. Jarvis
+Department of Sociology University of Alberta Edmonton, Alberta, Canada
+
+ABSTRACT: Using data for sixty less-developed countries, we constructed a causal model in which medical care, nutrition, status of women, and socioeconomic development are examined as determinants of infant mortality. Social and economic development are treated as exogenous variables; medical care, nutrition, and status of women are viewed as variables endogenous to the model. The model is tested by maximum likelihood methods. Results indicate that good nutrition and the presence of informally trained health care personnel, i.e., midwives, are more significantly related to low rates of infant mortality than are the employment status of women and the presence of formally trained health care personnel such as physicians and nurses. The general level of social and economic development conditions these relationships.
+
+An understanding of the determinants of infant mortality is of critical importance to underdeveloped countries. Quite apart from the need to reduce the human suffering implied by high infant mortality, such an understanding may act to reduce fertility, since it is widely accepted that a fall in infant mortality will lead ultimately to lower fertility (Preston, 1978; Flegg, 1982). However, according to Simmons and coworkers (1982), the inverse phenomenon should also be taken into account, i.e., mortality may also be affected by prior fertility and by the family size desires of parents.
+For many years students of general mortality have believed that mortality decline in the Industrial Revolution was related to improvements in nutrition and other aspects of social and economic development. McKeown, Brown, and Record (1962,1965) demonstrated that the decline in mortality in England and
+
+Wales during the eighteenth and nineteenth centuries was due largely to a rising standard of living, not to medical advances. According to Thomlinson (1965), medical improvements, especially the development of antisepsis and asepsis, were responsible for a further mortality decline, but this decline occurred in the late nineteenth century. Demographers such as Preston (1975) now believe that mortality has become increasingly disassociated from economic level. This is due to increased availability of medical and health technologies, facilities, and personnel to previously disadvantaged segments of societies.
+Demographers and public health personnel have not always agreed with each other as to the determinants of mortality in less-developed countries (LDC). Davis (1956) credited the rapid decline of mortality in non-Western so-
+
+301
+
+302
+
+Jayachandran and Jarvis
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+cieties to public health measures, such as malaria control, which did not require societies to undergo a thorough transformation of socioeconomic structure. Ceylon, the case cited by him, was later examined by Frederiksen (1960) who minimized the contribution of the malaria control campaign in the reduction Of mortality. Frederiksen claimed that economic development, by increasing per capita food consumption, was an important cause of the mortality decline in Ceylon. Stolnitz (1955) in an analysis of international mortality trends argued that increase in life expectancy may almost always be explained by two broad categories of causes: first, rising levels of living (income, nutrition, housing, and literacy); second, technological advances (public health, medical science, sanitation). He further emphasized that the introduction of new disease-control techniques in Latin America, Africa, and Asia had led to drastic mortality declines in the few years prior to his analysis.
+In a more recent international analysis of mortality, Rodgers (1979) notes that studies of the determinants of mortality change in LDC's have had two important difficulties. First, improvements in health technology and its availability are relevant but their effects are difficult to identify and segregate from each other and from important factors such as sanitation, clean water supply, education, and a host of environmental variables. Many aspects of development and health tend to be collinear, which makes it difficult to isolate the effect of a particular variable. Second, there is a tendency for health programs to be most intensive in the least healthy places, which further confuses observed relationships. Often we find a positive correlation be-
+
+tween the presence of health programs and high mortality.
+Studies of the determinants of infant mortality rates (IMR) in LDC's are inadequate in two other ways as well: They have not included a sufficient number of explanatory variables, and the statistical analyses could be improved. In this study, we have attempted to identify the important determinants of IMR in LDC's through maximum likelihood methods. These techniques permit greater understanding of the causal connections among the exogenous and endogenous variables and allow a certain amount of measurement error to remain in the model.
+THEORETICAL FRAMEWORK
+Research in different parts of the world has shown the influence of economic development, level of literacy, female labor force participation, health services, and nutrition on infant mortality.
+ECONOMIC DEVELOPMENT
+The negative relationship between infant mortality and the level of economic development has been used as a barometer for economic development (United Nations, 1982). This relationship has been observed in developed countries such as the United States, Canada, and Sweden. As the GNP increases, the standard of living improves, which leads to an improvement in nutrition and health services (Berg, 1973; Gaise, 1975).
+A similar observation has been made in developing countries (Krishnan, 1975; Rodgers, 1979). However, Pres-
+
+Vol. 33,No. 3-4
+
+Infant Mortality
+
+303
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+ton (1975) notes that one should not expect to find a direct relationship between mortality and per capita income, because per capita income is an average measure and does not take the distribution of income into account. The effects of income on mortality are likely to be greater at the lower end of the income distribution.
+Income is also likely to influence the level of mortality indirectly, through its effects on the rate of consumption of items affecting health, such as food, housing, sanitation, medical care, and education. In his international summary on structure and change in causes of death, Preston (1974) observes that certain diseases (e.g., diarrheal diseases, which are influenced strongly by nutrition and personal sanitation) are thought to be dependent largely upon the standard of living and hence not readily amenable to reduction through specific medical and public health measures.
+LITERACY
+Level of literacy is another index which seems to be associated with the level of infant mortality. This is especially true among women in the reproductive ages. Because the mother is the agent through whom societal institutions must act to safeguard the health and the life of the child in the home, her attitudes and abilities are of great importance. The literate mother is more likely to have at least the minimum educational requirements to enable her to take advantage of the scientific child care which the community has to offer. The effect of literacy on IMR tends to be negative and indirect and operates through standard of living, nutrition,
+
+medical and health services, and possibly other variables as well (Chang and Pendleton, 1978; Chang et al., 1979).
+Caldwell (1979), on the basis of a rigorous analysis of Nigerian survey data, concludes that maternal education is the single most important determinant of mortality in childhood. Caldwell suggests three main reasons for this conclusion. First, educated mothers may be expected to break with tradition, to become less "fatalistic" about illness and to adopt many of the modern alternatives in child care and therapeutics. Second, an educated mother is more able than an illiterate one to command the attention of doctors and nurses. Her knowledge of available medical facilities is likely to be superior; she tends to regard their use as a right, not as a boon. Third, the education of women greatly changes the traditional balance of family relationships with profound effects on child care.
+Flegg's (1982) study of the determinants of IMR in LDC's lends support to Caldwell's conclusion. In this study female illiteracy is used as the measure of education. Krishnan (1975) observed in India that literacy plays two roles. As a preventive measure, literacy helps to reduce mortality by promoting social hygiene. As a measure of control, literacy generates awareness, which helps the literate mother make the best use of medical facilities. However, not all studies agree with the value of female literacy in the reduction of infant mortality. Frenzen and Hogan (1982), after studying infant mortality in rural Thailand, indicate that maternal education does not increase the ability of the mother to provide adequate infant care, at least to the degree necessary to reduce infant mortality significantly.
+
+304
+
+Jayachandran and Jarvis
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+FEMALE LABOR FORCE PARTICIPATION
+In countries where the status of women is low, increased female labor force participation has considerable influence on infant mortality. Moreover, female labor force participation in the nonagricultural sector has greater influence over the IMR than participation in the agricultural sector (United Nations, 1982). Women in the nonagricultural sector have very little time to devote to the bearing and rearing of children. Women in nonagricultural employment also have greater exposure to available medical and health facilities and tend to take better care of their fewer children. Therefore, we expect female labor force participation to have a negative influence on the IMR.
+HEALTH CARE
+The IMR has frequently been used as an indicator to assess the success of public health programs both in developed and in developing nations (United Nations, 1982). In developing countries there is a special need for public health programs designed to provide some measure of health care to the many people living in poverty. Studies by Flegg (1982) and Yang and Pendleton (1980) have found that health facilities play an important role in lowering the level of infant mortality in LDC's.
+
+Although there are exceptions to the rule, people in developed countries suffer more often from excessive intake of rich food, while persons in developing countries are more likely to suffer from inadequate nutrition. Children and pregnant or lactating women are particularly vulnerable to the dangers of inadequate food supply. World Health Organization studies indicate that weight gain during pregnancy is lower in poorly nourished population groups. Low birth weight (less than 2,500 grams) is highly associated with an increased risk of infant death (WHO, 1974). Diet and nutrition have been found to play an intervening role between education and mortality (c.f., Friedlander and Silver, 1967; Bengoa, 1974). Although most studies find a negative association between good nutrition and mortality, one study (Yang and Pendleton, 1980) observed that good nutrition was related to a higher crude death rate among the LDC's. Such an unusual finding requires further investigation.
+MATERIALS AND METHODS
+This section describes the variables, the sources of data, and the method of analysis used in the study.
+
+NUTRITION
+It is well known that balanced nutrition is a necessary condition for human health and survival. Poor nutrition increases the individual's susceptibility to disease. A wide disparity in food supply has been observed between developed and developing countries. There are also major differences in nutrition within developing countries.
+
+VARIABLES
+Based on the preceding review of the literature, the following concepts were selected for use in the analysis. Under each concept certain indicators were selected, again on the basis of their prior successful use in other studies.
+1. Economic development (ECODEV) a. per capita energy consumption (ENERGY)
+
+Vol. 33, No. 3-4
+
+Infant Mortality
+
+305
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+2. Social development (SOCDEV) a. per cent of women aged 15 years and over who are illiterate (FEILL)
+3. Status of women (STAWOM) a. per cent of women, aged 15 years and over who are in the service sector (FESER)
+4. Health Care (HEALTH) a. number of physicians per 10,000 population (PHY) b. number of nurses per 10,000 population (NURS) c. number of midwives per 10,000 population (MID)
+5. Nutrition (NUTRI) a. per capita calorie consumption as per cent of requirement (CAL)
+Prior studies have not used number of midwives as a health care indicator. However, in recent years the hope has grown that properly trained paraprofessionals, such as midwives, can bring enough maternal and child care information to villages that an effect on the infant mortality rate may be realized. This hope has led to a proliferation of programs to train such personnel for use in the remote areas of LDC's (Economic and Social Commission for Asia and the Pacific, 1976).
+The proportion of women who are illiterate has been used as a negative measure of education (Flegg, 1982).
+DATA SOURCES
+Data for the present analysis are taken from the sources given below.
+1. Economic development: Energy consumption
+U.N. Statistical Yearbook (1981)
+2. Social development: Female illiteracy rate
+U.N. Statistical Yearbook (1981)
+
+3. Status of women: Women 15+ in service sector
+International Labor Organization (1977)
+4. Health Care: Physicians/10,000 Nurses/10,000 Midwives/10,000
+U.N. Demographic Yearbook (1980)
+5. Nutrition:
+Per capita calories
+The World Bank (1982)
+6. Infant Mortality Rate
+U.N. Demographic Yearbook (1980)
+Countries such as Hong Kong and Singapore were excluded from the analysis due to the fact that their IMR's were below those of many of the developed countries. The analysis was carried out for sixty countries for which comparable data were available.
+METHOD OF ANALYSIS
+In order to test the direct and indirect relationships among the variables, we proposed the theoretical model in Figure 1. We analyzed the model by maximum likelihood methods developed by Joreskog (1981, Lisrel, Version V), because of several advantages over the usual path analysis techniques. Besides computational convenience, LISREL avoids potential problems with biased estimates by adjusting for measurement error (Entwisle and Hayduk, 1981). It also furnishes modification indices and partial derivatives that provide some clues to the validity of the model structure. LISREL allows for exploration of reciprocal effects, if any, in the model.
+
+306
+6,
+
+Jayachandran and Jarvis
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+FIG. 1--Proposed model for showing the determinants of IMR.
+
+Above all, LISREL allows the use of multiple indicators for the estimation of theoretical variables.
+RESULTS
+In a preliminary analysis the interrelationships among seven independent variables and the IMR were examined through zero-order correlation (Table 1). All the variables were correlated significantly in the expected direction. However, the rather low correlation between the presence of midwives, and availability of physicians (0.221), and nurses (0.195), was not expected. Similarly, the high correlation of economic development with midwives (0.618), as opposed to that with physicians (0.518), and nurses (0.414), was unexpected.
+The variables were examined by exploratory data analysis (stem and leaf, and schematic plots) (Tukey, 1970). The
+
+analysis indicated skewness and outliers among all the variables. As a result the variables were transformed by using natural logarithms. This has the effect of normalizing the distributions of the variables. After the transformations, the correlations of midwives with physicians (0.455) and nurses (0.422) increased considerably. The magnitude of the correlations of economic development with health variables such as physicians (0.804), nurses (0.570) and midwives (0.370), were also changed in the direction originally expected.
+Figure 2 shows the actual maximum likelihood estimates derived for the proposed model and indicates that the causal linkages among the variables are in the expected direction. However, the initial fit of the model was poor. The goodness of fit index was 0.66 (X2 = 49.36, df = 17, p = 0.000). The modification indices and first order de-
+
+Vol. 33, No. 3-4
+
+Infant Mortality
+
+307
+
+TABLE 1
+CORRELATIONS AND COVARIANCES FORTHE VARIABLES IN THE MODEL"
+
+IMR FESER CAL PHY NURS MID ECODEV FEILL . . .
+
+IMR
+1.000 (0.101)
+
+FESER CAL PHY NURS MID ECODEV
+
+-0.608 -0.531 -0.655 -0.520 -0.508 -0.789 (-0.098) (-0.009) (-0.112) (-0.088) (-0.082) (·-0.183)
+
+1.000 0.421 0.715 0.571 0.384 (0.277) (0.013) (0.206) (0.160) (0.101)
+
+0.690 (0.245)
+
+1.000 0.505 0.333 0.235 (0.003) (0.016) (0.010) (0.007)
+
+0.517 (0.023)
+
+1.000 0.637 0.455 (0.292) (0.183) (0.122)
+
+0.804 (0.320)
+
+1.000 0.422 (0.285) (0.120)
+
+0.570 (0.210)
+
+1.000 (0.274)
+
+0.370 (0.133)
+
+1.000 (0.582)
+
+FEILL
+0.760 (0.103) -0.532 (-0.109)
+-0.361 (-0.008)
+-0.534 (-0.188)
+-0.454 (-0.094)
+-0.348 (-0.055)
+-0.611 (-0.187)
+1.000 (0.172)
+
+"Correlations andcovariances arecalculated after transforming thevariables bynatural logrithm. Variances andcovariances are in parenthesis.
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+·O0| * Energy^--5IECUOE
+·5*1
+
+· 013
+
+R2 = 0.973; X2 = 0.79 Df = 6.00; P = 0.992 GFI = 0.954
+FIG. 2.--Lisrel estimates (metric coefficients) for the final model showing the determinants of IMR. NOTE: The level of statistical significance of each estimate under the one taiJed / test is indicated by . « · » # * » anrj*forthe 1,2,5, and 10per cent levels respectively.
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+308
+
+Jayachandran and Jarvis
+
+SocialBiology
+
+rivatives obtained for the model suggested that we free the covariances among the measurement errors of health indicators. When the measurement errors were allowed to correlate, they were found to be negatively related, which indicates that the errors involved in measuring the health indicators were not in the same direction in various countries. The above modification improved the model considerably. The chi-square dropped from 49.36 to 22.74 for the loss of 3 degrees of freedom (GFI = 0.76, p = 0.065). The influence of the health care variable on IMR increased significantly (--0.016 to --0.107). The influence of the other variables remained more or less the same.
+The negative correlations of measurement errors among health indicators led us to treat them as separate concepts rather than combining them as indicators of one concept (health). Figure 2 shows the final model with three
+
+separate health concepts and correlated disturbance terms (PSI). The chi-square of 0.79 with 6 degrees of freedom (p = 0.992) indicates what is so far the best fit of the model we have proposed. The goodness of fit index is 0.954 and the coefficient of determination is 97 per cent.
+Prior to our acceptance of the above model, we decided to construct three submodels in which health indicators were added one by one to the system. This allowed us to measure the separate influences of each health indicator on infant mortality.
+In the first submodel, the number of physicians to population was used to measure the health concept. The best fit of this model is X2 = 0.70, df = 4.00, p = 0.951, GFI = 0.944. While all other variables had their expected influence on infant mortality, the health variable (physicians) had almost no influence (0.003) (Figure 3).
+
+»SOCDEV, DECODE v.
+
+· 013
+
+R2 = 0.90 X2 = 0.70 Df = 4.00 P = 0.95 GFI = 0.94
+·607
+FIG. 3.--Lisrel estimates (metric coefficients) for Model 1 to show the determinants of IMR for different health indicators.
+
+Vol. 33, No. 3-4
+
+Infant Mortality
+
+309
+
+In the second submodel, health is represented by the number of nurses per population. The best fit of this submodel is X2 = 0.00, df = 4.00, p = 1.000, GFI = 1.000. The health variable (nurses) was once again not statistically significant on the IMR. Although the status of women had no direct effect, it had an indirect negative influence on the IMR. In this submodel the impact of economic development on health (nurses) is much less pronounced than on health in the physicians' submodel (0.100 to 0.311) (Figure 4).
+The third submodel uses the number of midwives to population as an indicator of health care (X2 = 0.02, df = 4.00, p = 1.000, GFI = 0.994). When midwives are used as a health care proxy, the influence of health care on IMR increases to --0.264 and becomes statistically significant. The inclu-
+
+sion of midwives also produces slight but nonsignificant changes in other relationships in the model (Figure 5).
+In sum, the analysis of submodels indicates that the traditional way to consider these health indicators, i.e., that they all measure the same concept (health), no longer seems to be appropriate. This is especially true when the unit of analysis is "countries." Therefore, the following discussion will be based on the model (Figure 2) in which the health indicators were treated separately, allowing only for their structural disturbances to be correlated. Since the LISREL Program is based on full information maximum likelihood procedures, the estimates obtained are net of the effect of other variables in the system.
+For the model in Figure 2, the metric and standardized coefficients are pre-
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+R2 = 0.87 X2 = 0.00 Df = 4.00 P = 1.00 GFI = 1.00
+FIG. 4.--Lisrel estimates (metric coefficients for Model 2 to show the determinants of IMR for different health indicators.
+
+310
+
+Jayachandran and Jarvis
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+CI3
+
+R2 = 0.95 X2 = 0.02 Df = 4.00 . 6 4 1 P = 1.00GFI = 0.99
+
+FIG. 5.--Lisrel estimates (metric coefficients for Model 3 to show the determinantsfor different health indicators.
+
+sented in Table 2.1 In this model socioeconomic development has both direct and indirect influence on the IMR through status of women, nutrition, and health. The status of women, which is also an indicator of general development in a society, does not influence the IMR directly but has a significant indirect effect through health variables. No causal connections among the health variables are included, except the correlations through their structural disturbance terms.
+EXOGENOUS VARIABLES
+The effects of the two exogenous variables, social and economic development, on endogenous variables are
+1The amount of variance explained (R2), disturbance terms (PSI), and expected correlations are given in Table 3. The total amount of variance explained by all the variables in IMR is 97 per cent.
+
+quite different in magnitude despite their moderately high correlation with each other (--0.611). As shown in Table 2, social development, measured by female illiteracy (a negative measure), does not have a significant direct effect on nutrition (--0.002) and health variables such as physicians (0.021), nurses (-0.093) and midwives (-0.017). On the other hand, it has a greater indirect influence on health variables through status of women. The reverse is true for the IMR in that the direct effect of social development (0.368) is greater than the indirect effects (0.024) which are negligible. In other words, social development tends to influence nutrition and health largely through its indirect impact on the status of women prevailing in that country. The standardized coefficients given in Table 2 also support this finding and indicate that social development has a strong direct effect on the IMR (0.514) and status of women
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+Vol. 33, No.3-4
+
+Infant Mortality
+
+311
+
+TABLE 2
+METRIC ANDSTANDARDIZEP COEFFICIENTS OF EXOGENOUS AND ENDOGENOUS VARIABLES FOR THE MODEL IN FIGURE 2"
+
+I
+VARIABLES
+STAWOM
+
+STAWOM
+D [N T '
+... .,. ...
+
+NUTRI
+D IN ' T
+
+PHY
+D IN T
+,
+
+HEALTH NURS
+D IN
+
+T_
+
+NUTRI . 0.028 , . , 0.028
+
+(0.275)
+
+HEALTH
+
+Phy . . . 0.582 . . . 0.582
+
+(0.521) Nprs ., 0.550 , . . 0.550
+(0.601)
+
+Mid . . . 0.359 . . . 0.359
+
+(0.408)
+
+IMR .., -0.023 -0.056 -0.079 -0.979 . . . -0.979 0.077 . . .
+
+(-0.038)
+
+(-0.158)
+
+(0.138)
+
+0.077
+
+0.065 -0.065 (0.096)
+
+...
+
+VARIABLtS
+STAWOM
+NUTRI .
+
+MID D IN
+. ·,
+
+HEALTH Phy . , ,
+
+. -t
+
+Nurs . ,
+Mid . . .
+
+IMR . . . -0,003
+
+T
+
+SOCDEV
+
+D IN
+
+T
+
+0.265 -0.265 (-0,230)
+-0.002 -0.008 -0.0)0 (-0.020)
+
+0.021 -0.154 -0.133 (0.017)
+-0.093 -0.145 -0.238 (-0.088)
+-0,017 -0.095 -0.1)2 (-0.017)
+0.368 0.024 0.392 (0,514)
+
+ECODEV
+D IN
+0.337 (0.538) 0.027 0.009 (0.428)
+
+T
+0.337
+0.036
+
+0.311 0.197 (0.445)
+0.100 0.185 (0.174)
+0.073 0.121 (0.135)
+-0.144 -0.044 (-0.369)
+
+0.508 0.285 0.194 -0.188
+
+"D = Direct effect: IN - Indirect effect: T = Total effect. Standardized coefficients areinparenthesis,.
+
+(-0.230), but a comparatively weaker followed by number of physicians
+
+influence on nutrition (-0.020) and (0.445), nutrition (0.428) and IMR
+
+health.
+
+(-0.369). Economic development has a
+
+Economic development has a signi- comparatively weaker effect on the
+
+ficant direct influence on the status of number of nurses (0,174) and midwives
+
+women, thenumber of physicians and a (0.135).
+
+modest negative relationship with infant mortality (Table 2), Standardized coef-
+
+ENDOGENOUS VARIABLES
+
+ficientsconfirm that economic develop- The standardized coefficients (Table ment has avery strong and significant in- 2) show that status of women has a fluence on status of women (0,538) strong influence on the number of
+
+312
+
+Jayachandran and Jarvis
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+nurses (0.601), physicians (0.521), midwives (0.418) and on general nutrition (0.275). Status of women has a very weak direct influence on the IMR (-0.038), but a strong indirect influence (-0.506 metric coefficient). On the other hand, nutrition (--0.158) and midwives (--0.419) have significant negative effects on the IMR, whereas the relationships of physicians and nurses to infant mortality are not significant. Though the number of nurses by itself has a slight negative influence on the IMR (-0.143), in the presence of other health variables its influence disappears and actually changes sign (0.096). The number of midwives, on the other hand, shows significant negative effects both in the presence (-0.303) and in the absence (--0.365) of other health variables. The analysis of submodels given in Table 3 also supports this finding (see also Table 4).
+DISCUSSION
+One possible explanation for this result could be that voluntary and international development agencies tend to allocate their staff to the least healthy places (Rodgers, 1979). Their staff tend to be composed of those with formal medical credentials, such as doctors and nurses. Hence, discussions of the availability of health personnel tend to focus on the number of physicians and nurses. By contrast, the role played by staff at the grass roots level, i.e., community health volunteers, "barefoot doctors," multipurpose workers, and auxiliary nurse midwives is seldom taken into account.
+It has been assumed that the availability of all kinds of health personnel has the same effect on the IMR. This may not be true, especially in parts of
+
+the world where the overall standard of health care is poor. Where the level of literacy is low and where awareness and accessibility to health facilities are also low, special efforts are required to facilitate health care delivery to poorer segments of the population. Otherwise, the existence of such facilities may not produce the desired health impact. Workers at the grass roots level can be of special benefit in effecting the delivery of such public health services.
+Midwives are an example of grass roots workers and in some societies are involved in the community to a great extent. They are sometimes better able to provide preventive and promotive health care services than are formal health care personnel. Essential prenatal and postnatal care are often delivered by midwives. Nurses, by comparison, often do tasks only under the direction of a doctor and have little authority of their own. They could perform many tasks without a doctor's supervision but frequently are not allowed to do so. If they were, it would improve the functioning of the health care system where it is least efficient (Perry, 1978). A recent survey on primary health care in India (Jayachandran et al., 1980) concluded that: family planning received exaggerated emphasis to the virtual exclusion of other aspects of primary care; medical officers were mainly interested in clinical work as opposed to prevention; the conditions under which multipurpose workers and auxiliary nurse midwives worked were not satisfactory; and medical supplies were often not available. This is just one example of what in many countries may constitute misplaced emphasis on priorities and personnel which have political weight and not enough support to the more informal aspects of health care.
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+TABLE 3
+STANDARDIZED COEFHCIENTS FOR THE MODELS IN FIGURES 3 TO 5"
+
+VARIABLES
+STAWOM Ml M2 M3
+NUTRI Ml M2 M3
+HEALTH Ml M2 M3
+IMR Ml M2 M3
+
+STAWOM Ml M2 M3
+
+NUTRI Ml M2 M3
+
+0.280 0.237 0.240
+
+0.521 0.601 0.417
+
+-0.087
+
+-0.155
+
+0.000
+
+-0.157
+
+0.064
+
+-0.150
+
+° Ml = model using number of Physicians as an indicator of health. M2 = model using number of Nurses as an indicator of health. M3 = model using number of Midwives as an indicator of health.
+
+HEALTH Ml M2 M3
+
+SOCDEV Ml M2 M3
+
+ECODEV Ml M2 M3
+
+-0.230 -0.230 -0.230
+
+0.538 0.538 . . . 0.538
+
+-0.019 -0.029 -0.028
+
+0.428 0.448 . . . 0.446
+
+0.017 -0.088 -0.017
+
+0.445 0.174 . . . 0.136
+
+0.005 -0.143 -0.365
+
+0.515
+
+-0.351
+
+0.502
+
+-0.322 . . .
+
+0.509
+
+-0.301
+
+_,
+§> g. 2 op
+-a3c
+
+314
+
+Jayachandran and Jarvis
+
+Social Biology
+
+TABLE4
+DISTURBANCE TERM VARIANCES, COVARIANCES,CORRELATIONSAND DEGREE OF DETERMINACY FOR THE MODEL IN FIGURE 2"
+
+VARIABLE
+
+STAWOM NUTRI
+
+PHY
+
+NURS
+
+MID
+
+1MR
+
+STAWOM NUTRI PHY NURS MID IMR
+
+0.116
+
+0.575 0.001 ... ... ... ...
+
+0.812 0.570 0.067 0.027 0.022 ...
+
+0.766 0.491 0.786 0.073 0.046 ...
+
+0.518 0.332 0.556 0.671 0.121 ...
+
+-0.691 -0.642 -0.704 -0.684 -0.675
+0.002
+
+"Correlations given above the diagonal of each matrix are calculated from the standardized solution.
+
+R
+0.489 0.434 0.764 0.616 0.280 0.974
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+In thefieldof family planning, studies conducted in different parts of the world have shown that nonphysicians are generally as competent as doctors in the insertion of IUD's (Eren et al., 1983). Eren and associates further assert that adequately trained auxiliary nursemidwives can provide a standard of clinical care for IUD users which is comparable to that provided by physicians. Nurse-midwives may provide a more effective service than physicians because they are more accessible and acceptable to clients.
+Therefore, it would seem to us that the urgent need in LDC's may not be for more highly-trained physicians but rather for workers at the grass roots level who are closer to the community. Such a need is most critical in countries where the level of literacy is low, where nutrition is poor, and where there are large sectors of the population for whom poverty and illiteracy restrict access to health facilities. To increase the number
+
+of physicians and nurses may not play as vital a role in the reduction of the IMR in LDC's as the use of training funds to produce more midwives and other workers at the village level.
+CONCLUSION
+Our findings strongly suggest that socioeconomic development plays a significant role in the reduction of infant mortality in less-developed countries. They also suggest that such development should be coupled with improvements in health personnel and nutrition. The need for workers at the grass roots level in the overall health care delivery system should be recognized. Health care delivery should shift from hospitalbased care, oriented to the treatment of disease, "Basic health care," to "Primary health care," which emphasizes prevention through improvements in education, nutrition, water supply, and sanitation.
+
+REFERENCES
+
+BENGOA, J. M. 1974. The problem of malnutrition. WHO Chronicles 23:3-7.
+BERG, B. 1973. Nutrition and national development, p. 49-69. In Alan Berg, Neven S. Scrimshaw, and David L. Call (eds.), Nutri-
+
+tion, national development and planning. The MIT Press, Cambridge, Mass. CALDWELL, J. C. 1979. Education as a factor in mortality decline: An examination of Nigerian data. Pop. Stud. 33:395-313.
+
+Vol. 33, No.3-4
+
+Infant Mortality
+
+315
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+CHANG, H. C., and B. F. PENDLETON. 1978. JORESKOG, K. 1977. A general method for anal-
+
+The changing cultural context of a macro ysis of covariance structures. In D. J.
+
+model of fertility for developing countries. Aigner andA. S. Goldberger (eds.), Latent
+
+Presented at the annual meeting of the variables in socio-economic models. North-
+
+Southern Regional Demographic Group, Holland Publishing Company.
+
+San Antonio, Texas (Oct.).
+
+. 1981. LISREL analysis of linear struc-
+
+CHANG, H. C., R. D. WARREN, and B.F.
+
+tural relationships by the method of maxi-
+
+PENDLETON. 1979. Testing and clarifying a mum likelihood. Version V. University of
+
+macro model of socioeconomic change and Uppsala, Uppsala.
+
+fertility. Soc. Biol. 26:30-50.
+
+KRISHNAN, P. 1975. Mortality decline in India,
+
+DAVIS, K. 1956. The amazing decline of mortal- 1951-1961: Development versus public
+
+ity in underdeveloped areas. Econ. Rev. health program hypothesis. Soc.Sci. Med.
+
+46:305-315.
+
+9:475-479.
+
+ECONOMIC AND SOCIAL COMMISSION FOR ASIA MCKEOWN, T., and R. G. RECORD. 1962. Rea-
+
+AND THEPACIFIC. 1976. Population of Thai- sons for the decline of mortality in England
+
+land (Country Monograph Series, No. 3) and Wales during the nineteenth century.
+
+United Nations, Bangkok.
+
+Pop. Stud. 16:94.
+
+ENTWISLE, D. R., and L. A. HAYDUK. 1981. PERRY, J., and ERNA, P. 1978. Social problems
+
+Academic expectations and the school at- in today's world. Little, Brown and Com-
+
+tainment of young children. Sociol. Educ. pany, Boston.
+
+54:34-50.
+
+PRESTON, S. H. 1974.Structure and change in
+
+EREN, N., R. RAMOS, and R. H. GRAY. 1983.
+
+causes of death: An international summary.
+
+Physicians versus auxiliary nurse midwives Pop. Stud. 28:19-51.
+
+as providers of IUD services: A study in
+
+. 1975. The changing relation between
+
+Turkey and the Philippines. Stud. Fam. mortality and level of economic develop-
+
+Plan. 14(2):43-47.
+
+ment. Pop. Stud. 29:231-248.
+
+FLEGG, A. T. 1982. Inequality of income, illit-
+
+. 1978. Theeffects of infant mortality on
+
+eracy and medical care as determinants of Fertility. Academic Press, New York and
+
+infant mortality in underdeveloped coun- London.
+
+tries. Pop. Stud. 36(3):441-458.
+
+RODGERS, G. B. 1979. Income and inequality as
+
+FREDERIKSEN, H. 1960. Malaria control and determinants of mortality: an international
+
+population pressure in Ceylon, p. 69-75. In cross-sectional analysis. Pop.Stud. 33:343-
+
+D. M. Heer, (ed.), Readings on popula- 351.
+
+tion. Prentice Hall, Englewood Cliffs, N.J. SIMMONS, G.B., C. SMUCKER, S. BERNSTEIN,
+
+. 1961. Determinants and consequences and E. JENSEN. 1982. Post-neonatal mortal-
+
+of mortality trend in Ceylon, p. 74-80. In ity in rural India: Implications of an eco-
+
+D. M. Heer (ed.), Readings on population. nomic model. Demography 19(3):371-389.
+
+Prentice Hall, Englewood Cliffs, N.J.
+
+STOLNITZ, G. J. 1955. A century of interna-
+
+FRENZEN, P. D., and D. P. HOGAN. 1982. The
+
+tional mortality trends. Pop. Stud.9:26.
+
+impact of classes, education, and health THE WORLD BANK. 1982. World development
+
+care on infant mortality in a developing soci- Report T22, p. 152. Geneva.
+
+ety: The case of rural Thailand. Demogra- THOMLINSON, R. 1965. Population dynamics:
+
+phy 19(3):391-408.
+
+Causes andconsequences. Random House,
+
+FRIEDLANDER, S., and M. SILVER. 1967. A quan-
+
+New York.
+
+titative study of the determinants of fertility UNITED NATIONS. 1980. Demographic year-
+
+behavior. Demography 4:30-70.
+
+book. United Nations, New York.
+
+GAISE, S, K. 1979. Some aspects of socio-
+
+. 1981. Statistical yearbook. United Na-
+
+economic determinants of mortality in trop- tions, New York.
+
+ical Africa (WHO Doc: DSI/SE WP/79.13).
+
+. 1982.Levels and trends of mortality
+
+INTERNATIONAL LABOR ORGANIZATION. 1977.
+
+since 1950: A Joint Study bytheUnited Na-
+
+1950-2000 Labor Force Vol. i-iv.
+
+tions and World Health Organization,New
+
+JAYACHANDRAN, J., R. K. PANDE, N. B. RAMLI,
+
+York.
+
+P. K. SRUTIKAR, and K. VAIDYANATHAN. YANG, S. W. and B. F. PENDLETON. 1980.
+
+1981. Reach of primary health care in Nasik
+
+Socio-economic development andmortality
+
+District (Maharashtra). International Insti-
+
+levels in less developed countries. Soc. Biol.
+
+tute for Population Studies. Newsletter
+
+27(3):220-229.
+
+22(2):5-6.
+
+

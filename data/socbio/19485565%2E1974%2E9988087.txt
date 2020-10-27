@@ -1,0 +1,1007 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Tobacco smoking and sex ratios in the United States
+Robert D. Retherford
+To cite this article: Robert D. Retherford (1974) Tobacco smoking and sex ratios in the United States, Social Biology, 21:1, 28-38, DOI: 10.1080/19485565.1974.9988087 To link to this article: http://dx.doi.org/10.1080/19485565.1974.9988087
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 4
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:34
+
+Tobacco Smoking and Sex Ratios in the United States
+Robert D. Retherford
+East-West Population Institute Honolulu, Hawaii
+
+r%
+
+nkm, > J
+
+mnan j
+
+>
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+In the United States, as in other industrialized countries, summary measures of the sex mortality differential, covering all ages and causes of death, have greatly increased during the twentieth century at the same time that mortality for both sexes has declined sharply. Over the period 1910-62, for example, the female-male difference in life expectancy increased from 3.6 to 6.6 years (Retherford, 1972, p. 206; Keyfitz and Flieger, 1968, p. 17). This change produced lopsidedly feminine sex ratios and high rates of widowhood at the older ages, a social problem aggravated by the fact that the aged increased greatly as a proportion of total population and continue to increase as fertility continues to decline.
+The impact of smoking on the sex mortality differential has been examined by Enterline (I960), Preston (1970S and 1970c), and Retherford (1972), and its contribution to excess widowhood has been examined by Grannis (1970) and Retherford (1973). These investigations all show that the impact of smoking is substantial. The present paper examines the related problem of the effect of smoking on agespecific sex ratios. First, the trend in agespecific sex ratios is analyzed in terms of
+
+movements of age- and sex-specific mortality rates, without reference to smoking. In the final section, overall age- and sexspecific mortality rates are split into nonsmoking and smoking components, and the analysis is extended to examine the effects of smoking.
+ANALYSIS OF TRENDS IN STATIONARY POPULATION SEX RATIOS
+The stationary population model provides a convenient tool for the analysis of age-specific sex ratios (Yerushalmy, 1943). A distinct advantage of stationary population sex ratios over actual ones is that the former depend only on current age-specific mortality. Unlike sex ratios in the actual population, they are unaffected by past histories of mortality, fertility, and migration. Moreover, they are the same as sex ratios in the corresponding stable population, so that they represent the long-term outcome of current mortality, regardless of future fluctuations in fertility. For these reasons, stationary population sex ratios offer an excellent avenue by which to study the long-term effects of current mortality on sex ratios at each age.
+It must be pointed out, however, that although stationary and stable population
+
+28
+
+Vol. 21, No. 1
+
+Smoking and Sex Ratios
+
+29
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+sex ratios are identical for age groups of table and graph show that sex ratios in-
+
+infinitesimal width, the correspondence is creased at all ages below 58.9 (obtained
+
+only approximate for intervals of finite by linear interpolation between ages 55
+
+width, as can be seen from the following and 60) and decreased at all older ages.
+
+formulae for the sexratio in the age group The age at which the sex ratio reaches
+
+x to x -f- S. The stationary population sex unity, starting from 1.05 at birth, increased
+
+ratio equal
+
+from 37.2 to 47.6 (values again obtained
+
+ar+5
+
+af+5
+
+1.05/ lm(u)du/S V{u)du
+
+x at
+
+and the stable population sex ratio equals
+
+by linear interpolation). The increases in sex ratios below age 58.9 occurred in spite of increases in male/female ratios of agespecific mortality rates, shown in the mid-
+
+<p+5
+
+tc+5
+
+1.05/ e-">lm(u)du/f e-rnV(u)du,
+
+0 at
+
+where the male/female sex ratio at birth
+
+is taken as 1.05, Z(M) is the continuous
+
+representation of the persons-living column
+
+of the life table, and r is the intrinsic rate
+
+of natural increase. I t is apparent that for
+
+finite but not for infinitesimal age inter-
+
+vals, stable population sex ratios depend
+
+on thelevel of fertility as well as mortality, since in the finite case the factor e~ru does
+
+not cancel and in the infinitesimal case it
+
+does.
+
+If the ageinterval of integration is large,
+
+as in the case of the total sex ratio, andif
+
+the intrinsic rate r is also large, then the
+
+gap between stationary and stable popu-
+
+dle third of Table 1, that were even more pronounced at theyounger ages than atthe older ages. Male-female differences in agespecific mortality rates, on the other hand, decreased at the younger ages, especially in the first year of life, and increased at the older ages, as shown in the right third of Table 1. I t is apparent that the trend in sex mortality differences reflects better the trend in sex ratios than does the trend in sex mortality ratios.
+The mathematics of the stationary population model is useful for analyzing more precisely the relationship between these various trends. Consider the sex ratio for an infinitesimally small age group at age x and denote it by S(x). We have that
+
+lation sex ratios may be considerable. For
+
+1.05 lm (x) dx
+
+example, for a Coale and Demeny (1966) S(x) = P(x)dx
+
+stable population model West level 21,
+
+with a female life expectancy of 70 years, the total sex ratio is 0.990 for an r of zero
+
+1.05 exp(--/u.m (u)du) o
+
+and 1.020 for an r of 0.03. Since sex ratios for infinitesimal age groups have the ad-
+
+exp(-- S\if(u)du) o
+
+vantage not only of describing exactly both stationary and stable populations but also of being easier to work with mathematically, they will be used exclusively in this paper.
+The left third of Table 1 shows the overall trend in age-specific stationary
+
+= 1.05exp(-- / (nm(w) -- \if(u))du), o (1)
+where \i(x) is the force of mortality at age x. If we set S(x) = 1, we get, after some manipulation,
+
+population sex ratios at selected ages in
+
+S]im(u)du -- j\i'(u)du=
+
+the United States for 1910and 1962. The
+
+same values are graphed in Figure 1. The Let us refer to the integrals on the left
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+30
+
+Retherford
+
+Social Biology
+
+TABLE 1
+AGE-SPECIFIC SEXRATIOS, SEXMORTALITY RATIOS, AND SEXMORTALITY DIFFERENCES IN THE STATIONARY POPULATION: UNITED STATES, 1910 AND 1962
+
+AGE
+0
+s
+10
+is
+20 25 30 35 40 45
+50 55 60 65 70 75 80 85
+
+SEX RATIO*
+
+1910
+
+1962
+
+. 1.050 . 1.023
+1.018 . 1.017 . 1016
+. 1.014 1.011
+. 1.009 . 1.004 . 0.995 . 0.983 . 0.967
+0.952 . 0.931 . 0 903
+0.876 . 0 840 . 0 786 . 0.732
+
+1.050 1.043 1.042 1.042 1.041
+1.037 1.031 1.027 1.023 1.018 1.009 0.992
+0.963 0.920 0.860 0.777 0.692 0.604 0.524
+
+SEX MORTALITY RATIOt
+
+1910
+
+1962
+
+1.224 1.102 1.059 1.046 1.133 1.107 1.070 1.151 1.238 1.265 1.275 1.207
+1.208 1.199 1.128 1.115 1.119 1.078
+
+1.312 1.150 1.305 1.723 2.333
+2.537 1.899 1.648 1.578 1.655 1.775 1.936
+2.011 . 1.926 1.884
+1.644 1.444 1.269
+
+SEX MORTALITY DIFFERENCE*
+
+1910
+
+1962
+
+28.4 1.5 0.2 0.1 0.5
+0.5 0.4 1.0 1.8 2.4 3.1 3.1
+4.5 6.1 5.9 7.9 12.2 12.3
+
+6.8 0.1 0.1 0.2 0.7
+1.1 0.8 0.8 1.1 1.8 3.2 5.9 9.2 13.4 20.0 22.8 25.9 27.0
+
+SOURCE: Calculated from data on deaths and population from Keyfitz and Flieger, 1968. U.S. Department ofCommerce, 1921, and Hammond, 1966.The life table technique used is that of Chiang, 1968, p . 203 ff.
+* Sex ratios are calculated as 1.0 Slt IIx at exact age x. tSex mortality ratios refer to the male/female ratio of age-specific mortality rates at ages x to x + n, J*C/nMm. t Sex mortality differences refer to BJf# -- nMt.
+
+as the cumulative mortality rates for males and females respectively and denote them by CMRTM and CMR'x. In discrete terms, we have approximately that
+
+CMRTM -- CMR!x =
+.
+i=*°
+
+~ Z_*M'Al>
+
+FIG. 1.--Age-specific sex ratios in the stationary population: United States, 1910 and 1962 (1.05 / / * / / / ) . Source: Table 1.
+
+Vol. 21, No. 1
+
+Smoking and Sex Ratios
+
+31
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+where MTM and Mft arethe observed age- In discrete terms this becomes approxispecific mortality rates and Ai is the width mately
+
+of the x'th age interval, and where the summation is understood to cover the conven-
+
+Mm= M'.
+n x nx
+
+(7)
+
+tional abridged life table age intervals. The following criteria therefore indicate
+
+From (2) and(3), we have the following how the sex ratio will change between ages
+
+criteria to tell us whether or notthe sex x and x-\-n.
+
+ratio at age x isless than, greater than, or
+
+equal to one:
+
+If M?< M{, then S(x + n) > S(x) r
+
+If (CMRTM -- CMR'J
+
+IinMTM = Wx, then S(x + n)= S(x).
+
+< l n ( 1.05), then S(x) >1. I f
+
+S{x S(x).
+
+If (CMRTM -- CMR[)
+
+(8)
+
+= ln(1.05),thenS(s) = 1. These criteria, in contrast to those in (4),
+
+If (CMRTM --
+
+are independent of the sex ratio at birth.
+
+ln(1.05),thenS(a)
+
+The criteria in (4) and (8) help to ex-
+plain variations in sex ratios by age. Re(4) lated criteria can be derived concerning
+
+It is evident from (4) that a change in variations over time. Consider a change the sex ratio at birth would cause the age between times t and t''. We have that
+
+at which the sex ratio reaches unity to move in the same direction, in accordance
+
+V) (*)-SH) (*)
+
+with common sense. This is nota purely academic consideration, because if parental choice of sex of child ever becomes a
+
+= 1.05e x p ( - / ( r ,,.,(«)
+0
+
+reality, substantial variations in the sex
+
+ratio at birth could conceivably occur. Equation (1) shows that alteration of the
+
+-1.0S«sp(--
+
+sex ratio at birth would alter sex ratios at all subsequent ages inthe same proportion.
+
+-Ji;«> («))<&)· (9)
+
+We can also derive the conditions under which S(x-f- n) will be less than, greater
+
+Set equal to zero, (9) reduces to
+
+than, orequal toS(x).We have that
+
+S(x + n)-S(x)
+
+o
+
+= 1.05 exp(-- / (u.m(w) --\if(u))du) -- o
+
+1.05 exp(--
+
+vJ(u))du).
+
+Set equal to zero, (5) reduces to
+
+(S)
+
+u = 0. (6)
+
+or, equivalently,
+(11)
+The following criteria therefore indicate the direction of thechange over time in the sex ratio at age x:
+
+32
+
+Retherford
+
+Social Biology
+
+If ACMRTM < ACMRfx, then S(x) increases.
+
+the values of ( Mm -- Mf) are positive, and they correspond to monotonic decreases in sex ratios over age. And the
+
+If A.CMRTM -- ACMR'x,
+
+sign of {ACMRTM -- ACMR'J corresponds
+
+then S(x) is unchanged. If ACMRm > ACMRf,
+
+to the reverse of the direction of change over time in the sex ratio at the same age.
+To summarize thus far, as age- and sex-
+
+then S(x) decreases.. specific mortality rates at the younger ages
+
+(12)
+
+declined to nearly zero between 1910 and 1962, most male-female differences be-
+
+These criteria are also independent of the tween those rates also declined, especially
+
+sex ratio at birth.
+
+for the first year of life. As a result, sex
+
+Table 2 verifies that the criteria in (4), ratios at the younger ages decreased more
+
+(8), and (12) predict the movements in slowly with age in 1962 than in 1910, and
+
+sex ratios over age and time shown earlier the male advantage in births was preserved
+
+in Table 1 and Figure 1. For convenience, to a more advanced age.This is the com-
+
+the sexmortality differences in Table 1 are mon .sense meaning of the decreases over reproduced in the first two columns of time in (CMRTM --CMRfx) at the younger
+Table 2. The upward shift in the age at ages and the increase in the age at which
+
+which (CMRTM -- CMR'J reaches In (1.0S) (CMRTM -- CMR'J reaches In (1.05).
+
+(equal to 0.0488, or 48.8 per thousand) The female-male difference in life ex-
+
+corresponds to the upward shift in the age pectancy increased in spite of these trends,
+
+at which the sex ratio reaches unity. All because the declines in sex mortality dif-
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+TABLE 2
+MALE-FEMALE DIFFERENCES TN AGE-SPECIFIC MORTALITY .RATES AND I N CUMULATIVE MORTALITY RATES: UNITED STATES, 1910 AND 1962*
+
+- < CUR" - CUR',,
+
+AGE
+
+1910
+
+1962 A i l / "-- AUrT
+
+1910
+
+1962 ACMRTM -- ACUR1,
+
+0
+
+28.4
+
+6.8 --21.6
+
+0.0
+
+0.0
+
+0.0
+
+1
+
+1.5 0.1 -- 1.3 28.4
+
+6.8 --21.6
+
+5
+
+0.2 0.1 -- 0 . 1 34.3
+
+7.4 --26.9
+
+10
+
+0.1 0.2
+
+0.1 35.3
+
+8.0 - 2 7 . 3
+
+15
+
+0.5 0.7
+
+0.2 35.8
+
+9.1 --26.7
+
+20
+
+0.5 1.1
+
+0.6 38.1 12.6 --25.6
+
+25
+
+0.4 0.8
+
+0.4 40.8
+
+18.0 --22.8
+
+30
+
+1.0
+
+0.8 -- 0.2
+
+42.9
+
+22.0
+
+--20.9
+
+35
+
+1.8
+
+1.1 -- 0.8
+
+47.9
+
+26.0
+
+--21.9
+
+40
+
+2.4 1.8 -- 0 . 6
+
+57.1
+
+31.3
+
+--25.8
+
+45
+
+3.1 3.2
+
+0.2
+
+69.1
+
+40.3
+
+--28.8
+
+SO
+
+3.1 5.9
+
+2.8
+
+84.5
+
+56.5
+
+--28.1
+
+55
+
+4.5 9.2
+
+4.8 100.2
+
+86.1
+
+--14.0
+
+60
+
+6.1 13.4
+
+7.3
+
+122.4
+
+132.2
+
+9.8
+
+65
+
+5.9 20.0
+
+14.0
+
+153.0
+
+199.3
+
+46.3
+
+70
+
+7.9 22.8
+
+14.9
+
+182.7
+
+299.0
+
+116.4
+
+75
+
+12.2
+
+25.9
+
+13.8
+
+222.2
+
+413.2
+
+191.0
+
+80
+
+12.3
+
+27.0
+
+14.7
+
+282.9
+
+542.9
+
+259.9
+
+85
+
+...
+
+. . . 344.6 677.8
+
+333.2
+
+SODECE: Calculated from data on deaths and population cited in source of Table 1. * Rates are given per thousand. Because of rounding errors, the various columns of the table are not always perfectly consistent with one another.
+
+Vol. 21, No. 1
+
+Smoking and Sex Ratios
+
+33
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+ferences at the younger ages were more than offset by much larger increases at the older ages. These offsetting effects are analyzed in an earlier paper, in which the increase in the female-male difference in life expectancy between 1910 and 1965 is decomposed into a sum of contributions from mortality changes in each age group. This decomposition shows negative contributions at the younger ages and large offsetting positive contributions at the older ages (Retherford, 1972).
+The increases at both young and old ages in male/female mortality ratios are of course quite compatible with the trends in age-specific sex ratios and male-female mortality differences. Sex mortality ratios and sex mortality differences can easily move in opposite directions if mortality for both sexes is falling (the point is easily proved algebraically, but is also illustrated numerically in Tables 1, 2, and 4), and we have seen in any case from equations (1) through (12) that age-specific sex ratios and changes in them depend directly on sex mortality differences and not at all on sex mortality ratios. Bowerman (1950) and Sowder and Bond (1956) also recognized that sex ratios could increase in a situation of falling sex mortality differences and rising sex mortality ratios at the younger ages, although neither analyzed the problem mathematically.
+EFFECT OF TOBACCO SMOKING ON SEX RATIOS
+Between 1910 and 1962, average annual cigarette consumption per person aged 15 and over increased considerably in the United States, from 49 cigarettes in 1910 to 3,958 in 1962. Consumption of pipe, cigar, and chewing tobacco decreased sharply over the same period, so that the increase in per capita consumption of all forms of tobacco, from 7.42 pounds in 1910 to 10.85 pounds in 1962, was much
+
+less marked than that of cigarettes (U.S. Dept. of Health, Education, and Welfare, 1964, p. 45). Since the available evidence indicates that deaths from tobacco smoking stem mainly from cigarettes (U.S. Dept. of Health, Education, and Welfare, 1964, p. 85), the trend in cigarette consumption more accurately reflects the detrimental effects of smoking trends on health than does the trend in overall tobacco consumption.
+Two important studies demonstrate that the increase in cigarette smoking has been heavily concentrated among males. In 1955 the Bureau of the Census, on behalf of the National Cancer Institute, carried out a probability sample of the United States population and found that 68.0 per cent of men but only 32.4 per cent of women had ever smoked cigarettes, and that among nonsmokers 9.8 per cent of men but only 3.1 per cent of women had previously smoked cigarettes regularly (U.S. Dept. of Health, Education, and Welfare, 1956, p. 8). A subsequent study by the American Cancer Society, which examined smoking in relation to the death rates of one million men and women over the period 195964, generally verified the National Cancer Institute findings, and in addition found that male smokers inhaled more deeply than female smokers and that they began smoking at an earlier age (Hammond, 1966, p. 128).
+The concentration of the upswing of cigarette smoking and its mortality effects among males produced a substantial impact on the sex mortality differential. In the United States in 1962, the middle year of the American Cancer Society (ACS) study mentioned above, all forms of tobacco smoking combined accounted for about 47 per cent of female-male difference in life expectancy between ages 37 and 87, and about 75 per cent of the increase in the female-male difference in life expectancy
+
+34
+
+Retherford
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+between ages 37 and 87 between 1910 and 1962 (Retherford, 1972). The related impact of cigarette smoking on the incidence of widowhood was also severe. In the hypothetical stationary population of males aged 39-88 and females 37-86 in the United States in 1962, corresponding to a couple life table of initially intact couples who never divorce or remarry after death of spouse, in turn based on average male and female mortality in the ACS sample, both the number and the proportion widowed among females would have been 21.6 per cent less if no husbands had ever smoked (Retherford, 1973). (These findings, as well as those presented below, assume that the observed differences in mortality rates for smokers and nonsmokers are almost entirely causal in nature. For discussions of this assumption, see Preston, 1970a and 19706 and Retherford, 1970, Chs. 2 and 5, and 1972.)
+Since the sex mortality differential and the incidence of widowhood are both closely tied to the age pattern of sex ratios, it is clear that the trend in smoking must have had a substantial effect on sex ratios, too. Grannis (1970), who also utilized data from the ACS study, graphed male against female life table survivorship from birth to each age for different levels of cigarette consumption and found that this was indeed the case. (His results are somewhat misleading, however, because of his erroneous implicit assumption that the sex ratio at birth is one.) In this section, we further investigate this question.
+The age-specific mortality rates on which the following analysis is based were derived by linearly interpolating and extrapolating mortality data given in the ACS study for age groups 37-41, . . . . , 82-86 into the standard groupings 35-39, . . . . , 80-84 and then combining these with mortality rates for ages 0, 1-4, 5-9, . . . . ,
+
+30-34 for the United States in 1962 (Keyfitz and Flieger, 1968) to calculate life tables and corresponding age-specific stationary population sex ratios. (In the ACS study reports, the age range of mortality data was labeled 35-84 but should have been labeled 37-86, because age was tabulated as of the beginning rather than the middle of the study.) These sex ratios are treated as reasonably representative of sex ratios in the stationary population corresponding to United States mortality in 1962, and they constitute a basis, since they incorporate the ACS data, for investigating the effect of smoking on sex ratios. It is assumed that the mortality effects of smoking below age 35, the lower age limit of the ACS data, are small enough to be safely ignored.
+Because of the somewhat unrepresentative nature of the ACS sample, this procedure does have some drawbacks. The ACS sample was unfortunately not a probability sample of the United States population, although efforts were made to make it as representative as possible. Data from it are used here because they constitute the only source of mortality data sufficiently detailed (specific for age, sex and smoking status) for the life table techniques employed. The health of the sample, as measured by its mortality experience, was somewhat better than that of the United States population in 1962, the middle year of the study, due to underrepresentation in the sample of nonmarried persons, hospitalized persons, and lower socioeconomic groups (Hammond, 1969). As a result, life expectancy between ages 35 and 85 was about two years higher and the female-male difference in this life expectancy about 0.5 year higher in the sample population than in the United States population in 1962 (Retherford, 1972). Table 4 shows the corresponding
+
+Vol. 2 1 , No. 1
+
+Smoking and Sex Ratios
+
+35
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+Sex ratio
+
+Nonsmokers i n ACS sample
+Total ACS sample United States 1962
+
+30 40
+
+FIG. 2.--Age-specific stationary population sex ratios: United States and American Cancer Society Study, 1962.Source: Tables 1 and 3.
+
+discrepancy in age-specific mortality rates, and Tables 1 and 3 and Figure 2 show the discrepancy in age-specific sex ratios.
+Sex ratios based on the ACS total sample are somewhat higher than those in the United States in 1962.On the other hand, comparison of the ACS sample with the National Cancer Institute 1955 probability sample of the United States population mentioned earlier shows close agreement
+
+between the two samples in the proportion of persons who never smoked cigarettes regularly in each age-sex category (U.S. Dept. of Health, Education, and Welfare, 1956, pp. 74-75; Hammond, 1966, pp. 174176). Hence, the per cent reductions in age-specific sex ratios due to smoking, based on the ACS data and calculated below, probably represent fairly accurately the true values in the United States popu-
+
+TABLE 3
+SEX RATIOS IN THE STATIONARY POPULATIONS CORRESPONDING TO TOTAL SAMPLE AND NONSMOKERS IN THE AMERICAN CANCER SOCIETY STUDY: 1962
+
+SEX RATIO
+
+^ E E CENT REDUCTION
+
+IN SEX RATIO D U E TO
+
+A
+
+AGE
+
+Total Sample ·
+
+Nonsmokers
+
+SMOKING, R(X)*
+
+CMRX" ~CiIRm
+
+35
+
+1.023
+
+1.023
+
+0
+
+0
+
+40
+
+1.018
+
+1.022
+
+0.3
+
+3.2
+
+45
+
+1.010
+
+1.019
+
+0.9
+
+8.7
+
+50
+
+0.998
+
+1.018
+
+1.9 19.1
+
+55
+
+0.978
+
+1.012 3.3 34.0
+
+60
+
+0.944
+
+0.999
+
+5.5 56.6
+
+65
+
+0.890
+
+0.970
+
+8.2 85.6
+
+70
+
+0.821
+
+0.927
+
+11.3 120.4
+
+75
+
+0.739
+
+0.865
+
+14.4 155.7
+
+80
+
+0.653
+
+0.793
+
+17.6 192.9
+
+85
+
+0.559
+
+0.701
+
+20.0
+
+222.8
+
+SOURCE: Calculated from data on deaths and population cited in source of Table 1. * R(x) is the per cent reduction in the sex ratio from what it would have been if the population had consisted entirely of nonsmokers. It is calculated as nonsmoker sex ratio-total sample sex ratio/nonsmoker sex ratio from values more exact than those shown in columns 1 and 2.
+t Rates per thousand.
+
+36
+
+Retherford
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+TABLE 4
+AGE-SPECIFIC MORTALITY RATES: UNITED STATES AND AMERICAN CANCER SOCIETY STUDY: 1910 AND 1962
+
+UNITED STATES
+
+1910*
+
+1962
+
+AGE M F M F
+
+o
+1-4 5-9 10-14
+15-19 20-24 25-29 30-34
+35-39 40-44 45-49 50-54
+55-59 60-64 65-69 70-74 75-79 80-84
+
+. . .
+. . . .
+. . . . .. .. .. .. .. ..
+
+155 3 15.7 3.7 2.5 3.9
+5.5 6.3 7.7 9.6
+11.5 14.3 18.2 25.9 36.8 52.2 76.8 114.7 169.6
+
+126 9 14.3 3.5 2.3 3.5
+5.0 5.9 6.7 7.7
+9.1 11.2 15.1 . 21.4 30.7 46.2 68.9 102.5 157.3
+
+28 7 1.0 0.5 0.S 1.2
+1.8 1.7 2.0 2.9 4.5 7.4 12.3 18.3 27.9 42.5 58.3 84.3 127.4
+
+219 0.9 0.4 0.3 0.5 0.7 0.9 1.2 1.8
+2.7 4.2 6.3 9.1 14.5 22.6 35.5 58.4 100.4
+
+UI
+MF
+
+... *
+
+2.1
+3.3 4.8
+7.7
+12.3 19.5 29.0 42.9 63.9 100.1
+
+1.2 1.7 2.4 3.5 5.2 7.9 12.9 22.1 39.5 70.2
+
+ACS STUDYt MF
+
+·
+
+1.5 2.1 2.5 4.3 7.3 13.3 21.5 35.2 56.1 93.6
+
+1.2 1.6 2.2 3.1 4.8 7.4 12.4 21.5 39.1 69.6
+
+M1
+MF
+·· * ···
+.6 0.0 1.2 0.1 2.3 0.2 3.4 0.4 5.0 0.4 6.2 0.4 7.5 0.5 7.7 0.7 7.8 0.4 6.6 0.6
+
+SOOECE: Based on data on deaths and population cited in source of Table 1. * Values for 1910 are for the Death Registration Area only.
+t itm is age-specific mortality for all persons in the sample, Mm is the nonsmoking component of M , , and Mw is the
+smoking component of IIm. See definition (13) in text. Because of rounding errors, the last six columns are not always perfectly consistent with one another.
+
+lation in 1962,even though the absolute M* = annual age-specific mortality
+
+levels of these sexratios are somewhat too high.
+Column 3 of Table 3 shows the per cent reduction in sex ratios at each age from
+
+rate of persons aged x to x -f- 5, M% = nonsmoking mortality
+component of MJ,
+
+what they would have been if the total M% = smoking mortality
+
+population had consisted entirely of nonsmokers. The reduction varies from zero
+
+component of MT,,
+
+per cent at age35 to 20 per cent at age 85.
+
+(13)
+
+It is apparent that smoking has a cumulative effect on the sex ratio with increase in age.
+The analysis of the previous section can be extended to elucidate quantitatively the nature of this cumulative effect. If x rep-
+
+where MTx and Af* are obtained from the ACS sample data, MNx being the observed
+age-specific rate for nonsmokers, and where M8xis obtained as (MJ -- MNx). From (1)
+we have then that
+
+resents age and if age-specific mortality ST(x) = 1.05exp ( - J (nNm(u) rates are understood to pertain to five-year
+
+age groups, then for each sex we can define, following Preston (1970a),
+
+- (n*/(w) +]x?t(u))du). (14)
+
+Vol. 2 1 ,No. 1
+
+Smoking and Sex Ratios
+
+37
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+With some manipulation this can be re- ages (columns 9 and 10 of Table 4 ) . We
+
+written, with theaid of equations (2) and are thus ledto thefollowing set of criteria,
+
+(3) above, as
+
+analogous to (8) above, which indicate
+
+ST(x) = Sx(x) exp(~(CMRlm -- CMRsJ)), (15)
+where SN(x), thesex ratio for nonsmokers, is
+
+how R (x) will change between ages x and x-\-n. If Mf < nMsJ,then R(x) decreases. ~|
+If n M f= nMf, then R(x) isunchanged.L
+
+SN(x) = 1.05
+
+If M3TM > nMsJ,then R(x) increases. J
+
+exp(--(CMR»m -- CMRXt)). (16)
+
+(19)
+
+If we denote by R(x) the proportionate
+
+CONCLUSION
+
+reduction in the sex ratio from what it Earlier studies have shown that the up-
+
+would have been if the population had swing in cigarette consumption in the
+
+consisted entirely of nonsmokers (column United States in this century has been
+
+3 of Table 3 ) , then from (15)
+
+responsible for most of the increase in
+
+R(x) = 1
+
+summary measures of the sex mortality differential over the same period and that
+
+it hasalso contributed substantially to the
+
+and (15) canbe rewritten as
+
+current high incidence of widowhood among
+
+ST(x)=S»(x)(l-R(x)). (18)
+The R(x) calculated from (17) donotcorrespond exactly to the values in column 3 of Table 3. The discrepancy is less than
+
+older women. Thepresent paper has analyzed the related problem of the contribution of smoking to imbalances in sexratios and found it also to be substantial.
+
+one per cent in all cases andis dueto the
+
+ACKNOWLEDGMENTS
+
+use of discrete approximations to the con- This paper grew out of doctoral research at
+
+tinuous model.
+
+the University of California, Berkeley, under the direction of Professor Kingsley Davis and
+
+It is apparent from (17) that for with partial support from Ford Foundation
+
+R(x) to increase with age, the quantity grants to the Department of Demography and
+
+(CMRsxm -- CMRaJ) must also increase
+
+the Institute of International Studies at Berkeley. The preparation of the paper was
+
+with age (columns 3 and 4 of Table 3 ) . supported by a postdoctoral fellowship grant
+
+For (CMRSTM -- CMRf) to increase with age, it is necessary that MSm > MSf at all
+
+from theSocial Science Research Council and an institutional grant to the East-West Population Institute from USAID.
+
+REFERENCES
+
+BOWERMAN, W. G. 1950. Annuity mortality. secondary to cigarette smoking. J. Gerontol.
+
+Trans, of the Soc. of Actuaries 2:76-102.
+
+25:55-63.
+
+CHIANG, C. L. 1968. Introduction to stochastic HAMMOND, E. C. 1966. Smoking in relation to
+
+processes in biostatistics. John Wiley, New the death rates of one million men andwomen.
+
+York.
+
+In W. Haenszel (ed.), Epidemiological ap-
+
+COALE, A. J., and P. DEMENY. 1966. Regional proaches to the study of cancer and other
+
+model life tables and stable populations. Prince- chronic diseases. National Cancer Institute
+
+ton Univ. Press, Princeton.
+
+Monograph 19. Government Printing Office,
+
+ENTERLINE, P. E. 1960.A study of factors associ- Washington, D.C.
+
+ated with male-female differentials in mortality.
+
+. 1969. Life expectancy of American men
+
+Ph.D. thesis, Dept. of Sociology, American in relation to their smoking habits. J. Nat.
+
+University, Washington, D.C.
+
+Cancer Inst. 43:951-962.
+
+GRANNIS, G. F. 1970. Demographic perturbations KEYFITZ, N., and W. FLIEGER. 1968. World popu-
+
+38
+
+Retherford
+
+Social Biology
+
+lation: An analysis of vital data. Univ. of Chicago Press, Chicago and London.
+PRESTON, S. H. 1970a. The age-incidence of death from smoking. J. Amer. Statist. Assoc. 65: 1125-1130.
+. 19706. An international comparison of
+excessive adult mortality. Pop. Stud. 24:5-20.
+--. 1970c. Older male mortality and cigarette smoking. Univ. of California Press, Berkeley. RETHERFORD, R. D. 1970. Analysis of trends in sex mortality differentials in developed countries. Ph.D. thesis, Dept. of Sociology, University of California, Berkeley.
+. 1972. Tobacco smoking and the sex mortality differential. Demography 9:203-216.
+. 1973. Cigarette smoking and widowhood in the United States. Pop. Stud. 27:193-206.
+SOWDER, W. T., and J. O. BOND. 1956. Problems
+associated with the increasing ratio of male over female mortality. J. Amer. Geriat. Soc. 4:956-962.
+
+U.S. DEPARTMENT OF COMMERCE, BUREAU OF THE
+CENSUS. 1921. United States life tables: 1890, 1901, 1910, and 1901-1910. Government Printing Office, Washington, D.C.
+U.S. DEPARTMENT OF HEALTH, EDUCATION AND
+WELFARE, PUBLIC HEALTH SERVICE. 1956. To-
+bacco smoking patterns in the United States. By W. Haenszel et al. Public Health Monograph No. 45. Government Printing Office, Washington, D.C.
+U.S. DEPARTMENT OF HEALTH, EDUCATION AND
+WELFARE, PUBLIC HEALTH SERVICE, ADVISORY
+COMMITTEE ON SMOKING AND HEALTH. 1964.
+Smoking and health. Public Health Service Publication No. 1103. Government Printing Office, Washington, D.C. YERUSHALMY, J. 1943. The age-sex composition of the population resulting from natality and mortality conditions. Milbank Mem. Fund Quart. 21:37-63.
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+

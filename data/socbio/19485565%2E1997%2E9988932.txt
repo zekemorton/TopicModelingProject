@@ -1,0 +1,547 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Decline of tuberculosis mortality in an urban Mexicanorigin population, 1935­1984
+Benjamin S. Bradshaw & David P. Smith
+To cite this article: Benjamin S. Bradshaw & David P. Smith (1997) Decline of tuberculosis mortality in an urban Mexicanorigin population, 1935­1984, Social Biology, 44:1-2, 25-41, DOI: 10.1080/19485565.1997.9988932 To link to this article: http://dx.doi.org/10.1080/19485565.1997.9988932
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 28
+View related articles Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:47
+
+Decline of Tuberculosis Mortality in an Urban Mexican-origin Population, 1935-1984
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Benjamin S. Bradshaw and David P. Smith
+The University of Texas School of Public Health, Health Science Center at San Antonio, San Antonio, Texas 78284
+
+ABSTRACT: Through a series of life table analyses, this paper describes the natural history of tuberculosis mortality in a Mexican-origin community over five decades (1935-84) during which the disease underwent a transition from a major underlying cause of death to a disease conditioned mentioned more often on death certificates as contributing to death than causing death. The decline in death rates from 1940 to 1950 was especially remarkable. Successive birth cohorts of Mexican Americans, separated by as little as five years of age, experienced distinctly lower risk of death from tuberculosis as they entered young adulthood. There was a rapid convergence in age-specific patterns of tuberculosis death rates in Mexican Americans toward those of nonHispanic whites, so that by 1960 tuberculosis was primarily a cause of death in old age rather than young adulthood. The impact of changing environment, both through improvements of conditions within neighborhoods and through residential mobility, on birth cohorts at risk of tuberculosis needs to be examined in further research.
+
+At the beginning of the twentieth century tuberculosis was the third leading cause of death in the United States (U.S. Bureau of the Census, 1975), but by that time death rates from the disease had already declined over several decades from much higher levels. In Massachusetts, for example, where reliable mortality data are available to the mid-nineteenth century, tuberculosis crude death rates fell by nearly 50 per cent from 1861 to 1900 (ibid.). From 1900 forward, tuberculosis death rates in the United States continued their rapid descent, until by 1940, the disease accounted for barely 3 per cent of deaths. Such remarkable improvements were not confined to the United States. In England and Wales similar declines in tuberculosis mortality were also recorded before 1900, and there, as in the United States, over half of the overall decline from about 1850 to 1971 occurred in the nineteenth century (McKeown, 1976).
+
+Reductions in tuberculosis mortality began before Koch identified the tubercle bacillus in 1882, and before the widescale construction of sanitoria. There have been numerous speculations about the causes for the decline in tuberculosis ranging from hypothesized changes in the tubercle bacillus to secular downward trends in population fertility (cf., Wolf, 1938). However, improved nutrition, better quality food (especially milk), and generally better living conditions have been credited with falling tuberculosis death rates (Burns, 1935; McKeown, 1976).
+As might be expected of a disease with differential risk by socioeconomic status, not all segments of the United States population shared uniformly in the rapid national improvement in tuberculosis death rates. African Americans, American Indians, and Hispanic Americans all tended to lag well behind in lower tuberculosis mortality. Through a series of life table analyses, this paper describes the
+
+25
+
+26
+
+Bradshaw and Smith
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+natural history of tuberculosis mortality in a Mexican-origin community over five decades (1935-84) during which the disease underwent a transition from a major underlying cause of death to a disease condition mentioned more often on death certificates as contributing to death than causing death. Comparable results are presented for the non-Hispanic white population.1 Descriptive analyses are also presented of multiple cause data on the role of tuberculosis as a contributing cause, rather than an underlying cause. These data are especially useful in illustrating the long-term transformation of the disease in the populations of interest.
+PREVIOUS WORK
+There is an enormous literature on tuberculosis, and no attempt will be made to review it here except with respect to the Mexican-origin population in comparison with other populations. The high levels of tuberculosis morbidity and mortality in the Mexican-origin population were recognized early in this century, but the coverage in the literature is scant, probably because the population was concentrated in a few southwestern states, mostly in counties not far from the Mexico-United States border. Problems of ethnic identification in the census and vital statistics also hampered the investigation of tuberculosis in this population.
+
+Local public health officials in border states from Texas to California were well aware of the problem of tuberculosis in the Mexican-origin population. In Texas, in the late 1930's, the tuberculosis death rate for Mexican Americans was more than twice that of non-Hispanic whites, but in urban areas, such as San Antonio and Houston, the death rate was approximately seven times as great (Dublin, 1942). The border regions of Texas, with high concentrations of Mexican Americans, experienced tuberculosis death rates that were two to three times those of other regions in Texas. In California, the tuberculosis death rate for Mexican Americans was four times that of the total white population (Dublin, 1942). Dublin's findings are consistent with those by Burns, (1938), who reviewed data for Texas in 1930 and 1935, Lopez (1944), who reviewed data for California in the 1940's, and Werner (1940), who described tuberculosis mortality rates in New Mexico from 1935-39.
+Tuberculosis was still a major cause of death in the Mexican origin population in the 1950s, at least in San Antonio and Houston, for which Ellis (1959 and 1962) coded and tabulated mortality records. In both cities in 1950, male Mexican origin tuberculosis death rates were three times the Anglo rates, and among females the differential was even greater. Data for Texas in 1980 show little difference in death rates from tuberculosis as an underlying cause between Mexican-origin and Anglo males, but mortality of Mexican-origin women was twice that of Anglo women.2
+
+1Data for the African-American population are included in our data set, but they are not included in this analysis because the percentage of the population is small (about 6 to 8 per cent) as are the numbers of deaths. In addition, the literature on tuberculosis in the African-American population is already substantial.
+
+2Computed by the authors from unpublished data provided by the Texas Department of Health.
+
+Vol. 44, No. 1-2
+
+Tuberculosis Mortality
+
+27
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+In the 1980's morbidity and mortality data became more universally available for Hispanics. Rieder et al. (1989) reported that tuberculosis incidence rates among Hispanics in the United States were more than four times those of nonHispanic whites (18.7 compared with 4.3 cases per 100,000 population, respectively). The authors also show that the number of cases of tuberculosis among Hispanics and other minority groups was increasing compared with the nonHispanic white. While Rieder et al. do not treat persons of Mexican origin separately, it may be assumed that trends in the broader Hispanic population reflect tuberculosis morbidity trends in that population reasonably well.
+MATERIALS AND METHODS
+DATA
+The source of the tuberculosis mortality data is original death certificates for persons who died in Bexar County (San Antonio), Texas, during the years 1935-- 84. All death records for those years in the files of the San Antonio Metropolitan Health District were made available to this project. Excluding a few duplicate certificates, there were a total of 284,543 valid records. The data from the Metropolitan Health District include all deaths that occurred in San Antonio from 1935-65 and all deaths that occurred in the entire county from 1966-84. Prior to 1966, deaths that occurred within Bexar County, but outside the San Antonio city limits, were registered in other jurisdictions in the county. Because nearly all hospitals and other health care facilities were located in San Antonio, the majority of deaths to Bexar county residents living
+
+outside the city limits are also included in our file.
+To adjust for any underrepresentation of deaths in Bexar County, tabulations by age, sex, ethnicity, and cause of death were inflated to equal the totals published in the United States vital statistics reports. The difference in the project and published counts for San Antonio reflects intercounty and interstate reallocation of death certificates for residents of San Antonio who died outside the city. For Bexar County, the relative number of certificates unavailable for coding ranges from a high of 20 to 25 per cent in the 1930's and early 1940's to a low of 4 to 8 per cent from 1968 onward. The close correspondence in later years between the Bexar County and San Antonio differentials in the last two decades reflects the extension of the San Antonio Metropolitan Health District registration jurisdiction within Bexar County.
+Bexar County is a community in which large Mexican-origin and AngloAmerican populations have interacted for many generations. It was chosen for a general study of Mexican-origin mortality because virtually all of the resident Hispanic population is of Mexican origin (93 per cent in 1980). Local social and economic conditions and characteristics which may affect trends in mortality, and therefore data for the Mexican origin population of Bexar County, may not necessarily produce measures that would be exactly consistent with measures that might be based on data for the Mexicanorigin population in the United States as a whole (were such data available).
+The data were coded systematically for both demographic characteristics and causes of death. Coding of cause of death was carried out according to the Ninth
+
+28
+
+Bradshaw and Smith
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Revision of the International Classification of Diseases by nosological clerks trained by personnel at the National Center for Health Statistics to do multiple cause coding. All cause-of-death coding was in accordance with all NCHS standards of quality and quality control.
+There is some discontinuity in death certificate design and terminology over the fifty-year study period. Of particular concern are differences between the certificates used before and after 1949. Prior to 1949, information on the "primary" or "principal" cause of death was asked. The older certificates also included questions about "contributory" causes. "Primary" and "principal" causes are analogous to the "underlying" cause requested on later certificates. Broadly speaking, the format of cause-of-death information on the older certificates is the inverse of that on the modern ones. The primary (underlying) cause is listed first instead of last. To simplify processing the early data, nosologists coded the primary and contributory causes on the certificates as if they were all entered on one line. By this means the computer program used to select the underlying cause was forced (in general) to select the first cause listed on the older certificates. That would ordinarily be the certifier's selected underlying cause.
+The changes in the death certificate format during the study period are not a major problem. The net effect of the certificate changes appears to be insignificant. There is no shift, for example, in the ratio of total mentions of tuberculosis (or other causes) to underlying cause mentions around 1949, or any other evidence of discontinuity that might be attributable to change in certificate design.
+Persons of Mexican origin are identified as white persons of Spanish surname,
+
+a procedure which past research has shown to yield consistent and reproducible results that in some respects are preferable to those obtained from data on Mexican-origin decedents as identified by survivors (Rosenwaike and Bradshaw, 1988). Furthermore, the Spanish surname identifier is the only one available prior to about 1980. The San Antonio mortality data provide a unique source for investigating the natural history of causes of death. To our knowledge, they are the only source for detailed study of mortality of persons of Mexican origin over such a long period of time.
+METHODS
+Most of the results presented in the paper are estimated from (a) multiple decrement life tables, which provide distributions of deaths by age and underlying cause that would occur in a hypothetical cohort of 100,000 newborns followed to their deaths, and (b) cause-eliminated life tables showing the distributions of deaths as they would appear if tuberculosis were eliminated. For both types of life tables, conventional abridged life tables were constructed using the Bexar County death files and U.S. census populations and intercensal estimates.
+For the multiple decrement life tables, the 5dx terms of the abridged life tables (life table deaths between ages x and x + 5) were distributed by cause as a proportion of total deaths by age in each age interval (5DX-/5DX), that is, where 5D . is recorded deaths due to cause./ (tuberculosis). The cause-specific life table terms, 5dxp that were generated were then summed to yield lx ·, the number of all of those in the life table who would die of tuberculosis beyond age x. The initial terms l0 ·, are the sums over all ages of
+
+Vol. 44, No. 1-2
+
+Tuberculosis Mortality
+
+29
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+life table deaths due to tuberculosis. From the / · series, 75e0 . or goei5j terms were computed, representing the life expectancy from birth to age 75 and from age 15 to age 75, respectively, for persons dying of the disease. The tables are restricted to ages under 75 because of the relatively poor quality of age reporting after that age. Also, selected tables for Mexican immigrants were restricted to ages 15 to 75 because of the small numbers of persons under 15 who were born in Mexico.
+For the cause-eliminated life tables, spxj and 5qxj terms (5-year survival probabilities and death probabilities, respectively, between ages x and x + 5) were estimated by raising the life table 5px terms to the powers of 5DXLDX (Greville's formula). The mortality probabilities 5g · found in this manner are probabilities of dying of each cause after removing the effects of competing risks due to all other causes. These probabilities are used in preference to multiple decrement mortality probabilities because in the first decades of the study period differences in life expectancy between the Mexican-descent and Anglo populations were very large for several causes of death. In such circumstances, cause-eliminated probabilities provide a better indication of the underlying mortality hazard than do the observed rates. Hazard and cause-eliminated mortality probabilities are linked through the approximate relationship MU · = In (1--,o ,)/5, where
+X,J D X,J
+MUxj is the mortality hazard for the cause of interest and is related to the overall hazard MUr by MIL = 2,-MU .. The overall and single-cause hazards are typically close to age-specific death rates which lend them an intuitive interpretation.
+All life tables were constructed using the life table program for personal com-
+
+puters SURVIVAL 4.1 (Smith, 1995), and the linear life table formulas in that source and in Smith (1992).
+RESULTS
+1. Temporary Life Expectancy.--In 1940 (i.e., average 1938^2), temporary life expectancy from birth to age 75 (15e0) of the Mexican-origin population in Bexar County was about 47 for both males and females, or approximately the same as life expectancy of the United States population in 1900 (Table 1). The similarity of the male and female life expectancies is notable, and hints at the predominance of infectious diseases, such as tuberculosis, that tended to afflict both sexes to about the same degree. Life expectancies of Anglos were much higher (56.3 for males and 61.3 for females), but nevertheless still lagged behind the United States as a whole, being comparable to U.S. life expectancies of 1930. As the data in Table 1 show, from 1940 to 1980 there was a steady trend toward convergence of life expectancies of the ethnic groups, so that by 1980, the differences had almost disappeared. It is also noteworthy that during the secular improvement in Mexican-origin mortality, females improved more rapidly, thus leading to the familiar advantage of females with respect to males.
+The most rapid increases in life expectancy among either persons of Mexican origin or other white persons occurred during the 1940's, but increases among the former group were much greater. Between 1940 and 1950, temporary life expectancy between 0 and 75 of Mexican-origin women rose by 12.7 years, and of Mexican-origin men by 10.3 years. The comparable figures for
+
+30
+
+Bradshavv and Smith
+
+Social Biology
+
+TABLE 1
+TEMPORARY LIFE EXPECTANCY TO AGE 75 (75EO) FOR HISPANIC AND OTHER WHITE PERSONS BY SEX, BEXAR COUNTY, TEXAS, 1938-42 TO 1978-82
+
+CENTRAL YEAR
+1940 1945 1950 1955 1960 1965 1970 1975 1980
+
+MEXICAN ORIGIN
+
+Male
+
+Female
+
+46.8 46.9 51.7 52.8 57.1 59.6 60.2 62.6 63.4 65.8 63.3 66.6 63.2 67.5 64.1 68.6 65 0 69.7
+
+OTHER WHITE
+
+Male
+
+Female
+
+56.3 61.3 59.7 64.1 63.3 67.0 64.4 67.9 65.6 68.8 65.7 68.9 65.8 69.0 66.3 69.5 66.8 70.0
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Anglo women andmen were 5.7 years tonio Mexican-origin population pre-
+and 7.0 years, respectively. There were sented the aspect of a mid-nineteenth-
+also very substantial increases (over 6.0 century population. Theprobabilities of
+years) in life expectancy of Mexican- tuberculosis death in the 1940 Anglo life
+origin men and women inthe 1950's, but tables, on the other hand, were almost
+after that decade, improvement was much identical tothose inthe United States life
+slower. The 1950's were also the last tables for the same year (about 3 per
+decade ofrelatively rapid improvement in cent) (Preston etal., 1972).
+Anglo life expectancy. Control of death The 1940 life table death rates correfrom tuberculosis was oneof the major sponding to the probabilities of tubercureasons for the great increase in lifeex- losis death between birth and age 75 were pectancy between 1940 and 1950, espe- about 290 per 100,000 for Mexican origin cially for the Mexican-origin population, men andwomen (Table 2).These rates but also for Anglos. Thefollowing sec- were five and seven times those ofAnglo tions describe insome detail how age spe- males and females, respectively. cific and cohort changes in tuberculosis re- Five-year age-specific probabilities of sulted in these remarkable improvements. death for tuberculosis in 1940-60 (i.e.,
+2. Life Table Probabilities of Dying 1938-42 to 1958-62), independent of from Tuberculosis.--Among Bexar County other causes, for the Bexar County MexiMexican-Americans in the five-year peri- can-origin and Anglo populations reveal od around 1940, the probability of dying the major ethnic differences to be qualitafrom tuberculosis between birth andage tive aswell asquantitative (Figures1-4). 75 was over 13per cent (i.e., 13,571 of Note that Figures 1 and3 for Mexican100,000 total life table deaths) (Table 2). origin males andfemales are drawn on The comparable life table figure for the different scales than those used inFigures United States in 1900 wasabout 8 per 2 and 4 for Anglo males and females. The cent (Preston etal., 1972). Inother words, maximum value inthe former is 0.04000, with respect to tuberculosis, the San An- whereas in thelatter it is only 0.00900.
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Vol. 44, No.1-2
+
+Tuberculosis Mortality
+
+31
+
+TABLE 2
+PROPORTION OF LIFE TABLE DEATHS DUE TO TUBERCULOSIS (LO ,/LO) AND LIFE TABLE TUBERCULOSIS DEATH RATES (TO , / 7 5 T O ) FOR MEXICAN ORIGIN AND OTHER WHITE PERSONS BY SEX, BEXAR COUNTY, TEXAS, 1938-42 TO 1978-82"
+
+CENTRAL YEAR BY SEX
+Male 1940 1945 1950 1955 I960 1965 1970 1975 1980....
+
+MEXICAN ORIGIN
+
+'o.A
+
+'o.;'75ro
+
+0 13571 0 10716 0 08404 004012 0 03051 0 02386 0.01257 0.00520 0 00430
+
+290 0 207 3 147.2 66 6 48 1 37.7
+19.9 8.1 66
+
+'0/0
+
+OTHER WHITE
+'a/75^0
+
+0.03149 0.02352 0.01978 0.01042 0.01057 0.00557 0.00386 0.00189 0.00110
+
+55.9 39.4 31.2 16.2 16.1 8.5 5.9 2.9
+1.6
+
+Female 1940 1945 1950 1955 .. 1960 1965 1970... 1975 1980
+
+0.13772 0.10523 0.06708 0.03348 0.01751 0.01579 0.00582 0.00365
+0.00417
+
+"Life table death rates per 100,000 persons.
+
+293.6 199.3 112.6 53.5 26.6 23.7
+8.6 5.3
+6.0
+
+0.02497 0.01605 0.00868 0.00480 0.00355 0.00140 0.00248 0.00154
+0.00049
+
+40.7 25.0 13.0 7.1 5.2 2.0 3.6 2.2
+0.7
+
+The objective of the figures is to emphasize patterns of age-specific rates as well as toconvey values.
+The age-specific distributions of probabilities in the 1940Mexican descent population (Figures 1 and 3) trace the classic pattern oftuberculosis asa disease with heavy fatality in early adulthood, when the cumulative damage produced by the bacillus ceases tobe offset by lung growth. Among both males and females, the probabilities rose sharply throughthe teenage years and reached a peak risk of over 3 per cent at age 20-24. Over the20 years of age between 15 and 35 the unadjusted (conditional) probability reached 9 per cent and would have been 10 per cent in the absence ofother risks. Inthe Anglo
+
+population, however, tuberculosis hadby 1940 already largely become a disease of old age, theonly individuals still at high risk being persons whomay havecontracted the disease before or near the turn of the century when it was farmore prevalent (Figures 2 and 4). Over the same age interval 15-34, the unadjusted and adjusted 20-year probabilities were not above 1 percent in themale and female Anglo populations. In both Mexicanorigin and Anglo populations persons over 35 were survivors from periods of somewhat greater risk.
+By 1945, the cumulative probability of dying of tuberculosis between ages 15 and 35had declined from 9 per cent to 5 per cent among Mexican-descent males
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+32
+
+Bradshaw and Smith
+
+Social Biology
+
+·1940 x.TB
+0.050
+0.040 -
+0.030 -
+
+1945
+
+1950
+
+1955 1960
+
+0.020 -
+
+0.010 -
+
+0.000
+
+10 20 30 40 50 60 70
+
+FIG. 1.--Age-specific probabilities of dying from tuberculosis, Mexican-origin males, Bexar County, 1940-1960.
+
+·1940
+5<\X, T B
+0.025
+
+1945
+
+1950
+
+1955
+
+1960
+
+FIG. 2.--Age-specific probabilities of dying from tuberculosis, Anglo males, Bexar County, 1940-1960.
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Vol. 44, No. 1-2
+
+Tuberculosis Mortality
+
+33
+
+1940 5<lx, TB 0.050
+
+1945
+
+1950
+
+1955 1960
+
+0.040 -
+
+0.030 -
+
+0.020 0.010 -
+
+0.000
+
+10 20 30 40 50 60
+
+FIG. 3.--Age-specific probabilities of dying from tuberculosis, Mexican-origin females, Bexar County, 1940-1960.
+
+·1940
+x, TB O.C 0.022 0.020 0.018 0.015 0.013 0.010 0.007 0.005 0.003 0.000
+
+1945
+
+1950
+
+1955 1960
+
+FIG. 4.--Age-specific probabilities of dying from tuberculosis, Anglo females, Bexar County, 1940-1960.
+
+34
+
+Bradshaw and Smith
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+and from 10 per cent to 7 per cent among Mexican-descent females, respectively (Figures 1 and 3). The peak ages of risk remained 20-24, but a shift toward becoming a disease of old age is clearly evident by comparison with the 1938^2 distribution. For the Anglo population, the probability was under 0.5 per cent.
+Mortality probabilities for ages 15 to 35 fell to 2 per cent for Mexican-descent males and females in the 1950 (1948-52) period, and for the first time fell below the mortality probabilities for ages 55 and above, the latter remaining near their previous levels.
+The rapidity of the change in tuberculosis mortality is brought out particularly sharply in the changing mortality prospects of birth cohorts of Mexican descent reaching age 15 in 1938^2 (Figure 5) and in 1943^47 (Figure 6). For the earlier cohort, the figure displays the 1938^2 mortality probabilities for the combined sexes, together with the actual probabilities the cohort experienced as members aged from 1940-80 (i.e., from age 15-19 to 50-54). For both males and females, the mortality probability had lessened by age 20 in 1945 (the first cohort for it to do so) and fell to near zero by age 30. In the cohort reaching age 15 in 1945, the mortality probability was only half as great to age 20, in 1950, and had fallen to near zero by age 25, in 1955. As in the earlier cohort, the cohort probabilities fell immediately and sharply below the period rates of 1943^7.
+The completion of the transition in tuberculosis mortality in the Mexican-origin population can be seen in the data for the subsequent 5-year period around 1960. By that quinquennium nearly all tuberculosis deaths were probably due to the lingering effects of morbidity from infections that predated streptomycin, or from untreated
+
+cases. A comparison of Figures 1-4 will indicate the progressive aging of the tuberculosis death cohorts that was then occurring, and the near total absence of tuberculosis deaths prior to midlife in the 1960 data.
+3. Life Expectancy of Persons Dying from Tuberculosis and Added Years of Life.--Over the transition in tuberculosis mortality in the Mexican-origin population from 1938^2 to 1958-62, the life table proportion of deaths due to tuberculosis fell approximately linearly. The change represents both a large absolute and a large relative decline in the contribution of tuberculosis to the ethnic mortality difference. For the Mexican-descent population, the life expectancy for those dying of tuberculosis rose by more than 20 years, from below age 35 to age 55 during the same period (Figure 7). The change among Anglos was from about 50 years of age to about 60 years, or from a 15-year advantage to a 5-year advantage relative to individuals of Mexican descent.
+As would be expected from the above results, the potential years of life that would be added by elimination of tuberculosis as a cause of death diminished sharply between 1940 and 1960, and by 1980, the effect of elimination would be negligible (Table 3). In 1940, however, because of the concentration of high mortality in young adulthood, the added years of life would have been substantial--5.8 and 6.2 years, respectively, to temporary life expectancy of Mexican-origin males and females. In both the Mexican-origin and the Anglo population, added years of life were more than halved between 1940 and 1950. Subsequent to these changes, by 1958-62 Bexar County Anglo mortality from tuberculosis was on the order of 1per cent of life table deaths, and by
+
+Vol. 44, No. 1-2
+
+Tuberculosis Mortality
+
+35
+
+x,TB 0.050
+
+Males
+
+Females
+
+Calendar 1938-1942
+
+0.040 -
+
+0.030 -
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+0.020
+
+0.010 -
+
+0.000 15 20 25 30 35 40 45 50 55 60
+
+FIG. 5.--Age-specific probabilities of dying from tuberculosis, Bexar County Mexican-origin birth cohort, 1920-1925.
+
+x,TB 0.050
+
+·Males
+
+Females
+
+Calendar 1943-1947
+
+0.040 -
+
+0.030 -
+
+0.020 -
+
+0.010
+
+0.000 15 20 25 30 35 40 45 50 55
+
+FIG. 6.--Age-specific probabilities of dying from tuberculosis, Bexar County Mexican-origin birth cohort, 1925-1930.
+
+36
+
+Bradshaw and Smith
+
+Social Biology
+
+MX origin males MX origin females
+
+Anglo males Anglo females
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+30.0 -
+
+20.0 1940 1945 1950 1955 1960 1965 1970 1975 1980 1984 Central year
+FIG. 7.--Life expectancy at birth of persons dying from tuberculosis by ethnicity, sex, and period, Bexar County, 1938^*2 to 1983-85.
+
+1968-72, on the order of 0.25 per cent. Because of the burden of tuberculosis in aging cohorts, the rate continued higher in the Mexican-descent population, remaining near 0.5 per cent as of 1978-82. Because the deaths came to be almost wholly concentrated at the oldest ages, they ceased to contribute measurably to life expectancy differences between the Anglo and Mexican-descent populations about 1970.
+Of the total difference in temporary life expectancy between Anglo and Mexican-American males and females in 1940 (9.5 years and 14.3 years, respectively), a substantial amount can be attributed to differences in tuberculosis mortality rates (Table 4). In 1940, 4.0 years, or 42 per cent, of the difference between the male populations was due to tuberculosis mortality among MexicanAmericans. Mexican-American females
+
+in 1940 had an even greater disadvantage due to tuberculosis (4.7 years of life), but the disease accounted for a smaller percentage of the overall difference in life expectancy (33 per cent). Over the 20 years from 1940 to 1960, the disadvantage in Mexican-origin years of life expectancy attributable to tuberculosis declined dramatically in both the male and female populations by over 94 per cent, and by 1980, only a few hundredths of a year in life expectancy could still be attributed to that cause.
+4. Tuberculosis as an Underlying and Contributing Cause of Death.--To this point we have discussed tuberculosis as an underlying cause of death. However, as indicated earlier, and as shown graphically in Figure 8, a steadily decreasing percentage of persons in the life table cohort who died with tuberculosis had that disease
+
+Vol. 44, No.1-2
+
+Tuberculosis Mortality
+
+37
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 3
+AVERAGE YEARS OF LIFE ADDED BETWEEN BIRTH AND AGE 75 BY ELIMINATION OF TUBERCULOSIS, FOR HISPANIC AND OTHER WHITE PERSONS BY SEX, BEXAR COUNTY, TEXAS, 1938-42 TO 1978-82
+
+CENTRAL YEAR
+1940 1945 1950 1955. I960 1965 1970 1975 1980
+
+Male
+5.793 3.751 2.049 0.686 0.399 0.279 0.091 0.038 0.047
+
+MEXICAN ORIGIN
+
+Female
+6.236 4.256 2.057 0.802 0.334 0.112 0.032 0.022 0.029
+
+Male
+0.736 0.555 0.356 0.119 0.092 0.054 0.026 0.023 0.002
+
+OTHER WHITE
+
+Female
+0.692 0.452 0.204 0.062 0.049 0.013 0.015 0.008 0.012
+
+TABLE 4
+DIFFERENCE IN LIFE EXPECTANCY OF MEXICAN-ORIGIN AND ANGLO MALES AND FEMALES FROM BIRTH TO AGE 75, AND DIFFERENCE ATTRIBUTABLE TO TUBERCULOSIS MORTALITY,
+BEXAR COUNTY, TEXAS, 1938-42 TO 1978-82
+
+CENTRAL YEAR
+1940 1945 1950 1955
+I960 1965 1970 1975 1980
+
+MALE
+
+Difference in Life Expectancy
+
+Total
+
+Due to TB
+
+Per Cent
+
+9.5 3.99 8.0 2.72 6.1 1.46 4.2 0.46 2.2 0.22 2.4 0.14 2.6 0.05 2.2 0.02 1.8 0.04
+
+42.0 34.0 24.0 11.0
+100 6.0 2.0 1.0 2.0
+
+FEMALE
+Difference in Life Expectancy
+Total Due to TB Per Cent
+14.3 4.72 33.0 11.3 3.39 30.0 7.4 1.70 23.0 5.4 0.59 11.0 3.1 0.28 9.0 2.3 0.14 6.0
+1.5 0.03 2.0 0.9 0.02 2.0 0.3 0.02 7.0
+
+listed as their underlying cause of death. Whereas in 1938-42, 96 per cent ofMexican Americans and 88 per cent ofAnglos who died with tuberculosis hadthat disease selected as the underlying cause of death, by 1983-85, the comparablepercentages were each 41 per cent. Except for the latest years, when the numbers of tuberculosis-associated deaths are small, the trend in the graph is uniformly downward after 1950 among Mexican Americans and after 1940 among Anglos. While the trends for both groups were nearly parallel, the percentage of life table deaths
+
+with tuberculosis as an underlying cause was always greater among Mexican Americans. The trends formales and females in both populations were similar, and therefore, are not displayed in Figure8.
+The shift from tuberculosis as an underlying cause of death to an associated cause isdue both toa reversal of ordering for causes that were frequently mentioned along with tuberculosis in the earlier years ofthe study period (e.g., pneumonia and influenza and other respiratory diseases), and to tuberculosis being mentioned in association with diseases of
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Mexican origin - " · " ""-- Anglo
+
+100 T
+90 -j^
+80 --
+70 +
+i
+60 |
+50 |
+40 -Ii i
+30 r
+20
+10
+
+1940
+
+1945
+
+1950
+
+1955
+
+1960 1965
+Central year
+
+1970
+
+1975
+
+1980
+
+1984
+
+FIG. 8.--Per cent of all life table tuberculosis deaths where the disease was assigned as an underlying cause, by ethnicity, Bexar County, 1937^42 to 1983-85.
+
+3
+Q.
+aaa.
+5
+o
+
+Vol. 44, No. 1-2
+
+Tuberculosis Mortality
+
+39
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+aging (e.g., cancer and cardiovascular diseases) to which it was not formerly linked. In both cases the ordering reflects its waning significance as a cause of death once chemotherapies were available to arrest it. These changes occurred in association with the increasing life expectancy of persons who died from (or with) tuberculosis.
+DISCUSSION
+This paper describes the natural history of tuberculosis mortality in one large urban Mexican-origin population. The decline in death rates from this cause from the 1930's to the 1980's, and especially from 1940 to 1950 in San Antonio was indeed remarkable. Successive birth cohorts of MexicanAmericans, separated by as little as five years of age, experienced distinctly lower risks of death from tuberculosis as they entered young adulthood. As our data show, there was a rapid convergence in agespecific patterns of tuberculosis death rates in Mexican-Americans toward those of Anglo Americans, so that by 1960 tuberculosis was primarily a cause of death in old age rather than young adulthood. At the same time it receded in importance as an underlying cause and increasingly became a condition associated with death in some other role.
+As noted earlier, there has been extensive speculation about causes for the longterm decline in tuberculosis mortality in the United States and Europe. Those declines, however, while continuous, occurred over several decades, not in the course of only two, as in San Antonio. What accounted for the exceptionally rapid improvement in the city's Mexican-origin population? There were factors in play that must be
+
+considered and will be the subject of future research.
+There is no question that housing conditions in San Antonio, at least for the Mexican-origin population through the early 1940's, was as crowded and miserable as any in the United States (cf., Blackwelder, 1984; Garcia, 1991). A preliminary mapping of the residential addresses of tuberculosis decedents in 1940 shows most of them to have lived in neighborhoods with minimal or no indoor running water and sanitation, and with other indicators of substandard living conditions. These conditions probably contributed to development and spread of tuberculosis. Major housing renewal, slum clearance, and code enforcement during the 1940's and 1950's very likely contributed to a reduction in tuberculosis morbidity.
+Certain intriguing questions have arisen with respect to the possible reasons for the extremely rapid improvement in tuberculosis mortality. These questions need to be addressed not only for San Antonio, but also for other communities, and they are broader than tuberculosis. The membership of successive birth cohorts comprising the population of any urban community is not closed to migration as the cohorts age. That is, as persons move into and out of a community, membership of cohorts and the characteristics of members may be different at the end of a decade than would have been the case had the community been closed to mobility and subject only to mortality. For example, in San Antonio, the Mexican-origin cohort aged 20-29 in 1940, by the time surviving members aged to 30-39 in 1950, had a different membership composition with respect to nativity (i.e., the proportion born in Mexico), earlier living conditions, and
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+40
+
+Bradshaw and Smith
+
+Social Biology
+
+exposure to infection. Only a few of such cohort-specific factors can be examined with our data, including net migration by nativity status. Some other facts can be investigated by linking birth and death certificates to census blocks and tracts of residence for purposes of examining changing social, economic, and environmental characteristics of neighborhoods. Birth addresses especially are of interest in regard to tuberculosis because they reflect the distribution of cohorts of young adults at greatest risk of death at the beginning of our study. Mapping of a sample of addresses of birth mothers in 1940 and 1950 shows an incipient movement of Mexicanorigin persons to areas of the city where housing was better than in the old West Side slums. The redistribution, of course, may be a consequence of residential selection by new migrants to the community. In either case, period mortality rates reflect frequency of events at a specific moment, regardless of changes in person-specific characteristics within cohorts or broader community-level changes that may affect all persons over time. The impact of changing environment, both through improvements of conditions within neighborhoods and through residential mobility, on birth cohorts at risk of disease needs to be examined in more detail.
+
+For all of these issues, the 1940-54 period constitutes a critical window of opportunity for investigation. In the early 1950's the importance of environmental factors was diminished abruptly, as antibiotics erased the heterogeneity that had characterized exposure and illness in the Mexican-origin and Anglo populations up to that time. The postwar changes in living conditions might have had the same effect over a longer period and may greatly limit the risk of a resurgence of tuberculosis in our own time, even with the antibiotic resistance that the bacillus is now displaying. The importance of living conditions is not always appreciated, but was the major contributor to the pre-1950 decline in tuberculosis in the Anglo population, and in the convergence that was already evident in the Mexican-origin population when antibiotics came into use.
+ACKNOWLEDGMENTS
+The authors gratefully acknowledge grants from National Institute of Child Health and Human Development (HD22491) which supported research underlying this report. The authors also wish to thank the San Antonio Metropolitan Health District for providing the death certificate data on which the work is based.
+
+REFERENCES
+
+BLACKWELDER, J. 1984. Women of the Depression: Caste and culture in San Antonio, 1929-1939. Texas A&M Univ. Press, College Station.
+BURNS, A. 1938. The tuberculosis program of the Texas State Department of Health. Tex. State J. Med. 33:257-261.
+BURNS, H. 1935. Factors influencing the decline in the tuberculosis death rate. Lancet 55:411-417.
+DUBLIN, L. 1942. The mortality from tuberculosis among the race stocks of the Southwest. Amer. Rev. Tuberculosis 45:61-74.
+
+ELLIS, J. 1959. Mortality differences for a Spanishsurname population group. Southwest. Soc. Sci. Quart. 39:314-321.
+. 1962. Spanish surname mortality differences in San Antonio, Texas. J. Hlth. Hum. Behav. 3:125-127. GARCIA, R. 1991. Rise of the Mexican American middle class: San Antonio, 1929-1941. Texas A&M Univ. Press, College Station.
+LOPEZ, M. 1944. Mexicans and tuberculosis. Calif. West. Med. 61:103-104.
+
+Vol. 44, No.1-2
+
+Tuberculosis Mortality
+
+41
+
+MCKEOWN, T. 1976. The modern rise of population. Edward Arnold, London.
+PRESTON, S., N. KEYFITZ, and R. SCHOEN. 1972.
+Causes of death: Life tables fornational populations. Seminar Press, New York.
+RIEDER, H., G. CAUTHEN, G. KELLY, A. BLOCH, and
+D. SNIDER. 1989. Tuberculosis in the United States. J.Amer. Med. Assoc. 262:385-389.
+ROSENWAIKE, I., and B. BRADSHAW. 1988. The status
+of death statistics forthe Spanish origin population of the Southwest. Soc. Sci. Quart. 69:722736.
+SMITH, D. 1992. Formal demography. Plenum, New York.
+
+. 1995. Life Table Program SURVIVAL4.1 and users' guide. University of Texas School of Public Health, Houston.
+U.S. BUREAU OF THE CENSUS. 1975. Historical sta-
+tistics of the United States, Colonial times in 1970, Bicentennial edition. Washington, D.C.
+U.S. PUBLIC HEALTH SERVICE. 1991. International
+classification of diseases, 9th revision. U.S. Government Printing Office, Washington. WERNER, W. 1940. The problem of tuberculosis in New Mexico. Southwest. Med. 24:404-408. WOLFF, G. Tuberculosis and civilization, Part II. Interpretation ofthe etiological factors in the epidemiology oftuberculosis. Hum. Biol. 10:251-284.
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+

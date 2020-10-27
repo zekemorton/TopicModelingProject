@@ -1,0 +1,991 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+A social contagion model of adolescent sexual behavior: Explaining race differences
+David C. Rowe & Joseph Lee Rodgers
+To cite this article: David C. Rowe & Joseph Lee Rodgers (1994) A social contagion model of adolescent sexual behavior: Explaining race differences, Social Biology, 41:1-2, 1-18, DOI: 10.1080/19485565.1994.9988856 To link to this article: http://dx.doi.org/10.1080/19485565.1994.9988856
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 8
+View related articles
+Citing articles: 2 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:45
+
+A Social Contagion Model of Adolescent Sexual Behavior: Explaining Race Differences
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+David C. Rowe and Joseph Lee Rodgers
+School of Family and Consumer Resources, University of Arizona, Tucson, Arizona 85721; and Department of Psychology, University of Oklahoma, Norman, Oklahoma 73019
+
+ABSTRACT: Black adolescents in the United States consistently report an earlier age of first intercourse than White adolescents. Purely psychosocial explanations of this finding have been less than successful. We propose an "epidemic" model that combines social contagion (a psychosocial process) and pubertal maturation (a biological process). This epidemic model permits social contacts among adolescents of the same age and also among younger and older adolescents. The model statistically fit the actual growth curve of sexuality well for Whites; its fit was not as good for Blacks. From computer simulation analyses, we concluded that pubertal maturation may be more important in accounting for the racial difference in the onset of sexual intercourse than previously thought.
+
+Race differences in rates of sexual behavior have been reported in most American studies of African American and Caucasian adolescents. Black adolescents usually report an earlier onset of sexual behavior than White adolescents. Understanding the origin of this racial difference is important for public policies aimed at reducing the negative consequences of precocious sexuality, including the spread of sexually transmitted diseases (especially AIDS) and the attenuation of life-time opportunities because of child care responsibilities (Hayes, 1987).
+Many psychological variables that explain variation in sexual intercourse onset within racial groups become much weaker, however, as explanations of racial differences. For example, earlier onset of sexual intercourse usually occurs in lower social classes. Nevertheless, in two independent studies of representative data sets, statisti-
+
+cal controls for indices of social class (education, income) failed to reduce race differences in the onset of intercourse (Furstenberg et al., 1987; Weinberg and Williams, 1988). Moreover, Furstenberg et al. (1987), using the National Survey of Children, explored other variables prominent in theories of adolescent sexuality. They calculated the log-odds of sexual intercourse as 3.7:1 in favor of Black adolescents, and then recalculated them after introducing various control variables. Variables measuring parents' work status, father's presence or absence, school performance, educational aspirations, and role expectations for parenthood all failed to reduce the log-odds favoring Black adolescents. The sole variable resulting in a log-odds reduction (from 3.7 to 1.8) was the respondents' report of friends' sexual intercourse. This peer measure, however, is but a restatement of the situation that we
+
+1
+
+2
+
+Rowe and Rodgers
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+seek to explain: the greater prevalence of intercourse among Black peers than White peers.
+As ordinary psychological and social variables may fail as explanatory mechanisms, we believe that some other influence must contribute to this racial difference. For instance, Washington (1982) suggested that this missing explanatory influence was a persistence of African heritage and a "sex positive" culture among Blacks. The existence of different social norms, however, may beg the question as to why such cultural norms persist.
+Instead, we propose differences in the timing of pubertal maturation in Black and White adolescent females as an explanation of their racial difference (Harlan et al., 1980; National Heart, Lung, Blood Institute, Growth and Health Study Research Group, 1992). Pubertal maturation has the desirable property that helps explain variation in sexual behavior within both Black and White populations (Bingham et al., 1990; Buck and Stavraky, 1967; Cutler et al., 1979; Flannery et al., 1991; Udry, 1979, 1988; Zabin et al., 1986).
+The work of Udry and his colleagues indicates that pubertal development has a direct effect on sexual interest and behavior, independent of social reactions to changes in physical appearance (Udry et al., 1985; Udry et al., 1986). Nonetheless, pubertal timing has not been a major contender in previous explanations of racial differences. Furstenberg et al (1987, p. 512) criticized it on the grounds that nearly all girls reached pubertal maturity by age 15 and on the grounds that some Black males reported pre-pubertal sex-
+
+ual intercourse. The Panel on Adolescent Pregnancy and Child Rearing noted the tendency of Black girls to be more mature than white girls, but they decided that the differences in physical maturity were too small to explain the race difference (Hayes, 1987, p. 97).
+We believe that the possible impact of female maturation timing has not been appreciated because researchers have thought in terms of linear effects only. Linear regression models consider the maturation status of the individual, but not that of the group in which he or she is embedded. We propose an "epidemic" modeling approach that views sexuality in the context of a social contagion process. In our "epidemic" models, individual risk is highly influenced by group characteristics. In particular, our models are designed to fit prevalence data across time, in which the prevalences reflect the number or percentage of members of some group who have ever performed a certain behavior. When such behaviors are at least partially under social influence, then we expect social contacts within the network to "spread" the behavior.
+These models are in a sense simulations of the interaction process that helps such behaviors to spread. There are two basic types of contacts simulated by our models that can lead to spreading the behavior of interest: epidemic and nonepidemic contacts. Epidemic contacts occur when someone who has already performed the behavior comes in contact with someone who has not; with some probability, the "carrier" will influence the "susceptible" to perform the behavior. Nonepidemic contacts occur when two "sus-
+
+Vol. 41, No. 1-2
+
+Adolescent Sexual Behavior
+
+3
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+ceptibles" come in contact with one another; with some different probability, they may perform the behavior together spontaneously. Thus, to call these "epidemic models" only reflects their epidemiological origin. In fact, they model both epidemic and nonepidemic spread of relevant behaviors with equal facility.
+We refer to this general class of models as "epidemic models of the onset of social activities" (EMOSA models, Rowe, Gulley, and Rodgers, 1992; Rowe et al., 1992; Rowe and Rodgers, 1991a, 19916; Rowe, Rodgers, and Meseck-Bushey, 1989). The mathematical structures that underlie the EMOSA modeling approach itself are anything but new. The application of the modeling approach to adolescent transition behaviors is the "innovation." Such models have been used for a long time by epidemiologists interested in the spread of biological organisms--viruses, for examplethrough a social community, by sociologists interested in the diffusion of innovations (Hamblin et al., 1973), and by biologists interested in modeling cultural transmission in addition to genetic transmission (Cavalli-Sforza and Feldman, 1981). Many social behaviors are under the control of social contagion processes, and they can be readily modeled with appropriate mathematical formulations. In a sense, many adolescent transition behaviors (e.g., smoking, sexual behavior, or even playing in the band) are rediscovered by each cohort, as new social "innovations" to be spread through the adolescent social network.
+We use some terms taken directly from epidemiological models (e.g.,
+
+"contagion," "carriers," "susceptibles") that are helpful because they give an intuitive understanding of the models. We note that our models are mute with respect to issues of morality; nor do we imply that any type of biological epidemic is involved in the social contagion process.
+The EMOSA sexuality models (which have only been defined for voluntary heterosexual behavior) specify a two-state mixing population of males and females in which cross-sex individuals meet randomly and in which nonvirgins are the potential "carriers" of sexual intercourse. The rate of spread of sexual intercourse depends strongly on the number of nonvirgins in the population at any time. The model also accounts for noncontagious spread as well, which occurs when two virgins become nonvirgins together. A critical feature of the model is the ability to introduce filters, that are like "covariates" in ordinary regression models. The filters can be used to specify certain restrictions on the mixing population. For example, an important filter will be introduced in which only pubertally mature females are eligible to become nonvirgins.
+In a randomly mixing population, with proportions Pm of male nonvirgins and P/of female nonvirgins, the probabilities of two opposite-sex individuals randomly encountering one another are Pm(l-Pf), Pf(l-Pm), and (1--Pm) (1--Pf), for an encounter between nonvirgin males and virgin females, nonvirgin females and virgin males, and virgin males and virgin females, respectively. Because our model assumes that only pubertally mature females will initiate sexual
+
+Rowe and Rodgers
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+activity, we restrict the mixing female ilarly interpreted as the average num-
+
+proportion to mature females of a ber of effective contacts made by vir-
+
+given age proportion (Ma, where "a" is gin males with virgin females (or vice an age in years). Two recursive equa- versa). The parameters Tnm and Tnf
+
+tions with the rate parameters Tnm, represent .averages over the popula-
+
+Tnf, and k define our model:
+
+tion of male and female nonvirgins, re-
+
+spectively; some individuals may have
+
+(1) Pma+1 = Pma + TnfPfa(\-Pma) no effective contacts, some one, some
+
++ kMa(\-Pma) ( 1 - P / J ,
+
+two, etc., in a given year. The param-
+
+and eter values summarize the effects of so-
+
+(2) Pfa+1 = Pfa + TnmMaPma(l-Pfa) cial and psychological influences pn the
+
++ kMa{\-Pma) ( 1 - P / J ,
+
+contagion of sexual intercourse. When
+
+the parameter values are large, sexual
+
+where "a" is the age period (i.e., 10 intercourse is being "transmitted" years, 11 years, etc.); Pm is the pro- more rapidly than when they are small.
+
+portion of male nonvirgins; Pf is the Two important assumptions of this
+
+proportion of female nonvirgins; Ma is the proportion of pubertally mature females at the age "a";1 Tnf is a rate parameter for nonvirgin females con-
+
+model are (1) random mixing, and (2) within-age contagion. The random mixing assumption asserts that an adolescent is equally likely to encounter
+
+tacting virgin males; Tnm is a rate pa- any other adolescent. In reality, adorameter for nonvirgin males contacting lescents belong to friendship cliques
+
+virgin females; and k is a rate param- and tend to be similar to their friends in
+
+eter for virgins. Female pubertal ma- various characteristics (Kandel, 1978),
+
+turity was operationally defined as at- including virginity status for females
+
+taining at least Tanner's Stage 4 for (Rodgers et al., 1984). Nevertheless,
+
+both breast and pubic hair develop- the model apparently does not fail
+
+ment (see Rowe et al., 1989). Nearly based on this assumption, and for mod-
+
+all girls at these stages are post- eling purposes an assumption of ran-
+
+menarchial.
+
+dom assortment may be a useful ap-
+
+The rate of parameters Tnm and Tnf proximation. Dodd (1955) reasoned may be interpreted as the average num- that even if units in a population are
+
+ber of effective contacts made by non- structured, if they change frequently
+
+virgin males with virgin females and and are numerous then the spread of a
+
+nonvirgin females with virgin males, behavior may approximate that under
+
+respectively, per year. An effective random assortment. Friendship cliques
+
+contact is one that leads to sexual in- often consist of a number of members,
+
+tercourse, if the person contacted is a and about one quarter of them dissolve
+
+virgin. The parameter "k" may be sim- completely in a single academic year
+
+(Cohen, 1977). Thus, the assumption
+
+1The parameter Ma, as set forth in Equations 1 and 2, is strictly the proportion of mature females who are virgins, a conditional probability. Data do not exist to estimate this proportion, however, so that we substitute the unconditional probability, computed from the proportion of mature females at each age.
+
+of a high degree of "mixing" in adolescent populations is reasonable.
+We conducted a simulation analysis to evaluate the importance of the random mixing assumption (Rowe et al.,
+
+Vol. 41, No. 1-2
+
+Adolescent Sexual Behavior
+
+5
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+1989). In these analyses, we assumed that social contacts were correlated so that nonvirgins were more likely to encounter one another than they would have by chance encounters. Over a wide range of correlations, changes in parameter values were small. Hence, we concluded that the model was relatively robust to departures from the random assortment assumption.
+Another assumption of our earlier model was that an adolescent's first sexual partner was exactly his or her own age. In fact, we know that both males and females tend to have as their first partner an individual older than themselves (Zelnik and Shah, 1983). In analysis of the ADSEX data set, we found that few first partners were younger than the respondent (7.5 per cent). Most were either the same age, one year older, or two years older (73 per cent). Our original model as presented in Equation 1 and 2 has been modified to take such inter-cohort contacts into account.
+This paper reports an inter-cohort contagion model that accounts for mter-cohort contacts of both epidemic and nonepidemic types. We used the empirical data to decide on a threeyear window of mixing populations. Each adolescent is eligible to contact others of the same age, one year older, or two years older. The mathematical statement of the earlier EMOSA sexuality model from Rowe et al. (1989) has been re-written to account for these additional types of contacts.
+Table 1 presents the mathematical terms defining the number of added nonvirgins for a particular age, "a," in a given year. Note that we have changed the model from a prevalence model (as defined in our first EMOSA
+
+sexuality model) to a yearly gain model. This change facilitates statistical tests of the fit of the model, to be described shortly. In Table 1, there are a total of six terms per sex divided between those terms representing the contact of virgins with same-age or older nonvirgins and those representing virgin-virgin contacts.
+The between-cohort contacts were weighted according to the empirical likelihood of their occurrence. The best empirical information on this likelihood that we could find was contained in the ADSEX data (the data referred to previously reflecting adolescent interactions in an approximately intact social environment; see Rowe et al., 1989, for a more complete description of the ADSEX data). Of the 73 per cent of the ADSEX respondents whose first partner was 0-2 years older, 44.5 per cent were within-cohort contacts, 31 per cent were contacts with the next older cohort, and 24.5 per cent were contacts with the cohort two years older. Contacts with younger partners and with partners more than two years older were not represented within the model. The inter-cohort contagion model is more realistic than our earlier model (which only accounted for within-cohort contacts); but obviously it becomes mathematically untractable if more than a very few cross-age contacts are permitted within the model.
+In our earlier EMOSA sexuality model, which was fit first to the ADSEX prevalences, we found that the model fit better when Whites and Blacks were treated as separately interacting populations. Further, when the model was fit separately to the two races, the social contact parameters
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+6
+New Male Nonvirgins Virgin-virgin Within cohort Nonvirgin-virgin Within cohort Virgin-virgin One year older Nonvirgin-virgin One year older Virgin-virgin Two years older Nonvirgin-virgin Two years older
+New Female Nonvirgins Virgin-virgin Within cohort Nonvirgin-virgin Within cohort Virgin-virgin One year older Nonvirgin-virgin One year older Virgin-virgin Two years older Nonvirgin-virgin Two years older
+
+Rowe and Rodgers
+
+Social Biology
+
+TABLE 1
+TERMS IN MODEL EQUATIONS
+
+XjkM^l-Pm^) (1-Pfag)
+
+XtTnfPfag(l-Pmag)
+
+X2kMa+l(l-Pmog)
+
+(\-Pfa+lJS-i)
+
+X.T^Pf^^^il-PmJ
+
+X3kMa+2(l-Pmag)
+
+(l-Pfa+2,g-2)
+
+X3TnfPfa+2^2(\-Pmag)
+
+X^kM^l-Pm^) (l~Pfag) X^MJ^Pm^X-Pf^)
+
+X2kMa(l-Pma+lJl.1)
+
+(1-Pfag)
+
+X2MaTnmPma+Ug^
+
+(1-Pfag)
+
+X^kM^l-Pma+2,x_2)
+
+(X-Pfag)
+
+X3kMaPma+2g.2 (1-Pfag)
+
+could be compared toone anotheras actions--race differences virtuallydis-
+
+suggestive of dynamics that underlie appeared in the rate of social contagion
+
+the race differences.
+
+process.
+
+In Rowe et al. (1989), wenoted a This result--suggested by our ear-
+
+surprising finding: that the contact pa- lier analysis--will be investigated in
+
+rameters were close invalue between this paper in more detail, with different
+
+Whites and Blacks. This finding ap- data, and in the context ofa more re-
+
+peared inconsistent with the preva- alistic model. We will fit the inter-
+
+lences themselves, in which a larger cohort contagion model separately to
+
+proportion of Blacks of each sex were prevalences from thetwo races and will
+
+non-virgins than Whites at each age. compare the parameter values ob-
+
+However, the model also accountsfor tained from those twosettings.
+
+differential rates of female pubertal
+
+maturity, and Black females mature earlier than Whites. Thus, once differ- MATERIALS AND METHODS
+
+ential rates of maturity were accounted In this section wefittheinter-cohort
+
+for--in thecontext of a dynamic and contagion model toanational dataset.
+
+interpretable model of cross-sex inter- We also present theresult of a small
+
+Vol. 41, No. 1-2
+
+Adolescent Sexual Behavior
+
+7
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+"traditional analysis" in which race dif- inter-cohort contagion model come
+
+ferences in virginity status are ob- from the National Longitudinal Survey
+
+served in the context of linear models of Youth. The NLSY began as a na-
+
+and in relation to several simple psy- tional probability sample of house-
+
+chosocial variables.
+
+holds in 1979. All youth between ages
+
+Our earlier EMOSA - sexuality 14-21 in the selected households were
+
+model (Rowe et al., 1989) was fit to local data from an approximately intact social network of adolescents. All students in several Junior High Schools
+
+eligible to be interviewed in 1979, and then followed longitudinally each year. The original NLSY sample size was N = 11,405.
+
+from two metropolitan areas in the In 1984 and 1985, respondents were
+
+southeastern United States were ad- asked to report their age at first inter-
+
+ministered sexuality questionnaires. course. By 1984, respondents were
+
+Of course, no such social network will 19-26 years old. 4,934 of 5,043 (91 per
+
+be truly intact. Many out-of-school cent) of the males and 4,771 of 5,281
+
+--or even out-of-town--friendship (90 per cent) of the females contacted
+
+links will exist. While it is doubtful that reported an age at first intercourse ei-
+
+any truly isolated adolescent commu- ther in 1984 or 1985.
+
+nity could ever be found, using school surveys is a method to approximate a relatively intact local adolescent community. At the other extreme, it is also possible to view the United States as a very large mixing network of adolescents.
+
+The NLSY over-sampled Black youth in 1979. A total of 7,410 Whites and 3,174 Blacks responded to the 1984 follow-up. Because households were randomly selected in 1979, these respondents may be considered representative of these age cohorts in 1979
+
+This second approach more prop- (except for nonresponse and attrition).
+
+erly accounts for the ease of travel and Because our analyses will be run within
+
+cross-city and cross-state nature of race, sampling weights (which prima-
+
+many friendship networks, but it is cer- rily adjust for different sampling rates
+
+tainly an oversimplification and cannot by race) were not used.
+
+be considered a "correct model" either. Results from nationally represen-
+
+MEASURES
+
+tative data must be viewed as providing Sexual Intercourse Prevalences. --
+
+a description of the average process at Retrospective reports of age of first in-
+
+work across the country. Results from tercourse were coded from respondent
+
+the two approaches together converge reports. These reports were converted
+
+to suggest that mixing processes are into prevalences of nonvirginity at each
+
+not insensitive to the level at which we age from 10 to 18 years of age. Several
+
+assume mixing occurs. Likewise, dif- past research efforts have been de-
+
+ferences between the two types of re- voted to reliability and validity issues
+
+sults can suggest the ways the model in both concurrent and retrospective
+
+processes depend strongly on the level reports of sexuality (e.g., Rodgers,
+
+at which mixing is assumed to occur. Billy, and Udry, 1983). An extensive
+
+The data that will be used to test effort showing relations between the
+
+for psychosocial effects and fit the NLSY data we will use and results from
+
+8
+
+Rowe and Rodgers
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+other national surveys is presented in
+
+TABLE 2
+
+Kahn et al. (1988).
+
+PREVALENCES OF SEXUAL MATURITY IN BLACK
+
+Self-esteem.--The NLSY files con-
+
+AND WHITE FEMALES-
+
+tain responses to the 10-item Rosen-
+
+^^
+
+^^
+
+berg self-esteem scale (Rosenberg,
+
+Age
+
+whites
+
+Blacks
+
+1965), which hasbeen used widely in 10
+
+1.0% 24.9%
+
+both substantive and methodological j *
+
+1\'Q l?'^
+
+research. Each item had a 1-4 re- n"]]"""'"."'.'.'. 5^9 72.0
+
+sponse scale, coded inthe direction of 14 positive self-esteem, yielding a scale 15
+
+77.9
+94A
+
+82.0 95-8
+
+ranee from 10 (lowest self-esteem) t o SOURCE:Harian etai.. wso.
+
+·°
+
+.
+
+"Sexual maturity defined asTanner Stages 4-5 for both
+
+40 (highest Self-eSteem).
+
+breast andpubic hair development. Ages 10and 11 were esti-
+
+Pnrentnl FHnr/ltinn --Thp hpct mated by linear extrapolation from ages 12-15. The extrapolated
+
+rarenmi Education. ine uebl value of less than zero percent for 10-year-old Whites was
+
+measure Of SOCial ClaSS that Was avail- changed to Ipercent. Ages greater than 15years old were setto
+
+100 per cent mature.
+
+able intheNLSY was theindication of
+
+parental education. This measure was
+
+constructed asthe average ofnonmiss-
+
+ing parental reports ofhighest grade obtained forfemales aged 12-18. Fe-
+
+completed.
+
+male maturity was defined asattaining
+
+Religiosity.-- Religiosity was as- atleast Tanner's Stage 4on both pubic
+
+sessed using self-reported frequency of hair and breast physical development,
+
+church attendance. Thescale ranged Table 2 presents the maturity values,
+
+from 1-6 (1= not at all; 2= in- Ma, forU.S. Black andWhite females frequently; 3=once/month; 4= 2-3 estimated from the HES.
+
+times/month; 5=once/week; 6= Oneremaining limitation of these
+
+more than once/week).
+
+maturity values wasaddressed. The
+
+Maturational Level. --The NLSY NLSY data could beused toconstruct
+
+simply didnotinclude good measures reliable estimates of intercourse prev-
+
+of pubertal or physical maturation, a alence down to age 10,whereas the
+
+crucial variable for ourstudy. This lim- maturity prevalences were only avail-
+
+itation would have been a major liabil- able inHESdown toage 12.We con-
+
+ity, except that the fitting procedure sidered several different approachesto
+
+only requires prevalence data onmat- handle this problem, including limiting
+
+uration (atthe same ages towhich we analyses tothose aged 12and greater,
+
+are fitting sexuality prevalence data). Because of sample-size limitations
+
+Since theNLSY estimates national (i.e., sothat we could use thesexuality
+
+rates, other sources based onprobabil- prevalence data for ages 10and 11),
+
+ity samples that also reflect national however, we extrapolated thematurity
+
+patterns were considered at least ade- values inTable 2 topredicted values
+
+quate substitutes forthis limitation in forages 10and 11,andweusethese
+
+the NLSY data. The best available values in the results we report. We
+
+source fordefining maturational prev- used a simple linear extrapolation pro-
+
+alences was the U.S. Health Examina- cedure (since alinear modelfitsaggre-
+
+tion Survey (HES: Harian etal., 1980), gatephysical maturation well, although
+
+from which female maturity rates were individual physical maturation isnota-
+
+Vol. 41, No. 1-2
+
+Adolescent Sexual Behavior
+
+9
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+bly nonlinear). These extrapolations are also included in Table 2. In our earlier study fitting the ADSEX data (Rowe et al., 1989), maturity prevalences were available for White females directly from this local sample. Those data support the extrapolated values in Table 2. Proportions mature in that study were zero per cent (N = 39) at age 10 and 10.4 per cent (TV = 48) at age 11, versus the extrapolated values of 1 per cent, respectively. In later analyses, several values for racial differences in pubertal timing are examined to explore the sensitivity of our results to the particular values that we have estimated.
+INTER-COHORT CONTAGION MODEL
+FITTING PROCEDURE
+The equations defining our model were estimated iteratively. A program subroutine MIX first computed the number of new nonvirgins in a given year. A subroutine AGE then aged each cohort one year, adding the number of new nonvirgins to the number of preexisting nonvirgins in each cohort. Then a new youngest cohort was added. In our data, this youngest cohort was 10 years old. The proportion of nonvirgins in the youngest cohort was set equal to the proportion observed in the data. In fourteen iterations, the model-generated proportions reached an equilibrium state (for given values of Tnm, Tnp and k) and did not change appreciably with the addition of new cohorts.
+Trial values of Tnm, Tnp and k were improved by maximizing a log likelihood function (L) based on the proportion making transition between any two ages (Hoel et al., 1971). That is,
+
+(3) L = N(poa+1-poa) log(pea+1-pea)
+where TV was the sample size, po was the observed cumulative proportion at age "a + 1" and "a," and pe was the model predicted cumulative proportions at age "a + 1" and age "a." Summation was over the total number of ages. The tail, 1 -- proportion at the oldest age, was also included in evaluating the likelihood.
+Because likelihood ratio tests of statistical significance are very sensitive to sample size, they generally indicate lack of fit of a model in any large dataset. We use two different fit statistics to respond to weaknesses in the likelihood ratio tests. First, the "rate r2" is a goodness-of-fit measure that is less dependent on sample size (Pitcher and Hamblin, 1982). This statistic is computed as the correlation between the proportion predicted to become nonvirgin between each pair of ages and the proportion observed to do so (TV = number of ages -- 1). Because it is a correlation-based measure, the size of the rate-r2 is also easily interpreted. A second statistic we will use is a goodness-of-fit index that is becoming increasingly popular: the Akaike Information Criterion (AIC: e.g., Sclove, 1987; Bozdogan, 1987). The AIC is a function of the log likelihood that our fitting routine optimizes, adjusted by the number of free parameters in the model: AIC = - 2 L + 2k, where L is defined above and k is the number of independent parameters to be estimated in the model. The AIC has the particular attraction that it can be used to compare models that have been fit to the same data with equal degrees of freedom, a type of test not
+
+10
+
+Rowe and Rodgers
+
+Social Biology
+
+TABLE 3
+AGE OF FIRST INTERCOURSE RACE CORRELATIONS AND PARTIAL CORRELATIONS"
+
+Correlations
+\FI-race \FI-race.self-esteem Ml-race .education \FI-race.religiosity
+
+Males
+
+A' Females JV
+
+0.36 4,934 0.14 4,771 0.37 4,712 0.14 4,600 0.34 4,749 0.11 4,633 0.38 4,928 0.18 4,768
+
+"All correlations statistically significant, p < 0.05. Virgins omitted from calculations. AFI = age of first sexual intercourse.
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+available with traditional likelihood ratio fit criteria.
+RESULTS
+We present two types of analyses in this section, a preliminary "traditional analysis," and a much more complete EMOSA analysis. The preliminary analysis attempts to explain the race difference in adolescent sexual behavior with linear models and traditional psychosocial variables. The EMOSA analysis uses the inter-cohort contagion model to simulate the social interaction of adolescents, along with a maturational filter for females that provides a biological constraint on the mixing process.
+TRADITIONAL ANALYSIS
+The first line of Table 3 presents the correlation of race with age of first intercourse (AFI). Then several partial correlations are presented in which one psychosocial variable was partialed out of the race-AFI relationship. If the race-AFI correlation is partially caused by the relationship of each to the psychosocial variables, we would expect the partial correlations to be substantially less than the original.
+Race had a greater impact on sexual intercourse initiation in males (r =
+
+0.36) than in females (r = 0.14), given the dummy coding (White = 1, Black = 0). These associations showed an earlier onset in Blacks than Whites. All correlations were statistically significant, although the samples sizes are so large that they were not necessarily meaningful substantively.
+None of the psychosocial control variables appreciably reduced the racial effect in males (partial rs 0.340.38, compared to the original of 0.36). In females, controlling for parental education reduced the partial correlation from 0.14 to 0.11. The religiosity variable actually worked in the wrong direction and increased the racial difference.
+In summary, in both sexes, most of the racial difference remains unaccounted for after adjusting for the covariates. If we drew conclusions from this type of modeling, we would report that the race difference is largely unexplained, and that the particular psychosocial variables we investigated-- variables selected because they would appear on theoretical grounds to be strong contenders to explain the race difference--are not potent explanatory variables. Of course, a much more careful and in-depth linear model analysis of these relationships could be run, further replicating and extending
+
+Vol. 41, No. 1-2
+
+Adolescent Sexual Behavior
+
+11
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+work described in the literature review above. However, we instead apply the EMOSA approach, which is substantively interpretable as simulating a plausible social process, and which simultaneously accounts for both psychosocial and biological processes.
+FITTING THE INTER-COHORT
+CONTAGION MODEL
+We fit our inter-cohort contagion model to the proportions of nonvirgins ages 10-18 years. We first fit our model not permitting social contacts between age cohorts. These fits resulted in log likelihood values of --13,305 and -6,284 for Whites and Blacks, respectively. We then fit our model allowing social contacts with the cohorts zero, one, and two years older. The log likelihoods were larger, indicating the better fit of our inter-cohort model (L = -13,240, and -6,235 for Whites and Blacks, respectively). Since the two same race models have equal degrees of freedom, we computed Akaike Information Criterion indices for each and selected the model with the smaller AIC. In each case, the inter-cohort contagion model fit the data better than the simpler intracohort interaction model.
+Tables 4 and 5 present the expected and observed distributions and the parameter estimates for Whites and Blacks, respectively. The model fit both race subgroups (rate r2 = 0.931 for Whites, rate r2 = 0.721 for Blacks). The lower fit values for Blacks was primarily caused by the model overpredicting the proportion of nonvirgin females at young ages (e.g., 10.3 per cent predicted versus 3 per cent observed at age 13). Evidence from validity studies exists (e.g., Rodgers, Billy, and Udry,
+
+TABLE 4
+NLSY PROPORTIONS NONVIRGINS AND MODEL PREDICTIONS OF PROPORTIONS NONVIRGINS FOR WHITES
+
+Age
+Males 10 11 12 13 14 15 16 17 18 N
+
+Obs. Nonvirgins Pred. Nonvirgins
+
+1.1% 1.6 4.0 7.9 14.2 24.8 43.4 58.5 70.6 3,790
+
+1.1% 1.7 3.3 6.8 13.3 23.8 38.6 55.8 71.6
+
+Females 10 11 12 13 14 15 16 17 18 N
+
+0.2 0.3 0.6
+2.1 5.4
+12.3 26.7 42.7 60.8 3,720
+
+0.2 0.3 0.8 2.7 7.2 15.9 29.3 45.3 60.5
+
+Likelihood, -13,240; Rate fi, 0.931; Tnf, 0.620; Tnm, 0.404; k, 0.037
+
+1983) that especially at young ages, either Black males overreport intercourse or Black females underreport intercourse (or, of course, possibly both). This observation suggests that the model may in fact be accounting for part of the process that is distorted by weaknesses in the data.
+The most important substantive result of this paper is the comparison of Black and White parameter values. If the contact parameters were very different, this result would suggest that the psychosocial processes involving social contacts and the spread of sexual behavior are different in the two races. If they were similar, this result would replicate the previous finding in the
+
+12
+
+Roue and Rodgers
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+TABLE 5
+NLSY NONVIRGINS AND MODEL PREDICTIONS OF NONVIRGINS FOR BLACKS
+
+Age
+Males 10 11 12 13 14 15 16 17 18 N
+
+Obs. Nonvirgins Pred. Nonvirgins
+
+7.2% 10.5 18.9 28.2 40.4 56.1 72.0 79.5 84.8 1,613
+
+7.2% 9.8 14.6 22.4 33.7 48.1 63.7 77.6 87.7
+
+Females 10 0.3 0.3 11 0.4 2.1 12 1.2 5.2 13 3.0 10.3 14 8.8 19.1 15 18.8 30.7 16 36.8 42.5 17 56.2 59.3 18 72.6 71.0 N 1,561
+Likelihood, -6,235; Rate r2, 0.721; Tnf, 0.621; Tnm, 0.337; k, 0.041.
+
+ADSEX data and would suggest, again, that when maturation differences between Black and White females are accounted for, most racial difference in sexual behavior disappears.
+The parameter values obtained by fitting the inter-cohort contagion model to the NLSY data are given in Tables 4 and 5. The values were surprisingly similar across the two races. Black female nonvirgins had a slightly higher contact rate than White female nonvirgins (Tnf = 0.66 versus 0.62); White male nonvirgins had a slightly higher contact rate than Black male nonvirgins (Tnm = 0.40 versus 0.34); and Black virgins had a slightly higher contact rate than White virgins (k =
+
+0.041 versus 0.037). The equivalent parameter estimates from Rowe et al. (1989), using a different dataset and a simpler model, were Tnf = 0.90 for Whites and Tnf = 0.78 for Blacks, Tnm = 0.22 for Whites and Tnm = 0.31 for Blacks, and k = 0.10 for Whites and 0.14 for Blacks. Thus, not only are the parameter estimates stable across the races within each study, but the pattern of contact parameters are consistent across two different datasets with two different versions of the EMOSA sexuality model.
+SENSITIVITY ANALYSES
+In any model-fitting exercise like the one we report here, there may be pieces of the mathematical structure of the model that are particularly "volatile." For example, if the model is highly dependent on the quality of the maturation estimates at ages 10 and 11, then substituting extrapolated values instead of using actual data for these estimates would be problematic. If, on the other hand, the model results are quite stable across a whole range of possible values for these estimates, we would have much less concern over using the extrapolated values.
+We will present two types of sensitivity analyses. The first is an inspection of the sensitivity of the model to exactly the example above, that is, changing values in the age 10 and 11 maturation estimates. The second is a comparison of the importance of the contact rate parameters (the psychosocial part of the model) with the maturation filters (the biological part of the model).
+The use of linear extrapolation may have overestimated the racial differ-
+
+Vol. 41, No. 1-2
+
+Adolescent Sexual Behavior
+
+13
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+ence in maturation timing at ages 10 and 11 years. At age ten, the problem was especially acute, because the linear extrapolation predicted fewer than zero per cent mature for Whites, and we reset the value to 1 per cent. We tried new values of 20 per cent Black females and 5 per cent White females, and new values of 15 per cent Black females and 10 per cent White females. The statistical fits changed only slightly with the new maturation estimates; fits for Blacks improved, and fits for Whites showed no trend. The races' parameter values were closest when the original Black's 24.9 per cent and White's 1 per cent maturation values were used. In percentage terms, the largest change occurred in the virgin contact rate, "k," where the Black rate increased and the White rate decreased (in the 20%/5% run, k = 0.044 Blacks and 0.034 Whites; in the 15%/10% run, k = 0.048 Blacks and 0.032 Whites). Those results are even closer to being consistent with those obtained using the earlier ADSEX data.
+MATURATION COMPARED WITH
+CONTACT RATES
+These results suggest that a physical process--maturation timing--may be more important for explaining race differences than the rate parameters in the social contagion process. An explicit comparison of the effects of maturation timing and contagion rates can be made by using the model to make predictions. In the actual data, considerable racial difference already exists at age 10 years: for example, 6.5 times more Black than White 10-year-old males reported nonvirginity (7.2 per cent vs. 1.1 per cent). To avoid this
+
+unexplained heterogeneity, we ran the model starting with zero per cent nonvirgin 10-year-old males and females.
+Four types of models were run: (1) White contact parameters, White maturation values, (2) White contact parameters, Black maturation values, (3) Black contact parameters, White maturation values, and (4) Black contact parameters, Black maturation values. Models with the same maturation rates (e.g., 1 and 3) were compared to models with the same contact parameters (e.g., 1 and 2). If maturation timing has the greater effect, rate r2's for models with the same maturation timing (but different contact parameters) should be greater than rate r2's for models with the same contact parameters (but different maturation timing).
+Table 6 presents comparisons of "same contact parameter" models versus "same maturation" models using different assumptions about pubertal maturity at age 10 years. Different contact parameter values (but the same maturation timing) had the least impact on model predictions. Indeed, in 5 out of 6 comparisons, the solutions under White versus Black contact parameter values were essentially identical (rate r2> =0.98). Changing the maturation assumptions had the greater impact on the solutions. The rate r2's explained from 4 per cent to 8 per cent less variance when maturation was changed than when the contact parameters were changed, and the rate r2 between solutions ranged from 0.91 to 0.93. These results indicate that observed racial differences could arise more easily from different maturation timetables than from differences in effective contact rates.
+
+14
+
+Rowe and Rodgers
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+TABLE 6
+COMPARISON OF MODELS WITH SAME MATURATION RATES AND SAME PARAMETERS"
+
+MODELS
+Same maturation White maturation Black maturation
+Same Parameters White parameters Black parameters
+
+1%W/24.9%B
+Rate r2
+0.99 0.99
+0.91 0.91
+
+"W = white females' maturity; B = black females' maturity.
+
+MATURATION AT IO YEARS
+5%W/20%B Rate r2
+0.99 0.98
+0.93 0.92
+
+10%W/15%B Rate r2
+0.98 0.97
+0.93 0.93
+
+To illustrate the strong potential for purely maturational differences to influence the timing of sexual intercourse, Table 7 compares a model run using equal contact parameter values (TV =0.641, Tnm = 0.371, and k = 0.039) and using either White or Black maturational data. This model further assumed that 10-year-old children of either race were virgins. The effect of the maturational difference was to produce ratios of nonvirgins favoring Blacks from 4.6 to 1 to 1.2 to 1. Even holding all assumed social process equal across Whites and Blacks, we find that pubertal maturation timing can potentially produce large racial differences in adolescent nonvirginity.
+DISCUSSION
+The prevalence of nonvirginity increases rapidly in early adolescence, but more rapidly for African American than Caucasian adolescents. Many psychosocial variables postulated to explain the onset of sexuality within Black or White groups fail to account for this mean racial difference. Using a nationally representative sample, we found that three psychosocial variables (self-esteem, religiosity, and social
+
+class) could not explain this racial difference. Thus, we chose to focus on maturational differences between Black and White adolescents with Black girls maturing earlier than White girls. It was hypothesized that maturation could account for a large part of the racial difference if it was included as a parameter in a statistical "intercohort contagion" model of the prevalence of sexual intercourse.
+Fitting this inter-cohort contagion model to nonvirginity prevalences supported the hypothesis. The contact parameters, Tnm and Tnf, reflected the rate of "spread" of sexual intercourse from nonvirgins to virgins; and k reflected the rate among virgins. If social norms and cultural factors mainly accounted for the race difference, we would expect that these parameters would be larger in Blacks than in Whites; they were not. On the other hand, the maturational timing differences had a greater impact on nonvirginity distributions than did reasonable differences in these parameter estimates. Data were generated from one set of parameter values using different Black and White maturational timing data. This comparison showed that racial differences in maturational timing
+
+Vol. 41, No. 1-2
+
+Adolescent Sexual Behavior
+
+15
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+TABLE 7
+PREDICTED NONVIRGINITY DISTRIBUTIONS FOR SAME PARAMETERS BUT DIFFERENT
+MATURATIONAL TIMING"
+
+Age
+Males 10 11 12 13 14 15 16 17 18
+
+Black
+
+White
+
+Maturation Maturation
+
+0% 0% 2 0.7 ' 5.8 2.4 12.3 5.9 22.3 12.5
+36.1 23.1 52.5 37.7
+68.5 54.5 81.2 70.2
+
+Ratio
+2.9 2.4 2.1 1.8 1.6 1.4 1.3 1.2
+
+Females 10 0 0
+11 0.9 0.2 12 3.2 0.7
+13 7.1 2.6 14 14.4 6.8 15 25.0 14.9 16 39.3 27.3 17 54.4 42.2 18 67.4 56.7
+
+4.5 4.6
+2.7 2.1 1.7 1.4 1.3 1.2
+
+"Age-10-years maturation was 20 per cent for Black females and 5 per cent for White females.
+
+alone can produce large racial differences in rates of nonvirginity.
+Further, the basic structure of the contact parameters was very similar to that obtained in Rowe et al's (1989) analysis of the ADSEX data. The effective contact rate of females was relatively high, suggesting the relative ease with which female nonvirgins can convert male virgins. The male effective contact rate was lower, and nonepidemic contact rates were fairly small.
+Our inter-cohort contagion model certainly cannot account for all aspects of the data. Overall fit for Whites was somewhat better than for Blacks and over-predicted the number of nonvirgin Black females. For males, race ratios in the observed data were larger than those estimated from our gener-
+
+ated data in Table 7. The failure of the model to fit Black Americans as well as White Americans may reside more in the data than in the model. Black Americans' reports of sexuality and deviant behavior tend to be less reliable than White Americans' (Hindelang et al., 1981; Mensch and Kandel, 1988; Rodgers, Billy, and Udry, 1982). Falsely claiming intercourse among males or falsely claiming nonintercourse among females could produce the patterns of deviations from the model seen here.
+Further efforts to develop social contagion models of the onset of intercourse should progress on two fronts. First, reliable data are needed on sexuality from representative samples of adolescents, including data on physical development and hormones. Second, further steps must be taken to bring the social contagion model closer to reality. Through either equation or computer simulation approaches, we need to include explicitly in our models some of the psychosocial variables affecting adolescent sexuality (such as parental education; see Billy et al., 1988).
+There are many other possible applications of our EMOSA social contagion models. In other research, the EMOSA models have been applied to smoking and drinking (Rowe, Chassin, Presson, Edwards, and Sherman, 1992; Rowe and Rodgers, 1991a). The smoking model introduced a sequence of stages absent in the sexual behavior model; namely, transitions were defined among four statuses--nonsmoker, experimental smoker, regular smoker, and ex-smoker. The first transition, from nonsmoker to experimental smoker, involved a social contagion
+
+16
+
+Rowe and Rodgers
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+process, whereas the remaining transitions did not. The sexual behavior model could be extended in the same direction by adding a transition from infrequently sexually active--as is the case for most young adolescents--to frequently sexually active. For females, transitions could be added representing pregnancy and childbirth. Our models also may describe how AIDS spreads heterosexually into younger populations depending on the degree of cross-cohort mixing as modelled here. Thus, further work could extend our EMOSA models to the spread of sexually transmitted diseases, including AIDS. Social contagion processes also may apply to behaviors such as marriages, which are not ordinarily thought of in this way.
+More broadly, social contagion models fit into work on cultural evolution and coevolution (Boyd and Richerson, 1985; Cavalli-Sforza and Feldman, 1981). Although we applied our model here to a specific behaviorsexual intercourse--social contagion processes also may be used to explain the spread of cultural knowledge among adolescents. In our application, we would want to model the increase in the adolescent population of accurate knowledge about sexuality and of social beliefs regarding sexuality. In Dawkin's (1992) terms, the prevalence of "memes," the unit of replication of cultural transmission, must be understood. An advantage to studying cultural transmission among adolescents is that generation times would be relatively short. Ignorant 9-year-olds become knowledgeable 16-year-olds in just seven years. In contrast, new cultural innovations and other "memes"
+
+may take generations to reach an equilibrium in human populations, or reach their equilibrium just once, making them inaccessible to empirical research. Thus, by focusing on adolescence, models of cultural transmission can be given a practical empirical test in a way impossible for many other cultural "memes." Such testing would help to select among the many competing ideas about cultural transmission, ideas which have received elegant mathematical formulations but little empirical testing in the theories of cultural transmission.
+We have not addressed here the possible social policy implications of our modeling approach. Many psychosocial accounts of racial differences in sexuality rely on "weaknesses" in the Black community--for example, on "single parent families" and "poverty." Our explanation for the race difference casts the Black community in a more value-free light; after all, the mother of a mature 11-year-old, regardless of race, is more concerned about her daughter's sexuality than the mother of an immature 11-year-old daughter. Thus, this biological explanation is in a sense "race free," relying as it does on a maturational mechanism that just happens to covary with race. This approach also could have implications for the design of social interventions, if they paid attention to the dynamics of sexual intercourse in the early teenage years as a means of delaying the onset of the "social contagion" of sexuality. We do not address social policy implications here, however, because our goal was only to define a causal description of the spread of adolescent sexual behavior.
+
+Vol. 41, No. 1-2
+
+Adolescent Sexual Behavior
+
+17
+
+In conclusion, we donot claim that maturational timing differences are the only cause of race differences in adolescent sexuality. Such aview would be taking a model too literally. However, we believe that the importance of pubertal maturation has been substantially underestimated. Psychosocial explanations may have been overestimated, but this possibility isdifficult to assess when a variable as apparently important as maturation has beenexcluded from previous analyses. In fact, psychosocial variables may have much less variance to account for (and may potentially do so more successfully)
+
+once models that include a maturational component anda plausibledynamic description have been further developed. "Epidemic" modeling of the onset of adolescent behavior provides one such modeling paradigm.
+ACKNOWLEDGMENTS
+Copies of fortran programs used in this research (MIXLIK.FOR AND MIXAGE. FOR) may be obtained by sending the first author a 3.5 inch diskette. This research was supported by Grant RO1-HD21973 from the National Institute ofChild Health and Human Development.
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+REFERENCES
+
+Bailey, N. T. J. 1975. The mathematical theory
+
+U.S. nonmarital fertility rates. Fam. Plan.
+
+of infectious diseases. Hafner Press, New Persp. 20:119-123.
+
+York.
+
+DAWKINS, R. 1992. The selfish gene. Oxford
+
+BILLY, J., N. LANDALE, W. GRADY, and D. ZIM-
+
+Univ. Press.
+
+MERLE. 1988. Effects ofsexual activity on ad- DODD, S. C. 1955. Diffusion is predictable: Test-
+
+olescent social and psychological develop-
+
+ing probability models for laws of interaction.
+
+ment. Soc. Psychol. Quart. 51:190-212.
+
+Amer. Sociol. Rev. 20:392-401.
+
+BINGHAM, C. R., B. C. MILLER, and G. R. AD- ENSMINGER, M. E. 1987. Adolescent sexual be-
+
+AMS. 1990. Correlates ofage atfirst sexual in-
+
+havior as it relates to other transition behav-
+
+tercourse in a national sample of young
+
+iors in youth. In S. Hortevsh and C. Hayes
+
+women. J. Adoles. Res. 5:18-33.
+BOYD, R., and P. J. RICHERSON. 1985. Culture
+
+(eds.), Risking one future: Adolescent sexuality, pregnancy, and childbearing: Working
+
+and the evolutionary process. Univ. of Chi-
+
+papers andstatistical appendices, National
+
+cago Press, Chicago.
+
+Academy Press, Washington, D.C.
+
+BOZDOGAN, H. 1987. Model selection and Akaike's Information Criterion (AIC): The general theory and its analytic extensions. Psychometrika 52:345-370.
+BUCK, C., and K. STAVRAKY. 1967. The relation-
+
+FLANNERY, D. J., D. C. ROWE, and B. L. GUL-
+LEY. Unpublished. Impact of pubertal status, timing, and chronological age on adolescent sexual experience, delinquency, and parental affection.
+
+ship between age at menarche and age at FOSTER, T. A., A. W. VOORS, L. S. WEBBER,
+
+marriage among childbearing women. Hum.
+
+R. R. FREICHS, and G. S. BERENSON. 1977.
+
+Biol. 39:93-102.
+
+Anthropometric and maturation measure-
+
+CAVALLI-SFORZA, L. L., and M. W. FELDMAN.
+1981. Cultural transmission and evolution:A quantitative approach. Princeton Univ.
+
+ments of children, ages 5 to 14years, ina biracial community--the Bogalusa Heart Study. Amer. J. Clin. Nutrit. 30:582-591.
+
+Press, Princeton, NJ.
+
+FURSTENBERG, F. F., JR., S. P. MORGAN, K. A.
+
+COHEN, J. M. 1977. Sources of peer group ho-
+
+MOORE, and J. L. PETERSON. 1987. Race dif-
+
+mogeneity. Sociol. Educ. 50:227-241.
+
+ferences in the timing of adolescent inter-
+
+CUTLER, W. B., C. R. GARCIA, and A. M.
+
+course. Amer. Sociol. Rev. 52:511-518.
+
+KRIEGER. 1979. Infertility and age offirst co- HAMBLIN, R. L., R. B. JACOBSEN, and J. L.
+
+itus: A possible relationship. J. Biosoc. Sci. MILLER. 1973. A mathematical theory ofso-
+
+11:425-432.
+
+cial change. Wiley, New York.
+
+CUTRIGHT, P., and H. SMITH. 1988. Intermediate HARLAN, W. R., E. A. HARLAN, and G. P.
+determinants of racial differences in 1980 GRILLO. 1980. Secondary sex characteristics
+
+18
+
+Rowe and Rodgers
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+of girls 12 to 17years of age: The U.S. Health fects on substance use and delinquency.
+
+Examination Survey. J. Pediat. 96:1074-
+
+Criminology 30:201-217.
+
+1078.
+
+ROWE, D. C., B. GULLEY, and J. L. RODGERS.
+
+HAYES, C. D. 1987.Risking thefuture, Vol. 1. 1992. An epidemic model of the post-war
+
+National Academic Press, Washington,D.C.
+
+crime wave, 1950-1987. Under review.
+
+HINDELANG, M. J., T. HIRSCHI, and J. G. WEIS. ROWE, D. C., L. CHASSIN, C. C. PRESSON, D.
+
+1981. Measuring delinquency. Sage, Beverly Hills, CA.
+
+EDWARDS, and S. J. SHERMAN. 1992. An "ep-
+idemic" model ofadolescent cigarette smok-
+
+HOEL, P. G., S. C. PORT, and C. J. STONE. 1971.
+
+ing. J. Appl. Soc.Psych. 2:261-285.
+
+Introduction to statistical theory. Houghton Mifflin Company, NewYork. HOFFERTH, S.L. 1987. Initiation ofsexual intercourse. In Cheryl D. Hayes (ed.), Risking the future: Adolescent sexuality, pregnancy, and childbearing. National Academic Press, Washington, D.C.
+
+ROWE, D. C., and J. L. RODGERS. 1991a. Ado-
+lescent smoking and drinking: Are they epidemics? J. Stud. Alcohol 52:110-117.
+ROWE, D. C., and J. L. RODGERS. 1991b. An
+"epidemic" model ofadolescent sexual intercourse: Applications tonational survey data. J. Biosoc. Sci. 23:211-219.
+
+KAHN, J. R., W. D. KALSHEEK, and S. L. HOF- ROWE, D. C., J. L. RODGERS, and S. MESECK-
+
+FERTH. 1988.National estimates of teenage
+
+BUSHEY. 1989. An "epidemic" model of sex-
+
+sexual activity: Enlisting thecomparability of
+
+ual intercourse prevalences for black and
+
+three national surveys. Demography 25:189- white adolescents. Soc. Biol. 36:127-145.
+
+204. SCLOVE, S. L. 1987.Applications of model-
+
+KANDEL, D. B. 1978. Homophily, selection, and
+
+selection criteria to some problems inmulti-
+
+socialization in adolescent friendships.
+
+variate analysis. Psychometrika 52:333-344.
+
+Amer. J. Sociol. 84:427-434.
+
+UDRY, J. R. 1979. Age at menarche, atfirstin-
+
+MCLOYD, V. C. 1990.Minority children: Intro-
+
+tercourse andat first pregnancy. J. Biosoc.
+
+duction to the special issue. Child Develop.
+
+Sci. 11:433-441.
+
+61:263-266.
+
+. 1988. Biological predispositions and so-
+
+MENSCH, B . S., and D. B. KANDEL. 1988. Under-
+
+cial control in adolescent sexual behavior.
+
+reporting of substance use in a national lon-
+
+Amer. Sociol. Rev.53:709-722.
+
+gitudinal youth cohort. Publ. Opin. Quart. UDRY, J. R., J. O. G. BILLY, H. M. MORRIS,
+
+52:100-124.
+
+T. R. GROFF, and M.H. RAJ.1985.Serum
+
+NATIONAL HEART, LUNG, ANDBLOOD INSTITUTE
+
+androgenic hormones motivate sexual behav-
+
+GROWTH ANDHEALTH STUDY. 1992. Obesity
+
+ior in adolescent boys. Fertility and Sterility
+
+and cardiovascular disease risk factors in
+
+43:90-94.
+
+Black and White girls. The NHLBI Growth UDRY, J. R., L. M. TALBERT, and H. M. MORRIS.
+
+and Health Study. Amer. J. Publ. Hlth.
+
+1986. Biosocial foundations for adolescent
+
+82:1613-1620.
+
+female sexuality. Demography 23:217-230.
+
+PITCHER, B. L., and R. L. HAMBLIN. 1982. Col- WASHINGTON, A. C. 1982. Acultural and histor-
+
+lective learning inongoing political conflicts.
+
+ical perspective on pregnancy-related activity
+
+Internat. Polit. Sci. Rev. 3:71-90.
+
+among U.S. teenagers. J. Black Psychol. 9:1-
+
+RODGERS, J. L., J. O. G. BILLY, and J. R. UDRY.
+
+28.
+
+1982. The recision ofbehaviors: Inconsistent Weinberg, M.S., and C. J. WILLIAMS. 1988.
+
+responses in adolescent sexuality data. Soc.
+
+Black sexuality: A test oftwo theories. J. Sex
+
+Sci. Res. 11:280-296.
+
+Res. 25:197-218.
+
+. 1984. A model of friendship similarity ZABIN, L. S., E. A. SMITH, M. B. HIRSCH, and
+
+in mildly deviant behaviors. J. Appl. Soc. J. B. HARDY. 1986. Ages ofphysical matura-
+
+Psych. 14:413-425.
+
+tion and first intercourse in black teenage
+
+RODGERS, J. L., and D. C. ROWE. 1993. Social
+
+males and females. Demography 23:595-605.
+
+contagion and adolescent sexual behavior:A ZELNIK, M., J. F. KANTNER, and K. FORD. 1981.
+
+developmental EMOSA model. Psychol.
+
+Sex and pregnancy in adolescence. Sage,
+
+Rev. 100:479-510.
+
+Beverly Hills, CA.
+
+ROSENBERG, M. 1965. Society and one adolescent ZELNIK, M., and F. K. SHAH. 1983. First inter-
+
+self-image. Princeton Univ. Press, Princeton,
+
+course among young Americans. Fam.Plan.
+
+NJ. Persp. 15:64-70.
+
+ROWE, D. C., and B. GULLEY. 1992. Sibling ef-
+
+

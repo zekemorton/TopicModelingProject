@@ -1,0 +1,856 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Determinants of fertility decline in China, 1981: Analysis of intermediate variables
+Chaoze Cheng & Fernando Rajulton
+To cite this article: Chaoze Cheng & Fernando Rajulton (1992) Determinants of fertility decline in China, 1981: Analysis of intermediate variables, Social Biology, 39:1-2, 15-26, DOI: 10.1080/19485565.1992.9988801 To link to this article: http://dx.doi.org/10.1080/19485565.1992.9988801
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 9
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:44
+
+Determinants of Fertility Decline in China, 1981: Analysis of Intermediate Variables
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+Chaoze Cheng and Fernando Rajulton
+Population Studies Centre University of Western Ontario London, Ontario, Canada
+
+ABSTRACT: This study examines the proximate determinants of fertility in China by making use of the data collected by the One-per-Thousand Sample Fertility Survey of 1982. The results indicate that the most important inhibitor of potential fertility is deliberate control. Its contribution to fertility change has been far greater than all other proximate determinants. The marital structure of the population is also an important factor, while lactational infecundability and induced abortion are relatively unimportant. Comparative results by using data from the In-depth Fertility Survey conducted in Shanghai Municipality, Hebei and Shaanxi Provinces in April 1985 agree well in the ranking of the four intermediate factors. The findings point to successful family planning program and government population policies, which propelled the fertility transition to a substantial degree. Further research needs and policy implications of the results of the study are discussed.
+
+The dramatic change in fertility in China during the past three decades is well known. The 1982 population census of China reveals that the total fertility rate (TFR) fell from 5.81 in 1950 to 2.63 in 1981. Few societies have experienced such a rapid demographic transition. The rapidity that has characterized the decline in fertility makes China an unusually interesting case for examining the determinants of fertility among developing countries.
+Although many studies have examined the relationship between socioeconomic development, family planning, and fertility in China, few have directly addressed the proximate determinants through which socioeconomic, cultural, and environmental variables affect fertility. The only two studies on the topic are Wang et al. (1987) and Gao et al. (1989). The former investigated only the data on
+
+Beijing, and the latter the data on Shanghai Municipality, Hebei and Shaanxi Provinces. This paper attempts to examine in some detail the proximate determinants underlying the levels and differentials of fertility for the wholecountry by analyzing the data from the One-per-Thousand Sample Fertility Survey of 1982.
+After a brief discussion of the Bongaarts model (Bongaarts, 1978, 1982; Bongaarts and Potter, 1983), this paper assesses the contribution of several key proximate determinants, based on the measures proposed by Bongaarts, to the recent levels and changes in China's fertility. In addition, the findings are compared with those of Gao et al. (1989) as well as with those obtained for other developing and developed countries. The paper concludes by discussing some research and policy implications of the findings.
+
+15
+
+16
+
+Cheng and Rajulton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+MATERIALS AND METHODS
+BONGAARTS MODEL
+The observed fertility level of a population can be affected by variations in any of the intermediate variables as proposed by Davis and Blake (1956) and reorganized into eight proximate determinants by Bongaarts (1978, 1982; Bongaarts and Potter, 1983). He demonstrated that variation in only four of them, namely the proportion married, contraception, induced abortion, and postpartum infecundability, are of any substantial importance in the analysis of fertility differences or trends. The measures which Bongaarts proposed enable us to assess the impact on the fertility level of each of these four principal proximate variables at any given point in time or changes in their impact over time.
+The fertility-inhibiting effect of each proximate determinant is assessed by comparing an estimate of the fertility level which would prevail in its presence with that in its absence. The potential fertility level that would prevail in the absence of the four principal proximate variables (i.e., under conditions in which all women in the reproductive ages were married and there was no breastfeeding, induced abortion, or contraception) is called the total fecundity (TF). Even though the level of total fecundity varies from population to population due to differences in the other proximate variables, based on empirical analysis of a number of populations, Bongaarts found that the total fecundity rate averages about 15.3 births per women.
+In the Bongaarts model, the impact of the four principal intermediate variables are measured by four indexes,
+
+each ranging from 0 to 1. When an intermediate variable has no fertilityinhibiting effect, the corresponding index equals unity; if the fertility inhibition is complete, the index equals zero. Thus, the complement of the index value gives the estimated percentage reduction in fertility due to that proximate determinant. The four indexes are defined as follows (Bongaarts, 1978):
+Cm = index of proportion married, which equals 1 in the absence of celibacy and 0 in the absence of marriage;
+Cc = index of contraception, which equals 1 in the absence of contraception and 0 if all fecund women use 100% effective contraception;
+Ca = index of induced abortion, which equals 1 in the absence of induced abortion and 0 if all pregnancies are aborted; and,
+C, = index of postpartum infecundability, which equals 1 in the absence of lactation and postpartum abstinence and 0 if the duration of infecundability is infinite.
+Since each index equals the proportionate reduction in fertility that it causes, the total fertility rate (TFR) is a product of the four indexes times the total fecundity (TF); that is,
+TFR = TF*Cm*Cc*Co*C, (1)
+Each index, therefore, enables us to compare its relative importance in the presence of the others. It is worth stressing that these indices, in particular those referring to contraceptive effectiveness, induced abortion and, to a lesser extent, postpartum (lactational)
+
+Vol. 39, No. 1-2
+
+Fertility Decline in China
+
+17
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+infecundability require a variety of assumptions in order to convert the observed data into proper measures. The usefulness of the Bongaarts model, however, does not depend on the availability of absolutely precise estimates of the required measures. As long as reasonable estimates are available, the model is quite useful in assessing the extent to which the four proximate determinants inhibit fertility and how their contributions change over time.
+RESULTS
+ESTIMATES FOR CHINA
+The data used in this study are from the sample survey conducted by the State Family Planning Commission. Retrospective histories of childbearing and marriage of women aged 15-67 were obtained by this survey. The survey also included questions on contraceptive practice, education, occupation, recent abortions, and possession of one-child certificate. Coale (1984) and several others, after scrutinizing the quality, have concluded that the data are reasonably reliable and allow much more accurate and more detailed study than has been possible until now.
+This study makes use of the relevant data on fertility, contraception, marital structure, abortion, etc. obtained by the survey and rearranged for the year 1981 as published in various official documents by the Chinese Population Information Centre. The available data, however, are far from perfect for this specific study. Some relevant information is not available for very good estimates of the four indices. Information lacking in the 1982 survey is compensated for by the information drawn
+
+from the experiences of other populations as well as from reasonable speculations.
+Based on the equations suggested by Bongaarts (1978) and Bongaarts and Potter (1983) to calculate these indexes, Singh et al. (1985) have developed weighted indices for three of the four proximate variables, excepting the index Ca (because data on abortions are not usually available in many countries). The present study uses these weighted indices, since they provide better and more precise estimates of the effects of the proximate determinants. Moreover, since data on abortions are available for China, we suggest a weighted index Ca based on the measurements provided by Bongaarts and Singh et al. The calculations of the four indices are given in full detail.
+1. Index of Marriage Cm is a fertility weighted index of proportions married, calculated by taking the weighted average of the proportions married in the different age groups with the greatest weights being given to age groups with high fertility rates.
+
+S/te) Sfla)
+Cm = 2/I«)/m(a) ~ 2g(«) Totalfertility rate
+Total maritalfertility rate
+
+(2)
+
+where m(a) represent the age-specific proportions of ever-married women, f(a) the age-specific fertility rates, and g(a) the age-specific marital fertility rates, all usually in five-year intervals. Bongaarts suggests that the value of the age-specific marital fertility rate g(a) for the age group 15-19 be estimated at 0.75 times g(20-24), since the
+
+18
+
+Cheng and Rajulton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+/U5-19) direct estimate w(15-19) tends to be
+
+where tnm{a) is age-specific schedule of natural marital fertility, obtained as
+
+unreliable, especially in populations
+
+gia)
+
+with low values of A?J(15-19). The es-
+
+Cc(a)
+
+timate suggested by Bongaarts gives a (Bongaarts, 1978); U(a,m) are age-
+
+value of 0.251. The total fertility rate method-specific proportions of mar-
+
+(TFR) is 2.621, and the total marital ried women currently using contracep-
+
+fertility rate (TM) is4.63, resulting ina tion; e(m) is a set of method-specific
+
+Cm of 0.566 (seeTable 1 for details). effectiveness weights; z{a) is age-
+
+2. Index of Contraception Cc is a specific proportions fecund. The ex-
+
+weighted index of age-method-specific pression
+
+proportions currently contracepting among married women, and agemethod-specific effectiveness levels of contraception. This index varies in-
+
+w)--Cc(a] =l 1mU{a,m) e[m)
+denotes the age-specific proportions
+
+versely with prevalence and use effec- not effectively contracepting amongfe-
+
+tiveness of contraception practiced by couples in thereproductive age groups. If contraceptive practice is absent or completely inefficient, Cc -- 1.0. With increasing prevalence and effective-
+
+cund married women. Table 2 presents the age-specific
+proportions of married women currently using different contraceptive methods (U(a,m)) and the use effec-
+
+ness, Cc falls below 1.0. The formula can be written as follows (Singh etal.,
+
+1985):
+
+U(a,m) elm) 1
+
+2 tnm{a) \ -
+
+z(a)
+
+Cc = -
+
+2 tnm{a)
+
+tiveness (e(m)) of these contraceptive methods. The e(m) values have been adapted from a study by Laing (1978) in thePhilippines, butslightly modified by Bongaarts for general use in developing countries. The z(a) values obtained as the simple mean of the pro-
+
+2 tnm[a) Cc{a)
+
+portions self-reported fecund from 28
+
+1 tnm(a)
+
+(3)
+
+TABLE 1
+
+CALCULATION OF INDEX OF MARRIAGE Cm: CHINA, 1981
+
+.Age Group
+
+Age-Specific Fertility Rates
+j{a)
+
+Proportion
+of Women in Union
+m(a)
+
+15-19 20-24 25-29 30-34 35-39
+40-44 45-49 Total
+
+0.0152 0.1818 0.2132 0.0704 0.0306
+0.0108 0.0022 0.5242 TFR = 5 * 0.5242 = 2.621 TM = 5 * 0.926 = 4.630 Cm = 2.621 / 4.630 = 0.566
+
+0.046 0.543 0.946 0.991 0.997
+0.998 0.999
+
+SOURCES: f(a), m(a) as provided by Xiao et al. (1983) and Zhong (1983). "Calculated as O.75*g(2O-24);see text.
+
+Age-specific Marital
+FertilityRates gla)=f(a)lmla)
+0.251" 0.335 0.225 0.071 0.031 0.011 0.002 0.926
+
+Vol. 39, No. 1-2
+
+Fertility Decline in China
+
+19
+
+WFS surveys (Singh et al., 1985) are used in this study, with a slight modification for the age group 40-44: 0.85 instead of 0.78, because the latter seems too low for China. Using these data, we first calculate Cc(a) through various steps shown in Table 3. First, h(a) = 1,U(a,m).e(m) are computed using the figures given in Table 2. For example, for age group 15-19, /z(1519)= (0.005 x 1.0) + (0.094 x 0.95) + (0.025 x 0.90) + (0.002 x 0.7) + (0.015 x 0.7) = 0.129. Second, each h{a) is divided by z(a), and then its
+
+complement Cc(a) is calculated. AH other calculations follow thereafter. This procedure yields a Cc of 0.367 for China (see Table 3).
+3. Index of Induced Abortion Ca equals the proportion by which fertility is reduced as the consequence of the practice of induced abortion. Bongaarts and Potter (1983) suggest using a straightforward formula
+f\a)
+{a)a{a) ' where f(a) are age-specific fertility rates, b(a) are births averted per in-
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+TABLE 2
+PROPORTIONS OF MARRIED WOMEN CURRENTLY PRACTICING SPECIFIC METHODS OF CONTRACEPTION, CLASSIFIED BY AGE, U(a,m): CHINA, 1981
+
+Age Group
+
+Female Steril.
+
+Male Steril.
+
+1UD
+
+Pill
+
+Condom
+
+Others
+
+Total
+
+15-19 20-24
+25-29 30-34 35-39
+40-44 45-49
+Total
+
+0.005 0.002
+0.122 0.264 0.304
+0.236 0.116 0.150
+
+0.000 0.007
+0.044 0.086 0.090
+0.109 0.072 0.058
+
+0.094 0.274
+0.432 0.400 0.360
+0.359 0.160 0.297
+
+0.025 0.050
+0.080 0.070 0.055
+0.048 0.022 0.050
+
+0.002 0.007
+0.016 0.015 0.017
+0.021 0.013 0.016
+
+0.015 0.028
+0.031 0.055 0.030
+0.038 0.042 0.034
+
+0.142 0.289
+0.726 0.854 0.865
+0.812 0.467 0.608
+
+e(m)
+
+1.000
+
+1.000
+
+0.950
+
+0.900
+
+0.700
+
+0.700
+
+SOURCES: Zhongguo Renkou Ziliao Zhongxin (China Population Information Center), p. 224 (1983): p. 219(1986).
+
+TABLE 3
+CALCULATION OF THE INDEX OF CONTRACEPTION CC: CHINA, 1981
+
+Age Group
+15-19 20-24 25-29 30-34 35-39 40-44 45-49
+Total
+
+Mat
+0.129 0.359 0.682 0.816 0.829 0.771 0.438
+0.575
+
+Ma) zla) zla) Ccla)
+
+0.99
+
+0.131
+
+0.870
+
+0.99
+
+0.363
+
+0.637
+
+0.98 0.696 0.304
+
+0.95
+
+0.854
+
+0.146
+
+0.91
+
+0.911
+
+0.089
+
+0.85
+
+0.907
+
+0.093
+
+0.52
+
+0.842
+
+0.158
+
+C = 0.926 / 2.523 = 0.367
+
+inmfa)
+0.289 0.526 0.740 0.487 0.350 0.118 0.013
+2.523
+
+tnmfa) *Cc(a)
+0.251 0.335 0.225 0.071 0.031 0.011 0.002
+0.926
+
+SOURCES: With the exception of z(a), all were calculated by the authors from the data provided by Zhongguo Renkou Ziliao Zhongxin (China Population Information Center), 1983 and 1986.
+
+20
+
+Cheng and Rajulton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+duced abortion, and a(a) are agespecific induced abortion rates. But, we prefer to weight this measure by tn(a) representing the age-specific schedule of natural fertility as follows:
+fla)
+
+ltn(a)
+
+2tn(a)
+
+(4)
+
+where
+
+tnm(a) tn[a) = Ca(a)
+
+represents natural fertility, that is, marital fertility in the absence of both contraception and induced abortion. The values
+
+Ca[a) = f[a) + b(a)a(a)
+denote the age-specific proportionate reduction in marital fertility due to induced abortion. The values b{a) are constant for all ages in Bongaarts; but here we use age-specific values provided in Qing (1987).
+To compute the index of induced abortion, we first calculate age-specific
+
+induced abortion rates a(a) for evermarried women by considering the number of abortions in 1981 (Zhongguo Renkou Ziliao Zhongxin, 1987). Since age-specific births averted per abortion (b(a)) are unavailable for the year 1981, we use the information provided by Qing (1987) for the year 1982. With fl(fl) and b(a) values, Ca(a) can be calculated. Thus, the estimated weighted index of abortion, Ca, is finally computed by using the above formula and is found to be 0.843 for China 1981 (see Table 4).
+4. Index of Postparium Infecundability Cj estimates the fertility-reducing effect of lactation by comparing average birth intervals in the presence and absence of lactation. If age-specific mean durations of postpartum amenorrhea are available, the following formula can be used to calculate the index (Singh etal., 1985):
+
+Xtr(a\
+Q = - Xtria)
+Xtr[a)CHa) ~~ 2,tr(a)
+
+(5)
+
+TABLE 4
+CALCULATION OF THE INDEX OF INDUCED ABORTION Ca: CHINA, 1981
+
+Age Group
+
+fta) +
+
+[b(a)*
+
+tn(a)
+
+b(a)
+
+a(a)
+
+a(a)]
+
+Cala)
+
+ln(a)
+
+·Cala)
+
+15- 19
+
+0.436
+
+0.009
+
+0.019
+
+0.800
+
+0.361
+
+0.289
+
+20-24
+
+0.519
+
+0.041
+
+0.203
+
+0.896
+
+0.587
+
+0.526
+
+25-29.. .
+
+0.672
+
+0.038
+
+0.239
+
+0.892
+
+0.830
+
+0.740
+
+30-34
+
+0.752
+
+0.025
+
+0.089
+
+0.791
+
+0.616
+
+0.487
+
+35-39 40-44.. 45-49
+Total
+
+0.762 0.739 0.623 4.503
+
+0.013
+
+0.041
+
+0.746
+
+0.004
+
+0.014
+
+0.771
+
+0.001
+
+0.003
+
+0.733
+
+0.131
+
+0.607
+
+5.629
+
+c.= 2.523 / 3.033 = 0.832
+
+0.468 0.153 0.018 3.033
+
+0.350 0.118 0.013 2.523
+
+SOURCES: b(a), age-specific births averted per induced abortion, obtained from Qing (1987); a/a) as published in Zhongguo Renkou Ziliao Zhongxin (The China Population Information Center), p. 224 (1983) and p. 221 (1986). Refer to Table 1 for/fa).
+
+Vol. 39, No. 1-2
+
+Fertility Decline in China
+
+21
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+tn(a)
+where tr(a) = ,, . , >denotes the age-
+specific natural fecundity rates,
+are age-specific indices of postpartum infecundability, and i(a) are agespecific mean durations of postpartum amenorrhea estimated from the mean durations of breastfeeding. Singh et al. (1985) estimated the mean durations of breastfeeding using the "prevalence/ incidence" method. The symbol p(a) represents the length of the birth interval in months without the effects of lactational postpartum amenorrhea, while q{a) represents the length of the birth interval without the effects of both lactational and non-lactational postpartum amenorrhea. These two values have been estimated by Hobcraft and Little (1984) so as to reflect the variation in mean waiting time to conception (and fetal mortality as well) with age.
+Since a direct measure of /(«) is not available for the whole of China, we approximate its value from the information obtained in the In-depth Fertility Survey 1985. The durations of
+
+breastfeeding are large in both urban and rural areas. Mean durations of postpartum amenorrhea are 3.60 months in Shanghai, 5.91 in Hebei, and 6.07 in Shaanxi (SSB, 1986), yielding a mean of 5.19 months. Considering the fact that a majority of the Chinese population lives in rural areas, the mean durations of postpartum amenorrhoea should be even longer. For lack of more precise information, we assume the average duration of postpartum amenorrhea i(a) to be five months. Further, using the p(a) and q{a) values as estimated by Hobcraft and Little (1984) for calculating the index Cj (see Table 5), we finally arrive at a C, of 0.852 for China and a total fecundity (TF) of 17.8 (that is, 5* 3.56). While this TF is substantially higher than the average (15.3) computed by Bongaarts, it is not too far off from the TF's computed by other research papers. The difference may be attributable to several factors, possibly real (biological) differences or possibly computational over-estimation of the fertility-inhibiting effect of any one of the proximate determinants. In the absence of any other definitive computation of TF for China, we prefer to use
+
+TABLE 5
+CALCULATION OF INDEX OF POSTPARTUM INFECUNDABILITY, C,: CHINA, 1981
+
+Age Group
+15-19 20-24 25-29 30-34 35-39 40-44 45-49
+Total
+
+plat
+18.5 17.0 20.0 20.0 23.0 38.0 94.0 230.5
+
+qlat
+17.0 15.5 18.5 18.5 21.5 36.5 92.5 220.0
+
+q(a) + i(al1
+22.0 20.5 23.5 23.5 26.5 41.5 97.5
+
+Cifat
+0.841 0.829 0.851 0.851 0.868 0.916 0.964 0.868
+
+rr(at
+0.429 0.708 0.975 0.724 0.539 0.167 0.019 3.561
+
+tr(a) *CHa)
+0.361 0.587 0.830 0.616 0.468 0.153 0.018 3.033
+
+3.033 / 3.561 = 0.852
+
+SOURCES: p(a) and qia) from Hobcraft and Little (1984). Other data as provided in Zhongguo Renkou Ziliao Zhongxin (China Population Information Center) (1983).
+
+22
+
+Cheng and Rajulton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+the figure we arrived at and proceed timate what fertility would be in the ab-
+
+with the decomposition of the relative sence ofany one or combination ofthe
+
+contribution toward fertility decline of indexes. Total fecundity (TF) repre-
+
+the four proximate determinants.
+
+sents fertility inthe absence of all four
+
+5. Multiplicative Effects ofProximate determinants. Total marital fertility
+
+Variables.--Since each index associ-
+
+TF
+
+ated with anintermediate variablere- (TM = jr- = 5 2 g(a))represents fer-
+
+veals the proportionate reduction in tility if allwomen in thereproductive
+
+fertility that it causes, the total fertility rate (TFR) isa product of the four indexes times the total fecundity rate (IP):
+TFR = Cm*Cc*Ca*Ci*TF = 0.566*0.367*0.832*0.832*17.8 = 2.621
+
+ages were married. Total natural marTM
+ital fertility (TNM = -£- = 2 tnm{a)) represents fertility in the absence of contraception. Total natural fertility
+TM (TN = ~r = 5 2tn[a)) represents the
+fertility of a population that doesnot voluntarily practice birth control and
+
+induced abortion. And, total fecundity
+
+which, as expected, isthe observed to-
+
+TN
+
+tal fertility rate for 1981. Thedrastic reduction from total fecundity (17.8)to
+
+(TF = -7T- = 52tr[a)) represents fertil-
+
+observed fertility (2.62) clearly shows ity in theabsence of lactation.
+
+the great inhibiting effects of the four intermediate variables.
+
+DISCUSSION
+
+Given thestraightforward multipli- Table 6 summarizes all the measures
+
+cative nature of Bongaarts's account- derived in this section (for all ofChina)
+
+ing scheme, it isa simple matter toes- and provides for comparative purposes
+
+TABLE 6
+INDICES OF FOUR PROXIMATE DETERMINANTS: CHINA, 1981, AND SHANGHAI MUNICIPALITY, HEBEI AND SHAANXI PROVINCES, 1985
+
+INDICES
+Cn Cc Ca C,
+Combined.... M a i
+
+1981
+CHINA
+0.566 0.367 0.832 0.852
+0.147 0.605 0.131 5.190
+
+Shanghai
+0.544 0.317 0.499 0.905
+0.078
+0.745 1.612 3.600
+
+TFR TM TNM TN TF
+
+2.621 4.630 12.615 15.165 17.800
+
+1.324 2.434 7.678 15.386 17.000
+
+SOURCES: 1985 indices from Gao et al. (1989).
+
+1985
+Hebei
+0.647 0.338 0.849 0.819
+0.147
+0.655 0.688 5.910
+2.512 3.883 11.487 13.530 17.000
+
+Shaanxi
+0.617 0.398 0.884 0.814
+0.177
+0.606 0.551 6.070
+3.006 4.872 12.241 13.847 17.000
+
+1985
+AVERAGE OF THREE LOCALITIES
+0.603 0.351
+0.744 0.846
+0.134
+0.669 0.950 5.190
+2.281 3.730 10.469 14.254 17.000
+
+Vol. 39, No. 1-2
+
+Fertility Decline in China
+
+23
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+the measures estimated for the three provinces using the In-depth Fertility Survey data. For all of China, the effect of contraception is the most significant (0.367), followed next by the effect of prevailing marital structure (0.566). The fertility-inhibiting effects of abortion (0.832) and of postpartum infecundability (0.852) are rather small. The relative importance of the fertility-inhibiting effect of each can be examined more clearly by taking (common) logarithms of the four indexes:
+log (Cm*Cc*Ca*Ci; i.e., log (0.566* 0.367* 0.832*
+0.852) = log (0.147); i.e., (-0.247) + (-0.435) + (-0.080)
++ (-0.069) = (-0.833).
+These results show that 52.2 per cent (0.435/0.833) of the combined inhibiting effects on TFR is due to contraception. Thus, in China, contraceptive prevalence has made a far greater contribution to the decline in total fertility than any other variable. Next in importance is the existing marital structure, resulting in 29.8 per cent (0.247/0.833) reduction in TFR. Given the almost universal marriage among Chinese women (from a cohort perspective), such a large inhibiting effect of the marital structure prevailing in 1981 can only be attributed to the compulsory delay in marriage. The mean age at marriage rose sharply after 1970: in the eight years from 1971 to 1979 the increase was twice what the increase had been in the 21 years from 1950 to 1971. This conspicuous rise in age at marriage in the 1970's was certainly enhanced, if not altogether produced, by government pressures on the program to reduce the birth rate. The official policy was "later marriage, longer
+
+birth intervals, and fewer children." Women were encouraged to postpone marriage until age 23 in rural areas and until age 25 in cities (Tien, 1983).
+In sharp contrast to the effects of marriage and contraception, the contributions made by induced abortion and lactational infecundability are small, only 9.6 per cent and 8.4 per cent, respectively. Thus, it is obvious that China's fertility transition is largely the outcome of increasing deliberate marital fertility control.
+A comparison of the indices with those attained by Gao et al. (1989) for Shanghai Municipality and Hebei and Shaanxi Provinces throws light on changes over time and differences among provinces in the inhibiting effects of the proximate determinants (see Table 6). Shanghai Municipality is the largest industrial base, where various socioeconomic and health service indicators, such as per-capita income, educational attainment, and medical services are among the highest in China. Shaanxi and Hebei, on the contrary, are predominantly rural. All indices of proximate determinants for these two provinces have higher values, and hence lower fertility-inhibiting effects. Contraception has a more pronounced effect in 1985 as in 1981, especially in Shanghai. The effect of marital structure too is more pronounced in Shanghai than in other provinces.
+Unlike the rural provinces, however, the 1985 estimates show that induced abortion has a rather high inhibiting effect in Shanghai, and postpartum infecundability the least. The reason for high induced abortion is unclear. A possible explanation lies in the fact that the Shanghai Municipality
+
+24
+
+Cheng and Rajulton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+authorities paid more attention to the practice of abortion among those who failed to use contraceptive methods and went on to conceive unwanted pregnancies.
+The estimates we have obtained for the whole of China in 1981 seem to hold true for rural provinces like Shaanxi and Hebei in 1985. An overall comparison reveals a good agreement in the order of importance of the four proximate determinants with the averages of the three localities, excepting the unique feature of induced abortion in Shanghai. On the whole, ruralurban as well as regional differences in the contribution of the four proximate determinants to reducing fertility do persist in China.
+Bongaarts (1983) classified populations into four transition phases according to different fertility levels: (a) TFR over 6.0, mainly in the developing countries; (6) TFR lying between 4.5 and 6.0; (c) TFR between 3.0 and 4.5; and {d) TFR less than 3.0, mainly in the developed countries. Most popula-
+
+tions in Phase I have a fertility level close to that of natural fertility, while populations in Phase IV have completed most or all of the fertility transition. Relevant estimates of the measures obtained for China can be compared with those obtained by Bongaarts for those four transition phases (presented in Table 7). The total fertility rate in China is very close to that of developed countries (2.62 against 2.06). What the indices of proximate determinants clearly reveal is the remarkable similarity between China and the developed countries. The difference in the total fertility rate of course combines the impact of all immediate fertility variables. The greatest impact on TFR is through contraception accounted for by both contraceptive effectiveness and proportion currently using contraception. The rates (M) are 0.61 in China and 0.69 in the developed countries.
+Among the four indexes, Cc and Cm are found to be higher in China than in developed countries. The index C, is
+
+TABLE 7
+INDEXES OF FOUR PROXIMATE DETERMINANTS, CHINA, 1981, COMPARED WITH THOSE OF FOUR TRANSITION PHASES
+
+Index
+Cm Ce Ca C,
+Combined....
+u a ;
+TFR TM TNM
+
+Developing Countries
+I
+O78 · 0.91
+1.00 0.65
+0.46
+0.10 0.00 12.90
+7.03 9.08 9.97
+
+II
+O63 0.68 1.00 0.78
+0.33
+0.35 0.00 7.60
+5.03 8.08 11.93
+
+Phases
+'
+
+III
+O55 0.63 0.96 0.76
+0.26
+0.40 0.38 8.50
+3.88 7.05 11.67
+
+Developed Countries
+IV
+O55 0.30 0.89 0.93
+0.14
+0.69 0.46 3.00
+2.06 3.80 14.23
+
+China 1981
+0.566 - 0.367
+0.832 0.852
+0.147
+0.605 0.131 5.000
+2.621 4.630 12.615
+
+SOURCE: Bongaarts. 1983.The results for China as presented in this paper.
+
+Vol. 39, No. 1-2
+
+Fertility Decline in China
+
+25
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+much lower in China which, according to our assumption, has a mean postpartum non-susceptible period of about five months. But in the developed countries, this period is much shorter (about three months), and the index equals 0.93, a factor being of least importance. This index of C, in China is typical of the pattern prevailing in semideveloped countries which has a mean postpartum non-susceptibility period of about 7.6 to 8.5 months. As in developed countries, lactational infecundability holds the last place in inhibiting potential fertility in China, whereas it ranks third in countries which are in the second and third phases of transition.
+CONCLUSIONS
+We have applied the accounting scheme developed by Bongaarts to estimate the contribution of four principal proximate variables--proportions married, contraception, abortion, and lactational infecundability--to the fertility level in China during the recent period of fertility decline. Results indicate that the most important inhibitor of potential fertility is deliberate control. Its contribution to fertility change has been far greater than all other proximate determinants. The marital structure of the population is the second most important factor, and lactational infecundability and induced abortion are relatively unimportant. Thefindingsgive evidence to the major role played by the family planning program and the government population policies; the "late, longer, and few" policy starting in 1971 and the "one couple, one child" policy launched in 1979, undoubtedly served as an engine
+
+propelling the fertility transition to a substantial degree. Such a rapid transition does not seem to have depended much on the socioeconomic development policies, as is customarily described, since even now the Chinese population is overwhelmingly rural and agricultural (Cheng, 1987).
+Future prospects for retaining a low level of fertility are unclear. Whether the same policies will be more vigorously implemented or relaxed is uncertain. However, the present study at least points to certain future research needs and policy implications. First, since marriage is almost universal in China, with only few remaining single throughout the reproductive age span, and since marital dissolutions as well as remarriages are uncommon, it would be unrealistic to expect further lowering in the index of Cm given that age at marriage now is relatively high, except perhaps in some special local circumstances.
+Second, breastfeeding also is universally practiced, if not for long duration, especially in rural areas. Since postpartum infecundability resulting from breastfeeding has a fertilityinhibiting effect, natural marital fertility in China is much lower than in the developed countries. During the last decade or so, a moderate decline in the mean duration of breastfeeding has taken place. Presumably, the decline in the duration of breastfeeding has operated against the prevailing trends towards lower marital fertility. Thus, lactation as a way of improving child health and reducing infant mortality may be promoted to indirectly influence fertility.
+Third, the index Ca of abortion seems to have a strong fertility inhib-
+
+26
+
+Cheng and Rajulton
+
+Social Biology
+
+iting effect incities like Shanghai. It is trol. Thepractice ofcontraception has
+obvious from the findings in this study become pervasive during the last de-
+that a goal of further substantial reduc- cade. However, differentials in contra-
+tion in fertility cannot but consider ceptive use between regions (ruralabortion as a policy option. Being urban) and among educational and aware of thepolitical sensitiveness of income groups arestill large at present. the issue, a cautious recommendation Public policy should ensure the rapid of conducting further in-depth re- spread ofknowledge about and access search onthe subject can be offered. to contraception, asa means to assure
+Finally, the most important proxi- birth control and especially as an altermate determinant responsible for the native means to obtain the desired recent decline in Chinese fertility has spacing between births.
+been deliberate marital fertility con-
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+REFERENCES
+
+BONGAARTS, J. 1978. Aframework for analyzing
+
+posure analysis: Anewmethod forassessing
+
+the proximate determinants offertility. Pop.
+
+the contribution of proximate determinants
+
+Dev. Rev. 4:105-132.
+
+of fertility differentials. Pop. Stud. 38:21-45.
+
+. 1983.Thefertility-inhibiting effects of LAING, J. 1978. Estimating the effects ofcontra-
+
+the intermediate fertility variables. Stud.
+
+ceptive use on fertility. Stud. Fam. Plan.
+
+Fam. Plan. 13:179-189.
+
+9:150-175.
+
+BONGAARTS, J., and R. G. POTTER. 1981.The im- QING, F. 1987. Estimation of the effects of family
+
+pact on fertility of traditional and changing
+
+planning on the decline of fertility rate in
+
+child-spacing practices, p. 112-129. In H. J. China. Pop.Sci.China. 2:12-21.
+
+Page and R. Lesthaeghe (eds.). Child- SINGH, S., J. B. CASTERLINE, and J. G. CLELAND.
+
+spacing in tropical Africa: Traditions and
+
+1985. The proximate determinants of fertil-
+
+change. Academic Press, New York.
+
+ity: Subnational variations. Pop. Stud. 39:
+
+. 1983.Fertility, biology and behviour:An
+
+113-135.
+
+analysis ofthe proximate determinants.Aca- TIEN, H. Y. 1983. Age at marriage in the Peo-
+
+demic Press, London.
+
+ple's Republic of China. The China Quart.
+
+CHENG, C. 1987. Fertility transition in China.
+
+93:90-107.
+
+Unpublished M.A. thesis. Department of WANG, S. X., Y. D. CHENG, C. H. C. CHEN,
+
+Geography. University of Colorado, Boul-
+
+R. W. ROCHAT, L. P. CHOW, and R. V.
+
+der. RIDER. 1987. Proximate determinants of fer-
+
+CHINA STATE STATISTICAL BUREAU. 1986. China
+in-depth fertility survey (Phase I). Vol. 1.Bei-
+
+tility andpolicy implications in Beijing. Stud. Fam. Plan. 18:222-228.
+
+jing.
+
+XIAO, W. C., M. H. LI,and L. Y. WANG. 1983.
+
+COALE, A. 1984. Rapid population change in
+
+Changes ofwomen's total fertility rates since
+
+China, 1952-1982. National Academy Press,
+
+1950's. Pop.Econ., Special Issue, p.52-55.
+
+Washington, D.C.
+
+ZHONG, G. S. 1983. Marital status of reproduc-
+
+DAVIS, K., and J. BLAKE. 1956. Social structure
+
+tive women. Pop. Econ., Special issue, p.
+
+and fertility: Ananalytic framework. Econ.
+
+109-110.
+
+Dev. Cult. Change. 4:211-235.
+
+ZHOUGGUO RENKOU ZILIAO ZHONGXIN (CHINA
+
+GAO, E. S., C. Z. CHENG, and X. Y. Gu. 1989.
+
+POPULATION INFORMATION CENTER). 1983.
+
+Analysis onfertility intermediate variablesof
+
+China population information handbook.
+
+Shanghai, Hebei and Shaanxi. Pop. Sci. Beijing.
+
+China. 1:21-28.
+
+. 1986. China population information
+
+HOBCRAFT, J., and K. LITTLE. 1984. Fertility ex-
+
+handbook. Beijing.
+
+

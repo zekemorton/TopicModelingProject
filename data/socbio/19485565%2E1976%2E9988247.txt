@@ -1,0 +1,1053 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+A conceptual model for the identification, organization, and measure of influence of fertility policies and programs
+Brian F. Pendleton
+To cite this article: Brian F. Pendleton (1976) A conceptual model for the identification, organization, and measure of influence of fertility policies and programs, Social Biology, 23:4, 326-340, DOI: 10.1080/19485565.1976.9988247 To link to this article: http://dx.doi.org/10.1080/19485565.1976.9988247
+Published online: 23 Aug 2010.
+Submit your article to this journal
+Article views: 2
+View related articles
+Citing articles: 3 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:36
+
+A Conceptual Model for the Identification, Organization, and Measure of Influence of Fertility Policies and Programs
+
+X3
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Brian F. Pendleton
+Department of Sociology and Anthropology Iowa State University Ames, Iowa
+ABSTRACT: The conceptual model presented allows for the identification and organization of different kinds of fertility policies and programs, as they affect fertility, and the relevant elements of the sociocultural variables, dichotomized into "structural" and "cultural" components, that can be associated with fertility. Support for the model was obtained by "fitting" Puerto Rican fertility policies and programs, and structural and cultural components, to the model. Seventeen regression equations using polynomials to the third degree are used for the statistical interpretation of the Puerto Rican data. The results indicate that the use and interpretation of the model and some of the polynomial regression analyses are successful.
+
+The important question "What are the ments of the sociocultural variables that
+
+factors affecting fertility?" has been tack- can be associated with fertility. The rela-
+
+led by researchers a number of times. But, oddly enough, a view of fertility change from a policy perspective that reflects sociocultural components of fertility has
+
+tionship identified is such that sociocultural variables act as intervening variables between fertility policies and programs and a change in fertility.
+
+rarely been attempted. As a result, and also because of insufficient sociological research, two problems arise.
+One is a lack of knowledge concerning the effect that different kinds of fertility policies and programs have on fertility. The second is that little has been done to determine the sociocultural factors amenable to government intervention through which change in fertility can occur. The importance of identifying such variables becomes clearer when one considers that governments have long been enacting fertility programs without adequate benefit of a sociological perspective.
+These two problems have prompted the author to develop a conceptual model that can identify different kinds of fertility policies and programs as they affect fertility and also identifies the relevant ele-
+
+The model that is briefly presented seems relatively comprehensive and suited to empirical analysis. It can be used to uncover the effect fertility policies and programs have on fertility.
+If the structural and cultural elements of the model can be identified in a country, and a change in them can be attributed to specific fertility policies and programs, then such a change can be identified and measured. This is the general proposition that represents this exploratory study's methodological approach.
+A test of the model can be accomplished by "fitting" a country to the model. This involves three steps. First, the relevant literature is reviewed and fertility policies and programs and sociocultural elements are identified. An interpretation is then made of the influence of fertility policies
+
+326
+
+Vol. 23, No. 4
+
+Conceptual Model
+
+327
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+and programs on the sociocultural variables, and the sociocultural variables on fertility. The number and types of sociocultural variables used may differ, depending upon the country.
+The second step involves the statistical analysis. Because the interest in these data lies in their trend over a specified period of time, a type of trend analysis using polynomial regression is used to "test" the trend of birth or fertility rates.
+The third step integrates the conclusions of an extensive literature review and the statistical analysis.
+DEVELOPMENT OF THE MODEL
+FERTILITY POLICIES AND PROGRAMS
+Fertility is being increasingly identified as one of the most important problematic factors in population growth. Drawing from discussions on population policy by Eldridge (1968, p. 381; 1954, p. 5), Lorimer (1969), Nortman (1964), National Academy of Sciences (1971), and Taylor (1968), we may define a fertility policy as the method or course of action that has been adopted by a government and is designed to influence and to determine decisions regarding the fertility of a country. There are two kinds of fertility policies, explicit and implicit.
+An explicit fertility policy is one that is expressed by the government as a fertility policy. An explicit fertility policy is either "restrictive," i.e., designed to provide principles for limiting further growth or change (Spengler and Duncan, 1956, p. 441) or "expansionist," i.e., advocating an increase in population or the rate of growth (Cook, 1951; Glass, 1936; and Wright, 1939).
+The procedural action of the fertility policy is the fertility program. It is an organized list of procedures--a schedule arranged to produce an intended observable effect following the principles set forth by
+
+the fertility policy (Eldridge, 1954; Kirk, 1970, p. 87). Fertility programs are either "responsive" to population change, i.e., "they are enacted to ameliorate or overcome the effects of rapid population growth" (American Universities Field Staff, 1972, p. 289) (emphasis mine), or they are "influencing" population change (American Universities Field Staff, 1972, p. 289; National Academy of Sciences, 1971, pp. 70-72, 77-95), i.e., pro-natalist or anti-natalist (Thomlinson, 1965; Peterson, 1969). While fertility programs are enacted under guidance of a policy perspective and are designed with "intended" structural and cultural effects, they may, in fact, have "unintended" effects.
+At the same level as explicit fertility policies are implicit policies. Implicit fertility policies do not reflect the avowed purposes of the government and are not expressed as fertility policies.
+The last variable, time, is perhaps the one important variable which can be used to measure change in fertility. Time is divided into "short-term" and "long-term" effects (Spengler, 1955). This distinction is important because the greater the period of time, the greater the possibility that other fertility and nonfertility programs will intervene and confound the effects of the fertility programs being studied.
+SOCIOCULTURAL VARIABLES:
+STRUCTURAL COMPONENTS
+Structural components refer to the characteristics of patterned social order (Olsen, 1968, pp. 44-50). The first three structural factors are discussed in depth by Davis and Blake (1956). They include factors affecting exposure to intercourse, exposure to conception, and gestation and successful parturition. An up-date and general expansion to include more fully the industrialized countries can be found in Davis (1967), Deyrup (1962), Gold-
+
+328
+
+Pendleton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+scheider (1971), Hartley (1972), Pendleton (1974a), and Thomlinson (1965).
+The fourth variable affecting fertility is the social organization of the society; the coordination of social relationships among individuals and groups. The patterned regularities of behavior that represent stable organization promote conformity to traditional practices which may be supporting a high or low fertility rate. Degrees of disorganization, usually stimulated by very rapid social change, may affect fertility by reducing conformity to traditional fertility behavior or by contributing to the spread of sterility-inducing diseases, pestilence, famine, and sacrifice (Freedman, 1961, pp. 64, 66; Lorimer, 1969, pp. 248, 251; Peterson, 1969, pp. 391-392).
+The fifth variable is education and socialization. Education involves the systematic transfer of skills or specific knowledge (Davis, 1949, pp. 218-220). In reference to fertility, education can be divided into two types of influence (Nam, 1968, p. 515). The first is education's influence on the standard and style of living. Most prominent here is the inverse relationship between education (or social class) and fertility (American Universities Field Staff, 1972, p. 20; Banks, 1968, p. 515; Beshers, 1967, pp. 499-500; Bogue, 1969, pp. 676-677; Liu, 1970, pp. 473-484; National Academy of Sciences, 1971, pp. 53-54; Peterson, 1969, pp. 117, 501-503; and Thomlinson, 1965, pp. 180-183). The second influence of education involves the dissemination of available contraceptive knowledge. Education provides the individual with knowledge needed to regulate fertility behavior (Nam, 1968, p. 515; also see the Commission on Population Growth and the American Future, 1972, pp. 123-- 124).
+The sixth and last variable, health and welfare, is divided into physical health, mental health, and welfare. An increase in physical health for any country can "in-
+
+crease fertility rates, partly by permitting more people to survive to the reproductive ages and partly by reducing diseases and physical disabilities that cause sterility" (Ford and Dejong, 1970, p. 400; also see Corsa and Oakley, 1971; Hartley, 1972, pp. 214-215; National Academy of Sciences, 1971, p. 3; and Peterson, 1969, p. 230). The influence of mental health on fertility deals with a greater sense of group belongingness, fulfillment of various psychic rewards, and greater employment opportunities (for women) resulting in women wanting smaller families (Population Reference Bureau, 1970, p. 26). The impact of welfare on fertility is very unclear. Inducements (e.g., monetary rewards) to limit or increase fertility have been used, but the actual effect seems to be minimal or linked to other variables in a complex fashion (Carr-Saunders, 1968, pp. 143-153; Ford and Dejong, 1970, pp. 400, 402; Pendleton, 19746; Schorr, 1970, pp. 441-453).
+SOCIOCULTURAL VARIABLES:
+CULTURAL COMPONENTS
+Cultural factors consist of "all shared beliefs and knowledge, the norms or expectations" of behavior "and the. values or ideas of what is most desirable, as well as the evaluations of actual behavior in light of the shared beliefs, expectations and values" (Hartley, 1972, p. 198). Three components of culture are distinguished for the purposes of this paper: knowledge and beliefs, values, and norms and mores.
+The knowledge and beliefs of a society are similar and tend to be distinguished as a matter of degree. Beliefs are a matter of faith and emotion as opposed to the scientific "truth" or "reality" of knowledge, but both are regarded as real and true. Beliefs or knowledge about male virility, biblical requirements for progeny (Davis, 1949, pp. 561-562), being a "complete" woman (Thomlinson, 1965, pp. 155-156), con-
+
+Vol. 23, No. 4
+
+Conceptual Model
+
+329
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+ception, contraception, or the advantages of raising small or large families (Bogue, 1969, p. 678; Hartley, 1972, pp. 46-48) all serve to influence fertility.
+Values are often regarded as cherished ideas or ideals. They carry with them the emotionally charged feeling of right and wrong and tend to determine what is considered desirable, worthwhile, and important; they can also explain and justify behavior. Values, as they are related to fertility, can be tangible, i.e., monetary and nonmonetary (Meadows, 1956, p. 441; Hartley, 1972, p. 257), or intangible. Intangible values include immaterial assets (Hartley, 1972, p. 257), spiritual inducements to enter marriage and produce children (Thomlinson, 1965, p. 560), perpetuation of the family lines (Lorimer, 1969, p. 247), sex preference of offspring (Population Reference Bureau, 1970, p. 25), and the development of attitudes toward pregnancy and parenthood (Davis, 1967, p. 737; Lorimer, 1969, pp. 249-250).
+The third cultural component includes norms and mores. Norms define the legitimate objectives worth striving for (Merton, 1949, p. 126), while mores are obligatory norms supported by core values of the culture. In a demographic sense, social norms and mores are those dealing primarily with reproductive processes, or those regarded as "normal" in relation to marriage and reproduction. Examples include the interpersonal communication involved in family planning decisions (Freedman, 1961; Stycos, 1968a, p. 438) and sanctions employed to promote certain kinds of fertility behavior (Davis, 1949, pp. 557-561; 1963, pp. 362-365).
+APPLICATION OF THE MODEL: THE CASE OF PUERTO RICO
+The Commonwealth of Puerto Rico was chosen as an empirical example to fit the model because of three factors: (a) as a
+
+Commonwealth of the United States since 1952, and before that a Territory, it is assumed that special attention was given to the collection and reporting of demographic data; (b) "no soundings of public or private opinion prior to the 1960's with respect to family planning were taken in Latin America, other than in Puerto Rico" (Stycos, 1971, p. 76); and (c) a preliminary review of the literature showed a fairly large body of social demographic information available for Puerto Rico.
+FERTILITY POLICIES AND PROGRAMS
+Puerto Rico made what are possibly the earliest attempts of fertility control among Latin American nations (Nortman, 1964, p. 18). Since the early 1930's, Puerto Rico has officially had a policy of "restriction" with respect to population growth. While this policy has been somewhat overshadowed by religious pressure and World War II, it has manifested itself with both fertility programs and a slow but constant change of attitude toward acceptance of birth control by the population.
+For Puerto Rico, programs reported most often and in the greatest detail are the family planning programs. These programs, since 1940, are listed below in chronological order.
+In 1946, a voluntary organization called the Association of Population Studies was formed for the purposes of contraceptive education and dissemination, research, and financial aid for sterilization and fertility services (Curt, 1966, p. 230). Funding for the Association initially came from the Planned Parenthood Association of America. Soon afterwards, other private sources began granting money to the Association because funds could not be obtained from the Puerto Rican government (Back et al., I960, p. 565; United Nations, 1972, pp. 69-70).
+In 1959 the name was changed to the Family Planning Association. This new
+
+330
+
+Pendleton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Association "started a unique campaign of utilizing lay voluntary leaders to distribute a vaginal contraceptive cream on an island-wide basis" (Curt, 1966, p. 231). But because of the lack of funding, the programs supported by the Family Planning Association had all but disappeared by 1965 (Kelly, 1972, pp. 49-50).
+Then, in mid-1964, the University of Puerto Rico's Medical School began a program for an area that included San Juan, Puerto Rico's largest city. The program was most active between 1964 and 1968 (Torres, 1969, p. 115).
+In 1966, the United States Office of Economic Opportunity gave a sizable grant to the almost defunct Family Planning Association of Puerto Rico (Torres, 1969, pp. 121-122; Kelly, 1972, p. 50).
+Since 1967, the Puerto Rican government has reportedly taken steps to support more actively the organizations already in existence and to support research and educational activities directed toward fertility control (Torres, 1969, pp. 118-121).
+SOCIOCULTURAL VARIABLES
+A general survey of the relevant literature on Puerto Rico produced sociocultural information that was classified according to the listing of the sociocultural variables presented earlier (Pendleton, 1974a). The eight variables discussed below were determined as influencing fertility.
+Age at first marriage is extremely low. During the early 195O's, about 50 per cent of women were married by the time they were 16 years of age, and by age 21, nearly 90 per cent of women were married. Information from the United Nations (summarized by Pendleton, 1974a) indicates that there was also a fairly low age of entry into a consensual union and that this low age of entry continued into the late 196O's.
+Theoretically, a low age of entry into a sexual union does not necessarily mean a
+
+low age for first birth. However, the United Nation's data for Puerto Rico show that between 1949 and 1966, 70 to 80 per cent of all first births occurred to women under 24 years of age (Pendleton, 1974a, p. 73). Women under the age of 19 alone accounted for 40 per cent of the total first births. Thus, there has been a consistently low age both for entry into a sexual union and for first birth.
+Puerto Rico was small enough for mass emigration1 to act as an effective safety valve in halting what would have been extremely rapid population growth (Thomlinson, 1965, p. 342). Occurring between 1946 and 1959, the mass emigration largely involved the age group 15-44 years old (Friedlander, 1965). What effect emigration had on lowering fertility is discussed later.
+On the surface, figures for sterilization (voluntary infecundity) are impressive. Approximately 17 per cent of the female population was sterilized in the early 195O's (Back et al., 1960, p. 572), and by 1965 this figure had increased to about 34 per cent (United Nations, 1972, p. 100). But the majority of the women were sterilized after their fourth pregnancy, and because of the popularity of the operation, many women were motivated to have their children earlier (Hill et al., 1969, pp. 176-177; Hatt, 1952, p. 447). The latter influence would tend to support an increase in fertility.
+Before the introduction of the "pill" and the IUD, birth control use was irregular and probably had little influence. The IUD, and the pill as well, seemed to have the "once and for all" appeal that made sterilization so popular. The effect of the contemporary methods is unclear, although by 1965 50 per cent of the females
+1 Mass emigration is classified as involuntary abstinence because of the separation of a couple when one spouse leaves Puerto Rico to find a new or better job and to establish a financial base before sending for the remaining spouse.
+
+Vol. 23, No. 4
+
+Conceptual Model
+
+331
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+of reproductive age were estimated to be using birth control, of which 28 per cent were using the pill or IUD (Vazquez, 1968; Satterthwaite, 1966).
+Overt religious disapproval of birth control did little to halt its use. What effect the anti-birth-control campaign had was reflected in the government, which ended up adopting a fairly neutral public position in the birth control debate (Back et al., 1969, p. S68). Church denunciation did have some apparent pro-birth-control impact. The publicity intended to be against contraception actually served to disseminate information about contraceptives all over the island, which actually may have served to promote their use (see Stycos, 19686, pp. 98-115).
+A lack of communication between spouses has served to impede the progress of birth control use (Stycos, 1962, pp. 311-312; Hill et al., 1959, pp. 147-162). Without communication between partners in the area of sex and birth control, the success of a birth control program diminishes (Stycos, 19686, pp. 140-141).
+Education has served as a building block for furthering the spread of birth control knowledge and decreasing the traditional attitude of viewing children as economic benefits. The more educated, especially the rural educated, used birth control more often and knew where to go for contraceptive services and information (Back et al., 1960).
+Health conditions have improved correspondingly with a decrease in infant and maternal mortality rates. The result is not only longer life expectancy but an increase in potential reproduction (Curt, 1966, p. 229, Vazquez, 1968, p. 862).
+While knowledge of birth control is very high, many women do not obtain this knowledge until after their third child. The remaining women also run into problems with irregular use of birth control and lack of communication with their
+
+spouses (Hill et al., 1959; Back et al., I960).2
+METHODOLOGY
+Trend analysis using polynomial regression is used for the data analysis covering several periods of time. The crude birth rate and fertility rate are used as dependent variables representing "fertility." Emigration is included because of its reported importance in affecting Puerto Rico's fertility.
+Polynomial regression uses regression equations of varying degrees to fit the data (Draper and Smith, 1966; Winer, 1962, pp. 70-71, 218-220). If the trend of the data is a straight line, a linear equation is used to provide the best explanation. A second degree (quadratic) equation, or that which determines the data as having either a change from an upward to downward movement or the reverse, may provide a better explanation than the linear trend. A third degree equation, using the cube of the predictor variable found in the linear and second degree equations, may provide still another, possibly better, explanation for the trend of the data. The third degree equation describes two changes in the direction of the data (Cooley and Lohnes, 1971, pp. 76-95; Kelly and Beggs, 1969; Ward and Jennings, 1973; Williams, 1974, pp. 124-143).
+The format of the analysis of variance table which is used for each set of regression equations is presented in Cooley and Lohnes (1971, p. 80). The sum of squares is represented as the multiple correlation squared (i?2), indicating the overall effectiveness of the multiple regression.
+An initial F value is calculated for all
+2 The impact of Puerto Rico's socioeconomic development is unclear. Socioeconomic development, as a generic term, may be represented by the empirical indicators of education and health conditions. However, while other socioeconomic indicators may be important, we remain with the socially oriented variables in this study.
+
+332
+
+Pendleton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+three equations for the reduction due to cover the entire period from 1947 to 1970,
+
+the model. This F value is used as the the time period when most of the more
+
+decision rule for determining if there is recent attempts to change fertility were
+
+deviation from the expected linear, sec- being made. Knowing the effects of emi-
+
+ond, or third degree trend. If the F value is gration on fertility from the first two sets
+
+significant, the fertility or birth rate does of equations, we can then identify the sig-
+
+not deviate from the trend defined by each nificant variation in fertility from set
+
+equation. Such lack of deviation means three. The fertility rate, and not the crude
+
+that there is a "curve of smoothness" for birth rate, is used as the criterion variable
+
+fertility variation, and there are probably because of its greater accuracy in represent-
+
+no changes in the fertility or birth rate that ing fertility.
+
+can be associated with fertility policies or
+
+programs. If the F value for the reduction
+
+RESULTS
+
+due to the model is not significant, it indicates that there are sharp variations in the fertility or birth rate that may be associated with fertility policies or programs.
+A second F value is calculated for the reduction (of the residual) due to the addition of either the quadratic or cubic trend. This F value indicates if the addition of the quadratic equation significantly increases the amount of variance explained beyond that for the linear trend, and if the addition of the cubic equation significantly increases the amount of variance explained beyond that for the quadratic
+
+The first set of regression equations, covering the years 1947 to 1962, attempts to identify the influence of Puerto Rico's out-migration on fertility. We are now able to "test" the opinion of some authors that emigration was a primary reason for the decline in Puerto Rico's fertility rate. Our measure of fertility excludes the very young and very old, but includes males ages 15 to 44 who, because of possible sex selection in emigration, could contribute to fertility changes.
+Table 1 provides a measure of the vari-
+
+trend.
+
+The first set of regression equations uses the fertility rate as the criterion variable
+
+TABLE l
+
+and allows emigration to be partialed out. UNIQUE CONTRIBUTION OF EMIGRATION FOR The greatest length of time for which there TRENDS WITH THE FERTILITY RATE, 1947-1962
+
+are data available for both variables, 1947 to 1962, is used. The greatest amount of
+
+VARIANCE ACCOUNTED FOR BY EACH TREND
+
+UNIQUE CONTRIBUTION OF EMIGRATION
+
+out-migration occurred between 1951 and REGRESSION
+
+1959, which is effectively covered by this MODEL
+
+time span.
+
+Linear Quadratic ..
+
+A second set of equations uses the crude Cubic
+
+With Without Emigration Emigration
+0.811 -- 0.792 = 0.812 -- 0.807 = 0.931 -- 0.931 =
+
+FOR EACH TREND
+0.019 O.OOS 0.000
+
+birth rate between 1940 and 1962 as the
+
+criterion variable. The need to use the
+
+crude birth rate is dictated by the lack of ance accounted for by emigration in each
+
+data before 1947 to calculate fertility rates. of the three trends. Emigration accounts
+
+It is now possible to identify any pattern for only 1.9 per cent of the total variance
+
+taking place in emigration and the crude with the linear equation. This figure is
+
+birth rate before the greater fluctuations in reduced to 0.5 per cent with the second
+
+emigration.
+
+degree equation and 0.0 per cent with the
+
+A third set contains the data that will third degree equation.
+
+Vol. 2 3 , No. 4
+
+Conceptual Model
+
+333
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+The important figure is the 1.9 per cent variance accounted for by emigration after the linear trend. This interpretation of the effect of emigration on fertility is in conflict with the explanations given by Friedlander (196S), and Hill et al., (1959, pp. 14-15) and implied by Thomlinson (1965, p. 494).
+Table 2 partials out the influence of
+
+quadratic equation does not significantly add to the amount of variance explained by the linear equation, nor does the cubic equation significantly add to the quadratic equation. This finding means that the linear trend, with an F value of 41.62, is highly significant. However, the actual data still deviate somewhat from the expected values as shown by the R2 residual
+
+TABLE 2
+
+from linear fit (0.238). In other words, almost 24 per cent of the variance in the
+
+VARIANCE ACCOUNTED FOR BY THE FERTILITY
+RATE FOREACH TREND BEFORE AND AFTER EMIGRATION IS PARTIALED OUT, 1947-1962
+
+fertility rate is unaccounted for, which
+
+. >. . ., . . .
+
+..
+
+,
+
+indicates that the variations may be asso-
+
+= = ciated with the activities of the family
+
+REGRESSION MODEL
+
+V^HCE ACCOUNTEDFOK
+
+By ^ch
+
+Trend With
+
+By After Emigration
+
+Emigration Emigration Is Partialed Out
+
+planning organizations and birth control
+clinics. We now examine this possibility
+ii HlOre ClOSdy.
+
+~ "~~ ~ ~ The largest emigration from Puerto
+
+Linear
+
+0.811 - 0.049 = 0.762
+
+_.
+
+,, °
+
+Quadratic .. 0.812 - 0.049 = 0.763
+
+Cub'c
+
+° 9 3 1 ~ °-049 = 0.892
+
+Rico occurred between 1950 and 1954, although there were smaller blocks of out-
+
+migration between 1945 and 1947, and
+
+emigration in each trend. The variance 1954 to 1957. The greatest number of
+
+accounted for by each trend, after emigra- people left between 1950 and 1957.
+
+tion is partialed out, can then be used for The effect of the 1950 to 1954 move-
+
+the analysis of variance table for the first ment is reflected in a fertility-rate drop
+
+set of equations.
+
+between 1950 and 1954. But the increase
+
+In Table 3, the overall F values for the in emigration between 1954 and 1957 was
+
+trends are found to be significant. But, the not mirrored by a decrease in the fertility
+
+TABLE 3
+
+ANALYSIS OF VARIANCE FOR THE POLYNOMIAL REGRESSION RESULTS OF FERTILITY RATES, PARTIALING OUT EMIGRATION, 1947-1962
+
+Source
+
+Sum of df squares F Ratio
+
+Signif. Level
+
+Linear trends Model Differences* Reduction due to model Residual from linear fit
+
+1 0.762
+
+41.6 p< 0.001
+
+13 0.238
+
+Second degree trends Model Differences* Reduction due to model Residual from quadratic Reduction due to addition of quadratic trend
+
+fit
+
+2 12
+1
+
+0.763 0.238
+0.001
+
+19.2 p< 0.001 0.1 n.s.
+
+Third degree trends
+
+Model Differences*
+
+Reduction due to model
+
+3 0.892
+
+30.3 p < 0.001
+
+Residual from cubic fit 11
+
+0.108
+
+Reduction due to addition of
+
+cubic trend
+
+1 0.129
+
+2.3
+
+n.s.
+
+· *The "reduction due to model" figures represent the variance accounted for bya model with emigration partialed out. See thelast columnof Table 2, this study.
+
+334
+
+Pendleton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+rate between 19S4 and 1957. For the most
+
+TABLE 4
+
+part, the fertility rate increased during those years.
+
+UNIQUE CONTRIBUTION OF EMIGRATION FOR TRENDS WITH THE BIRTH RATE, 1940-1962
+
+On the whole, emigration began to in-
+
+VARIANCE ACCOUNTED
+
+UNIQUE
+
+crease sharply after 1949, nearly twoyears after the birth rate began to drop sharply.
+
+REGRESSION
+
+FOR B Y EACH TREND
+
+With
+
+Without
+
+CONTRIBUTION OF EMIGRATION
+FOR EACH
+
+The fertility rate also seems to have
+
+MODEL
+
+Emigration Emigration
+
+TREND
+
+dropped sharply after 1947. However, Linear
+
+since the trend of the fertility rate be-
+
+Quadratic .. Cubic
+
+fore 1947 is unknown, it is difficult to
+
+0.806 -- O.77S 0.879 -- 0.86S 0.939 -- 0.939
+
+0.031 0.014 0.000
+
+determine if it had been dropping for a
+
+number of years or if it wasindeed a sharp in thebirth rate after thelinear equation.
+
+decrease.
+
+This figure compares to 1.9 per cent ac-
+
+For theyears 1943 to 1947, when emi- counted for in the fertility rate for the
+
+gration began building, there is a corre- years 1947to 1962(Table 1). After the
+
+sponding increase in the birth rate. Later, quadratic fit, emigration accounts for1.4
+
+between 19S6and 1962, when emigration per cent of the total variance compared to
+
+declined sharply, there is not the reverse O.S for the fertility rate. Emigration ac-
+
+effect on either the fertility rate orthe counts for none of the variance after the
+
+birth rate. Onthecontrary, they continue cubic fit. This finding is thesame as that
+
+decreasing.
+
+for the fertility rate.
+
+The only time emigration may have af- Table 5 partials out the influence of
+
+fected fertility, at least in the short run, emigration for each of the three trends.
+
+was between 1950 and 19S4. Butthe effect The variance accounted for byeach trend
+
+is probably minimal, given the already de- after emigration hasbeen partialed out is
+
+creasing fertility andbirth rates. And, as then used in the analysis of variance table
+
+indicated statistically for the entire 23-year for the second set, which is presented in
+
+period, no more than 1.9 per cent of the Table 6.
+
+variance in the fertility rate and 3.1 per All of the overall trends are significant
+
+cent in the birth rate is accounted for by beyond the 0.00S level. The F value of
+
+emigration when the linear models are 14.2 for the cubic trend indicates thatthe
+
+used.
+
+cubic trend significantly adds to the
+
+The second set of equations used the amount of variance explained beyond the
+
+birth rate as the criterion variable and quadratic trend. This finding means that
+
+covers ,the years 1940to 1962,taking into
+
+account all of the years in which detailed
+
+emigration data are available. This set is used specifically tosupport the interpreta-
+
+TABLE S
+
+tions made earlier, especially those dealing
+
+VARIANCE ACCOUNTED FOR BY THE BIRTH RATE FOR EACH TREND BEFORE AND AFTEREMIGRATION
+
+with the contribution of emigration to
+
+Is PARTIALED OUT, 1940-1962
+
+changes in fertility. It also takes into account the first years when emigration
+
+VA RIANCE ACCOUNTED FOR
+
+began to increase quickly. Table 4 shows the unique contribution
+
+REGRESSION MODEL
+
+By Each Trend With Emigration
+
+By Emigration
+
+After Emigration Is Partialed Out
+
+made by emigration for each trend be- Linear tween 1940 and 1962. Emigration ac- Quadratic .. counts for 3.1 per cent ofthe total variance Cubic
+
+0.806 - 0.019 0.879 - 0.019 0.939 - 0.019
+
+0.787 0.860 0.920
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 23,No.4
+
+Conceptual Model
+
+335
+
+TABLE 6
+
+......
+
+ANALYSIS OF VARIANCE FOR THE POLYNOMIAL REGRESSION RESULTS OF BIRTH RATES, PARTIALING OUT EMIGRATION, 1940-1962
+
+Source
+
+Sum of
+
+df
+
+Squares
+
+F Ratio
+
+Signif. Level
+
+Linear trends Model Differences* Reduction dueto model Residual from linear fit
+
+Second degree trends Model Differences* Reduction due to model Residual from quadratic Reduction due to additionof quadratic trend
+
+fit
+
+Third degree trends
+
+Model Differences*
+
+Reduction due to model
+
+Residual from cubic
+
+fit
+
+Reduction due toaddition of
+
+cubic trend
+
+1 21
+2 20
+1
+3 19 1
+
+0.787 0.213
+0.860 0.140
+0.073
+0.920 0.080 0.060
+
+77.6
+61.4 10.4 72.8 14.2
+
+p < 0.001
+p< 0.001 p < 0.005 p< 0.001 p < 0.005
+
+* The "reduction due to model" figures represent the variance accounted forbya regression model with emigration partialed out. See the last column of Table 5,this study.
+
+the R2 of 0.920 explains a significantly fluence anddropped from further analygreater proportion of the variance than sis. does the quadratics2 of 0.860 and that the Without having to consider the influ-
+data have two changes in them between ence ofemigration, thethird setofequa-
+1940 and 1962. There is little deviation tions can nowbe used to determinethe from thecubic trend asindicated by the variations in fertility between 1947 and significant F value of72.8 and the R2 for 1970. Theanalysis of variance table for the residual from the cubic fit (0.08), this setispresented in Table 7. which support and clarify the findings of All three overall F values forthe trends the first set. So, the effect of emigration on are significant. However, theadded confertility can beregarded asminimal in in- tribution made by the quadratic and cubic
+
+TABLE 7
+ANALYSIS OF VARIANCE FOR THE POLYNOMIAL REGRESSION RESULTS OF FERTILITY RATES, 1947-1970.
+
+Source
+
+Linear trend Reduction dueto model Residual from linear
+Second degree trend Reduction due to model Residual from quadratic Reduction dueto addition of quadratic trend
+Third degree trend Reduction dueto model Residual from cubic Reduction due to additionof cubic trend
+
+fit fit
+fit
+
+df
+1 22
+2 21
+1
+3 20
+1
+
+Sum of Squares
+0.474 O.S26
+O.SSl 0.449
+0.077
+0.SS4 0.446
+0.003
+
+F Ratio 19.8
+12.9 3.6 8.3
+0.1
+
+·ft,
+
+Signif. Level
+P < 0.001
+< 0.001
+n.s.
+P < 0.001
+
+336
+
+Pendleton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+equations to the amount of variance explained is not significant. Following the rule of parsimony, the linear equation is most important. The significant F of 19.8 indicates that the monotonic equation best explains the trend of the birth rate. But notice that only 47.4 per cent of the variance in the birth rate is accounted for. This figure is the lowest/?2 encountered yet. Almost 53 per cent of the variance is unaccounted for, strongly indicating that any sharp variations in the fertility rate may be due to the influence of fertility programs.
+After 1947 both the birth and fertility rates begin very sharp declines. The fertility rate drops sharply between 1947 and 1954 with the exception of 1949 to 1950. This sharp decrease begins about a year after the Association of Population Studies began its operations. The birth rate increases slightly between 1943 and 1947, due to the ending of World War II and the returning servicemen.
+There was an extremely low age of entry into a sexual union and age at first birth. The reported popularity of sterilization may have acted as an important variable with the low age of entry and first birth. If looking ahead to sterilization did motivate women to complete their families at an earlier age, this motivation may be reflected by the early ages at first birth. Lack of communication between partners and the increasing health of the population would serve to promote an increase in fertility rather than the observed decrease. A knowledge of birth control, and that it could be used to limit unwanted births in the future, would also be a slight stimulant for fertility.
+Operating against those factors promoting an increase in fertility were increasing education, the unwitting advertising of birth control by the church, and the use of contraceptives. Many Puerto Ricans had already heard of contraceptives (since the
+
+late 1930's), and the illiterate population had been rapidly decreasing. There was also an increased availability of contraceptives, presumably encouraging greater use. Although the Association of Population Studies may have been the primary agent for the fantastic decrease in fertility, there is a great probability that the fertility rate would have decreased anyway. The stage was set, or had been in the making, for a number of years before 1947. The Association simply acted as a "trigger" for the decrease.
+Between 1954 and 1956, the fertility rate rose sharply. It is possible that the drastic reduction in emigration between 1953 and 1954 could explain some proportion of the increase. It also may be part of the "baby boom." Adding to this increase would be the decreasing influence of the Association of Population Studies, which by the middle 1950's had begun to stagnate. The fertility rate then decreased between 1956 and 1960 which may have been a continuation of the decline given impetus in the late 1940's and early 1950's.
+The fertility rate declined very quickly after 1960, from 80 to 59. In 1959, the Association of Population Studies was given new life through sizable monetary grants and new organization. Then called the Family Planning Association of Puerto Rico, it started campaigns that apparently were more effective than those before. The majority of the fertility rate decline between 1960 and 1963 must be attributed to the Family Planning Association of Puerto Rico. After about 1962, the Association began to become ineffective. A slowing of the fertility rate decline between 1963 and 1965 reflects this. The age of first entry into a sexual union and first birth were still low in the 1960's, and sterilization had risen to 34 per cent by 1965. But, the introduction of the pill, and the dissatisfaction of the church, unintendingly popularizing birth control, served to pro-
+
+Vol. 23, No. 4
+
+Conceptual Model
+
+337
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+vide the influence needed to further lower the fertility rate. With the increased level of education, the lack of communication between spouses and late accumulation of birth control knowledge may have decreased in importance as stimulants for fertility. The new program begun by the University of Puerto Rico's Medical School (in 1964) in the Commonwealth's most populated area, the northeast region, seemed to revive a decrease in the fertility rate after 1965. The Family Planning Association of Puerto Rico was given sizable amounts of money in 1966. The effect, along with the university's program, was to continue the rate of decrease at a slightly faster pace than before.
+Generally, the Association of Population Studies, the earliest organization, had the most questionable impact upon fertility. But when included with the other three programs over the 24 years, the total effect of all four programs appears to be quite important in explaining the fertility rate decreases.
+SUMMARY AND CONCLUSIONS
+With the first two sets of regression equations, we find that the effects of emigration between 1940 and 1962 are minimal. The computed percentages of the total variance accounted for by emigration was found to be quite small; and, after the effect of emigration was partialed out of both the fertility and birth rate, there were still significant variations from the expected trends.
+There are a number of possible explanations for the lack of influence by emigration. First, a majority of the emigrants may have been past their reproductive ages or males aged 15-44. The effect on Puerto Rican fertility would be minimal if the males who left did not significantly reduce the number of males who could be regarded as eligible mates. This explana-
+
+tion may by supported by Vazquez (1968, p. 858) who reports that in 1950 the proportion of women 15 to 44 years of age to the total female population was 43 per cent. This percentage declined to 40 per cent in 1960 due to the age selectivity of emigration. By 1967, this percentage was up to 43 per cent again. This 3 per cent variation does not seem to be enough to affect fertility.
+A second explanation is that emigration did significantly affect fertility, but the effect was not to reduce fertility but rather to keep it from increasing. If, after 1947, the Puerto Rican fertility rate was destined to increase, then emigration may have played an important role in containing that increase.
+The third explanation for a lack of influence by emigration is given by Stycos (19686) when he says that "women migrants have consistently lower fertility than non-migrants, even when residence, age, marital status, education and employment status are controlled" (p. 282).
+The third set of regression equations were used for the years 1947 to 1970, without regard to emigration. This analysis showed that there were very significant variations from both the linear and quadratic trends. The first program, in 1946, contributed to a sharp decline in both the fertility rate and the birth rate. It acted as a "trigger," but was not the underlying cause of the fertility decrease after 1947. The other three programs, begun in 1959, 1964, and 1966, served to lower the fertility faster than before. Their effect is not as unclear as that of the 1946 program.
+The interpretation of which structural and cultural components played a more important role is difficult. The low age at first entry into a sexual union and first birth is the one confounding factor. Both ages have remained extremely low since 1949, definitely providing a stimulus for
+
+338
+
+Pendleton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+fertility rates. It is possible, however, that founded by the lack of some data and the
+
+this factor is a prime agent in keeping the need to estimate others. A statistical pro-
+
+fertility rate as high as it is.
+
+cedure can be highly sophisticated, but
+
+The lack of longitudinal information when the data are crude or questionable,
+
+about other factors made it difficult to ex- the results and interpretation are bound to
+
+pand their influence beyond an ordinal suffer (see Gregory et al., 1972). The same
+
+"canceling out" procedure. However, the is true when estimating data. Regression
+
+influence of the 1959, 1964, and 1966 pro- coefficients were used to estimate fertility
+
+grams seems to be clearly one of promot- rates for two years. While the very proce-
+
+ing decreases in the fertility rate.
+
+dure of estimation carries with .it some
+
+degree of error, it is increased when the
+
+LIMITATIONS AND RECOMMENDATIONS
+
+data from which the estimates are made
+
+Assessing the impact of fertility policies are themselves estimates. With the excep-
+
+and programs is not a new endeavor. tion of the census years, the fertility rates
+
+Previous attempts, such as that of Speng- were calculated from age-specific popula-
+
+ler (1938) or more recently of the National tion figures estimated by the United Na-
+
+Academy of Sciences (1971), have con- tions.
+
+sisted primarily of case studies. While the The results obtained seem to indicate,
+
+more recent works have used sophisticated on the whole, that the model is fairly suc-
+
+statistical techniques, the data used have cessful in providing a useful series of
+
+remained poor. Detailed data for individ- typologies that can be used to organize
+
+ual countries over a long period of time information about any one country. The
+
+have never been collected. An assessment of the impact of governmental action related to fertility almost invariably needs data over an extended period of time.
+
+polynomial regression analysis that was used is also an apparently effective statistical method for supporting what is indicated by the conceptual model.
+
+An area which especially needed exten- Governments have tried to alter their
+
+sive work involved the formation of a con- country's fertility rate by various means.
+
+ceptual model through which the effect of But, they lacked an understanding of
+
+governmental action on fertility could be what the relationship is between gov-
+
+better recognized and understood. Work ernmental action, the population's repro-
+
+by Sauvy (1969), Davis and Blake (195 6), ductive behavior, and fertility change.
+
+and Spengler (1955) served as the primary Given the importance of population con-
+
+framework from which the present model trol, a necessary and sufficient condition
+
+was developed.
+
+for successful control is a better under-
+
+The selection of a country to "fit" the standing of population dynamics them-
+
+model was necessary to show that the con- selves. While intentions may be good,
+
+ceptual model could be used to identify when fertility programs are enacted within
+
+relevant factors affecting fertility. Here the framework of a "hit and miss" model,
+
+again, there was some shortage of data. they may produce results that are entirely
+
+Knowledge, attitude, and practice surveys unintended. The impact may even work
+
+are numerous in the literature but are against the intended effects, resulting in
+
+often limited to a single point in time. The unexpected, perhaps even dangerous,
+
+variables for which a longitudinal per- short- and long-term effects.
+
+spective can be obtained are few, and they This study is an attempt to discover the
+
+are often questionable.
+
+"how" of governmental action and fertil-
+
+The statistical procedure used to ana- ity. The author believes that, with some
+
+lyze the Puerto Rican data was con- modifications, the model can be used ef-
+
+Vol. 23, No. 4
+
+Conceptual Model
+
+339
+
+fectively to identify, organize, and
+
+ACKNOWLEDGMENTS
+
+perhaps predict fertility policy and pro- The author would like to thank H. C. Chang
+
+gram effects on fertility through structural and Richard D. Warren for reviewing and
+
+and cultural components. Such a result would bring the possibility of rational
+
+commenting on this manuscript and Richard L. Ludtke, Arthur P. Jacoby, and John D. Williams for reviewing earlier versions of this
+
+population control that much closer.
+
+work.
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+REFERENCES
+
+AMERICAN UNIVERSITIES FIELD STAFF. 1972.
+
+. 1968. Population: Population policies. Inter-
+
+Population perspective: 1971. Freeman, Cooper & national Encyclopedia ofthe Social Sciences,Vol.
+
+Co., San Francisco.
+
+12, p. 381-388.
+
+BACK, K. W., R. HILL, and J. M. STYCOS. 1960. FORD, THOMAS R., and GORDON F. DEJONG. 1970.
+Population control inPuerto Rico: Theformal and Social demography. Prentice-Hall, Englewood
+
+informal framework. Law Contemp. Prob. Cliffs,N.J.
+
+25(3):558-576.
+
+FREEDMAN, RONALD. 1961. The sociology of human
+
+BANKS, J. A. 1968. Historical sociology and the fertility. Curr. Sociol. 10(2):35-42, 58-68.
+
+study of population. Daedalus 97(2):397-414.
+
+FRIEDLANDER, STANLEY L. 1965.Labor migration
+
+BESHERS, JAMES M. 1967. Population processes in social system. The Free Press, New York.
+
+and economic growth: Acase study ofPuerto Rico. Massachusetts Institute of Technology Press,
+
+BOGUE, DONALD J. 1969. Principles of demography. Cambridge, Mass.
+
+John Wiley & Sons, New York.
+
+GLASS, D. V. 1936. Thestruggle for population.
+
+CARR-SAUNDEPS, A. M. 1968. Attempts toraise the Oxford Press, New York.
+
+birth-rate, p. 143-153. In Louise B. Young (ed.), GOLDSCHEIDER, CALVIN. 1971. Population, mod-
+
+Population perspective. Oxford Univ. Press,New ernization, andsocial structure. Little, Brown and
+
+York.
+
+Company, Boston.
+
+COOK, R. C. 1951. Human fertility: The modern GREGORY, PAUL R., JOHN M. CAMPBELL, and
+
+dilemma. William Sloane Assoc, New York.
+
+BENJAMIN S. CHENG, 1972. A simultaneous
+
+COOLEY, WILLIAM W., and PAUL R. LOHNES. 1971.
+Multivariate data analysis. John Wiley &Sons,
+
+equation model ofbirth rates inthe United States. Rev. Econ. Statist. 54(4):374-380.
+
+New York.
+
+HARTLEY, SHIRLEY F. 1972. Population: Quantity
+
+COMMISSION ON POPULATION GROWTH AND THE vs. quality. Prentice-Hall, Inc, Englewood Cliffs,
+
+AMERICAN FUTURE. 1972. Population and the
+
+N.J.
+
+American Future. New American Library, Inc., HATT, PAUL K. 1952. Backgrounds ofhuman fertil-
+
+New York.
+
+ity in Puerto Rico: Asociological survey. Princeton
+
+CORSA, LESLIE, JR., and DEBORAH OAKLEY. 1971.
+
+Univ. Press, Princeton, N.J.
+
+Consequences of population growth for health HILL, REUBEN, J. MAYONE STYCOS, and KURT W.
+
+services in less developed countries--An initial BACK. 1959. The family and population control: A
+
+appraisal, p. 368-402. In Study Committee of the Puerto Rican experiment in social change. Univ.of
+
+Office of the Foreign Secretary for the National North Carolina Press, Chapel Hill.
+
+Academy of Sciences (ed.), Rapid population KELLY, FRANCIS J., and DONALD L. BEGGS. 1969. growth: Consequences and policy implications. Research design inthe behavioral sciences: Multi-
+
+Johns Hopkins Press, Baltimore.
+
+ple regression approach. Southern Illinois Univ.
+
+CURT, JOSE NINE. 1966. Puerto Rico, p. 227-233.In Press, Carbondale.
+
+Bernard Berelson (ed.), Family planning and KELLY, WILLIAM J. 1972. Acost-effectiveness study
+
+population programs: Areview of world develop- of clinical methods in birth control: With special
+
+ments. Proceedings of the International Confer- reference toPuerto Rico. Praeger Publishers,New
+
+ence on Family Planning Programs, Geneva, 1965. York.
+
+Univ. of Chicago Press, Chicago.
+
+KIRK, DUDLEY. 1970. Natality in the developing
+
+DAVIS, KINGSLEY. 1949. Human society. Macmil- countries: Recent trends andprospects. In S.J.
+
+lan, New York.
+
+Behrman, Leslie Corsa, Ronald Freedman (eds.),
+
+. 1963. The theory of change and responsein modern demographic history. Pop. Index 29(4):345-366.
+. 1967. Population policy: Will current programs succeed? Science 158(3801):730-739.
+DAVIS, KINGSLEY, and JUDITH BLAKE. 1956. Social
+structure and fertility: An analytic framework. Econ. Devel. Cult. Change 4:211-235.
+DEYRUP, FELICIA. 1962. Family dominance as a factor in population growth of developing countries. Soc. Res. 29:177-189.
+DRAPER, N. R., and H. SMITH. 1966. Applied re-
+gression analysis. John Wiley & Sons, NewYork. ELDRIDGE, HOPE T. 1954. Population policies: A
+survey of recent developments. International Union for the Scientific Study of Population,
+
+Fertility and family planning. Univ. of Michigan Press, Ann Arbor.
+LORIMER, FRANK. 1969. Culture and human fertility. Greenwood Press, New York.
+Liu, B. ALFRED. 1970. Population growth and educational development. In Thomas R. Ford and Gordon F. DeJong (eds.), Social demography. Prentice-Hall, Inc. Englewood Cliffs,N.J.
+MEADOWS, PAUL. 1956.Toward a socialized population policy. In Joseph J. Spengler andOtis D. Duncan (eds.), Population theory and policy. The Free Press, Glencoe, Illinois.
+MERTON, ROBERT K. 1949.Social theory and social structure. The Free Press, Glencoe, Illinois.
+NAM, CHARLES B. (ed.). 1968. Population andsociety. Houghton Mifflin Co, Boston.
+
+Washington D. C.
+
+NATIONAL ACADEMY OF SCIENCES. STUDY COM-
+
+340
+
+Pendleton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+MITTEE OF THE OFFICE OF THE FOREIGN SEC- Population theory and policy. The Free Press,
+
+RETARY. 1971.Rapid population growth: Conse- New York.
+
+quences and policy implications. Johns Hopkins STYCOS, J. MAYONE. 1962. Experiments in social
+
+Press, Baltimore.
+
+change: The Caribbean fertility studies. In Clyde
+
+NORTMAN, DOROTHY. 1964. Population policies in V. Kiser (ed.), Research in family planning.
+
+developing countries and related international at- Princeton Univ. Press, Princeton, N.J.
+
+titudes. Eugen. Quart. 11(1):11-29.
+
+. 1968a. Husband-wife and fertility. In
+
+OLSEN, MARVIN E. 1968. The process of social or- Charles B. Nam(ed.), Population and society.
+
+ganization. Holt, Rinehart and Winston, New Houghton Mifflin Co, Boston.
+
+York.
+
+. 1968b. Human fertility in Latin America:
+
+PENDLETON, BRIAN F. 1974a. Fertility policy and Sociological perspectives. Cornell Univ. Press,
+
+program effect onfertility through structural and Ithaca.
+
+cultural components. M. A.thesis, Depart, of So-
+
+. 1971. Ideology, faith, andfamily planning in
+
+ciology. University of North Dakota, Grand Latin America. McGraw-Hill, New York.
+
+Forks, North Dakota.
+
+TAYLOR, CARL E. 1968. Five stages in a practical
+
+. 19746. Pro-natalist policies in three coun- population policy. Intl. Devel. Rev. 10(4):2-7.
+
+tries. Paper presented at the First Annual George THOMLINSON, RALPH. 1965.Population dynamics.
+
+Von Tungeln Symposium inSociology, Iowa State Random House, Inc, New York.
+
+University, Ames, Iowa.
+
+TORRES, ANTONIO HERNANDEZ. 1969.Puerto Rico:
+
+PETERSON, WILLIAM. 1969. Population. Macmillan Achievement in thenortheast, p. 114-122. In Ber-
+
+Co, London.
+
+nard Berelson (ed.), Family planning programs:
+
+POPULATION REFERENCE BUREAU. 1970. Whose
+baby is the population problem? Pop. Bull.
+
+An international survey. Basic Books, Inc, New York.
+
+16(l):3-36.
+
+UNITED NATIONS. 1972. Measures, policies and pro-
+
+SATTERTHWAITE, ADALINE P. 1966. Oral con- grammes affecting fertility, with particular refer-
+
+traceptives, p. 411-424. In Bernard Berelson (ed.), ence to national family planning programs. Popu-
+
+Family planning and population programs: A re- lation Studies No. 51. United Nations Department
+
+view of world developments. Proceedings ofthe of Economic and Social Affairs, New York.
+
+International Conference on Family PlanningPro- VAZQUEZ, JOSE L. 1968. Fertility decline in Puerto
+
+grams, Geneva, 196S. Univ. of Chicago Press, Rico: Extent and causes. Demography 5(2):855-
+
+Chicago.
+
+865.
+
+SAUVY, ALFRED. 1969. General theory of popula- WARD, JOEH., and EARL JENNINGS. 1973. Intro-
+
+tion. Basic Books, Inc, New York.
+
+duction to linear models. Prentice-Hall, Inc., En-
+
+SCHORR, ALVIN. 1970. Income maintenance and the glewood Cliffs,N.J.
+
+birth rate. In Thomas R. Ford and Gordon F. WILLIAMS, JOHN D. 1974. Regression analysis in
+
+DeJong (eds.), Social demography. Prentice-Hall, educational research. MSS Information Corpora-
+
+Inc, Englewood Cliffs, N J .
+
+tion, New York.
+
+SPENGLER, JOSEPH J. 1938.France faces depopulation. Duke Univ. Press, Durham. . 1955. Socioeconomic theory and population policy. Amer. J. Sociol. 61(2):129-133.
+SPENGLER, JOSEPH J., and OTIS D. DUNCAN. 1956.
+
+WINER, B.J. 1962. Statistical principles in experimental design. McGraw-Hill, New York.
+WRIGHT, F. C. 1939. Population and peace. International Institute of Intellectual Co-operation, League of Nations, Paris, France.
+
+

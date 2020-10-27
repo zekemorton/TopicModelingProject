@@ -1,0 +1,693 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Interruption of breastfeeding by child death and pregnancy
+Barry Edmonston
+To cite this article: Barry Edmonston (1990) Interruption of breastfeeding by child death and pregnancy, Social Biology, 37:3-4, 233-250, DOI: 10.1080/19485565.1990.9988763 To link to this article: http://dx.doi.org/10.1080/19485565.1990.9988763
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 2
+View related articles Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:43
+
+Interruption of Breastfeeding by Child Death and Pregnancy
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Barry Edmonston
+Population Studies Center The Urban Institute Washington, D.C.
+
+ABSTRACT: This paper estimates the mean monthly losses and proportionate interruptions of breastfeeding intervals due to child death and pregnancy. The paper uses a microanalytic model with stochastic risks for the basic processes of human reproduction. The model results show that a high proportion of women, depending upon mortality level and length of breastfeeding, have their breastfeeding interrupted by either child death or pregnancy. The results of this work suggest the need for caution in interpreting observed durations of breastfeeding. Child death and pregnancy causes bias in the reported length of breastfeeding, and this bias needs to be taken into account in statistical analysis.
+
+This paper examines the relationship between the observed duration of breastfeeding, considering interruptions by pregnancy and early child death, and the length of breastfeeding that would have occurred without interruptions. Breastfeeding data are usually derived from mothers' reports on either their open breastfeeding interval or the last closed breastfeeding interval.
+Both types of reports have known biases for estimating the mean length of breastfeeding in a population: (1) Including only the interval since last birth (an open interval) tends to select longer intervals and biases the mean breastfeeding duration upward. (2) Including only the interval since last birth (an open interval) tends to select longer intervals and biases the mean breastfeeding duration upward. (2) Including only women who have completed their last breastfeeding interval (a closed interval) increases the probability of shorter breastfeeding durations and biases the mean breastfeeding duration downward. Jain and Bongaarts (1981, Footnote 3), however, provide procedures for making un-
+
+biased estimates of breastfeeding duration for data on open breastfeeding intervals.
+Besides the biases mentioned above, there are biases due to truncation in the observed duration of breastfeeding. The two major sources of truncation are the death of the child while breastfeeding (and thus the involuntary cessation of breastfeeding) and pregnancy (and thus the voluntary cessation of breastfeeding in a short period after learning of the pregnancy). While researchers are aware of these measurement issues, standard statistical descriptions of breastfeeding intervals do not always take the truncation biases into account. Moreover, researchers have lacked estimates of the impact of early child death and pregnancy on breastfeeding intervals for various levels of mortality and breastfeeding duration. Estimates provided in this paper suggest that truncation biases for reported breastfeeding duration can be large.
+This paper reviews microanalytic techniques for modeling the risk of child death and pregnancy following child-
+
+233
+
+234
+
+Edmonston
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+birth, incorporates these risks into a microsimulation model of human reproduction, and estimates the losses of breastfeeding by "model length of breastfeeding." We use the phrase "model length of breastfeeding" here to mean the hypothetical duration of breastfeeding if there were no interruptions of breastfeeding due to child death or pregnancy. Toward these goals, the paper presents a stochastic model of human reproduction with breastfeeding, pregnancy, and child death specified as model parameters. The results of this model include estimates of the mean monthly losses and proportionate interruptions of "model breastfeeding durations" by child death and pregnancy.
+MATERIALS AND METHODS
+MICROANALYTIC MODEL
+Louis Henry (1972) made the first efforts, in the 1950's, to develop statistical models of human reproduction. Later, Perrin and Sheps (1964) considered a stochastic model in continuous time with five states--fecund, pregnant, fetal loss, stillbirth, and live birth. Sheps and Menken (1973) summarize early research in their comprehensive, coherent survey of mathematical issues in the study of human reproduction. At a certain point, however, in working with probability models of human reproduction, the mathematics become intractable and simulation procedures are often used to explore the relationships (Keyfitz, 1968, pp. 397-398). Since the work of Perrin and Sheps (1964), researchers have primarily depended upon simulation for the estimation of the probability models, with Perrin and Sheps (1964), Hyrenius and Adolfsson (1964), and Hyrenius et al. (1966) con-
+
+tributing early simulation models of human reproduction. More recently, Watkins et al. (1987) have broadened the realm of statistical modeling and undertaken extensive simulations involving the formation of families.
+The microanalytic model used here builds on prior work by Barrett (1971), Barrett and Brass (1974), Barrett (1978), Brass and Barrett (1978), Barrett (1981), and incorporates prior work with this model by Edmonston and Smith (1982) and Edmonston (1983). In the prior model, major events of human reproduction were represented for a hypothetical population. This paper's analysis chooses parameter values for a variety of mortality and breastfeeding patterns that encompass typical levels in developing countries and, like prior work with this model, does not attempt to model any specific population.
+Two key features are included in this model that add to the previous work. First, the risk of resumption of postpartum ovulation explicitly depends upon the duration of breastfeeding. Second, the risk of infant and child death affects the interruption of breastfeeding if the child dies. To our knowledge, this is the first microanalytic simulation model of human reproduction that estimates the effects of breastfeeding-dependent postpartum ovulation and the impact of child death on breastfeeding.
+The conditions of this model are biological and do not rely on any specific assumptions of social and cultural factors. These factors may, however, affect human reproduction through the biological variables. For example, we initially assume that women interrupt breastfeeding at the moment of conception. A revised estimate, given in the final section of the paper, then assumes a lag between individual knowledge of preg-
+
+Vol. 37, No. 3-4
+
+Interruption of Breastfeeding
+
+235
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+nancy (which probably varies between individuals and between cultures) and the cessation of breastfeeding.
+Events of human reproduction are represented individually in this model. The reproductive process of a cohort of women proceeds, for one woman at a time, by moving the individual from the beginning of reproduction (we assume that all women begin reproduction at the same age for this model) to the end of the reproductive span of life. The primary biological assumptions of this model include: (1) Conception is a chance event, with the interval to conception depending upon a random variable with a beta probability distribution. (2) Each pregnancy is terminated by a fetal death, stillbirth, or live birth with the outcome probabilities dependent upon a woman's age. (3) Each pregnancy is followed by a nonsusceptible period, a postpartum anovulatory period that depends upon the duration of breastfeeding. (4) Each woman eventually becomes sterile, and some women are infecund at the beginning of their reproductive career. (5) The reproductive process begins again if a woman is fecund at the end of the nonsusceptible period.
+Selected parameters of the model may vary between women, and some parameters may vary by age, parity, and other factors. Each woman moves through her reproductive span in intervals of one lunar month (there are 13lunar months per calendar year in all estimates shown in this paper), experiencing a sequential set of reproductive events.
+Time to Conception.--Nonsterile women are characterized by a fecundability function in which fecundity varies by woman and with a woman's age. The variation in fecundity, p, is described by
+
+a beta distribution:
+JM = -r a~l
+
+dp
+
+where a-3 and b = 13 gives a reasonable fit for human fecundability (Barrett, 1971). This beta distribution provides a statistical description of fecundity for women between age 20 and 30 years, with a mean fecundability of 0.1875 per monthly cycle that varies between women. For women under 20 years, the model assumes that fecundity increases linearly from menarche until age 20, when fecundity becomes equal to the value provided by the beta distribution. For women over 30 years of age, it is assumed that fecundity declines linearly until menopause, when fecundity becomes zero.
+Pregnancy.--Three outcome states are possible for a pregnant woman: fetal death, stillbirth, and live birth. The probabilities of these three outcomes are 0.24, 0.03, and 0.73, respectively (Barrett, 1971). Fetal deaths and stillbirths are assumed to increase linearly with a woman's age after 30 years of age (Edmonston and Smith, 1982) and, as a result, the probability of live birth declines after age 30 years. Fetal deaths are geometrically distributed by month of gestation, following documentation of fetal deaths in Kauai, Hawaii (French andBierman, 1952).
+Postpartum Anovulation.--An interval of nonsusceptibility follows the end of pregnancy. The model takes the interval to be 2months for fetal deaths and 3 months for stillbirths. Previous microanalytic models have usually specified nonsusceptibility following live birth as a Pascal distribution, where nonsusceptibility is the sum of two consecutive
+
+236
+
+Edmonston
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+geometrically distributed random delays (Potter et al., 1973). The model presented here develops along a new direction by incorporating a model schedule of anovulation that depends upon the duration of breastfeeding. Beginning with early work by Potter et al. (1965) and Jain et al. (1970), demographic research has studied the impact of the length of lactation on the period of postpartum amenorrhea, both as a substantive relation and a problem in statistical modeling. Bongaarts and Potter (1983) and Habicht et al. (1985) summarize research on the relation of breastfeeding and postpartum amenorrhea.
+We have converted the model of postpartum anovulation logits of Lesthaege and Page (1980) to lunar months (published in Edmonston and Smith, 1982, Table 1), and made the logit values depend upon the hypothetical duration of breastfeeding. That is, the model specifies a hypothetical length of breastfeeding for the population (a hypothetical length that is desired for all women and for each live birth) and then derives a distribution of postpartum anovulation that varies by live birth and between women. To calculate the monthly schedule of menstruation resumption, we take the model length of breastfeeding, which we assume to be equal to the median length of breastfeeding, M, and solve for two parameters, a and |3:
+a = -2.757 + 0.1833M-O.00238A/2
+-a/p = -1.5013a-0.2756a2
+where these relationships are reported in Lesthaege and Page (1980, p. 161). Then, knowing a and |3, one can estimate from a logit model the probabilities of menstruation resumption in the month following childbirth, Y(d), as
+
+where Ys(d) is the standard schedule of postpartum amenorrhea, also expressed logit values.
+It should be noted that the work by Lesthaege and Page (1980) relied on prospective postpartum amenorrhea data from Guatemala to provide a standard schedule of menstruation resumption, by months, following childbirth. They then scaled the logits of the standard schedule in order to model the relation of breastfeeding length to postpartum amenorrhea interval for other populations. Ford and Kim (1987), in a critical analysis of Lesthaege and Page's work, note that the Guatemalan standard schedule does not seem to fit correctly the shape of the postpartum schedule for Bangladeshi women, given the length of breastfeeding for those women. Ford and Kim provide an alternative standard, using Bangladeshi data. Our results use the original Lesthaege and Page (1980) data and, thus, given the work of Ford and Kim (1987), should be seen as modeling the shape of the postpartum amenorrhea for Guatemalan women. It should be emphasized, however, that only the shape is assumed for Guatemalan women, and that the monthly probabilities of menstruation resumption depend upon the length of breastfeeding.
+During the period of breastfeeding, a woman cannot become pregnant while in the anovulatory state. If a breastfeeding woman resumes ovulation, then the time to conception is a probability function, the same as described earlier. Only when a breastfeeding woman resumes ovulation and becomes pregnant does she cease to breastfeed before the end of her model breastfeeding.
+Women in some populations abstain from sexual activity while breastfeeding. Abstinence would remove the like-
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 37,No. 3-4
+
+Interruption of Breastfeeding
+
+237
+
+lihood of pregnancy, even if the women We choose Weibull parameters, a and
+
+resumed ovulation. Themodel reported b, from the United Nations model life
+
+here does not include any association table system (United Nations, 1982), us-
+
+between breastfeeding and abstinence ing thepublished life tables forthe Latin
+
+because available information on the re- American region. Table 1 displays the
+
+lationship of breastfeeding and absti- life table parameters forboth sexes com-
+
+nence isscarce. Data for Hausa women bined and the Weibull parameters ar-
+
+in Africa, who breastfeed for two years ranged by level of life expectancy at
+
+or more, suggest that about one-third of birth. The United Nations life tablesys-
+
+breastfeeding Hausa women abstain tem includes five sets of regional lifeta-
+
+from sexual intercourse while breast- bles: Latin American, Chilean, South
+
+feeding (Rehau and Adashiya, 1981). Asian, Far Eastern, and General. We
+
+The mean duration ofabstinence for ab- select the Latin American life tablesfor
+
+staining Hausa women is21months.For work here because the model breast-
+
+the two-thirds of Hausa women who re- feeding schedules are derived from a
+
+sume sexual activity while breastfeed- Guatemalan study group, a Latin
+
+ing, the median length of abstinence is American population. Comparing the
+
+about 6 months. Populations with a fit of the United Nations' Latin Ameri-
+
+significant proportion of women who can model life tables forlife expectancy
+
+abstain from sexual activity while at birth of55 years, wenote that the var-
+
+breastfeeding would reduce the propor- ious observed regional probabilities of
+
+tion of breastfeeding intervals that are surviving toage 1arewithin 4per centof
+
+interrupted by pregnancy. Our model the model life table, and theprobabili-
+
+does not provide estimates of this effect ties ofsurviving toage 5are within 3 per
+
+however.
+
+cent of the model life table (except for
+
+Infant and Child Mortality.-- Following work on the Weibull distribution (Edmonston, 1982), we model infant and child mortality here interms of a probability of a live birth surviving to month x as l(x), where l(x) follows a Weibull distribution:
+
+the Far Eastern pattern, which shows about 7per cent more births surviving to age 5).This suggests, forpurposes here, that using a different regional life table system would result in, at most, about a 3 or 4per cent difference in theprobability of a child dying in theearly yearsof life. Compared with life expectancy at
+
+/, = exp (-axb)
+
+TABLE 1 LIFE TABLE ANDWEIBULL PARAMETERS FOR EARLY CHILD MORTALITY
+
+PARAMETERS
+Survivorship to age x, l(x)
+1(0) 1(1) 1(5)
+Weibull parameters a b
+
+LIFE EXPECTANCY AT BlRTH,e(0)
+35 45 55 65 75
+
+100,000 81,410 66,958
+0.083 0.416
+
+100,000 86,088 76,566
+0 070 0.360
+
+100,000 90,221 84,651
+0.056 0.298
+
+100,000 93,942 91,315
+0.040 0.227
+
+100,000 97,146 96,355
+0.022 0.146
+
+238
+
+Edmonston
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+birth of 55 years, this per cent difference diminishes for longer life expectancy and increases for shorter life expectancy.
+After the birth of a child, uniform random numbers are generated to determine the age of death of the child. If the child dies before 65 lunar months (5 years of age), then a random number is generated in order to select a length of postpartum anovulation from this model schedule, given the model duration of breastfeeding. If the child dies after the time of postpartum anovulation, then the child's death would have had no effect on postpartum ovulation, although it would interrupt the mother's breastfeeding. If, on the other hand, the child dies before the onset of ovulation, then the woman ceases breastfeeding which may shorten the period until ovulation resumes. If a child dies during a woman's nonsusceptible period, the model assumes two consecutive geometrically distributed delays with parameters of 0.5 per lunar month. When a woman resumes ovulation, she is at risk of pregnancy. When a woman becomes pregnant, the model ascertains if she is still breastfeeding and, if so, calculates the amount of interrupted breastfeeding.
+Sterility.--The sterility of a couple in a sexual union is represented entirely by the sterility of the woman. Sterility is the earlier of two variables for a woman. The first variable is the woman's age at menopause, selected by a beta distribution from tabular data of menopause between 38 and 54 years of life. The distribution follows the model developed by Hyrenius et al. (1966) from Swedish data.
+The second variable represents sterility occurring before age-related menopause. With this sterility, risk begins at
+
+exact age 28 and assumes a linear increase in the risk of sterility. The model gives no explicit consideration to surgically-produced (operative) menopause, which is an increasing source of menopause in low mortality population and is significant even in some high mortality countries, where medical personnel encourages women to have tubal ligation for contraceptive purposes.
+The combination of this second pattern of sterility, coupled with an estimated 4.8 per cent of couples who are sterile at the onset of reproduction, results in a pattern of childlessness similar to that reported by married Irish couples in 1911 (Barrett, 1971). The result of these factors is a mean age of sterility of 43 years.
+Recent work suggests modest improvements might be made in the stochastic modeling of sterility, although the present model does not include these changes. Trussell and Wilson (1985) have reanalyzed several sterility data sets and suggested revisions in the original Barrett (1971) model. Larsen and Menken (1989) measured sterility by age from incomplete birth histories in several African countries. They note variations for African populations both above and below those estimated for Europe. For simulations of human reproduction for sub-Saharan African populations, where venereal disease and female circumcision increases the incidence of sterility by age, the model would need to be altered to include these higher levels of sterility. The results in this paper, however, do not depend critically upon the sterility assumptions and, hence, do not include varying levels and patterns of sterility by age.
+ContraceptiveUse.--Themodel does not incorporate contraceptive use.
+
+Vol. 37, No. 3-4
+
+Interruption of Breastfeeding
+
+239
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+There are a considerable number of studies that investigate the association of breastfeeding, contraceptive use, and amenorrhea (see Laukaran and Winikoff, 1985 for a research on this topic). Individual and national-level data show a strong correlation between breastfeeding and duration of amenorrhea (Smith, 1985), but associations with contraceptive use (and, hence, on the likelihood of conception) have been more difficult to establish. Current research suggests that there is a negative association between amenorrhea and contraceptive use in developing countries. This suggests that breastfeeding women, many of whom are amenorrheic, are not highly motivated to use contraception. Future work, with better data on contraceptive use, might model breastfeeding interruptions with varying levels of contraceptive use.
+We have written the microanalytic model described above in ANSI 77 FORTRAN, compiled the program using Microsoft's FORTRAN compiler (Microsoft Corporation, 1990), and carried out it for execution on a microcomputer. A simulation of 1,000 women takes about 20 minutes on microcomputer equipped with an 80386 processor and a numeric coprocessor.
+RESULTS
+The results show five levels of mortality: life expectancy at birth for both sexes combined of 35,45,55,65, and 75 years. Table 1 displays the Weibull parameters for infant and child mortality corresponding to these five mortality levels. The results also include five levels of model breastfeeding duration: 6, 12, 18, 24, and 30 lunar months. For results for each of these 5 by 5, or 25 categories, the reproductive behavior of
+
+1,000 women is simulated. This yields between 5,588 and 10,721 breastfeeding intervals, depending upon the particular category of mortality and model breastfeeding duration, as the basis for reporting breastfeeding interruptions (see Table 2).
+Table 2 displays the number of breastfeeding intervals, by level of-life expectancy at birth and model length of breastfeeding, for the 25simulation runs of 1,000 women in each simulation. The table also shows the proportion of breastfeeding intervals interrupted by child death, pregnancy, and the combination of child death and pregnancy. Table 3 provides information on the observed length of breastfeeding with interruptions by child death and pregnancy. The table also shows the monthly losses in breastfeeding due to either child death or pregnancy. The following sections, with accompanying graphs, interpret these results.
+PROPORTION OF BREASTFEEDING
+. INTERVALS INTERRUPTED
+Figure 1shows results for the proportion of breastfeeding intervals that are interrupted by child death and pregnancy. In general, a high proportion of breastfeeding is interrupted by child death or pregnancy. Our estimates range from a low of 25 per cent of breastfeeding intervals interrupted when mortality is low and breastfeeding duration is short to 63 per cent when mortality is high and breastfeeding duration is long. For the average developing country in Latin America, for example, where overall life expectancy at birth is about 60 years and women breastfeed for about 12 to 18 months, the model shows that one-half of the observed breastfeeding intervals are inter-
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+240
+
+Edmonston
+
+Social Biology
+
+TABLE2
+PROPORTION OF BREASTFEEDING INTERVALS INTERRUPTED BY CHILD DEATH AND PREGNANCY
+
+Lira EXPECTANCY AT BIRTH, e(0)
+Proportion interrupted by child death 35 45
+55 65 75
+Proportion interrupted by pregnancy
+35 45 55 65 75
+Total proportion of breastfeeding intervals interrupted 35
+45 55 65 75
+Number of breastfeeding intervals
+35 45 55 65 75
+
+MODEL LENGTH OF BR.EASTFEED1NG
+6 12 18 24 30
+16 20 24 25 29 11 16 19 17 20 9 11 11 14 17 76887 33353
+17 34 35 37 33 17 36 38 39 38 15 34 41 40 40 20 35 35 39 42 21 39 46 44 45
+
+33 28 25 27 25
+8,995 8,930 9,566 10,721 10,568
+
+54 52 45 42 42
+8,374 8,529 8,472 8,854 8,365
+
+60 58 52 43 50
+8,087 8,352 8,335 7,886 7,817
+
+62 56 54 47 49
+7,096 6,123 6,542 7,846 5,949
+
+63 59 57 49 49
+6,213 6,005 5,858 6,361 5,588
+
+rupted by either child death or pregnancy.
+Breastfeeding is interrupted by the coincidental occurrence of child death and pregnancy in the same month in a few cases. These joint coincidences are unusual and are included in the total interruptions, but are not distinguished as an interruption due to either child death or pregnancy separately.
+The proportion of breastfeeding intervals interrupted by child death (see Figure 2) varies with the level of mortality. Under 5 per cent of intervals are interrupted when mortality is low, but be-
+
+tween 16 per cent and more are interrupted when there is high mortality. In conditions of high mortality and prolonged breastfeeding, more than one-fourth of breastfeeding intervals are interrupted by child death.
+Interruptions due to pregnancy (see Figure 3) do not vary by mortality level, but primarily depend upon the duration of model breastfeeding. About 15 to 20 per cent of breastfeeding intervals are interrupted by pregnancy when model breastfeeding is short (about 6 months). For model breastfeeding duration of 1 year or more, these results show that
+
+Vol. 37, No. 3-4
+
+Interruption of Breastfeeding
+
+PROPORTION OF BREASTFEEDINQ INTERVALS INTERRUPTED BY CHILD DEATH AND PREGNANCY
+
+I III|IIII|IIIIIIIIIIIIIIIIIII I
+
+241
+
+6 MONTH
+r 1.2 MONTH
+L 1 8 MONTH
+2 4 MONTH
+3 8 MONTH
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+I II I'I'IIIII'' 'I'III 1IIIII IIIIII III I
+0 18 28 30 40 58 E8 78 PROPORTION
+
+FIG. 1.--Proportion of breastfeeding intervals that are interrupted either by child death or pregnancy
+
+one-third and more ofobserved breastfeeding intervals are interrupted by pregnancy.
+MONTHLY LOSSES IN BREASTFEEDING DUE TO INTERRUPTIONS
+
+Observed breastfeeding durations would be exactly equal to the model durations ifthere were no interruptions of breastfeeding duetochild death orpregnancy. Figure 4 presents the mean length of observed breastfeeding com-
+
+242 Edmonston
+PROPORTION OF BREASTFEEDING INTERVALS INTERRUPTED BY CHILD DEATH
+
+Social Biology
+
+r
+1 i MONTH
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+se 30
+
+PROPORTION
+FIG, 2.--Proportion of breastfeeding intervals that are interrupted by child death
+
+pared with the model breastfeeding duration, for various levels of mortality. Observed breastfeeding durations, however, areless than the model breastfeeding durations, given the interruptions by child death and pregnancy.
+
+Two related graphs show the monthly breastfeeding losses due to child death (Figure 5) and due to pregnancy (Figure 6). Figure 5 suggests that the observed average length of breastfeeding decreases with higher mortality
+
+Vol. 37, No. 3-4
+
+Interruption of Breastfeeding
+
+PROPORTION OF BREASTFEEDING INTERVALS INTERRUPTED BY PREGNANCY
+
+I II1I I
+
+35
+
+45
+
+243
+B MONTH 1 2 MONTH | j 1 8 MONTH
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+I 1 l t I l I I t I I I I II I 1 I I Ii i 1 I I ( f i i I I i 78
+
+PROPORTION
+FIG. 3.--Proportion of breastfeeding intervals that areinterrupted bypregnancy
+
+(see Figure 5),with losses of several months for model breastfeeding durations of more than a year anda half, when mortality is high. When model breastfeeding durations are short, Figure 6 shows that losses dueto pregnancy
+
+are only about 0.3months; but as model breastfeeding durations lengthen, the losses due to pregnancy increase by several months. These results, in Figure6, demonstrate that the mean losses of breastfeeding dueto pregnancy increase
+
+244
+
+Edmonston
+OBSERVED LENGTH OF BREASTFEEDING WITH LOSSES DUE TO PREGNANCY AND CHILD DEATH
+i i iii i iii i r
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+35
+n
+j
+
+1 8 MOS.
+
+2 4 MOS.
+
+3 0 MOS.
+
+i I i ' i ' LJ i i i I i i i i I i i i i I i i i i SB 25
+
+MONTHS
+
+FIG. 4.--Observed length of breastfeeding, in months, for levels of model breastfeeding, after losses due to child death andpregnancy
+
+as model breastfeeding durations increase.
+BREASTFEEDING INTERRUPTION BY MONTH OFPREGNANCY
+
+Theresults above lack oneserious aspect of realism: They assume that a woman interrupts her breastfeeding in the month of conception. The interrup-
+tion of breastfeeding, of course, would depend upon the woman's awareness of
+
+Vol. 37, No.
+
+Interruption of Breastfeeding
+
+MONTHLY LOSSES ON BREASTFEEDING OUE TO INTERRUPTION BY CHILD DEftTH
+
+245
+
+1 8 MONTH ES
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+FIG. 5.--Monthly losses in breastfeeding due to interruption by child death
+
+her pregnancy and her decision to cease breastfeeding because of her pregnancy. We can assess the impact of the month of pregnancy in which breastfeeding might be interrupted by calculating the distribution of pregnancy interruptions
+
+by months before the end of the model breastfeeding durations.
+Table 4 presents the breastfeeding interruptions due to pregnancy, by months, before the end of the model breastfeeding for one mortality level,
+
+246
+
+Edmonston
+MONTHLY LOSSES OF BREASTFEEDING DUE TO INTERRUPTION BY PREQANCY
+
+Social Biology
+
+r 1 2 MONTH u 18 MONTH
+3 4 MONTH
+3 6 MONTH
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+76
+6
+MONTHS
+FIG. 6.--MontWy losses in breastfeeding dueto interruption by pregnancy
+where life expectancy atbirth equals55 breastfeeding until 3ormore monthsafyears. The most sizeable impact of the ter conception, then fewwomen breastparticular month of pregnancy that a feeding for 6 months would cease bewoman ceases breastfeeding is for a cause of pregnancy. For longer model breastfeeding duration of 6 breastfeeding durations, fewer women months. Ifwomen donotinterrupt their interrupt breastfeeding because of the
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 37,No. 3-4
+
+Interruption of Breastfeeding
+
+247
+
+influence of the specific month of pregnancy that they choose for the cessation.
+Another way of examining the influence of the month of pregnancy on breastfeeding interruptions is to suppose that women do not interrupt their breastfeeding until at least 3 months of
+
+TABLE3
+OBSERVED LENGTH OF BREASTFEEDING AND MEAN LOSSES OF BREASTFEEDING DUE TO
+CHILD DEATH AND PREGNANCY
+
+LIFE EXPECTANCY
+AT B I R T H , e(0)
+Observed length of breastfeeding 35 45 55 65 75
+Loss due to child death 35 45 55 65 75
+Loss due to pregnancy 35 45 55 65 75
+
+MODEL LENGTH OF BREASTFEEDING
+6 12 18 24 30
+5.0 8.6 12.2 16.0 19.5 5.3 8.8 12.6 17.2 21.0 5.3 9.3 13.1 17.7 21.4 5.3 9.7 14.4 18.9 23.8 5.4 9.7 14.0 19.2 24.1
+
+0.7 1.8 0.4 1.4 0.4 1.1
+0.3 0.6 0.2 0.3
+
+3.0 4.6 6.6 2.6 3.0 4.7 1.7 2.7 4.2
+1.0 1.6 1.7 0.5 1.0 0.9
+
+0.3 1.7 0.3 1.8 0.3 1.6 0.4 1.7 0.4 2.0
+
+2.7 3.4 3.8 2.8 3.7 4.3 3.3 3.6 4.3 2.6 3.5 4.4 3.4 3.7 4.9
+
+pregnancy. Under these circumstances, Table 5 presents the proportion of women who interrupt their breastfeeding, compared with earlier results for women who interrupt during the month of conception. Delayed interruption during pregnancy influences the proportion interrupting their breastfeeding, but a sizeable proportion of women continue to interrupt their breastfeeding for the longer breastfeeding durations, even if they delay the interruption until at least the third month of pregnancy.
+DISCUSSION
+Prior models of human reproduction have not included breastfeeding and early child death processes. The purpose of this paper is to introduce these two processes into a microanalytic model and to examine the interruption of breastfeeding by pregnancy and early child death.
+The model estimates range from a low of 25per cent of breastfeeding intervals interrupted when mortality is low and breastfeeding is short to a high of 63 per cent when mortality is high and breastfeeding duration is long. For an average developing country in Latin America, for example, where life ex-
+
+TABLE4
+BREASTFEEDING INTERRUPTIONS D U E TO PREGNANCY, BY MONTHS PRIOR TO THE END OF MODEL BREASTFEEDING
+
+MODEL BREASTFEEDING
+DURATION IN MONTHS
+Months 30 24 18 12 6
+
+INTERRUPTIONS BY MONTHS PRIOR TO E N D OF MODEL BREASTFEEDING DURATION
+6 + 5 4 3 2 l Total
+
+69.4 5.4 5.9
+
+5.9 6.8 6.8 100.0
+
+64.0 5.9 7.1 10.9 5.4 6.7 100.0
+
+60.6 10.3 9.6
+
+4.3 7.6 7.6 100.0
+
+47.9 13.5 9.9 12.5 8.9 6.9 100.0
+
+0.0 0.0 2.9 17.0 38.8 41.2 100.0
+
+248
+
+Edmonston
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE5
+PER CENT OF BREASTFEEDING WOMEN WHO INTERRUPT BREASTFEEDING IN THE MONTH OF
+CONCEPTION AND THREE MONTHS AFTER CONCEPTION
+
+Breastfeeding Duration in Months
+Months 6 12 18 24 30
+
+Interrupt in Month of Conception
+
+Interrupt 3 Months After
+Conception
+
+0.15 0.005 0.34 0.24
+0.41 0.33 0.40 0.31 0.40 0.32
+
+pectancy at birth is about 60 years and where women breastfeed for about 12to 18 months, the model shows that onehalf of the observed breastfeeding intervals are interrupted by the combination of child death and pregnancy. Thus, generally, a high proportion of breastfeeding intervals end before the hypothetical duration of breastfeeding.
+These results also provide information about the difference between the observed or reported duration of breastfeeding and the hypothetical or model length of breastfeeding. For a population with life expectancy at birth of 60 years and a model breastfeeding duration of 12 to 18 months, about one month is lost to child death and roughly two months are lost to pregnancy (see Table 3 estimates). Therefore, about 20 per cent of the model breastfeeding is not observed because of these two interruptions.
+These results emphasize the caution required in analyzing observed durations of breastfeeding. They especially serve to introduce a cautionary note about comparing the observed length of breastfeeding when mortality varies, and hence biases the reported durations of breastfeeding. For example, suppose a researcher collects data on breastfeed-
+
+ing durations by level of female education and, further suppose, that the model duration of breastfeeding varies between 12 months for better-educated women and 18 months for less-educated women, a difference of 6 months between the educational extremes. We might further assume that bettereducated women have a life expectancy of 65 years and less-educated women have 55 years. Then, Table 3 shows that better-educated women would report 9.7 months of breastfeeding and lesseducated women would report 13.1 months, a reported difference of 3.4 months. Because childhood mortality is also associated with female education, the reported durations of breastfeeding diminished by over two months. With marked variations in mortality and model length of breastfeeding, it would be possible to collect data on reported breastfeeding duration in which the reported data failed to show differences in breastfeeding duration, when differences existed.
+From the perspective of temporal changes in breastfeeding, the net effect of child death and pregnancy interruptions on reported breastfeeding durations serves to diminish a hypothetical trend in shorter breastfeeding duration. It is better-educated women in many developing countries who decrease their duration of breastfeeding, and yet the reported data would underestimate the diminution of breastfeeding among better-educated women with lower mortality.
+These results also suggest that there is an interaction of effects between reported breastfeeding duration and contraceptive practice. Populations with higher rates of contraceptive use or sexual abstinence are more likely to have reported breastfeeding durations closer
+
+Vol. 37, No.3-4
+
+Interruption of Breastfeeding
+
+249
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+to the model breastfeeding length. Again, the nature of contraceptive practice in developing countries, with greater contraceptive useamong more educated women, acts to attenuatethe difference in reported breastfeeding.
+In summary, the results of this model demonstrate the potential biases in retrospective reporting of breastfeeding duration. There is no single answer about how tohandle retrospective data for simple statistical description. Ata minimum, however, data collection should include information on child death and pregnancy interruptions of breastfeeding, andthen exclude these breastfeeding interruptions fordescriptive comparisons ofbreastfeeding durations. For multivariate explanationsof breastfeeding duration, statistical models are available that permit explicit specification of censorship of breastfeeding by child death andpregnancy (Cox and Oakes, 1986). Statistical methods for survival models are one obvious approach fordemographic analysis of breastfeeding data, and recent published work shows an increasing number of papers that include these measurement problems in thesurvival analysis.
+The results reported here use several mortality levels forLatin Americanregional life tables and several durations of breastfeeding for a Guatemalan model schedule ofpostpartum amenorrhea. Although the key substantive im-
+
+pacts of child death and pregnancy interruptions ofbreastfeeding pertain toany study of breastfeeding duration, the specific numeric interpretations should be limited to Latin American populations. Further work might analyzethe model results fordifferent regional life table groups and different age schedules of postpartum amenorrhea. Finally, the present model uses an age pattern for the incidence of sterility that differs from that reported forsub-Saharan African populations. Future research might also investigate results ofthe model with varying levels of sterility by age.
+ACKNOWLEDGMENTS
+Research for this paper was supported by Grant Number BNS-8210224 from the National Science Foundation toLauris McKee for a study entitled "The Sex Ratio in Ecuador: Cultural Management and Cultural Change." I appreciate discussions with Lauris McKee on the issues discussed in this paper and her useful comments on an earlier draft. My thanks to Dr. J. C. Barrett, who generously provided a copy of his FORTRAN computer program for simulation work on human reproduction. Healso offered suggestions for the implementation and revision of his program andprovided comments onadditions to his program. All results of the microsimulation model, however, are solely my responsibility. Roger Avery, Reynaldo Martorell, Dudley Poston, and Ken Smith provided helpful comments on earlier drafts.
+
+REFERENCES
+
+BARRETT, J. C. 1971. Use offertility simulation model to refine measurement techniques. Demography 7 (Nov.):481-490.
+. 1978. Effects of various factors of selection for family planning status andnatural fecundability: A simulation study. Demography 15 (Feb.):87-99.
+. 1981. Potential fertility and averted births. Genus 37 (Jan.-June): 1-15.
+
+BARRETT, J. C., and W. BRASS. 1974. System-
+atic and chance components in fertility measurement. Pop. Stud. 28 (Nov.):473-493. BoNGAARTS, J., and R. G. POTTER. 1983. Fertility, biology, andbehavior: An analysis of proximate determinants. Academic Press, New York.
+BRASS, W., and J. C. BARRETT. 1978. Measure-
+ment problems in the analysis of linkages
+
+250
+
+Edmonston
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+between fertility and child mortality, p.
+
+lishing Company, Reading,MA.
+
+209-233 In S. H. Preston (ed.), The effects LARSEN, U., and J. MENKEN. 1989. Measuring
+
+of infant andchild mortality on fertility. Ac-
+
+sterility from incomplete birth histories. De-
+
+ademic Press, New York.
+
+mography 26 (May):185-201.
+
+Cox, D. R., and D. OAKES. 1986. The analysis LAUKARAN, V. H., and B. WINIKOFF. 1985.
+
+of survival data. Chapman and Hall, Lon-
+
+Contraceptive use, amenorrhea, and
+
+don. breastfeeding in postpartum women. Stud.
+
+EDMONSTON, B. 1982.International variations
+
+Fam. Plan. 16 (Nov.-Dec.):293-301.
+
+in theage pattern of early childhood mortal- LESTHAEGE, R. J., and H. J. PAGE. 1980. The
+
+ity. Proc. of the Amer. Stat. Assoc, 1982.
+
+post-partum non-susceptible period: Devel-
+
+American Statistical Association, Washing-
+
+opment andapplication of model schedules.
+
+ton,D.C.
+
+Pop. Stud. 34 (Mar.):143-169.
+
+. 1983. Amicroanalytic model of human MICROSOFT CORPORATION. 1990. Microsoft
+
+reproduction for Bangladesh. Janasamkhyral(1):61-73.
+
+FORTRAN optimizing compiler for the MS-DOS operating system. Version 5.0.
+
+EDMONSTON, B., and K. SMITH. 1983. A micro-
+
+Microsoft Corporation, Redmond, WA.
+
+analytic model of human fertility for high PERRIN, E. B., and M. C. SHEPS. 1964. Human
+
+mortality populations. Proc. Amer. Stat. Assoc, 1983.
+
+reproduction: A stochastic model. Biometrics 20:28-45.
+
+FORD, K., and Y. KIM. 1987.Distribution of POTTER, R. G., M. L. NEW, J. B. WYON, and
+
+postpartum amenorrhea: Some new evi- J. E. GORDON. 1965.Applications offield
+
+dence. Demography 24 (Aug.):413-430.
+
+studies to research on thephysiology of hu-
+
+FRENCH, F. E., and J. M. BIERMAN. 1952. Prob-
+
+man reproduction: Lactation and its effects
+
+abilities of foetal mortality. Pub. Hlth.Rep.
+
+upon birth intervals in eleven Punjab vil-
+
+67:1161-1167.
+
+lages, India. In Mindel C. Sheps and Jeanne
+
+HABICHT, J.-P., J. DAVANZO, W. P. Burz, and L. MEYERS. 1985. Thecontraceptive role of breastfeeding. Pop.Stud. 39 (July):213-
+
+C. Ridley (eds.), Public health and population change: Current research issues. Univ. of Pittsburgh Press, Pittsburgh.
+
+232. REHAU,N., andA. K. ADASHIYA. 1981. Breast-
+
+HENRY, L. 1972.On the measurement of hu-
+
+feeding and abstinence among Hausa
+
+man fertility. Translated and edited by
+
+women. Stud. Fam. Plan. 12(May):233-
+
+M. C. Sheps and E. Lapierre-Adamcyk.
+
+237.
+
+Elsevier Publishing Company, New York. SHEPS, M. C., and J. A. MENKEN. 1973. Mathe-
+
+HYRENIUS, H., and I. ADOLFSSON. 1964. A fer-
+tility simulation model. Demographic Insti-
+
+matical models of conception and birth. Univ. ofChicago Press, Chicago.
+
+tute, University of Goteborg, Goteborg, SMITH, D. P. 1985. Breastfeeding, contracep-
+
+Sweden.
+
+tion, andbirth intervals in developing coun-
+
+HYRENIUS, H., I. ADOLFSSON, and I. HOLM-
+
+tries. Stud. Fam. Plan. 16(May-June):154-
+
+BERG. 1966. Demographic models, second
+
+163.
+
+report. Demographic Institute, University TRUSSELL, J., and C. WILSON. 1985. Sterility in
+
+of Goteborg, Goteborg, Sweden
+
+a population with natural fertility. Pop.
+
+JAIN, A., T. C. Hsu, R. FREEDMAN, and M. C.
+
+Stud. 39 (July):269-286.
+
+CHANG. 1970.Demographic aspects of lac- UNITED NATIONS. 1982. Model life tables forde-
+
+tation and amenorrhea. Demography
+
+veloping countries. United Nations, New
+
+7:255-271.
+
+York.
+
+JAIN, A., and J. BONGAARTS. 1981. Breastfeed- WATKINS, S. C., J. A. MENKEN, and J. BON-
+
+ing: Patterns, correlates, and fertility ef-
+
+GAARTS. 1987. Demographic foundations of
+
+fects. Stud. Fam. Plan. 12(Mar.):79-99.
+
+family change. Amer. Sociol. Rev.
+
+KEYFITZ, N. 1968.Introduction to the mathe-
+
+(June):346-358.
+
+matics of population. Addison-Wesley Pub-
+
+

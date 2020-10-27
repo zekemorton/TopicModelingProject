@@ -1,0 +1,671 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Measuring mortality trends and differentials
+Robert Schoen
+To cite this article: Robert Schoen (1976) Measuring mortality trends and differentials, Social Biology, 23:3, 235-243, DOI: 10.1080/19485565.1976.9988234 To link to this article: http://dx.doi.org/10.1080/19485565.1976.9988234
+Published online: 23 Aug 2010. Submit your article to this journal Article views: 2 View related articles Citing articles: 2 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:36
+
+Measuring Mortality Trends and Differentials
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Robert Schoen
+Department of Sociology University of Illinois Urbana, Illinois
+ABSTRACT: The conventional approach to the measurement of mortality conceptualizes mortality as a function of the age distribution of deaths. Because at contemporary mortality levels the great bulk of deaths are concentrated at the high ages, measures based on deaths are insensitive to mortality changes over most of the life span. An alternative is to conceptualize mortality as a function of the age distribution of death rates. When this is done, large differentials in mortality by sex and by race emerge from the data, calling attention to serious social issues that have been masked by conventional mortality indicators.
+
+One of the most significant developments of the past century has been the widespread and large-scale reduction in human mortality. It grew out of advances in the standard of living brought about by industrialization and modernization, and during the past thirty years has been accelerated in many countries by modern public health techniques. The extensive death records of many nations, some going back a century or more, provide a wealth of information about the fall in mortality. These records, by sex, age, cause-ofdeath, and other characteristics, have accordingly been the subject of numerous investigations. Nonetheless, the conventional approach to the measurement of mortality trends and differentials is predicated on a conceptualization of mortality whose nature has not been fully appreciated.
+CONCEPTUALIZING MORTALITY: THE CONVENTIONAL APPROACH
+The primary analytical tool for the study of mortality is the life table, which provides the basic measure of survivorship--the expectation of life. The expectation of life is the average number of future
+
+years that will be lived under a given schedule of mortality rates. The expectation of life at birth (or the average age at death) is generally used as an index for comparing life tables and hence for comparing schedules of mortality.
+The life table also provides an average mortality rate. The life table death rate, or the crude death rate of the life table, is the number of deaths occurring in the life table in one year divided by the life table population. It can be shown mathematically that the life table death rate is the reciprocal of the expectation of life at birth (for an extensive discussion of the life table, see Shyrock and Siegel, 1973, Chap. 15).
+The life table death rate is conceptually similar to the two widely used indexes of mortality that do not derive from the life table. The simplest of the two is the crude death rate, the number of deaths in a population divided by the number of persons in that population. The name "crude" is well-deserved, because the crude death rate of a population is greatly influenced by the population's age composition. Two populations with the same death rates at every age but with different age composi-
+
+235
+
+236
+
+Schoen
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+tions may have quite different crude death rates.
+To deal with the problem of differing age compositions, standardized death rates are frequently employed as indexes of mortality. A directly standardized death rate, DS, is of the form
+
+DS =
+
+P' (1)
+
+wherenPxs is the population in some specified standard population between the ages of x and* + n, andnM^, the age-specific death rate, is equal to the observed number of deaths to persons aged x to x + n divided by the observed population aged x to x + n. In other words, the standardized death rate is the crude death rate that would be found in the standard population if the standard population experienced the observed age-specific death rates. The life table death rate is a special type of standardized death rate where the "standard" population is the population of the life table.
+The three indexes mentioned above, the crude death rate, the standardized death rate, and the life table death rate are all examples of what Kitagawa (1964) calls "aggregative" indexes. This type of index aggregates the number of deaths in the numerator and the number of persons in the denominator and then takes their ratio. Because the first step is to aggregate observed (or weighted) numbers of deaths, aggregative indexes represent mortality as a function of the age distribution of deaths. For example, the life table death rate summarizes mortality as the reciprocal of the mean of the age distribution of life table deaths.
+In general, studies of mortality trends and patterns have been based on one or more aggregative indexes, particularly the expectation of life at birth (e.g., see Preston et al., 1973; United Nations, 1973, p.
+
+108ff; Arriaga and Davis, 1969; United Nations, 1963; Stolnitz, 19SS; and Dublin et al., 1949). This has been the case even though drawbacks and limitations of such indexes have been pointed out by investigators. Yerushalmy (1951) demonstrated that, in practice, aggregative indexes give disproportionately heavy weight to the higher ages. Hermalin (1966) showed that the implications of changes in the expectation of life varied with the level of life expectancy. Spiegelman and Marks (1966) emphasized the importance of choosing an "appropriate" standard population, and Kitagawa (1966) and Schoen (1970) showed that mortality differentials can vary significantly when measured by different aggregative indexes. Still, the full implications of basing mortality analysis on an adjusted age distribution of deaths have not been made clear.
+THE CHANGING AGE DISTRIBUTION OF DEATHS
+To examine the consequences of conceptualizing mortality in terms of the age distribution of deaths, let us consider how that distribution changes as the level of mortality falls. The study by Coale and Demeny (1966) on Regional Model Life Tables is most relevant here as it grew out of an in-depth investigation of mortality patterns by level of mortality. Coale and Demeny found that four distinctive mortality "families"--labeled "North," "South," "East," and "West" because they were somewhat related to patterns found in those areas of Europe--characterized all known life tables. In particular, they found that the characteristic pattern of mortality persisted even when the level of mortality changed.
+The "West" family of model life tables, which is based largely on the experience of Western Europe and overseas European populations (including the United States), can illustrate the effects of changes in the level of mortality on the age distribution of
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 23, No. 3
+
+Measuring Mortality
+
+237
+
+deaths (see Table 1). As the expectation of at an accelerating rate as deaths become
+
+life at birth rose from 20 to 75, the propor- increasingly concentrated at the high ages
+
+tion of life table deaths to persons under (cf. Ryder, 1975).
+
+age 5 fell from 0.53 to 0.02, while the The historical decline in mortality in the
+
+proportion of life table deaths to persons West affected the different ages, sexes,
+
+over 65 rose from 0.08 to 0.83. In model and causes of death to varying degrees.
+
+life table populations with an expectation Advances were made against infectious
+
+of life at birth (or average age at death) of and parasitic diseases, not against the de-
+
+less than 35 years, most people die before generative diseases. Females benefited attaining their expectation of life. With the more than males. Mortality below age 50
+
+wholesale shift of deaths from the lowest fell much more than mortality after age
+
+ages to the highest, most persons in life 50. It now appears that the mortality de-
+
+table populations with a life expectancy of cline in the West has about run its course.
+
+more than 35 years live longer than their Death rates have actually begun to rise
+
+expectation of life.
+
+somewhat in certain areas (cf. Klebba,
+
+The nature of the age distribution of 1971; Schoen and Collins, 1973). Still, few
+
+deaths (the d function) can be examined in people die before the age of 50. The elimi-
+
+terms of its variance as well as its mean. nation of all deaths from infectious and
+
+The "variance of life" can readily be ex- parasitic diseases would produce only a
+
+pressed in terms of life table functions as
+
+small increase in longevity. At the same time, death rates remain high at ages over
+
+Var(rf) = e(2A - e),
+
+(2) 65; very few persons survive to age 100.
+
+where A is the average age of those in the The profound changes in the age dislife table population and e is the expecta- tribution of deaths with changes in the tion of life at birth. Table 1shows that the level of mortality suggest that the interpre-
+
+TABLE 1
+CHANGES IN THE AGE DISTRIBUTION OF DEATHS, COALE-DEMENY MODEL "WEST" LIFE TABLES FOR FEMALES
+
+MORTAIITY
+
+MEAN OF THE AGES AT
+DEATH (e)
+
+1.. 3
+5..
+7 9 11 13 IS.. 17 19., .. 21
+23.
+
+20 25 30
+35 40 45
+50 55
+60 65
+70 75
+
+SOURCE: Calculated from Coale and Demeny, 1966.
+
+PROPORTION OF DEATHS
+
+UNDER AGE
+
+OVER
+
+5 AGE 65
+
+0.53 0.08 0.45 0.12 0.39 0.17 0.33 0.23 0.27 0.30 0.23 0.36 0.18 0.44 0.14 0.51 0.10 0.58 0.07 0.66 0.04 0.75 0.02 0.83
+
+VARIANCE
+OF THE AGES
+AT DEATH
+621 741 833 897 930 932 897 820 715 580 417 269
+
+variance of life increases with e until an e tation of the expectation of life at birth of 40 to 45, when the two extremes of the should also change. Under low mortality age distribution of deaths are roughly conditions the average number of years equal. The variance of life then diminishes lived is largely determined by the death
+
+238
+
+Schoen
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+rates of a few older age groups. When basis for measuring improvements in mor-
+
+mortality levels were still high, appreci- tality.
+
+able changes in life expectancy could and As is the case with aggregate indexes, a
+
+did result from reductions in death rates at number of different average of relatives
+
+the younger ages. With mortality at con- indexes can be constructed. The exponen-
+
+temporary Western levels, this is no longer tial character of much of the age curve of
+
+true. Consider the mortality observed death rates (i.e., the fact that it approxi-
+
+among Netherlands females in 1964. Some mates a straight line over the large part of
+
+95 per cent of those born will survive to its range when the vertical axis is
+
+age SO. The elimination of all deaths be- logarithmic) suggests a geometric mean.
+
+fore the age of SO would only increase the Following Schoen (1970), the present
+
+expectation of life (76.4 years) by 3 years. paper will therefore use del (also written
+
+A female aged 85, however, could only V), the geometric mean of the age-specific
+
+expect to live another 5.3 years. This death rates, as an average of relatives
+
+compression of the great bulk of deaths index of mortality. Denned mathemati-
+
+into a narrow range of ages means that the cally,
+
+expectation of life at birth has become in-
+
+creasingly insensitive to changes in mortality at many ages. The magnitude of
+
+del = (JJ nMxyTM
+
+this development can be assessed when mortality improvement as measured by
+
+= exp (A j In nMx)
+
+(3)
+
+the expectation of life at birth is compared
+
+with mortality improvement as measured with death rates from the standard 19 age
+
+by a different kind of index.
+
+groups 0, 1-4, 5-9,. . . , 80-84, and 85+ .
+
+When mortality is conceptualized as a
+
+CONCEPTUALIZING MORTALITY: AN ALTERNATIVE APPROACH
+
+function of the age curve of death rates (and summarized by del) rather than as a function of the age curve of deaths using
+
+An alternative type of mortality index, the life table death rate, a different pattern
+
+which Kitagawa (1964) calls an "average of mortality change is seen in the data.
+
+of relatives" index, affords a different con- Table 2 shows how the two measures vary
+
+ceptualization. An average of relatives as life expectancy goes from 20 to 75 years
+
+index compares two populations by taking in the Coale-Demeny model "West" life
+
+the ratio of corresponding terms in their table populations. When e is 45 or less, the
+
+schedules of age-specific death rates and two measures are nearly identical. As the
+
+then averaging those ratios. Because the expectation of life increases beyond 45 and
+
+first step is to take the ratio of death rates, the variance of life decreases, the geomet-
+
+an average of relatives index summarizes ric mean death rate becomes an ever-
+
+mortality as a function of the age pattern smaller fraction of the life table death rate.
+
+of death rates.
+
+Consequently, as life expectancy increases
+
+The Coale-Demeny study (1966) reveals a striking consistency in the age pattern of death rates. Figure 1 shows that regardless of mortality level, the characteristic "J" pattern of the age curve of death rates persists. This stability enhances the value of the age distribution of death rates as a
+
+beyond 50 years, del reflects larger improvements in mortality than does the life table death rate. For example, when e increases from 60 to 70 years, the life table death rate falls 14 per cent, while the geometric mean death rate falls 50 per cent.
+
+Vol. 23, No. 3
+lOOOi
+
+Measuring Mortality
+
+ICO
+i 10 UJ
+
+239
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+10 20 3 0 40 50 60 70 80 AGE
+FIG. 1.--Age-specific death rates per thousand population, Coale-Demeny (1966) "West" life tables for females.
+
+As the life table death rate and del change quite uniformly when e is between 20 and 45 years, del can be used as a standard to measure the increased amount of change--in terms of mortality im-
+
+provements at all ages--that is involved in raising e when e is over 4S years. Table 2 indicates that the proportional decline in del is 3.5 times the proportional decline in the life table death rate when e goes from
+
+240
+
+Schoen
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+TABLE 2
+COMPARING THE LIFE TABLE DEATH RATE AND GEOMETRIC MEAN DEATH RATE AT DIFFERENT LEVELS OF MORTALITY, COALE-DEMENY MODEL "WEST" LIFE TABLES FOR FEMALES
+
+(I)
+Mortality Level
+
+(2)
+Average Age at Death (e)
+
+(3) Life Table Death Rate per 1,000 Population
+
+(4) Geometric
+Mean* per 1,000 Population
+
+1
+
+20
+
+50.0
+
+49.0
+
+3
+
+25
+
+40.0
+
+41.2
+
+5
+
+30
+
+33.3
+
+34.9
+
+7
+
+35
+
+28.6
+
+29.6
+
+9
+
+40
+
+25.0
+
+25.1
+
+11
+
+45
+
+22.2
+
+21.1
+
+13
+
+50
+
+20.0
+
+17.6
+
+15
+
+55
+
+18.2
+
+14.4
+
+17
+
+60
+
+16.7
+
+11.4
+
+19
+
+65
+
+15.4
+
+8.6
+
+21
+
+70
+
+14.3
+
+5.7
+
+23
+
+75
+
+13.3
+
+3.2
+
+SOURCE: Calculated from Coale and Demeny,1966. * In this case, del is t h e 18throot of t h e product of t h e death rates a t ages O, 1-4, 5 - 9 , . . . . 8 0 + .
+
+(5)
+Ratio Col. (4)/ Col. (3)
+0.98 1.03 1.05 1.04 1.00 0.95 0.88 0.79 0.69 0.56 0.40 0.24
+
+60 to 70 years. Hence, an increase in e from 60 to 70 years required 3.5 times as much change in the age distribution of death rates as a ten-year increase in e at low life expectancies. In the same fashion, an increase in e from 70 to 75 years involved 6.25 times as much change in del as in the life table death rate, or 6.25 times the amount of change in the age distribution of death rates than was required to raise e five years at life expectancies below 45. Substantially more change in the age distribution of death rates was necessary to raise e at high levels of e because at those levels the observed changes in death rates had much less impact on the age distribution of deaths and thus had a greatly reduced effect on e and on the life table death rate.
+IMPLICATIONS OF AN ALTERNATIVE CONCEPTUALIZATION
+The historical decline in mortality can be examined in terms of both the life table death rate and the geometric mean death rate. Preliminary analysis of data for the United States, England and Wales, Italy,
+
+Japan, and Chile indicated that when mortality is measured by del, all of those countries had their most rapid improvement in mortality since 1945. However, when mortality is measured by the reciprocal of the expectation of life at birth, available data show that most Western nations had their fastest rate of mortality improvement by 1930 (United Nations, 1963), when they had substantially lower life expectancies.
+The pattern of differentials in mortality as depicted by del is strikingly different from the pattern given by the life table death rate. Table 3 presents trends in differential mortality by sex for the five countries previously named and for levels of the Coale-Demeny "West" model life tables. The ratio of male to female life table death rates indicates that while the sex differential may have been increasing slowly over time, it is still quite small. In contrast, the geometric mean death rate shows a tremendous increase in the sex differential over the past thirty years. For the United States in 1970, the male del was 79 per cent greater than the female del, and for England and Wales and Italy
+
+Vol. 23, No. 3
+
+Measuring Mortality
+
+241
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+TABLE 3
+TRENDS IN DIFFERENTIAL MORTALITY BY SEX
+
+YEAR
+OR
+LEVEL
+United States 1900 1910 1920 1930 1940 19S0 1960 1970
+
+MALE/FEMALE RATIO FOR
+
+Life Table
+
+Death Rate
+
+Del
+
+1.06 1.08 1.07 1.15 1.04 1.06 1.06 1.18 1.07 1.29 1.09 1.49 1.10 1.66 1.11 1.79
+
+England and Wales 1861 1871 1881 1891 , 1901 1911 1921 1931 1940 19S1 1960 1964
+Italy 1881 1891 1901 1910 1921 1931 1936 1951 1960 1964
+Coale-Demeny "West" Model Populations
+1 3 5 7 9 11 13 , IS 17 19 21 23
+Japan 1899 1908 1940 19S1 1960 1964
+
+1.06 1.08 1.08 1.13 1.07 1.13 1.09 1.14 1.09 1.17 1.08 1.19 1.07 1.19 1.07 1.22 1.08 1.26 1.08 1.43 1.09 1.61 1.09 1.64
+1.02 0.98 1.01 0.94 1.01 1.01 1.02 1.02 1.03 1.05 1.04 1.11 1.0S 1.16 1.06 1.30 1.07 1.52 1.08 1.61
+1.11 1.08 1.09 1.09 1.08 1.10 1.08 1.10 1.07 1.11 1.07 1.12 1.06 1.13 1.06 1.15 1.06 1.19 1.06 1.24 1.06 1.34 1.0S 1.49
+1.03 1.05 1.00 0.98 1.06 M.15 1.06 1.19 1.08 1.43 1.08 1.54
+
+Chile
+1909 1920 1930 1940 1950 1959 1964
+
+1.11 1.05 1.06 1.06 1.10 1.10 1A0
+
+1.12 1.08 1.08 1.12 1.27 1.33 1.39
+
+SOURCES: Preston et al., 1972; Schoen and Collins, 1973;and Coale and Demeny, 1966.
+
+in 1964, the differential was over 60 per cent. Why such large differences? In the West, females enjoy substantially lower mortality than males at virtually all ages, but the concentration of deaths at the high ages renders the life table death rate relatively inflexible, while del gives equal weight to each age group.
+The magnitude of the differences between the male and female age-specific death rates, which has been masked by aggregative indexes of mortality, merits more attention than it has received. In the past, a fair amount of attention has been given to sex differences in mortality, especially to the relative importance of social and biological factors, and some work has been done on the factors involved in changing sex mortality differentials (e.g., Stolnitz, 19SS;Madigan, 1957; Enterline, 1961; Preston, 1970; Klebba, 1971; Retherford, 1972; and Schoen and Collins, 1973). Yet the causes behind the expanding male/female gap are not fully understood, and there has not been any careful attempt to relate changes in social roles or in the degree of sex stereotyping to changes or potential changes in differential mortality.
+Patterns of differential mortality by race are also much different when measured by del instead of by the life table death rate. Table 4 presents trends in differential mortality by race for the United States during the period 1920-70. The life table death rate shows considerably smaller differentials and, further, shows the race differential as steadily declining (except for
+
+242
+
+Schoen
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+TABLE 4
+TRENDS IN DIFFERENTIAL MORTALITY BY RACE: UNITED STATES, 1920-1970
+
+Nonwhite/White Ratio for
+
+Life Table Death Rate
+
+Del
+
+YEJU!»
+
+Males
+
+Females
+
+1920 1.24 1.28 1930 1.24 1.27
+1940 1.20 1.21 1950 1.13 1.15 1960 1.10 1.12 1970 hU U)9
+
+SOURCES: Preston et al., 1972; U.S. Bureau of the Census, 1946; and Schoen and Collins, 1973. * Figures for 1930 and 1940 are three-year averages and refer to blacks and whites.
+
+Males
+1.48 1.73 1.69 1.57 1.50 1.61
+
+Females
+1.64 1.89 1.94 1.97 1.85 1.69
+
+males in the 1960-70 period). The geometric mean death rate not only shows that a differential of over 60 per cent exists in 1970, but that, for both males and females, the 1970 differential is larger than the 1920 differential.
+To explain these discrepancies, it is best to examine some of the observed death rates themselves. Table 5 gives the schedules of age-specific death rates for United States nonwhite and white females in 1920 and 1950. Except at the high ages,
+
+the nonwhite rate at every age is considerably larger than the white rate, and (with one exception) the ratio increased between 1920 and 1950 at all ages under 75. The great influence that the high ages exert on the life table death rate produces both the smaller differentials and the reduction in the nonwhite/white gap over time. In this instance, the emphasis placed by the life table death rate on the high ages is particularly unfortunate because there is good reason to believe that nonwhite death
+
+TABLE 5
+AGE-SPECIFIC DEATH RATES PER THOUSAND POPULATION: UNITED STATES FEMALES, 1920 AND 1950
+
+AGE
+
+0 1-4 5-9
+10-14 15-19 20-24 25-29 30-34 35-39
+40-44 45-49
+50-54 55-59
+60-64 65-69 70-74 75-79 80-84 85+
+Geometric mean
+Life table death rate
+
+.. ..
+
+SOURCE: Calculated from Preston et al., 1972. * Death registration states.
+
+Nonwhite
+
+1920* White
+
+130.025 14.103 3.867 3.941 8:883 12.511 12.410 14.407 15.341 16.267 21.227 25.155 31.460 40.006
+53.501 67.756 92.267 126.457
+218 592
+26.19
+22.36
+
+75.942 8.987 2.656 1.950 3.346 5.249 6.164 6.880 7.027 7.472 9.377 12.495 18.018 25.945 40.370 63.206 97.882 152.602 245.996
+15.98
+17.50
+
+Nonwhite White
+1.712 1.569 1.456 2.021 2.655 2.384 2.013 2.094 2.183 2.177 2.264 2.013 1.746 1.542 1.325 1.072 0.943 0.829 0.889
+1.64
+1.28
+
+Nonwhite
+47.312 2.295 0.797 0.687 1.757 2.531 3.297 4.555 6.110 9.208 12.422 19.332
+26.182 35.585 33.SB8 51.426 64.599 81.362 133.163
+11.01
+15.95
+
+1950
+
+White
+
+Nonwhite White
+
+25.584 1.119 0.481 0.412 0.622 0.795 0.971 1.286 1.873 2.880 4.422 6.558
+10.147 16.163 25.141 42.522
+69.664 112.176 196.227
+5.58
+13.88
+
+1.849 2.051 1.657 1.667 2.825 3.184 3.395
+3.542 3.262 3.197 2.809 2.948 2.580 2.202 1.328 1.209 0.927 0.725 0.679
+1.97
+1.15
+
+Vol. 2 3 , No. 3
+
+Measuring Mortality
+
+243
+
+rates atthe high ages are substantially un- of life tocomparisons based on the pattern
+
+derstated and actually exceed white rates of death, and from a conceptualizationof
+
+at least through the low 80's (Bayo, 1972; mortality in terms of the agepattern of
+
+Hambright, 1968).
+
+deaths to a conceptualization of mortality
+
+The expectation of life at birth, and its in terms ofthe age pattern ofdeath rates.
+
+reciprocal the life table death rate, convey When del, thegeometric mean of the dis-
+
+important information on the mortality tribution of death rates is applied to mor-
+
+patterns of apopulation. However, atcon- tality data, the mortality trends and dif-
+
+temporary levels of mortality, e (the ferentials which appear bring tolightsub-
+
+arithmetic mean of the distribution of stantive concerns and social issues that
+
+deaths) is largely determined by the few have sofar been largely neglected.
+
+age groups which contain the great bulkof
+
+deaths. Recent improvements in life ex-
+
+pectancy in the West have been small and
+
+ACKNOWLEDGMENTS
+
+are expected to beeven smaller in the future. Thus, itis appropriate toshift atten-
+
+I want to express myappreciation toDelores C. Schoen for her help in thepreparation of
+
+tion from comparisons based on the length this article.
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+REFERENCES
+
+ARRIAGA, E. E., and KINGSLEY DAVIS. 1969. The
+
+national populations. Seminar Press, New York.
+
+pattern of mortality change in Latin America.
+
+. 1973. Cause ofdeath life tables: Application
+
+Demography 6:223-242.
+
+of a new technique to worldwide data. Trans. Soc.
+
+BAYO, FRANCISCO. 1972. Mortality of the aged. Actuar. 25:83-109.
+
+Trans. Soc. Actuar. 24:1-24.
+
+RETHERFORD, R. D. 1972. Tobacco smoking and the
+
+COALE, A. J., and PAUL DEMENY. 1966. Regional
+
+sex mortality differential. Demography 9:203-16.
+
+model life tables and stable populations. Princeton RYDER, N. B. 1975. Notes on stationary popula-
+
+Univ. Press, Princeton.
+
+tions. Pop. Index 41:3-28.
+
+DUBLIN, L. I., A. J. LOTKA, and MORTIMER SCHOEN, ROBERT. 1970. The geometric mean of the
+
+SPIEGELMAN. 1949.Length of life. Rev. ed. age-specific death rates as a summary index of
+
+Ronald Press, New York.
+
+mortality. Demography 7:317-324.
+
+ENTERLINE, P.E. 1961. Causes of death responsible SCHOEN, ROBERT, and MARION COLLINS. 1973.
+
+for recent increases insexmortality differentials in Mortality by cause: Life tables for California
+
+the United States. Milbank Mem. Fund Quart. 1950-1970. California Department of Public
+
+39:312-28.
+
+Health, Sacramento.
+
+HAMBRIGHT, T. Z. 1968. Age onthedeath certificate SHRYOCK, H. S., and J. S. SIEGEL. 1973. The meth-
+
+and matching census record, United States, ods and materials ofdemography. U.S. Bureauof
+
+May-August, 1960. National Center for Health the Census. Government Printing Office, Wash-
+
+Statistics, Series 2, No. 29. Government Printing ington.
+
+Office, Washington. HERMALIN, A. I. 1966. Theeffect of changes in
+mortality rates on population growth and age distribution in the United States. Milbank Mem. Fund Quart. 44:451-469. KITAGAWA, E. M. 1964.Standardized comparisons in population research. Demography 1:296-315.
+. 1966. Theoretical considerations in theselection of a mortality index and some empiricalcomparisons. Hum. Biol. 38:293-305. KLEBBA, A. J. 1971. Leading components of upturn in mortality for men, United States 1952-67. National Center forHealth Statistics, Series 20, No. 1. Government Printing Office, Washington. MADIGAN, F. C. 1957. Are sexmortality differentials
+
+SPIEGELMAN, MORTIMER, and H. H. MARKS. 1966.
+Empirical testing of standards for the age adjustment of death rates bythe direct method. Hum. Biol. 38:280-292. STOLNITZ, G. J. 1955. A century of international mortality trends: I. Pop. Stud. 9:24-55.
+UNITED NATIONS, DEPARTMENT OF ECONOMIC
+AND SOCIAL AFFAIRS. 1963.Population Bulletin of the United Nations No. 6-1962 with special reference to thesituation andrecent trends of mortality in theworld. United Nations, New York.
+. 1973. The determinants andconsequences of population trends, Vol. I. United Nations, New York.
+
+biologically caused? Milbank Mem. Fund Quart. 35:202-223. PRESTON, S. H. 1970. Older male mortality and cigarette smoking. Population Monograph Series
+
+UNITED STATES BUREAU OF THE CENSUS. 1946.
+U.S. life tables and actuarial tables 1939-1941, by T. N. E. Greville. Government Printing Office, Washington.
+
+No. 7. University of California, Berkeley.
+
+YERUSHALMY, JACOB. 1951. A mortality index for
+
+PRESTON, S. H., NATHAN KEYPITZ, and ROBERT
+
+use inplace ofthe age-adjusted death rate. Amer.
+
+SCHOEN. 1972. Causes of death: Life tables for J. Publ. Hlth. 41:907-922.
+
+

@@ -1,0 +1,1721 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Intelligence and family size reconsidered
+Robert D. Retherford & William H. Sewell
+To cite this article: Robert D. Retherford & William H. Sewell (1988) Intelligence and family size reconsidered, Social Biology, 35:1-2, 1-40, DOI: 10.1080/19485565.1988.9988685 To link to this article: http://dx.doi.org/10.1080/19485565.1988.9988685
+Published online: 23 Aug 2010. Submit your article to this journal Article views: 10 View related articles Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:42
+
+Intelligence and Family Size Reconsidered
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+Robert D. Retherford and William H. Sewell
+Population Institute, East-West Center, Honolulu, Hawaii; and Department of Sociology, University of Wisconsin, Madison, Wisconsin
+
+ABSTRACT: The major purpose of this study is to examine the association between the measured intelligence and fertility of over 9,000 persons who graduated high school in Wisconsin in 1957. Various measures of association are considered, including the IQ selection differential, which provides an estimate of what the generational change in mean IQ would be if, hypothetically, each child in the birth histories had the same IQ as the mean of its parents' IQ's. This is calculated not only for graduates but also, more realistically, for the complete cohort, including dropouts. The IQ selection differential for the complete cohort is estimated to be eight-tenths of an IQ point decline in a generation. The contribution of females to this decline is estimated to be almost five times greater than the contribution of males. The value of eight-tenths may be viewed as an upper bound of the generational decline in mean genotypic IQ for this cohort and its offspring. An educated guess, based partly on genetic models and findings from IQ heritability studies as well as on the above estimate of the IQ selection differential, is that the generational change in mean genotypic IQ is about one-third of an IQ point decline for this cohort and its offspring.
+
+The major purpose of the research reported in this study is to examine the association between the measured intelligence and fertility of over 9,000 persons who graduated high school in Wisconsin in 1957. We have information on measured intelligence from tests taken when our sample members were in high school, and on fertility from birth histories collected in the most recent reinterview survey in 1975, when the respondents were approximately 36 years of age.
+Our specific aims are the following: First, we critically review the research literature on intelligence and family size, focusing especially on studies appearing in the last 25 years. Second, we examine the relationship between the measured intelligence of our respondents and the number of children born alive to them by age 35. To achieve this aim, we calculate the mean
+
+number of children ever born, F(35), by sex and IQ, for IQ deciles. From these values of F(35) and estimates of agespecific fertility at ages below 35,we use a demographic model to extrapolate age-specific fertility after age 35 and hence to estimate total fertility rates (TFR) and gross reproduction rates (GRR) by sex and IQ decile. By making use of information on sample attrition between 1957 and 1975, we also estimate age-specific death rates by sex and IQ decile. From the age-specific birth and death rates by sex and IQ decile, we calculate net reproduction rates (NRR), intrinsic rates of natural increase (r), mean lengths of geneiation (7), population doubling times (tj), and relative fitness (W) by sex and IQ decile. As a final measure of the relationship between intelligence and fertility, we calculate estimates of the IQ selection differential (5), which provides an estimate
+
+1
+
+Retherford and Sewell
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+of what the generational change in mean IQ would be if, hypothetically, each child in the birth histories had the same IQ as the mean of its parents' IQ's.
+Third, we estimate the mean IQ, fertility, and mortality of high-school dropouts (all those who never graduated high school), which the Wisconsin sample did not include. This is difficult to do, because we lack direct information on dropouts. We are forced to use estimates of the mean IQ and mortality of dropouts based on less than adequate information from other studies. Our estimates of the fertility of dropouts are more satisfactory, since we are able to use census data to estimate the fertility of persons of similar ages and dates of birth in the Wisconsin population who completed less than 12 grades of school.
+Fourth, we use the estimates of intelligence, fertility, and mortality of both graduates and dropouts to estimate the IQ selection differential for the complete cohort.
+Fifth, we discuss the generational change in mean genotypic IQ for the Wisconsin cohort. In this case our results are highly tentative and imprecise, because of our inability to meet the assumptions and conditions for adequate estimation of change in mean genotypic IQ.
+We now turn to the first of these objectives, a critical review of previous studies.
+REVIEW OF PREVIOUS STUDIES
+It is 32 years since Anastasi published her classic review, "Intelligence and Family Size" (Anastasi, 1956). Her review began by noting that early interest in the relationship between family size and intelligence grew mainly out of eugenic concerns. The commonly occur-
+
+ring negative association between socioeconomic status and size of family led investigators to postulate dysgenic population effects, based on the assumption that higher status positions tend to be occupied by persons of higher intelligence. Investigations relating the measured intelligence of school children to the socioeconomic status of their parents furnished evidence in support of this assumption. More direct evidence came from studies in the United States, England, France, and Greece, all of which found a negative correlation, ranging from -0.17 to -0.32, between the measured intelligence of school children and the size of their family of origin. From these findings several writers, using various estimation procedures, predicted an inevitable decline in the intelligence of the population. These predictions, depending on the sample studied and the estimation procedures used, indicated declines of 2 to 4 IQ points per generation. Although there was not complete agreement on the magnitude of the predicted decline, there was little or no dispute about the negative association between family size and measured intelligence and, hence, the dysgenic effect of negative differential fertility.
+Confidence in these predictions was seriously undermined by the findings of surveys undertaken by the Scottish Council for Research in Education (1933,1949). These surveys, conducted in 1932 and 1947 with response rates of 88 and 89 per cent respectively, used psychometrically equivalent group tests to measure the intelligence of all Scottish eleven-year-old school children. Although the usual negative relationship between the measured intelligence of the students and the size of their sibships was found in both surveys, there was a statistically significant increase of about
+
+Vol. 35, No. 1-2
+
+Intelligence and Family Size
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+2 points in mean test score over the 15- data at hand to choose among alterna-
+
+year period between the two surveys, tive interpretations based on (1) inher-
+
+rather than the expected decline. Even ited mental abilities; (2) differences in
+
+after making various psychometric ad- environments provided by parents of
+
+justments to the data to take into ac- varying intellectual levels; and (3) fac-
+
+count possible sources of bias, the most tors inherent in family size itself, such as
+
+favorable adjustments produced virtu- the fact that in large families, per capita
+
+ally identical means for the two surveys. resources available for housing, food,
+
+Subsequently, the results of the Scottish medical attention, parental contact with
+
+surveys were supported by several other children, and education are reduced.
+
+studies that also failed to substantiate She further argued that more definitive
+
+the expected decline in test scores for conclusions about the relationship be-
+
+samples drawn from other populations tween family size and intelligence must
+
+(see especially Cattell, 1951); however, await better designed studies that would
+
+none of these were as adequate in cover- begin with the testing of large and repre-
+
+age as the Scottish studies. The finding sentative samples of children or youth
+
+of an increase in the mean IQ of school prior to their educational and vocational
+
+children over time was surprising also differentiation. The subjects should be
+
+because of the increase in the propor- followed until their families are com-
+
+tion of the school-age population at- pleted, with careful recording of the
+
+tending school. Presumably school- date of birth of each child, the parents'
+
+goers are brighter on average than those ages at marriage, education, and socio-
+
+who do not attend school, so that an in- economic status. She believed that with
+
+crease in the proportion attending these data it would be possible to deter-
+
+school should reduce the mean IQ of mine the extent and nature of the rela-
+
+school children quite independently of tionship between intelligence and fertil-
+
+other factors.
+
+ity, and that "this approach would help
+
+Needless to say, the results of the Scottish surveys led to controversy and speculation in which scholars either tried to discount thefindingsbecause of methodological inadequacies or took the findings as evidence that environ-
+
+to separate the many interrelated variables which are now intricately intertwined and should thus bring us closer to a causal interpretation of the empirically observed relationship between intelligence and family size" (p. 206).
+
+mental improvements related to social Unfortunately, no study reported
+
+and education trends had more than off- since the publication of Anastasi's 1956
+
+set the dysgenic effects of negative dif- review article has come close to meeting
+
+ferential fertility by IQ. For a discussion all the criteria she set forth. Nor, for that
+
+of this controversy, see Duncan (1952). matter, could one be certain that, had
+
+After examining the available evi- these criteria been met, it would have
+
+dence on intelligence and family size, been possible to unravel the causal rela-
+
+Anastasi concluded that because of tionships among intelligence, social
+
+complex problems of sampling, mea- background, and fertility. We, too, are
+
+surement, and statistical analysis en- interested in understanding these causal
+
+countered in investigating the relation- relationships and intend to study them
+
+ship between family size and in detail in a subsequent paper. In this
+
+intelligence, it was impossible with the paper, however, we are concerned with
+
+Retherford and Sewell
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+the prior question of whether there is a significant relation between the measured intelligence of parents and the number of children they produce.
+RECENT STUDIES OF INTELLIGENCE AND
+FAMILY SIZE
+Our review of literature published since Anastasi's article is limited primarily to studies based on relatively large samples that purport to be representative of American cities, states, or the nation as a whole. As our review will show, the question of the extent and direction of the relationship between intelligence and fertility is by no means settled. . Interest in the relationship between intelligence and family size and particularly its possible dysgenic effect seems to have declined in the years since the publication of Anastasi's review, although studies bearing on these questions have continued to appear. Some of these studies have shown that previous research based on the relationship between measured intelligence and size of sibship is flawed and cannot by itself provide an adequate basis for predicting trends in population quality.
+The first of these studies, which was carried out at the Dight Institute for Human Genetics at the University of Minnesota, sought a possible resolution of the paradox that family size (number of siblings) was consistently found to be negatively associated with measured intelligence but that predictions of a substantial decline in the IQ of the population had failed to materialize (Higgens et al., 1962). The investigation employed a sample of families for whom IQ scores and other information were available for both parents and one or more of their children from the files of the Institute. This sample consisted of 1,016 mothers, an equal number of fathers,
+
+and their 2,039 children. The IQ scores of the parents were from tests taken before marriage, in most cases while they were still in school. The children's scores were from tests given in school. Like other investigators before them, the Minnesota group found the expected negative correlation (--0.30) between size of family of origin and the measured intelligence of the child. However, when the never-married and nonreproductive siblings of the mothers and fathers were included in the analysis, the relationship between IQ in the parental generation and number of offspring became slightly positive. In other words, the higher reproductive rate of those in the lower IQ categories who were parents was offset by their siblings who never married or failed to reproduce if married. On the basis of this evidence, the authors concluded that "the IQ level of the whole population should remain relatively static from one generation to the next, or at least not drop rapidly" (p. 199). It must be noted that the sample in this investigation was not a probability sample of the Minnesota population and may not be as representative as the authors believed. Moreover, nothing is said about the comparability of various test scores used in the study.
+Several investigators during the past 25 years have reported on research in which persons of known measured intelligence have been followed up over their childbearing years to determine their fertility. The pioneering study of this type was that of Bajema (1963), who obtained life history data on 979 nativewhite individuals born in 1916-17 whose Terman group intelligence test scores were available from tests given in the Kalamazoo, Michigan, public school system to children in the sixth grade. He later obtained life history information in
+
+Vol. 35, No. 1-2
+
+Intelligence and FamilySize
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+a follow-up survey carried out when the cohort of individuals born in 1916 or 1917 reached ages 45-46. The survey included questions on date of birth, sex, number of siblings, marital status, number of offspring, date of death if deceased, and place of residence.
+The mean number of children born to each of five IQ categories was computed and showed a bimodal distribution; the highest means were 2.60 for those with IQ ^ 120 and 2.46 for those with IQ 8094. The difference in mean fertility between these two IQ categories was not statistically significant, but the differences between each of them and the IQ categories 69-79 and 95-104 were significant. However, the means for the extreme categories were not significantly higher than the mean for the 105-119 IQ category. Further analysis using the intrinsic rate of natural increase and correlation analysis showed that the mean IQ of the population under study had increased slightly due to the small positive relation between parental IQ and the number of offspring produced. The seeming paradox that the intelligence of the individual is positively associated with number of offspring but negatively associated with size of sibship was explained essentially as it was in the study by Higgins et al. (1962). In Bajema's study, however, two different generations are involved, and there is no reason why the relationship between intelligence and fertility must be the same for each; that is, the data on IQ and sibship size reflect, however imperfectly, differential fertility by IQ in the respondents' parents' generation. The data on IQ and number of offspring reflect differential fertility by IQ in the respondent generation itself.
+A minor flaw in Bajema's calculations of the intrinsic rate of natural in-
+
+crease is that survivorship is measured from age at IQ testing, which averaged 11.6 years, rather than from age 1. Age 1 should have been used, because Bajema used offspring surviving to age 1 in place of births in his calculations, apparently because reliable data on births were not available. It seems unlikely, however, that correction of this flaw would alter the study's general conclusions.
+Guided by the findings of Higgins et al. (1962) and Bajema (1963), Waller (1971) sought a sample that would include the nonreproducing as well as the reproducing members of the parental generation. Using the large data base developed over a period of sixty years by the Dight Institute for Human Genetics, Waller selected a sample of families for a follow-up study. The sample consisted of families for whom IQ test scores were available for both parents and in which the mother was born in or before December 1927. These criteria yielded a study population of 529 families. To these parents were added their reproducing and nonreproducing siblings, if IQ scores were available for them. If an IQ score was available for the spouse of a sibling, that individual was also included. An attempt was made to locate the qualified families and to obtain information from them using a mailed questionnaire. After three follow-up letters were sent, information was obtained on 80 per cent of the sample families. The total sample numbered 1,603 persons, consisting of 846 parents and 757 siblings and spouses of siblings. Information on date of birth, schooling, and IQ of the subject was obtained from the files of the Institute. Occupation of father, subject's occupation, information on the spouse of the subject, number of children in the completed family,
+
+Retherford and Sewell
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+and names and dates of birth of the children were obtained from the questionnaire. The investigator claimed that his sample was representative of the Minnesota population, but given the unusual sampling procedures employed, the degree of representativeness must be viewed as uncertain.
+Using the data from these sources, Waller computed a number of correlation coefficients. Those most relevant here are the coefficients for subject's IQ with size of family of origin and size of completed family. The results of the analysis for males revealed the expected significant negative correlation between IQ and size of family of origin, but virtually no correlation between IQ and size of family of procreation. For females, there was no correlation between IQ and size of family of origin but a significant positive correlation between IQ and size of family of procreation. Again it must be noted that two different generations are involved, and that there is no reason why the relationship between intelligence and fertility must be the same for each.
+Following Bajema's lead, Waller also computed the intrinsic rate of natural increase for the 699 persons who had completed their fertility. The highest IQ group in the study had the largest rate of increase and the lowest IQ category had the smallest rate of increase. After determining relative fitness in relation to IQ for those persons, he concluded, "There is no evidence from these considerations in this sample that natural selection is acting to decrease the average IQ score, and it may in fact be effecting a very slow increase." Thus, the results of the Waller study support those of Higgins and associates and of Bajema.
+It must be noted that although these
+
+three studies used more sophisticated analytic techniques and made less naive assumptions than the earlier studies, their findings may be faulted on a number of grounds, particularly selection bias and sample representativeness. Also, the fact that IQ scores probably came from a number of different tests given at varying ages invites doubt about the comparability of test scores. But even in these respects, their methods were superior to those used in most of the earlier studies that came to opposite conclusions.
+In a more recent study, Olneck and Wolfe (1980) reported on research in which they examined the relationship between intelligence and family size using longitudinal data from two samples: the Kalamazoo Sample of Brothers and the National Bureau of Economic Research Thorndike-Hagan (NBER-T-H) sample of white men. The Kalamazoo Brothers sample includes 1,200 men traced and interviewed in 1973 and 1974 by Olneck (1976). The respondents were drawn from an original sample of 3,000 males, identified as siblings, for whom sixth-grade test scores from 1928 to 1950 were available in Kalamazoo public school records. Olneck and Wolfe's Kalamazoo findings are based on 352 weighted independent pairs of brothers for whom test scores, age, and self-reported education, earnings, and marital status were available. The intelligence test scores for the period 1928-1943 are based on the Terman group test; those for siblings tested after 1943 are from the Otis test. Both tests are reported to measure similar skills and to stress verbal rather than quantitative items. The authors assert that in their data the correlations involving the two tests are quite similar and that in the literature there is no evidence that the
+
+Vol. 35, No. 1-2
+
+Intelligence and Family Size
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+variances or reliabilities of the two tests differ significantly (Flemming, 1925; Cattell, 1930; Ratcliff, 1934; Buros, 1965). However, the Otis test is scaled to a lower mean than the Terman test. Therefore, Olneck (1976) adjusted the mean scores of those who had taken the Otis test and pooled the subsamples. The Kalamazoo respondents were virtually all white, Protestant, and of nonfarm origins. Their educational and occupational levels are higher than for men of their age when compared with the national sample used in the Occupational Changes in a Generation replication study (Featherman and Hauser, 1977, 1978). The investigators assert that while caution must be used in viewing results from the Kalamazoo sample, there are no obvious biases which would greatly distort the findings in the present analysis (Olneck and Wolfe, 1980, p. 244).
+The NBER sample comprises 5,000 white men, born between 1917 and 1925, who took the U.S. Air Corps Aviation Cadet Qualifiying (ACQ) Examination in 1943 and were followed up in a 1969 NBER survey. The sample is relatively homogeneous in measured intelligence and education; all respondents had at least graduated from high school or had high school equivalency and scored at or above the median on the ACQ test. The test score used is based on a pooled composite of a battery of tests and is said to represent general intellectual ability or scholastic aptitude (Thorndike andHagan, 1962). The measure of fertility derives from the NBER follow-up survey in 1969. It is based on the question, "How many children do you have?" Because of the phrasing of this question and other related questions concerning offspring, it is thought that the respondents reported
+
+surviving children currently at home rather than children ever born. Adopted children may also be included in the responses. Never-married persons and individuals who failed to respond to the questions on children, education, or income were excluded. The analysis is based on the 4,826 remaining cases.
+The results of the analysis of the Kalamazoo and NBER samples indicate that the correlation between father's intelligence test score and number of children is positive but very small (0.06) in both samples. The coefficients of IQ in regressions of number of children on IQ are statistically significant but also very small, 0.027 for the NBER-T-H sample and 0.014 for individuals in the Kalamazoo sample. The corresponding withinpairs coefficient for the pairs of brothers in the Kalamazoo sample is 0.021. Olneck and Wolfe conclude that "our evidence, therefore, suggests that intelligence, insofar as it is measured by standardized tests, is not an important determinant of fertility." The authors further suggest that the characteristics of the samples and comparisons of their findings with those of other studies based on completed families give them no reason to believe that their results are due to sample biases.
+It must be pointed out, however, that results based on a sample of brothers from Kalamazoo may have limited generalizability regardless of how carefully the analysis was done. The results from the NBER-T-H sample are more impressive but are based on a nonrepresentative sample of ever-married male high-school graduates whose measured intelligence was relatively high. Moreover, as has already been pointed out, the measurement of fertility was less than ideal for a study of this kind. Another problem is that both the Kalama-
+
+Retherford and Sewell
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+zoo and the NBER-T-H samples suffer from being restricted to males. As we shall see later, the relationship between IQ and fertility for females may be quite different from that for males.
+A more recent published study on the relation of measured parental IQ and fertility by Vining (1982) was based on data collected as part of the National Longitudinal Study of Labor Market Experience (NLS). A national probability sample of 5,172 males aged 14-24 was taken in 1966 and a second sample of 5,097 females aged 14-24 was taken in 1968. Both samples intentionally over-sampled blacks, in order to equalize to some extent sampling error in the larger white and smaller black populations; proportional weighting was used to obtain unbiased estimates for the population of both races. Resurveys have been undertaken periodically. The resurveys on which Vining's fertility estimates were based were taken in 1976 for males and 1978 for females, when the respondents were aged 25-34. The fertility measure for the males was derived from information on the relationship of each member of the household to the respondent in 1976. As Vining states, the number of own children living with their father in 1976 is not an adequate measure of biological fertility of males, although he argues that it is a good proxy for fertility of white but not black men. For women, information was available on the number of children the respondent had before 1978; the woman's statement about the number of children she expects to have in her lifetime; and the number of children she considers to be ideal for a family. The intelligence variable was constructed by members of the NLS staff from "test scores" obtained from the last high school attended. The scores came from
+
+approximately 30 different measures that were subsequently pooled by transforming the scores of each test to a mean of 100 and a standard deviation of 16. Because test scores were sought only for students who had completed the ninth grade, those aged 14 at the time of the first survey round were excluded from the analysis. Thus, the study was confined to those who had completed ninth grade and who were aged 15-24 at the time of the initial survey and 25-34 at the time of the last survey. The original sample of males contained 3,275 whites and 1,233 blacks; information was available on both test scores and fertility for 61.2 per cent of whites but only 26.8 per cent of blacks. Forfemales, this information was available for 61.1 per cent of whites and 35.4 per cent of blacks.
+Mean cumulative fertility rates were computed for six IQ categories separately for white women, black women, and white men. The results showed that the mean cumulative fertility rate was highest for both white females and males in the middle IQ categories, and lowest in the bottom and top IQ categories. The sharpest drop-off was in the highest IQ category. For black women, there was a monotonic decrease in mean number of children from the lowest to the highest IQ category. For both white and black women, the overall relationship between IQ and number of children was negative. From these data Vining calculated the IQ selection differential (Falconer, 1966) to be "around 2 points" decline in IQ per generation for each of the three race and gender subgroups. After adjusting for the regression of child's IQ on mid-parent's IQ (taken to be 0.5), he concluded that the generational change in mean genotypic IQ due to differential fertility by IQ was
+
+Vol. 35, No. 1-2
+
+Intelligence and Family Size
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+about one IQ point decline per genera- ately weaker" relationship in the case of
+
+tion. blacks. This was taken as evidence that
+
+Vining then regressed the number of higher IQ white women, in particular, children ever born on the parent's IQ intend to have substantially more chil-
+
+score for the 5-year age cohorts 25-29 dren in their later years of childbearing and 30-34 and for the 10-year age co- than lower IQ women in this same per-
+
+hort. He found very small negative slope iod. For black women, this catch-up ef-
+
+coefficients that increased slightly (i.e., fect was weaker.
+
+became more negative) across cohorts Finally, combining the white and
+
+for white women aged 25-29, from black women's samples, he predicts a
+
+-0.014 to -0.017. He also found that decline in mean genotypic IQ of one-
+
+the coefficients of white women in the and-a-third IQ points per generation if
+
+older cohort showed a decline over the current fertility patterns persist, and a
+
+previous five years from -0.014 to decline of about three-fifths of an IQ
+
+-0.012. Despite the fact that the differ- point if current fertility expectations are
+
+ences in coefficients were negligible and realized (calculated by multiplying the
+
+not statistically significant, he concluded IQ selection differentials for all women
+
+that for white women, "there is evi- aged 25-34 in Vining's Table 4 by 0.5).
+
+dence of a decline in the severity of the Vining suggests that previous find-
+
+dysgenic trend in fertility differentials ings of a positive association between
+
+with respect to intelligence, both across parental intelligence and number of
+
+cohorts with respect to age and within children reported by Higgins, et al.
+
+cohorts as they move through the child- (1962), Bajema (1963), Waller (1971),
+
+bearing ages" (p. 248). (The conclusion and Olneck and Wolfe (1980) may be
+
+,that severity decreases across cohorts is faulted because they are not based on
+
+erroneous and seems to reflect a misin- nationally representative samples but
+
+terpretation of the above-mentioned rather on the white population of the
+
+change in regression coefficients from Great Lakes states. Furthermore, he
+
+-0.014 to -0.017.) He argues that the suggests that the cohorts studied were
+
+within-cohort negative relationship be- reproductively active during the period
+
+tween IQ and fertility will not be re- of rising birth rates of the post-war baby
+
+duced to zero by the time the sample of boom, which was possibly the only per-"
+
+white women has completed its fertility. iod in modern times in which there may
+
+On the other hand, he found no evi- have been a eugenic trend in the popula-
+
+dence of a decline in the negative rela- tion. On the other hand, he claims that
+
+tionship between IQ and fertility for because his data are from a national
+
+black women, either with respect to age sample and because his cohorts were re-
+
+or across time. The data for white men productively active after the baby
+
+are not complete enough to allow these boom, they reflect the dysgenic trend
+
+kinds of comparisons.
+
+that he asserts has probably character-
+
+He also regressed mean expected fer- ized the normal situation over a long tility, as stated by the women, on IQ and period of time and is likely to represent found for white women a "substantially the future situation.
+
+weaker" negative relationship with IQ Vining's study suffers from at least
+
+for whites than had been found for com- fivemajor weaknesses. First, there was
+
+pleted fertility to date and a "moder- considerable sample attrition, due ei-
+
+10
+
+Retherford and Sewell
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+ther to failure to reinterview the original respondents or more importantly to obtain measures of intelligence for a large number of those who were reinterviewed. The losses from these and other sources were approximately 39 per cent for both white women and white men, 65 per cent for black women, and 73 per cent for black men. From what we know about the effects of sampling losses of these magnitudes, one can have little confidence that parameter estimates based on the remaining cases truly represent the population originally sampled. Vining notes that only in the case of black males do the cumulative agespecific birth rates deviate significantly from those of the comparable subpopulations in the nation as a whole. It is possible, however, that the pattern of fertility by IQ is biased more than the estimates of overall fertility for all IQ's combined. In this regard, evidence is needed to throw light on the question of whether the measured intelligence of those for whom test scores were obtained is representative of the intelligence of the original sample. No attempt was made to answer this question, nor was any systematic attempt made to identify the selective factors that account for the losses. Quite plausibly, one of these selective factors is lower average intelligence among the losses.
+Second, the IQ scores used in this study suffer from serious psychometric weaknesses. They were obtained by pooling information from 30 different tests and measures, including a number of standardized intelligence tests with varying item content and structure and with differing validity and reliability coefficients. Also included are scores on college entrance tests, such as the ACT, SAT, and PSAT, none of which was de-
+
+signed to measure intelligence. When test scores were lacking, grade point averages in high school were substituted, despite the fact that the correlation between grade point average and intelligence test score is approximately 0.5, indicating that grade point averages can account for only about 25 per cent of the variance in intelligence test scores. No attempt was made to determine the equivalence of scores from the various intelligence tests before combining the scores, even though the techniques for doing so and the dangers in not doing so have been well known for many years (Gulliksen, 1950; Angoff, 1971). Merely norming the various scores to a mean of 100 and a standard deviation of 16 does not address the basic measurement questions; it only converts a melange of scores of unknown equivalence into a common metric. Thus, we conclude that the measurement of IQ in this study is very questionable.
+Third, there are serious questions about the measurement of fertility in this study. As Vining has pointed out, the questions on which the data on the fertility of males and females are based are quite different and provide less adequate information on men than on women. Another problem is that the younger women in the sample could not have had more than 10 years and the older women more than 20 years in which to have had children, out of a potential period of some 35 years. Thus, estimates of life-time differences in fertility have varying degrees of reliability, especially when they are made for various IQ categories. This is particularly true because both men and women in higher intelligence categories tend to delay marriage for higher education and thus to have their children later than
+
+Vol. 35,No. 1-2
+
+Intelligence and FamilySize
+
+11
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+those in the lower intelligence catego- cial surveys conducted from 1974
+
+ries. Consequently, the projected through 1982. The IQ test scores were
+
+figures based on fertility over shorter based on a vocabulary test consisting of
+
+periods may seriously understate the ten questions selected from a longer test
+
+eventual fertility of those in the higher devised by Thorndike (1942). Low, but
+
+IQ categories.
+
+statistically significant, negative correla-
+
+Fourth, Vining's sample excludes persons who did not complete ninth grade. Unpublished tabulations from one-in-a-thousand public use sample tapes from the U.S. censuses of 1960 and 1970 indicate that, of persons aged 15-24 at the time of the 1960 and 1970 censuses, 17 per cent in 1960 and 12 per cent in 1970had not completed the ninth grade. Linear interpolation of these figures yields an estimate of 15 per cent for 1966. (By race, the estimates are 14 per cent for whites and 26 per cent for blacks in 1966.) Thus, Vining's estimates exclude a substantial portion of the population that probably has an average IQ well below that of the population as a whole. Depending on the fertility of this excluded group, their omission from the sample may seriously bias Vining's estimates of the generational change in intelligence.
+Fifth, Vining did not take differential mortality by IQ into account in his calculation of the IQ selection differential.
+
+tions (ranging from -0.05 to -0.23) were found between the test scores and the number of children ever born for six of the nine five-year age cohorts whose fertility had been completed by the time of the survey. (The other three correlations were also negative but not statistically significant. Correlations for later cohorts were more strongly negative, but the fertility of these cohorts was incomplete when measured, so that the correlations may be biased in the negative direction, for reasons discussed earlier.) The authors did not publish correlations between fertility and IQ for each sex separately. On the basis of their findings, Van Court and Bean concluded that the relationship between intelligence and fertility was predominantly negative from 1912 to 1982. They believe that previous reports of a neutral or slightly positive relationship may be due to the fact that they involved unrepresentative samples and did not include nonwhites.
+
+Because of these deficiencies, one More confidence could be placed in
+
+must raise serious questions about Vin- Van Court and Bean's results had they
+
+ing's conclusions, particularly those reported response rates to the five sepa-
+
+having to do with estimated genera- rate surveys and particularly to the IQ
+
+tional changes in intelligence.
+
+test and the fertility questions. Also,
+
+Another recent study by Van Court one would like to know the validity and
+
+and Bean (1985), based on retrospective reliability correlations of the specific test
+
+rather than prospective data, examines used in the NORC survey, rather than
+
+the trend in the relation of measured in- the evidence the authors provide for
+
+telligence and fertility by correlating IQ other short tests of intelligence. Finally,
+
+test scores and the number of children although the surveys may have been
+
+born in adult cohorts who were respon- representative of the U.S. population at
+
+dents to a series of National Opinion the time they were taken, the survivors
+
+Research Center (NORC) general so- in the older age cohorts are not likely to
+
+12
+
+Retherford and Sewell
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+be representative of their original age cohort; for example, those of higher IQ may be overrepresented because of their lower mortality. There is no discussion of these points in their paper.
+In a subsequent article, Vining (1986) reviews further evidence on trends in differential fertility by intelligence, mainly for the United States. The evidence consists of comparisons between the fertility trends of groups known or presumed to have high intelligence and the fertility trends of the nation as a whole. The groups with high intelligence include samples from Who's Who, the Forbes 400, Terman's high IQ sample, and the American Mensa. Much of this evidence is weakened by the fact that the fertility of men in the select groups is usually compared with the fertility of women in the nation as a whole. The difficulty here, as we shall see later in this paper, is that the pattern of differential fertility by IQ may be quite different between women and men. Therefore, the fertility of women ideally should be compared with the fertility of women, and the fertility of men should be compared with the fertility of men. Another problem is the possibility that small elite groups of very high intelligence may be atypical of the broader group of intelligent persons. Despite these difficulties and ambiguities, it must be noted that these data consistently confirm the pattern noted by Van Court and Bean and by Vining in his earlier article, that negative differential fertility by IQ tended to converge during the baby boom and diverge again in the negative direction after the baby boom.
+Two further studies are worthy of note. The first of these shows large gains in the mean IQ of Americans between 1932 and 1978, based on results from IQ standardization samples used for norm-
+
+ing a series of major IQ tests in the United States (Flynn, 1984). The second study confirms similar gains in 13 other countries as well (Flynn, 1987). The studies show that the increasing trend of IQ first noted in the Scottish study discussed earlier (Scottish Council for Research in Education, 1933,1949) and by Cattell (1951) is widespread and has continued. Together, these studies suggest that measured IQ is influenced considerably by environmental factors, most notably improving trends in education.
+From this brief review of studies reported after the appearance of Anastasi's review paper in 1956, one must conclude that research to date on the relationship between intelligence and fertility can be faulted on a number of methodological grounds, including sampling, measurement of variables, and in some cases less than adequate statistical techniques. None of these studies meets the requirements for an adequate study of the relationship between intelligence and fertility. Because of the shortcomings of the studies reviewed, we are convinced that any generalizations about the trend in intelligence of the U.S. population as a whole, derived from these studies, must be viewed as highly tentative at best.
+One may question the need for still another paper on the topic of intelligence and fertility that does not fulfill all of the requirements for a definitive study. But our research, although not ideal in every regard, does have better data on the critical variables than those available to the authors of the earlier studies covered in this review. Our sample, although not designed to be nationally representative, is a large random sample drawn from the state of Wisconsin, which ranks near the middle of the
+
+Vol. 35,No. 1-2
+
+Intelligence and FamilySize
+
+13
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+states in many socioeconomic characteristics and has great diversity in its population. Our research, too, has limitations, which we shall clarify in the course of presenting our analysis.
+MATERIALS AND METHODS
+THE WISCONSIN LONGITUDINAL DATA
+The data on which our investigation is based come from the Wisconsin Longitudinal Study of Social and Psychological Factors in Educational and Occupational Aspirations and Achievements, referred to throughout this paper as the WLS. The WLS is based on a random sample of 10,317 high-school seniors in public, private, and parochial schools in 1957. The questionnaires used in this study covered the students' socioeconomic backgrounds, high school experiences, educational and occupational aspirations and plans, and perceptions of the influence of parents, teachers, and friends on their plans and aspirations. From the schools and public sources, additional information was obtained on parents' economic status, the students' measured intelligence and high-school grades, and the characteristics of their high schools and communities. Race was not asked in the WLS, but unpublished tabulations from a 1/1000 Public Use Sample tape for Wisconsin from the 1960 census indicates that, of persons aged 15-24 with 12 or more completed years of education, 98.2 per cent were white, 0.9 per cent black, and 0.9 per cent other races. (The age group 15-24 is centered on age 20, which was approximately the average age of the WLS cohort in 1960.) WLS follow-up surveys of the students were conducted in 1964 and 1975 with response rates of approximately 90 per cent. For a detailed dis-
+
+cussion of the 1957,1964, and 1975 samples, nonresponse bias, and data quality, see Sewell and Hauser (1975, 1980) and Clarridge et al. (1977).
+The 1975follow-up study is especially pertinent to the present research because, in addition to detailed information on educational and occupational experiences and attainments, considerable information was gathered in the interview on family formation and dissolution and fertility history up to the timeof the interview. For a more complete discussion of these data and a review of results of the many articles and monographs based on them, see Sewell and Hauser (1977, 1980); Sewell, Hauser, and Wolf (1980); Hauser, Sewell, and Clarridge (1982); and Hauser, Tsai, and Sewell (1983).
+THE WLS MEASURES OF INTELLIGENCE
+AND FERTILITY
+The two main variables used in our research are measured intelligence and fertility. Because the measurement of these variables is crucial to any conclusions drawn from the study, their sources, characteristics, and limitations must be carefully examined.
+The mental ability measurements are based on scores on the Henmon-Nelson Test of Mental Ability (revised 1954), which was administered to Wisconsin ninth- and eleventh-grade students in public, private, and parochial schools in the spring of 1957. The testing was done under the supervision of the Wisconsin Testing Service and machine scored at its headquarters. The raw scores, percentile ranks, and IQ scores for each student were recorded alphabetically by name of student for each high school in the state. Test "scores were available from this source for all students in the WLS. (In a relatively small but un-
+
+14
+
+Retherford and Sewell
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+known number of cases where students had not taken the Henmon-Nelson test--usually in cases where they had transferred from out of state into a Wisconsin high school for their senior year--psychometrically equivalent scores on other standardized tests were substituted for Henmon-Nelson Test scores.) The Henmon-Nelson IQ scores are normed to a mean of 100 and a standard deviation of 15.
+The Henmon-Nelson test, which at the time was one of the most widely used group tests of intelligence, was designed to measure the mental ability of students in grades 7 to 12 inclusive. In the words of the tests's authors (Henmon and Nelson, 1954, p. 3), "Tests of this kind have often been called 'tests of intelligence' and perhaps that term is as appropriate as the term 'mental ability.' Actually both terms leave something to be desired since such tests do not measure all of 'intelligence'; neither do they measure all kinds of 'mental ability.' Rather they measure the kinds of ability necessary for academic work and it is for this purpose that they will be found most useful."
+There are three equivalent forms of the test, all identical in difficulty and construction. Each form of the test consists of 90 items arranged in a "spiral omnibus" pattern in which item types are mixed together with a steady rise in the difficulty of the items. The item types include geometric analogies, arithmetic problems, proverb interpretations, general information, synonyms, and antonyms. The test is "speeded" in that respondents are given 30 minutes to complete it. Thus, scores depend in part on reading skills. Validity coefficients, reported by Henmon and Nelson (1954, p. 6), based on the correlation of scores on their test with scores on other well-
+
+known group tests of mental ability, including the Otis Self-Administering Test, the Terman Group Test, the Kuhlmann-Anderson Test, and the American Council Psychological Examination, are in the range of 0.780 to 0.858. Also, the means and standard deviations of the Henmon-Nelson Test and those of other well-known tests, including the tests mentioned above, are quite similar. All available evidence indicates that the Henmon-Nelson Test is highly reliable in the large and diverse Wisconsin sample. For example, Henmon and Nelson report a split-half reliability of r =0.887 and an alternative forms reliability of 0.89 for two small samples of eleventh-grade students. Hauser et al. (1983, p. 40), taking into account the variance in IQ in the WLS, estimate these reliability coefficients to be 0.916 and 0.953 respectively. We have computed a test-retest correlation of 0.814 from data reported in Hauser and Sewell (1984) for a random sample of 336 Wisconsin men who took the Hemon-Nelson test in both their freshman and junior years.
+The basic measure of fertility used in this study is the number of children ever born alive to the respondent. This is measured in the same way for males and females. It is derived from a complete roster of children born to ever-married female respondents or fathered by evermarried male respondents and includes the dates of all live births (including those born out of wedlock), the age of the respondent in century months (months elapsed since January 1, 1900) at the time of the birth of each child, and the date of each marriage and each marital dissolution. Never-married persons (i.e., never-married by age 35) were assigned a fertility of zero. From this information a number of measures of fertility
+
+Vol. 35,No. 1-2
+
+Intelligence and FamilySize
+
+15
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+may be computed. The primary measure used in this study is the number of children born alive to the respondent before the 35th birthday, which in most cases is the same as the number of children ever born up to the date of the interview. This measure of necessity does not represent the ultimate fertility of our sample members, because the women in our sample still had, on average, at least fiveor six more years during which they could bear more children. For the men the possible period is of course even longer and depends largely on the age of their mates. What we know with reasonable certainty is how many children our respondents had up to approximately age 36. Consequently, to the extent that we wish to talk about completed fertility, it is necessary to produce estimates based on the 1975 data and other known characteristics of the sample and of the population it represents. These techniques, their assumptions, and their possible errors and biases will be discussed at the point of which they are used in the analysis.
+It should be pointed out that the sample on which our analysis is based, although randomly drawn from the large and heterogeneous population of Wisconsin high school graduates, is not a complete age cohort because it excludes persons of the same age who did not graduate high school. We estimate that approximately 25 per cent of the complete age cohort did not graduate (Hauser, 1971; Sewell and Hauser, 1975, Appendix D). As a consequence, when we attempt to extend our findings to cover all persons in the age group, we must rely additionally on estimates of the measured intelligence, fertility, and mortality of the dropouts. Unfortunately, the available information on which to base these estimates is not
+
+nearly as adequate as that for the WLS sample members.
+DIFFERENTIAL REPRODUCTION BY IQ IN
+THE WISCONSIN LONGITUDINAL STUDY
+As already mentioned, our basic fertility variable is the number of children ever born alive to the respondent before the 35th birthday, denoted as F(35). A minor problem with this variable is that not all respondents reached age 35 by the time of the 1975 survey. There were 28 males and 34 females who did not reach 35 by the time of the survey, and for some of these individuals F(35) may be underestimated by one child or possibly even two children in the unlikely event of multiple births. But the number of such individuals is so small in relation to overall sample size that the bias introduced into our aggregate-level estimates of F(35) is negligible. The 62 individuals who did not reach 35 by the time of the survey were retained in the analysis.
+Another problem is that fertility information was not collected from nevermarried persons, who constituted 5.0 per cent of women and 5.7 per cent of men in the 1975 reinterview survey. As mentioned earlier, we assigned nevermarried persons a fertility of zero. It is thought that very few persons in this cohort who did not marry by age 35 had illegitimate children, so that the bias introduced by the zero-fertility assumption for never-married persons is probably very small, too. (In this regard, it may be noted that in the Wisconsin sample, average intelligence is slightly higher for never-married persons than for ever-married persons.)
+In examining the relationship between fertility and IQ, we have considered F(35) as the dependent variable and IQ as the independent variable, as
+
+16
+
+Retherford and Sewell
+
+SocialBiology
+
+shown in Table 1.Totabulate F(35)by IQ, it is convenient to group respondents into IQ deciles. The decile breaks, shown in the second column ofTable 1, were obtained from the 1957 survey, using data onallthe original respondents. The numbers of respondents in each decile are not precisely equal, because many respondents have the same IQ scores, and because those with the same score must be treated as a block when grouping respondents by IQ. This makes it impossible to define IQ intervals with precisely thesame number of respondents in each interval. Although the IQ decile breaks are derived from the 1957 survey, the sample Ws(number ofrespondents) in Table 1 are based on the 1975 survey, inwhich the fertility questions were asked. Because of sample attrition from deaths and nonresponse between the two surveys, the sample Wsin Table 1 aresmaller than
+
+the sample Ws inthe 1957 survey. Table 2, discussed later, provides the TVs for each decile for the original respondents in the 1957 survey.
+Table 1shows values of F(35) by IQ decile and sex, and these values are graphed inFigure 1. Figure 1 also shows values of the total fertility rate and the intrinsic rate of natural increase, which will be discussed in more detail later and can beignored forthe moment. Thetable and figure show striking differences by sex. The relationship between IQ and fertility is negative for both sexes, but much more so for females than for males. For females, thehighest fertility is achieved in the second IQdecile, and fertility falls fairly regularly at higher deciles. Thepattern for males is more erratic. Overall, the relationship between IQ andfertility for males is only slightly negative. Fertility is highest in the fourth decile, with the third and sec-
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+TABLE1
+MEAN NUMBER OF CHILDREN EVER BORN BY 35TH BIRTHDAY, F(35), BY IQ DECILE AND SEX, DERIVED FROM THE WLS"
+
+T_ DECILE
+
+__ RANGE
+
+F<35)
+
+FEMALES SE
+
+N
+
+F(35)
+
+MALES SE
+
+N
+
+1
+
+67-81
+
+2/76
+
+O065
+
+436
+
+Z36 O058 418
+
+2
+
+82-87
+
+2.92
+
+0.066
+
+438
+
+2.45
+
+0.064
+
+365
+
+3
+
+88-92
+
+2.83
+
+0.062
+
+509
+
+2.46
+
+0.057
+
+437
+
+4
+
+93-96
+
+2.81
+
+0.060
+
+444
+
+2.50
+
+0.060
+
+407
+
+5
+
+97-100
+
+2.73
+
+0.057
+
+515
+
+2.29
+
+0.057
+
+428
+
+6
+
+101-103
+
+2.70
+
+0.059
+
+501
+
+2.27
+
+0.062
+
+411
+
+7
+
+104-108
+
+2.70
+
+0.066
+
+434
+
+2.26
+
+0.057
+
+438
+
+8
+
+109-112
+
+2.55
+
+0.057
+
+542
+
+2.19
+
+0.052
+
+454
+
+9
+
+113-120
+
+2.50
+
+0.056
+
+513
+
+2.37
+
+0.054
+
+488
+
+10
+
+121-145
+
+2.29
+
+0.057
+
+456
+
+2.07
+
+0.057
+
+470
+
+*WLS denotes the Wisconsin Longitudinal Study. SE denotes the standard error ofthe estimate ofF(35). The standard errors include a finite population correction (fpc) of0.82, based on a sampling fraction of 1/3 (Cochran, 1963). An F-ratio test ofthe 10 sample means of F(35) indicates significant differences among IQ categories; p < 0.01 forfemales andp < 0.05 formales.
+Although there is good reason tobelieve that the relationship between IQ and fertility is intrinsically nonlinear, since fertility tends to drop offat both the upper and lower ends ofthe distribution ofintelligence, one may nevertheless force a linearfitforthe purpose of further significance testing. This isdone by regressing F(35) onIQ for each sex separately from individual-level data. Results yield coefficients of IQ of -0.00580 (SE =0.00148, one-sided p < 0.0002) for males and -0.01057 (SE = 0.00162, onesided/3 < 10"6) for females. Both coefficients are highly significant, as isthe difference between the male and female coefficients (one-sidedp = 0.0143).
+The F-ratio test and the significance tests forregression coefficients make no allowance forfinite population corrections.
+
+Vol. 35, No. 1-2
+
+Intelligence and Family Size
+0.03
+
+17
+0.03
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+Nat lal Fert
+
+ra CC
+
+- 0.02 £
+
+. - 0.02 -
+
+- 0.01
+
+B
+W <D
+<5
+cc
+o
+
+1--
+·o
+c
+^
+
+- 0.01 £
+
+10
+
+FIG. 1.--F(35), total fertility rates (TFR), and intrinsic rates of natural increase (r) by IQ decile and sexintheWLS.
+
+ond deciles close behind. Fertility declines at higher deciles, except for the ninth decile, which has fertility not much lower than the peak fertility of the fourth decile. For both females and males, fertility is lowest in the tenth or highest decile. The observed differences in fertility by IQ are statistically significant, as discussed in the footnote to Table 1.
+Note that there is no decile for either sex where F(35) drops below two children per woman. Thus, fertility is above replacement. For females, the mean number of children by the 35th birthday ranges from 2.29 in the tenth decile to 2.93 in the second decile, with an average of 2.68. For males, it varies from 2.07 in the tenth decile to 2.50 in the fourth decile, with an average of 2.32. The overall fertility of males is lower than that of females partly because, in the WLS sample, men tend to marry about two years later than women, so that their fertility by age 35 is less complete.
+Further measures of differential reproduction by IQ decile and sex are pre-
+
+sented in Table 2. The first measure of interest is the total fertility rate (TFR) for the WLS cohort. The total fertility rate is defined as the expected number of live births of both sexes that a woman or man would have if she or he experienced observed age-specific birth rates under hypothetical conditions of zero mortality. In the present context it iscalculated by summing age-specific birth rates in 5-year age groups between ages 15 and 50 and multiplying the sum by 5.
+Estimation of the TFR requires extrapolation of the fertility of WLS respondents to ages beyond 35. Our extrapolation procedure required estimates of age-specific birth rates for age groups 15-19 through 30-34, which were reconstructed without difficulty from the birth histories of the WLS respondents. Age-specific birth rates in 5year age groups for women were calculated as the average number of births per woman per year over the five years of each age group, and age-specific birth rates for men were calculated as the average number of births per man per year over the five years of each age group.
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+TABLE2
+MEASURES OFREPRODUCTIVITY AND SELECTION BYIQ DECILES AND SEX,DERIVED FROM THE WLS"
+
+SEX AND MEASURE
+
+IQ DECILE
+123456789
+
+10 Total
+
+Females IQ range MeanlQ F(35) TFR GRR e0 NRR r T Doubling time (yrs) W N (No. of respondents)
+
+67-81 75.30
+2.75 2.85 1.39 75.00 1.36 0.01198 25.47 57.85 0.931 506
+
+82-87 84.75
+2.93 3.04 1.48 75.25 1.45 0.01475 25.17 47.00 1.000 505
+
+88-92 90.22
+2.84 3.02 1.47 75.25 1.44 0.01403 25.79 49.39 0.982 562
+
+93-96 94.44
+2.81 2.93 1.43 75.25 1.39 0.01302 25.51 53.23 0.956 510
+
+97-100 98.06 2.73 2.89 1.41 75.50 1.38
+0.01232 26.00 56.26 0.939 569
+
+101-103 102.01 2.71 2.83 1.38 75.50 1.35
+0.01157 25.81 59.90 0.921 546
+
+104-108 105.55 2.71 2.88 1.40 75.50 1.37
+0.01215 26.02 57.04 0.935 494
+
+109-112 110.11 2.55 2.68 1.31 75.50 1.28
+0.00951 25.99 72.87 0.873 583
+
+113-120 116.25 2.50 2.65 1.29 75.75 1.26
+0.00901 25.98 76.96 0.862 553
+
+121-145 126.68 2.29 2.42 1.18 75.75 1.16
+0.00551 26.35
+125.91 0.788 495
+
+100.43 2.68 2.82 1.37
+75.50 1.34
+0.01140 25.82 60.81 0.917 5,323
+
+Males IQ range MeanlQ F(35) TFR GRR e0 NRR r T Doubling time (yrs) W N (No. of respondents)
+
+67-81 74.45
+2.36 2.60 1.33 68.30 1.25 0.00807 27.61 85.91 0.923 525
+
+82-87 84.86
+2.45 2.75 1.41 68.82 1.32 0.01013 27.68 68.40 0.979 427
+
+88-92 90.17
+2.46 2.68 1.37 69.08 1.30 0.00946 27.34 73.26 0.960 498
+
+93-96 94.50
+2.50 2.80 1.43 69.34 1.35 0.01090 27.80 63.58 1.000 467
+
+97-100 97.99 2.29 2.61 1.34 69.34 1.26
+0.00822 28.30 84.30 0.927 501
+
+101-103 101.99 2.27 2.57 1.31 69.60 1.24
+0.00777 28.10 89.20 0.916 472
+
+104-108 105.56 2.26 2.53 1.29 69.86 1.23
+0.00733 27.98 94.58 0.904 501
+
+109-112 110.08 2.19 2.54 1.30 70.13 1.23
+0.00735 28.53 94.25 0.905 522
+
+113-120 116.27 2.37 2.80 1.44 70.39 1.36
+0.01073 29.03 64.59 0.995 559
+
+121-145 127.18 2.07 2.39 1.22 70.92 1.17
+0.00544 28.70
+127.34 0.858 522
+
+100.78 2.32 2.62 1.34
+69.60 1.27
+0.00850 28.13 81.55 0.935 4,994
+
+°fl(35) is defined in Table 1. TFR denotes total fertility rate, defined as the expected number of live births of both sexes that awoman orman would have ifshe or heexperienced observed agespecific birth rates under hypothetical conditions ofzero mortality. GRR denotes gross reproduction rate, defined in the same way as TFR, except that itpertains tobirths ofjust one sex (the same as that ofthe parent). eo denotes life expectancy atbirth. NRR denotes net reproduction rate, defined as the expected number oflive births of the same sex that aperson just born would have ifshe orhe experienced observed age-specific birth and death rates; ifobserved age-specific birth and death rates remain constant over time and there isno migration, the NRR is also the long-run multiplicative growth factor by which the population increases ordecreases over each succeeding generation, r is the intrinsic rate ofnatural increase, defined as the population growth rate that would result under the same long-run assumptions about unchanging fertility and mortality and no migration. Tdenotes the length ofa generation, defined as the time required for apopulation growing atintrinsic rater to increase by a factor equal tothe NRR. The doubling time is the time required for apopulation growing atintrinsic rate rto increase bya factor of 2. Wis relative fitness, defined asthe ratio of the generational growth factor for the ithIQdecile to the generational growth factor for the most rapidly growing decile, based onthe intrinsic rate of natural increase for each decile separately; for females and males, respectively, ^ ^ r ^ . , / , ^ w m = Jm(r^ · rm^
+
+3 C/3
+C/3
+8 5
+5'
+
+Vol. 35, No. 1-2
+
+Intelligence and Family Size
+
+19
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+Fertility after age 35 was extrapolated using a demographic model of agespecific fertility developed by Luther (1982). Luther's method fits a truncated Pearson Type III curve--the incomplete gamma function k x2 e-a--to observed age-specific birth rates in 5-year age groups below 35 years of age. There is a "half parameter" that utilizes information at later ages, but it assumes only one of two values, and Luther has indicated which value to use in the case of developed countries such as the United States. Luther developed and refined his model in the process of testing it with 79 observed schedules of age-specific birth rates taken mainly from a compendium of demographic data compiled by Keyfitz and Flieger (1971), and he ultimately obtained excellent fits to the test data. Details of how the model was applied to fit the WLS data are given in a pre-publication version of this paper (Retherford and Sewell, 1986).
+We applied Luther's model to extrapolate fertility beyond age 35, by sex and IQ decile. The model yielded excellent fits to the WLS data (Retherford and Sewell, 1986). Errors in the TFR estimates due tofittingerrors are probably very small, since less than 7 per cent of the total fertility of the WLS cohort, as determined from Luther's procedure, occurs after age 35. (Period fertility estimates from published sources during the past two decades indicate a percentage that is 1 or 2 percentage points higher than 7 per cent, but one expects period estimates to exceed cohort estimates of this percentage during times of rapidly declining period fertility. The period total fertility rate, calculated for each calendar year from age-specific birth rates for that calendar year, fell substantially in the United States between 1957 and
+
+1975 (U.S. Department of Commerce, Bureau of the Census, 1983, p. 64).)
+As shown in Figure 1, the estimated TFR's are slightly higher than the values of F(35), and they vary in much the same way by IQ decile. Note that the TFR's for men are lower than those for women. As noted earlier, this is also true for F(35). There is, of course, no reason why the TFR's for the two sexes must be the same, since the wives of the WLS men are for the most part not in the WLS sample. Moreover, the wives of the WLS men are approximately two years younger, on average, than the WLS women, since, as mentioned earlier, men tend to marry women about two years younger than themselves. Viewed from the perspective of family fertility, the completed fertility of families of WLS men therefore lags the completed fertility of families of WLS women by about two calendar years. Because of this time lag, and because fertility in Wisconsin (as in the rest of the nation) declined sharply between 1957 and 1975, one expects the TFR's for men to be lower than the TFR's for women in the WLS. It is also possible that reporting of offspring for men may be somewhat less than complete in the birth histories, especially births illegitimately fathered who have never lived with the father.
+It is a simple matter to calculate gross reproduction rates (GRR) from the estimated TFR's. The GRR for women is defined as the expected number of live girl births that a woman would have if she experienced observed age-specific birth rates for women under hypothetical conditions of zero mortality. The GRR for men is similarly defined, except that it is based on boy births and the age-specific birth rates for men. The
+
+20
+
+Retherford and Sewell
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+GRR for women is estimated by multiplying the TFR for women by the ratio of female births to all births, i.e., by 0.488 under the assumption that the sex ratio at birth is 1.05 male births for every female birth. The GRR for men is estimated by multiplying the TFR for men by the ratio of male births to all births, i.e., by 0.512. Gross reproduction rates are included in Table 2 mainly for comparison with net reproduction rates (NRR), which will be discussed later.
+The NRR and remaining measures in Table 2 require estimates of mortality by IQ decile. To estimate mortality we used data on sample attrition between the 1957 and 1975 WLS surveys. The 1975 survey identifies respondents who died between 1957 and 1975. Deaths include 118 men and 56 women. There were 4,994 men and 5,323 women to start with in 1957. Therefore, proportions dying between the two surveys are 118/4,994 = 0.02363 for men and 56/5,323 = 0.01052 for women. To a close approximation, each of these proportions equals the proportion dying between ages 18 and 36, denoted here as
+There are not enough deaths in the sample to allow direct estimation of mortality for each IQ decile. Moreover, the age range of the deaths, 18-36, is incomplete. Therefore, mortality by IQ decile had to be estimated indirectly. The following simple procedure was used: First, for each sex separately, we divided the sample into two halves, below and above the median IQ for the sample. The lower and upper halves had mean IQ's of 88.83 and 111.95 for women and 88.27 and 112.53 for men. Next we computed the proportion dying between the 1957 and 1975 surveys for each of the two halves, as already de-
+
+scribed. A complication was that the lower IQ half of the sample had more grade repeaters and was therefore somewhat older on average than the upper IQ half. The lower and upper halves had average ages in 1957 of 18.00 and 17.81for women and 18.14 and 17.90 for men. Thus, the proportions dying between the two surveys are not exact estimates of #(18), which refers to the proportion dying between exact ages 18and 36. Adjustments for these age discrepancies proved to be negligible (Retherford and Sewell, 1986).
+Next, the two-point formula for a straight line was used to estimate the relationship between #(18) and IQ, for each sex separately, based on the values of q(18) and mean IQ for the upper and lower IQ halves of the sample. The equation for females is
+#(18) = 0.01360 - 0.00003 IQ (1)
+and the equation for males is
+#(18) = 0.03873 - 0.00015 IQ. (2)
+Estimated standard errors of the IQ coefficients in these equations are 0.00010 for females and 0.00015 for males. These estimates assume that the IQ difference between the upper and lower IQ halves is constant over repeated samples, and they include a finite population correction of 0.82 (see note to Table 1). The standard error of the difference between the male and female IQ coefficients is 0.00018. Comparison of these standard errors with the coefficients themselves indicates that levels of statistical significance of the coefficients and of the male-female difference between them are low. Our estimates of mortality differences by IQ and by sex are accordingly somewhat imprecise.
+
+Vol. 35,No. 1-2
+
+Intelligence and FamilySize
+
+21
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+From Equations (1) and (2) and the values of mean IQ for each IQ decile, values of q(18) were generated for each IQ decile, for each sex separately. The values of #(18) were then matched to Coale-Demeny West model life tables (Coale and Demeny, 1966) to obtain estimates of complete model life tables, in which the tables for males and females are presented at intervals of 0.25 year of female life expectancy. In each case the life table chosen was the one with a value of q(18) closest to the observed value, as estimated from Equation (1) or (2). Thus, the values of life expectancy in Table 2 are accurate only to within 0.25 year, sufficiently accurate for our purposes. The estimated mortality differentials by IQ are small, especially for females. The difference in life expectancy between the first and tenth IQ deciles is about 0.8 year for females and 2.6 years for males.
+Given age-specific birth rates and a life table for each IQ decile, it is a simple matter to calculate the net reproduction rate. For each sex separately, the NRR is denned as the expected number of live births of the same sex that a person just born would have if she or he experienced observed age-specific birth and death rates over a lifetime. If observed age-specific birth and death rates remain constant over time and there is no migration, the NRR is also the long-run multiplicative growth factor by which the population increases or decreases over each succeeding generation. The NRR is similar to the GRR, except that age-specific mortality is taken into account in the calculations. Thus, the NRR is somewhat smaller than the GRR. Given the negative association of mortality with IQ, the relationship between the NRR and IQ is less negative
+
+than the relationship between the GRR and IQ. But because mortality is so low in this population, this difference is small.
+From the age-specific birth rates and the life table for each IQ decile, one may also calculate the intrinsic rate of natural increase, r (not to be confused with the product-moment coefficient of correlation). This is the population growth rate that results hypothetically in the long run if observed age-specific birth and death rates remain constant over time and the population is closed to migration. A property of r is that it does not depend on the age distribution of the original population as long as some persons in the original population are of reproductive age. The variation in r with IQ resembles the variation of fertility with IQ, as shown in Figure 1. Values of r by sex for the whole sample are 0.01140 for females and 0.00850 for males (calculated from individual-level data, not by averaging decile values). The difference between the sexes arises because of the one-sex demographic model that underlies the calculations. In real populations, of course, the two sexes have the same long-run population growth rate. Thus, the one-sex calculations are not entirely consistent.
+From r, one can calculate the length of a generation, T. Once the growth rate converges to r under hypothetical conditions of constant age-specific birth and death rates, the population becomes stable. A constant growth rate, r, is one of the attributes of a stable population. The growth factor over a time period of length t is then e". The generation length T is defined as the time required for the population to increase by a factor equal to the NRR under hypothetical conditions of stability. Thus, T is ob-
+
+22
+
+Retherford and Sewell
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+tained by solving the equation sistent and unrealistic, but they do proerT = NRR, so that T = (l/r)ln NRR. vide useful indices of sex differences.
+
+T tends to increase slightly with IQ, but the variation is small and erratic. For the entire sample, Tis 25.8 years for females
+
+THE IQ SELECTION DIFFERENTIAL FOR GRADUATES
+
+and 28.1 years for males.
+
+One of the objectives of our research
+
+One may also calculate population was to obtain an estimate of the IQ se-
+
+doubling times from r, and these are also lection differential from the WLS data.
+
+shown in Table 2. The doubling time is The IQ selection differential, S, is
+
+calculated by solving the equation defined as what the generational change en = 2 for t, so that td = (l/r)ln 2. The in mean IQ would be if, hypothetically,
+doubling time varies inversely with r. each child in the birth histories had the
+
+Following Bajema (1963), we may same IQ as the mean of its parents' IQ's.
+
+compute another measure of interest, Because we know the IQ of only one
+
+relative fitness, W, which compares parent, we estimate S first for each sex
+
+growth over a generation in the various separately and then average male and
+
+IQ deciles. A difficulty here is that the female values. (For further discussion of
+
+generation length, T, varies from one the general concept of the selection dif-
+
+decile to the next. This difficulty is over- ferential for any trait, see Falconer,
+
+come by arbitrarily taking T to be the 1966,1981, or Crow, 1986.) In the calcu-
+
+generation length over all deciles com- lation of 5, the assumption of equality of
+
+bined. Again, each sex is considered IQ between child and parent is intro-
+
+separately. Let r* denote the value of r duced because we have no information
+
+for the most rapidly growing IQ decile, on the IQ's of respondents' children.
+
+which in Table 2 is the second decile for This assumption is, of course, unrealis-
+
+females and the fourth decile for males. tic, a point to which we shall return
+
+From the standpoint of reproduction, later. The calculation of the IQ selection
+
+the second decile for females, or the differential is done first just for gradu-
+
+fourth decile for males, is the most "fit," ates in the WLS sample. Later it is re-
+
+and its growth rate is referred to in the done with school dropouts added in.
+
+literature (somewhat inappropriately in The data for dropouts are much weaker
+
+this case) as the "optimal" growth rate. than the data for WLS graduates, and
+
+Decile-specific indices of relative that is why graduates are first treated
+fitness, Wiy are then defined as er,r/ separately. The separate treatment of gr.r = e[T(r-r*)j> which is the ratio of the graduates in calculating the IQ selection growth factor for the ith decile to the differential is, of course, quite artificial,
+
+growth factor for the most rapidly grow- since they are by no means a breeding
+
+ing decile. An overall index of mean rel- population that is separate from dropative fitness, W, is defined as elT(r~rt>K outs.
+
+For both females and males, it is evident that the tenth IQ decile, with IQ 121 and over, is the least "fit" in the Darwinian sense, with values of W of 0.788 and 0.858 for females and males respectively. Again, the one-sex model yields results that are in some respects incon-
+
+Our method of calculating the IQ selection differential makes use of the intrinsic rate of natural increase. As already mentioned, calculations are done separately for each sex. Let IQt denote the mean IQ of the ith IQ decile. If Nt is the population size of the ith IQ decile to
+
+Vol. 35, No. 1-2
+
+Intelligence and Family Size
+
+23
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+begin with, then, if each decile grows at the intrinsic rate r, in Table 2, the population size of each decile at the end of one generation is Kt = NjeriT. Then the IQ selection differential is calculated as
+
+for aspects of intelligence that are sexlinked. The IQ selection differential for both sexes combined is calculated as the simple average of the female and male values--about one-half of an IQ point decline in a generation, as shown in the
+
+table. The purpose of doing the calcula(3) tion for each sex separately is not only to
+
+where the summation is across IQ deciles. The first of the two terms on the right is the estimated mean IQ of the offspring generation, and the second is the estimated mean IQ of the respondent generation. Note that the first and sec-
+
+circumvent the difficulty that we know IQ for only one parent, but also to get some sense of the relative importance of female differential fertility by IQ and male differential fertility by IQ to the overall IQ selection differential.
+
+ond terms on the right are the same, except for the factors er,J embodied in Ki = Nt eriT. The factors er,r differ only slightly from the net reproduction rates NRR,- = eriTi.The difference is that T, in the formula for NRR, is replaced by T for the total sample (calculated as the average of the male T and the female T in the total column of Table 2), so that the length of generation is the same regardless of the category under consideration.1
+
+The entire sequence of calculations to this point can be based alternatively on IQ quartiles. This was done in order to assess roughly the impact of alternative groupings of respondent IQ's. The results of the calculation based on quartiles, shown in the second row of Table 3, are virtually identical to those based on deciles. Thus, the estimates of the IQ selection differential do not appear to be sensitive to the way in which the data are grouped.
+
+Table 3 shows results. Our base estimates of the IQ selection differential, which are shown in the first row, are -0.79 for females and --0.25 for males. The selection differential is small, less than one IQ point decline in a generation, and about three times as rapid for females as for males. Of course, these are one-sex calculations, except that a common value of Tis used. Given sexual reproduction, one expects that in reality the IQ selection differential would be about the same for either sex, except
+
+We also tested to see how much the results for males depend on how Luther's age-specific fertility model is fitted. As mentioned, Luther's model is a truncated Pearson Type III exponential curve. Luther applied it to agespecific fertility of women and truncated the curve at age 43 or 45, depending on the level of certain parameters. This cutoff age is denoted by u in the model. For the United States, a value of 43 is found to be the appropriate value of u, and this is the value that underlies the value of the IQ selection differential of -0.25 for
+
+males in the first row of Table 3. How-
+
+1In the pre-publication version of this paper (Retherford and Sewell, 1986), sex-specific values of T were erroneously used in the calculaiion of S for each sex. This error has been corrected in the present published version, which uses the average of the male T and the female T in the calculation of S for each sex.
+
+ever, this value may not be appropriate for males. The third and fourth rows show the effect of basing Luther's fit on larger values of u for males. We tried M = 45 and u =50. The higher cutoffs had
+
+24
+
+Retherford and Sewell
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+TABLE3
+ESTIMATES OF THE IQ SELECTION DIFFERENTIAL, S, FORGRADUATES ONLY, DERIVED FROM THE WLS
+
+METHOD
+
+Selection Differential'
+
+Females
+
+Males
+
+Total^
+
+Based on IQ deciles"
+Based on IQ quartiles6
+Based on variants of Luther's fitting procedurec u = 45 u = 50
+Based on hypothetical assumption of no mortality differences between IQ deciles'*
+1960 mortality level 1970 mortality level
+
+-0.79 -0.77
+··· ···
+-0.81 -0.81
+
+-0.25 -0.21
+-0.26 -0.27
+-0.33 -0.33
+
+-0.52 -0.49
+-0.57 -0.57
+
+" This isthe base estimate towhich allthe others are compared. Each ofthe other estimates differs from the base estimate in the manner indicated by the row heading. See text forexplanation ofhow the base estimate was calculated.
+*IQ quartile breaks are 67-90 forQuartile 1,91-100 forQuartile 2,101-110 forQuartile 3, and111-145 for Quartile4. c The base estimate inthe first row ofthe table was calculated with u = 43. d Life tables by sex forWisconsin for 1959-61 (whites only) and 1969-71 (all races) were used alternatively. See U.S. Department of Health, Education and Welfare (1965) and National Center forHealth Statistics(1975). 'The IQ selection differential, S, is defined aswhat the generational change in mean IQ would be, if, hypothetically, each child inthe birth histories had the same IQasits parent in the WLSsample. ^Values inthe total column are simple averages ofvalues inthe previous two columns formales and females separately.
+
+the effect of slightly increasing the esti- sensitive to elimination of mortality dif-
+
+mate of the selection differential for ferentials by IQ than the results forfe-
+
+males, from -0.25to -0.26or -0.27. males, mainly because mortality differ-
+
+Hence our base estimate of -0.25, ob- ences by IQarelarger formales thanfor
+
+tained by applying Luther's methodol- females.
+
+ogy without alteration, errs slightly on One can also assess the accuracy of
+
+the conservative side.
+
+the estimate ofthe IQ selection differen-
+
+We also tested for sensitivity to mor- tial from the point of view of sampling
+
+tality estimation errors by redoing the variability andstatistical precision. This
+
+calculations under theassumption of no cannot be done directly, because of the
+
+mortality differences by IQ. Weused a complicated estimation procedure, part
+
+single life table for allIQ deciles. In the of which involves extrapolation to older
+
+first simulation, theWisconsin life table ages and the use of demographic
+
+for 1959-61 was used, and inthesecond models. For purposes of exploring sta-
+
+simulation, the Wisconsin life table for tistical precision, it is useful to consider
+
+1970 was used. Since mortality is in- an alternative approach to calculating
+
+versely associated with IQ,the artificial the IQ selection differential that could
+
+suppression of mortality differences in- have been used hadthedata been more
+
+creases the IQselection differential. But complete, asfollows:
+
+this effect is very small for females, for Let Fdenote thenumber ofsurviving
+
+whom 5 increases from -0.79 to -0.81. offspring in a respondent's completed
+
+The effect is larger for males, for whom family. Then 5 may be calculated alter-
+
+5 increases from -0.25 to -0.33. nativelyas
+
+Whether the 1960or 1970life table is _s = / 2 ( F I Q ) ] / p / ; ] [XlQ]/N used makes virtually no difference in the
+
+(4)
+
+results. The results for males are more where summations range over individ-
+
+Vol. 35,No. 1-2
+
+Intelligence and Family Size
+
+25
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+ual adults of both sexes with the total number of adults denoted by N. As a rough approximation, we may useF(35) in this formula, which is about 93 per cent of F(50). When this is done, Sturns out to be -0.72, compared with the value of -0.52 for both sexes combined in the first row of Table 3. The finding that 5 is more negative than before is expected, because differential mortality by IQ is no longer taken into account, and because the fraction of fertility occurring after 35 may be greater among more intelligent persons, who tend to start childbearing at a later age.
+If one is willing to treat SF as a constant in Formula (4), the variance of 5, Var(S), can be approximated without difficulty as 0.36.2 This must be regarded as a minimum estimate, since fertility is truncated at 35, 2F is treated as a constant, and variability in the mortality estimates is necessarily ignored. The tratio for S is then -0.73/0.36 = -2.03, yielding a one-sidedp-value of 0.02. Assuming a standard error of 0.36, a value of 5 of 0.52, as in Table 1, yields a onesided p-value of 0.07. This is only slightly higher than the usual 5 per cent level.
+2 The calculation formula for Var(S) was derived as follows: Let M denote F. Then Equation (4) becomes
+5 = [2(FIQ)/A/] - [2IQ]W = 2(F1Q/M-IQ/N)
+Then
+Var(S) = Var [2(FIQ/M - IQ/A01 = 2[Var(FIQ/M - \QIN)\ = NVar(FlQ/M - IQ/N)
+In this last formula, the expression within parentheses, which we may denote by Z, can be evaluated for each individual in the sample, with M now approximated by the sample value of F. It is then a simple matter to calculate Var(Z) directly from the sample data. Finally, the estimate of Var(S) from the last formula is multiplied by afinitepopulation correction of 0.82 (see note to Table 1).
+
+IQ SELECTION DIFFERENTIAL FOR
+GRADUATES ANDDROPOUTS TOGETHER
+Henceforth we shall use the term "dropouts" to mean all persons who failed to graduate high school, regardless of whether they ever went to school in the first place. We shall use the phrase "graduate cohort" to mean the graduates in the WLS, and the phrase "complete cohort" to mean graduates and dropouts together, where the dropouts include all nongraduates who, by virtue of their year of birth, were potential classmates of the graduates.
+Incorporation of dropouts into the calculation of the IQ selection differential involves several preliminary steps: (1) estimation of the proportion of dropouts in the complete cohort; (2) estimation of the fertility and mortality of dropouts; and (3) estimation of the mean IQ of dropouts.
+Proportion of dropouts.--Our estimate of the proportion that dropouts are of the complete cohort is derived from the 1960 census of population. The average age of the graduate cohort at the time they were first studied in April, 1957, was 17.98 for females and 18.09 for males. For the present purpose, we consider for simplicity that they were 18.0 years of age. In the census, age is recorded in completed years of age, so that 18.0 is the average of 17 and 18 completed years of age. Those who were 17 and 18 in April 1957 were 20 and 21 three years later at the time of the census in April, 1960. Table 4 shows the percentage of dropouts among 20-yearolds and 21-year-olds by sex in the 1960 census for the state of Wisconsin. Average values for these two ages are 21.5 per cent for females and 28.0 per cent for males. These are our estimates of the proportion that dropouts are of each sex in the Wisconsin cohort. These dropout
+
+26
+
+Retherford and Sewell
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+percentages for Wisconsin are comparatively low. Comparable figures for the United States as a whole, also derived from the 1960 census, are 34.0 per cent for females and 37.8 per cent for males (Hauser, 1971,Table 4).
+
+TABLE4
+PERCENTAGE NOT COMPLETING AT LEAST FOUR YEARS OF HIGH SCHOOL BY SEX AND
+SELECTED AGES: WISCONSIN, 1960
+
+Age
+
+Females
+
+Males
+
+15 99/7 99/7 16 99.4 99.6 17 92.6 95.3 18 44.6 57.0 19 22.5 30.8 20 21.8 27.4 21 21.2 28.6 22 21.8 29.4 23 23.1 30.4 24 25.3 30.7
+
+SOURCE: Derived from U.S. Department of Commerce, Bureau of the Census (1960),Tables 101,102.
+
+It should be noted that the census data pertain only to the noninstitutional population, so that the census probably underestimates the proportion of dropouts because of the omission of institutionalized persons, who probably have higher dropout rates than noninstitutionalized persons. But institutionalized persons in 1960 for the United States as a whole were well under 1per cent of the population (U.S. Department of Commerce, Bureau of the Census, 1983,pp. 31,56), so that their omission introduces only a very slight bias in our results. Moreover, this bias is negligible when compared with the crudity of our estimates of the mean IQ of dropouts, discussed later. Therefore, we have ignored institutionalized persons in our calculations. Since the institutionalized population includes, among others, mentally retarded persons of below-
+
+average fertility, the effect of ignoring institutionalized persons is probably to exaggerate slightly our estimate of the IQ selection differential for the complete Wisconsin cohort, which is also discussed later.
+Census data also allow a rough assessment of the racial composition of the dropouts. For this purpose, we used 1970 census data, since the 1960 data were not ideally suited. As mentioned, the Wisconsin cohort was approximately aged 30 in 1970. To base our estimates of composition on larger numbers, derived from a 1/100 Public Use Sample tape for Wisconsin from the U.S. 1970 census, we considered persons aged 28-32 in 1970. Among such persons, dropouts are denned as those with less than 12 completed years of education. The dropouts are 91.6 per cent white, 6.5 per cent black, and 1.9 per cent other races. These estimates, insofar as they pertain to the complete WLS cohort, may be biased by migration in and out of Wisconsin between 1957 and 1970, to the extent that this migration was selective by race. This bias is probably small, but we have not investigated it.
+Fertility of dropouts.--The fertility of dropouts was estimated by applying the own-children method of fertility estimation (Cho, 1973;Cho et al., 1986),which is a reverse-survival technique, to 1970 and 1980 census data for the State of Wisconsin. A 1/100 Public Use Sample tape was used for 1970, and a 1/1000 Public Use Sample tape was used for 1980.
+Fertility estimates derived by the own-children method may be tabulated by characteristics of women, and in particular by number of completed years of education, which was asked in the 1970 and 1980 censuses. As already men-
+
+Vol. 35,No. 1-2
+
+Intelligence and FamilySize
+
+27
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+tioned, dropouts are defined as those with less than 12 completed years of education. The application of the ownchildren method is straightforward in the case of women. To estimate the fertility of male dropouts, however, it was necessary to modify the method to obtain age-specific birth rates for men instead of women. This was necessary in order to be able to tabulate the fertility estimates by men's characteristics, the characteristic of interest being completed years of education. The modification of the method involves matching children to fathers instead of mothers within the same household. The ownchildren fertility estimates for men are less precise than those for women, mainly because children of divorced parents are more likely to be living with their mothers than their fathers, so that matching is less complete and less accurate for men than for women.
+The own-children method is usually used to estimate age-specific birth rates for a particular year or time period. In the present instance, however, we are interested in estimating birth rates for a real cohort. If the time depth of the period estimates is long enough, the period estimates can be spliced together to yield estimates of age-specific birth rates for real cohorts. Our strategy was to consider a cohort centered at age 17 in 1957, 20 in 1960, 30 in 1970, and 40 in 1980. (Actual computations were based on persons aged 15-18 in 1957,18-21 in 1960,28-31 in 1970, and 38-41 in 1980.) Applications of the own-children method to the census of 1970 for Wisconsin yielded estimates of age-specific birth rates for this cohort for ages 15-19 during 1955-59, 20-24 during 1960-64, and 25-29 during 1965-69. Application to the census of 1980 for Wisconsin yielded estimates of age-specific birth
+
+rates for this cohort for ages 25-29 during 1965-69,30-34 during 1970-74, and 35-39 during 1975-79. The two overlapping estimates of the age-specific birth rate at ages 25-29 during 1965-69 were averaged to yield a final estimate for this age group and time period. For reasons of computational convenience, these estimates are centered on a cohort that is about one year younger than the WLS cohort, but this discrepancy introduces only very small errors in the fertility estimates, as will be seen shortly. Further details of how the own-children fertility estimates for the Wisconsin cohort were constructed are given elsewhere (Retherford and Sewell, 1986).
+A difficulty is that the own-children method, as applied here, provides fertility estimates only through ages 35-39. It is necessary to estimate fertility also at ages 40-44 and 45-49. A simple ratio method was used to do this. The method involves a standard age-specific fertility schedule, which we somewhat arbitrarily chose to be the set of age-specific birth rates for the United States in 1970. This schedule indicates that the percentage of total fertility accounted for by age-specific fertility after age 40 is only 1.74 per cent, so in fact very little fertility is being extrapolated. In the standard schedule of age-specific birth rates, which we denote simply asf(x), the ratio /(40-44)/(35-39) = 0.2555 and the ratio /(45-49)//(35-39) = 0.0158. We multiplied the own-children estimate of the age-specific birth rate for dropouts at ages 35-39 by each of these ratios in turn to obtain estimates of age-specific birth rates at ages 40-44 and 45-49.
+The procedure just described for estimating age-specific birth rates for dropouts in the Wisconsin cohort is indirect enough that it seemed worthwhile to apply it to other education categories as
+
+28
+
+Retherford and Sevvell
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+300 I_ 13-15 Years of Education cr
+ca -
+
+rth 1 (AS
+
+4
+ill nil
+
+n
+r1r3 200 '--
+-. /
+r /CD
+o
+1 100
+a. k
+CO
+
+\
+V_- Census
+\
+\ \ \
+
+Age
+
+: ^--WLS
+i;
+0~ i i I I 1 i
+20 40 50
+Age Age
+
+300 1 12 Years of Education
+m :k
+3 U-- WLS 200
+100 \ \ ^ v ^ - Census
+
+300 -- 16+ Years of Education
+cr m
+3
+
+In 1 1 1 1
+
+200 DC
+r m
+o
+100
+
+Census
+
+1111111111
+
+i ii 1 1 1 1 1 1 1 in
+
+0
+i iiiii
+20 50
+Age
+
+0 ^ . *- --
+1I i1 1 1
+20 50
+Age
+
+FIG. 2.--Estimates of age-specific birth rates by education for females in the Wisconsin cohort, derived alternatively from the WLS and from census data.
+
+well, in order to compare the own- 34. The agreement between estimates
+children estimates of age-specific birth based alternatively on the own-children
+rates to parallel estimates derived ear- method applied to census data and the
+lier from the WLSbirth histories. The birth history method applied toWLS comparisons also provide a check on data is quite good. The comparisons possible bias from migration in and out suggest that our fertility estimates for of Wisconsin between 1957 and 1980. dropouts in the Wisconsin cohort are Figures 2and3show the results of these reasonably accurate. The comparisons comparisons. The first panel in each also suggest that migration in andout of figure shows the results fordropouts,for Wisconsin introduces only minor distorwhich there are no comparable esti- tions inthefertility estimates. mates from the WLS. Butfor the other Table 5shows asubstantial sex differeducation categories, comparisons can ential in the fertility of dropouts. The be made forage groups 15-19,. . . ,30- TFR for female dropouts isabout three-
+
+Vol. 35, No. 1-2
+
+Intelligence and Family Size
+
+29
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+Age-specilfie Birth Rates (ASBR)
+
+300 I_ <12 Years of Education
+
+11 11 11
+
+2_ 1
+
+\ Census
+
+i
+
+i 11 I I 11 11 I
+
+0 II 20
+
+11 30
+Age
+
+1
+1 40
+
+1
+
+50
+
+300 I_ 13-15 Years of Education 6?
+wm <
+200
+
+11 1 1 1 1 1 1 1 1 1 1
+
+r
+CQ o
+100
+a.
+CO
+&
+
+/wLS$\ ' Census
+'\
+
+0 1 11 1 1 20 30 40 50
+Age
+
+300 I_ 12 Years of Education XCQ
+
+ate (AS
+
+In
+
+CO --
+
+200 --
+
+^^\
+
+cc _
+
+&^
+
+s:
+·C
+m
+
+---z_ //I
+
+CJ -- /
+
+Cltl
+
+100 -- I
+
+\
+\\ \
+\ \^^-Census
+
+cQu.
+
+CO
+
+£
+
+Z_ /
+
+WLS
+
+\
+
+<
+
+0--
+I
+
+II
+30
+
+II
+40
+
+Age
+
+mm
+I
+50
+
+300 I . 16+ Years of Education cc
+
+CQ
+
+n I il I
+
+w3
+CO 200 -- cc
+in o
+100 --
+
+~ WLS
+Census \
+
+I II I 11
+20 30 40 50
+Age
+
+FIG. 3.--Estimates of age-specific birth rates byeducation for males in theWisconsin cohort, derived alternatively from the WLS andfrom census data.
+
+quarters of a child higher than that for and partly because boys tend to become male dropouts. Moreover, comparison fathers at anolder age than that atwhich with Table 2 shows that theTFR for fe- girls tend tobecome mothers.
+male dropouts is considerably higher Mortality of dropouts.--Kitagawa
+than the TFRfor female graduates, re- and Hauser (1973, p. 17) have estimated
+gardless of IQ decile, whereas the TFR mortality byeducation forwhites by sex
+for male dropouts is only slightly higher in theUnited States in 1960. From their than the TFR for male graduates. A data we computed theproportion dying plausible explanation of this sex differ- between ages 25 and 45 for graduates ential in the fertility of dropouts is that and dropouts, by sex. For a givensex, girls frequently drop out of school to we denote these proportions asqg(25) have children. This happens less fre- and qd(25), respectively. Similarly, we quently for boys, partly because chil- denote the proportions dying between dren tie down women more thanmen, ages 18and 36 for graduates anddrop-
+
+30
+
+Retherford and Sewell
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+outs in the Wisconsin cohort as qg(l8) and qd(l8). With values of qg(18), qg(25), and qd(25) prespecified, qd(18) for the Wisconsin cohort was estimated as
+qd(\8)= qgmM25)/qg(25)] (5)
+where the quantities with argument 18 pertain to the Wisconsin cohort and the quantities with argument 25 pertain to U.S. whites in 1960 from Kitagawa and Hauser. Equation (5) assumes that the known ratio qd(25)/qg(25)from the Kitagawa and Hauser data closely approximates the unknown ratio qd(l8)/qg(18) for the complete Wisconsin cohort.
+The value of qg(18) for the Wisconsin cohort estimated from Equation (5) was then matched to a Coale-Demeny Model West life table, which was taken as an estimate of the life table for dropouts. These calculations were done separately for each sex, with results shown in Table 5. Comparison with life expectancy values in Table 2 shows that life expectancy of dropouts falls short of life expectancy for persons in the lowest IQ decile by 1.25 years for females and 2.3 years for males.
+
+TABLE 5
+ESTIMATES OF INTELLIGENCE, REPRODUCTIVITY, AND SELECTION
+FOR DROPOUTS
+
+Measure"
+MeanlQ F(35) TFR GRR e0 NRR r
+T Doubling time (yrs) .. W
+
+Females
+86.00 3.35 3.49 1.70 73.75 1.65 0.02119
+23.68 32.71 1.181
+
+Males
+86.00 2.48 2.76 1.41 66.00 1.30 0.00985
+26.79 70.39 0.971
+
+"For definitions, see notes to Table 2. Wexceeds unity for female dropouts only because the second IQ decile of graduates is retained as the basis of comparison for females.
+
+Mean IQ of dropouts.--Our estimates of the mean IQ of dropouts are by far the weakest link in the chain of data necessary for calculating the IQ selection differential for graduates and dropouts together in the complete Wisconsin cohort. In fact we have virtually no data at all on IQ of dropouts in Wisconsin. Our estimates of mean IQ of dropouts are culled instead from a number of studies of other populations. All of these other populations comprise some segment of the U.S. population, but none pertains just to Wisconsin.
+The best estimates of mean IQ of dropouts relative to mean IQ of graduates that we have been able to find are derived from Project TALENT (Wise et al., 1977; Wise and Steel, 1980, p. 115). The TALENT samples included over 400,000 men and women from the highschool classes of 1960 through 1963 in the United States, covering grades 9-12 in 1960. A battery of tests was given to the respondents, and the results of these tests were summarized in a measure called general academic aptitude (GAA). Subsamples from these large samples are of particular interest to us here. Two subsamples, 101,777 ninthgraders and 99,849 tenth-graders, were followed up eleven years later (Wise et al., 1977, p. 4). Dropouts were identified in the follow-up survey, making it possible to calculate mean GAA score for both graduates and dropouts.
+The eleven-year follow-up response rate, however, was only 20 per cent in each case. It is highly likely that nonrespondents tended to be selected for low IQ, so that results based on a 20-per cent response rate may be severely biased. The authors of the study were aware of this problem and attempted to solve it through an intensive study of a sample of the nonrespondents. In order to cor-
+
+Vol. 35,No. 1-2
+
+Intelligence and FamilySize
+
+31
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+rect for nonresponse bias, a representative sample of 4,029 nonrespondents in the ninth grade sample, which is the one in which we are interested, was selected for intensive follow-up. Of these, 87 per cent were found, and of these 90 per cent provided usable information, yielding an overall response rate of 78 per cent. On the basis of this sample of nonrespondents, a set of weighting factors was derived and applied to the original sample of ninth graders. The weights were designed to make the original sample representative on two variables, general academic aptitude and socioeconomic index. For our purposes, this choice was fortunate, since GAA is the variable in which we are interested.
+Results showed that male dropouts scored 1.09 standard deviations below male graduates, and female dropouts scored 0.95 standard deviations below female graduates on the GAA measure (Wise and Steel, 1980, p. 115). The greater difference between graduates and dropouts for males than for females is consistent with the fertility differences between males and females among dropouts, noted earlier. It was found earlier that female dropouts have much higher fertility than male dropouts. We hypothesized that the main reason for this sex differential in fertility among dropouts was that girls were much more likely than boys to drop out of school because of the birth of a child. This means that girls are more likely than boys to drop out of school for reasons other than low academic ability. Therefore, the IQ difference between graduates and dropouts should be smaller for women than for men. The Project TALENT data confirm this expectation, but the sex differential in the IQ difference between graduates and dropouts is small. It seems that girls who drop out of school
+
+because of pregnancy tend to have about the same average IQ as male dropouts.
+Another national-level study of interest is the study on Youth in Transition, which yielded data on dropouts between the tenth and twelfth grades (Bachman, 1970; Bachman et al., 1971). A sample of 2,519 tenth-grade boys was identified in 1967 and followed up again in 1970. There were 1,949 graduates and 326 dropouts, yielding a dropout rate of 17 per cent between the tenth and twelfth grades. This compares with a dropout rate between tenth and twelfth grades of 10.5 per cent in the Wisconsin cohort (calculated from Hauser, 1971, Table 6). The QUICK test, with a mean score of 108.5 and a standard deviation of 12.5, was used to measure intelligence. Dropouts scored 0.47 standard deviations below the graduates on this test (calculated from data in Bachman et al., 1971, Table C-3-6, p. 202). This difference is considerably smaller than the gap of about one standard deviation derived from the TALENT data for ninthgrade dropouts discussed earlier. One expects the gap between tenth-grade dropouts and graduates to be less than the gap between ninth-grade dropouts and graduates, but the observed difference is larger than we anticipated.
+An earlier study reported by Wolfle (1954) is also of interest. Wolfle presents results for a cohort of 14-year-olds in 1949. The mental test scores are from the Army General Classification Test (AGCT), which apparently was administered to a large national sample of 14year-olds in 1949. Unfortunately, the details concerning the original sample are not given, and it appears that various kinds of indirect estimates may have been used to fill gaps in the data. For example, regarding rates of progression to
+
+32
+
+Retherford and Sewell
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+higher grades of school, Wolfle states that "the rates shown are estimated for the year 1953 and have been derived from special studies conducted by the Commission [on Human Resources and Advanced Training] supplemented by census data and a number of reports of school dropout studies conducted by others" (Wolfle, 1954, p. 311). But most of these special studies and studies conducted by others are not cited, nor are the details of the methodology elaborated. Thus, it is not possible for us to assess the quality of these results.
+Wolfle's results include a table that classifies persons by AGCT score (with scores grouped in 5-point intervals) and educational attainment, from which one can calculate mean AGCT scores for graduates and dropouts (Wolfle, 1954, p. 314). As in the Project TALENT study, dropouts are defined as those who leave school between the ninth and twelfth grades. The AGCT is designed to have a mean of 100 and a standard deviation of 20. When the mean AGCT scores are converted into standard scores, by subtracting the mean score and dividing by 20, it is found that dropouts score 1.12 standard deviations below graduates. There is no breakdown by sex. The estimate of 1.12 is in rough agreement with the corresponding estimates derived from the Project TALENT data.
+None of the national-level studies says anything about dropouts who did not advance as far as the ninth grade. According to the 1 per cent Public Use Sample tape for Wisconsin in 1970, based on census data on number of completed years of education of persons aged 28-32 (average age of 30), about 28 per cent (24 per cent for females and 33 per cent for males) of dropouts in the Wisconsin cohort did not complete
+
+ninth grade. Since those who did not complete ninth grade probably had lower mean IQ than those who dropped out after ninth grade, the differences in mean IQ between dropouts at all levels and graduates are very likely greater than the estimates derived from the studies just reviewed.
+A conservative estimate of the difference in mean IQ between high school graduates and dropouts (those in an age cohort who do not graduate from high school) would seem to be about one standard deviation, and we take this as our base estimate. In the 1975 WLS sample, graduates have a mean IQ of almost 101, with a standard deviation of 15. Thus, our base estimate of the mean IQ of dropouts is 86. This estimate is obviously very rough.
+Table 5 summarizes the estimates of intelligence, reproductivity, and selection for dropouts. The results in this table may be compared with those in Table 2 for graduates.
+The IQ selectiondifferentialforgraduates and dropouts combined for the Wisconsin cohort.--The IQ selection differential, 5, for graduates and dropouts combined, can now be calculated in the following way: Let subscript i denote IQ decile in the WLS, and let subscript d denote dropouts. For each sex separately, define N as
+(6)
+where TV,-denotes the number of WLS graduates in the ith IQ decile, and Nd denotes the estimated number of dropouts that one would have obtained in the WLS had the survey sampled all persons of graduation age instead of just highschool graduates.
+For each sex separately, Nd was estimated as follows: First, we computed,
+
+Vol. 35, No. 1-2
+
+Intelligence and FamilySize
+
+33
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+for Wisconsin, the ratio of high-school dropouts to high-school graduates among 20-year-olds in the 1960 census (from data in Hauser, 1971, Table 4). These ratios are 0.279 for females and 0.375 for males. Multiplying this ratio by the first of the two terms on the right side of (6) yielded an estimate of Nd. The IQ selection differential for graduates and dropouts combined was then calculated by Equation (3), as before, the sole difference being that the summations ranged over eleven terms instead of ten, the eleventh pertaining to dropouts. The term for dropouts utilizes the value of Na calculated as just described, and N is redefined in accordance with Equation (6).
+Results are shown in Table 6, which can be compared with earlier results in Table 3 for graduates only. In order to assess the sensitivity of 5 to possible error in the estimate of the mean IQ of dropouts, we have based the calculation not only on a mean IQ of dropouts of 86 but also on 81 and 92. Adding dropouts into the calculation of the IQ selection differential, S, increases the estimate of 5 (i.e., makes it more negative) substantially for females but very little for males. The reason for the greater effect on females is that female dropouts have considerably higher net fertility than female graduates, whereas male dropouts have only marginally higher net fertility than male graduates, as seen from Tables 2 and 5. Table 6 also shows that the estimate of Sfor graduates and dropouts together is sensitive to errors in the estimate of mean IQ for dropouts, especially for females. With the mean IQ of dropouts estimated at the middle value of 86, the average value os 5 for males and females together is -0.81, or about eight-tenths of an IQ point decline in a generation.
+
+TABLE6
+ESTIMATES OF THE IQ SELECTION DIFFERENTIAL, 5, FOR GRADUATES AND DROPOUTS TOGETHER, BY SEX,
+DERIVED FROM THE WLS
+
+MEAN IQ
+ASSUMPTION FOR DROPOUTS0
+IQ^=81 IQ,,=86 IQ^=91
+
+SELECTION DIFFERENTIAL
+
+Females Males
+
+Both Sexes6
+
+-1.61 -1.33 -1.05
+
+-0.31 -0.28 -0.25
+
+-0.96 -0.81 -0.65
+
+"IQd denotes the mean IQ assumed for dropouts. Our preferred alternative is IQ a = 86.
+b Values in the total column are simple averages of values in the previous two columns for males and females separately.
+
+The value of 5 for both sexes combined can be written S = 0.5(Sf+Sm) = 0.5 Sf+0.5 Sm = -0.67 - 0 . 1 4 = .0.81, where superscripts/and m denote females and males respectively. This decomposition of 5 into two sex-specific components indicates that the contribution of females to the IQ selection differential is almost five times greater than the contribution of males [(-0.67)/(0.14) =4.8].
+GENERATIONAL CHANGE IN MEAN
+GENOTYPIC IQ
+The phenotypic IQ of an individual (or phenotypic value, in the vocabulary of quantitative genetics) is, by definition, the same as measured IQ. The individual's genotypic IQ is the value that he or she would have, hypothetically, if reared in the average environment of the population from which the individual came. The genie (or additive) IQ is the transmissable component of IQ; animal breeders call this the breeding value. The expected genotypic and phenotypic IQ's of a child, if reared in the average environment, are the same. The expected genotypic IQ of a child is the average of the genie IQ's of its parents.
+
+34
+
+Retherford and Sewell
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+The IQ selection differential is not tability. This heritability is the ratio of
+
+the same as the generational change in the genie value to the phenotypic value,
+
+mean genotypic IQ. Individuals with both scaled as deviations from the popu-
+
+higher than average phenotypic IQ typi- lation mean. In practice it is estimated
+
+cally have this higher value not only be- from correlations between relatives (of-
+
+cause of higher genotypic IQ but also ten half-sibs) reared in controlled or
+
+because of being reared in better envi- randomized environments. In the case
+
+ronments. Therefore, genotypic IQ of human beings, however, the environ-
+
+tends to be lower than phenotypic IQ ments of close relatives tend to be simi-
+
+and genie IQ lower yet, although both lar, so that human correlations typically
+
+still tend to be higher than the average confound genetic and environmental
+
+IQ. The same principle works in reverse causes. Therefore, simple h2 estimates
+
+for individuals whose IQ is below aver- tend to be biased; corrections of this bias
+
+age; in this case genotypic and genie IQ require additional assumptions and in-
+
+tend to be above phenotypic IQ but still troduce additional uncertainties.
+
+below average IQ. Since only the genie With randomized environments the value is biologically transmitted, chil- predicted phenotypic IQ of a child is the dren tend to be closer to the population same as its predicted genotypic value. mean than their parents. This tendency When there is genotype-environment is called regression toward the mean. correlations, as in human populations,
+
+As explained earlier, the IQ selection this is no longer true. Ironically, because
+
+differential is the generational change in of positive genotype-environment inter-
+
+mean IQ if, hypothetically, the child's actions and covariances, the phenotypic
+
+IQ is the average of its parents' IQs. It is IQ of a child is more predictable from
+
+computed as the difference between the the parental average IQ than its geno-
+
+mean IQ of reproducing individuals, typic value; it can be estimated from di-
+
+weighted by the number of their chil- rect measurements.
+
+dren, and the unweighted mean IQ of Empirically based estimates of h2 for
+
+reproducing individuals to begin with. If IQ, based on midparent-offspring re-
+
+the selection differential, as estimated gressions, vary between 0.4 and 0.6
+
+here, is --0.81 IQ point, then the ex- (Plomin and DeFries, 1980; this range
+
+pected reduction in genotypic IQ over excludes estimates based on Burt's
+
+the next generation will be somewhat questionable data, which have been re-
+
+less than 0.81 because only the genie val- viewed by Goldberger, 1979). Rao et al.
+
+ues of the parents are biologically trans- (1982) more recently arrived at an esti-
+
+mitted. Unfortunately it is difficult to mate in the range of 0.31 to 0.34, based
+
+say how much less.
+
+on a highly sophisticated statistical
+
+Under conditions of artificial selec- model but less than ideal data. Our edution, as in plant and animal breeding ex- cated guess is that h2 for IQ is about 0.4,
+
+periments with randomized environ- and that the generational change in
+
+ments, the generational change, R, in a mean genotypic IQ is accordingly about
+
+measured trait is estimated as
+
+0.4 times as large as the IQ selection dif-
+
+= h2S
+
+ferential, i.e., in the neighborhood of (7) one-third of an IQ point decline for the
+
+where S is the selection differential for Wisconsin cohort [(0.4)(-0.81) = that trait and h2 is the narrow-sense heri- --0.32]. It could, however, be consider-
+
+Vol. 35,No. 1-2
+
+Intelligence and FamilySize
+
+35
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+ably smaller or larger, within the range between zero and eight-tenths of an IQ point decline.
+SUMMARY AND DISCUSSION
+Previous studies of intelligence and family size provide a mixed picture of the relationship between these two variables. Many early studies based conclusions on the commonly observed negative correlation between measured IQ and sibship size. But this correlation has been shown to be biased (insofar as it captures the relationship between IQ and fertility), because sibship size, which measures the fertility of the parental generation, contains no information about childless persons in the parental generation. The few studies that investigated this question found that the negative correlation between IQ and family size disappeared when childless persons in the parental generation were taken into account. These studies were based on samples that may not have been representative of the entire population, but they nevertheless indicate methodological reasons, having to do with biased correlations, for basing conclusions about the relationship between IQ and fertility on information on number of offspring by IQ rather than number of siblings by IQ.
+Studies that have analyzed data on number of offspring by IQ show varying results. These studies may be divided into two groups, those that examined cohorts whose reproductive experience overlapped the post-World-War-II baby boom, and those that examined cohorts whose reproductive experience began toward the end or after the baby boom.
+Most of the studies of cohorts whose reproductive experience overlapped the
+
+baby boom show a slight positive relationship between IQ and number of offspring; however, none of these studies is based on a probability sample. One other study, however, is based on a series of NORC probability samples designed to be nationally representative of the United States. This study showed a negative relationship between IQ and number of offspring for all 5-year birth cohorts considered, both before, during, and after the baby boom. It also showed that differential fertility tended to converge during the baby boom (the correlation became less negative but never positive) and diverge again in the negative direction after the baby boom. Unfortunately, results from this study contain an unknown amount of bias due to nonresponse, which is probably concentrated among persons of less than average IQ. Moreover, the IQ measure is of unknown quality, and there may be problems of selectivity having to do with the retrospective nature of the data collection, which takes no account of differential mortality by IQ.
+Studies of cohorts whose reproductive experience began toward the end or after the baby boom show a more sharply negative correlation between IQ and number of offspring. One of these studies was the one just mentioned that used NORC data. Another was based on the U.S. National Longitudinal Study of Labor Market Experience. However, the intelligence measure in this latter study is questionable, and there is a serious problem of nonresponse. Another set of studies compared fertility trends of elite groups known or presumed to have high intelligence (samples from Who's Who, the Forbes 400, Terman's high IQ group, and the American Mensa) with the fertility of the nation as a whole. These
+
+36
+
+Retherford and Sewell
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+studies, which suffer by not being based on representative samples as well as some other difficulties, also tend to confirm the pattern of convergence of negative differential fertility by IQ during the baby boom followed by divergence in the negative direction after the baby boom.
+Taken singly, none of the earlier studies is very convincing. Taken together, however, they present a fairly consistent picture: Differential fertility by IQ in the United States appears to have been negative in this century. It probably became less negative during the baby boom (and positive for some samples). It seems to have diverged again in the negative direction after the baby boom. It is worth noting that fertility differentials by education in the United States have shown a rather similar trend (see, for example, Rindfuss and Sweet, 1977; Sweet and Rindfuss, 1983). However, educational level is an inadequate substitute for measured intelligence since most studies show the two variables to be correlated only at about 0.5 (Sewell et al., 1970).
+Our own empirical results, based on the Wisconsin Longitudinal Study (WLS), confirm a small but statistically significant negative relationship between fertility and IQ for a large representative sample of the cohort of Wisconsin high school graduates in 1957, whose reproduction commenced at the end of the baby boom. Results are based on fertility to age 35, which was extrapolated by means of a demographic model to the end of the reproductive ages. A combination of sample data and demographic models was also used to compute mortality by IQ. The estimates of fertility and mortality by IQ allowed estimation of the intrinsic rate of natural
+
+increase by IQ and a number of derived measures. One of these derived measures is the IQ selection differential, which is what the generational change in mean IQ would be if, hypothetically, each child had the same IQ as the mean of its parents'IQs.
+We calculated the IQ selection differential for each sex separately and for graduates and the complete cohort (graduates plus dropouts) separately. In reality, of course, given sexual reproduction, one expects the IQ selection differential to be about the same for either sex. The purpose of doing the calculation separately for each sex was not only to circumvent the difficulty that we know IQ for only one parent, but also to get some sense of the relative importance of female differential fertility by IQ and male differential fertility by IQ to the overall IQ selection differential. The rationale for the separate examination of graduates and the complete cohort is similar. An additional reason for examining graduates separately was that the results just for graduates are based on comparatively good data, whereas the results for graduates and dropouts together are based on a mix of comparatively good data and comparatively weak data. Our two-step procedure allowed a rough assessment of how much the results based on the comparatively good data for graduates were affected by addition of the comparatively weak data for dropouts. The effects of adding dropouts were substantial for females but slight for males.
+In this regard, an unexpected finding from our analysis is that differential fertility by IQ is much more negative for women than for men. In retrospect, this finding is perhaps not surprising, given the ubiquitous finding in demographic
+
+Vol. 35,No. 1-2
+
+Intelligence and FamilySize
+
+37
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+studies that in modern populations fer- gene configuration, or genotype, under
+
+tility varies more sharply and negatively the hypothetical assumption that the in-
+
+by wife's education than by husband's dividual is raised in the average environ-
+
+education (Cochrane, 1979). Neverthe- ment obtaining in the population. The
+
+less, we did not anticipate such a large generational change in mean genotypic
+
+sex difference. The magnitude of the IQ IQ is less than the IQ selection differen-
+
+selection differential is about three tial, mainly because of regression to-
+
+times larger for females than for males ward the mean, which means that in ac-
+
+in the WLS cohort of graduates only, tuality children of extremely bright or
+
+and almost five times larger for females extremely dull parents tend to have
+
+than for males in the complete cohort of genotypical IQ's closer to the mean IQ
+
+graduates and dropouts together. Re- of the population than their midparent
+
+garding possible explanations of this sex genotypic IQ, and because of environ-
+
+difference, we have two hypotheses: mental influences on measured IQ. We
+
+First, childbearing gets in the way of cannot estimate the generational change
+
+higher education and careers much in mean genotypic IQ from our data, but
+
+more for bright women than for bright an educated guess, based on findings
+
+men. And second, dull women are more from IQ heritability studies, is that it is
+
+likely than dull men to start having chil- about four-tenths as large, or about one-
+
+dren at an early age, whether by inten- third of an IQ point decline in a genera-
+
+tion or because of an accidental out-of- tion in the complete Wisconsin cohort.
+
+wedlock birth. We have not tested the Our finding that mean genotypic IQ
+
+hypotheses, which remain speculative. may be declining is at variance with sev-
+
+For both sexes together, we estimate the IQ selection differential to be about one-half of an IQ point decline in a generation for graduates only, and about eight-tenths of an IQ point decline in a generation for graduates and dropouts together. Both estimates must be viewed with considerable caution, because they are based partly on the use of demographic models for estimation of missing data, and because some of the data on dropouts are weak and imprecise.
+Subject to these limitations, our estimate of the IQ selection differential of about eight-tenths of an IQ point decline in a generation may be viewed as an upper bound of the generational change in mean genotypic IQ for the complete Wisconsin cohort. Genotypic IQ is defined as the expected value of
+
+eral earlier studies, based on time series of cross-sections, that indicate that mean IQ has been increasing over time. A possible explanation is that mean genotypic IQ has been declining very slowly, at a pace well below one IQ point per generation, but that phenotypic, or observed, IQ has been increasing because of offsetting environmental improvements, especially in the general educational level of the population. But this explanation is speculative, and more research is needed to resolve this puzzle. In this regard, it would be desirable to undertake longitudinal studies, based on large, nationally representative samples, in which detailed demographic information and comparable IQ measurements for both parents and children are obtained. To our knowledge, such a study has never been done.
+
+measured IQ for an individual of a given
+
+38
+
+Retherford and Sewell
+
+Social Biology
+
+ACKNOWLEDGMENTS
+
+Carl J. Bajema, Raymond B. Cattell, James F. Crow, Otis Dudley Duncan, Robert A. Gordon, Robert M. Hauser, Newton E. Morton, and Daniel R. Vining provided helpful comments on earlier drafts. We are also grateful to Judith Tom and Victoria Ho for computer programming and to Robin Loomis for research assistance. Support for the research reported in this paper was provided by a grant from the National
+
+Institutes of Health (SSP 1 RO1 HD2004901). Support for the Wisconsin Longitudinal Study of Social and Psychological Factors in Educational and Occupational Aspirations and Achievements, which provided the data for this paper, came from grants from the National Institutes of Health (MH-06275) and the National Science Foundation (SES 83-20140).
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+REFERENCES
+
+ANASTASI, A. 1956. Intelligence and family size. Psychol. bull. 53:187-209.
+ANGOFF, W. H. 1971. Scales, norms and equivalent scores. In R. L.Thorndike (ed.), Educational measurement. 2nd ed. American Council on Education, Washington,D.C.
+BACHMAN, J. G. 1970. Youth in transition.Vol. II. Theimpact of family background and intelligence on tenth-grade boys. Institute for Social Research, University of Michigan, Ann Arbor, Michigan.
+BACHMAN, J. G., S. GREEN, and I. D. WIR-
+TANEN. 1971. Youth in transition. Vol. III. Dropping out--problem or symptom? Institute for Social Research, University of Michigan, Ann Arbor, Michigan.
+BAJEMA, C. J. 1963. Estimation of the direction and intensity of natural selection in relation to human intelligence by means of the intrinsic rate of natural increase. Eugen. Quart. 10:175-187.
+BUROS, O. 1965. The sixth mental measurements yearbook. Gryphon Press, Highland Park, N.J.
+CATTELL, P. 1930. Comparability of IQ's obtained from different tests and different IQ levels. School andSociety 31:437-442.
+. 1951. Thefate of national intelligence: Test of a thirteen-year prediction. Eugen. Rev. 42(3):138-148. CHO, L. J. 1973. The own-children method of fertility estimation: An elaboration. In International Union forthe Scientific Studyof Population, International Population Conference, Liege 1973, Vol. 2, pp. 263-278.
+CHO, L. J., R. D. RETHERFORD, and M. K.
+CHOE. 1986. The own-children method of fertility estimation. An East-West Center Book. East-West Center, Honolulu, Hawaii.
+CLARRIDGE, B. R., L. L. SHEEHY, and T. S.
+HAUSER. 1977. Tracing members of a panel: A 17-year follow-up. In K. F. Schuessler
+
+(ed.), Sociological methodology, 1978. Jossey-Bass, SanFrancisco.
+COALE, A. J., and P. DEMENY. 1966. Regional
+model life tables and stable populations. Princeton University Press, Princeton,N.J. COCHRAN, W. G. 1963. Sampling techniques. John Wiley, New York. COCHRANE, S. H. 1979. Fertility and education: What do we really know? Johns Hopkins University Press, Baltimore,Md.
+CROW, J. F. 1986. Basicconcepts in population, quantitative, and evolutionary genetics. W. H. Freeman, New York.
+DUNCAN, O. D. 1952. Is the intelligence of the general population declining? Amer. Sociol. Rev.17:401-407.
+FALCONER, D. S. 1966. Genetic consequences of selection pressure. In J. E. Meade and A. S. Parkes (eds.), Genetic and environmental factors in human ability. Oliver and Boyd, Edinburgh. . 1981.Quantitative genetics. 2nd ed. Longmans, New York.
+FEATHERMAN, D. L., and R. M. HAUSER. 1977.
+The process of stratification: Trends and analyses. Academic Press, New York. -- . 1978. Opportunity and change. Academic Press, New York. FLEMMING, C. W. 1925. A detailed analysis of achievement in the high school: Comparative significance of certain mental, physical, and character traits for success. Columbia University, Teachers' College, New York.
+FLYNN, J. R. 1984. The mean IQof Americans: Massive gains 1932to 1978. Psychol. Bull. 95:29-51. . 1987. Massive IQ gains in 14 nations: What IQ tests really measure. Psychol. Bull. 101:171-191.
+GOLDBERGER, A. S. 1979. Heritability. Economica 46:247-327.
+GULLIKSEN, J. 1950. Theory of mental tests. John Wiley and Sons, New York.
+
+Vol. 35,No. 1-2
+
+Intelligence and Family Size
+
+39
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+HAUSER, R.M. 1971. Some notes on school retention andenrollment in Wisconsin. Memorandum N. 50 to Sewell-Hauser Project Staff, Feb. 17, 1971.Dept. of Sociology, University ofWisconsin, Unpublished.
+HAUSER, R. M., and W. H. SEWELL. 1984.
+Family effects in simple mode's of education, occupational status, and earnings: Findings from the Wisconsin and Kalamazoo studies. CDE Working Paper 84-29. Center forPopulation and Ecology, University ofWisconsin, Madison.
+HAUSER, R., W. H. SEWELL, and B. R. CLAR-
+RIDGE. 1982. The influence of family structure on socioeconomic achievement: A progress report. CDE Working Paper 82-59. Center for Demography and Ecology,University ofWisconsin, Madison.
+HAUSER, R. M., S. L. TSAI, and W. H. SEWELL.
+1983. A model of stratification with response error in social andpsychologicalvariables. Sociol. Educ. 56:20-46.
+HENMON, V. A. C., and M. J. NELSON. 1954.
+The Henmon-Nelson Tests ofMental Ability, Manual for administration, Grades 7 12. Houghton Mifflin, Cambridge, Mass.
+HIGGENS, J. V., E. W. REED, and S. G. REED.
+1962. Intelligence and family size: A paradox resolved. Eugen. Quart. 9:84-90.
+KEYFITZ, N., and W. FLIEGER. 1971. Popula-
+tion: Facts and methods of demography. Freeman and Co., SanFrancisco.
+KITAGAWA, E. M., and P. M. HAUSER. 1973.
+Differential mortality in the United States: A study in socioeconomic epidemiology. Harvard Univ. Press, Cambridge, Mass. LUTHER, N. Y. 1982. Fitting age-specific fertility with atruncated Pearson Type III curve. Asian Pacif. Census Forum 8(4):5-12.
+NATIONAL CENTER FOR HEALTH STATISTICS.
+1975. U.S. decennial life tables for 1969-71, Vol. II,State life tables: Wisconsin. DHEW Publication No. (HRA) 75-1151. Washington,D.C.
+OLNECK, M . R. 1976. The determinants of education andadult status among brothers: The Kalamazoo study. Unpublished Ph.D. dissertation, Harvard University, Cambridge, Mass.
+OLNECK, M., and B. WOLFE. 1980. Intelligence
+and family size: Another look. Rev. Econ. Statist. 62:241-247.
+PLOMIN, R., and J. C. DEFRIES. 1980. Genetics
+and intelligence: Recent data. Intelligence 4:15-24. RATCLIFF, J. M. 1934.An analysis ofresults obtained from different intelligence tests and from repeated examination with particular reference to the effect of practice. Unpublished Ph.D. dissertation, Harvard University, Cambridge, Mass.
+
+RAO, D. C , N. E. MORTON, J. M. LALOUEL,
+and R. LEW. 1982.Path analysis undergeneralized assortative mating II: American IQ. Genet. Res. 39:187-198.
+RETHERFORD, R. D., and W. H. SEWELL. 1986.
+Intelligence and family size reconsidered. Working papers of the East-West Population Institute, No.39. East-West Center, Honolulu. Also issued asCDE WorkingPaper 86-3. Center for Demography andEcology, University of Wisconsin, Madison.
+RINDFUSS, R. R., and J. A. SWEET. 1977. Post-
+war fertility trends and differentials in the United States. Academic Press, New York.
+SCOTTISH COUNCIL FORRESEARCH IN EDUCA-
+TION. 1933. The intelligence of Scottish Children. Publications of the Scottish Council for Research in Education, V. University of London Press, Ltd.,London.
+. 1949. The trend of Scottish intelligence. University of London Press, Ltd., London.
+SEWELL, W. H., A. O. HALLER, and G. W.
+OHLENDORF. 1970. The educational and early occupational attainment process:replication andrevision. Amer. Sociol. Rev. 35:1014-1027.
+SEWELL, W. H., and R. M. HAUSER. 1975. Ed-
+ucation, occupation, and earnings: Achievement in theearly career. Academic Press, New York.
+SEWELL, W. H., and R. M. HAUSER. 1977. On
+the effects of families and family structure on achievements. In P. Taubman (ed.), Kinometrics: Determinants of socioeconomic success within and between families. North-Holland, Amsterdam.
+SEWELL, W. H., and R. M. HAUSER. 1980. The
+Wisconsin Longitudinal Study ofSocialand Psychological Factors in Aspirations and Achievements. In A.C. Kerckhoff (ed.), Research in sociology of education and socialization, Vol. 1. JAI Press, Greenwich, Conn.
+SEWELL, W. H., R. M. HAUSER, and W. C.
+WOLF. 1980. Sex,schooling and occupational status. Amer. J. Sociol. 86:551-583.
+SWEET, J. A.,andR. R. RINDFUSS. Those ubiquitous fertility trends: United States, 194579. Soc. Biol. 30:127-139.
+THORNDIKE, R. L. 1942.Twoscreening testsof verbal intelligence. J. Appl. Psychol. 26:128-135.
+THORNDIKE, R. L., and E. HAGAN. 1962. Ten
+thousand careers. Wiley and Sons,New York.
+U.S. DEPARTMENT OF COMMERCE, BUREAU OF
+THE CENSUS. 1960. U.S. census of population, 1960, Vol. 1, Characteristics of the population, Part 51, Wisconsin. Washington,D.C.
+
+40
+
+Retherford and Sewell
+
+Social Biology
+
+. 1983. Statistical abstract ofthe United States, 1984. Washington,D.C.
+U.S. DEPARTMENT OF HEALTH, EDUCATION,
+AND WELFARE. 1965. Life tables 1959-61. Wisconsin state life tables 1959-61. Vol. 2, No. 50. Public Health Service Publication 1252. Washington, D.C.
+VAN COURT, M., and F. D. BEAN. 1985. Intelli-
+gence and fertility in the United States: 1912-1982. Intelligence 9:23-32.
+VINING, D. R. 1982. On the possibility of the reemergence of a dysgenic trend with respect to intelligence in American fertility differentials. Intelligence 6:241-264.
+. 1986. Social versus reproductive success: Thecentral theoretical problem of human sociobiology. Behav. Brain Sci. 9:167187.
+
+WALLER, J. 1971. Differential reproduction: Its relation to IQ test score, education, and occupation. Soc. Biol. 18:122-136.
+WISE, L. L., D. H. MCLAUGHLIN, and K. J.
+GILMARTIN. 1977. The American citizen 11 years after high school. Vol. II. American Institutes for Research, Palo Alto, Calif.
+WISE, L. L., and L. STEEL. 1980. Educational
+attainment of the high school classes of 1960 through 1963: Findings from Project TALENT. In A. C.Kerckhoff (ed.), Research in sociology of education and socialization, Vol. 1. JAI Press, Greenwich, Conn. WOLFLE, D. 1954. America's resources of specialized talent. Harper & Brothers, New York.
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+

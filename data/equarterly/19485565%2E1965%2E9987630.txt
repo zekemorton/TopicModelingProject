@@ -1,0 +1,208 @@
+Eugenics Quarterly
+ISSN: 0097-2762 (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi18
+Measurement of inbreeding from the frequency of marriages between persons of the same surname
+James F. Crow & Arthur P. Mange
+To cite this article: James F. Crow & Arthur P. Mange (1965) Measurement of inbreeding from the frequency of marriages between persons of the same surname, Eugenics Quarterly, 12:4, 199-203, DOI: 10.1080/19485565.1965.9987630 To link to this article: http://dx.doi.org/10.1080/19485565.1965.9987630
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 72
+View related articles
+Citing articles: 130 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi18
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:28
+
+MEASUREMENT OF INBREEDING FROM THE FREQUENCY OF MARRIAGES BETWEEN PERSONS OF THE SAME SURNAME*
+
+JAMES F. CROW AND ARTHUR P. MANGE
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+A possible way of getting information about inbreeding when the pedigree information is incomplete is from the frequency of isonymous marriages; that is to say marriages between persons of the same surname. This has been suggested several times, but as far as we know the method has not been worked out in detail and applied to actual data.
+Before discussing this method, we should like to make some general comments on Dr. Allen's paper (pp. 181-198). The distinction between random and nonrandom inbreeding has been emphasized several times by Wright (1951 and earlier). In his early analysis of the shorthorn breed of cattle Wright showed that almost all the inbreeding comes from the small effective size of the population and very little from nonrandom mating within the breed; in fact, the latter component was frequently negative. Wright's (1965) most complete discussion of the two components of inbreeding is still in press.
+Dr. Allen has done an important service by calling attention to the need for keeping these distinctions straight in the study of human populations. For reference, his and Wright's notation for the corresponding measures are as follows:
+
+Random component Nonrandom component Total
+
+Wright
+F3T
+F,B F,T
+
+Allen Fr Fn F
+
+*Paper number 1045 from the Genetics Laboratory, University of Wisconsin. This work was supported in part by the National Institutes of Health (GM 08217). The Hutterite data are
+
+Wright has emphasized that Fgr is caused by random drift of gene frequencies within a small population or subpopulation (rather than by departures from Hardy-Weinberg ratios within the population), is always positive, and is irreversible (except by mutation, selection, or migration). FIS, on the other hand, is caused by departures from random mating within the population, may be either positive or negative, and immediately becomes zero with random mating.
+It is a remarkable property of F that either of these or their combined effect in reducing the heterozygosity relative to the original or reference population is exactly measured by the same quantity. It is for this reason that F is used both as a measure of random gene frequency drift and of nonrandom mating.
+In assessing the effect of random drift in reducing heterozygosity and increasing the variance between populations, the concept of "effective population number" is very useful (Wright, 1931, 1938, 1939). For a discussion of how this can be measured for increasing or decreasing populations and non-Poisson distribution of numbers of children per parent, see Kimura and Crow (1963) and earlier papers discussed therein.
+Malecot (1948) has suggested that, to correct for the effect of mutation, the
+from a study directed by Dr. Arthur Steinberg, also supported by N.I.H. (HE 03708).
+Genetics Laboratory, University of Wisconsin, and Zoology Department, University of Massachusetts, respectively.
+
+199
+
+200
+
+Crow and Mange
+
+Eugen. Quart.
+
+formula for the inbreeding coefficient be modified from
+to
+
+mated inbreeding coefficient of the children is .008X4x.0625 = .002, as for sibs. The same principle holds for most of the common marriage relationships, as shown in the table below.
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+where u is the mutation rate. However, this is a negligible correction with the small number of generations usually involved in human studies.
+ISONYMY AS A MEASURE OF CONSANGUINITY
+In many societies the surname is transmitted in a regular pattern that corresponds closely to the biological ancestry. In such a society the frequency of marriages between persons of the same name can be used as a measure of inbreeding. The general principle for doing this was pointed out many years ago by H. J. Müller (personal communication).
+We note first that, for a wide class of relationships, an isonymous marriage is indicative of the same amount of inbreeding in the population regardless of the degree of consanguinity of the marriage. For example, sibs always have the same name, whereas first cousins have the same name only if they are related through their fathers, or \ of the time. Therefore, four times as many cousin marriages occur as are detected by isonymy. On the other hand, children from a cousin marriage have an inbreeding coefficient of ^ , only £ as large as that of children of sibs; so the two factors are exactly compensatory. If a group of 1,000 marriages include 8 where the two partners have the same surname, this may be because they are all sib marriages, in which case the population average inbreeding coefficient is .008X-25 = .002. On the other hand, these may be cousin marriages, in which case these 8 represent only the \ of all cousin marriages that are isonymous; thus the esti-
+
+Relationship of parents
+
+Proba-
+bility of having Inbreeding the same coefficient surname of Children
+(P)
+
+P/F
+
+Sibs 1
+
+Half-sibs, uncle-niece, \
+
+double first cousins
+
+Half and first cousins $
+
+cousins First cousins, double
+half cousins
+
+\
+
+Half cousins, first ¿
+
+cousins once removed
+
+Second cousins, half ^
+
+cousins once removed
+
+i4
+4
+A4
+A4
+4
+A4
+
+Thus a fraction P of isonymous marriages is indicative of a population inbreeding coefficient of F=P/4.
+Although this principle is true for many relationships, it is not completely general. It does not apply to marriages where one partner is a direct descendant of the other, such as father-daughter marriage. It also does not hold for some types of cumulative inbreeding, such as two or more generations of sib-marriage, or when a common ancestor is inbred. However, the relationship appears to apply to most situations encountered in human populations.
+Obviously, this theory also depends on the assumption that consanguineous relations occur through male and female ancestors in random proportions and that neither sex is disproportionately represented among migrants.
+
+SEPARATION OF RANDOM AND NONRANDOM COMPONENTS
+If we assume that all isonymy is a true reflection of common ancestry, we can
+
+Vol. 12, No. 4
+
+Measurement of Inbreeding
+
+201
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+in principle separate random from nonrandom contributions to the inbreeding coefficient. If p{ is the proportion of the male population with a certain name and q{ is the corresponding proportion in females, then the frequency with random marriage of pairs both having this name is p^ and the contribution to the inbreeding coefficient is piqi/i. For all names, the random contribution is
+
+Let F be the total inbreeding coeffi-
+cient, Fr be the inbreeding from random mating within the population, and Fn be that from nonrandom marriages.
+These are related by
+
+F=Fn+(l-Fn)Fr, where
+
+(1)
+
+(2)
+and
+
+(3)
+
+approximately.
+
+If the names are equally frequent in the two sexes, then 2 / ^ may be replaced by 2Xi2, where Xj is the proportion of the ¿th name in the two sexes combined. This should also be done when the theoretical model of population structure is complete random mating, including the possibility of self fertilization.
+F, Fn, and Fr are analogous to F / r , FIg, and F8T as used by Wright. Notice that, although Fr is necessarily positive, Fn may be either positive or negative. It could well be negative if consanguineous marriages are avoided.
+An extension of these formulae may be useful for referring inbreeding effects to some starting population in the past. Equation (1) may be rewritten as
+
+(4)
+
+where Fr» corresponds to the random component at some earlier time. Then Fr- is a measure of inbreeding from gene frequency drift during the period between the two measurements; or, if negative, it might reflect the effect of immigration.
+In any large heterogeneous society, the inconsistency in name-giving, illegitimacy, adoption, change of name, and changes in spelling may make any genetic interpretation difficult and perhaps unrealistic. On the other hand, in some situations this method might be quite useful. There would be a special advantage in studying Spanish-speaking populations or others where the name reflects both paternal and maternal ancestry (Shaw, 1960).
+APPLICATION TO THE HUTTERITE
+POPULATION
+The Hutterites appear to be a population where this type of analysis may be useful to supplement the information obtained from pedigrees. The population is nearly closed; monogamy is the rule; and name changes are unusual and recognizable when they do occur, being usually minor spelling variations. For a description of the population, see Mange (1963).
+This study included records from 446 marriages that occurred between 1940 and 1961 and for which the inbreeding coefficients could be computed for relationships as close as fourth cousins. Among these were 87 in which the marriage partners had the same surname. The data are given in Table 1.
+From the data
+P=proportion of like surnames = 87/466=.195
+an(j
+i=random expectation = 79.55/446=.178
+
+202
+
+Crow and Mange
+
+Eugen. Quart.
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+Using these numbers and equations (1), (2), and (3),we obtain
+F=.O495
+Fr=.O445
+Fn= .0052
+Thus, relative to the reference population, the average relationship is equivalent to something between first cousins (F=3;V) and half first cousins (F=^¡).
+Almost the entire inbreeding effect is attributable to gene frequency drift. The component from nonrandom marriages is very small, and is not significantly different from zero.
+The known inbreeding through fourth cousins was also measured directly. The average value of F for the children of these marriages was 0.0226. Therefore, known consanguinity contributes only .0226/.0495,orabout46% of the inbreeding revealed by isonymy. Apparently common ancestry more remote than that for fourth cousins contributes more than half of the total inbreeding effect.
+Except for a very small number of immigrants, the entire ancestry of these marriages traces back to 17 families who migrated to Russia in 1762. Some of the men in this group are known to have had the same surname, so some of the common ancestry revealed by isonymy is prior to this date. As emphasized by both Wright and Allen, the inbreeding coefficient has meaning only with respect to some starting time or some reference
+
+population. In this case the starting time is unknown, but is sometime prior to 1762.
+We don't have a complete record of the names of the couples who,with their families, migrated to Russia in 1762. If these can be obtained, a better analysis is possible. By applying equation (4) Fr can be divided into components occurring before (Fr~) and since (Fr.) these 17 families migrated.
+As mentioned before, this method underestimates the inbreeding coefficient when the common ancestor at the end of a path of relationship is inbred. In these data the error introduced by not taking this into account is probably very small, at least for that part of the inbreeding that has taken place since the 1762 migration. The reason is that, since first cousin marriages are largely avoided, there are very few chances for two tandem inbreeding loops in the small number of generations since the migration occurred.
+Whether this method has general utility remains to be seen. The Hutterites appear to be a population in which the assumptions are reasonably well met. There is the possibility that, prior to 1762, some of the isonomy may reflect independent origin of surnames rather than common ancestry, in which case the inbreeding coefficient is overestimated. This can perhaps be ascertained by further genealogical investigation. Our
+
+TABLE 1
+FREQUENCIES OF SURNAMES AND ISONYMY AMONG 4 4 6 MARRIAGES RECORDED BETWEEN 1 9 4 0 AND 1 9 6 1 IN THE HUTTERITE POPULATION.
+
+Name De Gl Gr H o Kl Ma St Ts Wd Wi Wo Wu Total
+
+Males Females Isonymous marriages
+Random expectation
+
+7 8 36 104 25 25 17 7 134 30 41 12 446 9 7 27 93 27 19 15 S 153 33 38 17 446 0 0 3 29 1 1 0 0 45 5 1 2 87
+0.14 0.13 2.18 21.69 1.51 1.07 0.57 0.13 45.97 2.22 3.49 0.4G 79.55
+
+Vol. 12, No.4
+
+Measurement of Inbreeding
+
+203
+
+purpose here is notemphasized this particular example, but to propose a method that mayperhaps be useful in resolving some of the problems that Dr. Allen has raised.
+ACKNOWLEDGMENTS
+The basic idea that the frequency of marriages between persons of the same surname could be used to measure the population inbreeding coefficient was suggested toone of us (Crow) many years ago by Professor H. J. Mullen We are are also greatly indebted to Professor Charles Cotterman for correcting some serious errors in ourformulation of the problem and for a number of helpful suggestions, including theterm isonymy.
+
+REFERENCES
+KIMURA, M., and J. F. CROW, 1963. The measure-
+ment of effective population number. Evolution, 17: 279-288.
+MALECOT, C., 1948. Les Mathématiques de
+l'Hérédité. Masson, Paris.
+MANGE, A. P., 1963. The population structure of
+a human isolate. Unpublished Thesis, University of Wisconsin Library.
+SHAW, R. F., 1960. An index of consanguinity
+based on theuse of thesurname in Spanishspeaking countries. J. Hered., 5 1 : 221, 230. WRIGHT, S., 1931. Evolution in Mendelian populations. Genetics, 16: 97-159.
+, 1938. Size of population and breeding structure in relation to evolution. Science, 87: 430-431.
+, 1939. Statistical genetics in relation to evolution. Exposés de Biometrie et de Statistique Biologique. Hermann, Paris.
+, 1951. The genetical structure of populations. Ann. Eugen., 15: 323-354.
+, 1965. The interpretation of population structure by F-statistics with special regard to systems of mating. Evolution (in press).
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+

@@ -1,0 +1,987 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Third birth intentions and uncertainty in Canada
+Zheng Wu & Hui Wang
+To cite this article: Zheng Wu & Hui Wang (1998) Third birth intentions and uncertainty in Canada, Social Biology, 45:1-2, 96-112, DOI: 10.1080/19485565.1998.9988966 To link to this article: http://dx.doi.org/10.1080/19485565.1998.9988966
+Published online: 23 Aug 2010. Submit your article to this journal Article views: 15 View related articles Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:48
+
+Third Birth Intentions and Uncertainty in Canada
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+Zheng Wu and Hui Wang
+Department of Sociology University of Victoria Victoria, British Columbia V8W 3P5 Canada
+ABSTRACT: Using data from the 1995 Canadian General Society Survey (GSS-95), we study the intention to have a third child among a sample of women and men who have already had two children (N=505). Our results show that 15 per cent of the respondents intend to have a third child. Nearly 20 per cent of the respondents are uncertain about their fertility intentions. We found that the same factors that predict intentions also predict uncertainty, and that the effects of these predictors are remarkably similar. In particular, intentions and uncertainty generally decline with age, but increase with regular church attendance, remarriage, and being Catholic. Unlike earlier studies, we found that the sex of previous children has virtually no impact on third-birth intentions or uncertainty.
+
+The use of fertility intentions as a predictor of reproductive behavior continues to be under considerable debate (e.g., Bongaarts, 1992; Hendershot and Placek, 1981; Westoff, 1990; Westoff and Ryder, 1977). The center of the debate focuses on the predictive ability of the preference and intention questions asked in fertility surveys. The usefulness of these questions has been challenged on the grounds that individuals' ideal family sizes may change over time and in response to the changing social contexts in which childbearing decisions are made (Tan and Tey, 1994). Critics have pointed to the significant number of unwanted births in survey data as evidence of the ineffectiveness of intentions as predictors of actual fertility, and of the difficulty in accessing contraception (Bongaarts, 1992, p. 102).
+In response to this challenge, demographers and social biologists have made considerable efforts to develop and assess the survey measurement of fertility pref-
+
+erences, desires, and intentions.1 Their findings suggest that most preference and intention questions are generally valid and useful (Bongaarts, 1992, p. 102): "Survey measures of women's desire to continue childbearing are considered generally reliable, and although desired family size is subject to some bias . . . , it, too, largely serves its intended purpose." Several studies since Bongaarts (1992) have further confirmed that fertility is primarily an intended behavior, and that fertility intentions provide fairly accurate forecasts of subsequent fertility (e.g., Miller and Pasta, 1995; Schoen et al., 1997; Tan and Tey, 1994; Thomson and Hoem, 1996). Developments in contraceptive technology and new treatments for infertility have now made fertility less
+1For the studies in this literature.see Hendershot and Placek (1981), and Footnote 3 in Bongaarts (1992, p. 108).
+
+96
+
+Vol. 45, No. 1-2
+
+Third Birth Intentions
+
+97
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+constrained by physical and biological factors. Couples can use contraceptive methods to control their fertility, and many infertile couples can be treated effectively to become parents. Therefore, it is reasonable to believe that conscious fertility intentions govern the reproductive process.
+The importance of intention studies extends beyond population projection. Another primary concern of these studies has been to model and examine the patterns of uncertainty in childbearing decisions. Uncertainty arises particularly in the stages of the life course where minimal family size has just been attained, but an additional child would not necessarily be unacceptable (Morgan, 1981, p. 267). Patterns of uncertainty are not only important because ignoring them introduces biases in the estimates of intended (parity) fertility, but because aggregate uncertainty has significant policy implications. For example, if substantial numbers of couples indicate that they are uncertain about whether they want a (another) child, rather than deciding that no (further) children are intended, it is possible that these couples may choose to have a (another) child if there are positive reinforcements. "Uncertain" couples are the most likely to be influenced by periodspecific factors, such as socioeconomic conditions and population policy (Morgan, 1981).
+Although the patterns and determinants of fertility intentions have been well documented in the literature (e.g., Axinn et al., 1994; Laumon et al., 1988; Lee and Khan, 1978; Miller, 1992; Namboodiri, 1974; Radecki and Beckman, 1992; Scanzoni, 1976; Waite and Stolzenberg, 1976; Westoff et al., 1963), little attention has been given to uncertainty in
+
+fertility intentions. There are, however, a few exceptions. For example, Morgan (1981, 1982, 1985) made a series of attempts to document the changes in the trends of fertility intentions and uncertainty between 1965 and 1976 using American national survey data. He found a dramatic decline in women's intentions to have more children, particularly at higher parities, over this eleven-year period. The same period also witnessed a rising level of uncertainty about having additional children. Using similar data sources, Sloane and Lee's (1983) study confirms these trends in intentions and uncertainty and found that the sex of the child(ren) the couple already had exerts a profound influence on women's subsequent fertility intentions, and on the level of certainty about these intentions.
+Although these studies provide valuable insights into the patterns of reproductive intentions and uncertainty, they are limited in several ways. One limitation is the lack of appropriate social and demographic controls in the analyses. Previous explanations of intentions and uncertainty are limited to age, parity, and the sex of previous children. Other factors, such as education (Miller, 1992; Radecki and Beckman, 1992), labor force participation (Waite and Stolzenberg, 1976) and gender role attitudes (Scanzoni, 1976), are also related to fertility intentions. Another limitation is that while the response variable has three categories (i.e., "yes," "no," "don't know"), it is invariably modeled as a simply binary response in these studies. Multiple options in the intention question are not considered as competing choices and modeled simultaneously (Maddala, 1983). Further, though not necessarily a limitation, all four studies are based on data collected in
+
+98
+
+Wu and Wang
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+the 1960's and 70's. Rapid social changes in socioeconomic conditions, and advances in medical and contraceptive technology, make their findings less relevant today than they were twenty years ago.
+In this paper we attempt to address each of these limitations. We employ national data from a recent Canadian survey and consider a range of individual-level characteristics that are known to influence reproductive intentions and behavior. We model multiple categories in the response variable simultaneously and examine how individual characteristics may influence the probability that an individual will choose any particular option when responding to the fertility intention question.
+Our paper focuses on third-birth intentions and uncertainty. There are sound theoretical reasons for this focus. First, as in many industrial countries (e.g., Hoem and Hoem, 1989; Kravdal, 1992; Wright et al., 1988), a large part of Canadian fertility decline is attributable to the decline in third-birth rates (e.g., Balakrishnan et al., 1993). Second, the third birth is important in and of itself as it represents the dividing line between below and above replacement-level fertility (Wright et al., 1988, p. 489). Third, the social norms against childlessness and one-child families have been persistent throughout most of the century (Balakrishnan et al., 1993; Ryder, 1973). Census data confirm that the two-child family has been the most common family size in North America in recent decades. Therefore, it is logical to assume that the minimal acceptable family size may well be two for a large number of couples, and that many couples may eventually have two children (cf. Morgan, 1982). Thus, our knowledge and understanding of the factors that influ-
+
+ence the decision to have a third child will become increasingly important.
+MATERIALS AND METHODS
+DATA
+The data used in this study are drawn from the 1995 Canadian General Social Survey (GSS-95). The GSS-95 is the tenth round of the General Social Survey, conducted by Statistics Canada. The survey was based on a national probability sample of 5,914 women and 4,835 men (N= 10,749) aged 15 and older, excluding residents of the Yukon and Northwest Territories, and full-time institutionalized residents. Telephone interviews were used to collect the data, with an overall response rate of 80.7 per cent.2
+The GSS-95 focused on the family. It collected detailed information on marital and childbearing histories, reproductive intentions, family values, and gender role attitudes, as well as socioeconomic characteristics. The measurement of fertility intention is based on the question, "Do you intend to have a/another child sometime?"3 The question was asked to respondents only if (a) they were currently in a marital or cohabiting (heterosexual)
+2Theoverall response rate of 80.7 per cent is quite reasonable for a large national probability survey like the GSS-95 (N= 10,749). The rate is also comparable to other Canadian or American national surveys. For example, the 1990 Canadian General Social Survey (GSS90) had a response rate of 73 per cent. The response rates for the 1984 Canadian Fertility Survey (CFS) and the American 1987-88 National Survey of Families and Household (NSFH) were 70 per cent and 75 per cent, respectively. Further, we have no reason to suspect that there are significant systematic biases introduced through nonrespondents.
+3If the respondent was unclear about the question, the interviewer was allowed to explain that intended children do not include step- and adopted children.
+
+Vol. 45, No. 1-2
+
+Third Birth Intentions
+
+99
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+union, and (b) the female partner was under the age of 50. Consistent with prior research, we excluded the respondents/ their partners who were pregnant, and those who were sterilized either due to a natural cause or through a surgical procedure.4 To study the third birth, we further restricted the sample to respondents who had two children of their own at the time of the survey. With these restrictions, our study sample includes 253 women and 252 men (#=505).
+MEASURES
+As noted, the dependent variable in the analysis is fertility intention. It is a trichotomous variable indicating whether the respondent gave a "yes," "no," or "don't know" response to the survey question on intention. The proportions of the respondents who chose each of the options are 0.15,0.66, and 0.19, respectively.
+Previous studies of fertility intentions have generally focused on the effects of
+4The primary reason for excluding pregnant respondents (and respondents with pregnant partners) is that for these respondents, a third child is almost a certainty. Since our focus is on third birth intentions (not the decision to terminate a pregnancy), including these respondents would introduce biases in our estimates of intentions. Further, Morgan (1982) argues that omitting surgically sterilized respondents overestimates the proportions of respondents who either intend more children or are uncertain about their childbearing plans. These respondents are indeed those who are most certain they will not have any more children. We estimated separate models that treated respondents (or their partners) who were sterilized as not intending any more children and found results similar to those reported here. (These results are available from the authors upon request.) However, because we had no information on the date of surgical operations or the timing of sterilization, we felt that the key explanatory variables could not be considered to be causally prior to sterilization and would therefore have to be excluded from the analysis. For these reasons, and to be consistent with most other studies (e.g., Miller, 1992; Sloane and Lee, 1983), we chose to report the results excluding sterilized respondents/partners.
+
+one or more social demographic characteristics. There has been relatively little theoretical work on intentions.5 However, we believe that theories of fertility behavior should be utilized in the explanation of fertility intentions and uncertainty. Indeed, Rindfuss et al. (1988) have shown that the variables that determine fertility are also relevant to fertility intentions. They conjecture that socioeconomic and other background variables may affect fertility behavior through intentions, a hypothesis that is consistent with Fishbein's (1972) behavioral intention theory.
+In this study we consider several explanatory variables that are known to be important to the process of making reproductive decisions. The theoretical framework underlying our analysis is two-fold. First is the assumption that when couples decide to have a (another) child, they attempt to improve their welfare by comparing benefits and costs (Becker, 1981). Second is that childbearing decisions are made in the context of current social and cultural conditions. We consider several individual characteristics that may directly or indirectly reflect the benefits and costs of having a (another) child. We hypothesize that they also affect reproductive intentions and uncertainty.
+Table 1 provides operational definitions and descriptive statistics for the covariates used in the analysis. In brief, we consider three variables measuring respondents' socioeconomic status (SES). We use a dummy variable indicating whether the respondent was currently employed outside
+5There are a few notable exceptions. For example, Werner et al. (1975) use Fishbein's (1972) behavioral intention model to explore the psychological meaning of having a third child. Miller (1994) develops a motivationdesire-intention model to explain reproductive behavior.
+
+TABLE 1
+DEFINITIONS AND DESCRIPTIVE STATISTICS FOR INDEPENDENT VARIABLES USED IN THE ANALYSIS
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+Variable
+Socioeconomic Status Working status Working outside home (l=yes,0=no) Income Personal income (in 12 categories, 0=no income or income loss,... 12=$100,000 and more) Income missing Income missing status (1 =yes, 0=no) Education Highest level of education (in 6 categories, 1= elementary school or l e s s , . . . , 6=bachelor's degree or higher)
+Cultural Background Catholics Catholic religion (1 =yes, 0=no) Church attendance Frequency of church attendance (in 6 categories, 0=no religion,..., 5=at least once a week) Quebec Residing in the province of Quebec (l=yes, 0=no) Canadian born Born in Canada (1 =yes, 0=no)
+Demographic Determinants Gender Female (1=yes, 0=no) Age Respondent's age at the survey time Union status Respondent's current marital status (1 = married, O=cohabiting) Age at union Respondent's age at first union (marriage or cohabitation) Remarriage Respondent remarried (1=yes, 0=no) Heterogamy in union status Heterogamy in marriage or in cohabitation (l=yes, 0=no) Heterogamy in age (coded as two dummy variables, l=yes, 0=no) Husband older Wife older Similar ages (reference category) Age of 2nd child The age of respondent's second child Child spacing Child spacing between two children in years Sex of children (coded as two dummy variables, l=yes, 0=no) Two boys Two girls One boy and one girl (reference category) Number of siblings Number of siblings respondent grew up with
+Gender Role Attitudes Gender role attitudes based on 7 questions (see Table 2 for descriptions of these questions), low score=egalitarian attitudes, high score=traditional attitudes (Cronbach's alpha=0.55)
+N (Unweighted)
+Weighted sample means.
+
+Mean"
+
+S.D.
+
+0.69 0.46 6.26 2.33 0.22 0.42 4.23 1.37
+
+0.40 0.49
+2.44 1.83 0.25 0.43 0.63 0.48
+
+0.46 36.49
+0.90 24.89
+0.08 0.18 0.19 0.06
+6.6 3.0 0.28 0.19
+3.3
+
+0.50 7.29
+0.30 3.95 0.27 0.38 0.39 0.24
+6.91 1.66 0.45 0.39
+2.59
+
+19.71 505
+
+3.72
+
+Vol.45, No. 1-2
+
+Third Birth Intentions
+
+101
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+of the home. We measure personal income on a 12-point continuous scale. Like most large surveys, the percentage of missing income responses in our study sample is substantial (20 per cent). To avoid a significant reduction in sample size, the missing values were replaced with the mean income. A dummy variable for missing values is included in the regression analyses. Further, education is coded on a 6-point continuous scale, ranging from elementary school (or less) to university degree. The mean educational level is some post-secondary school education. Earlier research has shown that the effects of SES, particularly education, on fertility intentions are gender-patterned (Mason and Taj, 1987; Radecki and Beckman, 1992). Because an increase in SES tends to raise the (opportunity) costs of childbearing, we anticipate that SES has a negative impact on third birth intentions, particularly for women (Becker, 1981).
+The effects of cultural factors on fertility intentions and behavior have been well documented (e.g., Hirschman, 1994). We consider four variables for cultural background. Three dummy variables are used to indicate whether the respondent was (a) Catholic, (b) residing in the province of Quebec, and (c) born in Canada. Religiosity is measured by church attendance. We expect that being Catholic and/or a regular church goer increases the desire for a third birth (e.g., Namboodiri, 1974; Westhoff and Ryder, 1977; Thornton et al., 1992). While Quebec has been predominantly Catholic, Quebec fertility has been persistently below the national average over approximately the past three decades. Indeed, the French-English dualism has been the most distinct demographic characteristic
+
+of the country throughout its history (Balakrishnan and Wu, 1992). For these reasons, we anticipate that Quebeckers are less likely to intend a third child than non-Quebeckers.
+We also use eleven variables to capture the influences of demographic determinants on fertility intentions and uncertainty. We use a dummy variable for gender (Mason and Taj, 1987). Age is measured in years, and we include a quadratic term to test the curvilinear effect of age. We anticipate a negative effect of age on third birth intentions (e.g., Morgan, 1981, 1982). Union status is a dummy variable indicating whether the respondent was in a marital union or in a cohabiting union. The effect of union status has not been systematically examined, probably because cohabitation is only a recent phenomenon. Because cohabiting unions are considerably less stable than marriages (Wu and Balakrishnan, 1994), and the desire to invest in union-specific capital such as children declines with perceived risk of union disruption (Becker et al., 1977), we should expect that cohabiting couples are less likely to intend a third birth than married couples.
+Age at first union is used as a proxy for the cost of the partner/marital search. A younger age at first union may reflect a shorter search, which may result in a poor match (Becker et al., 1977). Thus, a younger age at first union may lead to a less stable union and lower the probability of intending a third birth. We use a dummy variable indicating whether the current union was a remarriage. However, the effect of remarriage is ambiguous. On one hand, because remarriages tend to be less stable than first marriages (White and Booth, 1985), remarried individuals may be less likely to intend a third birth than
+
+102
+
+Wu and Wang
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+individuals in their first marriages. On the other hand, remarried people at Parity 2 may want another child (with their current spouse), because one or both of their children may have been born in the previous marriage.
+We use three dummy indicators for heterogamy in unions: one for a difference in past union/marital status between the partners, and two for age-discrepant partnerships (i.e., husband/male partnerolder and wife/female partner-older partnerships). A discrepancy between the partners' characteristics may result from attempts to reduce search costs, thereby increasing the chances of a mismatch. This increased chance of mismatch should reduce the incentive to invest in union-specific capital such as children. Thus, heterogamy should decrease the desire for a third child.
+Three variables are included for the characteristics of the two children that the respondent has had. Both age of the second child and (second) birth interval are measured in years. Age of the second child is used as a proxy for the (possible) third-birth interval. A younger age of the second child may suggest a shorter thirdbirth interval if a third child is intended. We anticipate that the likelihood of intending a third child increases when the respondent's second child is younger, and the (second) birth interval is shorter. Birth intervals are seen as important determinants of fertility in the sense that they are proxies for fecundity (Bongaarts, 1978), although birth intervals are less important in societies where fertility is regulated through contraception. The sex of previous children is measured as a trichotomy indicating whether the children are both boys, both girls, or one boy and one girl. Following Sloane and Lee
+
+(1983), we expect that the likelihood of intending a third child increases when both children are of the same sex.
+We use the number of siblings as a measure of parental fertility behavior. The idea that parental fertility and preferences affect fertility behavior has been well supported in the literature (e.g., Axinn et al., 1994). A large number of siblings is expected to increase the desire for a third birth. Finally, we include a composite index for gender role attitudes. The index is constructed by summing seven attitudinal items, each of which is measured on a 5point Likert scale (Cronbach's ct=0.53). The item wordings and the percentage distributions are provided in Table 2. In line with earlier studies, we anticipate that egalitarian gender role attitudes lead to a reduced probability of intending a third birth (Rindfuss et al., 1988).
+STATISTICAL MODELS
+As the dependent variable is a trichotomy with three choice categories, the multinomial logit model (Maddala, 1982) is used. Following the growing literature on probablistic choice models, we estimated a generalized logit model by specifying the ratio of the probability of taking the ith alternative (e.g., giving a "yes" response) to the probability of taking some standard alternative (e.g., giving a "no" response). To be consistent with prior studies (Morgan, 1981, 1982; Sloane and Lee, 1983), we estimated models for two contrasts: the probability of giving a "no" response versus the probability of giving the other two responses, respectively. The two multinomial logit models can be written as:
+Prob(y=0/ProbO=jt)=exp(p.»x) (1) Prob(y=;0/Prob(y=£)=exp(|yx) (2)
+
+Vol. 45, No. 1-2
+
+Third Birth Intentions
+
+103
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+TABLE 2
+PERCENTAGE DISTRIBUTION OF GENDER ROLE QUESTIONS, CANADA, 1995
+
+Questions
+(1) An employed mother can establish just as warm and secure a relationship with her children as a mother who does not work forpay
+
+Strongly Agree
+11.9
+
+(2) Keeping house is just as fulfilling as working for pay
+
+8.5
+
+(3) A pre-school child is likely to suffer if both parents are employed
+
+10.7
+
+(4) What most women really want is a home and children
+
+5.5
+
+(5) What most men really want is to be successful in their jobs....
+
+4.3
+
+(6) Raising children is not a man's responsibility
+
+0.1
+
+(7) A man's role is to bring enough money home
+
+3.0
+
+"Neutral includes those who answer "don't know" and "no opinion."
+
+Agree
+52.6 50.0 43.7 44.3 42.0 7.8 21.0
+
+Neutral0
+
+Disagree
+
+Strongly Disagree
+
+9.1 24.7
+
+1.7
+
+12.1 26.5
+
+3.0
+
+8.7 34.4
+
+2.4
+
+16.1 32.4
+
+1.7
+
+11.9 39.8
+
+1.9
+
+5.5 53.9 32.6
+
+8.0 52.5 15.5
+
+Total
+100.0 100.0 100.0 100.0 100.0 100.0 100.0
+
+where y is the response variable, and k,j , and k represent the three choice categories ("yes," "don't know," and "no," respectively) in the response variable; B(. and B ·are the vectors of regression parameters associated with the explanatory variables in Equations (1) and (2), and x is the vector of the explanatory variables. Further, the design matrix of categorical (explanatory) variables was "effect" coded such that the estimates of all categories for a given variable sum to zero (i.e., 20^=0, where a(=parameter estimate for category i); and a; indicates the difference between ith category mean and the grand mean.
+RESULTS
+
+1995. Table 3 presents data on birth intentions by age and parity.6 To provide a baseline group for comparison, we relaxed parity constraints in sample selection. Thus, the data presented in the table include all respondents who met the selection criteria, apart from parity, discussed earlier. Table 3 shows that the percentage of yes responses decreases with age and parity, which is consistent with prior studies (Morgan, 1981, 1982). For example, at parity 0, 86 per cent of the respondents under age 30 intend to have a child. The percentage of yes responses declines to 73 per cent for the 30-34 age group, and 35 per cent for respondents aged 35 and over. As would be expected, the percentage of no responses increases
+
+Our empirical analysis begins with a
+
+descriptive account of reproductive inten-
+
+6Small cell counts, particularly at parity 2, prevent
+
+tions and uncertainty as observed in us from breaking down the table by sex.
+
+104
+
+Wu and Wang
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+TABLE 3
+BIRTH INTENTIONS" BY AGE AND PARITY: CANADA, 1995
+
+Parity 0 Yes Uncertain No Total A*
+
+Parity
+
+<30 30-34
+
+86.0 73.0
+
+6.3 15.3
+
+7.7 11.7
+
+100.0
+
+100.0
+
+318 165
+
+Chi-square= 114.6, d.f.=4, p<0.001
+
+35 +
+34.7 9.5
+55.8 100.0
+157
+
+71.2 9.4 19.4 100.0
+640
+
+Parity 1 Yes Uncertain No Total JV*
+
+85.3 59.4
+
+5.9 19.8
+
+8.8 20.8
+
+100.0
+
+100.0
+
+144 134
+
+Chi-square=81.1, d.f.=4, p<0.001
+
+32.4 14.2 53.4 100.0 201
+
+55.5 13.3 31.2 100.0 479
+
+Parity 2 Yes Uncertain No Total W*
+
+37.6 19.4
+
+29.4 32.8
+
+32.9 47.8
+
+100.0
+
+100.0
+
+97 144
+
+Chi-square=117.1,d.f.=4,p<0.001
+
+5.6 9.4 85.0 100.0 264
+
+14.7 19.0 66.3 100.0 505
+
+T h e response is based on the question "Do you intend to have another child sometime? (Excluding step- and adopted children)." ^Unweighted sample sizes.
+
+with age. While less than 8 per cent of the respondents under age 30 intend to remain childless, this percentage rises to 12 per cent for the 30-34 age group, and to 56 per cent for those aged 35 and over. The age pattern of uncertainty at parity 0 is clearly not linear. It appears that only a small fraction of people under 30 are uncertain about their fertility intentions. Uncertainty rises in the early 30's and declines thereafter. However, the proportion of uncertain responses is not trivial. Overall, 9.4 per cent of childless respondents are uncertain about their fertility plans, compared to the 19.4 per cent of respondents who intend to remain childless.
+Table 3 shows similar age patterns of fertility intentions at parity 1. It is interesting to note that virtually the same proportion of people under age 30 at parity
+
+1, as at parity 0, intend to have a (another) child. These results may reflect the emerging norms for two-child families in North America (e.g., Balakrishnan et al., 1993). Further, as expected, the percentage intending another child declines with age. Compared to the data at parity 0, there is considerably more uncertainty about fertility intentions among individuals in their 30's and older. The percentage of no responses is nearly doubled for the 30-34 age group, although it changes little for the other two age groups.
+We turn now to the data on couples at parity 2, who are the focus of our paper. We again observe similar age patterns of intentions and uncertainty. The parity pattern emerges when we compare across the parity tables. Overall, childbearing intentions decline with age and parity. The
+
+Vol. 45, No. 1-2
+
+Third Birth Intentions
+
+105
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+converse is the case for child-stopping. Additionally, there is considerable uncertainty involved in fertility intentions. The degree of uncertainty is generally low at young ages, but rises in the early 30's and declines thereafter. Uncertainty also increases with parity. Nearly one-third of respondents under age 35 are uncertain about whether they want a third child.
+Intentions and uncertainty not only change with age and parity, they may also be affected by the sex composition of previous children. Table 4 shows that individuals who have a pair of same-sex children are more likely to intend a third birth than individuals who have children of different sexes. The degree of uncertainty about a third child is also higher among individuals who have children of the same sex. While the direction of this relationship is consistent with prior studies (e.g., Sloane and Lee, 1983), the significance of the effect is rather limited (p=0.075). As shown, the effect of the sex of previous children fails to reach the significance level once we remove the effects of other variables.
+Tables 5 and 6 show parameter estimates from a series of nested multinomial logit models of fertility intentions and uncertainty. As noted, we estimated models for two probability contrasts: (1) yes versus no, and (2) uncertain versus no. Table 5 reports the parameter estimates for the first set of contrasts (intention models), and Table 6 for the second set (uncertainty models). In modeling intentions, we begin with the observed effects of SES, cultural background, demographic determinants, and gender role attitudes, by modeling them separately. The estimates for these specifications are presented in Models 1 through 4 in Tables 5 and 6. In Model 5, we combine the
+
+parameters of Models 1-4 to examine the net impact of these characteristics. In Model 6, we add three interaction terms to test the hypothesis that the effects of SES on intentions vary between women and men.
+We first look at the intention models. Table 5 shows that the effects of SES indicators (work, income, and education) have generally negative but insignificant effects on intentions (see Model 1). The estimates remain insignificant after other variables are added (see Model 5). However, when we add the interaction terms to the model (see Model 6), we find that employed women appear to be less likely to intend a third child than nonemployed women, which is consistent with the economic theory of fertility, while the reverse appears to be true for men.7 The negative effect of women's employment on fertility intentions supports the notion that the (opportunity) costs of having additional children are particularly high for employed mothers. All in all, our results suggest that SES has limited impact on intentions.
+The effects of cultural background on intentions are evident in both the reduced and the full models (see Models 2 and 6 in Table 5). As expected, we find a positive effect on Catholicism on intent for a third child. Specifically, our results show that the odds of intending a third child are about 2.57 (e2x472) times higher for Catholics than non-Catholics (see Model 6). Also consistent with our expectations, church attendance has a positive effect.
+7Holding other variables (including the intercept) constant, we find the estimates for the four work × sex subgroups are as follows: employed women (-0.313=0.242+0.138-0.693), nonemployed women (0.589), employed men (0.797), and nonemployed men (-1.073).
+
+106
+
+Wu and Wang
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+TABLE 4
+BIRTH INTENTIONS" BY THE SEX OF PREVIOUS CHILDREN: CANADA, 1995
+
+SEX OF PREVIOUS CHILDREN
+
+Parity 2 Yes Uncertain No Total
+
+PARITY
+
+Two Boys
+
+Two Girls
+
+One Boy and One Girl
+
+18.9 18.6 10.9
+
+21.0 20.6 17.4
+
+60.1 60.8 71.7
+
+100.0
+
+100.0
+
+100.0
+
+143 97 265
+
+Chi-square=8.5, d.f. =4, ^=0.075
+
+T h e response is based on the question "Do you intend to have another child sometime? (Excluding step- and adopted children)." ^Unweighted sample size.
+
+Further, the effect of nativity is negative and significant, suggesting that intent for a third child is more common among foreign-born Canadians than native-born Canadians. Given the lower level of fertility in the Province of Quebec, we anticipated that Quebeckers are less likely than non-Quebeckers to intend a third child. While the signs on the estimates are consistent with this expectation, the effects are not significant at the 10 per cent level.
+We consider a number of demographic determinants. Table 5 shows that age appears to have a negative curvilinear effect on intent for a third child, which is generally consistent with our earlier bivariate analysis. Whether people are in marital or cohabiting unions does not have a significant effect, nor does the age at which they entered into their first union. However, whether the current union is .a remarriage does matter. Our results show that the odds of intent for a third child are nearly eleven times ( e 2 x u 9 6 ) higher for remarried people than people in other types of unions. This finding supports the idea that remarried people may want a third child because one or both of their children may have been born during a previous marriage. Many remarried couples want children from their current union.
+
+Heterogamy in union status also has a significant impact. As expected, heterogamous union status appears to decrease the intent for a third birth, probably because of higher perceived risk of union instability. However, age differences between partners does not have a significant effect. Further, none of the characteristics of the children has a significant impact, nor does the number of siblings. Finally, gender role attitudes appear to have a positive though marginally significant effect. As anticipated, individuals who hold more traditional gender role attitudes are more likely to intend a third child, which is consistent with prior studies (e.g., Rindfuss et al., 1988).
+Table 6 presents the parameter estimates for uncertainty models. Caution is needed to interpret the estimates in the table. Since we model the contrast of don't know versus no, a positive estimate means a greater likelihood of choosing don't know (being uncertain) over no (intent for child-stopping). Similarly, a negative estimate indicates that the respondent is less likely to choose don't know over no. Again, we focus on the full model (Model 6) in our discussion.
+Table 6 shows that education has a marginally significant effect on uncertainty regarding a third child. People with higher ed-
+
+Vol. 45, No. 1-2
+
+Third Birth Intentions
+
+107
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+TABLE 5
+MULTINOMIAL LOGIT MODELS FOR THIRD BIRTH INTENTIONS (YES VERSUS NO): CANADA, 1995
+
+Independent Variables
+Socioeconomic Status Work status Working outside home Income Incomis(yes) Education
+
+Model 1
+
+Model 2
+
+Model 3
+
+ModeU
+
+Models
+
+Model 6
+
+-0.176 -0.084 -0.190 -0.029
+
+... ... ... ...
+
+... ... ... ...
+
+... -0.112 0.242 ... 0.033 0.001 ... -0.095 -0.258 ... 0.211 0.220
+
+Cultural Background Catholic (yes) Church attendance Quebec (yes) Canadian born (yes)
+
+... 0.344" ... ... 0.164" ... ... -0.172 ... ... -0.043 ...
+
+... 0.455" 0.472" ... 0.213" 0.211" ... -0.239 -0.266 ... -0.346* -0.314*
+
+Demographic Determinants Gender (female) Age Age square Union status (marriage) Age at first union Remarriage (yes) Heterogamy in union status.... Heterogamy in age Husband older Wife older Age of 2nd child Child spacing Sex of children Two boys Two girls Number of siblings
+
+... ... -0.038 ... -0.092 0.138
+
+...
+
+...
+
+0.296
+
+...
+
+0.292 0.482
+
+... ... -0.009* ... -0.010* -0.013"
+
+... ... -0.213 ... -0.379 -0.352
+
+...
+
+...
+
+0.066
+
+...
+
+0.079 0.082
+
+...
+
+...
+
+1.038" ...
+
+1.258C 1.196C
+
+... ... -0.765" ... -0.800" -0.711*
+
+...
+
+...
+
+0.032
+
+...
+
+0.066 0.084
+
+... ... -0.301 ... -0.339 -0.372
+
+...
+
+...
+
+0.076
+
+...
+
+0.082 0.087
+
+... ... -0.072 ... -0.054 -0.042
+
+...
+
+...
+
+0.052
+
+...
+
+0.068 0.054
+
+...
+
+...
+
+0.245
+
+...
+
+0.235 0.234
+
+...
+
+v
+
+-0.019
+
+... -0.046 -0.040
+
+Gender Role Attitudes Work status * gender Income * gender Education * gender
+Intercept Likelihood Ratio
+Chi-Square d.f.
+°p<0.05. 'p<0.1 (two-tailed test). <p<0.01.
+
+... ... ... ... ... ... ... ...
+-0.862* -1.905c
+
+... ... ... ...
+-1.900
+
+197.76 (10)
+
+84.88 (10)
+
+689.60 (30)
+
+0.056* ... ... ...
+
+0.074 ... ... ...
+
+-2.528C -4.241
+
+0.079* -0.693"
+0.153 --0.171
+-7.717
+
+46.23 656.97 644.95 (4) (48) (54)
+
+ucations appear to be more uncertain about their intentions than people with lower educations; and this effect does not seem to vary between women and men. Our results also suggest that employment status and personal income are not significant, and neither are their interactions with gender (see
+
+Model 6). In conjunction with the findings shown in Table 5, it appears that SES does not have much impact upon reproductive intentions and uncertainty.
+The degree of uncertainty clearly varies among individuals with different cultural backgrounds. Consistent with the intention
+
+108
+
+Wu and Wang
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+TABLE 6
+MULTINOMIAL LOGIT MODELS FOR THIRD BIRTH INTENTIONS (UNCERTAIN VERSUS NO): CANADA, 1995
+
+Independent Variables
+Socioeconomic Status Work status Working outside home Income Incomis(yes) Education
+
+Model 1
+
+Model 2
+
+Model 3
+
+Model 4
+
+Model 5
+
+Model 6
+
+-0.054
+
+...
+
+...
+
+... -0.046
+
+0.019
+
+-0.124"
+
+...
+
+...
+
+... -0.087 -0.091
+
+-0.010
+
+...
+
+...
+
+... 0.163 0.158
+
+0.076
+
+...
+
+...
+
+...
+
+0.194°
+
+0.197"
+
+Cultural Background Catholic (yes) Church attendance Quebec (yes) Canadian born (yes)
+
+... 0.194 ... 0.031 ... -0.278" ... 0.177
+
+... ... ... ...
+
+...
+
+0.379*
+
+0.385*
+
+... 0.047 0.045
+
+... -0.388* -0.396*
+
+... 0.062 0.036
+
+Demographic Determinants Gender (female) Age Age square Union status (marriage) Age at first union Remarriage (yes) Heterogamy in union status.... Heterogamy in age Husband older Wife older Age of 2nd child...
+Child spacing Sex of children
+Two boys Two girls Number of siblings
+
+... ... ... ... ... ... ...
+... ... ... ...
+... ... ...
+
+... 0.065 ... 0.575" ... -0.013c ... -0.202 ... 0.157c ... 1.386C ... -0.746*
+... 0.706* ... -1.173* ... 0.069 ... -0.186"
+... -0.027 ... 0.009 ... -0.012
+
+... -0.023 -0.804
+
+...
+
+0.597"
+
+0.510
+
+... -0.013c -0.012*
+
+... -0.353 -0.347
+
+...
+
+0.161c
+
+0.160c
+
+...
+
+1.454C
+
+1.510c
+
+... -0.711* -0.712*
+
+...
+
+0.730*
+
+0.699*
+
+... -1.204* -1.155*
+
+... 0.066 0.063
+
+... -0.187" -0.193"
+
+... 0.008 0.004 ... -0.026 -0.023 ... -0.029 -0.036
+
+Gender Role Attitudes Work status * gender Income * gender Education * gender
+
+...
+
+...
+
+...
+
+0.036 0.074"
+
+0.082*
+
+... ... ... ... ... -0.084
+
+... ... ... ... ... 0.030
+
+... ... ... ... ... 0.147
+
+Intercept Likelihood Ratio
+Chi-Square d.f.
+"p<0.01 (two-tailed test). *p<0.05. <p<0.01.
+
+-0.775
+197.76 (10)
+
+-1.473C
+84.88 (10)
+
+-8.804
+689.60 (30)
+
+-1.919C -10.835*
+
+46.23 (4)
+
+656.97 (48)
+
+-9.455"
+644.95 (54)
+
+models, we find that Catholics are more likely to be uncertain about their intentions than non-Catholics. Our data also show that church attendance does not have a significant influence on uncertainty. It could be that regular church attendance may help people decide their fertility
+
+goals. Further, the degree of uncertainty appears to be higher among non-Quebeckers, which is consistent with the lower fertility rate observed in Quebec. Finally, nativity does not show a significant effect.
+Turning to the demographic determinants, we observe that the (main) effect
+
+Vol. 45, No. 1-2
+
+Third Birth Intentions
+
+109
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+of gender is not significant. Again, age has a negative curvilinear effect on uncertainty as in the intention models. Together, these results suggest that both the desire for a third child and the degree of uncertainty may initially rise in early stages of the life course, then decline rapidly as one ages. The concave effect of age on uncertainty is congruous with our earlier bivariate analysis.
+Although union status remains insignificant as in Table 5, age at first union shows a significant effect. We find that people who delay entering into their first union tend to be more uncertain about a third child than those who enter at a younger age. This finding is in line with the view that a delayed entry into first union may lead to a better match, which, in turn, encourages couples to invest in children. Further, we find that remarriage has a positive impact. The degree of uncertainty is considerably higher among remarried people than people in other types of unions.
+Consistent with the intention models, we find that heterogamy in union status discourages couples from having a third child. Heterogamy in age is also significant. Child-stopping appears to be more likely intended in partnerships that involve an older woman and a younger man, and less likely when they involve an older man and a younger woman. While the negative effect of age difference may be due to higher perceived risk of union instability, it could also reflect the negative effect of a woman's age on intentions. That is, a third birth is more likely to be contemplated when the female partner is relatively young, and possibly in early childbearing years.
+Table 6 also shows that none but one of the characteristics of previous children
+
+is significant, and neither is the number of siblings. As expected, we find that a long child-spacing interval is associated with the intention for child-stopping. Finally, gender role attitudes have a positive effect, suggesting that the degree of uncertainty about a third child is higher among people who hold more traditional gender role attitudes.
+DISCUSSION AND CONCLUSION
+We have aimed at improving our understanding of the intention to have a third child among a recent sample of Canadian women and men who have had two children. From an economic perspective, we envision that individuals attempt to improve their welfare when they decide whether they want a third child. In this study we consider a set of individual characteristics that reflect some of the benefits and costs, as well as other factors known to be important, and examine how these characteristics may influence reproductive intentions.
+Our empirical analysis suggests several conclusions. First, consistent with prior studies (e.g., Morgan, 1982), age is one of the most important factors influencing fertility intentions. We found that third-birth intentions decline rapidly with age. When the effects of other factors are removed, intentions and uncertainty initially increase with age, and then decline rapidly. These findings tell a consistent story; intentions and uncertainty rise when the female partner is relatively young, and having a third child is a possibility. Intentions decline, and certainty (about stopping) increases when the "biological clock" sets in, and the possibility of having additional children diminishes. The generally negative effect of aging is also consistent with the well-supported
+
+110
+
+Wu and Wang
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+finding that fecundity declines with age (e.g., Menken, 1985).
+Second, we question whether the sex of previous children actually affects fertility intentions, as previous research has suggested (e.g., Sloane and Lee, 1983; and Williamson, 1976). While individuals who have same-sex children may appear to be more inclined to consider a third child than those who have children of different sexes, the effect of the sex of previous children disappears when we remove the influences of other variables. Indeed, virtually none of the characteristics of the children that couples already had has an impact. We suspect that the importance of sex preferences in reproductive decisions may have abated in recent years partly due to the rising number of childless and one-child families, and to the changing norms about family sizes.
+Third, it is not SES but cultural factors such as religious affiliations and religiosity that determine reproductive intentions. We found that Catholics and regular church attenders are most likely to intend a third child. While some studies have shown a declining impact of religion, particularly Catholicism, on fertility behavior in the 1970's and early 1980's (e.g., Westoff and Jones, 1979; Balakrishnan and Chen, 1990), the influence of religion remains, or reemerges, in reproductive intentions as in the process of union formation and dissolution (e.g., Lehrer and Chiswick, 1993; Sander, 1993).
+Fourth, we found that remarriage is the most important demographic determinant, and that remarried persons are more likely to consider having a third child than people in other types of unions. While the positive effect of remarriage may be due to the fact that at least one of the two children that the respondent had
+
+may have been born in the previous marriage, there is also a selection effect present. Because cohabitation has been a popular life-style choice among divorced individuals (Wu and Balakrishnan, 1994), those who choose to remarry tend to be a select group who are more committed to the partner or the institution of marriage, which may also explain why remarried individuals may want to invest more in children. The effect of remarriage is interesting partly because remarriage has been traditionally viewed as an incomplete social institution in which childbearing is discouraged (Cherlin, 1978). As more people remarry and consider having children with their new partner, remarriage increasingly becomes a socially acceptable setting for childbearing. Since remarriage rates remain high, we would expect more children to be born into remarriages in the years to come.
+Finally, our analysis suggests that the same factors that predict intentions also predict uncertainty, and that the effects of these predictors are remarkably similar. These findingslend support to Morgan's (1981, p. 267) contention that uncertain intentions may take a middle position between firm intentions to continue or to stop childbearing. Fertility intentions are better conceptualized as an ordinal variable. Perhaps it may be more realistic to view reproductive motivations and intentions as a multi-dimensional continuum (cf. Morgan, 1981, p. 269). Recent work by Miller (1992,1994) is particularly encouraging in that he views reproductive motivations, desires, and intentions as separate constructs which gauge, sequentially, different stages of the reproductive decision-making process.
+The survival of any society partly depends upon how efficient its members are at replacing themselves. Aggregate shifts
+
+Vol. 45, No. 1-2
+
+Third Birth Intentions
+
+111
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+in third-birth rates have important ramifications for the future state of Canadian society. This study has shown that 15 per cent of respondents at parity 2 intend to have more children. Almost 20 per cent of respondents at parity 2 are uncertain about their fertility plans. If "uncertain" couples are indeed in a transitional stage between childbearing and child-stopping, and their decisions are most likely to be influenced by period factors (see Morgan, 1982), then knowledge of how these couples are distributed in social groups will be important to policy-makers so that they can design and implement social policies that ensure the future well-being of our society.
+
+ACKNOWLEDGMENTS
+The work was partially supported by a University of Victoria faculty research grant. Additional support was provided by the Department of Sociology, the University ofVictoria. We thank Eric Fong, anonymous reviewers and the Editor for the helpful comments, and Michael Pollard for editorial assistance. An earlier draft of the paper was presented at the annual meetings of the Canadian Population Society in St. John's, Newfoundland, June 9-11, 1997.Direct all correspondence to Zheng Wu, Department of Sociology, the University of Victoria, P.O. Box 3050, Victoria, B.C., V8W 3P5 Canada, (e-mail: zwu@uvvm.uvic.ca)
+
+REFERENCES
+
+AXINN, WILLIAM G., MARTIN E. CLARKBERG, and
+ARLAND THORNTON. 1994.Family influences on family size preferences. Demography 31:65-79.
+BALAKRISHNAN, T. R., and JIAJIAN CHEN. 1990. Reli-
+giosity, nuptiality and reproduction in Canada. Canad. Rev. Sociol. Anthropol. 27:316-340.
+BALAKRISHNAN, T. R., and ZHENG WU. 1992. Re-
+gional patterns of nuptiality and fertility in Canada: 1921-1986. Genus 48:151-171.
+BALAKRISHNAN, T. R., E. LAPIERRE-ADAMCYK, and
+K. J. KRÓTKI. 1993. Family and childbearing in Canada: A demographic analysis. Univ. of Toronto Press, Toronto.
+BECKER, GARY S. 1981. A treatise on the family. Harvard Univ. Press, Cambridge,MA.
+BECKER, GARY S., E. LANDES, and R. MICHAEL.
+1977. Aneconomic analysis of marital instability. J. Polit. Econ. 85:1141-1187.
+BONGAARTS, JOHN. 1978. A framework for analyzing the proximate determinants of fertility. Pop. Develop. Rev. 4:105-132. . 1992. Do reproductive intentions matter? Internat. Fam. Plan. Persp. 18:102-108.
+CHERLIN, ANDREW. 1978. Remarriage as an incomplete institution. Amer. J. Sociol. 84:634-650.
+FISHBEIN, M. 1972. Toward an understanding of family planning behaviors. J.Appl. Soc. Psychol. 2:214-227.
+HENDERSHOT, GERRY E., and PAUL J. PLACEK (eds.).
+1981. Predicting fertility: Demographic studies of birth expectations. Lexington Books, Toronto.
+HIRSCHMAN, CHARLES. 1994. Why fertility changes. Ann. Rev. Sociol. 20:203-233.
+HOEM, BRITTA, and JAN M. HOEM. 1989. The impact
+of women's employment on second and third births in modern Sweden. Pop. Stud. 43:47-67.
+
+KRAVDAL, OYSTEIN. 1992. The emergence of a positive relation between education and third birth rates in Norway with supportive evidence from the United States. Pop. Stud. 46:459-475.
+LAUMON, B., N. MAMELLE, F. MUNOZ, and A. MEAS-
+SON. 1988. Sociodemographic characteristics and intentions for further births in France. J. Biosoc. Sci. 20:31-36.
+LEE, CHE-FU, and MOHAMMAD M. KHAN. 1978. Fac-
+tors related to the intention to have additional children inthe United States: A reanalysis of the data from the 1965 and 1970 National Fertility Studies. Demography 15:337-344.
+LEHRER, EVELYN L., and CARMEL U. CHISWICK.
+1993. Religion as a determinant of marital stability. Demography 30:385-404. MADDALA, S.G. 1983. Limited-dependent and qualitative variables in econometrics. Cambridge Univ. Press, New York.
+MASON, KAREN OPPENHEIM, and ANJU MALHOTRA
+TAJ. 1987. Differences between women's and men's reproductive goals in developing countries. Pop. Develop. Rev. 13:611-638.
+MENKEN, JANE. 1985.Age and fertility: How late can you wait? Demography 23:469-483.
+MILLER, WARREN B. 1992. Personality traits and developmental experiences as antecedents of childbearing motivation. Demography 29:265-285. . 1994. Childbearing motivations, desires, and intentions: A theoretical framework. Genetic, Social andGeneral Psychological Monographs 120:225-258.
+MILLER, WARREN B., and DAVID J. PASTA. 1995. Be-
+havioral intentions: Which ones predict fertility behavior in married couples? J. Appl. Soc. Psychol. 25:530-555.
+
+112
+
+Wu and Wang
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+MORGAN, S. PHILIP. 1981. Intention and uncertainty TAN, POOCHANG, and NAI PENG TEY. 1994. Do fer-
+
+at later stages ofchildbearing: TheUnited States,
+
+tility intentions predict subsequent behavior?
+
+1965 and 1970. Demography 18:267-285.
+
+Evidence from Peninsular Malaysia. Stud. Fam.
+
+. 1982. Parity-specific fertility intention and Plan. 25:222-231.
+
+uncertainty: The United States, 1970and 1976. THORNTON, ARLAND, WILLIAM G. AXINN, and
+
+Demography 19:315-324.
+
+DANIEL H. HILL. 1992. Reciprocal effects ofre-
+
+. 1985.Individual and couple intentions for
+
+ligiosity, cohabitation, and marriage. Amer. J.
+
+more children: A research note. Demography
+
+Sociol. 98:628-651.
+
+22:125-132.
+
+WAITE, LINDA J., and Ross M. STOLZENBERG. 1976.
+
+NAMBOODIRI, N. KRISHNAN. 1974. Which couples at
+
+Intended childbearing and labor force participa-
+
+given parities expect to have additional births?
+
+tion of young women: Insights from nonrecur-
+
+An exercise in discriminant analysis. Demogra-
+
+sive models. Amer. Sociol. Rev. 41:235-252.
+
+phy 11:45-56.
+
+WERNER, PAUL D., SUSAN E. MIDDLESTADT-CARTER,
+
+RADECKI, STEPHEN E., and LINDA J. BECKMAN.
+
+and THOMAS J. CRAWFORD. 1975. Having a third
+
+1992. Determinants of child-bearing intentions
+
+child: Predicting behavioral intentions. J. Marr.
+
+of low-income women: Attitudes versus life cir-
+
+Fam. 37:348-358.
+
+cumstances. J. Biosoc. Sci.24:157-166.
+
+WESTOFF, CHARLES F. 1990. Reproductive intentions
+
+RINDFUSS, R. RONALD, S. PHILIP MORGAN, and
+
+and fertility rates. Internat. Fam. Plan. Persp.
+
+GRAY SWICEGOOD. 1988. First births in America:
+
+16:84-96.
+
+Changes in the timing of parenthood. Univ. of WESTOFF, CHARLES F., and NORMAN B. RYDER.
+
+California Press, Berkeley, CA.
+
+1977. The predictive validity ofreproductive in-
+
+RYDER, NORMAN B. 1973. Recent trends and group
+
+tentions. Demography 14:431-453.
+
+differences in fertility, p. 57-69. In Charles F. WESTOFF, CHARLES F., and E. F. JONES. 1979. The end
+
+Westoff (ed.), Toward the end of growth: Popu-
+
+of "Catholic" fertility. Demography 16:209-217.
+
+lation in America. Prentice Hall, Englewood WESTOFF, CHARLES F., ROBERT G. POTTER, and
+
+Cliffs, NJ.
+
+PHILIP C. SAGI. 1963. Thethird child: Astudy in
+
+SANDER, WILLIAM. 1993. Catholicism and marriage
+
+the prediction of fertility. Princeton Univ. Press,
+
+in the United States. Demography 30:373-384.
+
+Princeton, NJ.
+
+SCANZONI, JOHN. 1976. Sex role changes and influ- WHITE, LYNN K., and ALAN BOOTH. 1985. The qual-
+
+ences onbirth intentions. J. Marr. Fam. 38:43-58.
+
+ity and stability of remarriages: The role of
+
+SCHOEN, ROBERT, NAN M. ASTONE, YOUNG J. KIM,
+
+stepchildren. Amer. Sociol. Rev. 50:689-698.
+
+CONSTANCE A. NATHANSON, and JASON M. WILLIAMSON, N. E. 1976. Sons or daughters: A
+
+FIELDS. 1997. Paper presented at the annual
+
+cross-cultural survey of parental preferences.
+
+meetings of the Population Association of
+
+Sage, Beverly Hills,CA.
+
+America, Washington,DC.
+
+WRIGHT, ROBERT E., JOHN F. ERMISCH, P. R. AN-
+
+SLOANE, DOUGLAS M., and CHE-FU LEE. 1983. Sex
+
+DREW HINDE, and HEATHER E. JOSHI. 1988. The
+
+of previous children and intentions for further
+
+third birth in Great Britain. J. Biosoc. Sci.
+
+births inthe United States, 1965-1976. Demog-
+
+20:489-496.
+
+raphy 20:353-367.
+
+Wu, ZHENG, and T. R. BALAKRISHNAN. 1994. Co-
+
+THOMSON, ELIZABETH, and JAN M. HOEM. 1996.
+
+habitation after marital dissolution in Canada. J.
+
+Couple childbearing plans and births in Sweden.
+
+Marr. Fam. 56:723-734.
+
+Paper presented at the annual meetings of the
+
+Population Association of America, New Or-
+
+leans,LA.
+
+

@@ -1,0 +1,360 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+On the apparent subfecundity of nonfamily planners
+Jeanne Clare Ridley , Mindel C. Sheps , Joan W. Lingner & Jane A. Menken
+To cite this article: Jeanne Clare Ridley , Mindel C. Sheps , Joan W. Lingner & Jane A. Menken (1969) On the apparent subfecundity of nonfamily planners, Social Biology, 16:1, 24-28, DOI: 10.1080/19485565.1969.9987796 To link to this article: http://dx.doi.org/10.1080/19485565.1969.9987796
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 2
+View related articles
+Citing articles: 8 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:53
+
+On the Apparent Subfecundity of Non-Family Planners
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+Jeanne Clare Ridley, Mindel C. Sheps, Joan W. Lingner, and Jane A. Menken*
+
+Studies of differential natality within In order to study the nature of natality
+
+populations have indicated that women who differentials that might be produced by
+
+adopt family planning typically have a his- factors other than subfecundity, relatively
+
+tory of higher natality than a comparable simple experiments were performed using a
+
+group of non-family planners. Such find- simulation model, REPSIM-A (Ridley and
+
+ings have usually been explained by postu- Sheps, 1966). Chance variation in the
+
+lating a higher incidence of sterility and sub- components of birth intervals, operating
+
+fecundity among nonplanners (Campbell, through fecundability (the monthly proba-
+
+1965; Stycos and Back, 1964).
+
+bility of conception), through the probabili-
+
+It is possible, however, that other factors ty of fetal loss, and through the durations of
+
+also affect the natality of non-family plan- pregnancy and of the postpartum nonsus-
+
+ners. In many societies, women do not use ceptible periods, is a basic feature of the
+
+contraceptives until they have achieved their desired family size. Consequently, women who experience a combination of circumstances favorable to attaining their desired family size are more likely to adopt contraceptive practices and to use them effectively. On the other hand, failure to have the number of children desired and
+
+model. For example, even if all women have the same probability of fetal loss, some women through chance alone will have a large number of fetal deaths and thus longer intervals. Variation in the duration of exposure to the risk of childbirth was introduced by varying the age at marriage or at sterility.
+
+hence failure to become a family planner may be due to two kinds of factors that affect the reproductive process: those determining the components of the intervals
+
+MODEL AND EXPERIMENTS
+REPSIM-A simulates the detailed reproductive history of a hypothetical cohort of
+
+between births (Sheps and Perrin, 1964) women. The model provides for a woman's
+
+and those that influence the duration of marrying, dying, becoming sterile, becoming
+
+exposure to the risk of conception.
+
+pregnant (with varying outcomes of preg-
+
+* The first and fourth authors are members of the International Institute for the Study of Human Reproduction and on the faculty of the School of Public Health and Administrative Medicine, Columbia University; the second author is on the faculty of the School of Public Health, University of North Carolina; the third author is in the Group in Demography at the University of Pennsylvania.
+
+nancy), and becoming a family planner; it also provides for the dissolution of marriage by widowhood or divorce. The probabilities of these events may vary with age, marital status, and, in some instances, with parity. The time of occurrence of any event is de-
+
+24
+
+Vol. 16, No. 1
+
+Subfecundity and Non-Family Planners
+
+25
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+termined by selecting a random number. married women, we did not include divorce,
+
+With the exception of family planning, the widowhood, or mortality.
+
+model has been described in detail elsewhere Further, since the object of the experi-
+
+(Ridley and Sheps, 1966).
+
+ments was to study the effects of family
+
+In the model, a woman is defined as a limitation, it was assumed that all women
+
+family planner once she uses a contraceptive wanted to prevent further births once the
+
+method for spacing or limiting the number desired family size was achieved. Conse-
+
+of births. A woman may become a family quently, at that point, a woman became a
+
+planner at the beginning of her first marital family planner and used contraceptives
+
+union or after any live birth, the probabilities varying with parity. The effect of becoming a family planner is to reduce natural fecundability by the postulated level of contraceptive effectiveness, which may vary
+
+continuously thereafter. Hence, no distribution of spacing preferences was postulated. The desired number of births had a mean of 3.7 and a standard deviation of 0.9, with the distribution given in Table 1.
+
+with parity. Other input includes distributions of the number of children desired and preferred spacing patterns. Provision for preferred spacing before a woman attains her desired family size is made through specifying a distribution of the duration of contraceptive use.
+Since data on the differential natality of planners and nonplanners are typically
+
+TABLE 1
+
+DISTRIBUTION OF DESIRED NUM-
+
+BER OF LIVE BIRTHS
+
+Number of
+Live Births, n
+3 4 S 6 7
+
+Per Cent De-
+siring « Births
+50.0 30.0 16.0 3.6
+0.4
+
+obtained in surveys of married women, classified by age as well as planning status (i.e., ever-planners or never-planners up to the time of the survey), we attempted to simulate such data. The present computer program tabulates women by family-planning status only at the end of the simulated history. Therefore, the reproductive history of each cohort, consisting of 1,000 women, was simulated independently four times, starting at age 15 but ending at different ages. Results at ages 25, 30, 35, and 40 were obtained.
+To demonstrate more clearly the effects of varying the experimental factors, we
+
+Contraceptive effectiveness increased from 50% at parity three to 90% at parity seven and above. As will be seen in the simulated data, this relatively low effectiveness resulted in an average achieved parity appreciably higher than the average desired family size.
+A factorial design was used, each of two factors (age at marriage and sterility) being assumed to operate independently at two levels. The variations yielded four different types of cohorts which are designated by number. For two cohort types, 590 and 592, age at marriage was a constant (exact age 20).2 For the remaining two, 591 and
+
+decided to sacrifice attempts at realism by 594, age at marriage was variable with a
+
+keeping all other factors constant. Thus, for each simulated cohort, identical assumptions were made regarding the level of fetal loss, infant mortality, and lengths of the nonsusceptible periods associated with pregnancy.1 Natural fecundability was 0.10 for all women at all ages. Since the aim was to simulate survey-type data on surviving
+
+1 The relevant distributions were: probability of a fetal death, 20%; an infant mortality rate of 170; mean ± standard deviation of the duration of pregnancy for a live birth, 9.1 ± 0.6 months, for a fetal death, 2.5 ± 1.6 months, of the postpartum nonsusceptible period following a live birth, 20.9 ± 11.7 months, and following a fetal death, 2.5 ± 1.6 months.
+2 In this paper we refer to cohorts by their computer-run numbers since some confusion to readers has arisen from the use of other labels.
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+26
+
+Ridley, Sheps, Lingner, and Menken
+
+Social Biology
+
+mean of 20.0 years and a standard deviation of 3.0 years. In both cases, all women married. In two of the cohort types, 590 and 591, no sterility occurred before age 40. In the other two, 592 and 594, age at onset of sterility was variable (Henry, 1935). The expected percentages of married and of sterile women in the cohort types where these factors were varied are given in Table 2.
+TABLE 2
+EXPECTED CUMULATIVE PERCENTAGES OF MARRIED AND OF STERILE WOMEN BY AGE*
+
+Exact Age 15.
+20 25. 30 35 40
+
+Married
+0.0
+65.5 97.5 100.0 100.0 100.0
+
+Sterile
+0.5
+3.0 6.6 11.5 19.1 32.2
+
+* Marriage and sterility are independent of each other.
+
+RESULTS
+Table 3 presents results for the four simulated cohorts at age 35. In each cohort, nonplanners exhibit lower natality than planners. The natality of planners remains almost constant between cohorts, while the natality of nonplanners fluctuates in response to the experimental conditions. Consequently, the magnitude of the differentials between planners and nonplanners depends on how the experimental factors affect the natality of nonplanners.
+Before becoming planners, all women in Cohort 590 are exposed to the same probabilities of the various events. All women marry at exact age 20 and remain fecund throughout the period of observation. All have the same constant fecundability, identical probabilities of fetal loss and infant mortality, and identical distributions of the nonsusceptible periods associated with pregnancy. Thus, the only variation between planners and nonplanners is in the chance
+
+TABLE 3
+NATALITY OF NONPLANNERS AND PLANNERS IN SIMULATED COHORTS AT AGE 35
+
+Marriage variation Sterility
+
+590
+0 0
+
+COHORT TYPE
+591
+Yes 0
+
+592
+0 Yes
+
+594
+Yes Yes
+
+Natality Statistics
+
+Non-
+
+Non-
+
+Non-
+
+Non-
+
+planners Planners planners Planners planners Planners planners Planners
+
+Number of women Mean number of live
+births Standard deviation.... Coefficient of variation. Cumulative parity dis-
+tribution:* 0
+1
+2 3 4 5
+6
+7 8
+
+311 3.6 0.9 25
+0.0 0.6 9.9 44.7 86.8 99.4 100.0
+
+689 4.2 0.8 19
+0.0 0.0 0.0 19.0 66.3 95.8 99.9 100.0
+
+* Per cent with n or fewer live births.
+
+328 3.2 1.0 31
+0.0 2.8 24.4 68.6 89.6 99.4 100.0
+
+672
+4.4 0.9 20
+0.0 0.0 00 15.6 56 1 89.7 99.1 100.0
+
+421 2.9 1.4 48
+10.9 16.6 33.0 64.4 90 5 99.8 100.0
+
+579
+4.2 0.8 19
+0.0 0.0 0.0 19.3 65.9 94.6 100.0
+
+428
+2.8 1.3 46
+9.1 15.6 36.2 71.3 93.7 99.5 100.0
+
+572
+4.4 0.9 20
+0.0 0.0 0.0 16.9 57.1 90.7 99.1 99.8 100.0
+
+Vol. 16, No. 1
+
+Subfecundity and Non-Family Planners
+
+27
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+factors affecting the components of the intervals between births, yet, planners, despite the use of contraceptives, have more live births--an average of 4.2 as compared with 3.6 for nonplanners. The explanation for this differential is implicit in the cumulative parity distributions. For example, 9.9% of nonplanners have three or fewer births, while planners all have at least four births. Some women fail to achieve their desired family size and hence do not become planners. Stated another way, women who through the operation of chance alone, attain high parities are selected as family planners.
+When a variable age at marriage is introduced, as in Cohort 591, the natality differential between planners and nonplanners is double that observed when chance alone operates (1.2 vs. 0.6). The planners here have 4.4 live births on the average, while the nonplanners have only 3.2. Clearly, the planners are now selected on the basis of having a longer marital duration than in Cohort 590, while the nonplanners have a shorter marital duration.
+At this simulated age of 35 years, the natality of planners in a cohort with sterility (592) is the same as in Cohort 590. Sterility does, however, reduce the natality of nonplanners to 2.9 births. When sterility and a variable age at marriage are combined (594), planners again have an average of 4.4 births as in Cohort 591, while the average is decreased to 2.8 for nonplanners. The interaction between these two factors to some degree offsets the pure effects of each.
+The experimental factors also strikingly affect variability in the number of births. For each cohort, planners have a standard deviation of 0.8 or 0.9, giving a coefficient of variation of 19% to 20%. In contrast, the natality of nonplanners is more variable in every cohort. The variation increases with the introduction of a variable age at marriage, and more markedly when sterility is introduced. This is due to the increased incidence of parities of two or fewer among
+
+nonplanners, as seen in the cumulative parity distribution.
+At age 40, the experimental factors also affect the cumulative parity distributions of planners (data not shown). Thus, 25% of planners have four or fewer live births in Cohort 590, but the percentage increases to 29% in Cohort 591, to 3 1 % in Cohort 592, and to 35% in Cohort 594. However, the
+TABLE 4
+NUMBER OF PLANNERS IN EACH COHORT TYPE BY EXACT AGES
+
+590
+
+Marriage variation
+Sterility
+
+0 0
+
+COHORT TYPE
+591 592
+Yes 0 0 Yes
+
+594
+Yes Yes
+
+Age in years: 25 30 35 40
+
+2 30
+
+4 22
+
+223 305 204 271
+
+689 672 579 572
+
+918 891 785 736
+
+mean number of live births is still the same in all cohorts (4.9 or 5.0).
+It is of interest to note that the relative homogeneity of natality behavior observed among family planners in these simulations has also been observed in real data. While our results reflect the low variation in desired family size assumed in these experiments, they do suggest that in the presence of relatively invariant desired family size and effective contraceptive practice, little variation is to be expected in the natality of family planners.
+Another aspect of the selection of planners is illustrated by the data in Table 4, which shows the number of women in each cohort type who are planners at specified ages. Each of the experimental factors depresses to a greater or lesser extent the number of women in the cohorts who have become planners by age 40. While a variable age at marriage (Cohort 591) increases the number that have become planners by age 25 and even more so by age 30, slight de-
+
+28
+
+Ridley, Sheps, Lingner, and Menken
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+creases are seen at ages 35 and 40 years. differential of almost 2.0 births at age 25,
+
+Thus, the effects of earlier marriage are the result of a number of early marriages.
+
+offset by the women who marry later and This differential gradually declines with
+
+never adopt contraceptive practice.
+
+increasing age but remains sizable, for
+
+On the other hand, sterility markedly example, 1.0 at age 40. In contrast, the
+
+reduces thenumber of women finally adopt- addition of sterility (Cohort 592) produces
+
+ing contraceptive practice (Cohort 592), an a differential of 1.1 births at age 30, but this
+
+effect also seen at earlier ages, but to a lesser differential increases with age to 2.4 at age
+
+degree. Furthermore, when sterility is com- 40. When the three factors are combined
+
+bined with a variable age at marriage (Co- (Cohort 594), thedifferences aremore irreg-
+
+hort 594), it tends to counteract the influ- ular and at the various ages theinfluence of
+
+ence of early marriage.
+
+each factor is more difficult to assess.
+
+TABLE 5
+DIFFERENCES I N MEAN NATALITYOF PLANNERS AND NONPLANNERS BY EXACT AGES
+
+Marriage variaSterility
+
+590
+0 0
+
+COHOST TYPE
+591 592
+Yes 0 0 Yes
+
+594
+Yes Yes
+
+Age in years:
+25. 30 35. 40
+
+* 1.9 * 1.8 . 0.8 1.3 1.1 1.4
+0.6 1.2 1.3 1.6 0.6 1.0 2.4 2.3
+
+· Fewer than 20 planners in cohort.
+
+The effects of these factors on the cohort types previously discussed are further illustrated in Table 5, which presents the natality differentials obtained at different ages. Theeffect of chance variation in birth intervals alone (Cohort 590) produces a differential of 0.8 in the mean natality of planners and nonplanners at age 30. This differential is reduced (by a fourth) at the older ages. The addition of a variable age at marriage (Cohort 591) produces a large
+
+CONCLUSIONS
+Our results support the hypothesis that sterility is not the only factor contributing to thelow natality of nonplanners. Any factor, including chance variation, which acts to depress the natality of some women, has a role in theselection of family plannersand hence in the natality difference between planners and nonplanners. With the rather simple assumptions used here, the factors studied have effects at each simulated age, but their relative importance changes with age. Therefore, it is to be expected that in survey data differentials might be produced at any age by a variety of causes. Thus, it may be erroneous to attribute observed differentials entirely to the sterility or subfecundity of nonplanners.
+ACKNOWLEDGMENTS
+Joseph C. Ott and Susan F. Pastroff carried out the difficult task of programming the REPSIM-A model. Florence Baseman, Pearl Perry, andElaine Shore assisted in the preparation of the data.
+This study was supported in part by the National Institute of Child Health andHuman Development under grants HD-01585 and HD-02292, and by grants from theFord Foundation.
+
+REFERENCES
+
+CAMPBELL, A. A. 1965. Discussion reported in Milbank Mem. Fund Quart. 43 (4, Part 2): 62-64.
+HENRY, L. 1953. Fécondité des manages: nouvelle méthode des mesure. Presses Universitaires de France, Paris.
+RIDLEY, J. C., and M. C. SHEPS. 1966. An analytic
+simulation model of human reproduction with
+
+demographic and biological components. Pop. Stud. 19:297-310.
+SHEPS, M. C., and E. B. PERRIN. 1964. The distribu-
+tion of birth intervals under a class of stochastic fertility models. PopStud. 17:321-331.
+STYCOS, J. M., and K. W. BACK. 1964. The control
+of human fertility in Jamaica. Cornell Univ. Press, Ithaca.
+
+

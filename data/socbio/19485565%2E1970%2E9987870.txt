@@ -1,0 +1,256 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Empirical risks in genetic counseling
+Newton FreireMaia
+To cite this article: Newton FreireMaia (1970) Empirical risks in genetic counseling, Social Biology, 17:3, 207-212, DOI: 10.1080/19485565.1970.9987870 To link to this article: http://dx.doi.org/10.1080/19485565.1970.9987870
+Published online: 23 Aug 2010. Submit your article to this journal Article views: 6 View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:53
+
+Empirical Risks in Genetic Counseling
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+Newton Freire-Maia
+Laboratório de Genética Humana Universidade Federal do Paraná Curitiba, Paraná, Brazil
+
+The risk of any pregnancy resulting in an affected child depends on a number of environmental and genetic variables. It depends, for instance, on the type of marriage (whether or not consanguineous); the family history of malformations or anomalies; the posture and presentation of the fetus; the season and conditions of the labor; the occurrence or nonoccurrence of polyhydramnios or oligohydramnios; the occurrence of certain diseases, the use of certain drugs, and exposure to ionizing radiation in the first trimester of pregnancy; parental age; and parity.
+MAGNITUDES AND CATEGORIES OF RISKS
+The table of risks encompasses a range that goes from close to zero--for example, a large number of the congenital skeletal limb deficiencies--to close to 1, as when both parents are homozygous for an autosomal recessive gene. However, these extreme situations represent a minority in the total number of consultations at a genetic counseling service. Many of the risks are found at the levels of | (autosomal dominant genes) and \ (autosomal recessive genes); and risks at other levels (2%, 4%, 10%, 15%, etc.) may also be very important in counseling services.
+There are two different categories of
+
+risks: (a) those based on knowledge of the etiology, and (b) empirical ones. Those in the first category are generally referred to as "genetic risks." Malformations due to exogenous factors such as toxoplasmosis, rubella, diabetes, and thalidomide may involve risks that are partly based on etiological considerations. These risks may be called "semi-empirical."
+Empirical risks are figures entirely based on previous experience of clinically similar situations in samples of families, but without knowledge of the etiological mechanisms involved. Therefore, they simply represent a pragmatic statement of the probability of an event, based on a purely statistical interpretation of a series of data. They do not predict the likelihood of the occurrence of a particular pathological condition as derived from a general theory (as the "genetic" do) but on the basis of pure "empiricism."
+ESTIMATES OF RISKS
+The problem of assessing risks based on etiology ("genetic risks") requires the compiling of pedigrees and their analysis according to genetic theory. The method of collecting these family data (ascertainment or selection) will determine the necessity for correction as well as the type of correction needed. When selection is "complete," no
+
+207
+
+208
+
+Freire-Maia
+
+Social Biology
+
+correction is needed; when it is "incomplete," the type of correction will depend on its being truncate, single, or multiple, according to the terminology adopted by Morton (1959). The treatment of the data will be rather complex in a number of different situations as when clinically similar sporadic cases due to fresh mutation, phenocopy, extra-marital conception, or constellation of polygenes occur together with those due to oligogenes present in the couple; when penetrance is not complete; when the ascertainment probability varies from one family to another; when parity and parental age play a role on the recurrence risk; or when contraception occurs preferentially after the birth of affected children (Morton, 1959).
+These factors also affect the estimates of empirical risks, either decreasing or increas-
+
+according to the number of affected individuals already born in the family. In the absence of complicating factors, empirical risks may be estimated (with the exception of those for sibs) simply by dividing the number of affected relatives by the total of these relatives. If, for instance, in a sample of families, there are 4 affected individuals in a total of 200 first cousins of probands, the empirical risk equals 2% + 1%. As regards recurrence for sibs, different simple approaches may be used (see Reed, 1961). As an example, taking the sibship in Figure 1, where the proband is indicated by an arrow, these approaches will be summarized with the indication in parenthesis of how it would be counted:
+1. Recurrence after the first affected child. This includes only the sibs born after the
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+Fia. 1
+
+ing them. On the basis of current estimates of empirical risks, there is the assumption, proved wrong in some instances, that the risk is uniform in all the families under investigation. In reality, what may occur is that we are dealing with two groups of families: the so-called "high-risk" and "lowrisk" ones. An analysis of these families, as if they formed a homogeneous group, would lead to empirical risk figures of relatively little value, since these figures would be underestimates for the high-risk families and overestimates for the low-risk ones. However, modern segregation analysis (see Morton, 1962, for a review) is sufficiently exact to discriminate between the two types of family and to estimate their proportions in the population.
+EMPIRICAL RISKS
+Empirical risks may be classified according to the relatives to whom they apply and
+
+first affected (2/7). This procedure corresponds to "simple counting after first appearance" or method "based on the children after the first recessive" (Li, 1964,1965). It may only be used in cases of truncate selection. Li suggests the use of a weighted average between the estimate so obtained and that obtained by the "method of first appearance time" also suggested by him (Li, 1964, 1965).
+2. Risk for sibs. This includes all sibs, with the exception of one affected in each sibship. This estimate corresponds to the segregation proportion as estimated with Haldane's a posteriori correction that is specific for the cases of single selection (2/11).
+3. Recurrence after each affected child. All the children subsequent to each affected one are included. In a sibship with three affected children, for instance, the children between the first and the second (included) are counted once; those between the second and
+
+Vol. 17, No. 3
+
+Genetic Counseling
+
+209
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+the third (included) are counted twice; and those after the third are counted three times. Therefore, this figure may be accepted as an index of recurrence after any affected one (3/13). Since in counseling services there is always the need to know the probability of the birth of an affected child after the birth of one or more affected children, the present approach may seem to have little, if any, application. It is, however, only an artifice to obtain, from biased data, a good estimate of the recurrence risk (see the discussion below).
+4. Recurrence after the probands. I n each sibship, this includes only the children born after the probands, excluding therefore both normal and affected sibs born before. Thus, this approach disregards all the sibs born before the probands (0/1).
+5. Risks for the sibs of each affected child. Similar to No. 3, but also including, in each case, the children born before. This estimate corresponds to the segregation proportion as estimated with the correction by Weinberg's sib method that is specific for the cases with truncate selection (6/33).
+To these five, as described by Reed (1961), we would like to add the following.
+6. Risk for the sibs of the probands. This corresponds to approach No. 2 in cases of single selection (each sibship ·with only one proband) and to approach No, 5 in cases of truncate selection (in each sibship, the number of probands equals the number of affected sibs). When we face, however, a situation of multiple selection, this approach ("Weinberg's proband method") leads to a different estimate. In the present example, we would have to count 2/11, as in No. 2.
+7. Precurrence (Marcallo, Freire-Maia, and Azevedo, 1967). In the cases of sibships ascertained through recent admissions to children's hospital or of anomalies with late onset, the recurrence risk may be better estimated through the precurrence approach, that is, the frequency of affected sibs born before the last affected one (2/10).
+
+This list clearly shows that different methods may lead to completely different estimates of risks and that the correct method to be used in each situation will depend on the way the data have been obtained. For example: for samples ascertained through single selection, method No. 2 is the best; with truncate selection, method No. 5 will be the appropriate one; if the probands were ascertained through recent admissions in children's hospitals, method No. 7 may prove to be better.
+In the situations in which there is a marked parity and/or a maternal-age effect, the probability of the birth of a second, a third, etc. affected child in a sibship is not to be estimated on the basis of the classical corrections, such as Nos. 2, 5 and 6, that do not take account of these effects. In a sample ascertained through truncate selection but showing a parity effect (i.e., a tendency for affected children to be born in the last pregnancies), method No. 3 may prove to be better than all the others. However, if single selection has been used and the tendency is the same, then method No. 1 seems to be preferable. When samples are obtained in maternities, through recently born probands, these tend naturally to be the last in the respective sibships. Since this situation resembles that obtained through recent admissions to children's hospitals, we would suggest the use of precurrence (method No.
+7). Assuming that sibships with two or more
+affected children are not overrepresented in the sample (a house-to-house survey would give us an unbiased sample), that contraception is not an important factor after the birth of affected children, and that parity and parental age do not significantly affect the probability of birth of affected children, these different approaches (except No. 2) would lead to reasonably similar estimates. They have been applied to a series of "white" Brazilian families with these requisites and with cases of harelip with and with-
+
+210
+
+Freire-Maia
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+out cleft palate (Arce-Gomez et al., 1968) and led to the following respective estimates: 2.7%, 1.4%, 2.5%, 2.5%, 2.5%, 2.5% and 2.2%. Applied to another series of -white families without these requisites (Arce-Gomez et al., 1968), the estimates were as follows: 12.8%, 3.4%, 12.2%, 0, 6.1%, 3.4% and 4.2%). On the basis of the characteristics of the two series, the recurrence risk for sibs, in "pure" Caucasian families, would probably be higher than 2.5% and lower than 6.1%, say roughly 4%, i.e., a figure similar to the precurrence in the second series, exactly where precurrence could give a good estimate (4.2%).
+Sometimes, it is possible to subdivide a sample of conditions known to be highly heterogeneous into a series of subsamples where heterogeneity is less intense on the basis of clinical data alone or with the help of laboratory information. This has been done, for instance, in a sample of mentally retarded probands in whose sibships the overall recurrence risk was found to be around 2%. It was verified that in the five subsamples in which the total sample was subdivided, the estimated risks were respectively 0, 0, 2.5%, 4% and 6% (Freire-Maia et al., 1970; see also Braga et al.). The first one was classified as "cases probably due to genetic mechanisms of low average recurrence" (for instance, mongolism); the second, as "cases probably due to exogenous mechanisms"; the third was the total with the exclusion of the first group; the fourth was the total with the exclusion of the second; and the fifth was the total with the exclusion of both the first and second groups. In other situations, the clinical data are of little or absolutely no importance, but analysis of the pedigree may permit a reasonable empirical separation between high-risk and low-risk situations. This was done for congenital skeletal limb deficiencies, where the large majority of cases belongs to the lowrisk category, but where a minority is due
+
+to genetic mechanisms leading either to "moderate" or to "high" risks (FreireMaia and Freire-Maia, 1967; Freire-Maia and Azevedo, 1968; Fonseca and FreireMaia, 1969, 1970; review in Freire-Maia, 1969a).
+In some cases, such as in congenital pyloric stenosis, the recurrence risk varies according to the sex of the first affected sib as well as with the sex of the individual whose risk one wants to measure. This sex effect introduces a new complication into the estimates. According to Carter (1964), this risk varies from 2.6% (for daughters and sisters of affected males) up to 18.2% (for brothers and sons of affected females). Congenital pyloric stenosis seems to be due to multifactorial inheritance, the polygenes involved in the process having different thresholds of manifestation in both sexes (Carter, 1961, 1964).
+EMPIRICAL RISKS AND COUNSELING
+Owing to many possibly biasing factors, to the fact that empirical risks are generally only averages of different risks operating in different families and to the possibility of environmental differentials acting on different populations such figures must be used with great caution. Persons seeking consultation must therefore be warned about the precarious information given by these risk estimates and told clearly that they describe the average situation in a sample of families rather than the situation in their own family.
+The formulation of the advice must therefore be different according to whether we are using an empirical risk figure or a probability based on etiology. We may say to the normal consanguineous parents of a child affected by an anomaly clearly due to an autosomal recessive gene that the probability of the next child being equally affected is 1/4, but it is not advisable to tell the normal parents of a child with cleft lip that the probability of the birth, of an equally af-
+
+Vol. 17, No. 3
+
+Genetic Counseling
+
+211
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+fected child in the next pregnancy is, say, 4%. In this last case, it is always necessary to state that this figure is an empirical one, that it is simply a corrected mean in a sample of families, and that in the present case the risk may be higher or lower.
+The same applies to empirical risk figures for morbidity and precocious mortality in the offspring of consanguineous marriages. If, in these cases, we use some assumptions to estimate the risks (for instance, those of the theory of Morton, Crow, and Muller, 1956), it is also necessary to inform the parents that the counseling is being based on theoretical considerations. In this area, we must also be especially cautious because of the well-known action of extraneous concomitant variables (see Schull and Neel, 1965; Krieger, 1966; Freire-Maia and Azevedo, 1967; Freire-Maia, Barrai, and Krieger, 1970; Krieger, Freire-Maia, and Azevedo, 1970), both on the outbred and inbred samples being used to estimate the risk, either increasing or decreasing the real inbreeding effect. When the consanguineous subsample belongs to an average socioeconomic level lower than that of the nonconsanguineous (control) subsample, the number of lethal equivalents per gamete (B) is expected to appear inflated since adverse environmental factors are acting in the same direction as the inbreeding effect; in the opposite situation, we may simply have an underestimate of B. As regards abnormal equivalents, the biasing effect may have a different direction, since many genes that would express themselves as agents of precocious mortality in the low socioeconomic levels (and then used to estimate lethal equivalents) will be expressed as anomalies in the high socioeconomic levels (and then used to estimate abnormal equivalents).1
+Finally, it must be pointed out that the use of an empirical risk figure does not imply
+1 For an analysis of this problem, see Mi et al., 1965, and Freire-Maia, 1969b.
+
+that some endogenous, although unknown, agent is being exclusively invoked. Empirical risks may also be calculated for infectious diseases, in which, although "inborn" liabilities are known to exist, a microbial agent is the etiologically "important" factor (see Beiguelman, 1967, for leprosy), as well as for situations in which unknown environmental determinants seem to act side by side with a genetic predisposition. This last situation seems to be that of anencephaly and spina bifida, whose recurrence risk for sibs seems to change with its incidence in the general population (Yen and MacMahon, 1968). Another probable example is that of cleft lip and palate in whose etiology experimental data show the importance of teratogens (folic-acid antagonists, for instance). On the other hand, clinical observations suggest that folic-acid deficiency is relatively common in pregnancy, there being a suggestion that some anticonvulsant drugs, known to act as if antagonizing folic-acid, may be responsible for palatolabial defects in the offspring of epileptic mothers (Meadow, 1968). Empirical risks for congenital abnormalities may be higher in the offspring of women with different ailments, in consequence either of their own disease--the syndrome of maternal diabetes, for instance (Lenz and Maier, 1964; McCracken, 1965; and Passarge, 1965), or of drugs such as the above-mentioned possible effect of anticonvulsants and the thalidomide syndrome. All these investigations show that not only genetic anomalies or congenital malformations, but also chronic diseases and drugs used during pregnancy must be exhaustively investigated before giving advice with an appropriate empirical risk figure.
+In spite of the concept of probability being generally understood by the majority of the consultants, it is necessary to try to increase its understanding by introducing the idea of the probability of the nonoccurrence of the bad event. The situation will be
+
+212
+
+Freire-Maia
+
+Social Biology
+
+much more clearly understood, for instance, if we say in relation to a 10% recurrence risk for a given defect that the probability of its nonoccurrence will be nine times larger, or 90%. The intention of providing such information is not to minimize the real risk, but only to make it clearly understood.
+
+ACKNOWLEDGMENTS
+I am very grateful toDr. H. Krieger for reading the manuscript.
+This paper was written when our research projects were sponsored by the Rockefeller Foundation, the National Research Council of Brazil, the Calouste Gulbenkian Foundation, the Research Council of the Federal University of Parana and WHO.
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+REFERENCES
+
+ARCE, B., J. B. C. AZEVEDO, N. FREIRE-MAIA, and ELEIDI A. CHAUTARD. 1967. Cleft lip andpalate.
+
+ern Brazil. Ph.D.thesis, University of Hawaii, Honolulu.
+
+Lancet 2:1364, and personal communication.
+
+KRIEGER, H., N. FREIRE-MAIA, and J. B. C.
+
+BEIGUELMAN, B. 1967. Leprosy and genetics. A re- AZEVEDO. 1970. Theinbreeding load in Brazilian
+
+view of past research with remarks concerning future investigations. Bull. Wld. Hlth. Org.
+
+whites and Negroes: Further data and a reanalysis. Amer. J. Hum. Genet. Inpress.
+
+37:461-476.
+
+LENZ, W., and W. MAIER. 1964. Congenital mal-
+
+BEAGA, J. C. B., N. FREIRE-MAIA, HAIDÉE ABDAL-
+
+formations and maternal diabetes. Lancet 2:
+
+LA, and N. TARTUCE. Estudos clinicogenéticos 1124-1125.
+
+em uma amostra de retardados mentais. I. Li, C. C. 1964. Estimate of recessive proportionby
+
+Aspectos clínicos.Ms.
+
+first appearance time. Ann. Human Genet.
+
+CARTER, C. O. 1958. The inheritance of congenital 28:177-179.
+
+pyloric stenosis. Brit. Med. Bull. 17:251-254. Li, C.C. 1965. Segregation of the Ellis-van Creveld
+
+. 1964. Thegenetics of common malforma- Syndrome as analysed by the first appearance
+
+tions, p. 306-313. Second Int. Conf. on Cong. method. Amer. J. Human Genet. 17:343-351.
+
+Malform., Int. Med. Congr., Ltd., NewYork. MARÇALLO, F. A., N. FREIRE-MAIA, and J. B. C.
+
+FONSECA, LUCIA G., and N. FREIRE-MAIA. 1969.
+
+AZEVEDO. 1967.Recurrence and precurrence.
+
+Novos dados sóbre deficièncias esqueléticasdos Lancet 2:566.
+
+membros. Ciên. e Cult. 21:279-280.
+
+MCCRACKEN, J. S. 1965.Absence offoetal femur and
+
+FONSECA, LUCIA G., and N. FREIRE-MAIA. 1970.
+
+maternal pre-diabetes. Lancet 1:1274-1275.
+
+Congenital malformations of the limbs. Lancet MEADOW, S. R. 1968. Anticonvulsant drugs and
+
+1:90-91.
+
+congenital abnormalities. Lancet 2:1296.
+
+FREIRE-MAIA, N. 1969a. Congenital skeletal limb Mi, M. P., ELIANE AZEVEDO, H. KRIEGER, and N. E.
+
+deficiencies--A general view, p. 7-13. In Daniel MORTON. 1965. Malformations in Northeastern
+
+Bergsma (ed.), First Conf. on the ClinicalDe- Brazil. Acta Genet. 15:177-189.
+
+lineation ofBirth Defects. Part HI. The National MORTON, N. E. 1959. Genetic tests under incom-
+
+Foundation, New York.
+
+plete ascertainment. Amer. J. Hum. Genet.
+
+. 1969b. Consanguineous marriages and in- 11:1-6.
+
+breeding load. In F. M. Salzano (ed.), Proc.
+
+. 1962. Segregation and linkage, p. 17-52. In
+
+Conf. Ongoing Evolution Latin-Amer. Popul. In W. J. Burdette (ed.), Methodology in human
+
+press.
+
+genetics. Holden-Day, Inc.,SanFrancisco.
+
+FREIRE-MAIA, N., and J. B. C. AZEVEDO. 1967. MORTON, N. E., J. F. CROW, and H. J. MULLER.
+
+Extraneous variation in inbreeding studies. 1956. An estimate of themutational damage in
+
+Amer. J. Hum. Genet. 19:686-689.
+
+man from data on consanguineous marriages.
+
+. 1968.Skeletal limb deficiencies. Lancet Proc. Natl. Acad. Sci. 42:855-863.
+
+2:1296.
+
+PASSARGE, E. 1965. Congenital malformations and
+
+FREIRE-MAIA, N., J. C. B. BRAGA, HAIDÉE ABDAL-
+
+maternal diabetes. Lancet 1:324-325.
+
+LA, and NILZA TARTUCE. 1970.Mental retarda- REED, S. C. 1961. Counseling in medical genetics,
+
+tion: Risks of recurrence. Lancet. In press.
+
+p. 151-177. In L. GEDDA (ed.), Degenetica med-
+
+FREIRE-MAIA, N., and A. FREIRE-MAIA. 1967. Re-
+
+ica. Edizione Istituto Mendel, Rome.
+
+currence risks of bone aplasias andhypoplasiasof SCHULL, W. J., and J. V. NEEL. 1965. The effects of
+
+the extremities. Acta Genet. 17:418-421.
+
+inbreeding onJapanese children. Harper & Row,
+
+FREIRE-MAIA, N., I. BARRAI, and H. KRIEGER. 1969.
+
+New York.
+
+The capacity of estimates ofB/A to discriminate YEN, STELLA, and BRIAN MACMAHON. 1968. Genet-
+
+genetic loads. Ms.
+
+ics of anencephaly and spina bifida? Lancet
+
+KRIEGER, H. 1966. Inbreeding effects in Northeast- 2:623-626.
+
+

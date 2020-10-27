@@ -1,0 +1,723 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Birthweightspecific infant mortality risks for native Americans and whites, United States, 1960 and 1984
+Mark J. VanLandingham & Carol J. R. Hogue
+To cite this article: Mark J. VanLandingham & Carol J. R. Hogue (1995) Birthweightspecific infant mortality risks for native Americans and whites, United States, 1960 and 1984, Social Biology, 42:1-2, 83-94, DOI: 10.1080/19485565.1995.9988889 To link to this article: http://dx.doi.org/10.1080/19485565.1995.9988889
+Published online: 23 Aug 2010.
+Submit your article to this journal
+Article views: 2
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:46
+
+Birthweight-specific Infant Mortality Risks for Native Americans and Whites, United States, 1960 and 1984
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Mark J. VanLandingham and Carol J. R. Hogue
+Center for Studies in Demography and Ecology, Department of Sociology, University of Washington, Seattle, Washington 98195; and School of Public Health, Emory University, 1599 Clifton Road, Atlanta, Georgia, 30329
+
+ABSTRACT: We used NCHS natality and linked-birth/death certificate tapes to compare birthweight-specific neonatal and postneonatal mortality risks for Native Americans and whites in 1960 and in 1984. The birthweight distributions for the two groups were similar both years. Native American neonatal mortality risk dropped from 20.2 in 1960 to 5.2 in 1984, and the relative risk for Native Americans with respect to whites fell from 1.31 in 1960 to a nonsignificant difference in 1984. Postneonatal mortality risks for Native Americans fell from 27.5 in 1960 to 6.2 in 1984, with a drop in the relative risk from 5.2 to 2.1. Although the relative improvements for Native Americans were highest in postneonatal survival, Native Americans still had over twice the level of white postneonatal mortality. Birthweight was positively associated with survival for both groups, but the odds of Native American neonatal death were affected less by low and very low birthweights. For both groups, improvements in neonatal mortality were highest at the lower birthweights, while the gains in postneonatal survival benefitted normal and high birthweight infants most.
+
+Much of the research on infant mortality in the United States has emphasized the role of birthweight and race, and some studies have shown that the effects of birthweight vary across racial groups (Task Force on Black and Minority Health, 1986). In this study, we examine the role of birthweight on the improvement in infant mortality risks for Native Americans and whites between 1960 and 1984.
+Infant mortality risks improved dramatically for both Native Americans and whites during this time period. While much of the relative disadvantage of Native Americans for survival to Age 1 appears to have been eliminated by the early 1980's (Indian Health Service 1989), other work suggests that Native American infants still suffer relatively high risks of death during the postneonatal period (Task
+
+Force on Black and Minority Health, 1986; Honigfeld and Kaplan, 1987; VanLandingham et al., 1988).
+The gains in infant survival for both groups can be viewed as the result of two factors: improvements in birthweight distributions and improvements in the probabilities of survival within particular birthweight categories. Differential gains in either factor could account for the narrowing of the Native American/white infant mortality gap. This study uses both stratified and multivariate analysis to distinguish between these two components.
+The stratified analysis illustrates the racial differences in infant survival within particular birthweight categories, while the multivariate analysis provides a concise summation of the main and interactive effects of race, birthweight, and cohort. We limit our
+
+83
+
+84
+
+VanLandingham and Hogue
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+explanatory variables to these three factors to provide a parsimonious interpretation of infant mortality trends for these two populations and to highlight the interrelations among the three explanatory factors.
+Another advantage of this paper is the utilization of linked national birth and death certificate information to provide an aggregate view of infant survival for these two races. Other research has focused on subgroups of Native Americans, especially those living in IHS service areas or states with high concentrations of Native Americans. We examine the 1960 and 1984 cohorts because of the remarkable improvement in infant survival during this period and the availability of linked birth/ death dataseis.
+MATERIALS AND METHODS
+The data for this study come from national linked birth/death certificate registries provided by the National Center for Health Statistics. The 1960 natality tape includes 98.9 per cent of births occurring in the United States and 96.4 per cent of births in the "other" race category (National Center for Health Statistics, 1962). The 1984 natality tape includes 99.3 per cent of births occurring in the United States and 98.6 per cent of births in the "other" race category (National Center for Health Statistics, 1988). Of deaths to the 1960 cohort, 97.4 per cent were successfully linked to the corresponding birth certificate (National Center for Health Statistics, 1970), and 97.8 per cent of the deaths to the 1984 cohort were successfully linked to their corresponding birth certificates (Becerra et al., 1991).
+
+Race identification is extracted from the birth certificate information.1 A higher likelihood of identifying a child as Native American in 1984 is apparent, as there were nearly twice as many Native American births in 1984 as in I960.2 While general IHS benefits to Native Americans have not improved over the study period, the increasing tendency to identify one's infant as Native American may be due in part to harsh economic conditions in many states with large numbers of Native Americans during the early 1980's and to the fact that Native Americans can receive free medical care at IHS hospitals (IHS, personal communication, 10-23-90). Also, there were differences in the procedures used for the two cohorts to assign race for cases when racial background was unknown for both parents, probably resulting in a slightly greater number of Native American births classified in 1984 than in 1960 (National Center for Health Statistics, 1960; National Center for Health Statistics, 1988).
+The net effect of this changing likelihood of Native American identification on the study results is unclear. If relatively advantaged individuals are more likely to be identified as Native Americans in 1984 than in 1960, the actual improvements for Native Ameri-
+1The 1960 data provide more detailed breakdowns of Native Americans than do the 1984 data: We consider infants born in 1960 and coded as Indian, Aleut, and Eskimo to be Native American. Snipp (1986) advocates combining race and ancestry information to identify Native Americans, but our data only include information on race.
+2The increase in reported Native American births was not the result of increased fertility. Native American crude birth rates were 33 per cent lower in 1984 than they were in 1960 (IHS, 1989). Eschbach (1993) uses census data to show that the extent of this higher propensity to identify oneself as Native American varies by region.
+
+Vol. 42, No. 1-2
+
+Infant Mortality
+
+85
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+cans over the time period are probably overstated. On the other hand, if less advantaged individuals are more likely to be classified as Native Americans in 1984 than in 1960, the improvement would be understated.
+Infants of unknown birthweight are excluded from the analysis. This includes 3 per cent of the Native Americans born in 1960 and 0.2 per cent in 1984. The corresponding percentages of whites excluded because of unknown birthweight are 0.3 per cent in 1960 and 0.1 per cent in 1984. This study is limited to single-born infants.
+METHODS
+Separate analyses compare the risks of Native Americans to whites for neonatal death and postneonatal death. The statistical package GLIM is used to fit regression models for the logodds of death, using race, birthweight (very low, < 1501 grams; low, 15012500 grams; normal, 2501-4000 grams; high, > 4000 grams), and cohort (1960 and 1984) as factors. Relative risks and associated confidence intervals3 are computed for each cohort-birthweight-age-at-death category.
+RESULTS
+NEONATAL MORTALITY
+Fitting a null regression model to the log-odds of neonatal death for these data gives a deviance of 295,646 on 15 degrees of freedom, clearly a
+3An estimation of the standard error of the relative risk is given by Elandt-Johnson and Johnson (1980) as s.e. = (RR)2 [n12/n1n11) + (n22/n2n21)], where n11= number of Native American deaths, n12 = number of Native American survivors, n1 = number of Native American births, n21 = number of white deaths, n22 = number of white survivors, and n2 = number of white births.
+
+very poor fit. Adding the factors birthweight, cohort, and race in a stepwise fashion gives a significant reduction in the deviance at each stage, resulting in an additive model with significant effects of all three factors and a deviance of 495 with 10 degrees of freedom, which is still a poor fit. Adding a birthweight x cohort interaction gives a significant reduction in the deviance, indicating that the effect of birthweight on survival is different for each cohort, as expected. The same is true for the birthweight x race and cohort x race interactions. The extent to which birthweight affects survival differs for the two races, and the extent to which race affects survival depends upon the year of birth. Furthermore, this model with all three main effects and all three twoway interactions fits the data, with a deviance of 4.1 on 3 degrees of freedom. The parameter estimates for this model are displayed in Table 1.
+Taking antilogs of the statistically significant parameter estimates gives the effect of each factor category on the odds of neonatal death with respect to the reference group: white children of normal birthweight born in 1960. Native American infants in this same birthweight-cohort category have 81 per cent higher odds of neonatal death.
+In 1960 high birthweight whites experience only 83 per cent of the odds of neonatal death the reference group faces.4 However, low birthweight whites experience over 17 times the odds of neonatal death as the
+4The high birthweight x race term is insignificant, indicating that the effect of high birthweight on Native American neonatal survival is about the same as the effect of high birthweight on white neonatal survival. The high birthweight x cohort term is also insignificant, indicating that the effect of high birthweight is similar for the two cohorts.
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+86
+
+VanLandingham and Hogue
+
+Social Biology
+
+TABLE 1
+PARAMETER ESTIMATES OF THE LOGIT MODEL FOR NEONATAL MORTALITY: NATIVE AMERICANS AND WHITES, SINGLETON BIRTHS
+
+Factor
+Baseline
+Main Effects Birthwt
+Cohort Race
+Interactions
+Birthwt x cohort Birthwt x cohort Birthwt x cohort Birthwt x race Birthwt x race Birthwt x race
+Cohort x race
+
+Category
+high low very low 1984 Nat Am
+high 1984 low 1984 very low 1984 high Nat Am low Nat Am very low Nat Am 1984 Nat Am
+
+Estimate -5.258
+0.1868 2.859 6.364 1.204 0.594
+
+Standard Error
+0.008083
+0.02722 0.01177 0.01565 0.01829 0.07258
+
+0.01158 0.1649 0.5394 0.18 0.4922 0.3696 0.3984
+
+0.05554 0.02821 0.0267 0.1963 0.1093 0.1289 0.103
+
+Antilog of Estimate
+0.005
+0.830 17.444 580.564 0.300 1.811
+0.848 0.583
+0.611 0.691 0.671
+
+reference group. This odds ratio for low birthweight Native Americans (with respect to normal birthweight Native Americans) is attenuated somewhat, but is still quite high at 10.6.5
+The disadvantage of low birthweight for neonatal survival was somewhat less in 1984 than in 1960.
+510.6 is obtained by multiplying (17.4 × 0.61). 17.4 is the main effect of low birthweight andhas as its comparison group normal birthweight white infants born in 1960 (Table 1). Thelow birthweight x Native American race interaction term is significant (e = 0.61), indicating that low birthweight affects Native Americans differently (i.e., to a lesser extent) than whites.
+
+The improvement in survival chances for very low birthweight infants over the 24-year period was even more dramatic. The odds of neonatal death for these infants fell much more than they did for other birthweight categories (eP = 0.58). Again, the general disadvantage for Native American survival is not nearly as severe at the very low birthweightlevel compared to normal and high birthweight infants.
+The parameter estimate for thecohort x race interaction indicates that while normal-birthweight whites born in 1984 experience only 30 per cent
+
+Vol. 42, No. 1-2
+
+Infant Mortality
+
+87
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+of the odds of neonatal death of the reference group, the improvement for Native Americans was even more striking. Native American infants of normal birthweight born in 1984 experienced only 20 per cent of the odds of neonatal death of their normal birthweight counterparts born in 1960. In fact, Table 2, which presents neonatal mortality risks stratified by race and birthweight, shows that while the overall risk of neonatal death was higher for Native Americans than for whites in 1960 (20.2 versus 15.3, RR = 1.3), and substantially higher in the normal and high birthweight categories (RR = 1.8 and RR = 2.53), there was no significant difference in the risk of overall neonatal death between Native Americans and whites by 1984 (5.2 versus 5.0) or in any birthweight category.6
+As illustrated in Figures 1 and 2, the birthweight distributions were very similar for the two races in both 1960 and in 1984. Standardizing Native American birthweight-specific neonatal mortality risks on the white birthweight distribution did not make any difference in the relative risks for Native American neonatal death for either cohort (Table 2). Birthweight distributions played little role in the discrepancies in survival probabilities.
+6Our measures of infant mortality in 1984 are higher than those reported by the Indian Health Service (1989) but there are important differences between these two studies. The IHS limits their 1984 estimates to Native Americans living in thirty-two "reservation states." Our data include births from all states, but are limited to singleton births. Finally, our measures come from linked birth/death certificates, while the IHS computes their rates by dividing the number of infant deaths in 1984 by the number of live births in that year.
+
+POSTNEONATAL MORTALITY
+The null regression model for the log-odds of postneonatal death for these data gives a deviance of 13,213 on 15 degrees of freedom and clearly does not fit the data. Adding the factors birthweight, cohort, and race in the same manner as in the neonatal model also gives a significant reduction in the deviance at each stage. The postneonatal additive model does not fit the data with deviance of 424 on 10 degrees of freedom. Adding the two-way interactions in the same manner as in the neonatal analysis also gives a significant reduction in the deviance at each step, but the postneonatal model with all main effects and all two-way interactions does not quite fit the data (deviance = 8.2 on 3 degrees of freedom), indicating that the effect of birthweight on survival differs not only for the two cohorts and for the two races, but that the change in the effect of birthweight over time differs for the two races, i.e., the three-way interaction term has a significant effect. However, since this three-way interaction is significant for only the very low birthweight infants, and then just barely so, this three-way interaction effect (and the associated saturated model) will not be utilized in the interpretation of the results.
+The parameter estimates given in Table 3 are for the model with all main effects and all two-way interaction effects. The parameter estimate for cohort indicates the improvement in postneonatal morality for white normal birthweight infants was not as great as the decline in neonatal mortality. Still, normal birthweight whites born in 1984 experienced only 51 per
+
+88
+
+VanLandingham and Hogue
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+TABLE 2
+BlRTHWEIGHT-SPECIFIC NEONATAL MORTALITY: NATIVE AMERICANS AND WHITES,
+i960 AND 1984, SINGLETON BIRTHS
+
+Strata
+
+Deaths
+
+Alive
+
+Total
+
+I960
+
+227-1500g Native Am White Total
+
+133
+22,289 22,422
+
+31 7,381 7,412
+
+164
+29,670 29,834
+
+1501-2500g Native Am White
+Total
+
+109
+14,852 .. 14,961
+
+1,151 163,464 164,615
+
+1,260 178,316 179,576
+
+2501-4000g Native Am White Total
+
+165 15,362 15,527
+
+17,573
+
+17,738
+
+2,951,984 2,967,346
+
+2,969,557 2,985,084
+
+4001-8165g Native Am White Total
+
+24 1,477 1,501
+
+2,192 342,921 345.113
+
+2,216 344,398 346,614
+
+Summary Standardized on white birthweight distribution Native Am White
+
+Crude Native Am White Total
+
+431 53,980 .. 54,411
+
+20,947 3,465,750 3,486,697
+
+21,378 3,519,730 3,541,108
+
+1984
+
+227-1500g Native Am White Total
+
+104 7,550 7,654
+
+245 14,282 14,527
+
+349 21,832 22,181
+
+1501-2500g Native Am White Total
+
+37 2,582 2,619
+
+1,793 112,080 113,873
+
+1,830 114,662 116,492
+
+2501-4000g Native Am White Total
+
+64 3,684 3,748
+
+33,399
+
+33,463
+
+2,361,402 2,365,086
+
+2,394,801 2,398,549
+
+4001-8165g Native Am White
+Total
+
+6
+
+4,958
+
+4,964
+
+475 360,072 360,547
+
+481 365.030 365,511
+
+Summary Standardized on white birthweight distribution Native Am White
+
+Crude Native Am White Total
+
+211 14,291 .. 14,502
+
+40,395
+
+40,606
+
+2,847,836 2,862,127
+
+2,888,231 2,902,733
+
+Risk
+811.0 751.2 751.6
+86.5 83.3 83.3
+9.3 5.2 5.2
+10.8 4.3 4.3
+20.1 15.3
+20.2 15.3 15.4
+298.0 345.8 345.1
+20.2 22.5 22.5
+1.9 1.6 1.6
+1.2 1.3 1.3
+4.8 5.0
+5.2 5.0 5.0
+
+Relative Risks
+RR = 1.08 RR-L = 1.00 RR-U = 1.16
+RR = 1.04 RR-L = 0.85 RR-U = 1.23
+RR = 1.80 RR-L = 1.52 RR-U = 2.07
+RR = 2.53 RR-L = 1.51 RR-U = 3.54
+RR = 1.31
+RR = 1.31 RR-L =1.19 RR-U = 1.44
+RR = 0.86 RR-L = 0.72 RR-U = 1.00
+RR = 0.90 RR-L = 0.61 RR-U = 1.19
+RR = 1.23 RR-L = 0.92 RR-U = 1.53
+RR = 0.92 RR-L = 0.18 RR-U = 1.66
+RR = 0.96
+RR = 1.04 RR-L = 0.90 RR-U = 1.18
+
+Vol. 42, No. 1-2
+
+Infant Mortality
+
+89
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Birthweight distributions Native Americans and whites, 1960
+Proportion of births 100%
+
+80%-
+
+60%-
+
+40%
+
+20%-
+
+0% 227-1500g
+
+1501-2500g
+
+2501-4000g
+
+Birthweight
+
+>4000g
+
+· Native Americans
+
+i whites
+
+FIG. 1.--Birthweight distributions: Native Americans and whites, 1960.
+
+Birthweight distributions Native Americans and whites, 1984
+Proportion of births 100%
+
+60%
+
+60%
+
+40%
+
+20%
+
+0% 227-1500g
+
+1S01-2500g
+
+2501-4000g
+
+Birthweight
+
+>4000g
+
+I Native Americans
+
+i whites
+
+FIG. 2.--Birthweight distributions: Native Americans and whites, 1984.
+
+cent of the odds of postneonatal death as their 1960 cohort predecessors, While Native American infants clearly experienced an overall greater risk of postneonatal death, they improved more over the 24-year period than did
+
+whites. This relative improvement was even greater than it was for neonatal mortality (cohort x race interaction term -0.8965 for the postneonatal data versus -0.3984 for the neonatal data).
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+90
+
+VanLandingham and Hogue
+
+Social Biology
+
+TABLE 3
+PARAMETER ESTIMATES OF THE LOGIT MODEL FOR POSTNEONATAL MORTALITY: NATIVE AMERICANS AND WHITES, SINGLETON BIRTHS
+
+Factor
+Baseline
+Main effects
+Birthwt
+Cohort Race Interactions
+Birthwt x cohort Birthwt x cohort Birthwt x cohort Birthwt x race Birthwt x race Birthwt x race Cohort x race
+
+Category
+high low very low 1984 Nat Am
+high 1984 low 1984 very low 1984 high Nat Am low Nat Am very low Nat Am 1984 Nat Am
+
+Estimate
+-5.344
+0.3293 1.244 2.474 0.6773 1.689
+
+Standard Error
+0.008452
+0.03026 0.02119 0.05214 0.01565 0.04705
+
+0.07822 0.3166 0.827 0.1061 0.1326 0.7881 0.8965
+
+0.05228 0.03711 0.06384
+0.1347 0.1028 0.2468 0.07847
+
+Antilog of Estimate
+0.005
+0.719 3.469 11.870 0.508 5.414
+1.372 2.286
+0.455 0.408
+
+Low birthweight infants are at adistinct disadvantage for survival during the postneonatal period, though the magnitude of the effect is not nearly as high as in the neonatal period. And while the greatest improvements in the odds of survival occurred for the lower birthweight categories in the neonatal period, the opposite was true for the postneonatal period, i.e., the odds of postneonatal survival for normal birthweight infants improved more during the period than did those for lower birthweight infants.
+The attenuation of the Native American disadvantage at relatively small birthweights seen in the neonatal data also holds for the postneonatal period but only at the very low birth-
+
+weights; the difference for the low birthweight category is not significant.
+Table 4 gives the relative risks and confidence intervals for the risk of Native American postneonatal death relative to whites for each birthweight/ race/cohort category and illustrates the reduction of the overall Native American postneonatal mortality risk from 27.5 (RR = 5.2) in 1960 to 6.2 (RR = 2.1) in 1984. Though these relative risks remained significantly higher for every birthweight category except the lowest in 1984, the magnitude of the difference was substantially reduced for each.
+Standardizing Native American birthweight-specific postneonatal mortality rates on white birthweight distri-
+
+Vol. 42, No. 1-2
+
+Infant Mortality
+
+91
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+TABLE 4
+BlRTHWEIGHT-SPECIFIC POSTNEONATAL MORTALITY: NATIVE AMERICANS AND WHITES, i960 AND 1984, SINGLETON BIRTHS
+
+Strata
+
+Deaths
+
+Alive
+
+Total
+
+Risk
+
+Relative Risks
+
+227-1500g Native Am White Total
+
+8 23 31
+
+392
+
+6,989
+
+7,381
+
+400
+
+7,012
+
+7,412
+
+1501-2500g Native Am White Total
+
+81 2,667 2,748
+
+1,070 160,797 161,867
+
+1,151 163,464 164,615
+
+2501-4000g Native Am White Total
+
+447 14,032 14,479
+
+17,126 2,937,952 2,955,078
+
+17,573 2,951,984 2,969,557
+
+4001-8165g Native Am White Total
+
+39 1,180 1,219
+
+2,153 341,741 343,894
+
+2,192 342,921 345,113
+
+Summary
+
+Standardized on white birthweight distribution
+
+Native Am
+
+...
+
+White
+
+...
+
+... ...
+
+Crude Native Am White Total
+
+575 18,271 18,846
+
+20,372 3,447,479 3,467,851
+
+20,947 3,465,750 3,486,697
+
+1984
+
+227-1500g Native Am White Total
+
+11 234 245
+
+887
+
+13,395
+
+14,282
+
+898
+
+13,629
+
+14,527
+
+1501-2500g Native Am White Total
+
+42 1,277 1,319
+
+1,751 110,803 112,554
+
+1,793 112,080 113,873
+
+2501-4000g Native Am White Total
+
+174 5,721 5,895
+
+33,225 2,355,681 2,388,906
+
+33,399 2,361,402 2,394,801
+
+4001-8165g Native Am White Total
+
+25
+
+4,933
+
+4,958
+
+575
+
+359,497
+
+360,072
+
+600
+
+364,430
+
+365,030
+
+Summary
+
+Standardized on white birthweight distribution
+
+Native Am
+
+...
+
+White
+
+...
+
+... ...
+
+Crude Native Am White Total
+
+252 8,460 8,712
+
+40,143 2,839,376 2,879,519
+
+40,395 2,847,836 2,888,231
+
+258.1 53.1 54.0
+70.4 16.3 16.7
+25.4 4.8 4.9
+17.8 3.4 3.5
+27.3 5.3
+27.5 5.3 5.4
+44.9 62.1 61.8
+23.4 11.4 11.6
+5.2 2.4 2.5
+5.0 1.6 1.6
+6.1 3.0
+6.2 3.0 3.0
+
+RR = 4.86 RR-L = 1.92 RR-U = 7.80
+RR = 4.31 RR-L = 3.39 RR-U = 5.23
+RR = 5.35 RR-L = 4.85 RR-U = 5.85
+RR = 5.17 RR-L = 3.54 RR-U = 6.81
+RR = 5.18
+RR = 5.21 RR-L = 4.78 RR-U = 5.63
+RR = 0.72 RR-L = 0.30 RR-U = 1.14
+RR = 2.06 RR-L = 1.43 RR-U = 2.68
+RR = 2.15 RR-L = 1.83 RR-U = 2.47
+RR = 3.16 RR-L = 1.90 RR-U = 4.42
+RR = 2.05
+RR = 2.10 RR-L = 1.84 RR-U = 2.36
+
+92
+
+VanLandingham and Hogue
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+butions makes little difference in the relative risk of postneonatal death for Native Americans. The birthweight distributions again played little role in the divergent mortality risks for whites and Native Americans in months two to twelve.
+SUMMARY AND CONCLUSIONS
+Our stratified and multivariate analyses have shown that while the odds for survival improved dramatically for both Native American and white infants between 1960 and 1984, the extent of the improvements differed for these two ethnic groups, for the neonatal and postneonatal periods, and for the four birthweight categories used in this study. Native American neonatal mortality risk dropped from 20.2 in 1960 to 5.2 in 1984, and the corresponding relative risk for Native Americans with respect to whites fell from 1.31 in 1960 to a nonsignificant difference in 1984. Postneonatal mortality risks for Native Americans fell from 27.5 in 1960 to 6.2 in 1984, with a corresponding drop in the relative risk from 5.21 to 2.10. Though the odds for survival improved within almost every age/birthweight category over the period,7 the improvement of neonatal survival occurred more at the lower birthweights, while improvements of postneonatal survival occurred more at the higher birthweights.
+In 1960, Native Americans experienced substantially higher odds of
+7The only exception was for postneonatal survival for very low birthweight infants. This could be the result of improved survival of very frail infants during the first month of life, who may then live on in a weakened state and experience relatively high risks of mortality during the rest of the year (see London 1993).
+
+death than whites in both the neonatal and postneonatal period. Between 1960 and 1984, the odds of both neonatal and postneonatal survival for Native American infants improved more than did the odds for whites, but this gap in the odds of survival narrowed more in the postneonatal period. Still, Native Americans experienced over twice the risk of postneonatal death as whites by 1984, while the risks of neonatal death for the two ethnic groups were about the same. Furthermore, while the majority of white infant deaths occurred during the first month of life during both years, most Native American infant deaths occurred during the postneonatal period in both 1960 and in 1984.
+As found in earlier research, birthweight was positively associated with survival (Rogers, 1989; McCormick, 1985; Eberstein and Parker, 1984) for both groups, but low and very low birthweights had less of a deleterious effect on Native American infants than for whites during the neonatal period. This pattern was maintained only for very low birthweight Native Americans during the postneonatal period, but the magnitude of the effect was substantial.
+These results also confirm other studies that find excessive postneonatal mortality risks for Native Americans. We conclude that this discrepancy between the risks of white and Native American postneonatal death has not been due to disparate birthweight distributions between the two groups, nor has the birthweight distribution played a major role in former disparities in neonatal mortality. This finding belies Eberstein and Parker's (1984) promotion of birthweight distribution as a
+
+Vol. 42, No.1-2
+
+Infant Mortality
+
+93
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+major indicator of "risk and/or pat- The attenuation of the Native
+
+terns of infant mortality within a pop- American disadvantage at low and
+
+ulation" (p. 316).8
+
+very low birthweights9 also warrants
+
+Further research should develop further attention todetermine whether
+
+and test hypotheses toexplore the rea- this is a problem of data quality(are
+
+sons for Native Americans' postneona- the most frail Native American low
+
+tal disadvantage to give policy makers birthweight infants least likely to be re-
+
+the tools they need todesign programs ported?) or the result of heavy invest-
+
+to combat this persistent health prob- ment in intensive care technology for
+
+lem. Since most Native American in- low birthweight infants at hospitals
+
+fants deaths still occur during the post- that serve Native Americans.
+
+neonatal period (when environmental
+
+factors should be the predominant
+
+causes ofdeath), research should focus
+
+on the importance of factors in the
+
+child's home environment, e.g.,diet,
+
+ACKNOWLEDGMENTS
+
+child care, access to health care,etc. Results from Rogers (1989) and Van-
+
+The Germán
+
+comments Rodríguez,
+
+and José
+
+suggestions of Becerra, James
+
+Landingham et al. (1988) suggest that Buehler, Steve Helgerson, Catherine
+
+preventable disease plays an important Fleshman, and the late Frank Andrews are
+
+role in Native American infant death, and Honigfeld and Kaplan (1987) present data that illustrate the danger of preventable accidents and treatable
+
+gratefully acknowledged. Appreciation is also expressed to theNational Center for Health Statistics for providing the linked birth anddeath data, andto the Centers for Disease Control, Division of Reproduction
+
+acute conditions.
+
+Health, for their support of this research.
+
+REFERENCES
+
+BECERRA, J. E., C. J. R. HOGUE, J. K. ATRASH,
+and N. PÉREZ. 1991. Infant mortality among Hispanics: A portrait of heterogeneity. J. Amer. Med. Assoc. 265(2) :217-221.
+EBERSTEIN, I. W., and J. R. PARKER. 1984. Ra-
+cial differences ininfant mortality by cause of
+8Their data analysis only distinguishes ethnic differences between white and nonwhite, and the majority of nonwhite infants in their study areblack. Black patterns of infant mortality are quite distinct from Native American patterns (Task Force on Black andMinority Health 1986). Their study is also limited to infants born in thestate of Florida in 1975.
+Though Eberstein and Parker question the utility of a neonatal/postneonatal conceptual approach and instead opt for an analysis of cause-specific death rates, this difference in approach is unlikelyto affect conclusions about the importance of birthweight in the aggregate, since several of the most important causes of Native American infant death (see Honigfeld and Kaplan, 1987) are precisely those that are unaccounted for by birthweight in Eberstein and Parker's study.
+
+death: Theimpact of birth weight and maternal age. Demography 21:309-321.
+ELANDT-JOHNSON, R. C., and N. L. JOHNSON.
+1980. Survival models and data analysis. John Wiley and Sons, New York. ESCHBACH, K. 1993. Changing identification among American Indians and Alaska Natives. Demography 30:635-652.
+INDIAN HEALTH SERVICE. 1989. Trends in Indian
+health, 1989. U.S. Department ofHealth and Human Services, Rockville, MD.
+HONIGFELD, L. S., and D . W. KAPLAN. 1987. Na-
+tive American postneonatal mortality. Pediatrics 80(4):575-578. LONDON, A. 1993. The impact of advances in medicine on the biometric analysis of infant mortality. Soc. Biol. 40(3-4):260-282. MCCORMICK, M. C. 1985. The contribution of low birthweight to infant mortality and
+9Other research (Task Force on Minority Health 1986) has shown that the survival chances of blacks relative towhites also improve at low birthweights.
+
+94
+
+VanLandingham and Hogue
+
+Social Biology
+
+childhood morbidity. New Eng. J. Med. 312(2):82-90.
+NATIONAL CENTER FOR HEALTH STATISTICS. 1970.
+A study of infant mortality from linked records: Method of study and registration aspects. United States, 1960 live birth cohort. National Center for Health Statistics, Series 20, No. 7, Washington, D.C.
+_____. 1988. Vital statistics of the United States, 1984. Volume 1: Natality. National Center for Health Statistics, Hyattsville.
+ROGERS, R. G. 1989. Ethnic and birth weight differences in cause-specific infant mortality. Demography 26(2):335-344.
+SNIPP, M. 1986. Who are American Indians? Some observations about the perils and pitfalls of data for race and ethnicity. Pop. Res. Pol. Rev. 5:237-252.
+TASK FORCE ON BLACK AND MINORITY HEALTH.
+1986. Report of the Secretary's task force on
+
+black and minority health, Volume IV: Infant mortality and low birthweight. U.S. Department of Health and Human Services, Washington, D.C.
+U.S. DEPARTMENT OF HEALTH, EDUCATION, AND
+WELFARE. 1962. Vital statistics of the United States, 1960. Volume 1: Natality. U.S. Department of Health, Education, and Welfare, Washington, D.C.
+_____. 1960. Vital statistics instruction manual, Part II: Coding and punching geographic codes and personal particulars. U.S. Department of Health, Education, and Welfare, Washington, D.C.
+VANLANDINGHAM, M. J., J. W. BUEHLER,
+C. J. R. HOGUE, and L. T. STRAUSS. 1988.
+Birthweight-specific infant mortality for Native Americans compared with whites, six states, 1980. Amer. J. Pub. Hlth. 78:499503.
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+

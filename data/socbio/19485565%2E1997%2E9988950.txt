@@ -1,0 +1,919 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Causespecific mortality among older AfricanAmericans: Correlates and consequences of age misreporting
+Jon M. Hussey & Irma T. Elo
+To cite this article: Jon M. Hussey & Irma T. Elo (1997) Causespecific mortality among older AfricanAmericans: Correlates and consequences of age misreporting, Social Biology, 44:3-4, 227-246, DOI: 10.1080/19485565.1997.9988950 To link to this article: http://dx.doi.org/10.1080/19485565.1997.9988950
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 17
+View related articles
+Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:47
+
+Cause-specific Mortality among Older African-Americans: Correlates and Consequences of Age Misreporting
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Jon M. Hussey and Irma T. Elo
+Population Studies Center University of Pennsylvania Philadelphia, Pennsylvania 19104
+
+ABSTRACT: This paper examines the quality of age reporting on death certificates of elderly African-Americans by major causes of death. We utilize a sample of death certificates linked to early census records and to Social Security Administration records to establish a "true" age at death. We then examine the patterns, predictors, and consequences of age misreporting for major causes of death. We find a pattern of greater age misreporting among females, identify educational background as a key predictor of accurate age reporting, and show that mortality crossovers are eliminated for most causes of death when more accurate age data are used.
+
+Because age is associated with many biological and social phenomena, accurate age data are critical for researchers exploring the societal impact of population aging and for policy makers deciding how to best allocate resources to the burgeoning elderly population. However, past research suggests that the quality of age data for the elderly is questionable, particularly for AfricanAmericans (Hambright, 1969; Kestenbaum, 1992; National Center for Health Statistics [NCHS], 1968; Rosenwaike, 1979; Rosenwaike and Logue, 1983). A recent study comparing death certificates with matched Social Security/Medicare files found exact age agreement between the two data sources for 95 per cent of non-Hispanic whites aged 65 and over but for only 73 per cent of African-Americans (Kestenbaum, 1992, Table 4). Further, age agreement deteriorated more rapidly with advancing age among blacks than among whites; for those aged 85 and over, exact age agreement was found for 92 per cent of non-Hispanic whites compared with only 63 per cent of African-Americans.
+
+The present study examines the quality of age data for elderly AfricanAmericans. Three questions guide the analysis. First, does the rate of age misreporting vary by major causes of death? Only one known prior study, using 1960 data, has addressed this question. Second, are there key factors that might account for cause of death variations in age misreporting? While prior studies of allcause mortality suggest that such factors as age at death, sex, and educational background influence age misreporting, no comparable analysis for cause-specific mortality has been conducted. Third, and most importantly, how are causespecific mortality rates for elderly AfricanAmericans affected by age misreporting? In particular, to what extent are causespecific black/white mortality crossovers at older ages due to age misreporting? While age misreporting could seriously bias estimates of cause-specific mortality among African-Americans, to our knowledge no prior study has explored this possibility.
+
+227
+
+228
+
+Hussey and Elo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+The only previous investigation of variation in age misreporting by cause of death was conducted as part of the Matched Records Study of 1960 census and death certificate records (NCHS, 1968). Age consistency within four causeof-death categories--cardiovascular, cancer, external, and all other causes--was examined. At ages 65 and above, the results indicated relatively little variation in age agreement by cause of death.' Among nonwhite females aged 65 and older, externally caused deaths exhibited the highest age agreement (67 per cent) while the lowest agreement was found for deaths from all other causes (62 per cent) and cardiovascular diseases (62 per cent).2 Among nonwhite males aged 65 and older, the highest age agreement was found for those dying from cancer (71 per cent) and the lowest agreement was associated with deaths from external causes (64 per cent).
+To the extent that age misreporting varies by cause of death, what factors might account for it? Several prior studies of all-cause mortality have shown age inconsistencies across matched records to vary by the decedent's sex (Elo et al., 1996; Hill et al., 1997; Kestenbaum, 1992; NCHS, 1968), with greater misreporting typically found among female decedents. The quality of age reporting on death certificates is also known to de-
+1Westandardized the 1960 results to the 1985 U.S. resident population for persons aged 65 and older (U.S. Bureau of the Census, 1993, Table 1). The 1960 causespecific agreement rates were presented for three age groups: 65-74, 75-84, and 85+ (NCHS, 1968, Table 4). We calculated the proportion of the 1985 U.S. resident population aged 65 and older falling into each of these three age groups and used those proportions to weight the 1960 agreement rates.
+2In the 1960 census, 92 per cent of the total nonwhite population was African-American (Elo and Preston, 1994; Footnote 1).
+
+teriorate as age advances (e.g., Elo et al., 1996; Kestenbaum, 1992). Relative to younger decedents, older decedents may be less likely to have records which officially document their age due to lower lifetime involvement with age-linked institutions (Hill et al., in press) and to the greater likelihood that the decedent's birth was never registered (Shapiro, 1950). An older age at death may also increase the likelihood that decedents and/or death certificate informants, most commonly family members, lose track of the decedent's true age (e.g., by failing to advance the age forward at each successive birthday) (Clark et al., 1995). By extension, we expect that sex and age at death will be related to cause-specific variations in age misreporting.
+Two other factors which may account for variations in age misreporting across causes of death are literacy and educational attainment. Literacy has long been considered an important characteristic in determining the quality of age reporting (Wolfenden, 1954). Consistent with this view, a recent study of all-cause mortality (Elo et al. 1996) found a strong relationship between age agreement and the level of literacy in the state in which the decedent was born. Because literacy and educational attainment are closely related, we expect to find a positive relationship between educational attainment and age agreement. Because educational attainment is associated with income and occupational status as well as cognitive skills, we also expect to find a positive association between cause-specific educational gradients in mortality and age agreement, i.e., the steeper the cause-specific educational mortality gradient the worse the age reporting on death certificates. For causes of death with a steeper educational gradi-
+
+Vol. 44, No. 3-4
+
+Cause-specific Mortality
+
+229
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+ent in mortality, a larger proportion of deaths are likely to have occurred to individuals with lower levels of schooling than for causes for which the educational gradient is more gradual. Educational attainment of the decedent may also be positively associated with educational attainment of the death certificate informant.
+Finally, whole no prior studies have examined this factor, we suspect that variation in age misreporting by cause of death is related to the suddenness of death. In cases of prolonged illness, both the decedent and potential death certificate informants may be more likely to come in contact with official documentation of the decedent's age (e.g., for purposes of filing medical insurance claims, handling the decedent's personal affairs, etc.). Serious and prolonged illnesses may also lead to increased contact between the decedent and potential informants, thus raising the likelihood that a well-informed survivor will be present to provide accurate age information at the time of death. To the extent that the chronically or terminally ill and their significant others engage in the process of putting their affairs "in order," we would expect these activities to reduce age misreporting. In contrast, when the death is sudden, death certificate informants may have nothing better than an educated guess to rely on when answering questions about the decedent's age. Thus, we predict a negative association between age agreement and suddenness of death.
+The third and most important question guiding this study is the influence of age misreporting on cause-specific mortality estimates for elderly African-Americans. Of particular concern is the impact of age misreporting on the African-American/ white mortality "crossover" at advanced
+
+ages observed for major causes of death. Most efforts to explain the crossover phenomenon--from higher AfricanAmerican than white mortality at younger ages to lower African-American than white mortality at older ages--have focused on all-cause mortality. However, prior studies have documented racial crossovers for a number of specific causes of death including cancer, diabetes, ischémie heart disease, generalized atherosclerosis, infectious diseases, pneumonia, respiratory diseases, and stroke (Mantón, 1980; Mantón, 1982; Manton and Poss, 1977). These studies show that the age at which the crossover occurs typically ranges from the mid-seventies to the early eighties, but varies by cause of death, by sex within each cause, and by whether underlying versus multiple cause of death data are used (Mantón, 1980; Mantón, 1982). However, to our knowledge no one has examined how these cause-specific crossovers are affected by age misreporting.
+In summary, little is known about variations in age misreporting by cause of death, the factors which may account for it, or the impact of age misreporting on cause-specific African-American mortality rates. By addressing these issues, the present study updates and extends the literature on cause-specific age misreporting in several important ways. First, we examine cause-specific misreporting in a more recent nationally representative sample of 1980 and 1985 deaths among elderly African-Americans. The Matched Records Study was based on 1960 deaths.
+Second, we improve on the methodology of the Matched Records by using more accurate age data. Specifically, while the Matched Records Study examined the consistency of age data in census records and death certificates from the same year, we utilize Social Security Administration
+
+230
+
+Hussey and Elo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+data and early-life census records (i.e., from when the decedents were children or young adults) to establish a "true" age at death. Social Security age data are thought to be more accurate than death certificate data, and age information on early-life census records is believed to be more reliable than that found on later-life records (Rosenwaike and Logue, 1983).
+Third, we examine cause-specific age misreporting patterns in greater detail than the Matched Records Study by using eleven cause of death groupings as opposed to the four used in the previous study. The potential value of this more detailed cause of death analysis is underscored by a recent review of the mortality crossover literature, which concluded that "[c]ause-of-death patterns are crucial to understanding whether crossovers do or do not occur ..." (Nam, 1995, p. 140). Most significantly, our coding scheme allows for a closer analysis of age misreporting for cardiovascular deaths, which prior research suggests are particularly influential on all-cause mortality crossovers (Mantón and Poss, 1977; Nam et al., 1978).
+Finally, this study is the first to address several important questions related to age misreporting. This study represents the first empirical attempt to identify predictors of cause-specific age misreporting. It is also the first known study to assess the relationship between suddenness of death and age misreporting. Similarly, it is the only study to date which examines how cause-specific mortality crossovers are affected by using more accurate age data.
+MATERIALS AND METHODS
+This study utilizes a unique three-way linked data set created for a larger project on the quality of age reporting among
+
+elderly African-Americans. A total of 2,657 death certificates of elderly AfricanAmericans from 1980 and 1985 were matched to early-life census records from 1900, 1910, and 1920 and to Social Security Administration records. The key pieces of information on death certificates used to establish a match were the decedent's name, sex, father's name, mother's name, and state of birth. Because the focus of the larger project for which the sample was obtained is the quality of age reporting, age and year of birth were excluded as matching criteria. Preliminary analyses (not shown) indicated that the probability of obtaining a three-way match did not vary by cause of death (for details on the matching process, see Preston et al., 1996). Three death certificates from which cause of death was missing were excluded, resulting in a final sample size of 2,654 deaths.
+AGE MISREPORTING
+To examine age misreporting by cause of death, we compare the reported age on the death certificate to a "corrected" or "final" age at death. This final age represents our best estimate of a "true" age at death based on all age information available to us. It was assigned on a case-by-case basis for all records with three-way linkages as follows. When age at death agreed on all three records, that age was accepted as the final age (M=l,317). If a person was linked to a census before the time of birth implied by both the death certificate and the social security record, the censusbased age at death was accepted as the final age (N=20). Among the remaining cases, if two of the three records were consistent, that age was accepted as the final age (N= 1,067). If all records were
+
+Vol. 44, No. 3-4
+
+Cause-specific Mortality
+
+231
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+inconsistent with each other, we accepted the "social security age" if the social security year of birth was after 1900 (N=122) and the "census age" if the social security year of birth was 1900 or earlier (iV=129). Finally, in two cases for which all three ages disagreed and the social security date of birth was after the census to which the record was matched, we also accepted the census-based age at death (for a justification of these procedures, see Preston et al., 1996).3
+The dependent measure in our analyses, age agreement, was constructed by subtracting the decedent's death certificate age from his or her "corrected" or "final" age. Age "agreement" was defined as a difference equal to 0; all non-zero results were defined as age misreporting.
+CAUSE OF DEATH CATEGORIES
+Prior research and sample size considerations influenced our choice of how to group causes of death. The cause of death refers to the underlying cause coded from death certificate information by NCHS. For most analyses we group causes of death into eleven categories listed below with their associated ICD-9 three-digit
+3The Social Security (SSA) age at death is calculated from the date-of-birth and date-of-death information available on the DMF. Because the specific day of death is missing for most cases on the DMF, the deathcertificate day of death was substituted in calculating the SSA age at death. The decedent's census-based age at death was computed from the age in years reported on the census record and the decedent's birthday (i.e., month and day) reported on the death certificate. The latter information was required in order to determine whether a birthday would have occurred between the date in the calendar year when the decedent was enumerated in the early census and the date when the death occurred. When the 1900 census was used, the decedent's census-based age at death was calculated from the month and year of birth fields from the census record and the day of birth and date of death fields from the death certificate.
+
+codes (World Health Organization, 1977): (1) infectious diseases; pneumonia and influenza (001-139; 480-487); (2) malignant neoplasms of digestive organs and peritoneum (150-159); (3) malignant neoplasms of respiratory and intrathoracic organs (160-165); (4) other malignant neoplasms (140-149; 170-208); (5) ischémie heart disease (410-414); (6) cerebrovascular diseases (430-438); (7) other cardiovascular diseases (390-405; 415^29; 440-448); (8) diabetes mellitus (250); (9) chronic obstructive pulmonary diseases and allied conditions (490-496);
+(10) external causes (E800-E999); and (11) all other causes of death.
+Sample size limitations necessitate collapsing the eleven cause-of-death categories into five for the purpose of estimating uncorrected and corrected age and sex-specific death rates. The five category cause of death groupings are listed below with their associated ICD-9 threedigit codes (World Health Organization, 1977): (1) malignant neoplasms (140208); (2) ischémie heart disease (410414); (3) cerebrovascular disease (430438); (4) other cardiovascular diseases (390-404, 415-429, 440-448); and (5) all other causes. In 1985, the first four causes accounted for approximately 70 per cent of all African-American and all U.S. deaths at ages 65+ (NCHS, 1987a, Table 7; NCHS 1988, Table 1-31).
+EDUCATIONAL ATTAINMENT IN
+STATE OF BIRTH
+Although we do not have a direct measure on the educational attainment of our decedents, we were able to construct two educational measures by utilizing other data sources. The first measure is the proportion of African-Americans in the decedent's state of birth with 0-4 years of
+
+232
+
+Hussey and Elo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+schooling based on the 1990 Census of Population. These proportions are calculated by each five-year birth cohort and sex from the 1990 Census 5% PUMS file. They are then linked to the larger AfricanAmerican Mortality data file by state of birth, sex, and final (i.e., corrected) age.4
+EDUCATIONAL INEQUALITY IN
+MORTALITY BY CAUSE OF DEATH
+To assess whether age agreement by cause of death is associated with an educational gradient in cause-specific mortality, we constructed a relative index of inequality (RII) for each of the 22 cause of death by sex categories. The RII is equivalent to the slope of the log of death rates when plotted on the cumulative educational distribution scale. It indicates the mean proportionate decline in mortality when levels of schooling advance from the lowest to the highest levels of educational attainment (Preston and Elo, 1995). Because educational attainment is not included on death certificates, we used the National Longitudinal Mortality Study Public Use File, Release 2 (NLMS2) to construct the RII for each of the 1 lcauseof-death categories discussed above. The NLMS2 sample links Current Pop-ulation Surveys (CPS) from 1979-81 to the National Death Index through 1989. Release 2 of the NLMS contains 637,162 individual records including 42,919 deaths occurring within the nine-year follow-up
+
+period (National Institutes of Health [NIH], 1995). The NLMS2 is considered the best data source for examining educational differentials in U.S. mortality (Preston and Elo, 1995).
+To construct the RII for 1979-89, we first estimate a slope index of inequality (Su) for each sex-education-cause of death group. Four educational attainment levels are considered in these analyses, 0-8 years, 9-11 years, 12 years, and 13+ years of schooling. To obtain the SU, we first compute age-specific death rates by five-year age groups, educational attainment, sex and cause-of-death category for individuals aged 45 and above. These death rates are then age-standardized using the estimated 1985 U.S. resident population (U.S. Bureau of the Census, 1993). We then determine for each sex the proportion of the population in each education category in 1985 (U.S. Bureau of the Census, 1987, Table 1) and calculate the cumulative proportionate distribution of the population from the lowest to the highest level of schooling and estimate the midpoint of each group's range. The SU is then obtained by weighted least squares regression where the dependent variable is the age-standardized death rate and the independent variable is the midpoint of each group's range in the cumulative proportionate education distribution. Separate models are estimated for each sex and cause of death category. As weights, we use the proportions in each education group in 1985. The Su for each cause of death is then divided by its associated age standardized death rate for all educational groups combined to yield theRTL
+
+4Among the 2,567 sample individuals for whom final age was determined, the education variables are missing for 12 cases. For 11 decedents, the state of birth was missing from the death certificate, and 1 decedent was born in Maine, a state for which the sample size was too small to calculate the schooling variables.
+
+SUDDENNESS OF DEATH
+To assess our hypothesis that the quality of age reporting on death certificates is associated with suddenness of death,
+
+Vol. 44, No. 3-4
+
+Cause-specific Mortality
+
+233
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+we have constructed a "suddenness of death" measure by cause of death from the 1986 National Mortality Followback Survey (NMFS) Public Use Data Tape (U.S. Department of Health and Human Services, 1992). The NMFS links information from death certificate informants and health care facilities used by the decedents in their last year of life to a nationally representative sample of 1986 U.S. death certificates. For our measure, we utilize a count of the total nights spent in all health care facilities (including hospitals, nursing homes, hospices, mental hospitals, and drug and alcohol treatment facilities) during the last year of life. "Sudden" deaths are defined (most conservatively) as those occurring to persons having spent zero nights in any health care facility in the year prior to death. For each of our 11 cause of death categories, we then determine the percentage of decedents who spent zero nights in health care facilities in the year prior to death.
+
+male deaths. For all causes of death combined, age agreement is found in 63.8 per cent of female deaths and 70.3 per cent of male deaths. Comparing female and male cause-specific agreement rates we see that for 8 of the 11 causes listed, the female rate is lower than the corresponding male rate. Moreover, there is greater variation in age agreement across causes of death for females than for males. Among males, the highest age agreement is found for deaths from diabetes (88.2 per cent) and the lowest agreement is found for deaths from infections, pneumonia, and influenza (59.7 per cent). Among females, the best age agreement is found for deaths from chronic obstructive pulmonary diseases (88.2 per cent), and the lowest agreement occurs for deaths from external causes (28.0 per cent). Finally, the relatively high agreement rate for male external deaths (79.7 per cent), which we would expect to be very sudden, was not expected.
+
+RESULTS
+AGE AGREEMENT BY CAUSE OF DEATH
+Age agreement varies by cause of death, particularly among females. The percentage of deaths with age agreement, broken down by cause and sex, is presented in Table 1. These estimates are based on weighted number of cases. We have constructed a set of weights to obtain a national estimate of the age distribution of deaths in 1985 (see Preston et al., 1996, Appendix). For the total sample death certificate age agrees with the final (corrected) age in 67 per cent of the cases. As in the 1960 Matched Records Study (NCHS 1968, Table 4), age agreement is lower for female deaths than for
+
+ACCOUNTING FOR VARIATIONS IN AGE
+AGREEMENT BY CAUSE OF DEATH
+Given that age, sex, education, and suddenness of death are related to cause of death, we are interested in the extent to which these factors account for variation in age agreement by cause of death. We begin with descriptive findings for our measures of educational inequality and suddenness of death since these indicators have not appeared in prior studies. Our measure of educational inequality, the relative index of inequality (RII), indicates the mean proportionate decline in mortality by cause of death when educational levels move from the lowest to the highest (Preston and Elo, 1995). In other words, the smaller (more negative) the RII, the greater the decline in mortality as
+
+234
+
+Hussey and EIo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 1
+PER CENT AGREEMENT BETWEEN DEATH CERTIFICATE AGE AND FINAL AGE BY I I CAUSES OF DEATH, WEIGHTED AFRICAN-AMERICAN MORTALITY SAMPLE "
+
+Cause of Death
+Infections/pneumonia Cancer: Digestive organs Cancer: Respiratory Cancer: Other Ischémie heart disease Cerebrovascular disease Other cardiovascular diseases Diabetes mellitus COPD External causes All other causes All causes combined
+"Unweighted n's in parentheses.
+
+Female (%)
+56.3 77.1 65.5 77.6 62.8 64.0 62.7 58.8 88.2 28.0 60.4 63.8
+
+n
+(76) (85) (28) (105) (265) (157) (292) (63) (10) (27) (181) (1289)
+
+Male (%)
+59.7 76.6 77.3 75.1 68.0 71.2 63.7 88.2 76.7 79.7 70.3 70.3
+
+n
+(76) (74) (104) (152) (284) (121) (273) (18) (44) (44) (175) (1365)
+
+Both Sexes (*)
+58.1 76.9 74.3 76.2 65.6 67.0 63.2 65.4 78.5 65.3 65.1 67.1
+
+educational attainment increases. The RII values for each cause of death are reported in Table 2. Interestingly, among female deaths, the largest educational inequality is found for deaths from diabetes mellitus whereas among males, there is virtually no educational inequality associated with this cause. Sex differences in the etiology of this disease or in how likely it is to be recorded as the underlying cause of death could explain this anomalous finding. Among male deaths, it is also worth noting that the largest edu-cational inequality is associated with smoking-related diseases: respiratory cancer and chronic obstructive pulmonary disease (COPD). Among female deaths, following diabetes, ischémie heart disease and infections and pneumonia show the next steepest gradients in mortality by level of schooling. Finally, with two exceptions (diabetes and ischemic heart disease), cause-specific educational inequality in mortality is greater for males than for females.
+Descriptive results on the suddenness of death by cause and sex are presented in Table 3. The ranking of causes, from most sudden to least, are quite similar for fe-
+
+males and males. Not surprisingly, externally-caused deaths are the most sudden for both sexes, followed by deaths from ischémie heart disease. The least sudden deaths, for both females and males, are those from cancer and infections.
+To test our hypotheses about the effects of cause of death, age at death, educational attainment, and suddenness of death on age agreement, we estimate a series of logistic regression models. The dependent variable is the log odds of age agreement, and the samples are pooled with a dummy variable indicating whether the decedent died in 1980 or was a part of the Maryland oversample. Cause of death is coded as a series of dummy variables with "all other causes" as the reference category. Our measure of the suddenness of death is included as a linear variable indicating the percentage of decedents who spent zero nights in health care facilities in the year prior to death. As noted above, this measure is specific to each cause of death. The measure of educational attainment included in the multivariate analyses, and entered as a linear variable, is the proportion of African-Americans in the dece-
+
+Vol. 44, No. 3-4
+
+Cause-specific Mortality
+
+235
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 2
+RELATIVE INDEX OF EDUCATIONAL INEQUALITY (RII) BY CAUSE OF DEATH"
+
+Cause of Death
+
+Females
+
+(% Agree)
+
+Infections/pneumonia Cancer: Digestive organs Cancer: Respiratory Cancer: Other Ischémie heart disease Cerebrovascular disease Other cardiovascular diseases Diabetes mellitus COPD External causes All other
+
+-0.46 -0.32 -0.17
+0.01 -0.57 -0.35 -0.43 -1.30 -0.27 -0.17 -0.32
+
+(56.3) (77-1) (65.5) (77.6) (62.8) (64.0) (62.7) (58.8) (88.2) (28.0) (60.4)
+
+"Per cent age agreement in parentheses. RII is age standardized and computed per 1,000 deaths.
+
+Males
+-0.55 -0.38 -0.80 -0.13 -0.37 -0.48 -0.49 -0.02 -0.76 -0.48 -0.49
+
+(% Agree)
+(59.7) (76.6) (77.3) (75.1) (68.0) (71.2) (63.7) (88.2) (76.7) (79.7) (70.3)
+
+TABLE 3
+SUDDENNESS OF DEATH: PER CENT SPENDING 0 NIGHTS IN HEALTH CARE FACILITY IN YEAR PRIOR TO DEATH"
+
+Cause of Death
+
+Females
+
+(% Agree)
+
+Males
+
+(% Agree)
+
+Infections/pneumonia Cancer: Digestive organs Cancer: Respiratory Cancer: Other Ischémie heart disease Cerebrovascular disease Other cardiovascular diseases Diabetes mellitus COPD External causes All other causes
+
+0.8 (56.3) 4.4 (77.1) 5.1 (65.5) 5.9 (77.6) 37.4 (62.8) 21.5 (64.0) 29.3 (62.7) 18.3 (58.8) 10.2 (88.2) 56.5 (28.0) 163 (60.4)
+
+12.4 (59.7) 7.1 (76.6) 4.3 (77.3) 3.2 (75.1) 42.5 (68.0) 23.8 (71.2) 35.5 (63.7) 26.1 (88.2) 25.0 (76.7) 62.9 (79.7) ]92 (70.3)
+
+"Per cent age agreement in parentheses. Health care facilities include hospitals,nursing homes, hospices, mental hospitals,and drug and alcohol treatment centers. Percentagesare age standardized. Data are from the 1986 National Mortality Followback Survey Public Use Data Tape.
+
+dent's state of birth who had attained 0-4 death and educational attainment meayears of schooling by sex and birth cohort. sures.
+The results from five logistic regres- As expected, cause of death, suddension models, estimated separately for fe- ness of death, and educational attainment males and males, are presented in Tables are significantly related to age agreement. 4 and 5. All five models control for three Females who die from digestive and sample characteristics: age at death, year "other" cancers are significantly more of death, and state of birth. Models 1-3 likely to have age agreement (Table 4, focus, respectively, on the effects of Model 1). Moreover, this finding is not cause of death, suddenness of death, and due to age or educational differences in educational attainment on age agreement, cause of death as the cause of death coefModel 4 includes both the suddenness ficients remain significant when these and educational attainment measures factors are adjusted for (Table 4, Model while Model 5 includes the cause of 5). For male deaths, adjusting for educa-
+
+236
+
+Hussey and Elo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 4
+COEFFICIENTS OF EQUATIONS PREDICTING THE LOG ODDS OF AGE AGREEMENT FOR FEMALE DEATHS
+
+Characteristic
+Cause of Death Infections Cancer: Digestive Cancer: Respiratory Cancer: Other Ischémie heart disease Cerebrovascular disease Other cardiovascular diseases Diabetes mellitus COPD External causes All other causes
+
+Modell
+-0.0238 0.7888" 0.0884 0.8609* 0.1297 0.1539 0.0743 0.1932 0.1024
+-0.6379 ...
+
+Model 2
+
+Model 3
+
+Mode] 4
+
+Models
+0.0546 0.8747* -0.0047 0.8847* 0.1368 0.3087 0.1279 0.2377 0.1343 -0.5827
+...
+
+Suddenness of death Propor. low education Death certif. age
+
+-0.0130
+
+-0.0114° -0.0146a
+
+-6.6719e 0.0413e
+
+-0.0119" -6.7005e
+0.0426e
+
+-6.7689e 0.0446e
+
+Maryland birth No Yes
+1980 Sample No Yes
+Constant
+
+0.5667e
+
+... 0.5543e
+
+... 0.2734
+
+... 0.2492
+
+... 0.2605
+
+-0.2977 1.4457"
+
+-0.2730 1.9985e
+
+-0.1233 -1.0504
+
+-0.1118 -0.8728
+
+-0.1280 -1.4960"
+
+- 2 Log-Likelihood Intercept only Intercept and covars
+Chi-square
+
+1652.2 1607.5
+44.8e
+
+1652.2 1622.8
+29.4e
+
+1648.9 1555.4
+93.5e
+
+1648.9 1549.2
+99.7e
+
+1648.9 1533.8
+115.1e
+
+Sample size BIC
+NOTE: -- = reference category, "p fi 0.05. 'psO.01. '·p fi 0.001.
+
+1289 48.35
+
+1289 -0.78
+
+1285 -64.89
+
+1285 -63.94
+
+1285 -14.89
+
+tional attainment affects which cause of death coefficient is associated with better age reporting. When education is not adjusted for, deaths from respiratory cancer are associated with better age agreement (Table 5, Model 1). When education is adjusted for, deaths from digestive cancer are associated with significantly better age agreement (Table 5, Model 5).
+Model 2 in Tables 4 and 5 examines the relationship between suddenness of
+
+death and age agreement. Among women, suddenness of death remains a significant predictor of age agreement controlling for age and sample selection variables; the more sudden the death the less likely are ages to agree. This effect remains significant after controlling for educational attainment (Table 4, Model 4). For males, the size of the coefficient for suddenness of death is only about half of that for females and is not statistically significant (Table
+
+Vol. 44, No. 3-4
+
+Cause-specific Mortality
+
+237
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 5
+COEFFICIENTS OF EQUATIONS PREDICTING THE LOG ODDS OF AGE AGREEMENT FOR MALE DEATHS
+
+Characteristic
+Cause of Death Infections Cancer: Digestive Cancer: Respiratory Cancer: Other Ischémie heart disease Cerebrovascular disease Other cardiovascular Diabetes mellitus COPD External causes All other causes
+
+Model I
+-0.0060 0.6112 0.6069" 0.3614 0.1138 0.1822 0.0450 1.3365 0.2799 0.3462 --
+
+Model 2
+
+Model 3
+
+Model 4
+'
+
+Model 5
+-0.0510 0.6962" 0.5761 0.3853 0.1687 0.2486 0.0604 1.3833 0.3897 0.4533 --
+
+Suddenness of death
+
+-0.0056
+
+-0.0044
+
+Propor. low education
+
+-4.2803e -4.2501e -4.3690e
+
+Death certif. age
+
+-0.0223*
+
+-0.0260e
+
+0.0075
+
+0.0081
+
+0.0128
+
+Maryland birth No Yes
+1980 Sample No Yes
+Constant
+
+-- 0.4425*
+-- -0.5893*
+2.4712e
+
+-- 0.4420*
+-- -0.5937*
+3.0840e
+
+-- 0.1972
+
+-- 0.1902
+
+-- 0.1842
+
+-- -0.5042*
+1.7815*
+
+-- -0.4872"
+1.8414*
+
+-- -0.4782°
+1.1795
+
+- 2 Log-Likelihood Intercept Only Intercept and covars
+Chi-square
+
+1624.0
+1582.8 41.2e
+
+1624.0
+1593.1 31.0e
+
+1616.8
+1547.6 69.3e
+
+1616.8
+1546.3 70.5e
+
+1616.8
+1534.2 82.6e
+
+Sample size BIC
+NOTE: -- = reference category, "p s 0.05. »p s 0.01. 'p s 0.001.
+
+1,365 52.60
+
+1,365 -2.08
+
+1,357 -40.41
+
+1,357 -34.45
+
+1,357 18.35
+
+5). Unfortunately, due to collinearity with our cause of death measure, we cannot determine the extent to which cause-specific differentials in age agreement are due to suddenness of death.5
+5Due to the way in which we constructed the suddenness measure (i.e., assigning a suddenness value, derived from the NMFS, to each sex by cause category), if we know the sex and cause of death of a decedent, we also know their suddenness value.
+
+Model 3 shows that the proportion of African-Americans with 0--4 years of education in the decedent's state of birth has a strong negative relationship with age agreement. The strong education effect is not altered by adjusting for either suddenness of death (Model 4) or cause of death (Model 5). These results are consistent with our view that age agreement is tied to educational attainment of the decedent
+
+238
+
+Hussey and EIo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+and possibly the death certificate informant.
+The final step in our multivariate analysis is to assess which model best fits the data. To assess model fit we use the Bayesian Information Criterion (BIC) (Raftery, 1995). BIC adjusts for the fact that the null hypothesis will always be rejected with a large sample and also favors parsimonious models over all-inclusive ones. BIC also facilitates comparisons between nontested models, making it possible to choose between all possible models (as opposed to the null and alternative nested models considered in classical hypothesis testing) (Raftery, 1995). The smaller (more negative) the BIC value, the better the fit; positive BIC values suggest that the intercept-only model fits the data better than a model containing covariates. When comparing models, a BIC difference of 10 or greater provides very strong evidence that the model with the smaller (more negative) BIC value provides the best fit (Raftery, 1995).
+Model 3--the educational attainment model--is the best fitting model for both sexes according to the BIC criterion. For females, Model 4--with education and suddenness of death parameters--fits the data nearly as well as Model 3. Model 1, for both females and males, and Model 5 for males actually have positive BIC values, indicating that an intercept-only model fits the data better than these models. According to the conventional --2 log likelihood chi-square statistics, by contrast, Models 1 and 5 are significant at the 0.001 level. This finding demonstrates how conventional tests can be misleading when assessing model fit.
+CAUSE-SPECIFIC DEATH RATES
+The final issue examined in this paper is to see how cause-specific death rates
+
+for elderly African-Americans are affected when corrected age data are used. It has been shown previously that agespecific death rates from all-cause mortality are biased downward at ages 85 and above when uncorrected data are used (Preston et al., 1996). As noted above, in these analyses, deaths are grouped into the following five categories: cancer, ischemic heart disease, cerebrovascular diseases, all other cardiovascular diseases, and all other causes combined. The final open-ended age interval for these analyses is 90+ due to the relatively small number of deaths by cause at higher ages.
+The uncorrected and corrected agespecific death rates by cause of death for males and females are shown in Figures 1 to 5 and Table 6. Due to large errors in the census counts of elderly AfricanAmericans, it would be problematic to use census estimates in the denominator in the calculation of age-specific death rates. Consequently, we employ an alternative approach, which uses the actual death distribution and annualized intercensal growth rates to infer the number of deaths at a given age in the life table. Although the age-specific growth rates are based on census estimates, if we can assume similar patterns of age misreporting in both censuses, this fact should have little effect on the intercensal growth rates. The same approach was employed in estimates of all-cause mortality by Preston et al. (1996).
+We were able to produce our age- and cause-specific death rates by taking advantage of the fact that these rates sum to the all-cause death rate. Specifically, we used our knowledge of the uncorrected and corrected cause of death distributions to allocate Preston et al.'s (1996) estimates of total age-specific deaths to the
+
+Vol. 44, No. 3-4
+18
+
+Cause-specific Mortality
+FEMALES
+
+239
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+65-69
+
+70-74
+
+75-79
+
+80-84
+
+Age
+
+Death Cert. Age < > Corrected Age
+
+85-89 · Whites
+
+90+
+
+35
+30
+8
+°25
+8 20
+I
+i 15 S
+10
+5
+
+MALES
+
+65-69
+
+70-74
+
+75-79
+
+80-84
+
+85-89
+
+-- Death Cert. Age ^ ^ -- Corrected Age --\-- Whites
+
+90+
+
+FIG. 1.--Corrected and uncorrected African-American cancer death rates compared with white cancer death rates.
+
+five specific causes. We compare our estimates of cause-specific death rates for African Americans to those of whites. We have estimated cause-specific death rates for whites in the conventional manner, using 1985 deaths in the numerator and
+
+the Census Bureau's estimates of the white population on July 1, 1985 in the denominator (U.S. Bureau of the Census, 1993). The white deaths by cause were obtained from the NCHS Mortality Detail Files for 1985 (NCHS, 1987£). Although
+
+240
+
+Hussey and Elo
+
+Social Biology
+
+FEMALES 7060-
+
+ï-
+
+¿>20100-
+
+1
+65Í9
+
+1
+70-74
+
+--I 1
+
+75-79
+
+80-84
+
+Age
+
+85-89
+
+Death Cert Age « ^ » Corrected Age ^ ~- W h i t e s
+
+90+
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+MALES
+
+100
+80
+g 60 1 40 «
+O 20
+0
+
+65-69
+
+70-74
+
+75-79
+
+80-84
+
+Age
+
+85-89
+
+90+
+
+Death Cert. Age<
+
+· Corrected Age
+
+Whites
+
+FIG. 2.--Corrected and uncorrected African-American ischémie heart disease death rates compared with white ischémie heart disease death rates.
+
+the white rates are not corrected, prior research suggests that they are quite accurate up to age 95 (Coale and Kisker, 1990; Preston et al., 1996; Shrestha and Preston, 1995.
+
+Figures 1 to 5 show that, for most causes of death examined, the corrected and uncorrected rates are quite similar up to about age 85, after which the two rates begin to diverge. By age 90, the corrected
+
+Vol. 44, No. 3-4
+
+Cause-specific Mortality
+
+241
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+MALES
+
+Í5"
+
+Q
+5-
+0-
+
+«·* --(-- 65-69
+
+/ /
+
+-K^^
+
+70-74
+
+75-79
+
+80-84
+
+Age
+
+85-89
+
+Death Cert. Age ^ ^ ~ Corrected Age -- -- Whites
+
+90+
+
+FIG. 3.--Corrected and uncorrected African-American cerebrovascular disease death rates compared with white cerebrovascular disease death rates.
+
+cause-specific rates are (in all cases) higher than the uncorrected rates. This pattern is essentially the same as that documented for mortality from all causes combined (Preston et al., 1996) and demonstrates that African-
+
+American cause-specific mortality rates estimated from conventional death records are biased downward at the most advanced ages.
+Finally, in five of the six cases where the old-age crossover pattern is observed,
+
+242
+
+Hussey and Elo
+
+Social Biology
+
+FEMALES
+
+40-
+I30" 1
+yce 20 -
+
+10-
+
+,00** 0-
+65^9
+
+h"
+
+70-74
+
+--i 1 ----i--i--
+
+75-79
+
+80-84
+
+Age
+
+85-89 90+
+
+^^TM Corrected Age --
+
+Death Cert Age
+
+-- Whites
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+FIG. 4.--Corrected and uncorrected African-American death rates from other cardiovascular diseases compared with white death rates from other cardiovascular diseases.
+
+the use of corrected age data clearly or virtually eliminates it. The use of corrected age data clearly eliminates the crossover for male cerebrovascular (Figure 3) and other cardiovascular (Figure 4) deaths. Furthermore, the crossover is virtually eliminated for female
+
+and male cancer deaths (Figure 1) and female other cardiovascular deaths (Figure 4). While the use of corrected data does not eliminate the crossover for female ischémie heart disease deaths (Figure 2), it does narrow the racial gap in death rates at ages 85
+
+Vol. 44, No.3-4
+
+Cause-specific Mortality
+
+243
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Death Cert Age « -- · · Corrected Age -- h -- Whites
+
+120
+100
+o
+1° 80
+i 60
+f 40 S
+20
+65-69
+
+MALES
+
+70-74
+
+75-79
+
+80-84
+
+Age
+
+Death Cert. Age <
+
+>Corrected Age
+
+85-89 Whites
+
+90+
+
+FIG. 5.--Corrected and uncorrected African-American death rates from all other causes compared with white death rates from all other causes.
+
+and above. Similarly, while the white male ischémie heart disease death rate is equal to or higher than the black rate at all ages examined (Figure 2), the use of corrected data significantly narrows the racial differential at ages 90and above.
+
+DISCUSSION
+This study updates and extends the 1960 Matched Records Study, the only previous study to examine age agreement by cause of death. Consistent with the Matched Records Study, we find that for
+
+244
+
+Hussey and Elo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 6
+ESTIMATED AGE-SPECIFIC DEATH RATES BY CAUSE OF DEATH AND RACE: UNITED STATES, 1985 (DEATH RATES PER 1,000)
+
+CAUSE AND AGE GROUP
+Cancer 65-69 70-74 75-79. 80-84. 85-89 90+
+
+FEMALES
+
+African-Americans
+
+Death Certificate
+Age
+
+Final Age
+
+Whites
+
+5.4 5.4 5.7 7.1 5.8 7.3 8.0 7.8 8.6 13.4 12.0 105
+16.1 15.8 12.5 10.8 14.9 13.6
+
+MALES
+
+African-Americans
+
+Death Certificate
+Age
+
+Final Age
+
+13.7 13.6 16.1 15.5 21.0 21.3 27.3 24.2 19.0 23.4 18.5 34.3
+
+Ischémie heart disease 65-69 70-74. 75-79 80-84 85-89. 90+
+
+5.9 5.3 3.7 8.3 7.6 66 10.0 12.0 11.8 16.2 10.6 21.0 27.4 30.9 37.1 43.1 53.6 69.5
+
+9.3 8.2 13.6 14.0 17.3 17.6 34.7 33.6 46.3 50.0 42.2 53.1
+
+Cerebrovascular disease 65-69. 70-74 75-79. 80-84 85-89. 90+....
+
+3.1 2.7 0.9
+
+3.6 3.2
+
+1.9
+
+5.7 5.5 3.9
+
+14.5 12.5
+
+8.0
+
+15.9 16.6 15.3
+
+27.4 36.6 27.1
+
+3.5 3.3 7.1 5.7 8.2 8.3 10.2 11.4 18.2 16.1 20.4 27.6
+
+Other cardiovascular diseases
+
+65-69
+
+4.4 3.6
+
+1.8
+
+70-74.
+
+9.3 8.7 3.2
+
+75-79.
+
+15.4 13.6
+
+5.9
+
+80-84
+
+15.7 15.7 11.4
+
+85-89.
+
+33.0 35.9 21.6
+
+90+ 40.5 45.3 45.8
+
+9.5 9.3 11.6 10.7 18.4 22.3 22.3 18.0 36.3 34.8 44.6 64.1
+
+All other causes 65-69 70-74 75-79. 80-84 85-89 90+
+
+7.5 5.5 3.9
+
+10.3 10.1
+
+6.1
+
+15.8 14.0
+
+9.9
+
+24.0 19.4 16.8
+
+26.1 29.8 28.5
+
+54.6 74.3 51.6
+
+10.0 9.5 16.6 16.5 22.7 21.5 28.9 27.1 40.8 44.5 84.5 104.1
+
+Whites
+9.2 12.9 16.8 20 7 24.0 25.7
+9.2 14.5 21.8 33.9 50.6 81.2
+1.3 2.6 5.0 92 15.1 23.6
+3.7 6.0 9.5 15.9 26.3 47.9
+6.9 11.4 18.4 29.5 46.4 75.1
+
+all causes combined, age agreement is somewhat higher for male deaths (70 per cent) than for female deaths (64 per cent). Turning to cause-specific agreement rates, we find that for all cardiovascular deaths the agreement rates in the Matched
+
+Records Study are very similar to those in our sample. By contrast, age agreement rates for cancer deaths are higher in our sample than in the earlier study. These differences are likely to reflect improvements in age reporting over time.
+
+Vol. 44, No.3-4
+
+Cause-specific Mortality
+
+245
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+As expected, age agreement varies by cause of death, particularly among females. However, few of the differences are statistically significant. The two notable exceptions are female deaths from digestive and "other" (e.g., skin, breast, genitourinary organs) cancers, which have significantly better age agreement than deaths from other causes. Among male deaths there is less variation in age agreement by cause and only deaths from digestive cancers have significantly better age agreement once we control for sample characteristics.
+While the results suggest that age agreement is not strongly tied to cause of death, they highlight the importance of education and the suddenness of death in predicting age agreement. As expected, suddenness of death is negatively associated with age agreement and remains significant for females when other characteristics are controlled. The strong influence of educational background on age agreement for both females and males is one of the most significant findings and is consistent with previous analyses of all cause mortality. We interpret this finding as evidence that literacy and general cognitive functioning are strongly related to the quality of data on the age at death.
+
+Finally, while the source of mortality crossovers continues to be debated (Kestenbaum 1997; Preston et al. 1996), our findings conform with the view that this phenomenon is largely an artifact of age misreporting. Specifically, we find that cause-specific death rates for AfricanAmericans estimated from uncorrected vital statistics data are toolowat ages 85 and above. When corrected age data are used, the African-American death rate for many causes moves from below the white rate to above it, eliminating the mortality crossover. This finding is consistent with prior research on other populations (Eloand Preston, 1992)showing that cohorts subjected to adverse health conditions in early life also experience high mortality in later life.
+ACKNOWLEDGMENTS
+This research was supported by grants from the National Institute on Aging, AG00177-07 andAG10168. We would like to thank Samuel H. Preston for his helpful advice. We arealso grateful to Mark Hill and Ira Rosenwaike for their assistance in theconstruction of the data files, to Tim Cheney for programming assistance, and to the National Center for Health Statistics and state health departments for their cooperation.
+
+REFERENCES
+
+CLARKE, A. Y., M. HILL, and C. RIDDLEY. 1995. Con-
+ceptions of age and age accuracy among elderly African Americans: An ethnographic inquiry.Unpublished manuscript, Population Studies Center, University of Pennsylvania, Philadelphia, PA.
+COALE, A. J., and E. E. KISKER. 1990. Defects in
+data on old-age mortality in the United States: New procedures for calculating mortality schedules and life tables at the highest ages. Asian Pacific Pop. Forum 4(1): 1-31.
+ELO, I. T., and S. H. PRESTON. 1992. The effect of early life conditions on adult mortality: A review. Pop. Index 58:186-212. . 1994. Estimating African-American mortality from inaccurate data. Demography 31(3): 427-458.
+
+ELO, I. T., S. H. PRESTON, I. ROSENWAIKE, M. HILL,
+and T. P. CHENEY. 1996. Consistency of age reporting on death certificates and Social Security records among elderly African-Americans. Soc. Sci. Res.25:292-307. HAMBRIGHT, T. Z. 1969. Comparison of information on death certificates and matching 1960 census records: Age, marital status, race, nativity and country of origin. Demography 6(4):413-423.
+HILL, M. E., S. H. PRESTON, I. T. ELO, and I. ROSEN-
+WAIKE. (1997). Age-linked institutions and age reporting accuracy among older African Americans. Soc. Forces. 75(3):1007-1030. KESTENBAUM, B. 1992. A description of the extreme aged population based on improved Medicare enrollment data. Demography 29(4):565-580.
+
+246
+
+Hussey and Elo
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+KESTENBAUM, B. 1997. Recent mortality of the oldest old, from Medicare data. Unpublished manuscript, Social Security Administration, Baltimore, MD.
+MANTON, K.G. 1980. Sex and race specific mortality differentials in multiple cause of death data. Gerontologist 20(4):480-493. . 1982.Temporal and age variation of United States Black/White cause-specific mortality differentials: A study ofthe recent changes in the relative health status of the United States Black population. Gerontologist 22(2): 170-179.
+MANTON, K. G., andS. S. Poss. 1977.The black/ white mortality crossover: Possible racial differences inthe intrinsic rate of aging. Black Aging 3:43-53.
+NAM, C. B. 1995.Another look at mortality crossovers. Soc. Biol. 42(1-2):133-142.
+NAM, C. B., N. L. WEATHERBY, and K. A. OCKAY. 1978.
+Causes of death which contribute to the mortality crossover effect Soc. Biol. 25(4):306-314.
+NATIONAL CENTER FOR HEALTH STATISTICS. 1968.
+Comparability of age on the death certificate and matching Census record. United States, May-August 1960. Vital and Health Statistics, Series 2, No. 29. U.S.Government Printing Office, Washington,D.C.
+. 1987a. Advance report of final mortality statistics, 1985. Monthly Vital Statistics Report. 36(5), Supp. DHHS Pub. No.(PHS) 87-1120. Public Health Service, Hyattsville, MD.
+. 1987b Mortality detail files, 1985 public use data tape [obtained through the Interuniversity Consortium for Political and Social Research]. Department of Health and Human Services, Public Health Service, Hyattsville, MD.
+. 1988. Vital statistics of the United States, 1985, Vol. II, Mortality, Part A. U.S. Department of Health and Human Services, Public Health Service, Hyattsville,MD.
+NATIONAL INSTITUTES OF HEALTH. 1995. National
+Longitudinal Mortality Study, Public Use File, Release 2 Documentation, Bethesda,MD.
+PRESTON, S. H., and I. T. ELO. 1995. Are educational differentials in adult mortality increasing in the United States? J. Aging Hlth. 7(4)476-496.
+
+PRESTON, S. H., I. T. ELO, I. ROSENWAIKE, and M.
+HILL. 1996. African-American mortality at older ages: Results of a matching study. Demography 33(2): 193-209.
+RAFTERY, A. E. 1995.Bayesian model selection in social research. Sociol. Methodol. 25:111-163.
+ROSENWAIKE, I. 1979.A new evaluation of United States Census data on the extreme aged. Demography 16(2):279-288.
+ROSENWAIKE, I., and B. LOGUE. 1983. Accuracy of
+death certificate ages for the extreme aged. Demography 20(4):569-585. SHAPIRO, S. 1950. Development ofbirth registration and birth statistics in the United States. Pop. Stud. 4:86-111.
+SHRESTHA, L., and S. H. PRESTON. 1995. Consis-
+tency of census and vital registration data on older Americans: 1970-1990. Survey Methodol. 21:167-177.
+U.S. BUREAU OF THE CENSUS. 1987. Educational at-
+tainment in the United States: March 1982 to 1985. Current Population Reports, Series P-20, No. 415. U.S. Government Printing Office, Washington, D.C.
+. 1993. U.S. population estimates by age, sex, race and Hispanic origin: 1980-1991.Current Population Reports, P25, No. 1095. U.S. Government Printing Office, Washington,D.C.
+U.S. DEPARTMENT OF HEALTH AND HUMAN SERVICES,
+NATIONAL CENTER FOR HEALTH STATISTICS.
+1992. National mortality followback survey, 1986 (computer file). 2nd ed. U.S. Dept. of Health and Human Services, National Center for Health Statistics [producer], 1990, Hyattsville, MD. Inter-university Consortium for Political and Social Research [distributor], 1992, AnnArbor, MI. WOLFENDEN, H. H. 1954. Population statisticsand their compilation, rev. ed. Chicago: Univ. of Chicago Press, Chicago.
+WORLD HEALTH ORGANIZATION. 1977. Manual of
+the international statistical classification of diseases, injuries, and causes of death (based on the recommendations of the ninth revision conference, 1975, and adopted by the Twenty-Ninth World Health Assembly). World Health Organization, Geneva.
+
+

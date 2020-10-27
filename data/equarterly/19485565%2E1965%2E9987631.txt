@@ -1,0 +1,201 @@
+Eugenics Quarterly
+ISSN: 0097-2762 (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi18
+Inbreeding in small human populations
+Kenneth Morgan & J. N. Spuhler
+To cite this article: Kenneth Morgan & J. N. Spuhler (1965) Inbreeding in small human populations, Eugenics Quarterly, 12:4, 204-208, DOI: 10.1080/19485565.1965.9987631 To link to this article: http://dx.doi.org/10.1080/19485565.1965.9987631
+Published online: 23 Aug 2010. Submit your article to this journal Article views: 2 View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi18
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:28
+
+INBREEDING IN SMALL HUMAN POPULATIONS
+
+KENNETH MORGAN AND J. N. SPUHLER
+Departments of Human Genetics and of Anthropology University of Michigan Ann Arbor, Michigan
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+Gordon Allen (1965) makes explicit a number of problems with a long history of concern for those who attempt to interpret empirical information on inbreeding in human populations. Our comments are mostly about some problems of obtaining estimates of population inbreeding coefficients from raw field data.
+In the absence of mutation, gene flow, and selection, an idealized small population mating at random for a requisite number of generations (e.g., excluding negative assortative mating), dependent upon the size of the population, will reach a level of inbreeding equal to unity. As far as this concerns loss of heterozygosity or fixation of genes, it is highly improbable that this situation obtains to any extent in natural and enduring human populations. It is also rather doubtful that small human populations mate completely (or almost so) at random. The levels of inbreeding attained by small human populations, as measured by the method of path coefficients based on genealogical information, may become stabilized at values less than unity because of systems of nonrandom mating which avoid, to varying degrees, close consanguinity among the mates and complete isolation.
+Partitioning the "total" inbreeding coefficient value into random and nonrandom, components requires a realistic concept of the "base population," i.e., that hypothetical population to which one or more empirical populations may be compared, as well as methods that
+
+can measure or estimate the inbreeding contributions attributable to random and/or nonrandom mating. Depending upon the questions we wish to consider when studying small empirical human populations, the quest for a suitable mathematical model becomes more or less meaningful.
+Models describing the expected loss of heterozygosity or increase in the probability of genie fixation in small random mating populations are based on a considerable number of assumptions, almost all of which are violated to varying degrees by empirical human populations. There are a number of adequate examples in the literature that bear out these statements. Here, let us take the Ramah Navaho population as an example of an empirical small human population (Spuhler and Kluckhohn, 1953).
+First of all, any estimate of the contribution to the coefficient of inbreeding in a population requires an adequate definition of a "generation." Then, if we wish to compare two or more populations, it is contended that generations must be defined in a similar manner in all the populations. For the Ramah Navaho genealogy, generations were established by placing all the offspring (comprising full- and half-sibships) of a female in the next contiguous generation. The starting point of the genealogy is the "founder" generation; the founders are documented historically. Because of this method of generation assignment, a female involved in more than one mating has all of her progeny assigned to the
+
+204
+
+Vol. 12, No. 4
+
+Inbreeding in Small Populations
+
+205
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+same generation. This generation is always the next contiguous one. This restriction does not apply to a male who mates with different females. That is, in the Ramah Navaho genealogy as it is now constructed, only males can engage in multiple, cross-generational matings. In addition, only males can contribute progeny who are assigned to the same generation as their father. Other genealogies assign all offspring to the next contiguous generation in the paternal line. The use of different criteria for identifying generations will probably result in different patterns and distributions of apparent multiple, cross-generational matings among the sexes. Therefore, the recognition of a breeding generation presents problems that must be solved before meaningful comparative estimates can be obtained for different populations in regard to the increase in inbreeding by generations.
+Secondly, we are faced with the problem of varying degrees of polygyny in different small human populations. The idealized population is monogamous. It is sufficient here to state that the Ramah Navaho were far from being monogamous in the older generations, although there seems to be a trend towards monogamy in the most recent generations.
+Table 1 shows the mean of the breeding sibship size and the breeding sibship size variance for five of the eight progeny generations of the Ramah Navaho genealogy.
+Here, as an approximation, we assume that the Ramah population consists of two subpopulations: Subpopulation A consists of immigrants (including nonRamah Navahoes, other Indians, and a few non-Indians who contribute genes to the Ramah population) and unknown fathers (who may or may not be members of the Ramah population); Subpopulation B comprises Ramah breeders.
+
+TABLE 1
+MEAN AND VARIANCE OF BREEDING-FAMILY SIZE AMONG THE PROGENY OF FEMALE BREEDERS BELONGING SUBPOPULATION B, THE RAMAH BREEDERS.*
+
+Progeny »eneration
+
+Estimate of mean family
+size
+(2)t
+
+Estimate of family-size variance
+(l)t (2)t
+
+1
+
+2 3 4
+
+1.88
+1.73 ·
+4.13
+
+0.86 0.65 5.98
+
+#t mt
+
+5
+
+3.66 3.36
+
+5.17 6.18
+
+6
+
+2.63 1.24
+
+3.48 3.36
+
+* Half-sibships combined for calculations. f (1) Denotes complete estimates for Generations 2, 3, and 4; estimates based on the exclusion of size-zero sibships for Generations 5 and 6. (2) Denotes complete estimates for Generations 5 and 6; i.e., calculations included sizezero sibships.
+
+An immigrant (any outsider who is known) is a member of Subpopulation A for that generation of breeding parents which produces the next generation of progeny. If he contributes to a further generation of progeny, he is still considered a member of Subpopulation A, but now in another generation of breeding parents.
+Members of Subpopulation B, if they are males, can belong to more than one generation of breeding parents. Thus, the appearance of more males than females in a generation of breeding parents can partly be explained by the assignment procedure.
+It should be noted that members of Subpopulation A are almost always males.
+Because of the manner in which the pedigree is divided into generations, it is much easier to obtain estimates of mean family size and family size variance for female breeders than for male breeders. Because of the phenomenon of male cross-generational mating, the mean family size and the variance of family
+
+206
+
+Morgan and Spuhler
+
+Eugen. Quart.
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+size will be greater for male breeders
+than for female breeders, in general.
+Estimates of the mean family size of
+breeding progeny and the variance have
+been obtained for different generations
+of female members of Subpopulation B.
+It can be seen from the values in
+Table 1 of estimates of the mean and
+variance of breeding-family size that:
+1. The Ramah Navaho population experienced an apparent large increase in mean breeding-family size and variance in the fourth generation. The decrease in mean breeding-family size in the fifth generation seems to be real in that almost all living individuals have contracted fertile matings, or have had the opportunity to do so. The breeders comprise 50% of the total siblings of their generation. The remaining 50%, who are not breeders, on the pedigree chart consist of an overwhelming majority of individuals who died without producing any progeny, a few individuals who have married out of the Ramah population, and, perhaps, a very small number who have contracted fertile matings since 1950.
+2. The decrease in mean family size in the sixth generation is undoubtedly the result of incomplete mating by individuals of this generation. Estimates of mean breeding-family size and variance were not attempted for progeny generations seven and eight because of incompleteness of these generations.
+3. Calculation of the effective number of breeding individuals corrected for variance of breeding-family size among the progeny is valid when the mean family size is approximately two. Therefore, corrections can be undertaken only for the parents who produced generations two and three.
+Note that the variance of family size
+for these two generations is less than
+two, thus resulting in an effective popu-
+lation that is larger than the number of
+breeding individuals before correction
+for unequal numbers of males and
+females.
+
+The Ramah, like most other populations that have been "founded," are obviously increasing in number in the recent generations. The idealized population has a family size mean and variance of two. And Crow has provided equations that deal with correction for the effective number of breeding individuals when the mean family size remains approximately two and the variance does not. There are small human isolates that have not shown such a marked increase in growth (e.g., the Samaritans [Bonne, 1963]) and others that show even greater growth (e.g., the Hutterites [Mange, 1964]). As an aside, it is rather doubtful that the S-leut of the Hutterites can be considered a "small" population (initial colony size of approximately 200 in the 1870's, combined populations of the S-leut totaling 5,450 individuals in 1960) when compared to the Ramah Navaho (maximum number of parents of the founders' generation being 35 in the 1870's, Ramah group totaled 614 individuals as of 1948) or to the Samaritans (134 individuals in the group in Israel in 1960, 209 individuals in the Jordan population in 1960). To complicate matters, not only do small populations often increase in size, but this increase in size is not uniform over all the generations, as shown for the Ramah Navaho breeding progeny in Table 1.
+Thirdly, an idealized population is an isolate. The figures in Table 2 show that the Ramah Navaho population is not an isolate in the strict sense of the term. Above all, the rates of immigration vary among the generations. Especially in the more recent generations, we encounter emmigration as well.
+Finally, to discuss only a few of the many other problems, we are faced with the existence of unequal numbers of breeding males and females among the
+
+Vol. 12, No. 4
+
+Inbreeding in Small Populations
+
+207
+
+TABLE 2
+DISTRIBUTION OF PARENTS OF RAMAH PROGENY IN 7 GENERATIONS OF THE RAMAH NAVAHO POPULATION.
+
+Progeny generation
+
+Number of non-Rahmah, un-
+
+known, and immigrant parents of
+
+Ramaii progeny of generation í
+
+Males
+
+Females Total
+
+Numbers of Ramah parents of
+
+:respective progeny
+
+generation t
+
+Males
+
+Females Total
+
+1*
+2* 3» 4
+5 6
+7 Totals
+
+11 2 13
+909
+14 2 16
+13 1 14
+729 54 7 61
+
+18 17 35
+11 9 20
+6 16 22 11 16 27 27 35 62 63 73 136
+58 57 115 194 223 417
+
+· The count is maximum.
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+generations in the Ramah Navaho. The tabulated values for total number of breeding males and females for each generation of progeny do not display the real discrepancies. If we look at the subdivision figures of Ramah breeders versus immigrants, it is obvious that there is a marked deficit of male Ramah breeders compared to female Ramah breeders, while, on the other hand, almost all of the breeding immigrants are males. Thus, not only must we consider the possibility of differential multiple cross-generational matings among the sexes, but we are also faced with the problem of probable differential fertility of male Ramah breeders and immigrants.
+Our contention is that attempts to measure deviations from random mating in empirical populations based on comparisons with a random mating idealized population is not one of the more satisfying nor meaningful approaches. Hajnal (1963) has provided a rather complete discussion of the methods that may be employed in obtaining estimates of the expected distribution of various degrees of consanguineous matings when fairly extensive demographic information is available. If the question is primarily one of estimating nonrandom mating in small empirical human populations, then it would seem that Hajnal's
+
+approach offers one satisfying and realistic approach to the concept of the "base population." That his equations do not generate inbreeding coefficient values does not mean that they are inadequate for our purpose. Whenever there is a genealogy and other demographic information for a population, only the extent of incomplete information limits the "perfection" of obtaining estimates of the distribution of different degrees of consanguinity within the defined population. Using this approach requires us to know a great deal more about population demography in our studies than does the use of idealized, random mating population models for comparisons. But, this would seem to have some heuristic value in that we would be required to use more information when making distinctions between populations and when drawing conclusions on the basis of observed values.
+Alternatively, computer simulation of different populations offers a more complete approach to the estimation of expected parameters and their distributions. A few contributions, suggesting the range of capabilities of such a method, have appeared in recent years (Schull and Levin, 1964; Williams, 1965; Kundstadter, et al., 1963).
+In the study of human populations a
+
+208
+
+Morgan and Spuhler
+
+Eugen. Quart.
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+most important problem is the effects of different sociocultural systems on evolutionary change. Whatever approach is used to estimate contributions to inbreeding based on random mating, etc., the important point is that we are attempting to analyse and compare nonrandom mating in different human populations; and perhaps we will be able to relate our results to different socially defined systems. Thus, we should augment our approach to the study of inbreeding in small human populations by simulating each population according to its socially defined rules. The expected distributions of consanguineous matings or the inbreeding coefficients obtained from random-mating and sociallydefined-mating simulations may be compared with each other and with the observed distributions that obtain in the defined population. To reiterate, comparisons between different populations with different sociocultural systems might display relationships that would be of inestimable contribution to discussions on evolution of human populations.
+Whatever approach is used to generate estimates of expected distributions of different degrees of consanguineous matings in different small human populations, it is useful to bear in mind that these estimates are "expected" ones. Attempts to measure nonrandom and random component contributions to the total inbreeding coefficient of a population, or one or more generations of a population, from gene and genotype frequency data, as well as the empirical distributions of the different degrees of consanguineous matings or the inbreeding coefficients, provide "observed" values. Especially for the suggestion for estimating the inbreeding components by the use of gene frequency distributions and deviations from Hardy-Wein-
+
+berg ("expected") proportions, it is profitable to distinguish these as "observed," not "expected," values. It should suffice to point out, in this specific instance, that if selection does operate on the blood group loci and if the Hardy-Weinberg equation is mathematically rather insensitive to microevolutionary distortion, then observed distributions of the frequencies of genes and genotypes may provide no or even incorrect estimates of inbreeding if the data are considered expected values. It is precisely this conclusion that suggests the more important contribution of the study of consanguinity in small human populations: With the appropriate methodology for comparison of expected with observed values, we should be able to obtain estimates of selection at different loci in the same population and at the same locus in different populations.
+REFERENCES
+ALLEN, G., 1965. Random and nonrandom inbreeding. Eugen. Quart., 12 (4): 181-198.
+BONNE, B., 1963. The Samaritans: A demographic study. Hum. Biol., 35: 61-89.
+CROW, J. F., 1954. Breeding structure of populations. II. Effective Population Number. In O. Kempthorne, T. A. Bancroft, J. W. Gowan, and J. L. Lush, eds., Statistics and Mathematics in Biology. Iowa State College Press, Ames, Iowa, pp. 543-556.
+HAJNAL, J., 1963. Concepts of random mating and the frequency of consanguineous marriages. Proc. Roy. Soc. (London), Series B, 159: 125-177.
+KUNSTADTER, P., et al., 1963. Demographic variability and preferential mating patterns. Amer. J. Phys. Anthrop., 21: 511-520.
+MANGE, A. P., 1964. Growth and including of a human isolate. Hum. Biol., 36: 104-133.
+SCHULL, W. J., and B. R. LEVIN, 1964. Monte
+Carlo. Simulation: Some uses in the genetic study of primitive man. In J. Gurland, ed., Stochastic Models in Medicine and Biology. Univ. of Wisconsin Press, Madison, pp. 179196.
+SPUHLER, J. N., and C. KLUCKHOHN, 1953. In-
+breeding coefficients of the Ramah Navaho population. Hum. Biol., 25: 295-317. WILLIAMS, B. J., 1965. A Model of HuntingGathering Society and Some Genetic Consequences. Unpublished Ph.D. thesis, University of Michigan.
+
+

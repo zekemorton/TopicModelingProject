@@ -1,0 +1,870 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Demographic and social consequences of various causes of death in the United States
+Samuel H. Preston
+To cite this article: Samuel H. Preston (1974) Demographic and social consequences of various causes of death in the United States, Social Biology, 21:2, 144-162, DOI: 10.1080/19485565.1974.9988101 To link to this article: http://dx.doi.org/10.1080/19485565.1974.9988101
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 3
+View related articles
+Citing articles: 2 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:34
+
+Demographic and Social Consequences of Various Causes of Death in the United States
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+Samuel H. Preston
+Center for Studies in Demography and Ecology Department of Sociology University of Washington Seattle, Washington
+
+Diseases affect societies in a wide variety of ways. It has been argued that they have influenced the outcome of military and political struggles (Zinsser, 1935; Shrewsbury, 1964), helped to establish the prevailing literary tone and preoccupations of a generation (Dubos, 1959), determined attitudes and norms regarding the expression of bodily instincts and promiscunity (Lawrence, 1956), and altered a population's incentives for resorting to supernatural explanations (Blauner, 1966). Unquestionably, they have influenced the duration of human life, the durability and extent of kinship ties, the sex ratio in populations, and the monetary "value" of a human life.
+Perhaps most important has been the impact of diseases on population size and growth rates. It is not unreasonable to suggest that the population of England and Wales would be larger by some 25 to 30 per cent today were it not for the growth-inhibiting influence of respiratory tuberculosis in the nineteenth and early twentieth centuries.1 The sudden reduction
+1 The influence of a cause of death on popula-
+
+of mortality from such causes of death as malaria and smallpox has, of course, created the condition of rapid population growth that today prevails in most of the less-developed world.
+This paper examines the social and demographic impact of selected causes of death in a contemporary low mortality country, the United States. It may be
+tion growth rates is closely approximated by formula (1) in the text. When this formula is applied to data from England decenially from 1861 to 1921, the reduction in annual female growth rates due to deaths from tuberculosis is evaluated as 0.00267, 0.00229, 0.00173, 0.00143, 0.00105, 0.00084, and 0.00078 (Preston et al., 1972). A mean age at childbearing of thirty years is used. Assuming that the first figure applies to the previous sixty-year period and that each subsequent figure applies to the preceding tenyear period, the cumulative impact on population size in 1921 and subsequently is 25.7 per cent. That is, the population of 1921 and beyond would have been approximately 26 per cent larger than it actually was if death rates from respiratory tuberculosis had been zero for the period 18011921. An alternative cruder calculation (formula [2]) is simply the exponential of the cumulative crude death rates from tuberculosis during the period. Making the same assumption, that rates are constant during some preceding period, we find that the population of 1921 would have been 27.3 per cent larger without respiratory tuberculosis. Both calculations assume that modifying mortality rates would have had no impact on fertility or migration rates.
+
+144
+
+Vol. 21, No. 2
+
+Consequences of Causes of Death
+
+145
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+widely believed that death rates have fallen to such low levels that the influence of mortality from individual causes is trivial, but this is not the case. For example, with crude birth rates around 18/1000 and death rates around 9/1000, the typical Western country could increase its shortterm growth rate by a factor of up to two through further advances against mortality. Furthermore, effects on age composition and on such related factors as birth rates and per capita income are likely to be greater when mortality declines from a low as opposed to a high level, since such declines are necessarily heavily concentrated in the span of ages above 50.
+The procedure is straightforward. To gauge the impact of a cause of death on population structure, we compare population projections made under the assumption that the cause is absent to those projections made under the assumption that it is present. The projections merely serve the purpose of indicating the effect of a cause on future population and can in no way be interpreted as predictions. The fictional quality is assured by assuming that a cause of death is eliminated instantaneously, rather than at an arbitrary pace over some course of years. However, it is important to note for analytic purposes that, whatever the pace, complete elimination of a cause of death would eventually produce identical characteristics in the projected population, with the sole exception of population size. This result is a consequence of the weak ergodic property of population movements through time (Lopez, 1961; McFarland, 1969).
+The causes of death we shall examine are: all infectious and parasitic diseases, including influenza and pneumonia ( B l 17, 30-32, 36, 40 in the Seventh Revision of the International List of Diseases, Injuries, and Causes of Death); malignant and benign neoplasms (B18-19); cardio-
+
+vascular disease (B22, 24-29; ASS, 86); and accidents and violence (BE47-50). Each cause is examined with respect to its subsequent impact on population size, growth rate, age-sex composition, kinship ties, retirement age, and per capita income. It is hoped that the results of this investigation may, among other things, fill in a part of the background against which health policy decisions are made.
+Persons "saved" from death due to a particular cause at some age will be exposed at all subsequent ages to the recorded United States schedules of birth rates and of death rates from other causes. Thus, we assume independence between age-specific birth and death rates and among age-specific death rates from the several causes of death. These assumptions are undoubtedly not completely accurate, but it is difficult to say in what direction they err. For example, death rates from infectious diseases are higher in lower social classes. Eliminating deaths from this cause may be expected to increase disproportionately the numbers in these lower classes, thus elevating birth rates. However, the persons "saved" may perhaps be among the less robust of their cohort and less likely to marry or to experience unimpaired fecundity. The assumption of independence among causes of death is likewise subject to error, but the errors unquestionably operate in both directions and the net effect cannot be appraised without much more effort than has thus far been expended on estimating empirically the size of interdependencies.
+The projection procedure employed here differs from the traditional approach to studying the consequences of mortality variation, which focuses on changes in a cohort followed through life (e.g., Enke and Brown, 1972; Fuchs, 1966). While such an approach is useful, it is incomplete, since it takes no account either of the ini-
+
+146
+
+Preston
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+tial population structure or of the impact of mortality change on numbers of births. Thus, it neglects changing relations among cohorts. Mortality decline can only "age" a cohort; but an actual population is frequently rejuvenated through the impact on births of such declines (Hermalin, 1966).
+UNITED STATES LIFE TABLES WITH
+VARIOUS CAUSES OF DEATH
+ELIMINATED
+The latest year for which cause-of-death life tables have been computed for the United States is 1964 (Preston et al., 1972, pp. 768-71). Official U.S. life tables for 1969-71 will not be available for several years. Fortunately for our purposes, the mortality profile of the population is subject to quite small annual variation. For example, the life expectancy at birth in the 1964 life tables was 66.9 for males and 73.6 for females, while in 1968 the figures were 66.6 and 74.0 (U.S. National Center for Health Statistics, n.d., pp. 5-7). There would appear to be minimal loss in using the 1964 tables even if we choose the base year of the projections to be somewhat later.
+The survivorship columns in the various life tables for the United States population of 1964 are displayed in Table 1. To repeat, the basic assumption underlying these calculations is that the elimination of a cause of death would leave unaltered the force of mortality function (set of death rates at exact ages) for all other causes of death combined. The iterative technique developed by Nathan Keyfitz is utilized (Preston et al., 1972).
+Additional information is introduced for ages over 85, since more than half of the population would survive to that age were cardiovascular disease to be eliminated. In the life tables for all causes combined, I
+
+use survivorship proportions over age 85 appearing in the official U.S. life tables for 1959-61 (U.S. National Center for Health Statistics, 1964). These calculations were based in turn upon the survival experience of Civil War veterans. For the other tables, the official figures were combined with data on the cause-distribution of deaths in age intervals above 85 in 1964 (U.S. National Center for Health Statistics, 1966&).
+Following Chiang (1968), I assume for these ages that the ratio of the force of mortality function from the cause eliminated to that from all other causes combined is constant within each five-year interval. This assumption is adopted for convenience since it permits a modification of the "all cause" table that relies completely on the ratio of deaths from the cause eliminated to deaths from all causes. Direct use of the cause-specific rates above age 85 is rejected because of the likelihood of large errors due to age misreporting.
+FEMALE DOMINANT PROJECTIONS
+WITH CONSTANT FERTILITY
+All projections use a base year of 1969. This is the latest year for which age-specific birth rates for males and females have been published (U.S. National Center for Health Statistics, 1973). The age-sex distribution of the population in 1969 is derived from the U.S. Bureau of Census (1970).
+The sex ratio of births in the year was 1.0530, and this ratio is assumed to be constant throughout the projection period. The life tables shown in Table 1 are used throughout each set of projections. Zero net migration into each age interval is assumed throughout the projection period. This assumption is made partly for convenience and partly from a desire to derive the implications of mortality decline for
+
+Vol. 21, No. 2
+
+Consequences of Causes of Death
+
+147
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+TABLE 1
+SURVIVORSHIP PROPORTIONS UNDER UNITED STATES LIFE TABLES WITH SPECIFIED CAUSES OF DEATH ELIMINATED, 1964
+
+AGE INTERVAL BY SEX
+Males 0 to 0-4 0-4 to 5-9 5-9 to 10-14
+10-14 to 15-19 15-19 to 20-24 20-24 to 25-29 25-29 to 30-34 30-34 to 35-39 35-39 to 40-44 40-44 to 45-49 45-49 to 50-54 50-54 to 55-59 55-59 to 60-64 60-64 to 65-69 65-69 to 70-74 70-74 to 75-79 75-79 to 80-84 80-84 to 85-89 85-89 to 90-94 90-94 to 95-99 95-99 to 100+*
+Life expectancy at birth
+Females 0 to 0-4
+0-4 to 5-9 5-9 to 10-14 10-14 to 15-19 15-19 to 20-24 20-24 to 25-29 25-29 to 30-34 30-34 to 35-39 35-39 to 40-44 40-44 to 45-49 45-49 to 50-54 50-54 to 55-59 55-59 to 60-64 60-64 to 65-69 65-69 to 70-74 70-74 to 75-79 75-79 to 80-84 80-84 to 85-89 85-89 to 90-94 90-94 to 95-99 95-99 to 100+*
+Life expectancy at birth
+
+No Causes
+
+PROPORTION or THOSE ALIVE AT BEGINNING or INTERVAL WHO SURVIVE TO END WITH SPECIFIED CAUSE ELIMINATED
+
+Neoplasms
+
+Cardiovascular Disease
+
+All Infectious
+and Parasitic Diseases
+
+Violence
+
+0.97143 0.99S97 O.997S7 O.99S4S 0.99189 0.99088 0.99033 0.98746 0.98143 0.97076 O.9S31S 0.92663 0.89089 0.83989 0.77692 0.70277 0.60004 0.43143 0.29468 0.17361 0.10445
+66.862
+
+0.97172 0.99641 0.99797 0.99587 0.99241 0.99155 0.99128 0.98891 0.98399 0.97538 0.96159 0.94098 0.91284 0.87078 0.81554 0.74590 0.64684 0.48661 O.3233S 0.19108 0.11478
+69.080
+
+0.97162 0.99606 0.99764 0.99561 0.99220 0.99144 0.991S2 0.99029 0.98788 0.98348 0.97579 0.96450 0.94937 0.92807 0.90418 0.87809 0.86469 0.75377 0.69296 0.6048S 0.60285
+77.166
+
+0.97514 0.99666 0.99778 0.99563 0.99213 0.99116 0.99070 0.98803 0.98227 0.97120 O.9S5OS 0.92947 0.89496 0.84601 0.78564 0.71447 0.61710 0.47057 0.31665 0.19605 0.12496
+67.696
+
+0.97307 0.99735 0.99877 O.998SS 0.99796 0.99732 0.99588 0.99277 0.98667 0.97620 0.95894 0.93266 0.89700 0.84602 0.78337 0.71008 0.60974 0.46127 0.30403 0.18193 0.11062
+69.080
+
+0.97768 0.99687 0.99833 0.99791 0.99681 0.99606 0.99475 0.99232 0.98870 0.98308 0.97420 0.96227 0.94440 0.91426 0.86972 0.80090 0.69012 0.51564 0.31687 0.17658 0.10464
+73.643
+
+0.97791 0.99721 0.99864 0.99821 0.99719 0.99660 0.99576 0.99425 0.99214 0.98891 0.98334 0.97493 0.96053 0.93498 0.89489 0.82938 0.72425 0.54087 0.33890 0.19055 0.11299
+76.116
+
+0.97784 0.99695 0.99842 0.99805 0.99712 0.99661 0.99562 0.99388 0.99151 0.98793 0.98293 0.97719 0.97043 0.96037 0.94716 0.92903 0.92543 0.81081 0.74916 0.65884 0.69375
+84.005
+
+0.98063 0.99748 0.99853 0.99811 0.99714 0.99652 0.99534 0.99303 0.98945 0.98387 0.97517 0.96353 0.94616 0.91680 0.87367 0.80743 0.70228 0.52944 0.33494 0.19377 0.12017
+74.409
+
+0.97899 0.99779 0.99891 0.99882 0.99829 0.99756 0.99625 0.99396 0.99042 0.98488 0.97613 0.96435 0.94663 0.91680 0.87289 0.80517 0.69751 0.52368 0.32709 0.18594 0.11223
+74.612
+
+SOURCES: Compiled from Preston et al., 1972, and U.S. National Center for Health Statistics, 1964 and 1966. * Ratio, perssrosno-nye-years lived at ages over 100 to person-years lived, 95-99.
+
+148
+
+Preston
+
+Social Biology
+
+current members of the United Statespop- tion is later modified by assuming male
+
+ulation and their descendants.
+
+dominance and by adopting the census
+
+The basic set of projections assumes that bureau's replacement-level fertility sched-
+
+the age-specific female fertility rates of ule. Table 2 summarizes the basic results
+
+1969 remain constant throughout the pro- of the five female-dominant, constant fer-
+
+jection period. The total fertility rate for tility projections based upon the five differ-
+
+1969 was 2.46. Although fertility has de- ent mortality regimes.
+
+clined since 1969, the factors in the decline
+
+may well be transitory; the total fertility
+
+POPULATION SIZE AND GROWTH
+
+rate for 1969 wasalready quite close to its It is well known that additional mortal-
+
+historical minimum. The fertility assump- ity reductions would have relatively little
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+TABLE 2
+PARAMETERS OF THE PROJECTED UNITED STATES POPTJLATION UNDER VARIOUS ASSUMPTIONS REGARDING MORTALITY, WITH FEMALE FERTILITY CONSTANT AT 1969 LEVELS
+
+YEAR AND PARAMETERS
+1979 Population size (millions) Proportion under age IS Proportion 65+ Sex ratio ( M / F ) Sex ratio at 6 5 + Growth rate* Birth rate* Death rate*
+1999 Population size (millions) Proportion under age 15 Proportion 65+ Sex ratio ( M / F ) Sex ratio at 6 5 + Growth rate* Birthrate* Death rate*
+2049 Population size (millions) Proportion under age 15 Proportion 65+ Sex ratio ( M / F ) Sex ratio at 6 5 + Growth rate* Birthrate* Death rate*
+Steady state Population size (millions) Proportion under age 15 Proportion 65+ Sex ratio ( M / F ) Sex ratio at 6 5 + Growth rate* Birthrate* Death rate*
+
+ALL CAUSES
+222.71 0.2S8 0.101 0.962 0.699 0.0098 0.0200 0.0101
+265.31 0.255 0.100 0.969 0.651 0.0077 0.0181 0.0103
+368.20 0.245 0.120 0.971 0.694 0.0056 0.0175 0.0119
+
+No
+CANCER
+225.44 0.2SS 0.107 0.963 0.721 0.0107 0.0198 0.0090
+271.22 0.250 0.112 0.968 0.681 0.0079 0.0177 0.0097
+379.79 0.239 0.134 0.970 0.724 0.0057 0.0170 0.0114
+
+No CARDIOVASCULAR DISEASE
+232.86 0.247 0.133 0.966 0.755 0.0133 0.0191 0.0058
+288.59 0.235 0.162 0.973 0.762 0.0086 0.0166 0.0080
+411.50 0.220 0.198 0.980 0.813 0.0057 0.0157 0.0100
+
+No
+INFECTIOUS AND
+PARASITIC DISEASES
+223.SO 0.2S8 0.103 0.963 0.706 0.0101 0.0199 0.0098
+267.30 0.255 0.102 0.970 0.663 0.0079 0.0180 0.0101
+374.47 0.244 0.122 0.973 0.707 0.0058 0.0174 0.0116
+
+No
+VIOLENCE
+224.13 0.257 0.102 0.967 0.705 0.0104 0.0199 0.0095
+269.57 0.253 0.101 0.981 0.667 0.0081 0.0179 0.0098
+379.89 0.242 0.123 0.989 0.729 0.0058 0.0173 0.0114
+
+0.244 0.120 0.970
+0.692 0.00563 0.01748 0.01185
+
+0.238 0.135 0.970
+0.723 0.00572 0.01707 0.01135
+
+0.220 0.198 0.981
+0.817 0.00568 0.01573 0.01005
+
+0.244 0.122 0.973
+0.705 0.00581 0.01742 0.01161
+
+0.242 0.123 0.988
+0.728 0.00587 0.01728 0.01140
+
+� Ten-year average centered on date.
+
+Vol. 21, No. 2
+
+Consequences of Causes of Death
+
+149
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+effect on a modern country's intrinsic growth rate--the steady-state growth rate that would ultimately be produced by the indefinite continuance of a given regime of age-specific mortality and fertility rates (Coale, 1959). It has been shown that the gain in the intrinsic growth rate from a reduction in mortality is closely approximated by the average decline in the force of mortality function between ages zero and AB, the mean age of childbearing in the stable population (Preston, 1974). Since mortality from any of the causes considered is relatively low prior to An, or indeed prior to the end of the childbearing period itself, the gain in the intrinsic growth rate is necessarily quite small. The largest gain results from the elimination of violence ( + 0.00024) and the smallest from the elimination of cardiovascular disease ( + 0.0000S), even though the gain in female life expectancy is roughly ten times greater for cardiovascular disease. In both cases, the effects on intrinsic growth rates are minor, and if we were to examine only this index, the effects of mortality reduction would appear inconsequential.
+However, this indicator can be quite misleading for developments in the short term. The increase in the instantaneous growth rate from eliminating a cause of death is simply equal to the crude death rate from that cause, which of course comprises events at ages after as well as before the end of childbearing. The difference is obvious from the following formulas:
+Increase in intrinsic growth rate
+-� (1)
+Increase in instantaneous growth rate
+= S?c(t)vi(t)dt, (2)
+where
+
+\it(t) = death rate from cause i at age t,
+c(t) -- proportion of the observed population at age t,
+AB = average age of mother at childbirth in the stable population corresponding to observed ageschedules of mortality and fertility.
+Both changes are averages of age-specific rates of death from cause i. The change in intrinsic growth rates is an (unweighted) average of death rates between birth and AB; the change in instantaneous growth rates is a (population weighted) average of death rates at all ages.
+Although cardiovascular disease has the least impact on intrinsic growth rates, it has the largest impact on population size through the first several centuries of projection. After eighty years, the population without cardiovascular disease is 11.8 per cent larger than the population with all causes of death present. In fact, the gain in population size from eliminating cardiovascular disease is at least double that from eliminating any other cause of death throughout the first century of projections. Cardiovascular disease has a trivial effect on annual arrivals at age 50 but a major effect on the numbers surviving beyond that point, and population size at a point in time depends upon both quantities.
+A large majority of the gain in population size from eliminating cardiovascular disease or cancer is realized within the first thirty years of the projection period. By 1999, the population is 8.8 per cent larger with no cardiovascular disease and 2.2 per cent larger with no cancer, compared to 11.8 per cent and 3.1 per cent larger after eighty years. In contrast to the time pattern of impact from eliminating these two chronic diseases, most of the relative growth from eliminating the other causes
+
+150
+
+Preston
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+of death occurs after 1999. This difference results from the somewhat younger ageincidence of death from the other causes, reflected in a roundabout way in Table 1.
+The relative increase from eliminating infectious and parasitic diseases or violence is 0.8 per cent and 1.6 per cent by 1999, compared to 1.7 per cent and 3.2 per cent by 2049. Here, the additions to population act cumulatively, through births. In the case of the chronic diseases, they are essentially once-and-for-all gains at the older ages. The situation is analogous to increasing the volume of liquid in a container either by adding in the contents of another container or by turning up the tap slightly. Eventually, of course, population size with deaths of violence eliminated exceeds that of any other projection; but the date when this occurs is so distant as to be well beyond any realistic planning horizon.
+The accompanying graph (Fig. 1) displays the time sequence of growth rates for the various projections. Growth is most rapid in the "no-cardiovascular" projection during the first thirty years, but its position changes rapidly thereafter and "noviolence" takes the lead. The no-cardiovascular series then shows a second period of relatively rapid growth, peaking around 2034. This oscillatory pattern is not a necessary outcome, but rather is a product of coincidence. In 2034, people 75 to 90 years old, the principal beneficiaries of cardiovascular elimination, are members of the exceptionally large birth cohorts of 194459. Compared to the other projections, where the advantage at 75-90 is not so great, growth is quite rapid. Fifteen years later, this group is dying in the no-cardiovascular projection and its growth is exceptionally slow.
+While the steady-state growth rates differ little among the projections, the growth rates are attained with quite different combinations of birth and death rates. Intrin-
+
+sic birth and death rates are within 5 per cent of the "all cause" figures in the case of cancer, infectious and parasitic diseases, and violence. However, when cardiovascular disease is eliminated, the birth rate falls by 9 per cent and the death rate by 17 per cent, reflecting the shifts in age composition that have been induced.
+AGE DISTRIBUTION
+From the preceding discussion it is obvious that the elimination of cardiovascular disease or cancer produces an older population. After thirty years, the proportion over age 65 has increased by 62 per cent (cardiovascular) and 12 per cent (cancer), and in the steady state it has grown by 65 per cent and 13 per cent. Thus, the largest portion of the aging that will ultimately occur is realized in a rather short length of time. This rapid adjustment is, once again, a consequence of the minor impact of these diseases on numbers of births. Most of the relative growth of the older population occurs at the expense of those members 15-64 rather than of those 0-14. The proportion aged 0-14 falls by 0.006 (cancer) and 0.024 (cardiovascular) in the steady state, while the proportion aged 15-64 falls by 0.009 and 0.054.
+Perhaps more surprising than the aging of the no-cardiovascular and no-cancer populations is the fact that the elimination of infectious and parasitic diseases or violence also serves to age the population, although by relatively minor amounts. In the steady state, the proportion over age 65 grows by 0.002 (infectious) and 0.003 (violence). During the twentieth century, mortality declines in the United States have produced a slightly younger population (Hermalin, 1966). For the most part, these mortality reductions are attributable to declining death rates from infectious and parasitic diseases, which had a relatively young age incidence at the beginning of this century. But the age-inddence
+
+Vol. 21, No. 2
+
+Consequences of Causes of Death
+
+13.0 -
+_ 12.0 -
+O O O
+II.0 -
+Q.
+h 10.0
+
+No Cardiovascular
+
+151
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+o
+"5
+3
+
+6.0 -
+
+1969 79 89 99 2009 19 29 39 49 59 69 79 89 Years
+FIG. 1.--Time sequence of United States growth rates under various assumptions regarding mortality with female fertility constant at 1969 level, zero migration.
+
+of those infectious deaths which remain (principally, influenza and pneumonia) is sufficiently old that further advances against even this group of causes are clearly unlikely to rejuvenate the population.
+Abrupt changes in age composition such as produced by the elimination of cardiovascular disease or cancer could be expected to induce social, economic, and political adjustments. Some of these have
+
+been outlined in connection with discussions of the desirability of fertility declines (Coale, 1968; Sauvy, 1969, pp. 303-19). Among the most direct and concrete are implications for retirement systems. Many of these, including the federal retirement system administered by the Social Security Administration, operate in large part on a pay-as-you-go basis, so that the taxes on income of current labor force members finance the benefits of those
+
+152
+
+Preston
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+currently retired. Any substantial aging of the population could be expected to place heavy strains on such systems, which in turn may act to decelerate the trend toward earlier retirement.
+To indicate the extent of adjustment required, we calculate the age, x, that satisfies the following formula:
+
+where
+
+15 +
+number of persons above age a in the population with cause of death * eliminated
+
+Thus, x is the age in a population with cause * eliminated that divides the population above age IS in the same proportion as age 65 divides the population in which all causes are still present. It is close to the new retirement age required to keep constant the ratio of the retired to the economically active. For the male stable population with cancer eliminated, this age is 66.7; for cardiovascular disease, it is 7S.0. That is, to keep the same relationship between numbers of adults above and below retirement age, it would be necessary to increase the age at retirement by approximately two years if cancer were eliminated and by approximately ten years if cardiovascular disease were eliminated. To the extent that such changes failed to materialize, the incomes of the retired would be diminished or the contributions of workers to retirement systems would have to increase.
+
+male-specific cause of death, produces the largest effect, raising the sex ratio by 1.9 per cent in the steady state.
+The relative invariance of the sex ratio is somewhat misleading because it reflects contrary tendencies. The sex ratio at every age past zero rises from the elimination of each cause of death (except cancer between ages 35 and 60), but in every case the population becomes older, resulting in greater weight for the ages with low sex ratios. However, the overall sex ratio is surely less significant in social affairs than the sex ratio at particular ages, and the age-specific changes are quite large, particularly at the older ages.
+In the steady state, the ratio of males to females in the age interval 65-69 has grown by 15.0 per cent from the elimination of cardiovascular disease, 4.7 per cent from violence, 2.1 per cent from cancer and 1.1 per cent from infectious and parasitic diseases. These changes are a consequence of the greater rates of male than female mortality from the eliminated causes at prior ages. The sex ratio in a closed cohort at a particular age may be expressed as:
+
+-XVMa Mo e
+
+(t)dt
+
+6
+
+SEX RATIO
+The sex ratio for all ages combined changes very little as a result of the projected mortality changes. In none of the projection years for any cause of death considered does the ratio of males to females change by as much as 2 per cent. The elimination of violence, a heavily
+
+where
+Ma>Fa = number of males and females at age a,
+1*Y(0>f*f ( 0 = annual death rates of cohort males and females at exact age t from cause
+
+Vol. 21, No. 2
+
+Consequences of Causes of Death
+
+153
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+SRB = sex ratio at birth in the cohort.
+Thus, the elimination of cause i increases the sex ratio at age x by the exponential of the difference between male and female death rates from that cause cumulated over all prior ages. If the cumulative difference is positive (male rates exceeding female), the sex ratio increases, even if that difference is absolutely or relatively less than the corresponding difference for all other causes combined. Since the male death rate exceeds the female for all ages and causes considered (except neoplasms at ages 30-50), the elimination of a cause almost invariably raises the sex ratio at a particular age. For the older ages, in particular, a greater numerical equality of the sexes would be one of the most important benefits of progress against these causes of death, a benefit likely to be reinforced by the physical changes in the older population produced by the reduction of chronic afflictions.
+KINSHIP TIES
+We examine here the effect of eliminating a cause of death on two types of kin-
+
+ship relationships: lineal progenitors and spouses. We exclude siblings, offspring, aunts, uncles, and cousins because the extent of these relationships depends not only upon the level of fertility and mortality in a population but also on the distribution of children ever born among families and the pattern of childspacing. Calculation becomes exceedingly cumbersome, and some of the required information is not available for the United States population.
+The probability that a person of a particular age has a living lineal progenitor of a particular type (father, mother, paternal grandfather, maternal grandmother, etc.) is a function of the ages of parents at childbearing and of mortality rates beyond those ages. A change in mortality rates affects both of these elements, although the change in ages at childbearing tends to be trivial for the cases discussed here, since population age composition is altered very little prior to the upper age of childbearing. Following Goodman and Keyfitz (unpublished), we can estimate the proportion of persons at a particular age with a living progenitor in the steady state as follows:
+
+Proportion with living mother = M�(a) = fpp(a -f- x)m(x)e~radx for persons aged a
+
+Proportion with living maternal grandmother for persons aged a
+
+= M2(a) = pMi(a -f-
+
+x)p(x)m(x)e~radx
+
+Proportion with living maternal/maternal greatgrandmother for persons aged a
+
+= M3(a) = f쥿2(a +
+
+x)p(x)m(x)e-radt
+
+where
+
+p(a -f x) = probability of surviving from birth to age a + *,
+
+m(x) = birth rate of women aged x,
+
+r = intrinsic rate of natural increase, and
+
+a$ = minimum and maximum ages of mother at childbirth,
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+154
+
+Preston
+
+Social Biology
+
+Basic assumptions of these formulas are that survivorship is not conditioned by parenthood status and that survivorship is uncorrelated between the generations.
+Table 3 shows the results of applying these formulas to the steady-state populations produced by 1969 fertility rates and
+
+father increases from 0.906 to 0.942 and for persons aged 40 from 0.564 to 0.757 when cardiovascular disease is eliminated.
+For mothers, changes produced by the elimination of cancer are as large as or larger than those produced by eliminating cardiovascular disease for persons up to
+
+TABLE 3
+PROPORTION or PERSONS AT VARIOUS AGES WITH SPECIFIED RELATIVES STILL LIVING I N STEADY-STATE POPULATION PRODUCED BY 1969 UNITED STATES FERTILITY SCHEDULES (FEMALE AND MALE) AND VARIOUS MORTALITY SCHEDULES
+
+EXACT ACE OF PERSON
+
+All Causes
+
+0 . 1.000
+10 . 0.987
+20 0.959 40 . 0.782 60 . 0 271 80 0.002
+
+0 , 1.000 10 . 0.969 20 , 0.906 40 , 0.564 60 . 0.100 80 0.000
+
+No Cancer
+Mother
+1.000 0.990 0.971 0.836 0.326 0.003
+Father
+1.000 0.973 0.920 0.623 0.134 0.001
+
+PROBABILITY THAT RELATIVE ISSTILL ALIVE
+
+No Cardiovascular Disease
+
+All No Causes Cancer
+
+- No Cardiovascular Disease
+
+All Causes
+
+No Cancer
+
+No Cardiovascular
+Disease
+
+Maternal Grandmother
+
+Maternal Maternal Grandmother
+
+1.000 0.990 0.970 0.873 0.600 0.108
+
+0.919 0.822 0.648
+0.153 0.002 0.000
+
+0.942 0.866 0.709 0.187 0.002 0.000
+
+0.947
+0.895 0.808 0.448 0.051 0.000
+
+Paternal Grandfather
+
+0.499 0.261 0.087 0.001 0000 0.000
+
+0.557 0.305 0.107 0.001 0.000 0.000
+
+0.717 0.534 0.313 0.026 0000 0.000
+
+Paternal
+Paternal Grandfiither
+
+1.000 0.978 0.942 0.757 0.376 0.032
+
+0.771 0.576 0.343 0.034 0.000
+0.000
+
+0.803 0.628 0.399 0.047 0.000 0.000
+
+0.869 0.756 0.595 0.200 0.008 0.000
+
+0.180 0.058
+0.011 0.000 0.000 0.000
+
+0.219 0.077 0.016 0.000 0.000 0.000
+
+0.416
+0.231 0.092 0.000 0.000 0.000
+
+the various assumptions regarding mortality. Calculations referring to male progenitors employ male fertility rates of the U.S. population in 1969 (U.S. National Center for Health Statistics, 1973), scaled down by the factor, constant with age, required for the male intrinsic growth rate to equal the female.
+Undoubtedly the most important categories in the table are the proportions of persons with a living parent. For male progenitors, the impact of eliminating cardiovascular disease exceeds that for cancer at all ages and for all relationships. The proportion of persons aged 20 with a living
+
+age 20. Although cardiovascular disease has a much greater impact on female life expectancy, cancer death rates are higher in the age interval 25-50 for women (Preston et al., 1972,p. 720). These latter are the crucial ages for orphanhood. Eliminating cancer would reduce the probability of having a dead mother by 23 per cent for children aged 10 and by 29 per cent for persons aged 20. Even though the duration and disagreeableness of cancer tends to inflate estimates of its importance relative to cardiovascular disease, it nonetheless exerts an important influence on maternal survivorship.
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+Vol. 21, No. 2
+
+Consequences of Causes of Death
+
+155
+
+Although the survivorship of parents of young children would seem to have the greatest social significance, all forms of survivorship in the table are salient because of the responsibilities which one generation undertakes on behalf of another. As the relationship moves through time and age, such responsibility typically shifts from the older onto the younger person. In this respect, it is awesome to contemplate that, if cardiovascular disease were eliminated, approximately 60 per cent of persons aged 60 would still have a living mother, and 38 per cent a living father. A living parent for a 60-year-old means a living grandparent for a 30-yearold and a living great-grandparent for an infant, prospective developments which are equally apparent in Table 3. At age 80, 14 per cent would still have at least one parent living, assuming independence of fathers' and mothers' survival. The most obvious consequence is that the typical individual would be sandwiched between the two adjacent generations for a much longer period of life.
+Turning to the survivorship of marriages, we encounter immediately the "problem of the sexes" for which no sat-
+
+isfactory solution has yet been found. The problem from the perspective of this study is that alterations in mortality will change age distributions and that age-specific marriage rates for males and females in the United States in 1969, when applied to these new age distributions, will produce a different number of males than females marrying. We cannot predict satisfactorily steady-state marriage patterns without a complex and as yet unverified marriage function. However, we can calculate the probabilities of marital survivorship for couples marrying at particular ages under the old and new mortality regimes and progress from there to a very approximate calculation for the population as a whole.
+Table 4 displays the survivorship experience of couples married at specified ages, based upon the cause-of-death life tables. The factor of divorce is ignored; the probabilities are most properly interpreted as the chance that both male and female partners to a marriage will be alive after x years, regardless of whether they are still married to one another. Because the survivorship of both partners is by definition a function of joint survival, the elimination of a cause tends to have a
+
+TABLE 4
+PROPORTION OF MARRIAGES IN W H I C H BOTH HUSBAND AND W I F E ARE ALIVE AFTER SPECIFIED NUMBER OP YEARS UNDER VARIOUS MORTALITY REGIMES AND AGES AT MARRIAGE
+
+ACE AT MARRIAGE AND ELIMINATED
+CAUSES O? DEATH
+Both spouses age 20 No causes Cancer Cardiovascular disease
+Both spouses age 25 No causes Cancer Cardiovascular disease
+Both spouses age 30 No causes Cancer Cardiovascular disease
+
+10
+0.974 0.977 0.976
+0.970 0.974 0.974
+O.9S9 0.966 0.968
+
+DURATION OF MARRIAGE (YEARS) 20 30 40
+
+50
+
+0.93S 0.944 O.94S
+0.912 0.927 0.934
+0.872 0.898 0.913
+
+0.850 0.877 0.892
+0.785 0.828 0.858
+0.691 0.753 0.811
+
+0.673 0.754 0.791
+0.552 0.633 0.728
+0.404 0.496 0.643
+
+0.393 0.484 0.628
+0.249 0.333 O.S32
+0.124 0.184 0.426
+
+60
+0.121 0.180 0.420
+0.039 0.067 0.302
+0.006 0.012 0.184
+
+156
+
+Preston
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+greater impact at a particular "duration" eases scarcely changes the proportion for
+
+than in the previous case. This impact in- all ages combined. The age-specific reduc-
+
+creases both with age at marriage and with tion is largely offset by the older age
+
+duration of marriage, as the scope for mor- structure of the population. Put another
+
+tality intervention widens.
+
+way, a smaller proportion becomes wid-
+
+Of 1,000 marriages which both partners owed at each age, but those widows pro-
+
+contract at the age of 30, 62 more will duced live longer on the average. The
+
+survive 30 years if cancer is eliminated, effect can be illustrated by assuming that
+
+and 120 more will survive this period if all persons of both sexes marry at age 25,
+
+cardiovascular disease is eliminated. In calculating the proportions widowed at
+
+this case, one is not forced to examine each subsequent age, and weighting these
+
+only the very high ages for impressive ef- proportions by the population's age dis-
+
+fects. As in the preceding table, the elimi- tribution. Since widowhood is virtually
+
+nation of cardiovascular disease has a nonexistent between ages 20 and 25, the
+
+substantially greater impact than that of results also give an accurate indication
+
+cancer, except at the shortest durations. of proportions widowed if all marry at 20,
+
+With no deaths from cardiovascular dis- or at any combination of ages between 20
+
+ease, 62.8per cent of those marriages con- and 25.
+
+tracted by people at age 20 would have In the steady-state population with all
+
+both partners alive to celebrate their fif- causes of death present, the ever-widowed
+
+tieth anniversary and 42.0 per cent, their as a proportion of the total population is
+
+sixtieth, the latter representing more than 0.195 for females and 0.101 for males.
+
+a three-fold increase. I t can be seen from The impact of eliminating various causes
+
+Table 4 that eliminating cancer or cardio- on these figures is relatively minor, as can
+
+vascular disease has an effect on marital be seen in Table 5. For females, the largest
+
+survivorship roughly equivalent to both reduction in the prevalence of widowhood
+
+partners marrying at an age five or ten results from removing violence as a cause
+
+years younger, respectively.
+
+of death, since this cause is heavily male-
+
+One almost certain consequence of this specific and its removal has little effect on
+
+improved marital survivorship is an in- the female age distribution. Many more
+
+crease in the proportion of marriages end- husbands are "saved" when cardiovascular
+
+ing in divorce. Such an increase follows on
+
+formal grounds alone. In a situation of
+
+competing risks, when one risk function
+
+TABLE 5
+
+declines, the proportion of a cohort ultimately succumbing to the other risk must increase if that risk function itself is unchanged. There is also a possibility
+
+PROPORTIONS EVER-WIDOWED IN STEADY-STATE POPULATION WITH 1969 UNITED STATES FERTILITY RATES AND VARIOUS MORTALITY REGIMES
+
+that reduced mortality would increase the divorce risk function itself (divorce rate as a function of marital duration), since
+
+CAUSE OF DEATH ELIMINATED FOBBOTH
+SEXES SiMDiTANEOtrsiY
+
+PKOPOETION EVEK-WIDOWED
+
+__
+
+Females
+
+Males
+
+a forward-looking spouse could anticipate unpleasant circumstances lasting longer if left to the natural course of events.
+Despite reducing proportions widowed at each age, the elimination of these dis-
+
+No cause
+Cancer Cardiovascular disease Infectious andparasitic
+diseases Violence
+
+0.I9S 0.184 0.179
+0.192 0.176
+
+0.101 0.089 0.10S
+0.100 0.097
+
+Vol. 21, No. 2
+
+Consequences of Causes of Death
+
+157
+
+disease is eliminated, but such widows as there are tend to live much longer, with relatively little net effect on the prevalence of widowhood. In fact, the elimination of cardiovascular disease for both sexes raises the proportion of males who are widowed; the age-structural term dominates. In general, we reach the somewhat surprising conclusion that eliminating these diseases would have minor effects on the prevalence of widowhood, and in one case would even serve to raise it.
+
+the new members on savings and the degree of diminishing returns to labor (Barlow, 1968). However, the approach here will assume that added members produce at the average rate recorded for members of the population at the same age.
+We are primarily interested in the ratio
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+EFFECT ON PER CAPITA INCOME
+Attempts to assess the economic value of eliminating deaths from a disease have a long history. Certainly the most important component of the calculation is the value that people place on their own lives or on those of close relatives; but this element is usually neglected because of its attendant measurement problems. Instead, analysis has focused on estimating the future productive contribution of the persons hypothetically "saved" (Cohen has reviewed various "production" approaches, unpublished). This approach generally ignores the fact that more persons are alive to share the fruits of production and that per capita production may actually fall. If it were applied to the analysis of births, the results would be vigorously pronatalist, despite the nearly unanimous opinion of economists (using more sophisticated models) that higher fertility reduces economic well-being. The "production" approach to mortality reduction also neglects the fact that some of those "saved" will have offspring who will also become producers and consumers.
+These omissions can be corrected by population projection in which persons of different ages at a particular time are weighted by an age-schedule of production or earnings. A complete account would consider such matters as the impact of
+
+where
+
+ir=l
+
+= proportion age a, sex x, in projected population with all causes present and with cause i eliminated
+and
+Y(a,x) = production of persons aged a, sex x, in dollars.
+
+Thus, K^v is the ratio of per capita income in the population with cause * eliminated to that with all causes present. The age-schedule of production is the mean 1969 earnings for males and females, as recorded in the 1970 census.2 Values of i^<--') are shown in Table 6 at various points during the projection process.
+The first-order effect of eliminating cancer, infectious and parasitic diseases, or violence is to change per capita income at
+
+2 Earnings are clearly more appropriate to use than income, which includes a substantial amount of transfer payments, particularly among the elderly. Mean earnings figures by age for the population with earnings are derived from U.S. Bureau of Census, 1973, Tables 5, 6, 7, and 11. Nonearners are inferred from the difference between the total population of an age interval and the number of earners of that age.
+
+158
+
+Preston
+
+Social Biology
+
+TABLE 6
+INDEX NUMBERS OF PER CAPITA EARNINGS IN FUTURE POPULATIONS WITH PARTICULAR CAUSES OP DEATH ELIMINATED
+
+YEAR
+1979 1999 2049 Steady state
+
+No
+CAUSES
+1,000 1,000 1,000 1,000
+
+4NCER
+998 993 991 991
+
+CARDIOVASCULAR DISEASE
+984 959 946 947
+
+INFECTIOUS AND
+PARASITIC DISEASES
+998 998 998 998
+
+VIOLENCE
+1,003 1,009 1,010 1,010
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+future dates by no more than 1 per cent. Eliminating violence has a small positive effect (in large part because of a relative increase in numbers of males), and a small negative effect occurs in the other two instances. Only when cardiovascular disease is eliminated does per capita income change by more than 1 per cent; in this case it declines by 5.3 per cent in the steady state. Even this may seem a surprisingly small change in view of the massive changes in age distribution produced. However, the higher proportion in the retirement ages is largely offset in its effects by the higher ratio of males to females in the working ages and by an increase in the proportion of the population in the later, highly productive working ages. Moreover, the effects are smaller in the short term, which receives greatest weight in policy considerations. After ten years, per capita income is only 1.6 per cent lower in the no-cardiovascular projection. Differences of 2 per cent or even 5 per cent can be compensated for by one year of exceptional economic growth. In general, the conclusion must be that disease elimination has quite minor effects on per capita income, effects that are surely trivial in comparison to the value that people place on their own lives.
+MALE-DOMINANT PROJECTIONS
+Tests were performed on the sensitivity of the results with respect to two under-
+
+lying assumptions: female dominance in fertility, and the constancy of fertility. A second set of projections were prepared in which male fertility was constant at its 1969 level. Both male and female births are derived by applying these male fertility rates to the male age distribution and assuming a constant sex ratio of births. Whether the male- or female-dominant projections yield more reliable predictions depends on the resolution of the problem of the sexes alluded to earlier. If births are more sensitive to the number of males in the population than to the number of females, the male-dominant projections provide the more appropriate predictions.
+Dominance does make a large difference for future population size, as indicated in Table 7, but a rather small difference for the consequences of eliminating a particular cause of death. The elimination of a cause produces a somewhat larger increment in intrinsic growth rates in the maledominant projections. This larger increment is a consequence of two factors. In terms of the previous formula for the change in intrinsic growth rates, ji�* is somewhat higher for males than for females, and As is also somewhat higher (childbearing is older). Since |ia* tends to rise with age, an older AB produces a larger increment to intrinsic growth rates. If men were aged 60 at the birth of their children and women aged 30, for example, the growth consequences of eliminating cardiovascular dis-
+
+Vol. 21, No. 2
+
+Consequences of Causes of Death
+
+159
+
+TABLE 7
+PARAMETERS OF THE PROJECTED UNITED STATES POPULATION or 2114 (STEADY STATE) UNDER VARIOUS ASSUMPTIONS REGARDING MORTALITY, W I T H MALE FERTILITY CONSTANT AT 1969 LEVELS
+
+PARAMETERS
+
+Population size (millions) . . .
+
+Proportion 65+ Sex ratio (M/F)
+Sex ratio at 65+ Growth rate Birth rate
+Death rate
+
+,
+
+All. CAUSES
+752.0 0.264 0.106 0.977 0.695 0.00864 0.01936 0.01072
+
+No
+CANCER
+781.3 0.259 0.120 0.977 0.725 0.00876 0.01897 0.01021
+
+No
+CARDIOVASCOT.AR DISEASE
+836.5 0.242 0.175 0.988 0.820 0.00873 0.01769 0.00896
+
+No
+INFECTIOUS OS
+PARASITIC
+DISEASES
+774.3 0.265 0.108 0.979 0.707 0.00883 0.01930 0.01047
+
+No VIOLENCE
+834.5 0.265 0.107 0.995 0.731 0.00938 0.01947 0.01009
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+ease would be radically different in the two sets of projections.
+In reality, the differences are rather minor. The order of causes of death with respect to their influence on the intrinsic growth rate is identical in the two sets of projections. Male dominance has the principal effect of reinforcing the incremental growth caused by eliminating violence, a cause that is heavily male-specific and that is quite active prior to the end of the fertile period. After eighty years, the population without violence is 5.8 per cent larger than the population with all causes present, compared to 3.2 per cent larger in the female-dominant projections. In the other cases, the effect on proportionate growth after eighty years is nearly identical in the two sets of projections. Even though the increment to the intrinsic growth rate is larger in every instance for the male-dominant projections, the consequence is effectively obscured through the first eighty years (except for violence) by the higher fertility and younger age structure pertaining to the male-dominant projections; in a younger population, the older ages receive less weight in the overall outcome. The population without violence is larger than that without cardiovascular disease after 158 years and beyond.
+
+Because the elimination of a cause of death has a slightly larger impact on the intrinsic growth rate in the male-dominant projection, the tendency for the population to grow older is slightly attenuated. Again, this result is noteworthy only for violence, whose elimination actually increases the proportion of the population under age 15 by a tiny amount and produces a slightly higher birth rate. Other changes in age composition induced by mortality reductions are very much the same as in the female-dominant case, and changes in sex ratios and widowhood proportions are nearly identical in the two sets of projections.
+We conclude that the original results are not sensitive to the assumption of female dominance, with the exception of certain calculations relating to violence. Most notably, the intrinsic growth rate increases by 0.74/1,000 when violence is eliminated in the male dominant projection, compared to an increase of 0.24/1,000 when females are dominant. This substantial difference is further indication of the need for a practicable solution to the problem of the sexes.
+DECLINING FERTILITY PROJECTIONS
+A third set of projections was prepared to demonstrate how declining mortality in-
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+160
+
+Preston
+
+Social Biology
+
+teracts with declining fertility in its demographic effects. These projections utilize the U.S.Bureau of the Census E-schedule of fertility beginning in 1974 (U.S. Bureau of the Census, 1972).3 In brief, this schedule assumes that cohorts of women who had not entered the childbearing period in 1969 would experience replacement level fertility, an average of 2.11 births per woman, and that women then in the childbearing years would progress smoothly towards the period fertility rates implied by the replacement-level schedule. Table 8 presents the results.
+
+per cent; and for violence, 3.2 per cent and 3.3 per cent.
+The reason for these increases in the amount of growth is that declining fertility gives greater weight to developments at the older ages, where all of these causes of death are most active. Calculations for cardiovascular disease, with the oldest age incidence of all, are most affected by declining fertility. However, changes in the intrinsic growth rates are, for all practical purposes, identical to those in the constant fertility population. The formal reason for this is obvious from the earlier expression
+
+TABLE 8
+PARAMETERS OF THE PROJECTED UNITED STATES POPULATION OF 2114 (STEADY STATE) -UNDER VARIOUS ASSUMPTIONS REGARDING MORTALITY, WITH FEMALE FERTILITY FOLLOWING THE CENSUS BUREAU'S E-SCHEDULE AFTER 1969
+
+PARAMETERS
+Population size (millions) Proportion under age IS Proportion 654Sex ratio (M/F) Sex ratio at 65+ Growth rate Birth rate Death rate
+
+ALL CAUSES
+249.4 0.20S 0-15! 0.955 0.688
+--0.00050 0.01399 0.01449
+
+No
+CANCER
+260.3 0.199 0.170 0.955 0.718
+--0.00042 0.01357 0.01399
+
+No
+CARDIO-
+VASCULAR
+DISEASE
+288.6 0.178 0.249 0.966 0.810
+--0.00045 0.01218 0.01263
+
+No
+INFECTIOUS OR
+PARASITIC DISEASES
+256.9 0.204 0.154 0.957 0.700
+--O.OOO32 0.01392 0.01424
+
+No
+VIOLENCE
+261.9 0.202 0.155 0.974 0.723
+--0.00026 0.01380 0.01406
+
+The most important consequence of incorporating fertility declines is to increase the factor by which the population grows when various causes of death are eliminated. Whereas the removal of cardiovascular disease produced an 11.8 per cent larger population after eighty years of constant fertility, it is 15.5per cent larger with declining fertility. The corresponding figures for cancer are 3.1 per cent in the constant fertility population and 3.7 per cent with declining fertility; for infectious and parasitic diseases, 1.7 per cent and 1.8
+3 For the period 1969-74, preliminary fertility rates for 1972 were used.
+
+for the change in the intrinsic growth rate which depends only on the average value of [ix* in an interval whose length is subject to little variation.
+Declining fertility produces an older population and reinforces the age-structural effects of eliminating a cause of death. After thirty years in the no-cardiovascular projection, there are almost as many people over age 65 as under age 15. When the steady state is achieved, the number above 65 exceeds that under 15 by some 40 per cent. Simultaneous achievement of replacement level fertility and major progress against the diseases asso-
+
+Vol. 21, No. 2
+
+Consequences of Causes of Death
+
+161
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+dated with aging would obviously have revolutionary consequences for the nature of the "dependency burden." It has been demonstrated repeatedly that the principal cause of population aging has been declining fertility, but this is not a necessary result and may not apply to future developments. With all causes present, for example, declining fertility increases the proportion over 65 from 0.120 to 0.151; but with no declines in fertility, the elimination of cardiovascular disease increases that proportion from 0.120 to 0.198.
+SUMMARY
+This paper has considered separately the consequences for the future United States population of eliminating deaths from neoplasms, cardiovascular disease, all infectious and parasitic diseases, and violence. In a constant-fertility, femaledominant projection, none of these causes has a substantial effect on the intrinsic population growth rate. However, major additions to population size would result from elimination of cardiovascular disease and cancer as a consequence of improved survivorship among persons in the postreproductive ages. Most of the relative growth in these cases occurs within thirty years after disease eradication. After several centuries, well beyond the planning horizon, the population without violent death exceeds in size any of those without the other causes of death.
+The population "ages" in each of the four cases. After thirty years, the proportion of the total population over age 65 has grown by 62 per cent as a result of the elimination of cardiovascular disease and by 12 per cent in the case of cancer. In order to retain the previous numerical relationship between the number of retired and of economically active males, age at retirement would eventually have to increase by approximately ten years and
+
+two years, respectively, when these diseases are eliminated. The sex ratio (M/F) for all ages combined undergoes little change when a cause is eliminated; but it almost invariably increases at a particular age, and these changes can be quite large at the higher ages.
+The probability of having a living mother or father for a person under age 20 changes by less than 2 per cent when cancer or cardiovascular disease is eliminated. Cancer has a bigger impact on orphanhood by death of mothers; cardiovascular disease, on orphanhood by death of fathers. As age progresses, the elimination of a cause has a progressively larger impact on the probability of having a living parent. Without cardiovascular disease, 10.8 per cent of survivors to age 80 would still have a living mother (vs. 0.2 per cent when all causes are present). Of 1,000 marriages which both partners contract at age 30, 62 more will survive the risk of mortality for thirty years if cancer is eliminated, and 120 more will survive this period if none die from cardiovascular disease. However, the tendency for the prevalence of widowhood to decline in the population as a whole is largely or completely offset by the longer survivorship of those widows produced.
+The elimination of these diseases affects future per capita income by no more than 1 per cent except in the case of cardiovascular disease, where income declines by some 5.3 per cent in the steady state. The changes are undoubtedly inconsequential in comparison to the value that people place on their own lives or on those of close relatives and can be safely neglected for planning purposes.
+The procedures used in the basic projections have probably produced underestimates of the effects of cause-of-death elimination on population size. Fertility has already declined substantially from its
+
+162
+
+Preston
+
+� Social Biology
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+1969 levels, and declining fertility weights more heavily developments at older ages. Using the census bureau's replacementlevel fertility schedule, the population without cardiovascular disease is 1S.S per cent larger after eighty years than the population with all causes present, instead of 11.8 per cent larger, as in the projections with constant fertility. The effect of eliminating other causes also increases, but in smaller proportion.
+If reproduction is assumed to be maledominant rather than female-dominant, the effect of elimination on size and growth is again enhanced, because of higher male mortality and older male fertility. The changes are particularly im-
+
+portant for violence, whose elimination
+increases the population after eighty years
+by 5.8 per cent rather than by 3.2 per cent.
+The scope for additions to population size
+from further reductions in mortality is
+clearly much larger than indicated by
+comparison of female intrinsic growth
+rates.
+ACKNOWLEDGMENTS
+This paper was presented at the Harvard Actuarial Conference, Society of Actuaries and Harvard Center for Population Studies, Cambridge, Mass., Nov. 30-Dec. 2, 1973
+The author would like to thank Avery Guest and James McCann for instructive comments and John McDonald and James Weed for very able programing assistance. This work was supported by National Science Foundation Grant GS 33864.
+
+REFERENCES
+
+BARLOW, R. 1968. The economic effects of malaria eradication. Economic Research Series, 15. Univ. of Michigan School of Public Heath, Ann Arbor.
+BLAUNER, R. 1966. Death and social structure. Psychiatry 29:378-394.
+CHIANG, C. L. 1968. Introduction to stochastic processes in biostatistics. Wiley and Sons, New York.
+COALE, A. J. 1959.Increases in expectation of life and population growth. Intern. Pop. Conf., Vienna, 1959. . 1968. Should the United States start a campaign for fewer births? Pop. Index 34:46774.
+COHEN, J. E. Livelihood benefits of small improvements in the life table. Harvard Univ. Dept. of Biology. Ms.
+DUBOS, R. 19S9. The mirage of health: Utopias, progress, and biological change. Harper, New York.
+ENKE, S., and R. A. BROWN. 1972. Economic
+worth of preventing death at different ages in developing countries. J. Biosoc. Sci. 4:299-306. FUCHS, V. J. 1966. The contribution of health services to the American economy. Milbank Mem. Fund Quart., Health Services Research 44(4), Part 2:65-103.
+GOODMAN, L., and N. KEYFITZ. Family formation and the frequency of various kinship relationships. Ms.
+HERMALIN, A. 1966. The effect of changes in mortality rates on population growth and age distribution in the United States. Milbank Mem. Fund Quart. 44:451-69.
+LAWRENCE, D. H. 1956. Selected literary criticisms. Anthony Beal (ed.). Viking Press, New York.
+LOPEZ, A. 1961. Problems in stable population theory. Office of Pop. Research, Princeton University, Princeton.
+MCFARLAND, D. D. 1969.On the theory of stable
+
+populations: A new and elementary proof of the theorems under weaker assumptions. Demography 6:301-322. PRESTON, S. H. 1974. Effect of mortality change on stable population parameters. Demography 11(1):119-30.
+PRESTON, S. H., N. KEYFITZ, and R. SCHOEN. 1972.
+Causes of death: Life tables for national populations. Seminar Press, New York. SAUVY, A. 1969. General theory of population. Basic Books, New York.
+SHREWSBURY, J. F. D. 1964. The plague of the Philistines. Godlancz, London.
+U.S. BUREAU OF THE CENSUS. 1970. Current population reports. Estimates of the population of the United States by age, race, and sex: July 1, 1967 to July 1, 1969. Series P-25, No.441. Government Printing Office, Washington, D.C. . 1972. Current population reports. Projections of the population of the United States by age and sex: 1972 to 2020. Series P-25, No. 493, Government Printing Office, Washington, D.C. . 1973. 1970 Census of population. Earnings by occupation and education. Subject reports. Series PC(2)-8B. Government Printing Office, Washington, D.C.
+U.S. NATIONAL CENTER FOR HEALTH STATISTICS.
+1964. United States life tables: 1959-61. Volume 1. No. 1. Public Hlth. Serv. Publication No. 1252, Washington, D.C.
+. 1966. Vital statistics of the United States, 1964. Volume II, Mortality, Part A. Washington, D.C.
+. 1973. Monthly vital statistics report. Summary report. Final natality statistics, 1969. Volume 22, No. 7. Supplement.
+. n.d. Vital statistics of the United States, 1968: Volume II, Section 5, Life tables. Washington, D.C. Zinsser, H. 1935. Rats, lice, and history. Little, Brown and Co. (Atlantic Monthly Press), Boston.
+
+

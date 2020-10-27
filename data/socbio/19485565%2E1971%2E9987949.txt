@@ -1,0 +1,429 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+A Monte Carlo model for the study of human fertility under varying fecundability
+K. Venkatacharya
+To cite this article: K. Venkatacharya (1971) A Monte Carlo model for the study of human fertility under varying fecundability, Social Biology, 18:4, 406-415, DOI: 10.1080/19485565.1971.9987949 To link to this article: http://dx.doi.org/10.1080/19485565.1971.9987949
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles
+Citing articles: 4 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:32
+
+A Monte Carlo Model for the Study of Human Fertility under Varying Fecundability
+
+Downloaded by [University of Michigan] at 13:32 08 December 2015
+
+K. Venkatacharya
+International Institute for Population Studies Deonar, Bombay
+
+Fertility is one of the complex phenomena that affect population change. In an attempt to understand this phenomenon more clearly, various efforts have been made through sophisticated statistical techniques (Perrin and Sheps, 1964). Recently computer facilities have been exploited to make the studies more realistic, through increasing the complexity of the models. For example, the Ridley-Sheps (1966) micro-simulation model takes into account marriage probabilities, conception probabilities by age, and a number of other biological parameters to simulate births. In this model, fecundability (i.e., the monthly probability of conception, given that a woman is currently susceptible to risk of conception) is assumed to vary by age, but women of the same age have the same fecundability. Later Sheps and her associates (1966) introduced the heterogeneity in fecundability among women of the same age. They first chose a uniform pattern of variation of fecundability with the same coefficient of variation among women from one age to the next.
+In the present paper a slightly different and probably a more general approach is used to take into account the variation of
+
+fecundability in two directions: (1) between different ages of the same women and (2) among different women of the same age. One of the purposes of the present paper is to make an attempt to define fecundability as a function of some relevant biological variables which will yield reasonable fertility rates for India, and indicate methods of estimating them from observed data.
+Henry (1965) has stated that the curve of fecundability follows a specific pattern (shown in Figure 1), when the population does not practice contraception.
+It can be observed that this pattern may be true in most of the noncontracepting countries, except for small variations in the parameters of the curve, which are dependent upon the socioeconomic and cultural patterns of the population in question. The fact that fecundability is not a directly measurable quantity makes it difficult to verify the above pattern in any particular real population. However, it is possible to verify roughly whether the above pattern is true in any specific situation by working through a model (Monte Carlo or Expected Values) where observed values of all other parameters
+
+406
+
+Vol. 18, No. 4
+
+Fertility and Fecundability
+
+407
+
+Downloaded by [University of Michigan] at 13:32 08 December 2015
+
+FIG. 1.--Curve of fecundability in a population not practicing contraception: a, earliest age at which fecundability is zero (but assumes positive values immediately after this age) ; b, the age at which fecundability attains a maximum value (e) (remaining constant or decreasing slowly for a period beyond this age) ; c, the age at which fecundability starts decreasing (or decreasing faster) ; d, the terminal age from and after which fecundability is zero.
+
+and assumed values of fecundability are used as input, and the resultant fertility variables, such as mean number of live births, age-specific marital fertility rate, and intervals between births of various orders are analyzed through statistical methods. If the end results of the model agree with the observed ones, there will be enough indirect evidence to believe that the assumed pattern could be correct.
+
+In this paper, consideration will be given to only four parameters, a, b, e, and d, while the parameter c will in effect be treated as coincident with b so that the plateau assumed by Henry between b and c will be assumed nonexistent. It has been assumed that the four parameters are independent. The fecundability curve f(x) will be defined in terms of these parameters as follows:
+
+d--b exp b -- a'
+
+(1)
+
+This equation is similar to one given by Lah (1958) for fertility rather than fecundability. This equation has been chosen to describe fecundability because of its flexibility in fitting various fertility curves and secondly for the presumed ease with which the parameters can be interpreted.
+
+creases or decreases, and here the magnitude of variation is large when * is greater than b. Also a given amount of change in a produces greater effect on f(x) than an equal amount of change in d. An increase in b increases f{x) when x is greater than b and decreases it when x is less than b.
+
+IMPACT OF VARIATIONS IN a, b, e, AND d ON FERTILITY
+It can be easily shown by differentiating f(x) with respect to a, that /(x) increases as a decreases and vice versa, but the magnitude of variation is largest when x is less than b. Similarly it can be shown that j(x) increases or decreases as d in-
+
+ESTIMATION OF VARIOUS PARAMETERS OF FECUNDABILITY
+The parameter a is the initial age up to which fecundability is zero and after which age fecundability assumes nonzero values that increase gradually with age. One can consider the distribution of the age at menarche as the input for a. However, it
+
+Downloaded by [University of Michigan] at 13:32 08 December 2015
+
+408
+
+Venkatacharya
+
+Social Biology
+
+is not clear whether fecundability is zero at menarche (or a little later due to anovulation) and then gradually increases, or whether it starts with some small positive value and then gradually rises.
+It may be noted that the assumed form of f(x) to some extent takes care of adolescent sterility which sometimes may delay onset of fecundity (Talwar, 196S). Various studies made in India on menarche give a mean age of 13.5 years (Ministry of Health, Govt. of India, 1964). The distribution of menarche used for this study is shown in Table 1.
+
+TABLE l
+
+DISTRIBUTION OF AGE AT MENARCHE*
+Proportion Age of Women
+
+10 11 12 13 14 IS 16 17 18
+* Mean age: 13.6 years.
+
+0.01 0.02
+0.17 0.31 0.30
+0.13 0.04 0.01 0.01
+
+For parameter d, the age at which fecundability ultimately vanishes, a similar problem arises. From available knowledge it is believed that fecundability ceases after menopause or earlier due to secondary sterility. But whether fecundability gradually decreases and vanishes exactly
+
+at menopause or vanishes abruptly is not known. The results of the present paper seem to indicate that fecundability does not gradually decrease and vanish at menopause. Accepting any distribution of menopause and assuming that fecundability gradually vanishes with menopause it appeared impossible to reproduce agespecific marital fertility rates for age group 40-44 of 69 per 1,000 married women consistent with the age-specific marital fertility rates for earlier age groups. The initial input for d (distribution A in Table 2) was based upon the data of a sample of Indian women given by Saxena (1965) in Table 2. The data are supposed to reflect both menopause and secondary sterility. When these data are found (in the following section) to be on the low side, a distribution (B) of menopause observed by Dandekar (1959) has been used which is also shown in Table 2. As will be evident from the latter part of the paper this distribution too appears to be inadequate, because the assumed function for fecundability takes care of secondary sterility to some extent. In addition, a number of variations on the Saxena data are also made to obtain fertility indices close to Indian experience. However these adjustments are made to study the impact of variations of the distribution of d on fertility.
+Parameter e, modal fecundability, may
+
+TABLE 2
+DISTRIBUTIONS OF TERMINAI. ACE OF FECUNDITY
+
+25-29 30-34 35-39 40-44 45+
+
+DlSTKIBUTION A
+
+Age Group
+
+Proportion of Women (Once Fecund) Still
+Able to Conceive
+
+1000 0.940 0 833 0 440 0 071
+
+DISTRIBUTION B
+
+Age Group
+
+Proportion oí Women Who Attain Menopause
+
+33-37 . 38-42 . 43-47 . 48-52 . 53+ ..
+
+0 0250 0 1582 0 3547 0.2925 0 1696
+
+Vol. 18, No. 4
+
+Fertility and Fecundability
+
+409
+
+Downloaded by [University of Michigan] at 13:32 08 December 2015
+
+be estimated from observed distributions of live birth intervals. Using the Gandhigram data, Srinivasan (1966) has estimated the parameters of a Beta distribution which is assumed to represent the fecundability distribution. The following values give estimates of the Beta parameters as well as the mean fecundability:
+
+Birth Interval
+2-3 3-4
+
+Mean . u v Fecundabilily
+
+6.342 6.302
+
+56.0S4 55.666
+
+0.102 0.102
+
+where u and v are Beta parameters.
+
+Other studies also show that the maximum fecundability is found near the age at which the third live birth occurs (namely shortly before age 25) and that the maximum mean fecundability is about 0.10. The Khanna study reported a menstruating interval of about 10 months which approximately corresponds to a fecundability (assuming women are homogeneous) of 0.10 since mean fecundability is the reciprocal of the mean menstruating interval in the homogeneous case without fetal losses. If fetal losses of 20% are considered, the fecundability would be slightly more than 0.10.
+Now we are left with the final parameter, that is the age at which fecundability attains a maximum value. This can be estimated from the age at which the fertility attains a maximum value. In Table 3 the age-specific marital fertility rates as given by National Sample Survey (1958-- 59) (prorated) and Mysore Fertility Study (United Nations, 1961) are given. It is quite clear that the rates of Mysore are quite close to the adjusted National Sample Survey rates. The modal ages of the two sets of age-specific marital fertility rates are respectively 23.72 and 24.35. In the present paper we shall use the National Sample Survey rates as representative of India.
+Since the point of the occurrence of
+
+TABLE 3
+AGE-SPECIFIC MARITAL FERTILITY RATES FKOM Two SOURCES
+
+Age Group
+15-19 20-24 2S-29 30-34 35-39 40-44
+
+Adjusted NSS. Fertility Rates*
+223 310 280 223 159
+69
+
+Mysore Population
+Study
+229 296 286 212 129 61
+
+* The original National Sample Survey rates are prorated in order to yield a birth rate of 41 with 1961 Indian age distribution of married women.
+
+maximum live-birth conceptions is about nine months prior to the occurrence of maximum live births (mean gestation period leading to a live birth) we can obtain the modal age for the live-birth conception rate using the live birth rate. If we assume that age of maximum fecundability is halfway between the conception waiting time we have: age of maximum fecundability (in months) = age of maximum fertility minus 9 minus 0.5/(mean modal fecundability). In our case, by applying the above relation to National Sample Survey rates with mean modal fecundability of 0.10, we have the ages of maximum fecundability as 22.55 years or 271 months.
+It is sometimes possible that the age at which the maximum fecundability is reached may not be the same for all women. A study of the age-specific fertility rates show that the rates for the ages 20-30 could be assumed more or less stable. Thus, one can assume the age of maximum fecundability may be uniformly distributed between women with a mean modal fecundability age of 271 months. It can be assumed that women have their modal fecundability ages uniformly distributed over ages (271 -- J/2L, 271 + yíL). Here L could be taken as the extent of the spread of the modal age. It can be assumed to take a value of 60 months, or
+
+410
+
+Venkatacharya
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:32 08 December 2015
+
+near about that value, as the fertility in the middle five-year age groups is stable. However, a reliable estimate of L can be found from the single-year age-specific fertility rates if they are available. The true value of L can be obtained by trial. If L is taken as one (in this case, the range is x -- 1/2, x-\-J/2, i.e., x months) it implies that all women are assumed to reach maximum fecundability at the same age. (It is to be remembered that the unit of time in the present study is taken as a month, which corresponds to a menstrual cycle). Thus, if y is the age of maximum fecundability of a woman where 271 -- Lf 2 ^ y ^ 271 -f- L/2; then the corresponding probability, F4(y) = 1/L. Thus we have obtained possible probability distributions of the four parameters of the fecundability curve.
+Of the four fecundability parameters, a and b can be estimated without much difficulty from data on the onset of menarche and age-specific marital fertility rates. Estimation of the mean value of the modal fecundability can be made from various types of demographic data on intervals between births, age-specific marital fertility rates, and so on. The estimation of d becomes somewhat difficult because of lack of data on menopause. However, data on age at the birth of the last child can be taken as a first approximation. In this paper the values for all parameters directly observed or estimated from data have been found satisfactory except for d. Hence some approximate values of d are used so that the resultant fertility measures are consistent with observed data.
+Now the natural question one puts is whether the use of all these input probability functions reproduce measures of fertility such as age-specific marital fertility rates, mean number of live births for women of completed fertility, intervals between live births, and so on. To provide
+
+an answer to this question one needs a relationship of each one of the parameters a, b, e and d of the fecundability curve, and other biological parameters, such as period of gestation, to the fertility indices such as age-specific marital fertility rates, intervals between births, and so on. Although certain mathematical relationships exist between the above variables, in very restrictive cases, there are no relationships available for a set of general conditions. As a result we have developed a Monte Carlo model which can use fecundability and other biological parameters as inputs and produce most of the above mentioned fertility measures.
+MONTE CARLO MODEL ( F E R S I M )
+The present model is similar to the usual cohort simulation model developed by Ridley and Sheps (1966) and also to a model developed by the present author earlier. However, in the present model, in addition to the variation of fecundability by age, which was used in the earlier models, variation of fecundability among women of identical ages is taken into account. Other biological parameters used in this model are quite similar to those used in the earlier models.
+The assumptions underlying the model are: (1) marriage is considered as universal; (2) the unit of time is considered as a month, which is nearly equal to the mean inter-menstrum; (3) mortality is ignored. The means and standard deviations of various inputs are shown in Table 4.
+The model simulates fertility of married fecund women from their marriage to the end of reproductive life and records all events necessary for the computation of various fertility indices. It has been assumed that about b°fo of women are primarily sterile. All events are generated on the basis of the input probability density
+
+Vol. 18, No. 4
+
+Fertility and Fecundability
+
+411
+
+TABLE 4
+MEANS AND VARIANCES OF THE VARIOUS INPUT PARAMETERS or THE MONTE CARLO MODEL
+
+Parameters
+
+Mean
+
+Probability of primary sterility
+Age at marriage Gestation period leading to a live birth Gestation period leading to a still birth Gestation period leading to an abortion Postpartum amenorrhea (PPA) following a live birth PPA following a still birth PPA following an abortion
+
+0.06
+16.8 years 9.6 months* 8.15 months 3.67 months 14.7 months 2.95 months 1.50 months
+
+9. Proportion of live births (I), still births (II), and abortions (III) by five-year age groups:
+
+Age Group
+1S-19 20-24 25-29 30-34 3S-39 40-44
+
+I
+0.806 0.879 0.895 0.875 0.829 0.760
+
+II
+0.078 0.048 0.042 0.050 0.068 0.096
+
+III
+0.116 0.073 0.063 0.075 0.103 0.144
+
+Variance
+7.4 0.46 0.60 1.44 32.07 1.25 0.45
+
+SOURCES: (1) Ministry of Health, Govt. of India, 1964, p. 30; (2) Bridlcy and Sheps, 1965, Appendix; (3-5) suggested by Dr. R. P. Soonawala, Naoroji Wadia Hospital, Bombay; (6) based on Potter et al., 1965; (7) suggested by C. Tietze; (8) arbitrary; (9) Potter, 1965, p. 266.
+* Includes both the month of conception and the month of birth.
+
+Downloaded by [University of Michigan] at 13:32 08 December 2015
+
+functions corresponding to the specific event.
+At the outset, age at marriage and age at onset of fecundity are assigned by the Monte Carlo method. The age at marriage is taken as the starting point of reproductive life so long as the age at onset of fecundity is less than age at marriage. In other cases, age at onset of fecundity is taken as the starting point of reproductive life.
+Onset of menopause is taken as the end
+
+of reproductive life. For the computation of fecundability (Equation [2]) the age at the onset of fecundity and onset of menopause are taken as the terminal ages of fecundity. Starting from the age at marriage or age at onset of fecundity the woman is exposed to the risk of conception in every month till she either conceives or reaches the end of reproductive life.
+The fecundability of a woman is determined from the equation:
+
+/ x -- a'\ f x -- a'
+
+d'--b'
+
+cxp
+
+where a', b', d' and e' are randomly assigned to a woman through a Monte Carlo method using corresponding probability densities, explained in the previous section. It can be seen that, just as age at marriage or age at widowhood are assigned to a woman at one time, the four fecundability parameters are assigned to each woman at one time. Once the four parameters are assigned to an individual woman the fecunda-
+
+bility corresponding to any age can be computed by Equation (2). Thus, the occurrence of a conception in any month is recorded if the inequality R^.FX where R is a pseudo random number is satisfied.
+Once conception occurs, the outcome of a conception, i.e., live birth, still birth, or abortion, is determined by the usual Monte Carlo method. Depending on the outcome of conception, the pregnancy periods as
+
+412
+
+Venkatacharya
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:32 08 December 2015
+
+well as the post-partum amenorrhea periods are assigned, which will help updating the age of the woman. At the end of the postpartum period the woman returns to fecund state and the reproductive process repeats.
+RESULTS AND DISCUSSION
+In the second section, the impact of changes in a, b, e, and d on fecundability pattern has been given. However, what we are interested in is the impact of these parameters on fertility, which not only depends on fecundability but also on a number of other biological variables. Since there does not exist an explicit relationship between these variables and fertility, the Monte Carlo model described earlier has been employed to obtain some idea of these relationships. To this end, a number of computer runs are made with various numerical values of the fecundability parameters and resultant fertility indices are analyzed. For want of space, only a brief summary of the results is given:
+1. It has been observed that the fertility generated by assuming equal fecundability for women of the same age is larger than the generated fertility under the assumption of unequal fecundability for women of the same age, a fact illustrated by other authors also. The reason for this is obvious if we consider the waiting time for conception which is larger in the case of heterogeneous fecundability than homogeneous fecundability.
+2. Shift in the input distribution of a modifies fertility rates in the age groups 15-19 and also 35-39 and 40-44. The effect on the middle age groups is small. The direction in which the changes are brought about in fertility is the same as in the case of fecundability. Shift in the input distribution of d affects fertility mostly in the last two or three age groups and often the magnitude of this change
+
+is of the same order as one could get if the same shift is made in the input distribution of a. Small changes in these distributions do not make appreciable changes in fertility, especially in the case of d, in comparison with the built-in sampling errors due to Monte Carlo (Roy and Venkatachanya, mimeo).
+3. The rates in general, and especially for the middle age groups as well as the upper terminal ages, are very much affected by the three parameters b, e and L. The value of I to a large extent determined the curve of fertility in the three age groups 20-24, 25-29 and 30-34. For a fixed e, changes in L substantially affect the age pattern of fertility.
+4. The simulated age-specific marital fertility rate for the age group 15-19 was always found to be lower than the observed rate. This is because of assumption in the model that marriages do not take place before age 15, as a result of which almost no birth occurred at age 15. In order to approximately take care of this situation, the rate is computed only on ages 16 to 19 and this rate is assumed for the age group. These rates are shown within parentheses in Table 5.
+The above relationships greatly help in adjusting the input values of fecundability parameters in a Monte Carlo model in order to yield the required pattern of age-specific marital fertility rates.
+Using a value of L = 60, the age distribution of menarche, the mean modal age of fecundability of 271 months and the assumed distribution A of terminal age (Table 2) in the Monte Carlo model, agespecific marital fertility rates are generated (shown in Table 5, col. 2). In the following we refer to Table 5 unless otherwise mentioned. These rates are lower than the observed rates at all ages especially for age groups 35-39 and 40-44.
+In order to raise the age-specific marital
+
+Vol. 18, No. 4
+
+Fertility and Fecundability
+
+413
+
+TABLE S
+AGE-SPECIFIC MARITAL FERTILITY RATES, MEAN NUMBER OF LIVE BIRTHS, AND MEAN INTERVAL BETWEEN LIVE BIRTHS OF ALL ORDERS FOR VARIOUS PARAMETER COMBINATIONS*
+
+Run Number
+L Mean modal fecundability
+Terminal fecund age pattern.. Age group
+15--19
+20-24 25-29 30-34 35-39 40-44 Mean number of live births . . Mean interval between live births
+
+l
+223§ 310 280 223 159
+69 6.S
+39.9
+
+2
+60
+271 Sit
+207 (230) 306 273
+187 75 13 4.9
+.39.0
+
+3
+60
+285 Si
+171 (214) 309 297 223
+102 23
+5.4
+38.2
+
+4
+50
+271 So
+169 (211) 303 297 233
+137 40
+5.7
+39.7
+
+S
+50
+271
+s.
+178 (222) 313 298 236
+159 73 6.1
+40.6
+
+«t
+60
+271
+s3
+180 (225) 311 295 234
+158 68 6.0
+40.7
+
+* Meaning of numbered column designations discussed in text. t The results of this column are based on 2,000 women histories; a!! other columns are based on 1,000 women histories. Í Distributions of Si, Su, and Sa are shown in Table 6. § Observed pattern for India based on National Sample Survey reports.
+
+Downloaded by [University of Michigan] at 13:32 08 December 2015
+
+fertility rate for the age range 35-44 the modal age of fecundability has been given a shift of 15 months, which can be considered as a somewhat maximum permissible error in our estimate of modal fecundability age (col. 3). But even this adjustment did not sufficiently inflate the rates, especially for the last two age groups. Other adjustments in L and b around 60 and 271 respectively also did not yield satisfactory results for the last two age groups. This gave an indication that the assumed distribution for d could be on the low side. Therefore one set with the earlier distribution of a, b = 276 and the distribution B of menopause in Table 2 have been used to yield age-specific marital fertility rates (col. 4) which also did not give results close to observed rates for age groups 35-40 and 40-44. After these observations, the earlier hypothesis that fecundability gradually decreased and became zero with menopause appears doubtful. A value of age-specific marital fertility rates of 69 per thousand married women
+
+for age group 40-44 seems difficult to achieve consistent with the earlier hypothesis.
+In the light of the above comments, it was found reasonable to assume that at both terminal ages, fecundability possess some nonzero values. However, in the present case, since we are interested in the age-specific marital fertility rates for ages above 15, the assumption of zero fecundability at menarche did not appear serious; but the zero-fecundability assumption at menopause is more important. In order to increase fertility at terminal age, the distribution A of Table 2 has been shifted to higher ages successively, the values exceeding age 59 are excluded, and the distribution is inflated to make total probability one.
+The amount of shift needed can be approximately obtained. We can observe in the single-year simulated age-specific marital fertility rate pattern the age at which the rate of 69 (observed for age group 40-44) occurs. Suppose a simulated
+
+414
+
+Venkatacharya
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:32 08 December 2015
+
+age-specific marital fertility rate gives this rate approximately at 39 years. Then we need a shift of 2 = (42.S-39) years in the distribution of d. This approximation (true only for the present case) has been sufficient to reduce the trials needed to obtain a close fit. One such set of rates are shown in column 5.
+Once we found the fit satisfactory we can generate another replicate to see whether this fit could be due to chance. Therefore, a set of age-specific marital fertility rates based on 2,000 simulated women has been shown in column 6. From Table 5 we find the mean number of live births for the above parameter combination is 6.0, which is close to the Indian experience. The interval between live births is 40 months, also quite close to the Indian experience, which is in the range of 40 months (Table 5, col. 1) However, when the simulated mean live birth intervals of various orders (based on women of completed fertility) are compared with the corresponding observed means, they are found to be on the high side. This could be due to the truncation effect (Venkatacharya, 1969). Taking into account this aspect, the simulated mean can be assumed to be reasonable.
+From the above manipulation of parameters, it appears that more than one set of parameters can be made to produce the same fertility rates. Although a unique set of parameters may not be obtained by the above procedure, it is possible that the various parameters found to yield a given set of fertility rates may not be very different from one another for all practical purposes. In such a case, if we can fix some parameters as more firmly known than others then the range of parameter sets can be drastically cut down. Again, if choice is made of such parameter sets that give simultaneously a number of consistent fertility measures, such as mean number of live births, mean live-birth interval, age-
+
+TABLE 6
+VARIOUS DISTRIBUTIONS OF TERMINAL FECUNDITY
+
+Cumulative Proportion Becoming Secondarily Sterile
+
+AGE SI* Sst Sat
+
+30 31 32 33 34 35
+36
+37 38
+39
+40
+41 42
+43
+44
+45
+46
+47 48 49 50 51 52 53 54 55 56 57 58 59
+60
+Mean age . . .
+
+0.016 0.023 0.032 0.046 0.064 0.089
+0.123
+0.167 0.224
+0.293 0.374
+0.465 0.560
+0.653 0.740
+0.816
+0.879
+0.929 0.968 0.997 1.000
+41.5
+
+0.005 0.017 0.030 0.0S7 0.080 0.105 0.13S 0.168 0.205 0.270 0.340 0.465 0.570 0.636 0.690 0.750 0.800 0.845 0.880 0.910 0.940 0.965 0.990 1.000
+45.1
+
+0.055 0.078 0.111 0.156 0.218 0.304 0.419 0.570 0.763 1.000
+56.3
+
+* Obtained by fitting a logistic curve to distribution A of Table 2.
+t Obtained by graphical smoothing of the distribution B of Table 2.
+t Distribution Si for axes 30-39 is first inflated to make a total of 1 and is shifted by 21 years.
+
+specific marital fertility rates, and so on, close to observed data, the range of parameter sets will be brought down substantially.
+Thus it is reasonable to assume the following values for the four parameters of fecundability for Indian women:
+1. The distribution of onset of fecundity can be approximated by age at menarche with a mean around 13.5 years,
+2. The modal fecundability value can be assumed to be normally distributed with a mean 0.10 and variance 0.0014.
+
+Vol. 18, No. 4
+
+Fertility and Fectinclabilhy
+
+415
+
+Downloaded by [University of Michigan] at 13:32 08 December 2015
+
+3. The age of modal fecundability can be assumed to be uniformly distributed between ages 251-301 months.
+4. The terminal age of fecundity appears to be higher than the observed distribution of menopause. The distribution for this age shown in the last column of Table 6 seems to be reasonable.
+
+ACKNOWLEDGMENTS
+The author wishes to express his thanks to Mr. George E. Immerwahr, USAID Consultant, for his valuable suggestions in preparing this paper.
+This research has been undertaken from grants to International Institute for Population Studies (previously DTRC) under a special International Research Project, NCHSIndia-1, sponsored by the National Center for Health Statistics, Washington, D.C.
+
+REFERENCES
+
+DANDEKAR, KUMUDINI. 1959. Demographic survey of six rural communities. Gokhale Institute of Politics andEconomics. Poona.
+HENRY, L. 1965. French statistical research in natural fertility. Public health and population change--Current research issues. Pittsburgh Univ. Press, Pittsburgh.
+LAH, IVO. 1958. Generalization of Yetremsky's formula for analytical graduation of fertility data. J. Roy. Statist. Soc. 121:100-104.
+MINISTRY OF HEALTH, GOVERNMENT OF INDIA.
+1964. Report on the sub-group on "demographic and social studies" of the Family Planning Programme Evaluation andPlanning Committee.
+NATIONAL SAMPLE SURVEY. 1959a. Fertility and
+mortality rates in rural India. 14thRound.No. 89. _____. 1959b. Tables with notes on couple fertility, No. 175.
+PERRIN, E. B., and M. C. SHEPS. 1964. Human
+reproduction: A stochastic process. Biometrics 20:310-321.
+POTTER, R. G., J. E. GORDON, M. PARKER, and
+J. B. WYON. 1965. Fetal wastage in eleven Punjab villages. Hum. Biol. 37:262-273.
+POTTER, R. G., J. B. WYON, M. PARKER, and J. E.
+GORDON. 1965. A case study of birth interval dynamics. Pop. Stud. 19:81-96.
+RIDLEY, J. C., and M. C. SHEPS. 1965. Marriage
+patterns and natality: Preliminary investiga-
+
+tions with a simulation model. Paper presented at the annual meetings of the Population Association of America, Chicago.
+_____. 1966.An analytic model of human reproduction with demographic and biologicalcomponents. Pop. Stud. 19:297-300.
+ROY, T. K., and K. VENKATACHARYA. An application of analysis of variance technique to Monte Carlo data of human reproduction. Sankhya, in press.
+SAXENA, G. B. 1965.A study of fertility and family planning in the three villages of Uttar Pradesh. Institute of Economic Growth.
+SHEPS, M. C., J. C. RIDLEY, and J. W. LINGNER.
+1966. Effects of selected factors on natality: Quantitative estimation through simulation. Paper presented at Proceedings on Simulation in Business and Public Health. First Annual Conference of the American Statistical Association.
+SRINIVASAN, K. 1966. An application of a probability model to the study of interlive birth intervals. Sankhya 28:175-182.
+TALWAR, P. P. 1965.Adolescent sterility in an Indian population. Hum. Biol. 37:256-261.
+UNITED NATIONS. 1961. The Mysore Population Study. ST/SOA/Series A/34:84.
+VENKATACHARYA, K. 1969. Certain implications of short marital durations in the analysis of birth intervals. Sankhya 31:53-68.
+
+

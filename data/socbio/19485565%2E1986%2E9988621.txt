@@ -1,0 +1,315 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+A relative cohort size forecasting model of Canadian total live births
+Dennis A. Ahlburg
+To cite this article: Dennis A. Ahlburg (1986) A relative cohort size forecasting model of Canadian total live births, Social Biology, 33:1-2, 51-56, DOI: 10.1080/19485565.1986.9988621 To link to this article: http://dx.doi.org/10.1080/19485565.1986.9988621
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 4
+View related articles Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:41
+
+A Relative Cohort Size Forecasting Model of Canadian Total Live Births
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+Dennis A. Ahlburg
+Industrial Relations Center University of Minnesota Minneapolis, Minnesota
+
+ABSTRACT:A model of fertility determination is presented in which current fertility is a nonlinear function of the fertility of previous generations. This model seems to be an adequate representation of post-war fertility in Canada and forecasts a renewal of fertility in the 1980's and 1990's. It would seem that policy decisions based on the unchallenged assumption of a continuance of low fertility may be ill-advised.
+
+The post-war decline in Canadian fertility--from a total fertility rate of 3.947 in 1959 to 1.704 in 1981--has been well documented (Henripin and Legare, 1971; Murphy and Nagnur, 1972; Legare, 1974; Grindstaff, 1975; Collinshaw, 1976; Statistics Canada, 1979). The decline is generally attributed to two main factors: (1) the spread and increasing effectiveness of contraception; and (2) the fundamental change in women's role in society. But whatever the reasons for the decline in fertility, it is a commonly held belief that the trend will continue (Grindstaff, 1975; LaVoie, 1979; Statistics Canada, 1979). LaVoie concludes that it is "now increasingly obvious that migration may replace natural increase as the most important factor in determining future population growth."
+But is it perfectly clear that current economic and social developments will persist and fertility will, of necessity, continue to decline? It is not.
+Several years ago Richard Easterlin (1961,1968,1973) developed a model of fertility based on the correspondence between movements in the age structure of the labor force and the fertility rate.
+
+As the ratio of younger to older workers falls, the former perform better in the labor market than expected and their income rises relative to that which they expected. Members of a relatively smaller cohort marry earlier, in greater numbers, and have higher fertility rates than would larger cohorts, for whom the labor market experience is worse than their expectations. Easterlin and Condran (1976) applied the model to Canada and found a "rough correspondence between the movement in the age ratio and the fertility rate," although, compared to the U.S. and Australia, "the amplitude of the fertility movement is greater, with the fertility down turn especially being more pronounced." They concluded that "if this mechanism really is operative, then it implies a continuation of the current fertility decline through 1980. At that point, the fertility decline in progress since 1960 would start to have its effect on the age ratio and presumably set in motion a replication of the 1940-1980 pattern."
+Thus, Easterlin and Condran suggest the possibility that Canadian fertility is dictated by a relative cohort size (or relative income) model of fertility which
+
+51
+
+52
+
+Ahlburg
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+points to a resurgence of fertility in the next two decades rather than a decline. Samuelson (1976) has recently formalized Easterlin's model and shown that if the Easterlin effect is sufficiently strong, cycles in fertility will result.1 Ahlburg (1983) demonstrated that this model fits the U.S. post-war fertility data very well and predicts the revival of fertility in the 1980's and 1990's. This model will now be applied to Canadian data as a check on Easterlin and Condran's earlier analysis and to see whether the model also predicts a revival of Canadian fertility.
+MATERIALS AND METHODS
+The basic elements of the model are as follows. Increases in the size of a birth cohort relative to preceding cohorts reduce that cohort's income relative to that of smaller cohorts and consequently reduce the fertility of the large cohort. In this manner, the size of a particular cohort is a function of the size of previous birth cohorts.
+This system can formally be shown to reduce to (see Samuelson, 1976, and Ahlburg, 1983)
+
+However, immigration has been an important, though highly variable, source of population growth in Canada. It contributed 5,25, and 22 per cent of population growth in 1941-51, 1951-61 and 1961-71, respectively. Over the most recent period, 1971-76, it contributed about one-third of population growth (Denton et al., 1980.) However, emigration has also been significant in Canada; net emigration rates were 0.9,6.7, and 3.6 per thousand in 1941-51,195161, and 1961-71. For both emigration and immigration, about 25 per cent were females in the prime childbearing years 20-39 (Denton et al., 1980).
+From these statistics, it does not appear that immigration or emigration was sufficiently large to alter significantly the age-structure of the population. In addition, foreign-born women have much lower fertility than native-born women, particularly among post-war immigrants (Collishaw, 1976; Balakrishnan et al., 1979). Consequently, the model outlined above may be a useful approximation to the Canadian experience.
+ESTIMATION OF THE MODEL
+
+Equation (1) may be written as:
+
+B(t-1) + a2 B(t-2)
+
+where B, = births in year / and the lags where Bt = total live births. represent generations not years.
+
+The model assumes that immigration and er = random disturbance term. is zero, or, at least, relatively small. The lags t-- 1 and t--2 are twenty and
+
+forty years, respectively, and are based
+
+1 Denton and Spencer (1975, Chap. 3) also in- on Samuelson's specifications and em-
+
+vestigated the properties of an economic- pirical lags reported for the U.S. by Eas-
+
+demographic forecasting model incorporating an "Easterlin effect." Fertility was specified as a func-
+
+terlin etal. (1978) and Lee (1974).
+
+tion of the male wage rate that would be obtained
+
+if the model were in a stationary state. Simulations
+
+with the model produced regular, selfperpetuating cycles when the elasticity of fertility
+
+RESULTS
+
+rates with respect to wage rates was somewhat greater than 2. Although the cycles were some-
+
+ESTIMATION
+
+what longer than those predicted by Easterlin, their work is basically consistent with the model
+
+Table 1reports the results of estimat-
+
+presented here.
+
+ing the model for Canadian data for the
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+Vol. 33,No. 1-2
+
+Forecasting Model of Canadian Births
+
+53
+
+TABLE 1
+MAXIMUM LIKELIHOOD ESTIMATION OF THE RELATIVE COHORT SIZE MODEL
+
+Statistic
+Constant
+B*
+B-
+Immigration
+Rhoe
+Durbin Watson Standard error Mean absolute error Root mean square error Theil's inequality coefficient Bias proportion Regression proportion Disturbance proportion
+
+20-year Lags
+(1941-1979)
+235.421 (96.568)" -0.090
+(0.051)c 0.774
+(0.356)c ...
+0.955 (0.042)"
+1.350 13.421 10.590 12.890 0.017 0.042 0.016 0.942
+
+20-year Lags with Immigration (1941-1979)
+235.978 (96.280)* -0.089
+(0.051)c 0.755
+(0.356)" 0.206
+(0.208) 0.954
+(0.042)" 1.380 13.429 10.500
+12.720 0.016 0.041 0.013 0.946
+
+25-year Lags
+(1951-1979)
+405.739 (77.734)" -0.137
+(0.060)c 0.236
+(0.341) ...
+0.934 (0.051)"
+0.637 12.471
+9.211 11.810
+0.014 0.006 0.016 0.978
+
+SOURCES: Births: Vital Statistics, Cat 84-204, various years. The data exclude Newfoundland. Dr. M. V. George of Statistics Canada supplied this data. Immigration: Historical Statistics of Canada, 1940-1960 and Canada YearBook, various issues.
+
+"Asymptotic standard errors are in parentheses. bp - 0.01. 'p = 0.05. 'p = 0.10. 'Coefficient for first-order serial correlation.
+
+period 1941-79. The error term was found to be serially correlated and so the equation was estimated using the Beach-McKinnon (1978) maximum likelihood technique. The results are consistent with the relative cohort size model outlined above. The variables were correctly signed and significant at the 0.05 level in one-tailed tests. The overall equation is significant at the 0.01 level.
+As may be seen from accuracy statistics reported in Table 1, the relative cohort model is a good representation of the variation in post-war total live births. The mean absolute error is about 11,000 births, or less than 3 per cent of mean births. The model is superior to an
+
+assumption of constancy of births (the Theil statistic is less than one), and most of the error is in the disturbance proportion, that is, it is random.
+It has been argued above that immigration is unlikely to invalidate the model. This assumption was checked by adding a variable which measured the total number of married female immigrants aged 15-39 years lagged one year to Equation (2). As may be seen in Table 1, this assumption was supported. The immigration variable had a t value of less than one and did not alter the estimated parameters or accuracy statistics of the model.
+Although the model is specified to have generational lags of twenty years,
+
+54
+
+Ahlburg
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+and empirical findings cited support these lags, is the model sensitive to this specific lag structure? An alternative lag structure of 25 and 50 years has been suggested as being closer to the model childbearing age. The result of estimating the model with this lag structure over the shorter period 1951-79 is shown in Table 1. The pattern of signs on the coefficients remains unchanged, but the second term of the model is no longer significant. However, the fit of the model, as shown by the accuracy statistics, is quite similar. For example, the mean absolute error is 1,300 births less. The model seems quite robust with regard to this change in the lag structure.
+LaVoie (1979) claimed that "this [Easterlin's relative cohort size] theory only accounts very roughly for changes in fertility in Canada and consequently is not an effective tool for making fertility projections."2 The results reported above challenge the first of these statements. The second is, in part, an empirical matter to which we now turn.
+THE FORECASTS
+Forecasts based on Equation (2) are presented in Table 2 along with three sets of forecasts from Denton et al. (1980). Their low, medium, and high forecasts assume terminal (2051) crude birth rates of 8.2,13.3, and 20.9 and to-
+2LaVoie further argues that "it isdifficult to believe, given the changing social context (especially views on therole of women in society), that the relationship defined by Easterlin will hold true for the next two decades." However, it is not clear that societal changes are as fundamental as some commentators have argued nor isit clear that they are not endogenous (see Easterlin, 1980, for a full discussion of these issues).Thestability ofthe relationship is an empirical question and cannot, and should not,be decided on the basis of beliefs inthe extent of societal change.
+
+tal fertility rates of 1.5,2.1, and 3.0, respectively. These bracket the two official forecasts of Statistics Canada which assume total fertility rates of 1.7 and 2.1 (LaVoie, 1979). In contrast to the present approach, both Denton et al. and Statistics Canada derive forecasts of total live births by applying fertility rates to the female population of childbearing age. Denton et al. uses a Gompertz function based on assumed future values of total lifetime fertility, median age of mothers at childbirth, and the interquantile ranges of their ages at childbirth to project the age distribution of fertility rates.
+Although our main interest is to see what direction the relative cohort model predicts for fertility, it is also of interest to see how accurate are its point estimates. For 1980-82 the MAE's are 23,000 and 17,000 births or mean absolute percentage error of 6.2 and 4.6 per cent for the models with 20 and 25 year lags respectively. The MAPE's for the former decrease markedly over this period while those for the latter increase. This is a respectable level of accuracy for a variable which is traditionally difficult to forecast. The model may, therefore, be a useful complement to the models currently used to forecast births.
+The forecast with 20-year lags from the relative cohort model lie between the low and medium forecasts of Denton et al. until the end of this decade and between the medium and high forecast for the remainder of the century. The model based on 25-year generational lags predicts 20 per cent fewer births in the year 2000 than does the basic model, although it does predict births to rise significantly relative to the levels of the early 1960's. This difference reflects the slower development of cycles in this
+
+Vol. 33, No. 1-2
+
+Forecasting Model of Canadian Births
+
+55
+
+TABLE2
+FORECASTS OF TOTAL LIVE BIRTHS, 1980-2001
+
+RELATIVE COHORT
+
+ACTUAL
+
+SIZE MODEL (20-YEAR LAOS)
+
+1980. . . 370,709 1981. . . 371,346 1982... 371,990
+(est.) 1986 1991 1996 2000 2001
+
+333,004 349,512 362,743
+415,715 489,895 551,990 581,173
+...
+
+RELATIVE COHORT SIZE MODEL WITH
+IMMIGRATION" (20-YEAR LAGS)
+333,453 350,973 363,838
+415,840 488,450 549,114 577,592
+...
+
+RELATIVE COHORT
+SIZE MODEL (25-YEAR LACS)
+354,899 357,054 351,078
+321,796 369,934 413,330 446,235
+...
+
+P e n t o n c t a l . , 1S8U
+
+High
+
+Medium
+
+Low
+
+~ ~ ~~. 565,888 439,642 354,984
+
+690,600 482,223 344,237 668,074 466,443 332,275 627,263 435,502 307,754
+669,218 433,524 292,958
+
+The forecast including immigration assumes a constant level of immigration of 22,962.1T\isfigureis derived by multiplying the Denton et al. (1980) medium immigrationfigureby 0.19. (Per cent of immigrants female = 0.51;per cent female immigrants 15-39 years = 0.56; per cent married = 0.67. Norris, 1979.)
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+model. As shown inTable 2,the addi-
+
+CONCLUSION
+
+tion of immigration to the model has rel-
+
+atively little impact on the forecasts. The most commonly held view of
+
+The basic model predicts the underlying Canada's demographic future would
+
+total fertility rate to rise from its current seem to be that expressed by LaVoie
+
+level to about 2.1 by 1990 and2.6 by (1979): ". . . we must resign ourselves
+
+2000.
+
+to a pattern of population growth in
+
+We agree with Easterlin and Con- which natural increase plays an ever
+
+dran's prediction of a new baby boom dwindling role. The best attitude would
+
+for Canada, although thetotal fertility be to accept the situation andto ap-
+
+rate predicted will be significantly lower proach decision making with respect to
+
+than the 3.9 rate experienced at the peak the family, education, andrenewal of
+
+of the post-war baby boom. The model the labor force, in the light ofthese new
+
+ignores the impact of variables other data."
+
+than relative cohort size, and these vari- However, given the history of fertil-
+
+ables may reduce births below the levels ity in Canada andthe drastic changes
+
+forecast. However, the underlying rela- witnessed inthe post-war period, thisis
+
+tive cohort size mechanism isso strong a position fraught with risk. As we have
+
+that these other factors are unlikely to shown above, if fertility is determined
+
+completely dampen the forecast rise in by a relative cohort size mechanism, a
+
+births.3
+
+new "baby boom" is areal possibility. If
+
+this fertility renewal occurs, theprob-
+
+3Ahlburg (1984) integrated the relative cohort model andmore traditional economic and sociological models of births. The forecasts of total live
+
+lems experienced in thelabor market, schools, and housing sector and caused by the high fertility rates of the late
+
+births for the U.S. from this model were below 1940's and 1950's, may reoccur.
+
+those of the relative cohort model but still indi-
+
+cated a significant rise in fertility.
+
+Consequently, we agree with Denton
+
+56
+
+Ahlburg
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:41 08 December 2015
+
+et al. (1980) that "any realistic appraisal of future [demographic] possibilities must take into account the high degree of uncertainty associated with the determinants of fertility and hence its future level." A renewal of fertility in Canada cannot bediscounted andpolicy recommendations should reflect this possibility.
+
+ACKNOWLEDGMENTS
+The author would like to thank Frank Denton, D. Nagnur, andByron Spencer for helpful comments on an earlier draft of this paper.
+
+REFERENCES
+
+AHLBURG, D. A. 1982. The new Kuznets Cycle: A test of the Easterlin-Wachter-Wachter Hypothesis, pp. 93-116. In J. L. Simonand P. H. Lindert (eds.), Research in population economics, Vol. IV. JAI Press, Greenwich, Conn. . 1983. Going up, going down: A study of the future path of U.S. fertility. Soc. Biol. 30:17-23. . 1984. A Macroeconometric EconomicDemographic Forecasting Model for the United States. Mimeo, University ofMinnesota, Minneapolis, Minn.
+BALAKRISHNAN, T. R., G. E. EBANKS, and
+C. F. GRINDSTAFF. 1979. Patterns of fertility in Canada, 1971. Statistics Canada, Ottawa.
+BEACH, C. A., and J. A. MCKINNON. 1978. A
+maximum likelihood procedure for regression with autocorrelated errors. Econometrica 44:51-58. COLLINSHAW, N. 1976. Fertility in Canada: 1971. 1971 Census of Canada Profile Studies, Vol. 5. Statistics Canada, Ottawa.
+DENTON, F. T., and B. G. SPENCER. 1975. Pop-
+ulation andtheeconomy. Lexington Books, Lexington, Mass.
+DENTON, F. T., C. H. FEAVER, and F. G. SPEN-
+CER. 1980. The future population and labor force of Canada: Projections to the year 2051. Economic Council of Canada, Ottawa. EASTERLIN, R. A. 1961.The American baby boom in historical perspective. Amer. Econ. Rev. 60:869-911.
+. 1968.Population, labor force, andlong swings in economic growth: The American experience. Columbia University Press, New York.
+. 1973. Relative economic status and the American fertility swing, pp. 170-223. In E. B. Sheldon (ed.), Family economic behavior: Problems and prospects. J. B.Lippincott, Philadelphia.
+. 1980. Birth andfortune: Theimpact of numbers on personal welfare. Basic Books, New York.
+
+EASTERLIN, R. A., and G. A. CONDRAN. 1976.
+A note on the recent fertility swing in Australia, Canada, England and Wales and the United States, pp. 139-151. In H. Richards (ed.), Population, factor movements, and economic development. University of Wales Press, Cardiff.
+EASTERLIN, R. A., M. L. WACHTER, and S. M.
+WACHTER. 1978. The changing impact of population swings on the American economy. Proc. Amer. Philos. Soc. 122:119130. GRINDSTAFF, C. F. 1975. The baby bust: Changes in fertility patterns in Canada. Canad. Stud. Pop. 2:15-22.
+HENRIPIN, J., and J. LEGARE. 1971. Recent
+trends in Canadian fertility. Canad. Rev. Sociol. Anthrop. 8:106-118. LAVOIE, Y. 1979. Fertility projections for Canada and the provinces, 1976-1991. Background Paper for 1976 Statistics Canada Population Projections (reyised) Statistics Canada, Ottawa. LEE, R. D. 1974.Forecasting births in a posttransition population: Stochastic renewal with serially correlated errors. Amer. Statist. Assoc. 69:607-617. LEGARE, J. 1974. Demographic highlights on fertility decline in Canadian marriage cohorts. Canad. Rev. Sociol. Anthropol. 11:287-307.
+MURPHY, E. M., and D. N. NAGNUR. 1972. A
+Gompertz fit that fits: Applications to Canadian fertility patterns. Demography 9:3550. NORRIS, D. A. 1979. Migration projections for Canada and the provinces, 1976-1991. Background Paper for 1976Statistics Canada Population Projections (revised). Statistics Canada, Ottawa.
+SAMUELSON, P. A. 1976. An economist's nonlinear model of self-generating fertility waves. Pop. Stud. 30:243-247.
+STATISTICS CANADA. 1979. Canada's population: Demographic perspectives. Statistics Canada, Ottawa.
+
+

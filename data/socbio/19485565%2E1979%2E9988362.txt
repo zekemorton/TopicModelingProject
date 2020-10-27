@@ -1,0 +1,530 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Contraceptive choice of limiters ages 35­44 in the United States: An examination of selection of method from among a number of possible choices
+R. Thomas Gillaspy
+To cite this article: R. Thomas Gillaspy (1979) Contraceptive choice of limiters ages 35­44 in the United States: An examination of selection of method from among a number of possible choices, Social Biology, 26:1, 72-79, DOI: 10.1080/19485565.1979.9988362 To link to this article: http://dx.doi.org/10.1080/19485565.1979.9988362
+Published online: 23 Aug 2010.
+Submit your article to this journal
+Article views: 1
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:38
+
+Contraceptive Choice of Limiters Ages 3 5 - 4 4 in the United States: An Examination of Selection of Method from Among a Number of Possible Choices
+
+)l
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+R. Thomas Gillaspy
+Minnesota State Planning Agency 101 Capitol Square Building 550 Cedar Street St. Paul, Minnesota
+ABSTRACT: Utilizing a subsample of the 1970 National Fertility Survey and discriminant analysis, the choice of contraceptive method was examined. First, choice from among rhythm, chemicals, condoms, oral pill, and IUD was examined. Two significant characteristic dimensions were isolated. The first dimension was interpreted as a distinction among methods from moreeffective to less-effective. The second dimension was concluded to represent an aesthetics-health dimension, dividing methods between coitus-related versus not-coitus-related. Second, the choice between these methods and sterilization was examined. The results indicated that income and the number of births to be averted play an important role in the choice of sterilization.
+
+Most research on family planning has concentrated on either the nature of adopters or factors affecting continuation. One aspect of family planning that has received little attention is the factors affecting choice of method. Some studies employing univariate techniques to examine the relation between socioeconomic variables and method choice have been conducted (Ryder and Westoff, 1972; Whelpton et al., 1966). More recently, multivariate analyses have been conducted examining choice of method (Cochrane, 197S; Kahley and Gillaspy, 1977). However, these studies have tended to concentrate on the choice between two methods. The choice of method from among a number of possibilities is an aspect of family planning which has generally been ignored. This paper reports on a multivariate analysis of method choice from among a variety of methods of family planning.
+Methods of contraception widely used not only in the United States but also in
+
+much of the rest of the world include rhythm, foams and other chemicals, condoms, oral pill, IUD, and sterilization. Each of these methods has associated with it a number of characteristics, including cost, whether or not use is related to coitus, aesthetic aspects, health side effects, religious and social implications of use, use-effectiveness, reversibility, etc. Furthermore, the potential adopter of a family planning method has various characteristics which determine needs and preferences for one or more of the characteristics available in the different contraceptive methods. An individual will select that method which has associated with it the characteristics that best satisfy those needs and preferences.
+The purpose of this research is to isolate, for the sample employed, those adopter characteristics which best differentiate among adopters of the various methods. In addition, it attempts to isolate those contraceptive method characteristics
+
+72
+
+Vol. 26, No. 1
+
+Contraceptive Choice
+
+73
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+which are most important to the potential adopter in determining choice of method.
+MATERIALS AND METHODS
+The source of the data for the analysis was the 1970 National Fertility Survey (Ryder and Westoff, 1972). A subsample was pulled with the following characteristics: (1) ages 35-44; (2) white; (3) do not want any more children; (4) currently fecund or sterilized for contraceptive purposes; (5) currently contracepting.
+After some respondents were dropped because of nonresponses, a sample of 241 respondents remained. Of these, 80 adopted sterilization; 34, rhythm; IS, foams; 39, condoms; IS, diaphragm; 47, oral pill; and 11 IUD.
+In all, nine explanatory variables were used in the analysis. These are defined as follows:
+RC = 1, if Catholic; otherwise, 0. CI = 1, if church is an important factor in
+the respondent's life; otherwise, 0. ER = education of the wife. EH = education of the husband. HY = income of the husband in thousands
+of dollars. RY = income of the wife in thousands of
+dollars. CF = coital frequency in the last four weeks
+prior to the interview. CH = total number of children at the time
+of the interview. A = the number of births to be averted.
+The last variable, A, requires explanation. The objective was to construct a variable which would serve as an approximation of the number of births that could be expected by a fecund woman from the date of her last desired child (as denned by the respondent) to age SOif she were to use no method of contraception. Thus, if she wants no more children, this variable represents an attempt to measure the number of births she must prevent. The variable was calculated as follows:
+A = (50-ALB)*P(Bm)
+
+where ALB = wife's age at the birth of her last child, and P(Bnc) = probability per year, given age, of a birth if no contraception was employed (Henry, 1961). Certainly, such factors as the variability of fecundity among women, recovery period after birth, lactation period, and age at menopause, as well as other factors, are not constants, but rather are variable within the population and may be employed in a more precise measure of the number of births to be averted through contraception. Though we recognize the limitations of this method of calculating the variable, the use of a more sophisticated approach would have required more information than was available.
+DISCRIMINANT ANALYSIS
+For problems in which the objective is to explain group membership, an appropriate multivariate technique is discriminant analysis. The objective of discrirriinant analysis is to derive functions of explanatory variables which will maximize the difference among groups of interest. These functions may then be employed to predict group membership. In essence, discriminant analysis is primarily concerned with prediction of group membership. While it is an interesting and useful technique, it is not without drawbacks. The main problem is the difficulty of interpreting the results, and this difficulty increases markedly as the number of groups under examination increases. Still, for this research problem, discriminant analysis appears to be the most promising technique. The program used for estimation is found in Statistical Package for the Social Sciences (Nie et al., 1975).
+RESULTS
+The analysis of contraceptive choice initially included seven choices--rhythm, foam, condom, diaphragm, oral pill, IUD,
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+74
+
+Gillaspy
+
+Social Biology
+
+and sterilization. Though the results were encouraging, it was difficult to interpret them since the sterilization group was weighted so heavily in the sample. Furthermore, when examining group configurations among the alternative methods, sterilization appeared to represent a significant departure from the other techniques. This difference between sterilization and the other contraceptive techniques may be at least partially explained by the more radical implications of sterilization, so that potential adopters may perceive sterilization as a method apart from and beyond more conventional contraceptive methods.
+Thus, a second analysis was performed which included the six remaining choices. These choices are more representative of the range of methods one usually thinks of as being contraceptives. After some initial trial runs, five variables and two interactions were found to discriminate best among the six groups. In all, five functions were derived, but only the first two were significant. Thus, this discussion will be based upon these two functions. As may be seen in Table 1, the education interaction term clearly is the best discriminator
+
+in the first function, followed by the two religion variables and their interaction term. In the second function, the religion interaction term was the best discriminator with the education interaction term and education of the husband next.
+In Table 2, the predictions of group membership resulting from the estimations are presented, though it should be noted that a prediction bias results from such an exercise. A better measure of overall explanatory power of the functions is Wmuitj2 (Tatsuoka, 1970). This statistic is an approximation of the proportion of variability in group membership explained by the two significant functions (similar to the/?2 in multiple regression analysis). In this model, the two functions explain approximately 37 per cent of the variability in group membership.
+The group centroids are the mean discriminant scores for each group in each function and may be employed to summarize the location of the groups in the space defined by the functions (Nie et al., 1975, p. 440). Examining the centroids of the groups (Table 3), we find that a picture of the effects of the discriminating variables on choice of method begins to de-
+
+TABLE 1
+RESULTS OF DISCRIMINANT ANALYSIS OF SIX CONTRACEPTIVE GROUPS
+
+DISCRIMINANT FUNCTION 1
+
+DISCRIMINANT FUNCTION 2
+
+VARIABLES
+
+Standardized Coefficients
+
+Unstandardized Coefficients
+
+Standardized Coefficients
+
+Unstandardized Coefficients
+
+RC CF ER EH
+CFRC CI ER*EH Constant
+
+-0.738 -0.158 -0.231 -0.164
+-0.359 -0.645
+1.038 ...
+
+-1.517 -0.038 -0.235 -0.128
+0.878 . -1.311
+0.170 0.845
+
+-0.762 -0.412 -0.314 -1.094
+-1.409 0.756 1.375 ...
+
+1.567 -0.100 -0.319 -0.858
+-3.-441 1.537 0.225 1.229
+
+Wilks'Lambda* Significance Canonical Correlf
+WW
+
+0.606 0.000 0.485
+
+... ...
+--
+
+0.793 0.060 0.346
+O^m
+
+...
+
+* Wilk's Lambda is a measure of the amount of group differences remaining to be explained in succeeding functions. The larger is Wilk's Lambda, the less information to be explained by additional functions.
++ Canonical correlation is a measure of association between the single function and the set of groups.
+
+Vol. 26, No. 1
+
+Contraceptive Choice
+
+75
+
+TABLE 2
+PREDICTIONS OF GROUP MEMBERSHIP: SIX CONTRACEPTIVE GROUPS
+
+ACTUAL GROUP
+
+No. OF
+CASES
+
+12
+
+PREDICTED GKOUP 3 4 56
+
+1. Rhythm 2. Foams 3. Condoms 4. Diaphragm 5. Oral pill 6. IUD
+
+34 15 7 3 S 2 2
+
+15 0 8 3 1 0 3
+
+39
+
+7 11 11
+
+6
+
+22
+
+15 0 1 2 7 2 3
+
+47 10 10 5 8 6 8
+
+11
+
+00
+
+11
+
+09
+
+* These predictions are based upon the assumption of equal prior probabilities for each group. Per cent of cases correctly classified = 34.78%. Expected per cent correct based upon random classification = 16.67%.
+
+TABLE 3
+CENTROIDS OF DISCRIMINANT ANALYSIS OF SIX CONTRACEPTIVE GROUPS RANKED BY MAGNITUDE
+
+Method
+IUD Diaphragm Oral pill Foams Condoms Rhythm
+
+Function 1
+1.420 0.620 0.042 0.128 --0.240 -0.459
+
+Method
+Foams Condoms Diaphragm Oral pill IUD Rhythm
+
+Function 2
+0.652 0.304 0.036 -0.054 -0.249 -0.497
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+velop. When the centroids of the first function are ranked according to magnitude, two groups of method are evident. On the one hand, IUD, diaphragm, and the pill form one cluster, while foams, condoms, and rhythm form the second cluster.
+
+The smallest effect occurs among Catholics who feel church is important versus those who do not. In all, the non-Catholics who feel church is not important are more likely to select a contraceptive from among the IUD-diaphragm-pill group while
+
+In Function 1, the religion variables are Catholics who feel church is important are
+
+important as discriminators. As there is an more likely to choose from among the
+
+interaction present, it is necessary to ex- foams-condoms-rhythm group.
+
+amine the effect of the two religion variables simultaneously. Holding the other variables constant at their means, the effects of these two variables in reduced space are as shown in Table 4. The biggest effect occurs between Catholic and nonCatholic among those who do not feel church is an important part of their lives.
+
+Though the discriminating powers of the religion variables seem to be most important for this function, the education variables are also important. The total effect of these variables, holding the other variables constant at their means, is shown in Table 5 and is much as expected. In general, education is positively asso-
+
+TABLE 4
+
+ciated with choice of a method from among the IUD-diaphragm-pill group.
+
+EFFECT OF TWO RELIGION VARIABLES, CATHOLIC/NON-CATHOLIC AND CHURCH IMPORTANT/CHURCH NOT IMPORTANT, ON CHOICE
+OF METHODS: FUNCTION l
+
+Therefore, with respect to the first function, the methods appear to be divided along relatively straightforward socio-
+
+Importance
+
+religious lines into a traditional ver-
+
+of Church
+
+RC Not RC sus nontraditional dimension. Thus, lower
+
+CI Not CI .
+
+-0.775 - 0 342
+
+-0.136 status (as measured by education) religious 1.175 individuals are more likely to opt for the
+
+76
+
+Gillaspy
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+TABLE 5
+EFFECT or EDUCATION VARIABLES ON CHOICE OF METHODS: FUNCTION 1
+
+Some H S . HS Some college ..,
+
+HUSBAND'S EDUCATION-
+
+Some H.S.
+- 0 614 --0 402 - 0 190
+
+WIFE'S EDUCATION
+H.S.
+-0.509 -0.127
+0.255
+
+Some College
+-0.404 -0.148
+0.70
+
+foam-condom-rhythm group and vice versa.
+Examining the centroids of the second function, a different picture emerges. Again, the methods are divided into two groups. This time, however, the first group is composed of foam, condom, and diaphragm while the second group is composed of pill, IUD, and rhythm. In the second function, while the religion variables are still important, the education variables seem to be taking on more importance. Furthermore, coital frequency is more important than it was in the first function.
+Again, two interactions were present. The effects of the religion interaction, holding all other variables constant at their means, are shown in Table 6. Interestingly enough, Non-Catholic/ChurchImportant and Catholic/Church-Not-Important are very similar, while Catholic/ Church-Important and non-Catholic/ Church-Not-Important are similar. Thus, those with mixed religious convictions on contraception find the foam-condomdiaphragm group of methods preferable, while those with strongest conviction and those with the weakest find the
+
+TABLE 6
+EFFECTS OF TWO RELIGION VARIABLES, CATHOLIC/NON-CATHOLIC AND CHURCH IMPORTANT/CHURCH NOT IMPORTANT, ON CHOICE
+OF METHODS: FUNCTION 2
+
+Importance of Church
+CI Not CI
+
+RC
+.. -1.127 0.777
+
+Not RC
+0.747 -0.79
+
+pill-IUD-rhythm group preferable. Quite apart from the prohibition on such methods as the IUD and the pill, this interaction may be indicating an aesthetic-in-use-of-contraceptives dimension. Thus, those methods which are the neatest and least coitus-related will be preferred by these two types of individuals. Similarly, for Catholics with deep convictions, it has been reported that there are strong prohibitions against handling genitalia, which is required by foam, condom, and diaphragm. Thus, this interaction may be indicating an aesthetics dimension for preference.
+At low and medium levels of wife's education, the preference for the pill-IUDrhythm group increases as husband's education increases (Table 7). This finding probably reflects a preference for or knowledge of the more effective methods (pill and IUD). However, the opposite is true for higher levels of wife's education. Indeed, the preference for the foamcondom-diaphragm group is greatest when both the husband and the wife are well educated. This interaction may be indicating two characteristic dimensions of contraceptives. First is the effectiveness dimension for lower and medium levels of wife's education, similar to the effect found in the first function. The second characteristic dimension indicated may be a health/safety dimension. If better educated women are more sensitive to and knowledgeable about possible side effects of contraceptives, then we might expect them to shift back to methods which have
+
+Vol. 26, No. 1
+
+Contraceptive Choice
+
+77
+
+TABLE 7
+EFFECT OF EDUCATION VARIABLES ON CHOICE OF METHODS: FUNCTION 2
+
+Some H S . HS Some college
+
+HUSBAND'S EDUCATION
+
+Some H.S.
+0 05 -0.458 - 0 866
+
+WIFE'S EDUCATION
+H.S.
+0.081 -0.102
+0.285
+
+Some College
+0.212 0.254 0.296
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+fewer deleterious side effects, e.g., foam, condom, or diaphragm.
+Thus, with respect to choice from among these six methods, two sets of method-characteristic dimensions predominate. First, and most important, is the traditional/nontraditional dimension, determined primarily by religious convictions and social status. In this dimension of characteristics, IUD-pill-diaphragm would be considered nontraditional, while foams-condoms-rhythm would be considered traditional. Second is the aesthetic/ health dimension. In this second dimension of characteristics, pill-IUD-rhythm would be considered aesthetically superior while foam-condom-diaphragm would be perceived as having fewer serious side effects. These two dimensions, therefore,
+appear to be the primary dimensions upon which choice of method is based. Other possible dimensions, such as cost and effectiveness, do not appear to be a major
+concern.
+But what about sterilization? As men-
+tioned earlier, from preliminary analysis the inclusion of sterilization as a method appeared, t.o c,loud, t.h, e resul.t.s. I, n ot.h, er words, it is possible that sterilization rep-
+resents a significant departure from the other methods with respect to the determinants of choice. To test this hypothesis, another discriminant analysis was per-
+formed between two groups--sterilization versus the other six methods. In preliminary runs, vari,ab. l, es wh. i.c.h previ·ousl1y h1 ajd been important in discriminating among the Six groups education Of the hUSband,
+
+education of the wife, and coital frequency--were found to lack discriminating power between these two groups. Further, the religion variables were found to be less important and no interaction was discovered. Instead, four new variables and their interactions were found to be of primary importance-- number of children, number of births the couple desires to avert, income of the husband, and income of the wife. In Table 8 the two religion variables are both shown to have a negative impact on the preference for sterilization. Thus, Catholics and those who feel church is important were more likely to select one of the six conventional methods. The predictions of group membership from the estimations are presented in Table 9.
+The remaining variables are involved in
+
+TABLE 8
+
+RESULTS OF DISCRIMINANT ANALYSIS BETWEEN STERILIZATION AND A·L L O T H E R CONTRACEPTION*
+
+vJl!^l
+RC CA H HY
+
+standardized
+Coemdents
+0.545 00..454294 0.221
+
+^standardized
+Coefficients
+-1.184 00..237023 0.016
+
+ci ............. "Y*RY
+
+-0I252 -0.653
+
+-oisos -0.009
+
+A * C H .......... Constant
+
+0.25s o!o33 ... -2.609
+
+bilks' Lambda .. 0.817
+
+Significance
+
+0.000
+
+iCanonical corre
+Wroulti2
+
+0.428 Q-182
+
+^___
+
+· Centroids: Sterilization, 0.605; All other methods, -0.301.
+
+78
+
+Gillaspy
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+TABLE 9
+
+TABLE 11
+
+PREDICTIONS OF GROUP MEMBERSHIP: STERILIZATION AND ALL OTHER METHODS
+
+ACTUAL GROUP
+
+No. OF CASES
+
+PREDICTED GROUP
+
+1. Other methods
+
+161 110 51
+
+2. Sterilization . . . 80 26 54
+
+* These predictions are based upon the assumption of equal prior probabilities for both groups. Per cent of cases correctly classified = 68.05%. Expected per cent correct based on random classification = 50.00%.
+
+EFFECT OF WIFE'S INCOME AND NUMBER OF BIRTHS TO AVERT ON CHOICE BETWEEN
+STERILIZATION AND ALL OTHER METHODS
+
+No. OF BIRTHS To AVERT
+? 4 6.
+
+1
+-0.579 0.221 1.021
+
+WIFE'S INCOME
+3
+-0.073 0.475 1.023
+
+5
+0.433 0.729 1.025
+
+various interactions with each other. Examining the income interaction, we find that the largest proportional and absolute effects occur at low levels of husband's income as wife's income increases (Table 10). Indeed, the highest probability of sterilization occurs when wife's income is approximately equal to husband's income. Thus, it appears that as wife's income increases in proportion to total family income there is a strong incentive to opt for sterilization, since a pregnancy in these families would have a strong negative effect on family income should the wife not continue to work outside the home.
+The second interaction discovered occurs between wife's income and the number of births to avert (Table 11). The greatest effect in this case occurs along the diagonal from low income and few births to avert to high income and a large number of births to avert. If births to avert is an indicator of the benefits from an effective contraception scheme and wife's income is at least partially an indicator of the costs of an additional child, then the
+
+bottom right-hand cell would be expected to be the situation in which sterilization is most likely to be chosen.
+The remaining interaction occurs between the number of births to avert and the number of children in the family (Table 12). In this case, a positive interaction was found. Thus, the greatest effect occurs along the diagonal from lowest values for both variables to highest values for both variables. Consequently, those families with a large number of children as well as a large number of births to avert are most likely to opt for sterilization. Therefore, this interaction may be indicating an intensity of need-for-family-limitation effect, a result similar to that found by Kahley and Gillaspy (1977).
+SUMMARY
+A number of methods of contraception are utilized in the United States by those wishing to limit family size. This paper focuses on the characteristics which differ-
+
+TABLE 10
+EFFECT OF HUSBAND'S AND WIFE'S INCOME ON CHOICE BETWEEN STERILIZATION AND ALL OTHER
+METHODS
+
+TABLE 12
+EFFECT OF NUMBER OF BIRTHS TO AVERT AND NUMBER OF CHILDREN IN THE FAMILY ON CHOICE
+BETWEEN STERILIZATION AND ALL OTHER METHODS
+
+HUSBAND'S IN'COME
+s
+in 15
+
+WIFE'S INCOME
+
+1
+-0.074 -0.039 -0.004
+
+3
+0.152 0.097 0.042
+
+5
+0.378 0.233 0.088
+
+NO. OF CHILDREN IN FAMILY
+2. 4 6
+
+No. OF BIRTHS TO AVERT
+
+2 46
+
+1.455 0.779 -0.103
+
+-0.963 -0.155
+0.653
+
+-0.471 0.469 1.409
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Vol. 26, No. 1
+
+Contraceptive Choice
+
+79
+
+entiate among adopters of the various With respect to the choice between
+
+methods available.
+
+sterilization and the other six methods, a
+
+Employing a subsample from the 1970 model including six average effects and
+
+National Fertility Survey, discriminant three interaction effects was tested. In the
+
+analysis is used in an attempt to identify previous analysis, the most important dis-
+
+the important characteristics of adopters criminating variables were the education
+
+of methods, including sterilization, rhy- and religion variables. In this case, how-
+
+thm, foams, condoms, diaphragm, oral ever, the income variables assume pri-
+
+pill, and IUD. The analysis was divided macy. For example, the likelihood of
+
+into two parts: (1) the choice from among selecting sterilization increases markedly
+
+the six methods usually thought of as con- as wife's income increases proportionately
+
+traceptives; and (2) the choice between to husband's income.
+
+sterilization and the six methods.
+
+While the results reported arelimited in
+
+With respect to the choice from among scope, they are encouraging. Additional
+
+six methods, a model including five aver- research, including a broader cross-section
+
+age effects and two interaction effects of respondents and, if possible, an exam-
+
+was tested. Two significant functions ination of the effects of the introduction of
+
+were derived, indicating the presence of a new method, would be of interest. With
+
+two important characteristic dimensions. such additional research, it would be pos-
+
+The first dimension was concluded to sible to gain important knowledge about
+
+represent a traditional-methods versus the nature of thechoice of family-planning
+
+nontraditional-methods dimension, ap- strategies.
+
+proximately along the lines of more-
+
+effective versus less-effective strategies of
+
+family limitation. The second characteris-
+
+tic dimension was concluded to represent
+
+ACKNOWLEDGMENTS
+
+an aesthetics-health dimension, dividing I would like to thank Professor Warren C.
+
+the methods primarily between coitusrelated versus not-coitus-related methods.
+
+Robinson, The Pennsylvania State University, for offering many suggestions in the various stages of this paper.
+
+REFERENCES
+
+COCHRANE, SUSAN H. 1975. Factors affecting the choice of contraceptive method by a group of O.E.O. patients. Soc. Biol. 22:2:173-80.
+HENRY, LOUIS. 1961. Some data on natural fertility. Eugen. Quart. 8:81-91.
+KAHLEY, WILLIAM J., and RONALD T. GILLASPY.
+1977. An economic model of contraceptive choice: Analysis of family planning acceptors in Bogota. Soc. Biol. 24:135-143.
+NIE, NORMAN H., C. HADLAI HULL, JEAN G.
+JENKINS, KAREN STEINBRENNER, and DALE H.
+BENT. 1975. Statistical package for the socialsciences. 2nd ed. McGraw-Hill, New York.
+RYDER, NORMAN B., and CHARLES F. WESTOFF.
+
+1972. Wanted andunwanted fertility in theUnited States; 1965 and 1970. In Demographic and social aspects of population growth. Vol. I. The Commission on Population Growth and the American Future. Government Printing Office, Washington, D.C. TATSUOKA, MAURICE M. 1970. Selected topics in advanced statistics: An elementary approach, #6. Discriminant analysis. Institute for Personality and Ability Testing, Champaign, Ill.
+WHELPTON, PASCAL K., ARTHUR A. CAMPBELL,
+and JOHN E. PATTERSON. 1966. Fertility and
+family planning in the United States. Princeton Univ. Press, Princeton.
+
+

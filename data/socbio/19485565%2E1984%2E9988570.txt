@@ -1,0 +1,573 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+The estimation of natural fertility: A micro approach
+Eileen M. Crimmins & Richard A. Easterlin
+To cite this article: Eileen M. Crimmins & Richard A. Easterlin (1984) The estimation of natural fertility: A micro approach, Social Biology, 31:1-2, 160-170, DOI: 10.1080/19485565.1984.9988570 To link to this article: http://dx.doi.org/10.1080/19485565.1984.9988570
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 2
+View related articles
+Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:40
+
+The Estimation of Natural Fertility: A Micro Approach
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+Eileen M. Crimmins and Richard A. Easterlin
+Andrus Gerontology Center and Department of Economics, University of Southern California, Los Angeles, California
+
+ABSTRACT: The estimation of natural fertility has heretofore been confined to population aggregates. This paper presents a technique for estimating natural fertility at the household level for developing countries with some practice of deliberate family size limitation and applies it to micro-level WFS data for Sri Lanka and Colombia for females aged 35-44 in intact marriages. The technique is based on a proximate determinants equation estimated as part of a model that takes account of the interdependence between use of fertility control and natural fertility. To evaluate the results, the mean and household level estimates of natural fertility for each country are first compared with actual fertility; then mean estimates for each country are compared with macro-level estimates of natural fertility based on three other methods. Finally, the implications of the analysis for the proximate sources of intercountry and intracountry variations in natural fertility are examined. The results suggest that the present approach yields plausible quantitative estimates of natural fertility and reasonable analytical results.
+
+Although the concept of natural fertility has gained growing acceptance (Henry, 1953; Leridon, 1977; Leridon and Menken, 1979), its empirical estimation in populations practicing some deliberate family size limitation has been confined to population aggregates (e.g., Bongaarts, 1978). This paper develops a model for estimating natural fertility at the household level in developing countries and estimates the model from WFS data for Sri Lanka and Colombia for females aged 35-44 in intact marriages. Three procedures are used to evaluate the empirical results. First, the mean and household level estimates of natural fertility for each country are compared with actual fertility. Second, the mean estimate for each country is compared with macro-level estimatesof natural fertility based on methods suggested by the work of Bongaarts (1978, 1980,1982,1983) and Srinivasan and Jejeebhoy (1981). Finally, the implica-
+
+tions of the analysis for the proximate sources of intercountry and intracountry variations in natural fertility are examined.
+MATERIALS AND METHODS
+THE MODEL
+Theoretically, natural fertility is that which would prevail in the absence of any intention deliberately to limit births. Because intention is frequently not known, however, the empirical concept of natural fertility adopted here is that frequently found in the literature, namely, the fertility that would prevail in the absence of contraception and induced abortion (see, for example, Bongaarts, 1978;for a discussion of conceptual issues, see Menken's Introduction in Leridon and Menken, 1979; Bongaarts, 1983;and Knodel, 1983). Potential fertility as used, for example,byPotter et al. (1979) differs from natural
+
+160
+
+Vol. 31,No. 1-2
+
+Natural Fertility
+
+161
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+fertility in that it refers to the fertility a population would have experienced in the absence of a family planning program; in consequence it tends to be lower than natural fertility and may be confined to program clientele alone rather than the general population (Bongaarts, 1982).
+The estimation here of natural fertility, defined as fertility in the absence of family planning practices, whether or not those practices are due to a family planning program, is based on a model of fertility determination (see Appendix A). The model starts with a fertility equation in which the number of children ever born per woman is expressed as a function of various "proximate determinants," whose selection is governed primarily by the nature of the WFS core module data. These are everuse of fertility control, including both contraception and induced abortion; duration of marriage, including consensual unions; first and second birth intervals; secondary sterility (NSS); length of breastfeeding in the last closed interval; pregnancy wastage; and infant and child mortality (Equation [1]). In general, one would expect that the cumulative fertility of a continuously married woman near the end of her reproductive career would be greater:
+(1) if there isno use of fertility controlby her or her husband;
+(2) the longer her period of exposure, as measured by duration of marriage;
+(3) the more rapid her early rate of childbearing, as measured byfirstandsecond birthintervals;
+(4) the shorter her period of secondary sterility;
+(5) the shorter her duration of breastfeeding and consequent lactational amenorrhea;
+(6) the lower her rate of fetal wastage (miscarriages, spontaneous abortions, and stillbirths), and hence
+
+physiological problems of reproduction; (7) the higher the couple's rate of child mortality and consequent shortening of the nonsusceptible period.
+In terms of Bongaarts' (1980) proximate determinants classification, the contraceptive use variable can be thought of as an approximate measure of deliberate fertility control. The other variables comprise collectively a set of natural fertility determinants with duration of marriage reflecting the extent of exposure to intercourse; first birth interval, fecundability; pregnancy wastage, spontaneous intrauterine mortality; "NSS," secondary sterility; and the combination of second birth interval, breastfeeding in the last closed interval, and child mortality, the duration of postpartum infecundability.
+One might simply fit Equation (1) to the data and use the resulting regression coefficients to estimate natural fertility, setting the use variable equal to zero, as we have in fact done previously (Easterlin and Crimmins, 1982). An objection to this procedure is that the contraceptive use variable in Equation (1) is itself partly dependent on a household's natural fertility. For example, as between two households that are in other respects the same, the one with higher natural fertility has a greater prospect of unwanted children and hence will be under greater pressure to adopt deliberate control. Equation (2a)specifies the relationship between use and natural fertility, based on the synthesis framework of fertility determination (Easterlin, Pollak, and Wachter, 1980). There are three new variables in this equation: (1) potential family size, the natural fertility of a couple adjusted for child mortality (Cn); (2) desired family size (Cd); and (3) the costs of fertility control (RC),
+
+162 Crimmins and Easterlin Social Biology
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+which is approximated here, quite in- births are averted by users of fertility
+
+adequately, by the number of fertility control.
+
+control methods known by a respon- The high mean values for the first and
+
+dent. In general, use of fertility control second birth intervals in Table 1 result
+
+is more likely, the greater the prospect from the values assumed for these varia-
+
+that unregulated fertility will lead to a bles for women with no child or only one
+
+family size considerably in excess of that (see Appendix B). For women with at
+
+desired (that is, the greater the excess of least two births,firstand second birth in-
+
+Cn over Cd), and the lower the costs of tervals were, respectively, 21.4 and 29.2
+
+fertility regulation (RC).
+
+months in Sri Lanka and 16.6 and 23.7
+
+A two-stage procedure is used to esti- months in Colombia (Easterlin and
+
+mate the resulting simultaneous equa- Crimmins, 1982, p. 11). (These figures
+
+tion model. First, the reduced form also exclude women with premarital
+
+Equation (2b), in which contraceptive births or who used fertility control prior
+
+use appears as a function only of exoge- to the second birth.)
+
+nous variables, is estimated by logit and To estimate a household's natural
+
+used to construct an instrumental varia- fertility, its values on the Xi through X7 ble, predicted probability of use. This variables of Equation (1) are multiplied
+
+instrumental variable is then used along by the corresponding coefficients and
+
+with the natural fertility determinants to the resulting products summed. Thus, a
+
+estimate the coefficients of Equation household's estimated natural fertility
+
+(1), which, in turn, provide the basis for will be higher, the longer its duration of
+
+household level estimates of natural fer- marriage, the shorter its first and second
+
+tility.
+
+birth intervals, the shorter its duration
+
+This model was arrived at after con- of breastfeeding, and so on. In Sri
+
+siderable experimentation--with other Lanka the mean value of natural fertility
+
+proximate determinants (e.g., fre- yielded by this procedure is 6.8 births;
+
+quency of intercourse, age at marriage, this compares with an average actual
+
+classification of method used by ef- fertility of 5.2 (Table 2, Line 1). The im-
+
+ficiency), nonlinear formulations, and plied average number of births averted
+
+alternative estimation procedures.
+
+through deliberate fertility control is
+
+1.6. For Colombia the mean values are
+
+RESULTS
+
+somewhat higher: natural fertility, 8.2; actual fertility, 6.2; births averted, 2.0.
+
+The estimated fertility equation, At the household level, estimated natuEquation (1), is presented in Table 1. In ral fertility in Sri Lanka ranges between both countries, the expected directions values of --1 and 12, with over eightof relationships hold, and all of the coef- tenths of the population falling between ficients except one are significant. Note, values of 5 and 10 (Table 2, Col. 1). In for example, that fertility varies in- Colombia the range is from --2 to 13 versely with such proximate determi- with over three-fourths of the populanants as use of fertility control and tion between 7 and 12 (Table 2, Col. 4). length of breastfeeding, and directly Negative estimates of natural fertility with duration of marriage and fecundity are, of course, implausible. Fortu(NSS). The coefficients on use imply nately, almost all of the negative estithat, on the average, slightly over three mates are only - 1 , and the percentage
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+Vol. 31, No. 1-2
+
+Natural Fertility
+
+163
+
+TABLE 1
+REGRESSION RESULTS FOR "PROXIMATE DETERMINANTS" EQUATION: CHILDREN EVER BORN ON SPECIFIED INDEPENDENT VARIABLES, CONTINUOUSLY MARRIED FEMALES AGED 35-44
+
+COUNTRY AND VARIABLE
+A. Sri Lanka C, Children ever born U, Ever used control ( = 1; others=0) . . . X,, Duration ofmarriage, years X2, First birth interval, months X,, Second birth interval, months Xt, Not secondarily sterile ( = l;others = 0) Xs, Months breastfed, last closed interval X6, Proportion ofpregnancy wastage X7, Proportion ofchild mortality
+Constant
+
+REGRESSION °
+
+Metric coefficient
+
+Standard error
+
+MEAN
+
+STANDARD DEVIATION
+
+... -3.0692
+0.2822 -0.0236 -0.0288
+2.7463
+-0.0226 -1.1184
+0.3891
+1.6600
+
+... 0.3000 0.0083 0.0014 0.0016
+0.1832
+0.0040 0.3301 0.3404
+...
+
+15.20 0.52 19.24 28.20 33.33
+
+2.83 0.50 6.12 39.27 32.29
+
+0.63 0.48
+
+16.69 0.07 0.08
+
+12.57 0.16 0.15
+
+Number of cases R2
+
+1,793 0.48
+
+... ...
+
+... ...
+
+B. Colombia
+C, Children ever born U, Ever used control ( = 1; others=0) . . . Xi, Duration ofmarriage, years X2, First birth interval, months X}, Second birth interval, months XA, Not secondarily sterile
+( = l;others = 0) Xs, Months breastfed,
+last closed interval X6, Proportion ofpregnancy wastage Xlt Proportion of child mortality
+Constant
+
+... -3.1312
+0.3859 -0.0305 -0.0344
+2.9234
+-0.0423 -0.8896
+1.7997
+0.5434
+
+... 0.5858 0.0173 0.0031 0.0039
+0.3127
+0.0144 0.7874 0.6163
+
+6.23 0.63 18.97 21.52 27.60
+
+3.47 0.48 5.84 34.50 28.06
+
+0.75 0.44
+
+8.80 0.07 0.11
+
+7.88 0.13 0.18
+
+Number of cases
+
+628 . . .
+
+... ...
+
+R2
+
+0.51
+
+...
+
+e All coefficients are significant at 0.05 level orbelow except those forchild mortality inSri Lanka and pregnancy wastage in Colombia.
+
+of the total that is negativeis very low-- and lowestvalues ofnatural fertility are
+
+1.6 in Sri Lanka,3.2 in Colombia.
+
+lower than those ofactual fertility.This
+
+In comparison with the distribution implies that there are more households
+
+of actualfertility, that of natural fertility whose actual fertility exceedstheir esti-
+
+is somewhat more concentrated (Table mated natural fertility than is suggested
+
+2, Cols. 1, 2, 4, and 5). Although the by the negativeestimatesof natural fer-
+
+mean of natural fertility is higher than tility in Columns 1 and 4. Differencing
+
+that of actual fertility, both thehighest natural and actual fertility, onefinds
+
+164 Crimmins and Easterlin Social Biology
+
+TABLE2
+MEAN, STANDARD DEVIATION, AND FREQUENCY DISTRIBUTION OF ESTIMATED NATURAL FERTILITY, CHILDREN EVER BORN, AND EXCESS OF NATURAL FERTILITY OVER CHILDREN EVER
+BORN, CONTINUOUSLY MARRIED FEMALES AGED 35-44
+
+STATISTIC
+Mean Standard deviation Number of cases
+Per cent distribution (number of births)
+Total
+15or more 13-14 11-12 9-10 7-8 5-6 3-4 1-2 0 -1 -2 -3 --4 or less
+
+(1)
+Natural Fertility
+6 77 2.61 1.793
+
+(2)
+SRI LANKA
+Children
+Ever Born
+5.20 2.83 1,793
+
+(3)
+(D-(2)
+1.58 1.99 1,793
+
+(4)
+Natural Fertility
+8.20 2.96 628
+
+(5)
+COLOMBIA
+Children Ever Born
+6.23 3.47 628
+
+(6)
+(4M5)
+1.97 2.39 628
+
+100 0
+0 0
+2.8
+22.3 38 1 21.0 8.6 1.3 4.2 1.6
+0 0 0
+
+100.0
+01 1.0 2.3 9.0 20.6 24.3 23.9 14.9 4.0 0 0 0 0
+
+100.0
+0 0 0 0
+0.8 5.0 27.8 37.1 16.1 7.9 3.2 1.2 1.1
+
+100.0
+0 2.9 17.0 33.6 26.0 10.5 4.9 1.0 1.0 3.0 0.2 0 0
+
+100.0
+0.6 3.3 8.8 12.1 22.8 17.2 20.5 10.8 3.8 0 0 0 0
+
+100.0
+0 0 0 0.3 3.5 10.2 25.5 31.8 11.5 9.7 4.3 1.6 1.6
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+that in Sri Lanka about 13per cent of the households are in the implausible situation of actual fertility greater than natural fertility; in Colombia, about 17 per cent (Table 2, Col. 3 and 6). Put positively, this means that estimated natural fertility equals or exceeds actual fertility in the great bulk of the cases--over eight-tenths of the households in both countries.
+The comparison just given of the household level natural fertility estimates with actual fertility provides one test of the natural fertility estimates. Another test is to compare the average level of natural fertility obtained from the micro-level approach with that yielded by macro-level estimating procedures adapted to estimate cohort natural fertility for the actual duration of
+
+marriage. The details of the macro-level procedures are given in Appendix C. One, developed by Srinivasan and Jejeebhoy (1981), is based on the CoaleTrussell (1974) model of fertility. The other two are suggested by Bongaarts' work (1978,1980). The Bongaarts "C," method adjusts downward an assumed total fecundity rate of 15.3 births for length of exposure, prevalence of sterility, and duration of breastfeeding; the Bongaarts "Cc" method adjusts upward observed age-specific fertility to allow for contraceptive use and effectiveness.
+Table 3 shows that for both Sri Lanka and Colombia the mean value of the micro-level estimate of natural fertility is of the same order of magnitude as that obtained by the other methods. For Sri Lanka, however, the micro-level esti-
+
+Vol. 31, No. 1-2
+
+Natural Fertility
+
+165
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+TABLE3
+ESTIMATED MEAN NATURAL FERTILITY BY FOUR METHODS, CONTINUOUSLY MARRIED
+FEMALES AGED 35-44
+
+Method
+Regression based on micro-data Srinivasan-Jejeebhoy Bongaarts, C,method . . . Bongarts, Ccmethod
+
+Sri Lanka Colombia
+6.8 8.2 6.4 8.0 6.0 9.1 6.5 8.4
+
+mate is higher than the alternative estimates, whereas for Colombia it falls within the range of the alternatives. One hint that the Sri Lanka micro-level estimate is on the high side is that the Sri Lanka coefficient on the fertility control variable, U, in Table 1 implies almost the same number of births averted by contraceptive use as in Colombia, despite the fact that the length of use in Sri Lanka is only about six-tenths that in Colombia (Easterlin and Crimmins, 1982, p. 11).
+One final test can be made of the micro-level approach--in terms of the plausibility of its analytical implications. Bongaarts (1983, p. 26) has analyzed the contribution of various proximate determinants to variations among countries in natural marital fertility and concluded that "variations in the duration of postpartum amenorrhea are the main cause of variations in levels of natural marital fertility among different populations." Although our set of proximate determinants is imperfect, the present approach can be used to explore the sources of natural fertility variations both among and within countries. As has been seen, the mean level of natural fertility is higher in Colombia than Sri Lanka. To identify the reasons for this in terms of the present set of proximate determinants the following procedure is used.
+
+For each of the natural fertility determinants X\ through Xj the excess of Colombia's mean value over that of Sri Lanka's, as derived from Column 3 of Table 1, is multiplied by the average of the two countries' corresponding regression coefficients in Column 1. This calculation yields the following contribution in number of births of each proximate determinant to Colombia's higher natural fertility:
+
+Duration of marriage
+
+--0.09
+
+First birth interval
+
++0.18
+
+Second birth interval
+
++0.18
+
+NSS +0.34
+
+Duration of breastfeeding,
+
+last interval
+
++0.26
+
+Pregnancy wastage
+
+0
+
+Infant and child mortality .. +0.03
+
+Total +0.90
+
+The total of all contributions, 0.90, compares with a difference in natural fertility between the two countries of 1.43 shown in Table 2. The discrepancy is due to differences between the countries in the regression coefficients in Table 1. Examination of the contributions of the individual proximate determinants shows that differences between the countries in the proximate determinants related to postpartum amenorrhea (second birth interval, duration of breastfeeding, and child mortality) account for about half of Colombia's higher natural fertility. The somewhat smaller role of postpartum amenorrhea here than in Bongaarts' analysis may be due to deficiencies in the measurement of this magnitude. The other important proximate determinants accounting for the natural fertility difference are the secondary sterility variable (NSS) and first birth interval. Repetition of the above analysis for females with two or more children reduces considerably the contribution of first birth interval. This
+
+166 Crimmins and Easterlin Social Biology
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+suggests that in the present results for all females, first birth interval is primarily capturing a sterility effect due to the long first birth intervals assumed for childless women (Appendix B).
+One would suppose that the importance of sterility factors vis-a-vis postpartum amenorrhea would be more important in affecting natural fertility variations within populations than among populations, and the present natural fertility estimates give some hint of this. The simple correlations within each country of estimated natural fertility with each of the proximate determinants look as follows (an asterisk indicates not significant at the 0.05 level):
+
+simple correlation on the breastfeeding variable is not significant, perhaps indicating that the last closed interval is a poor indicator of a woman's typical breastfeeding behavior. Note also the sizeable positive correlation between estimated natural fertility and duration of marriage, which again seems reasonable.
+In summary, our general impression is that the micro-level approach to estimating natural fertility presented here yields, for the most part, plausible quantitative estimates of natural fertility and reasonable analytical results.
+
+Sri Lanka Colombia Duration of marriage 0.53 0.66 First birth interval -0.49 -0.41 Second birth interval -0.43 -0.36 Not secondary sterile 0.54 0.48 Duration of breastfeeding; last closed interval -0.03* -0.04* Pregnancy wastage -0.30 -0.10 Infant and child mortality 0.15 0.19
+Note the sizeable coefficients for NSS and first birth interval compared with those for the three variables related to postpartum amenorrhea--second birth interval, infant and child mortality, and duration of breastfeeding. (As in the intercountry comparison, first birth interval here largely reflects sterility. The correlation coefficient drops sharply when the population is confined to those with two or more children.) Indeed, the
+
+ACKNOWLEDGMENTS
+We are grateful for assistance to Ramesh Amatya and Sharon M. Koga; and, for helpful advice, to David M. Grether. The primary data used for this analysis came from the fertility surveys in Colombia and Sri Lanka, carried out within the WFS programme. We wish to thank Mr. W.A.A.S. Peiris, Director, Department of Census and Statistics, Government of Sri Lanka. The Colombian National Fertility Survey was conducted in 1976 jointly by the Corporation Centra Regional de Poblaci6n (CCRP), a nonprofit private institution devoted to research on population, and the Departmento Administrativo Nacional de Estadistica (DANE), the state agency responsible for the collection, processing, and publication of statistical data, with the collaboration of the Division of Information systems of the Ministry of Health in the design and implementation of the sample. The cooperation of all of these organizations is gratefully acknowledged.
+
+APPENDIX A
+
+STATEMENT OF MICRO LEVEL MODEL
+(1) C =ao+ajXi+asU+<i i=l,... 7
+(2a) U =Po+8(C/J-Gi')+7i?C+|A,
+
+which can be expressed in terms of the exog-
+
+enous variables as
+
+(2£>)U = p ' 0 + a 'ix 't-
+
+where
+
+SCdKC
+
+Vol. 31,1No. 1-2
+
+Natural Fertility
+
+1167
+
+c is children ever born,
+U is ever-use of contraception or induced abortion,
+Cn is the number of surviving children in the absence of contraception or induced
+abortion (=J7V),
+N natural fertility, is total births in the absence of contraception or induced abortion ( = ao+aiXl),
+s is the child survival rate
+are stochastical disturbances, and the exogenous variables are
+
+Cd number of children desired,
+
+RC number of fertility control
+
+methods known (unprompted),
+
+plus the :set of natural fertility determi-
+
+nants,
+
+X\ duration of marriage,
+
+xX2i
+
+firstbirth interval, second birth interval,
+
+XA not secondarily sterile,
+
+x5
+
+length of breastfeeding in last closed interval,
+
+x6
+
+proportion of pregnancy wastage, and
+
+X-i proportion of child
+
+mortality.
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+APPENDIX B
+DEFINITION AND MEASUREMENT OF VARIABLES IN MICRO-LEVEL ESTIMATE
+
+VARIABLE
+C, Children Ever Born U, Ever use of Fertility
+Control X\, Duration of Marriage X2, First Birth Interval
+X3, Second Birth Interval
+XA, Not Secondarily Sterile
+X$,Length of Breastfeeding
+
+DEFINITION AND MEASUREMENT
+Number of children ever born.
+Reported ever-use of any method of contraception or of in duced abortion, 1 = yes, 0= no.
+The difference between current age and age at first marriage.
+First birth interval in months. The mean first birth interval for regulators who did not regulate until after the first birth is substituted for the observed first birth interval of those who regulated before the first birth and of those who had a premarital birth. Childless women are assigned a minimum estimate equal to duration of marriage (in months) plus nine.
+The difference in months between the date of birth of the second child and the date of birth of the first child. The mean second birth interval for regulators who did not regulate until after the second birth is substituted for the observed second birth interval of those who regulated before the second birth and is also assigned to childless women. Women with only one birth were assigned a minimum estimate for second birth interval equal to months elapsed sincefirstbirth plus nine.
+Two-category variable: 1= fecund; 0=sterile. If currently pregnant, respondent is fecund. If respondent reports fertility impairment, respondent is sterile. If respondent is not a current user of contraception and reports no birth in the past five years, respondent is sterile.
+Number of months breastfed in last closed birth interval. Length of breastfeeding in the open interval was used for women with only an open interval, unless they were still breastfeeding. For the latter group, and for those with no open or closed interval, the mean length of breastfeeding in the last closed interval was assigned.
+
+168 Crimmins and Easterlin Social Biology
+
+X6, Proportion of Pregnancy Wastage
+X7, Proportion of Child Mortality
+Cd, Number of Children Desired
+
+The difference between the number of wasted pregnancies and the number of induced abortions divided by the sum of the number of wasted pregnancies plus the number of live births minus the number of induced abortions.
+The difference between the number of children ever born and the number currently living, divided by the number of children ever born.
+Answer to question, "If you could choose exactly the number of children to have in your whole life, how many would that be?"
+
+RC, Number of Methods The number of methods of fertility control known to the re-
+
+Known
+
+spondent and reported without special prompting.
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+APPENDIX C
+
+METHODOLOGY FOR MACRO-LEVEL ESTIMATES
+
+All of the methods described below have been adapted to provide cohort rather than period estimates of natural fertility, and are estimated for the observed mean duration of marriage rather than for a hypothetical marriage period such as age 15to 45. The first method was used by Srinivasan and Jejeebhoy (1981) to compare natural fertility among Indian states and by Jejeebhoy (1979) to examine the trend in natural fertility over time in Taiwan. It is based on the Coale and Trussell (1974) formula,
+= n(a)'M'em
+where,.
+r(a) is the age-specific marital fertility rate at age a;
+n {a) is the natural fertility rate at age a, from the standard schedule;
+M is the scaling factor of natural fertility;
+m is the factor representing the relative use of fertility regulation at age a; and
+v(a) is the standard schedule by which the age-specific marital fertility rate is reduced because of regulation.
+Setting m = 0, this reduces to
+r(a)=n(a) · M
+
+It is possible to estimate M from the observed age-specific marital fertility schedule, using the procedures of Coale and Trussell. Applying this to the n(a) values suggested by Coale and Trussell (1975,p. 572), one obtains estimates of r(a), the natural fertility schedule applicable to the population being studied.
+The other two methods are derived from the work of Bongaarts (1978,1980). The first method is based on Bongaarts' formula,
+
+where
+
+TNM=TF-Ch
+
+TNM is the total natural marital fertility
+rate, TF is the total fecundity rate, and Q is the index of lactational infecun-
+dability,
+
+except that TNM and TF are estimated here for the observed mean duration of marriage (Bongaarts, 1978, p. 122).
+The calculation of TFfollows the "direct estimate" procedure described by Bongaarts (1978, p. 118). Potential reproductive years were converted to actual reproductive years by adjusting for the proportion fecund at each age as estimated from the Pittenger sterility formula (Trussell, p. 57). The latter was
+
+Vol. 31, No. 1-2
+
+Natural Fertility
+
+169
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+then converted to an estimate of the total fecundity rate by dividing by 20 months (1.667 years), Bongaarts' estimate of the typical mean interval in the absence of lactation.
+The index of lactational infecundability, Cj, is based on Bongaarts' formula,
+20 C, =
+18.5 + i
+where i is the mean duration of postpartum infecundability (in months) (Bongaarts, 1980, p. 26). The latter was estimated from the median duration of breastfeeding using the model relationship between lactation and infecundability from a study by Lesthaege and Page (1980, p. 27). The average median from current status breastfeeding data as well as data from the last closed birth interval were used as input to the model. Before averaging, both distributions were smoothed in order to produce medians corrected for response heaping. This smoothing was done using the technique demonstrated by Lesthaege and Page (1980) on the closed interval data and a nine-month moving average on the current status data.
+The second method derived from Bongaarts' work is based on the formula
+TNM = TMI(CC · Cy,
+where
+TNM is the total natural marital fertility rate,
+TM is the total marital fertility rate, Cc is the index of noncontraception,
+and Ca is the index of induced abortion.
+TNM is estimated for the observed duration of marriage (Bongaarts, 1980,p. 23). To do this the calculation is performed for each group and the resulting values are summed across age groups.
+To the cohort age-specific marital fertility rates the index of noncontraception
+
+Cc is applied. This index is denned as
+Cc = 1-1.1 'cu
+where e is the average use effectiveness and Mis the prevalence of contraceptive use among married women. Because complete cohort contraceptive histories were unavailable, the age specific schedules of e and u were estimated from the distribution of age at first use of contraception and the method of contraception first used. The distribution of age at first use was cumulated to obtain the number of ever-users in each age group. Age specific rates of ever-use for the cohort were converted to current use (u) by applying the ratio of current-use to ever-use obtained in the survey from 35-44 year olds. Examination of this ratio for younger women indicated it varied little by age. To calculate average use effectiveness (e), the distribution of women by age at first use was cumulated for each method of first use to construct a distribution of women by method of use for each age group. An average effectiveness rating (e) was then obtained by weighting this distribution by the method-specific effectiveness levels for developing countries given by Bongaarts (1980, p. 25). This procedure could underestimate effectiveness if women switch from less effective to more effective methods as they age.
+The age-specific values of Cc were then applied to the age-specific values of TM to adjust for contraceptive use. These age-specific natural marital fertility rates were then adjusted for the proportion of the cohort that was exposed as it passed through each age group, to obtain a duration of marriage-specific TNM. Since very little induced abortion is reported in Colombia and no information is gathered on this topic for Sri Lanka, the index of abortion, Ca, is assumed to equal 1. This procedure was followed by Bongaarts in his own application of the method to Sri Lanka and Colombia (Bongaarts, 1980, p. 12).
+
+REFERENCES
+
+BONGAARTS, J. 1978. A framework for analyzing the proximate determinants of fertility. Pop. Develop. Rev. 4:105-132.
+
+. 1980. The fertility-inhibiting effects of the intermediate fertility variables. The Population Council, Center for Policy Stud-
+
+170 Crimmins and Easterlin Social Biology
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+ies Working Paper 57. The Population Council, New York.
+. 1982. A note onthe concept of potential fertility and its application in estimation of the fertility impact of family planning programmes. In United Nations, Evaluation of the impact of family planning programmes on fertility: Sources of variance. United Nations, New York.
+. 1983. The proximate determinants of natural marital fertility. In R. Bulataoand R. D. Lee (eds.), Determinants of fertility in developing countries: A summary of knowledge. Academic Press, New York.
+COALE, A. J., and J. TRUSSELL. 1974. Model
+fertility schedules: Variation in the structure of childbearing in human population. Pop. Index 40:185-258.
+. 1975. Erratum. Pop. Index 41:572.
+EASTERLIN, R. A., and E. M. CRIMMINS. 1982.
+An exploratory study of the "synthesis framework" of fertility determination with World Fertility Survey Data. World Fertility Survey, Scientific Report 40. World Fertility Survey, London.
+EASTERLIN, R. A., R. POLLAK, and M. L.
+WACHTER. 1980. Toward amore general economic model of fertility determination: Endogenous preferences and natural fertility. InR. A. Easterlin (ed.), Population and economic change in developing countries. University ofChicago Press, Chicago. HENRY, L. 1953. Fondements théoriques des mesures dela fécondité naturelle. Revue de l'Institut International de Statistique 21:135-151. JEJEEBHOY, S. 1983.Evidence of increasing nat-
+
+ural fertility in Taiwan. Soc. Biol. 30:388399. KNODEL, J. 1983. Natural fertility: Age patterns, levels, trends. In R. Bulatao and R. D.Lee (eds.), Determinants of fertility in developing countries; A summary of knowledge. Academic Press, New York.
+LERIDON, H. 1977. Human fertility: The basic components. University of Chicago Press, Chicago.
+LERIDON, H., and J. MENKEN. 1978. (eds.) Pat-
+terns anddeterminants of natural fertility. Ordina Editions, Liege, Belgium.
+LESTHAEGHE, R. J., and H. J. PAGE. 1980. The
+postpartum nonsusceptible period: Development and application of model schedules. Pop. Stud. 34:143-169. PITTENGER, D. B. 1973. An exponential model of female sterility. Demography 10:113121.
+POTTER, R. G., C. J. MODE, M. G. SOYKA, and
+R. C. AVERY. 1979. Measuring potential fertility through null segments: An exploratory analysis. Soc. Biol. 26:314-329.
+SRINIVASAN, K., and S. JEJEEBHOY. 1981.
+Changes in natural fertility in India, 19591972. In K. Srinivasen and S. Mukerji (eds.), Dynamics of population andfamily welfare. Himalaya Publishing House, Bombay. TRUSSELL, J. 1979. Natural fertility: Measurement and use infertility models. InH. Leridon and J. Menken (eds.), Patterns and determinants of natural fertility. Ordina Editions, Liege, Belgium.
+
+

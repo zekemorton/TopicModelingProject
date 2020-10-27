@@ -1,0 +1,737 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Violent and accidental mortality among four immigrant groups in Canada, 1970­1972
+Frank Trovato
+To cite this article: Frank Trovato (1992) Violent and accidental mortality among four immigrant groups in Canada, 1970­1972, Social Biology, 39:1-2, 82-101, DOI: 10.1080/19485565.1992.9988806 To link to this article: http://dx.doi.org/10.1080/19485565.1992.9988806
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 14
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:44
+
+Violent and Accidental Mortality Among Four Immigrant Groups in Canada, 1970-1972
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+Frank Trovato
+Department of Sociology University of Alberta Edmonton, Alberta, Canada
+
+ABSTRACT: For most people immigration to a new country such as Canada entails a positive move and an improvement in life. The many challenges associated with resettlement may, however, lead to insurmountable difficulties, stresses and conflict for a significant number of newcomers. The mortality experience of immigrants, as reflected in cause-of-death statistics, may provide indication of the extent of stress and conflict in their migration experience. This situation is most clearly exhibited in mortality from suicide, homicide, and motor vehicle accidents. In this study, hypotheses concerning immigrant mortality in Canada are developed and tested with a log-linear model for rates pertaining to rare events. Overall, the results give support for the importance of country-of-origin effects in explaining suicide propensities, but not for homicide and motor vehicle accidents mortality. Income discrepancies are a significant determinant of variability in death rates overall, but discrepancies between the immigrants in this study and the Canadian-born are not of much significance. The strongest net effect on the cause-specific death rate is associated with group membership. This effect likely reflects a number of residual unmeasured sources of variation including the influence of the immigrant ethnic community as a source of social support, and the potential confounding effects of migration selectivity.
+
+For many individuals migration entails a positive change in life and a gain in social and economic well-being. The many challenges associated with resettlement and adaptation to a new society may, however, lead to insurmountable stresses and conflict for many immigrants. This study concerns itself with an analysis of immigrant mortality due to four causes of death that are largely associated with stresses and conflict in life: suicide, homicide, motor vehicle accidents and all other accidents and violence among four major immigrant groups in Canada during the period 1970-72.
+Accidental and violent deaths among immigrants are unambiguously a function of conditions that prevail in
+
+the new environment as opposed to situations that may have prevailed in one's home country. For example, in the case of cancer, it is not certain whether a migrant's death in the host country is totally attributable to conditions in the new society as the cancer could have developed while the individual was a resident of his/her homeland. Thus, by focusing on external causes of death, we avoid this thorny issue of separating origin vs. destination proximate conditions in the etiology of risk. In this connection, it is important to distinguish between "conditions" in the country of origin (such as exposure to carcinogenic agents) as opposed to the possible influence of one's culture of origin as a background
+
+82
+
+Vol. 39, No. 1-2
+
+Violent and Accidental Mortality
+
+83
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+factor that may predispose present behavior in the host nation. The latter, as a significant component of socialization, may be an important factor in predisposing immigrant behavior in the new society.
+The empirical analysis in this study is based on the assumption that immigrant behavior, and hence the likelihood of violent and accidental mortality, is partly determined by one's background culture, the social demographic characteristics of the individual, and the conditions one encounters in the new land. A number of hypotheses are developed in order to provide explicit tests for these potential sources of variation in migrant death rates as compared to death rates of the Canadian-born.
+BACKGROUND
+Prior to the second World War, most foreign-born groups in the United States possessed higher overall mortality rates than the American-born population, especially in the case of external causes of death such as suicide, homicide, and accidents (Dublin and Baker, 1920; Dublin, 1933; Dublin et al., 1949; Jacobson, 1963). In recent decades this situation seems to have reversed, with foreigners generally showing lower rates of mortality (Kestenbaum, 1986). The reasons for this reversal have not been explored in any systematic way, but Kestenbaum (1986) speculates that recent immigrants' improved socioeconomic status is responsible for this change. The study of Kitagawa and Hauser (1973) demonstrates that by the early 1960's, there was virtually no difference between the mortality rates of the
+
+foreign-born and the American-born. Jacobson (1963) showed that by 1960 there was a convergence in overall mortality; and in the case of deaths due to accidents and violence, foreigners had only a very slight disadvantage.
+In Australia, most immigrant groups tend to enjoy lower overall death rates than residents of both their countries of origin and destination (Young, 1987). Concerning suicide, migrant rates tend to surpass both those of Australia and their respective countries of origin, but they are more akin to those of their home countries than to their receiving society (Sainsbury and Barraclough, 1968; Burwill et al., 1973, 1982). Such evidence has been interpreted to denote that immigrant death rates are largely determined by cultural factors associated with their country of origin. For example, national religion and group differences in values of familism and traditionalism brought from the homeland, may serve to either increase or reduce anomie in the new country (Burwill et al., 1973).
+The influence of background culture on mortality risk may be an inverse function of duration of residence in the host society. In accordance with assimilation theory, one would expect that the longer .immigrants reside in their host nation, the greater the erosion of their background culture and hence a convergence in mortality rates with those of the host society. This hypothesis was not supported by Burwill and associates (1982). They established a weak relationship between length of residency in Australia and the tendency for immigrants to adopt the predominant suicide methods of the Australian-born, but no association
+
+84
+
+Trovato
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+was detected between length of residency and suicide rates.
+As is the case in Australia, many immigrant groups in Canada seem to exhibit suicide rates that are closer in level to their countries of origin than to their receiving society. Kliewer and Ward (1988) attempted to ascertain whether migrant suicide propensities converge with those of the Canadianborn. In 40 per cent of the cases (out of a total of 25 immigrant groups), there was, indeed, indirect evidence of convergence.
+Trovato and Jarvis (1986) observed that, in Canada, foreigners from predominantly Southern European origins and a Catholic religious culture (such as Italians and Portuguese) tend to share very low odds of suicide, whereas immigrants that are predominantly Protestant and Anglo-Saxon in origin tend to demonstrate an above average risk of suicide (e.g., American, German, and Scottish immigrants).
+Whitlock (1971) made a similar discovery in Australia. The British, the Irish, and the New Zealanders share a common Anglo-Saxon culture with the Australian-born. They also display higher odds of self-inflicted death in comparison to residents of their countries of origin and destination. In contrast, Southern Europeans typically enjoy lower rates of suicide than residents of both origin and destination countries. Whitlock (1971) interpreted these patterns of differences as providing support for the hypothesis that immigrant suicide rates are determined by tradition and social attitude toward the act of suicide. In general, Catholic countries share strong moral proscriptions against suicide and their levels of self-murder are typically low (Durk-
+
+heim, 1951; Kushner, 1984). It is not surprising, therefore, that immigrants from Catholic countries exhibit relatively low odds of death from suicide. This fact probably explains, to a large extent, the consistently low rates of suicide among Italians and other Southern Europeans in host countries such as Australia, France, the United States, and Canada.
+Homicide and motor vehicle fatalities are symptomatic of difficulties and conflict in the life of the individual (Gove, 1973). Information about migrants' pattern of death from these causes is scant, but the available evidence suggests that rates of homicide and accidental related death are quite high among foreigners in Australia (Burwill et al., 1973), in France (Brahimi, 1980), and in England and Wales (Marmot et al., 1984).
+Burwill and colleagues (1973) discovered that migrant death rates from motor vehicle accidents are higher than those in the Australian-born in virtually all age groups. Unlike suicide, migrant death rates from traffic accidents tend to be closer to the Australianborn levels than to those prevailing in their home countries. In general, groups with high suicide rates also share high rates of mortality from motor vehicle accidents and other forms of violence, suggesting that perhaps violent and accidental mortality may be a function of some underlying common factor.
+The situation in France provides further indication that immigrants tend to die more from violent causes such as homicide and from road accidents in comparison to the receiving population (Brahimi, 1980). An interesting observation is that the more recent immi-
+
+Vol. 39, No. 1-2
+
+Violent and Accidental Mortality
+
+85
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+grant groups tend to show higher rates of road accidents mortality than the more established groups. This finding may indicate adjustment problems for newcomers, an excessive use of alcohol, and difficulty in internalizing traffic rules prevailing in the host nation.
+
+flect "an underlying system of norms prescribing, or failing to prescribe, violence as a response to conflict" (Gartner, 1990, p. 96).
+Williams and Flewelling (1989) provide additional support for this thesis. They included indicators of "violent
+
+Concerning immigrants' increased odds of homicide mortality, Burwill et al. (1973) proposed that murder is a form of aggression carried over from the migrant's culture of origin--a view consistent with Wolfgang and Ferracuti's (1967) culture-of-violence theory, which proposes that the tendency for outward aggression is a learned behavior (see also Hackney, 1969; Gastil, 1971; Loftin and Hill, 1974).
+Some criminologists have applied this perspective to analyze differences in homicide rates among nations, since at the national level, homicide victimization rates reflect a society's overall tendencies for lethal violence. For example, Gartner (1990) tested a model of cross-national and temporal variations in homicide rates using sex-age victimization data for 1950-80. She found support for the prediction that homicide levels are higher in societies where the death penalty is legally sanctioned and where involvement in wars has been more frequent and more deadly.
+
+cultural orientation" in their model of criminal homicide in American cities. It was found that cultural orientation is indeed an important predictor of homicides that result from interpersonal conflicts, even after the effects of resource deprivation and social disorganization variables were held constant.
+Why do certain immigrant groups experience greater levels of homicide victimization than others? While there is overwhelming evidence in the United States and Canada that the majority of homicides occur intraracially (Kennedy and Forde, 1990; O'Brien, 1987), the facts are less certain with regard to immigrants (Nettler, 1982). In Canada there is no empirical information as to whether homicide victimization among immigrants is a predominantly intragroup phenomenon as opposed to an intergroup one. Analysts have reported that approximately 78 per cent of all homicide victims in this country share close relational ties with their assailants (Silverman and Kennedy, 1987).
+
+Gartner's study is based partly on While this evidence says nothing
+
+the importance of socialization in ex- about intergroup violence among im-
+
+plaining violent behavior and on the migrants, it may be interpreted to sugmodeling-habituation principle -- that gest that perhaps most immigrant ho-
+
+the more one is exposed to a particular micides in Canada involve persons of
+
+behavior (e.g., violence), the more the same group. To the extent that this likely are individuals to execute the ac- is a true reflection of reality, a group's
+
+tion themselves under certain condi- observed level of homicide victimizations (Bandura, 1973). Thus, the tion may be taken as a reflection of vi-
+
+culture-of-violence explanation as- olent aggression toward other mem-
+
+sumes that differences in homicide re- bers of the same group. Ideally,
+
+86
+
+Trovato
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+information on the country of birth of both assailant and homicide victim would be required to determine the veracity of this assumption in a systematic manner. Official homicide statistics in Canada do not record country of birth of both the victim and the assailant. Therefore, it is impossible to give a direct answer to the question concerning the nationality of murderer and victim (Kennedy et al., 1989).
+An explanation of variability in homicide victimization rates among immigrants must consider the influence of economic inequality because analysts have shown that it is directly associated with homicide rates (Gartner, 1990; Messner, 1982, 1989; Williams, 1984; Williams and Flewelling, 1988; Cohen et al., 1981; Shaw and McKay, 1942; Fiala and LaFree, 1988; Sampson and Groves, 1989). The underlying mechanism in this relationship involves economic inequality as a cause of alienation, despair and pent up aggression often resulting in personal conflict and criminal violence (Gartner, 1990). Therefore, among immigrants the relationship between economic inequality and homicide mortality should be positive.
+MATERIALS AND METHODS
+CONCEPTUAL FRAMEWORK
+The mortality experience of immigrants in host nations can be understood in terms of four sets of factors: (1) culture-of-origin effects; (2) factors in the country of destination; (3) personal characteristics; and (4) migration selectivity effects (i.e., selection at the point of origin, and selection in the
+
+propensity to return to one's country of origin).
+It is known that different cultures share particular orientations with regard to suicide and death. According to Aries (1974, 1982, 1985) death is a central aspect of collective identity, reflected in a society's images and representations of it, such as in art, burial rituals, and tombs. Kushner (1984), a psychohistorian, has elaborated on this idea. He has argued that immigrant differentials in suicide reflect variability in national culture pertaining to rituals of bereavement and its relationship to an unconscious motive for self-punishment. In societies where exaggerated mourning is an accepted part of the culture, Catholicism tends to be the dominant religion, and suicide rates are low (e.g., Southern Europe). It is thought that the cathartic effect of expressive mourning alleviates the unconscious tendency for self-punishment when a loved one is lost. Countries that do not generally possess such rituals tend to show increased rates of suicide, presumably due to the individual not having access to an outward expression of guilt when a loved one has died.
+One other important source of a nation's cultural orientation to suicide is its moral judgments embodied in its national religion. Thus, Catholic countries show lower suicide rates than Protestant ones because Catholicism has viewed suicide as a sin. Individuals socialized in such regions of the world are less likely to commit suicide, even in the presence of extreme psychological distress. It may be that Catholicism and exaggerated mourning rituals are inseparable components of Southern
+
+Vol. 39, No. 1-2
+
+Violent and Accidental Mortality
+
+87
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+European culture and that both contribute to the consistently low suicide propensities of Southern Europeans in host countries.
+National culture can be an important factor in the explanation of homicide differentials (Gartner, 1990). Immigrants in a society undoubtedly possess orientations for conflict management and outward aggression learned in their home land. Therefore, homicide rates of migrants in their host nation may vary depending on their national origin.
+Conditions in the country of destination may also have an influence on immigrant mortality. Migration can often be a very stressful process due to an individual's severing of ties with his homeland and significant others. Many immigrants must overcome language barriers and learn the expectations of the new society. For many, this process of resocialization is a continuous one, but it is perhaps more stressful for persons whose culture of origin differs significantly from that of the receiving country. A number of studies provide evidence that may be indicative of immigrants' difficulties in adjusting to a new society. Foreigners tend to suffer increased rates of psychiatric illness, distress, and mental hospital admissions (Kasl and Berkman, 1985; Hull, 1979; Mirowsky and Ross, 1980; King and Locke, 1987; London, 1986; Krupinski, 1967; Odegard, 1932, Berry et al., 1987; Vega, 1987; Locke and Duval, 1964). The stresses associated with the migration experience may culminate in increased odds of suicide and accidental or violent death (Rosenwaike, 1987, 1983; Rosenwaike and Shai, 1989; Shai and Rosenwaike,
+
+1988). We expect that the stresses of the immigration experience are conditioned by a group's level of socioeconomic wellbeing in the host nation. The higher the level of economic wellbeing, the lower the degree of stress and the lower the chances of suicide, homicide, and accidents leading to death.
+A third component that is important in explaining immigrant mortality differentials pertains to the effects of individuals' background characteristics. Age, sex, and marital status are three variables that are known to be significantly associated with mortality risk. Accidental or violent death occurs most frequently among young people who are male and single (Gove, 1973). Therefore, these three variables are introduced as important controls in this analysis.
+Observed differences in mortality may be also a function of selection effects. For any given immigrant group, a number of its members usually return to their homeland; therefore, persons who remain in the host country may not be totally representative of all migrants belonging to the group. This situation may be a source of bias when analyzing mortality differentials. If return migrants consist predominantly of individuals who experience difficulties in coping with the new society, observed differences across groups will be affected. For example, the observed risk for groups whose most stressed members have returned home would tend to be lower than it might have been otherwise because the remaining members would represent the most resilient and robust segment of the group. Unfortunately, it is impossible
+
+88
+
+Trovato
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+to control for the effects of return migration, as it would require access to information on persons who leave the host country and on where they resettle, in addition to the ascertainment of their mortality experience outside Canada. Therefore, this study is necessarily confined to the mortality experience of immigrants who have remained in Canada.
+Selection may also occur at the point of origin. Persons who leave their homeland for a new destination may not be representative of the sending population. To the degree that this is a significant phenomenon, the mortality risk of migrants in host nations will differ significantly from that of their nation of origin. If the migrants are somehow a "superior" (e.g., they possess better genetic, constitutional, and social demographic predispositions than the resident origin population) segment of the sending population, they will probably have lower death rates than residents of the home country. Unfortunately, the potential biases in the analysis of migrant death rates in host countries generated by the selective nature of migration at the point of origin cannot be measured unless special data sets are developed based on individual level information. The present study is based on vital statistics data and cannot control for this possible source of variation. However, since our main objective does not involve a comparison of the immigrants' death rates to their countries of origin, this source of selectivity effects is of secondary importance to this study (see Table 1 for an indication of how migrant death rates compare to their countries of origin and Canada).
+
+HYPOTHESES
+From the relevant literature and the framework suggested, the following hypotheses are proposed:
+HI: The independent effect of country of origin on immigrant mortality due to suicide and homicide will be positive;
+H2: The higher the relative income of immigrants, the lower the death rate from suicide, homicide, and motor vehicle accidental death;
+H3: Immigrant differentials in suicide, homicide, and motor vehicle accidental death rates will persist even after the effects of income, country of origin, and social demographic characteristics have been statistically controlled.
+The first prediction is based on the premise that if there is a culture-oforigin effect on immigrant death rates, then the higher the level of a given cause of death in the immigrants' country of origin, the higher should be the corresponding rate among the immigrants in the host country. This expectation assumes that mortality from accidents, suicide, and violence of immigrants and their respective origin populations are partly determined by their common culture learned through socialization. In other words, the same set of predisposing factors (i.e., culture) to commit suicide or homicide are assumed to prevail in both origin and corresponding migrant populations. We assume that motor vehicle fatalities and other accidents among immigrants have no link to culture of origin, but are predominantly the result of conditions prevailing in the environment of action of individuals in the host country. For example, motor
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+I
+
+TABLE 1 Age-standardized Death Rates (per 100,000 Population) for Immigrants, Their Country of Origin, and the Canadian Born"
+
+GROUP''
+USA E SC IT OFB Canadian-Born (CB)
+
+SUICIDE-:
+
+Immigrants
+
+Country of
+Origin
+
+1934 11.23 15.04 6.23 17.62 (15.92)
+
+KU0 9.49 9.04 7.27 ...
+
+HOMICIDE
+
+Immigrants
+
+Country of
+Origin
+
+IJ9 0.73 1.87 0.90 2.91 (2.27)
+
+12.73 0.81 1.61 1.22
+
+MOTOR VEHICI F. ACCIDENTS
+
+Immigrants
+
+\C_ouuniutriy of
+Origin
+
+26.84 19.15 27.15 1"4.2"8° 27.92 (32.90)
+
+33.48 16.50 19.18 2*8".6"7
+
+OTHER ACCIDENTSVOLENCE
+
+Immigrants
+
+vC.ouuntury of
+Origin
+
+31.76 23.82 32.77 *20".2""0 35.40 (35.43)
+
+37.40 22.38 31.13 ^25.4"5r
+
+"The total population of Canada in 1971 is the standard ''In this and the subsequent table. USA = United States. E = English. SC = Scottish. IT = Italian. OFB = Other Foreign-Born. CB = Canadian-Born.
+
+re"
+^ 0,
+g1 3. "
+so
+TM "^
+
+00
+
+90
+
+Trovato
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+vehicle fatalities may occur to immigrants because they may have problems understanding the rules of the road and/or problems in coping with stress in their lives (e.g., excessive use of alcohol). Other accidents can be a function of work-related conditions such as problems in fully understanding the operation of mechanical equipment and safety procedures.
+Hypothesis number two is grounded in the literature concerning the effects of income inequality on suicide and homicide and mortality in general. The relationship between measures of economic position and mortality is known to be generally inverse (Antonovsky, 1967; Kitagawa, 1977; Kitagawa and Hauser, 1973; Duleep, 1989). This relationship should also apply in the case of immigrants.
+The third hypothesis derives in part from the discussion posed earlier concerning the potential influence of return migration selectivity. Any remaining variance in death rates after other variables have been introduced into a multivariate analysis would probably reflect differences due to selectivity. Another potential unmeasured source of variability is group differences in ethnic community integration. The criminology literature indicates that more socially integrated communities tend to experience relatively low rates of crime and homicide (Shaw and McKay, 1942; Sampson and Groves, 1989; Gartner, 1990). Similarly, it is likely that the incidence of suicide, homicide, and accidental deaths will be less frequent in socially integrated immigrant ethnic communities. Communities that are characterized by strong social network density exert greater levels of control on the activities of
+
+their members (Breton, 1964; Reitz, 1980; Pescosolido and Georgianna, 1989; Litwak and Messed, 1989; Moen et al., 1989; Lin and Ensel, 1989) and provide more help to individuals in extreme distress that might result in suicide, homicide, or fatal accidents.
+Since we do not possess direct measures for the effects of community integration and migration selectivity, it is likely that in a multivariate analysis an independent effect of immigrant group membership would reflect these unmeasured sources of variation. Moreover, we surmise that the residual variance in the group variable is more likely to be a reflection of ethnic community effects for relatively recent immigrant groups that are culturally dissimilar to the host country, as such groups share a particular need to develop a highly cohesive community in order to better cope with the contingencies of living in a new society.
+For immigrant groups that are culturally similar to the host society, the necessity to establish and maintain an ethnic community is significantly less important, as they are fully cognizant of the language, the culture, and other key aspects of the host nation. In a multivariate analysis, a significant effect of group membership for such groups is more likely to reflect return migration selectivity effects rather than ethnic community influences on mortality.
+DATA AND GROUPS STUDIED
+The data for this study were obtained from three different sources for the period 1970-72. Deaths for immigrants and the Canadian-born were taken from the Mortality Data Base at
+
+Vol. 39, No. 1-2
+
+Violent and Accidental Mortality
+
+91
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+Statistics Canada. The denominators for the computation of rates (the base populations) were compiled from the 1971 complete counts census tapes. Appropriate mortality and population data for the migrants' countries of origin were taken from World Health Organization publications (World Health Organization, 1971, 1972) and from the United Nations Demographic Yearbook (1971, 1972, 1973). The death rates for the national populations are based on 1971 data only, whereas rates for immigrants and the Canadian-born are three-year averages centered on the 1971 census. Note that for the "Other Foreign-Born" class and for the Canadian-Born, mortality data on country of origin would be irrelevant and also impossible to ascertain.
+Four immigrant groups are studied: the English (includes persons born in England, Wales, and Northern Ireland), the Americans, the Scottish, and the Italians. Of these four groups, the Italians are the most recent settlers and are the most distinct in terms of cultural origins. They are predominantly of Roman Catholic religious background, they possess a high degree of cohesiveness, and the ethnic community has been successful in establishing informal and formal institutions directed specifically to the needs of the group itself (Breton, 1964; Reitz, 1980; Darroch and Marston, 1984). The other three classes of migrants are predominantly of Anglo-Saxon origin and are not greatly different in culture from the Canadian society. On the basis of this similarity, we anticipate that these groups would not differ significantly in their mortality risk from the Canadianborn.
+
+The data set contains aggregate information on immigrants, their countries of origin, and the Canadian-born. It is a large multiway tabulation of deaths and corresponding population counts cross-classified by cause of death (suicide, ICD codes E950-E959; homicide, ICD codes E960-E969; motor vehicle accidents, ICD codes E810-E825, E929; other accidents and violence, ICD codes E800-E809, E826-E928, E930-E999), age (15-29, 30-39, 40-49, 50-59, 60-69, 70 + ), sex (male, female), marital status (single, married, other) and immigrant group membership (Canadian-born, American, English, Scottish, Italian, Other Foreign-born, Missing Nationality).1 This file also includes appropriately cross-classified information on family income for the immigrants and the Canadian-born, taken from the 1971 census. This variable is used as a measure of economic inequality.
+It is important to recognize the ecological nature of this measure and of the study itself. Although the data were taken originally from individual vital statistics and census records, they are treated in an aggregate fashion; that is, the unit of analysis is the age/ sex/marital-status specific grouping for each immigrant class. Due to the limited information on the death records, this is as refined a cross-classification as
+1During the period under observation there were 40,116 deaths due to suicide, homicide, motor vehicle accidents, and other accidents-violence. Out of this total, 1,197 (2.98 per cent) were classified as "missing nationality" because the death records do not contain the country of birth of decedents. The total number of deaths by cause are: Suicide (7,566), Homicide (1,232), Motor Vehicle Accidents (14,942), Other Accidents-Violence (16,376). The number with "missing" nationality by cause are: Suicide (169), Homicide (31), Motor Vehicle Accidents (500), Other Accidents-Violence (497).
+
+92
+
+Trovato
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+can be actualized, and the level ofag- the right side expresses the death rate
+
+gregation cannot be reduced anylower as a function of log-linear parameters.
+
+unless one carries out a record linkage
+
+of census and vital statistics individual records.
+
+log
+
+In connection with the incomemeasure, we make the assumption that income reported in the census byage, sex, and marital status for each immi-
+
++ BSEX + ^MARITAL TUS + B C O U N T R Y OF BIRTH + COME + B O R I G I N +
+
+STABIN_
+
+grant group is the same as the income
+
+^(INC-IM)
+
+for the decedents within each immi-
+
+grant class. It is well known that there where:
+
+is an income (social class) gradient (in- Dijkl = the number of deaths across
+
+verse) in mortality. Hence, persons categories of variables i (age), j
+
+who are,deceased may have had radi- (sex), k (marital status), and /
+
+cally different incomes than thosewho (country of birth),
+
+are alive at the time of the census. Nev- Eijk, = the population at risk across
+
+ertheless, since our main interest isin categories of variables i, /, k, and/,
+
+explaining between-group differentials Cy = (Pjj/l.Pjj), is a standard weight,
+
+in mortality, this procedure is adequate where P,y = the age-sex specific
+
+in capturing group discrepancies inin- population of Canada in 1971,
+
+come.
+
+X = the regression constant (baseline
+
+hazard),
+
+OPERATIONALIZATION OF HYPOTHESES B = the amount by which the death
+
+The hypotheses delineated earlier are evaluated with the use of methods
+
+rate changes for a unit change in a given independent variable,
+
+appropriate for modelling rare events. INCOME = (IM - X/SDS), where Since the dependent variables are di- IM = the average family income of
+
+chotomies (dead vs.alive), they can be a given immigrant/nativity group,
+
+treated as rates and may be analyzed X = the overall mean for income,
+
+with log-linear methods (Clogg and Eliason, 1988). The exponential prop-
+
+and SDX= the standard deviation of X,
+
+erty of the Poisson distribution permits ORIGIN = country of origin effect,
+
+modelling such rare events by making operationalized asthe age-sex-cause
+
+use of the log-link, of which the natural specific death rate for a given immi-
+
+logarithm is its natural parameter (Agresti, 1990; Clogg and Eliason,
+
+grant group's country of originpopulation,2
+
+1987; Feller, 1968; Laird and Olivier,
+
+1981). Our specification of the cause-
+
+specific death rate incorporates anexplicit standardization for differences in age composition, as suggested by Clogg and Eliason (1988, p. 271). The left side of the following equation is the age-sex standardized death rate, while
+
+2The country-of-origin effect is operationalized by taking the age-sex-cause-specific death rates for each national population and using this variable as a predictor of rates among the corresponding immigrant groups of each national origin. The assumption of this procedure is that mortality risk in the home country isgoverned in part bysocialization for intropunitive aggression (e.g., suicide) and outward
+
+Vol. 39, No. 1-2
+
+Violent and Accidental Mortality
+
+93
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+S/INCIM) = interaction effects of relative income with immigrant group membership (Canadian-born as reference group) where INC = the INCOME measure, and IM = immigrant group.
+MULTIVARIATE ANALYSIS
+Table 2 presents log-rate equations3 for suicide, homicide, motor vehicle accidents, and the residual category "other accidents and violence." The multivariate equations are given in Column (1), while in Column (2) net differences in risk between each immigrant class and the native-born Canadians are displayed. The differences in Column (2) exclude the residual migrant class (Other Foreign-Born) and the "missing" category of nativity, as they are of no substantive importance to this analysis. It is worth noting, however, that these two classes of nationality were included in the statistical analyses in Column (1) in order to adjust for the possible confounding influence of "missing" nationality on mortality risk across groups, and to utilize all the available information in fitting the statistical model.4
+
+The highest risks of suicide and homicide are evident for males, persons aged 30-39, and for the single marital status. In the case of accidental deaths, the age group 15-29 has the highest risk. In general, the residual class of nativity (OFB) displays the largest risk of death for each cause, while Italians show the lowest odds. The main effects of country of origin are statistically significant only in connection with suicide. Concerning the net effect of income, it is significant in three out of four equations.
+Our first hypothesis calls for suicide and homicide propensities to be directly linked to immigrants' corresponding country of origin. The evidence provides partial support for this prediction, as this effect is statistically significant only in the case of suicide; in all other cases, country of origin is irrelevant in explaining mortality differentials.
+This effect on suicide is substantial, indicating that persons from world areas possessing relatively high suicide propensities are three-and-a-half times more susceptible to committing selfmurder in their adopted land (odds = exp 1.2632 = 3.54), than are
+
+violent aggression (e.g., murder). Therefore, the death rates of persons in the home country of the immigrants are assumed to reflect elements of national culture. In other words, it is assumed that mortality rates of immigrants and their country of origin are highly correlated due their correlation with a common cause, national culture.
+3 The log-rate analysis was executed using the LOGLINEAR subroutine in SPSSx.
+4 The cases with "missing" nationality, as well as the "Other Foreign-Born," had to be included in the multivariate analysis in order to control for the potential confounding influence of "missing" country of birth on the risk of death across the immigrant classes studied. "Missing" nationality was treated as an additional category for this purpose. The exposures for this class were approximated by taking the difference between the "known" population and the "known" deaths. That is. Pii* = S (Pii - Dii)
+
+where: Pii* = estimated exposures for "missing" nationality deaths by age, sex, and marital status: Pii = known population counts by age, sex, marital status, and nationality; Dij = known deaths by age, sex, marital status, and nationality. Using this approximation as the denominator for the "missing" will necessarily lead to relatively low mortality rates for this group. This fact does not pose a problem since the aim is explicitly to take into account the possible confounding effects of "missing" cases on the "known" group-specific death rates; and in the statistical analysis group contrasts do not involve the parameter for "missing" nationality. This approach is more satisfactory than other commonly used methods in similar situations. For example, apportioning the missing cases on the basis of the known distribution of deaths assumes the distribution of missing cases is the same as the known cases, which is an untenable assumption.
+
+94
+
+Trovato
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+persons originating from countries with low rates of suicide. Of the four groups, the Italians come from a region characterized by low suicide propensities (Italy's rate in 1971 = 7.27 per 100,000 population) while the Americans come from a country that possesses a relatively high suicide risk (USA's rate in 1970 = 16.10). The English and the Scottish are from nations with moderate suicide levels intermediate to these two countries (9.49 and 9.04, respectively).
+Notwithstanding these facts, the independent influence of group membership on suicide is insignificant for American, English, and Scottish-born immigrants. That is, once age, sex, marital status, country-of-origin effects, and income discrepancies are taken into account, the observed suicide differentials between each of these groups and the Canadian-born become insignificant (see Column [2]).
+For Italian immigrants the situation is quite different. They exhibit a significant main effect of group membership even after all relevant variables are controlled (see Column [2]). Their suicide changes are significantly lower than those of the Canadian-born (--1.1264). This result may be interpreted in terms of this group's high degree of ethnic community integration, its predominantly Catholic-ethnic subculture with strong proscriptions about suicide, and its high density of community network ties that serve to "shelter" or protect its members from committing suicide during difficult times.
+Overall, the main effect of income on suicide is negative. However, in comparison to the Canadian-born, the group-income interaction effects indicate that gains in family income lead to
+
+significantly lower suicide chances only for the English. It is worth noting that the interaction effects across all groups are rather small in magnitude, suggesting that income disparities are not of major importance in the explanation of suicide differentials between the immigrants and the Canadian-born.
+Concerning homicide, the pattern of effects with regard to age, sex, marital status, income, and nationality is quite similar to that noted for suicide, with the exception that the country of origin factor is negative and is statistically unimportant. Thus, there appears to be no evidence for a culture of violence effect on homicide, as operationalized in this study.
+The main effect of income on homicide victimization is inverse. The interaction terms involving this variable with nativity are also negative (except for the "missing" nationality), but only the English term is statistically significant. Therefore, as is the case with suicide, discrepancies in income between immigrants and the Canadian-born appear to be of limited relevance in explaining differences in the odds of dying from murder.
+The group effects, expressed as differences form the Canadian-born (Column [2]), indicate that all four groups share a reduced risk of homicide mortality. The largest advantage is for the Italians (-0.8741) and for the English (-0.7404), respectively. The contrasts for the Americans and the Scottish are not statistically significant.
+As mentioned earlier in the case of suicide, this result for the Italians may be explained from the point of view of their high degree of ethnic community integration and social controls serving to minimize homicide propensities.
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+TABLE 2
+LOG-RATE EQUATIONS EOR SUICIDE, HOMICIDE, MOTOR VEHICLE ACCIDENTS, AND ALL OTHER ACCIDENTS AND VIOLENCE IN CANADA, 1970-1972
+
+EKKKCTS
+Intercept
+Age 15-29 30-39 40-49 50-59 60-69 70+(REF)
+Sex Male Female (REF)
+Marital status Single Married Other (REF)
+Immigrant group USA E SC IT OFB CB Missing (REF)
+ORIGIN*
+INCOME'
+
+Suicide
+(1)
+-10.3444
+
+(2)
+
+0.4535'0.6863''
+0.6774'' 0.2891'-0.5175'-
+
+Homicide
+(1)
+-12.7813
+
+CAUSE OK DF.ATH"
+
+Motor Vehicle Accidents
+
+(2) (1)
+-9.8329
+
+(2)
+
+0.8921'' 0.9274'0.6803'-0.0323
+-0.7910'-
+
+1.1861'' 0.4452''
+0.0811'-0.2093'-0.5156"-
+
+AH Other Accidents and Violence
+
+(1)
+-8.9868
+
+(2)
+
+0.4095'0.1350'-
+0.0853'-0.2018'-0.4848'-
+
+0.5991'-
+
+0.2834''
+
+0.5389'-
+
+0.2955'-
+
+0.1914'-0.3432'-
+
+0.2598'0.5932'-
+
+0.2423'-0.3482'-
+
+0.34780.6353'-
+
+0.5849'0.5099'0.6810'-0.5381 1.2809 0.5883'-
+1.2643'-
+-0.4011'-
+
+-0.0034 -0.0785
+0.0927 -1.1264'-
+
+0.4980 0.0122 0.4593 0.1215 1.2903'1 0.7526'-
+0.9797
+0.7522'-
+
+-0.2546 -0.7404'-0.2933 -0.8741'-
+
+0.5233'' 0.2451'0.6102'-0.1374'0.9187'0.5991'-
+-0.0694
+-0.1361'-
+
+-0.0758
+-0.3540 0.0111
+-0.7365
+
+0.4221'0.2049'0.5344'0.0143 0.9821'0.6291e
+
+-0.2070 -0.4242 -0.0947 -0.6430
+
+0.2640 0.0832
+
+(continued)
+
+i
+o
+n 3
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+TABLE 2 (continued)
+
+CAUSE OF DEATH"
+
+Suicide
+
+Homicide
+
+Motor Vehicle Accidents
+
+All Other Accidents and Violence
+
+EFFECTS
+
+(1) (2) (1) (2) (1) (2) (1)
+
+(2)
+
+Income x Group USA E SC IT OFB Missing CB (REF)
+
+-0.0239 -0.0719"1 -0.0447 -0.0029 -0.0527''
+-0.0719''
+
+... ... ... ... ... ...
+
+-0.1702 -0.183411 -0.1238 -0.2437 -0.0623
+0.0091
+
+... ... ... ... ... ...
+
+-0.0008 -0.0846'' -0.0378
+0.0138 0.0032 0.0243
+
+... ... ... ... ... ...
+
+-0.0639'' -0.1583'' -0.1081" -0.1003" -0.0296'' -0.0329
+
+MODEL*.2 DF
+BASELINE L2 DF
+
+685.57 229 14576.01 251
+
+. . . 307.93 . . . 229 . . . 2897.72 . . . 251
+
+. . . 1301.95 . . . 229 . . . 33728.75 . . . 251
+
+. . . 2355.65 . . . 229 . . . 26669.68 . . . 251
+
+R2A 0.95 . . . 0.90 . . . 0.96 . . . 0.91
+
+FC
+
+0.029167
+
+0.029167
+
+0.029167
+
+0.029167
+
+"Column (2) corresponding to each equation shows the net difference in risk between each specific immigrant group and the Canadian-horn. Significance for these contrasts was computed as follows: Z = (B,-B2)ISQfiT({S2(l)l) + S-Vh) ~ 2COV(U,. B2)).where: B] = group parameter. Hi = standard group parameter (the Canadian-born). S:(/?i) = standard error squared for B\. S2{B2) = standard error squared for B2. COV(B\. B2) = covariance of Ii\ and B2.
+
+was transformed in accordance with the formula above. ''FC = flattening constant for zero cells adjustment = (PAR/2)/CELLS. where PAR = number of parameters fitted in the model. 2 is a constant. CELL --· mthte 1to^ta1l unuummib'ie-ir «o·f ^ceilmls min mth*e. uda«ta ituamblve.
+The customary adjustment in contingency tables with sparse data is to assign a value of 0.50 to zero cells. This is not suitable in ourcase, aseven a 0.50 value divided by a small age-sex-marital status exposure could seriously bias upward the mortality rate for that particular cell. This adjustment has the effect of reducing ("flattening") the model L2 from what it would otherwise be without this adjustment.
+'Means parameter is significant at least at the 0.05 level of probability (Z-tcst).
+
+VOnI
+SL.
+S
+o'
+
+Vol. 39, No. 1-2
+
+Violent and Accidental Mortality
+
+97
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+The outcome for the English is less straightforward, as they are not known to possess a particularly distinct ethnic community in the same way as do Italians and other Southern European groups in Canada. The English, being a dominant component of Canadian society, have less need to establish a visibly distinct ethnic community. There must be some other factor, or sets of factors, that are of particular relevance in explaining the relatively low homicide death rate of this group.
+Selectivity due to return migration may account for this result. During the early seventies, return migration for persons originating from the British Isles was quite prevalent. Britain was one of the leading "sending" nations to Canada. From this fact it can be inferred that many of the British-origin immigrants returned to their home country, because, in general, the larger the migration flow to a given destination, the higher is the volume of return migration (Lee, 1966). Italians were also a leading immigrant group during this period, but generally, their likelihood of returning to Italy was minimal as compared to the English because economic conditions in the home country were not favorable to such a move (e.g., the Italian economy was not prosperous); and by and large, the majority of Italians came to Canada with the intention of permanent settlement. It is likely, then, that the net effect of group membership for the English is indicative of selectivity effects due to return migration. That is, members of this group who were dissatisfied and stressed with conditions in Canada returned to their homeland, leaving their more satisfied and adaptable members in Canada, who consequently experi-
+
+enced relatively low levels of homicide. Concerning motor vehicle acci-
+dents, the country of origin factor is statistically insignificant. The main effect of relative income is inverse and significant, and the interaction of income with nationality is largely unimportant (except for the English). However, group-income interaction effects in relation to "other accidents and violence" are statistically significant for all migrant groups and are in the expected direction. That is, the higher the relative income level, the lower the death rate.
+The main effects of immigrant group membership for these two causes of death (shown in Column [2]) are generally similar to those observed earlier for suicide and homicide in that only the Italians possess significantly lower risks in relation to the Canadianborn.
+CONCLUSIONS
+The role of several factors concerning immigrant differentials in violent and accidental mortality among four groups in Canada are explored in this study. It was found that the risk of dying from suicide is conditioned by the demographic variables of age, sex, and marital status, income discrepancies, and country of origin. In the case of homicide these same predictors are also important with the exception that country of origin is insignificant. With respect to motor vehicle fatalities and "other accidents-violence" it was found that country of origin is of no substantive importance.
+The results for suicide are consistent with the culture-of-origin explanation proposed in this study. For homicide,
+
+98
+
+Trovato
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+we had expected that, in accordance with the culture-of-violence theory in criminology, country of origin would be an important determinant of homicide differentials. No support for this proposition emerged in this analysis. Further work is needed to verify the possible relevance of the culture-ofviolence theory in connection with immigrant homicide. Better measures of a nation's orientation toward aggression and violence are necessary to ascertain with greater certainty how this influence may be transmitted to its departing members residing in foreign lands.
+Motor vehicle fatalities and other forms of accidents and violence are not related to the country-of-origin factor, supporting the thesis that these causes of death may be largely a function of situational factors encountered by immigrants in the host country and have nothing to do with one's culture of origin.
+Beyond age, sex, and marital status, the strongest effect on immigrant mortality rates in Canada is associated with immigrant group membership. This variable captures residual variation not accounted for by the other terms included in the multivariate analysis. It was proposed that the net effect of this variable on death rates partly reflects group differences in ethnic community integration and selectivity (i.e., due to return migration). Only Italians and English immigrants displayed significant net group effects--the former in connection with all four causes of death, the latter only in connection with homicide. The consistency of this result for the Italians suggests that there may be a powerful underlying influence of community integration serv-
+
+ing to minimize the risk of violent and accidental death for its members. This finding conforms to migrant studies conducted in other parts of the world which show that Italians exhibit relatively low odds of violent and accidental mortality in comparison to their host countries and in relation to other immigrant groups in general (Trovato and Jarvis, 1986; Kliewer and Ward, 1988; Whitlock, 1971; Burwill et al., 1973, 1982; Young, 1987; Brahimi, 1980; Marmot etal., 1984).
+This study differs from most others in this area of research in that it includes into the statistical analysis a measure of relative economic position as an indicator of one key dimension of conditions in the host nation, and an explicit measure for country-of-origin effects, a factor which has been given much importance in the literature but has seldom been measured explicitly.
+In an earlier study, Trovato and Jarvis (1986), found no statistical support for a country-of-origin effect on immigrant suicide. The present study finds a significant positive effect of this factor. Two reasons for this difference in results come to mind. First, the present analysis is based on four groups, while the earlier study included eight immigrant groups; and secondly, the country-of-origin effect in the present study is a more refined operationalization than that employed in the earlier investigation.
+In future studies, it would be desirable to control for length of residency in order to assess whether there is convergence in mortality risk with the host population over time. Unfortunately, in Canada this variable is not coded on the death certificates. The use of age as a control variable in this study can be
+
+Vol. 39, No.1-2
+
+Violent and Accidental Mortality
+
+99
+
+thought of as only a rough proxy for ommended on a larger number of im-
+
+duration of residence. In general, the migrant groups, observed over several
+
+younger the age of decedents, the points intime inorder tomonitor how
+
+shorter the interval between the time change in social demographic charac-
+
+of entry into Canada andthe time of teristics may correlate with change in
+
+death. In connection with homicide mortality rates.
+
+differentials, it would be desirable to
+
+include direct information concerning the nationality ofassailants. Given this
+
+ACKNOWLEDGMENTS
+
+information, it would be possible to I am grateful toMr. John Sillins, former
+
+undertake a more rigorous test of the Chief of Vital Statistics and Disease Reg-
+
+culture-of-violence theory, in that it would allow the researcher to ascertain
+
+istry atStatistics Canada for allowing meto use theMortality Data Base while I was a visitor at Statistics Canada during the sum-
+
+the degree to which homicide is an in- mer of 1984. I am also thankful toMr. Pe-
+
+tragroup phenomenon as opposed to an intergroup one among immigrants. The problem ofselectivity bias (particularly return migration selection effects) should receive more attention in
+
+ter Lim and Dr. Karol Krotki, Jr. fortheir assistance indata compilation and processing. This research was funded in 1984by Central Research Fund Grant No. 5581111 from the University of Alberta.
+
+future research. Further analysis is rec-
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+REFERENCES
+
+AGRESTI, A. 1990.Categorical data analysis. Wiley, New York.
+ANTONOVSKY, A. 1967. Social class, life expectancy and overall mortality. Milbank Mem. Fund Quart. 45:35-73.
+ARIES, P. 1974. Western attitudes toward death, from the middle ages to the present. Translated by P. M. Ranum. The Johns Hopkins University Press, Baltimore. . 1982. The hour of our death. Translated by H.Weaver. Harper and Row, New York. . 1985. Images of man anddeath. Translated byJ. Lloyd. Harvard University Press, Cambridge, Mass.
+BANDURA, A. 1973. Aggression: A social learning analysis. Prentice Hall, Englewood Cliffs, N.J.
+BERRY, J. W., N. KIM, T. MINDE, and D. MOK.
+1987. Comparative studies of acculturative stress. Internat. Mig. Rev. 21:491-511. BRAHIMI, M. 1980. La mortalite des estrangers en France. Population 35:603-622. BRETON, R. 1964. Institutional completeness of ethnic communities and the personal relations ofimmigrants. Amer. J. Sociol. 70:193205.
+BURWILL, P. W., T. L. WOODINGS, N. S. STEN-
+HOUSE, and M. G. MCCALL. 1982. Suicide
+during 1961-70 of migrants in Australia. Psychol. Med. 12:295-308.
+
+BURWILL, P. W., M. G. MCCALL, N. S. STEN-
+HOUSE, and T. A. Reid. 1973. Deaths from suicide, motor vehicle accidents, and all forms of violent death among migrants in Australia, 1962-66. Acta Psychiat. Scand. 49:28-50.
+CLOGG, C. C., and S. R. ELIASON. 1987. Some
+common problems in log-linear analysis. Sociol. Meth. Res. 16:8-44.
+. 1988. A flexible procedure for adjusting rates and proportions, including statistical methods for group comparisons. Amer. Sociol. Rev. 53:267-283.
+COHEN, L. E., J. KLUEGEL, and K. LAND. 1981.
+Social inequality and predatory criminal victimization: An exposition and test ofa formal theory. Amer. Sociol. Rev. 46:505-524.
+DARROCH, G. A., and W. G. MARSTON. 1988.
+Patterns ofurban ethnicity: Toward a revised ecological model, p . 127-159. In N. Everson (ed.), Urbanism and urbanization: Views, aspects, anddimensions. E.J. Brill, Leiden. DUBLIN, L. I. 1933. To be or not to be: A study of suicide. Harrison Smith and Robert Haas, New York.
+DUBLIN, L. L., and C. W. BAKER. 1920. The mor-
+tality of race stocks in Pennsylvania and New York. Quart. Pub. Amer. Statist. Assoc. 17:13.
+DUBLIN, L. I., A. J. LOTKA, and M. SPIEGELMAN.
+
+100
+
+Trovato
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+1949. Length of life. The Ronald Press, New York. DULEEP, H. O. 1989. Measuring socioeconomic mortality differentials. Demography 26:345351. DURKHEIM, E . 1951. Suicide. Translated by J. A. Spaulding and G. Simpson. Free Press of Glencoe, Glencoe, Ill. FELLER, W. 1968. An introduction to probability theory and its application (3rd ed.). John Wiley, New York.
+FIALA, R., and G. LAFREE. 1988. Cross-national
+determinants of child homicide. Amer. Sociol. Rev. 53:432-445. GARTNER, R. 1990. The victims of homicide: A temporal and cross-cultural comparison. Amer. Sociol. Rev. 55:92-106. GASTIL, R. D. 1971. Homicide and a regional culture of violence. Amer. Sociol. Rev. 36:412-427. GOVE, W. 1973. Sex, marital status, and mortality. Amer. J. Sociol. 79:45-67. HACHNEY, S. 1969. Southern violence. Amer. Histor. Rev. 39:906-925.
+HOUSE, J. S., K. R. LANDIS, and D. UMBERSON.
+1988. Social relationships and health. Science 241:540-545. HULL, D. 1979. Migration, adaptation and illness. Soc. Sci. Med. 13A:25-36. JACOBSON, P. H. 1963. Mortality of the native and foreign-born population in the United States, p. 667-674. Proceedings, International Population Conference (IUSSP) New York, 1961, Volume 1.
+KASL, S. V., and L. BERKMAN. 1985. Health con-
+sequences of the experience of migration. Ann. Rev. Publ. Hlth. 4:69-80.
+KENNEDY, L. W.. and D. R. FORDE. 1990. Rou-
+tine activities andcrime: An analysis of victimization in Canada. Criminology 28:137152.
+KENNEDY. L. W., D. R. FORDE, and R. A. SIL-
+VERMAN. 1989. Understanding homicide trends: Issues in disaggregation for national and cross-national comparisons. Canad. J. Sociol. 14:479-486. KESTENBAUM, B. 1986. Mortality by nativity. Demography 23:87-90.
+KING, H., and F. B. LOCKE. 1987. Health effects of migration: U.S.Chinese inand outside the Chinatown. Internat. Mig. Rev. 21:555-575.
+KITAGAWA, E. 1977. Onmortality. Demography 14:381-389.
+KITAGAWA, E., and P. M. HAUSER. 1973. Differ-
+ential mortality in the United States. Harvard University Press, Cambridge.
+KLIEWER, E., and R. H. WARD. 1988. Do immi-
+grant suicide rates converge to rates indestination country? Amer. J. Epidem. 127: 640-653. KRUPINSKY, J . 1967. Sociological aspects of mental illness. Soc. Sci. Med. 1:267-281.
+
+KUSHNER, H. I. 1984. Immigrant suicide in the United States: Toward a psycho-social history. J. Soc. Hist. 18:3-24.
+LAIRD, N., and D. OLIVIER. 1981. Covariance
+analysis of censored survival data using loglinear analysis techniques. J. Amer. Statist. Assoc. 76:231-240. LEE, E. 1966. A theory of migration. Demography 3:47-57. LIN, N., and W. M.ENSEL. 1989.Life stress and health. Amer. Sociol. Rev. 54:382-399.
+LITWAK, E., and P. MESSERI. 1989. Organiza-
+tional theory, social supports, and mortality rates. Amer. Sociol. Rev. 54:49-66.
+LOCKE, B. Z . , and H. J. DUVALL. 1964. Migra-
+tion and mental illness. Eugen. Quart. 11:216-221.
+LOFTIN, C., and R. H. HILL. 1974. Regional sub-
+culture and homicide. Amer. Sociol. Rev. 39:714-724. LONDON, M. 1986. Mental illness among immigrant minorities in the United Kingdom. Brit. J. Soc. Psych. 149:265-273.
+MARMOT, M. G., A. M. ADELSTEIN, and L. Bu-
+LUSU. 1984. Immigrant mortality in England and Wales 1970-78: Cause of death bycountry of birth. Studies on medical and population subjects No. 47. HMSO, London. MESSNER, S. 1983. Regional and racial effects on the urban homicide rate: Thesubculture of violence revisited. Amer. J. Sociol. 88:9971007. MESSNER, S. 1989.Economic discrimination and societal homicide rates: Further evidence on the cost of inequality. Amer. Sociol.Rev. 54:597-611. MIROWSKY, J., and C. E. Ross. 1980. Minority status, ethnic culture and distress: A comparison of blacks, whites, Mexicans and Mexican-Americans. Amer. J. Sociol. 86: 479-495.
+MOEN, P., D. DEMPSTER-MCCLAIN, and R. M.
+WILLIAMS, JR. 1989. Social integration and longevity. Amer. Sociol. Rev. 54:635-647. NETTLER, G. 1982. Killing one another. Anderson Publishing Co., Cincinnati. O'BRIEN, R. M. 1987.The interracial nature of violent crimes: A reexamination. Amer. J. Sociol. 92:817-835. ODEGARD, O. 1932. Emigration andinsanity: A study of mental disease among the Norwegian-born population of Minnesota. Acta Psychiat. Scand. 4 (Supplement).
+PESCOSOLIDO, B. A . , and S. GEORGIANNA. 1989.
+Durkheim, suicide and religion. Amer. Sociol. Rev. 54:33-48. REITZ, J. G. 1980. The survival of ethnic groups. McGraw-Hill, Toronto. ROSENVVAIKE, I. 1987. Mortality differentials among persons born in Cuba, Mexico, and Puerto Rico residing in the United States, 1979-81. Amer. J. Publ. Hlth. 77:603-606.
+
+Vol. 39, No.1-2
+
+Violent and Accidental Mortality
+
+101
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+. 1983. Mortality among the Puerto Rican born in New York City. Amer. J. Epidem. 119:177-185.
+ROSENWAIKE, I., and D. SHAI. 1989. Changes in
+mortality among Cubans in the United States following an episode of unscreened migration. Internat. J. Epidem. 18.152-157.
+SAINSBURY, P., and B. BARRACLOUGH. 1968. Dif-
+ferences between suicide rates. Nature 220:1252.
+SAMPSON, R. J., and W. B. GROVES. 1989. Com-
+munity structure and crime: Testing social disorganization theory. Amer. J. Sociol. 94:774-802.
+SHAI, D., and I. ROSENWAIKE. 1988. Violent
+deaths among Mexican, Puerto Rican,and Cuban-born migrants in the United States. Soc. Sci. Med.26:269-276.
+SHAW, C., and H. MCKAY. 1942. Juvenile delinquency and urban areas. University of Chicago Press, Chicago.
+SILVERMAN, R. A., and L. W. KENNEDY. 1987.
+Relational distance andhomicide: The role of the stranger. J. Crim. Law Crim. 78:272308.
+STATISTICS CANADA. N.D. The mortality data base. Vital Statistics and Disease Registry Division, Statistics Canada, Ottawa.
+TROVATO, F., and G. K. JARVIS. 1986. Immigrant
+suicide inCanada, 1971 and 1981. Soc. Forc. 65:433-457.
+UNITED NATIONS DEMOGRAPHIC YEARBOOK. 1971,
+
+1972, 1973. United Nations, NewYork.
+VEGA, W. A., B. KOLODY, and J. R. VALLE.
+1987. Migration and mental health: An empirical test of depression risk factors among immigrant Mexican women. Internat. Mig. Rev. 21:512-530.
+WHITLOCK, F. A. 1971. Migration andsuicide. Med. J. Austral. 2:840-848.
+WILLIAMS, K. R. 1984. Economic sources of homicide: Reestimating theeffects of poverty and inequality. Amer. Sociol. Rev.49:283289.
+WILLIAMS, K. R., and R. L. FLEWELLING. 1988.
+The social production of criminal homicide: A comparative study of disaggregated rates in American cities. Amer. Sociol. Rev. 53:421-431.
+WOLFGANG, M. E., and F. FERRACUTI. 1967. The
+subculture of violence: Towards an integrated theory in criminology. Tavistock, London.
+WORLD HEALTH ORGANIZATION. 1971, 1972.
+World health statistics annual: Vital statistics and causes of death. WHO, Geneva.
+. 1977.International classification of diseases: Manual of the international classification of diseases, injuries, andcauses of death. WHO, Geneva. YOUNG, C. M. 1987. Migration and mortality: The experience of birthplace groups. Internat. Mig. Rev. 3:531-554.
+
+

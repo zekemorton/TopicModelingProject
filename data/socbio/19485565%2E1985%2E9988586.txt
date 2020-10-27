@@ -1,0 +1,495 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Toward a reformulation of the neonatal mortality rate
+Dudley L. Poston Jr. & Richard G. Rogers
+To cite this article: Dudley L. Poston Jr. & Richard G. Rogers (1985) Toward a reformulation of the neonatal mortality rate, Social Biology, 32:1-2, 1-12, DOI: 10.1080/19485565.1985.9988586 To link to this article: http://dx.doi.org/10.1080/19485565.1985.9988586
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 3
+View related articles Citing articles: 3 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:40
+
+Toward a Reformulation of the Neonatal Mortality Rate
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+Dudley L. Poston, Jr., and Richard G. Rogers
+Population Research Center, The University of Texas at Austin, Austin, Texas; and Population Program, Institute of Behavioral Science and Department of Sociology, University of Colorado, Boulder, Colorado
+
+ABSTRACT:The use of neonatal and postneonatal mortality rates as proxies for endogenous and exogenous mortality rates is common in demographic and epidemiological research. The results reported in this paper suggest that such a practice is not entirely valid and that, perhaps, a reformulation of the operational definition of the neonatal mortality rate is in order. The study shows that day-specific endogenous mortality rates predominate during the first eighteen days of life and that curves representing the patterning of day-specific endogenous and exogenous mortality rates converge at about the 18th day and not at about the 28th day. The study also warrants against the use of the postneonatal mortality rate, as currently defined, as a proxy for exogenous mortality. Of all classifiable infant deaths occurring between the 19th and the 365th day, less than half (44.5 per cent) are due to exogenous causes. The matched birth and death data from New Mexico used for this study are shown to correspond rather closely in neonatal and infant mortality rates to data from Georgia and New York City, indicating that to a large extent the results of this study may be generalized to other states.
+
+Studies of infant mortality frequently categorize infant deaths according to those due to natal and antenatal factors (i.e., endogenous causes) and those due to environmental factors (i.e., exogenous causes). This distinction is made owing to the realization that deaths arising from the former set of causes are those over which "even the best health services have comparatively little control" (Thompson and Lewis, 1965, p. 356). In an attempt to represent the endogenous - exogenous distinction, researchers often use neonatal and postneonatal mortality rates. Neonatal mortality typically refers to deaths to individuals under 28 days of age, whereas postneonatal mortality refers to deaths, to individuals at 28 to 364 days of age (Shryock and Siegel, 1976, p. 236). This
+
+strategy, of course, operates under the assumption that, within the first year, endogenous causes of death occur mainly during the first 28 days of life.
+This paper examines empirically the above assumption. Using a nearcomplete set of matched birth and death certificates for the years 1974 through 1977for the state of New Mexico, we coded the death records according to endogenous and exogenous causes using the EighthRevisionInternational Classification of Diseases, Adapted for Use in the United States (National Center for Health Statistics, 1967). Deaths due to endogenous and exogenous causes were then examined separately according to day of death. Our analysis suggests that if neonatal mortality is used as a proxy for deaths due mainly to endogenous
+
+Poston and Rogers
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+causes, its operationalization needs to be narrowed from deaths occurring during the first four weeks of life. Our study also suggests that there is no valid approximation for postneonatal mortality.
+In the next section of this paper we review some of the basic demographic and medical literature pertaining to neonatal and postneonatal mortality and to endogenous and exogenous causes of infant death. Later sections present discussions of the New Mexico set of matched birth and death data, an analysis of these data according to day of death, and a discussion about revising the temporal definition of neonatal mortality.
+NEONATAL AND POSTNEONATAL INFANT
+MORTALITY
+In vital statistics research, an infant is a person less than twelve months of age, or, more precisely, less than 365 days old. However, over time researchers have used the term in a number of ways. The world "infant" originates in the Latin words in, which means "not," and fans, which means "speaking" (Blakiston's Gould Medical Dictionary,1979). Originally, infant denoted an individual not yet old enough to speak. In medical terminology infant first applied to an individual under 2 years, or in some cases, under 18 months old (Skinner, 1970, p. 225).
+A death, according to the Statistical Commission of the United Nations, is defined as:
+the permanent disappearance of all evidence of life at any time after livebirth has taken place (post-natal cessation of vital functions without capability ofresuscitation). This definition therefore ex-
+
+cludes foetal deaths (United Nations, 1955, Series F, No 7, p53):
+By definition then a death, and this includes an infant death, will only follow a live birth.
+The neonatal and postneonatal divisions have been employed in the study of infant mortality for some time, and many researchers have used them as proxies for endogenous and exogenous mortality (for examples, see Antonovsky and Bernstein, 1977, pp. 455456; Jiobu, 1972, p. 604; Markides and Barnes, 1977, p. 38, and Pharoah and Morris, 1979, p. 170; for additional discussion, see also Bogue, 1969, p. 588; Bouvier and van der Tak, 1976, p. 5, and Shryock and Siegel, 1976, p. 232). Actually, the operational definitions of neonatal and postneonatal mortality are probably based more on statistical convenience than biological fact. Indeed, Bourgeois-Pichat (1951, p. 3) noted more than thirty years ago that the upper bound of infant mortality had its grounds more in calendrical than biological events. It is not unlikely that the same observation may be made regarding neonatal and postneonatal mortality.
+In this paper, we examine the degree to which neonatal mortality serves as a proxy for endogenous mortality and postneonatal mortality for exogenous mortality. According to current definitions, neonatal mortality includes all mortality within the first 28 days of life, and postneonatal mortality all mortality within 28 days through 364. Neonatal mortality has been used as a proxy for endogenous mortality because it has been thought that most of the deaths occurring during the first four weeks of life have been due to natal and antenatal factors, such as immaturity, postnatal
+
+Vol.32,No. 1-2
+
+Neonatal MortalityRate
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+asphyxia, birth injuries, and congenital disorders. Conversely, postneonatal mortality has frequently been employed as a substitute for exogenous mortality owing to the assumption that deaths occurring within days 28 through 364 are primarily due to environmental factors such as infections, parasitic diseases, and postnatal accidents. It has also been noted that exogenous risks are more easily changed through increased education, medical technology, and nutrition, while endogenous mortality is more resistant to scientific developments (Shryock and Siegel, 1976, p. 232).
+While many demographers still use the neonatal/endogenous vs. postneonatal/exogenous dichotomy, Bogue, for one, has analyzed the distribution of death by age, over time, and has questioned the use of neonatal mortality as the best indicator of endogenous causes of death. He has observed that "the endogenous factors dominate infant mortality only for the first three or possibly four days and that during the remainder of the first month exogenous factors are just as important as during the last 11 months" (Bogue, 1969, p. 588). Although Bogue's critique of neonatal mortality is plausible, his data, unfortunately, were not detailed enough to pinpoint precisely the time period where the split between endogenous and exogenous mortality actually occurs.
+MATERIALS AND METHODS
+In an attempt to analyze differences in endogenous and exogenous causes of death, we have developed a data set comprised of matched birth and death records of individuals less than 365 days of age who were born in the state of New Mexico in the years 1974 through 1977.
+
+Although New Mexico is but one state in the United States, we will show later the similarities between the mortality experiences of this state and other United States aggregates. We will argue that the results for New Mexico are generalizable to other United States populations.
+We selected birth certificate records from 1974 through 1977 and infant death certificate records from 1974 through 1977, along with those deaths which occurred in 1978to infants born in 1977. Thus, only those deaths were selected which corresponded to the population of births which were at risk of death. We acquired 87,724 resident births and 1,438 infant deaths and were able to match 95 per cent of the births with their respective infant deaths.
+We next coded the infant deaths according to endogenous and exogenous causes of death from the Eighth Revision InternationalClassification of Diseases, Adapted for Use in the United States (ICDA). Since the ICDA code sections are not organized by endogenous and exogenous causes, each code had to be determined separately. We used, as our criteria, the definitions of Shryock and Siegel. They state that endogenous mortality arises from the "genetic makeup of the individual and from the circumstances of prenatal life and birth process" (1976, p. 232). Endogenous infant mortality includes immaturity, birth injuries, and postnatal asyhyxia. Exogenous mortality arises from environmental or external causes and includes infections and accidents (Shryock and Siegel, 1976, p. 232). Most unknown or ill-defined codes were excluded from the analyses, (e.g., ICDA 795, Sudden Death), although these exclusions were not at all numerous. They
+
+Poston and Rogers
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+amounted to 14 per cent of all infant deaths. Most of the excluded codes were sudden infant deaths, or ICDA 795 (86 per cent), and "other ill-defined and unknown causes of morbidity and mortality," or ICDA 796 (12 per cent).
+The coding assignments of endogenous and exogenous causes of death from the ICDA8 codes are presented in Table 1. One may observe that our coding of endogenous and exogenous causes was facilitated by the major ICDA8 divisions. While there are 17 major ICDA8 divisions, the infant death codes in our data set comprise only nine divisions (the other codes are essentially causes of morbidity, not mortality, or are causes of death not usually affecting infants, like complications of pregnancy relating to the mother). The primary goal here is to provide an accurate, workable coding scheme for our data set. The secondary goal is to provide a "prototype" from which other studies can adapt and similarly study endogenous and exogenous mortality. For these reasons we have not coded each ICDA8 entry as endogenous or exogenous; instead, we have coded only the actual data entries in our data set. Table 1 lists all causes of death covered by the ICDA8 codes in our data set and our coding decision for each of them.
+RESULTS
+As discussed earlier, we have available for analysis nearly 1,400 infant deaths for New Mexico for the years 1974 through 1977 classified by age at death in days (0 to 364) and whether the death was due to an endogenous or exogenous cause. We computed, without regard to year of occurrence, a schedule of day-specific endogenous mortality
+
+rates and a similar schedule of exogenous rates.
+As noted earlier, many users of the neonatal mortality rate assume that the deaths occurring during the first four weeks of life are caused more by endogenous then exogenous factors. If this assumption is tenable, then a plot of dayspecific endogenous and exogenous mortality rates should show that the endogenous rates converge with the exogenous rates at about the 27th day.
+In Figure 1we have assembled such a plot. Endogenous mortality clearly predominates the first seven days of life ; the rates are erratic thereafter, and convergence occurs and reoccurs between days 7 and 21.
+The endogenous mortality rates determine the trend of total mortality. They begin high, fall sharply, and then remain low throughout the rest of the year. About 72 per cent of all mortality is comprised of endogenous mortality. Exogenous mortality is low throughout the year. In fact, the exogenous mortality rate by day never exceeds 2 deaths per 10,000 births. About 14 per cent of all deaths throughout the year are exogenous.
+There is little evidence in Figure 1 supporting the rationale for using neonatal mortality as a proxy for endogenous mortality. Endogenous mortality is not prominent over the first four weeks of life. Its dominance over exogenous mortality is highlighted mainly, although not continually, during the first three weeks of life.
+Another way of comparing, on a daily basis, the course of endogenous mortality with that of exogenous mortality is through regression analysis. We first attempted to fit a curve to the endogenous mortality rates. After experi-
+
+Vol. 32, No. 1-2
+
+Neonatal Mortality Rate
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+TABLE 1
+CODING ASSIGNMENTS OF ENDOGENOUS AND EXOGENOUS CAUSES OF D E A T H FROM I C D A 8 CODES
+
+Infective and Parasitic Diseases
+
+Neoplasms
+
+4.9
+8.3 8.8 9.1 9.2 27. 36. 36.1
+
+Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous
+
+143.2 162.1 171.9 188.
+
+Endogenous Endogenous Endogenous Endogenous
+
+Endocrine, Nutritiona1, and Metabolic Diseases
+
+251. 258.9 269.1 269.9
+
+Endogenous Endogenous Endogenous Exogenous
+
+Diseases of the Blood and Blood-Forming Organs
+
+287.1 Endogenous Diseases of the Nervous System and Sense Organs
+
+320. 320.1 320.8
+
+Endogenous Endogenous Endogenous
+
+Diseases of the Circulatory System
+
+410.9 427. 427.2 431.9
+
+Endogenous Endogenous Endogenous Endogenous
+
+Diseases of the Respiratory System
+
+466.
+470. 474. 480. 481. 482.2 482.9 484.
+
+Exogenous
+Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous
+
+Diseases of the Digestive System
+
+532.1 551.3 560.
+
+Endogenous Endogenous
+
+Diseases of the Genitourinary System
+
+583. Endogenous
+
+38.1 Exogenous
+38.8 Exogenous
+38.9 Exogenous 39.9 Exogenous
+52. Exogenous 36. Exogenous 65. Exogenous 79.9 Exogenous
+
+207. 211.1 215. 227.2
+
+Endogenous Endogenous Endogenous Endogenous
+
+273. 273.5 273.9 275.1
+
+Endogenous Endogenous Endogenous Endogenous
+
+289.2 Endogenous
+
+320.9 330.1 347.9
+
+Endogenous Endogenous Endogenous
+
+443.9 444.2 450.
+
+Endogenous Endogenous Endogenous
+
+485.
+486. 490. 512. 514. 519.1 519.3 519.9
+
+Exogenous
+Exogenous Exogenous Exogenous Exogenous Endogenous
+7 7
+
+560.9 569.4 573.9
+
+Endogenous Endogenous Endogenous
+
+593.2 Endogenous
+
+(continued)
+
+6
+
+Poston and Rogers
+
+Social Biology
+
+TABLE 1 (continued)
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+Complications of Pregnancy, Childbirth, and the Puerperium
+
+651. Endogenous Diseases of the Skin and Subcutaneous Tissue
+
+684. Exogenous
+
+686.9
+
+Diseases of the Musculoskeletal System and Connective Tissue
+
+725.1 Endogenous Congenital Anomalies
+
+740.
+741. 741.9 742. 743. 743.1 743.2 743.9 744.9 746.1 746.2 746.3 746.4 746.6 746.7 746.8 746.9 747. 747.1 747.4 747.6 748. 748.3 748.4 748.6
+
+Endogenous
+Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous
+
+Certain Causes of Perinatal Morbidity and Mortality
+
+748.9
+750.2 750.8 751.3 751.4 751.5 751.6 753. 753.1 753.9 755.7 756.5 756.6 756.8 756.9 757.2 758.8 758.9 759.2 759.3 759.4 759.5 759.6 759.9
+
+760.1
+761.1 761.5 761.9 762. 762.1 762.2 763. 764.9 766.3 768.9 769. 769.1 769.2 769.4 770. 770.1 770.2
+
+Endogenous
+Endogenous Exogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous
+
+770.9
+771. 771.9 772. 774. 774.9 775.1 775.9 776. 776.1 776.2 776.4 776.9 777. 778.1 778.2 778.9
+
+Exogenous
+Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous
+Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous Endogenous
+
+(continued)
+
+Vol. 32, No. 1-2
+
+Neonatal Mortality Rate TABLE 1 (continued)
+
+Symptoms and Ill-Defined Conditions
+
+780.2 782.4 782.9 785.2 788. 788.6
+
+Endogenous Endogenous Endogenous Exogenous
+?
+
+Accidents, Poisonings, and Violence
+
+812.1 816.1 819.1 832.1 853.1 884. 890. 900. 908. 910. 910.9 911. 913.
+
+Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous
+
+795. 795.1 796. 796.3 796.9
+
+?
+? ?
+·7
+7
+
+913.9 915. 924. 930. 930.9 932.8 932.9 965. 966. 968. 988. 989.
+
+Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous Exogenous
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+menting with linear, parabolic, and hyperbolic functions, the function which best fit the data was hyperbolic. The general form of the function was
+Y = A + B{X~C),
+where Y = day-specific endogenous mortality rate per 10,000 live births, X = days lived, A = asymptote, B = multiplicative constant, and C = exponent.
+We began with an exponent (C) equal to 1. Since day 0 is undefined, we recoded day 0 to day 0.2. Although 0.2 may not actually be the value used, it more closely approximates the real value than the value 0. Since an individual cannot die at 0 days, i.e., before being born, it must die after some fraction of one day. The value we selected indicates that the average death in the first 24 hours occurs about 5 hours after
+
+birth. This value is reasonable, empirically accurate, and provides the best fit.
+The coefficient of determination (R2) for the endogenous mortality curve was 0.997 and followed the equation
+Rate = -0.045 + 11.687/Day.
+These data indicate that the risk of a baby dying of prematurity, congenital anomalies, and other endogenous causes immediately after birth, remains high for several days, and then tapers off quickly. This pattern is predictable and consistent, showing little variation.
+The exogenous mortality rates fit less accurately. Since exogenous mortality occurs from poisonings, homicides, and accidents, there is probably no one time during the first year in which an infant is more prone to deaths from accidents, except, perhaps, in the first few days of life. With respect to other exogenous
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+60-1
+1
+so-
+*5-
+40-
+35Ï
+I33- ¡a 3 Q.
+25- Wo
+15-
+10-
+s-
+1111111111222222222233333333 345678901234S678901234SB78901234S67
+ooooooooooooaoooooooooooooooooooooo
+daua l i v e d
+Fic. 1.--Exogenous and endogenous mortality rates per 10,000 births by day for a matched cohort, 1974-77.
+
+Vol. 32,No. 1-2
+
+Neonatal Mortality Rate
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+causes such as infective and parasitic dis- nous mortality. (The lower confidence
+
+eases, since a baby has some antibodies interval of exogenous mortality does not
+
+and immunities immediately after birth, appear in Figure 2 since it drops below
+
+we would expect the first 1 or 2 months the zero point on the vertical axis.)
+
+to exhibit low exogenous mortality. Fur- These confidence intervals of endoge-
+
+ther, since through breast feeding an in- nous and exogenous mortality converge
+
+fant can gain additional antibodies and between days 18 and 19. In this 0 to 18
+
+immunities, we would expect breastfed day period, 93 per cent of all deaths are
+
+babies to be fairly resistant to infections due to endogenous causes; further, 82
+
+well into the year. In fitting exogenous per cent of all endogenous mortality
+
+mortality, we first tried a linear equa- within the first 364 days of life occur in tion. Such a line fit poorly (R2 = 0.14). this 0 to 18 day period. The data in Fig-
+
+The fit improved slightly with a para- ure 2 appear to suggest the inapplicabilbolic function (R2 = 0.19). We next ity of the neonatal mortality rate, as cur-
+
+used a hyperbolic function of the form rently defined, as a proxy for an
+
+used with the endogenous mortality endogenous mortality rate.
+
+rates. This equation provided the bestfit
+
+with a coefficient of determination of 0.46, in the form
+
+DISCUSSION AND CONCLUSION
+
+Rate = 0.053 + 0.315/Day.
+
+The use of neonatal and postneonatal mortality rates as proxies for endoge-
+
+A baby's probability of dying from exog- nous and exogenous mortality rates is
+
+enous causes of death within the first common in demographic and epidemio-
+
+year of life is highest in the first days and logical research. The results reported in
+
+then slowly tapers off. The slope is not this paper suggest that such a practice is
+
+as steep as in the endogenous equation, not entirely valid, and that, perhaps, a
+
+meaning that the probability of dying in reformulation of the operational defini-
+
+day 0 versus any other day is high, but tion of the neonatal mortality rate is in
+
+not substantially so. The lower coef- order. We have shown that day-specific
+
+ficient of determination implies that ex- endogenous mortality rates predomi-
+
+ogenous mortality is not as predictable nate during the first eighteen days of life
+
+as endogenous mortality.
+
+and that curves representing the pat-
+
+Plots of the fitted curves of endogenous and exogenous mortality are shown in Figure 2. Since we are not interested in where the fitted equations intersect, but in where the actualexogenous and endogenous mortality rates intersect, we also computed 95 per cent confidence intervals for the two curves.
+Figure 2 shows the fitted regression lines, the 95 per cent confidence intervals, and the convergence of the lower confidence interval of endogenous mortality with the upper interval of exoge-
+
+terning of day-specific endogenous and exogenous mortality rates converge at about the 18th day, and not at about the 28th day. Our study thus cautions against the use of the neonatal rate, as currently defined, as a proxy for endogenous mortality. (Practically speaking, since mortality data by day of death are usually reported by the National Center for Health Statistics for only the first week of life, and thereafter by week of death, we may wish to revise our recommendation so that the neonatal rate in-
+
+10
+
+Poston and Rogers
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+0.00-1
+
+10 15 20 25 30 35 40 45 50 day« individuals lived
+
+FIG. 2.--Exogenous andendogenous fitted mortality rates per 10,000 births andtheir 95 percentconfidence intervals for days 5 through 50.
+
+eludes deaths occurring during the first use of the postneonatal mortality rate,
+
+three weeks of life.)
+
+ascurrently defined, as aproxy for exog-
+
+Our study also warrants against the enous mortality. We have found inNew
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+Vol. 32, No. 1-2
+
+Neonatal Mortality Rate
+
+11
+
+Mexico in the mid-1970's that no one 1970's donot differ statistically in any of
+
+period during thefirstyear is character- five "weight-specific categories from the
+
+ized mainly by endogenous mortality. corresponding corrected rates for Geor-
+
+Of all classifiable infant deaths occur- gia. [Also] infant mortality rates for
+
+ring between the29th andthe365thday New Mexico do notdiffer statistically in
+
+(the current numerator of the [all but one of the] weight-specific cate-
+
+postneonatal mortality rate), less than gories from the corresponding rates for
+
+half (46.5percent) aredue to exoge- New York City" (Rogers etal., 1983, p.
+
+nous causes. Of those occurring be- 105). There appears to exist a rather
+
+tween the 19thandthe365th day, again close correspondence between neonatal
+
+less than half (44.5 per cent) are due to and infant mortality rates per se in New
+
+exogenous causes. Theresults of our Mexico, Georgia, and NewYork City.
+
+study clearly suggest that the postneona- Given these results, one should not ex-
+
+tal mortality rate, whether defined as pect the findings of ourNew-Mexico-
+
+deaths occurring during the 19th based analysis tobe applicable solelyto
+
+through the 365th day, or the 29th New Mexico. Indeed, if the kinds of
+
+through the 365th day, should not be matched birth and death data usedfor
+
+employed as a proxy for exogenous New Mexico were available forotherar-
+
+mortality. Endogenous mortality is eas, thus permitting a replication of our
+
+prominent through most periods of the study elsewhere, wedo not anticipate
+
+first year of life, whether it bethe first that the results would be significantly
+
+week, the first three or four weeks, or the last eleven months.
+
+different from those reported here.
+
+A final point which needs to be ad-
+
+dressed istheextent to which theresults of this New-Mexico-based analysis may
+
+ACKNOWLEDGMENTS
+
+be generalized to other states. A recent This isa revised version of a paper pre-
+
+study by Rogers and his associates sented atthe annual meeting ofthe Popula-
+
+(1983) suggests that generalizability tion Association of America, Pittsburgh,
+
+may not bethat critical an issue. They showed that neonatal mortality rates for
+
+April 14-16, 1983. We thank I.M. Moriyama for valuable comments on an earlier draft. The author's names arelisted inalpha-
+
+New Mexico computed for the mid- betical order to indicate equal responsibility.
+
+REFERENCES
+
+ANTONOVSKY, AARON, and JUDITH BERNSTEIN.
+1977. Social class andinfant mortality. Soc. Sci. Med.11(8-9):453-470.
+BLAKISTON'S GOULD MEDICAL DICTIONARY.
+1979. Fourth Ed. McGraw-Hill Book Company, New York. BOGUE, DONALD J. 1969. Principles of demography. John Wiley and Sons, New York.
+BOURGEOIS-PICHAT, JEAN. 1951. Republished
+1981. Measuring infant mortality. Popula-
+
+tion: Selected papers. National Instituteof Population Studies, Paris.
+BOUVIER, LEON F., and JEAN VAN DER TAK.
+1976. Infant mortality--Progress and problems. Pop. Bull. 31(1):3-22. JIOBU, M. 1972.Urban determinants of racial differentiation ininfant mortality. Demography 9:603-615.
+MARKIDES, K. S., and DONNA BARNES. 1977. A
+methodological note on the relationship be-
+
+12
+
+Poston and Rogers
+
+Social Biology
+
+tween infant mortality and socioeconomic status with evidence from San Antonio, Texas. Soc. Biol. 24(1):38-44.
+NATIONAL CENTER FOR HEALTH STATISTICS.
+1967. Eighth Revision International Classificationof Diseases, Adapted for Usein the United States. Public Health Service Publication No 1693, Vol 1. Washington,DC.
+PHAROAH, P. O. D., and J. N. MORRIS. 1979
+Postneonatal mortality. Epidemiolog. Rev. 1:170-183.
+ROGERS, RICHARD G., MICHAEL W. AMMANN,
+ANTHONY A. ORTIZ, and PATRICIA TOTKA-
+MACHI. 1983. Neonatal and infant weightspecific mortality rates New Mexico. Mor-
+
+bidity and Mortality Weekly Report 32(8):104-106.
+SHRYOCK, HENRY S., JACOBS S. SIEGEL, et al.
+1976. The methods and materials of Demography. Condensed edition by Edward G. Stockwell. Academic Press, New York.
+SKINNER, HENRY ALAN. 1970. The origin of
+medical terms. Hafner Publishing Company, New York.
+THOMPSON, W. S., and D. T. LEWIS. 1965. Pop-
+ulation problems. Fifth ed. McGraw-Hill Book Company, New York.
+UNITED NATIONS. 1955. Handbook of vital statistics methods. Studies in methods. Series F, No. 7. Statistical Office of the UnitedNations, New York.
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+

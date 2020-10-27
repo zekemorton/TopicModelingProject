@@ -1,0 +1,283 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Comment on Kunz and Peterson, "family size, birth order, and academic achievement"
+Frank M. Howell & Linda C. Malone
+To cite this article: Frank M. Howell & Linda C. Malone (1979) Comment on Kunz and Peterson, "family size, birth order, and academic achievement", Social Biology, 26:1, 80-84, DOI: 10.1080/19485565.1979.9988363 To link to this article: http://dx.doi.org/10.1080/19485565.1979.9988363
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:38
+
+Communications
+Comment on Kunz and Peterson, "Family Size, Birth Order, and Academic Achievement"
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Frank M. Howell and Linda C. Malone
+Department of Sociology, Mississippi State University, Mississippi State, Mississippi; and Department of ComputerScience and Statistics, Mississippi State University, Mississippi State, Mississippi
+
+In their paper on "Family Size, Birth Order, and Academic Achievement," Kunz and Peterson (SocialBiology, 1977, Vol. 24, No. 2, p. 144-148) undertake a test of the Zajonc and Markus "confluence theory" of family configuration effects on cognitive ability (see Zajonc and Markus, 1975). The authors use as a proxy for intelligence the self-reported grade-point averages of high-school students in their sample. We find the confluence model of intellectual development very instructive in attempting to discern the intricate relationship between the dynamics of family configuration and the cognitive development of individuals. An attempt to test the theory with an independent set of data is laudable. However, the Kunz and Peterson paper has several flaws and inconsistencies which severely limit the utility of the findings.
+The Kunz and Peterson paper purports (1977, p. 145) to "test the Zajonc model of birth order and family size while controlling for social class of the father." The analysis proceeds to cross-tabulate average grades (GPA) by family size and birth order, paralleling similar analyses using intelligence test scores by Belmont and Marolla (1973) and Breland (1974). These
+This comment was submitted January 28, 1978.
+
+latter two studies are the basic sources of data from which Zajonc and Markus develop the confluence model of family configuration effects on intelligence. Our major criticisms of the Kunz and Peterson paper are: (1) the authors never really discuss the confluence model as outlined by Zajonc and Markus, obviating any plausible test of it; (2) the tables which are supposed to show discrepancies between the Kunz-Peterson data and the ZajoncMarkus model in fact support the latter model; and (3) the use of the stepwise regression routine in the SPSS computer package (Nie et al., 1975) as the basis for examining the Kunz-Peterson model appears to be in error.
+One, the authors, in any theoretical sense, do not "test" the confluence model of intellectual development as outlined by Zajonc and Markus (1975). This error seems to be precipitated by a conceptual misunderstanding by Kunz and Peterson of the confluence model. Their analysis uses as a conceptual proxy for intelligence the self-reported grades of high-school students as the outcome of the "alpha process" underlying confluence theory. The plausibility of using academic performance (GPA) as a realistic approximation of academic ability (IQ) is, at minimum, rather tenuous. This use of GPA in place of IQ as
+
+80
+
+Vol. 26, No. 1
+
+Communications
+
+81
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+a formal test of confluence theory con- Using the Dutch data (see Belmont and
+
+founds the analysis with a reversal of Marolla, 1973) to estimate the equation,
+
+cause-effect relationships, since academic they conclude that birth order effects are
+
+performance most often is specified as de- relatively inconsequential, given the use of
+
+pendent on academic ability. Aside from aggregate population parameters for sib-
+
+this conceptual confusion, the utility of ling spacing and other assumptions. Thus,
+
+GPA as an empirical indicant of IQ is confluence theory suggests that it is the
+
+simply not warranted. See, for example, cumulative nature (see, for example, Bijou
+
+the discussions of Porter (1974, 1976) and [1971], Stinchcombe [1969], Bloom [1964])
+
+Williams (1976).
+
+of a specific environmental dimension,
+
+The original exposition of the theory average "intellectual climate," with which
+
+(Zajonc and Markus, 1975, pp. 76-77) the child interacts through the early stages
+
+states that the model
+
+of the life cycle, that explains the ubiqui-
+
+tous effects of family size (and partially
+
+is based entirely on the mutual intellectual birth order) on intelligence. The omission
+
+influences among children as they develop in of age spacing by Kunz and Peterson from
+
+the family context. The major emphasis is on the intellectual environment of the individ-
+
+their analysis is a misspecification of the
+
+ual during the course of his development: confluence model and negates the sup-
+
+more specifically, on the intellectual level of the individual's siblings and parents . . . . We shall show . . . that. . . family size must have a depressing effect on intellectual level, that intellectual ability may under some circumstances decrease and under others increase with birth rank, and that age gaps between successive children play an exceedingly important role in the birth order effects found by Belmont and Marolla and by others.
+
+posed "test" of it.
+Two, Table 2 in the Kunz and Peterson article is entitled Grade Point Average By Birth Order. Kunz and Peterson state (pp. 145-146) "Table 2 indicates that while there is a general decrease in GPA as birth order increases, there are reversals in the case of the sixth-born and also for the line
+
+representing eight or more children. This
+
+It should be clear that the confluence may indicate the relationship is nonlinear,
+
+model posits a person-environment in- i.e., parabolic." There are several criti-
+
+teraction process (the "alpha" process) as cisms which might be levied at Table 2
+
+an explanatory factor in intellectual devel- and the Kunz and Peterson remarks con-
+
+opment. The latent variable, specified as cerning Table 2. First, the data them-
+
+"average intellectual pool" in the family selves appear inappropriate. It appears as
+
+milieu, is merely indicated by the observ- if the grades given are averages over all
+
+able variables of family size, birth order, family sizes, i.e., for the Birth Order 1 it
+
+and age spacing between these siblings. appears that Kunz and Peterson found the
+
+The matter of age spacing between sib- average of all first-born children whether
+
+lings is a central feature of confluence from a one-child family or an eight-child
+
+theory (see Zajonc and Markus, 1975, p. family. Clearly since "within each family
+
+83) and one which Kunz and Peterson size, the last born shows a greater decline
+
+omit entirely from their analysis, without in intellectual performance than any other
+
+comment.
+
+birth rank" (Zajonc and Markus, 1975, p.
+
+In the latter portion of their paper, Zajonc and Markus (1975, p. 83) use a regression equation to relate changes in family intellectual climate to birth order, family size, and last born's handicap.
+
+74), the grades may be distorted by ignoring family size. Second, if we were to assume the data were appropriate, the reversal in the case of the sixth-born and eight or more is not contradictory to the
+
+82
+
+Communic ations
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Zajonc and Markus theory. "With one specific exception, family size must have a depressing effect on intellectual level, that intellectual ability may under some circumstances decreaseand under others increasewith birth rank, and that age gaps between successive children play an exceeding important role in the birth order effects . . ." (Zajonc and Markus, 1975, p.
+
+spacing between successive children. . . . With larger gaps between children, this pattern can be arrested or even reversed. . . . Finally, the upswing in the Raven scores which were found for the lower ranks in larger families is a feature of combining exponential functions, and it occurs because lower ranks have an environment that includes fewer individuals with an intelligence level lower than their own, while this is not the case for higher birth ranks.
+
+77). Lastly, if Kunz and Peterson expect a linear relationship based on the Zajonc and Markus paper they have misunderstood the article. "The Dutch data were characterized by a quadratic trend . . . . The transformed Raven scores of the Belmont-Marolla study are accurately described by the following regression equation which accounts for 97% of the variance:
+
+Table 4 of the Kunz and Peterson article is similar to Table 3 with social class held constant. The number of "discrepancies" according to Kunz and Peterson is now 25, only 2 more than for Table 3. Yet Kunz and Peterson state (p. 146): "with this type of pattern, one would have to argue that the Zajonc model is not supported insofar as grade point average is concerned." The comments about Table 3 are relevant to
+
+Mti = 101.31 - .31i + .Oil2
+
+Table 4. Kunz and Peterson seem to feel social class is an important variable. The
+
+- .37/ + .48X." (1975, p. 83). Zajonc and Markus theory seems to work
+
+well ignoring social class. However,
+
+Clearly, this is a quadratic equation which Zajonc and Markus did not exclude the
+
+fits the data well.
+
+possibility that it should be considered (see
+
+Table 3 is titled Grade Point Average Zajonc, 1976). In fact, their regression
+
+By Birth Order By Family Size. Kunz and equation between the a's and i, P,j and X
+
+Peterson state (p. 146):
+
+(where i is birth order, j is family size and
+
+Examination of the data in terms of adjacent pairs shows that there are nine discrepancies going across the matrix and IS discrepancies going down the matrix. The theory predicts that GPA's should decrease as one moves to the right and also as one moves down, that is, as family size and birth order increases. . .. Generally, there appears to be no pattern emerging in Table 3 like that predicted by the Zajonc model except in the second, third and fourth rows where there is a GPA decrease in each case of increasing birth order when family size is held constant.
+
+A. is an indicator variable for the last born's handicap) had an/?2 = 0.69. Perhaps this R2, although very respectable, could be improved by inclusion of social class as a variable.
+Finally, some comments are in order regarding the step-wise multiple regression, the results of which appear in Table 5 (p. 147) of the Kunz and Peterson article. It is well known that step-wise regression is inappropriate and can be misleading
+
+The quote cited earlier from page 77 of the Zajonc and Markus (1975) article indicates that Zajonc and Markus expect there to be a reversal in some cases. In fact, they state (p. 85):
+
+when multicollinearity is present. That is, when there is a high correlation (this may or may not be a simple pairwise linear relationship) among the independent variables, step-wise regression should not be used. Certainly social class, birth order,
+
+Intellectual performance decreases with and family size are not wholly indepenbirth order but only where there is close dent (see, for example, Thompson and
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Vol. 26, No. 1
+
+Communications
+
+83
+
+Lewis, 1970; Terhune, 1974; Blau and tance of this variable or if they simply Duncan, 1967). Additionally, if forward chose aprocedure which appeared to them inclusion was used in the SPSS regression to support their opinions. routine (Nie et al., 197S), then theinde- To summarize this critique, we reiterate pendent variable with the highest zero- two main points raised in theabove disorder correlation with GPA is entered into cussion. Sibling spacing wasnot considthe equation first, followed sequentially by ered at allbyKunz and Peterson, but acthe variable with highest partial regression cording to Zajonc and Markus, "Itis less coefficient. This technique forentering in- important to know what birth rank the dependent variables into the equationpre- individual occupies than how many years supposes no causal ordering, andalso in separate him (or her) from older or the presence ofmulticollinearity itmaynot younger siblings" (1975, p. 83).The addiproduce the "best" prediction equation. tion of a single variable when multicolTesting a theoretical model presupposes a linearity is present can completely change causal ordering among a set of variables the resulting inference. For a purported and requires an explicit empirical state- test ofthe confluence model, this omission ment that isisomorphic with the theory. It of a central factor is disastrous tothe is unfortunate that the authors donot in- plausibility of the findings. Lastly, one clude a correlation matrix for these vari- needs to ask(as indeed Kunz and Peterson ables sothat a reanalysis would be possi- themselves point out elsewhere intheir arble. The above problems alone could in- ticle) if GPA isindeed a credible proxy for validate theconclusions Kunz andPeter- intellectual level as measured by thetransson draw from theregression results. formed Raven score (see Zajonc and Mar-
+There are other considerations also. It is kus, 1975). not clear from thetext of the article how The intent of the Kunz and Peterson the social class variable was handled. It paper is laudable. Zajonc and Markus appears to have been handled as an indi- raise some questions themselves about the cator variable. If it was indeed handled Belmont-Marolla data, especially for inthusly, howwere the two social classes ferences to other populations. Clearly, furdefined? A change in the technique for ther work is indicated. The Zajoncmeasuring social class could drastically af- Markus confluence model israther sophisfect the resulting regression equation. A ticated and could therefore beeasily mislack of discussion on this point leads one to understood as we feel is the case with the wonder if the authors realized the impor- Kunz andPeterson article.
+
+REFERENCES
+
+BELMONT, L., and F. A. MAROLLA. 1973. Birth
+order, family size, and intelligence. Science 182:1096-1101.
+BIJOU, SIDNEY W. 1971.Environment and intelligence: A behavioral analysis, p. 221-239. InR. Cancro (ed.), Intelligence: Genetic andenvironmental influences. Grune and Stratton, New York.
+BLAU, P. M., and O. D. DUNCAN. 1967. The Amer-
+ican occupational structure. Wiley, New York. BLOOM, BENJAMIN S. 1964. Stability and change in
+human characteristics. Wiley, New York.
+KUNZ, P. R., and E. T. PETERSON. 1977. Family
+size, birth order, and academic achievement. Soc. Biol. 24:144-148.
+
+NIE, N. H., C, H. HULL, J. G. JENKINS, K. STEIN-
+BRENNER, and D. H. BRENT. 1975. Statistical
+package for the social sciences. 2nd ed. McGraw-Hill, New York.
+PORTER, J. N. 1974. Race, socialization andmobility in educational and early occupational attainment. Amer. Sociol. Rev. 39:303-316. . 1976. Socialization andmobility in educational and early occupational attainment. Sociol. Educ. 49:23-33.
+STINCHCOMBE, ARTHUR L. 1969. Environment: The
+cumulation ofeffects isyet to be understood. Harvard Educ. Rev. 39(3):511-523. TERHUNE, K. W. 1974.Areview of the actual expected consequences of family size. CalspanRe-
+
+84
+
+Communications
+
+Social Biology
+
+port No. DP-5333-G-1. Prepared for National Institutes of Health, Publication No. (NIH) 76779. Government Printing Office, Washington, D.C.
+THOMPSON, W. S., and D. T. LEWIS. 1970. Popula-
+tion problems. 5th ed. McGraw-Hill, New York. WILLIAMS, T. 1976. Abilities and environments, p.
+61-102. In W. H. Sewell, R. M. Hauser, and
+
+D. L. Featherman (eds.), Schooling and achievement in American society. Academic Press, New York.
+ZAJONC, R.B. 1976. Family configuration and intelligence. Science 192(16 April):227-236.
+ZAJONC, R. B., and G. B. MARKUS. 1975. Birth
+order and intellectual development. Psychol. Rev. 82(1):74-88.
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Response to Comment by Howell and Malone
+
+Phillip R. Kunz andEvan T. Peterson
+Department ofSociology, Brigham Young University, Provo, Utah
+
+The authors, commenting on our earlier "family size must have a depressing effect
+
+paper, begin byindicating that the use of on intellectual level . . . ." Why must it?
+
+grade point data as a proxy for intelligence Older children may teach younger siblings
+
+is "laudable." For them, it then becomes and be culturally enriching rather than
+
+"rather tenuous," andfinally"simplynot depriving. This case may be made as well
+
+warranted." In view of the very narrow as the former.
+
+band of differences reported in IQby We did not treat spacing because (1)
+
+Zajonc and Markus (not exceeding the Zajonc did not in his earlier work and (2)
+
+standard error ofmeasurement) we believe preliminary analysis indicated it madeno
+
+this tobe anacceptable alternative test of sense theoretically or empirically. We
+
+the Zajonc notion. We recognize that IQ tested the first model in our paper. The
+
+and GPA are notthe same; however, we criticism ofTable 2ishandled inTable3,
+
+believe the GPA tobea better measure of where GPA is separated out for family size
+
+outcome because it is a better performance and birth order.
+
+indicator.
+
+While social class does notaccount for
+
+It is true that our article does not discuss as much of the difference in GPA as we
+
+the Zajonc-Markus model in detail, but expected, we do not allow that the
+
+the fact that the confluence model has "Zajonc and Markus theory seems to work
+
+been generally published and read reduces well ignoring social class." One can't ig-
+
+the need fora recounting of that which is nore thesocial class bias in theIQtests.
+
+so generally well known in the area of Social class was arrived at using the
+
+family size andbirth order.
+
+McGuire S.E.I, table which uses as the
+
+Much is made of the intellectual level determining variables occupation, educa-
+
+which develops within the environment of tion, income, and religion, weighted by4,
+
+the siblings and parents, and Howell and 4, 3, and 1respectively. We should have
+
+Malone quote Zajonc and Markus that spelled that outin ourarticle.
+
+

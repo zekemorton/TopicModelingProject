@@ -1,0 +1,688 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Effect of infertility on the population structure of the Herero and Mbanderu of southern Africa
+Renee Pennington & Henry Harpending
+To cite this article: Renee Pennington & Henry Harpending (1991) Effect of infertility on the population structure of the Herero and Mbanderu of southern Africa, Social Biology, 38:1-2, 127-139, DOI: 10.1080/19485565.1991.9988776 To link to this article: http://dx.doi.org/10.1080/19485565.1991.9988776
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 4
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:44
+
+Effect of Infertility on the Population Structure of the Herero and Mbanderu of Southern Africa
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+Renee Pennington and Henry Harpending
+Centerfor Demography and Ecology, University of Wisconsin, Madison, Wisconsin; and Department of Anthropology, Pennsylvania State University, University Park, Pennsylvania
+
+ABSTRACT: Analysis of the fertility of Herero and Mbanderu pastoralists of the northern Kalahari Desert of Botswana indicates that they have suffered from infertility. The smoothed population pyramid constructed from a recent census shows waves of births occurring about every 22 years. Since generation times in human populations are typically longer, we suggest that infertility is responsible for prematurely terminating the reproductive spans of women, resulting in a reduced generation time. The eigenvalues of a series of Leslie matrices indicate that the periods of oscillation in the population have increased from 22 to 29 years following the recovery from infertility. Increases in fertility since the 1950's have also transformed the Herero from a slowly declining population to one growing at a rate of nearly 3.5 per cent per year.
+
+The Herero and Mbanderu are themeanageofchildbearinginthispopBantu-speaking pastoralists who live in ulation. We estimate generation time
+
+dispersed homesteads in the Kalahari desert of northwestern Botswana in southern Africa. Analysis of their fertility from a recent survey indicates that they have undergone a dramatic transition from low to high fertility in the last half of this century. In the last three dec-
+
+using the eigenvalues of four Leslie matrices which encapsulate the transition from very low to very high fertility schedules in this population. In the course of the analysis, traces of history embedded in the shape of the pyramid are revealed as well as the marked ef-
+
+ades, the total fertility rate has increased fects of the recovery from infertility on
+
+from 2.65 to 7.02 (Pennington and Har- present-day population growth rates. pending, 1991). The cause of low fertil-
+
+ity was probably sterilizing diseases in women, such as pelvicinflammatory dis-
+
+BACKGROUND
+
+ease, which declined in frequency following the introduction of antibiotics in northwestern Botswana in the 1950's (Dam and Molosiwa, 1987).
+The population pyramid constructed
+
+The Herero and Mbanderu are two closely related Bantu tribes of Hererospeaking peoples in southern Africa, collectively referred to herein as Herero. In Botswana most of them are the
+
+from the survey suggests that there is a wave of births about every 22 years. Since generation times in human populations are typically longer, and since the period of a wave in a population approaching stability is approximately one generation long, we suggest that infec-
+
+descendants of refugees who fled Namibia during the Herero-German War of 1904-07. The exact number of Herero in Botswana is unknown. Tlou (1985) uncovered figures estimating that 5001,500 refugees settled in Botswana as a result of the war. Alnaes (1989) cites
+
+tious infertility is responsible for reduc- sources in which 200-300 refugees were
+
+ing generation time and, consequently, counted in Ghanzi District and 1,500
+
+127
+
+128
+
+Pennington and Harpending
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+were counted in theBatawana Reserve, The analysis below is based on611
+
+so that the numbers of refugees would maternity histories collected between
+
+be upwards of 1,700-1,800. Although 1987 and1989 from Herero living indis-
+
+the population of Botswana isnolonger persed homesteads west of the
+
+enumerated by ethnic group, in1946, Okavango Delta and around Lake
+
+5,798Herero were counted inBotswana Ngami in thenorthern Kalahari Desert.
+
+(Research Publications, 1973). Since Because the climate is semi-desert,
+
+these figures imply extraordinarily high much of northwestern Botswana is wa-
+
+annual growth rates of at least 2.8 per terless and uninhabited. Around Lake
+
+cent, the number of refugees probably Ngami, population density ranges from
+
+has been underestimated. In fact, the 1 to 10 persons persquare kilometerbut
+
+results of the analysis in this paper indi- is less than 0.1persons per square kilo-
+
+cate that actual population in thefirst meter in most of the areas included in
+
+half of the century was nearly station- this study (Central Statistics Office,
+
+ary. 1981). Most Herero live in mudhouses
+
+Today there are probably 10,00015,000 Herero living in Botswana, comprising about 1percent of the total population.1 Most of them live in Ngamiland, the northwest district of Botswana. According to Almagor (1982), there were 5,000 Mbanderu living around Lake Ngami, a dry lake at the tipofthe Okavango Delta that occasionally fills from overflow of the Delta during its annual flooding. Although Lake Ngami is considered the Mban-
+
+without electricity or running waterand make their living from cattle. Goats, sheep, and other small stock and occasional gardening supplement this subsistence base. In Botswana, Herero are considered prosperous cattle farmers. Most are adequately provisioned, andin fact they frequently suffer from obesity (O'Keefe et al., 1988). Consequently, the low fertility rates described in this paper are notattributable toundernutrition.
+
+deru heartland, this estimate excludes We interviewed adult Herero inten-
+
+Herero proper also living around the sively about their families to obtain the
+
+lake as well as Herero and Mbanderu years of birth anddeath, if deceased,of
+
+living in other areas of Ngamiland. their children, spouses, parents, and
+
+Outside of this district, weknew of set- other relatives. Altogether, we ascer-
+
+tlements of several hundred Herero in tained approximately 3,500 living indi-
+
+Ghanzi, Mahalapye, and Rakops. viduals. Of these, we obtained years of
+
+Wilmsen (1982) estimated that there birth of more than 2,700 Herero. Most
+
+were 15,000 Herero living in remote ar- of the maternity histories were recorded
+
+eas of Botswana, but this estimatemay from women reporting about them-
+
+be toohigh. If the 1946 census figure is selves. A few histories of deceased or
+
+correct, thepopulation growth rates es- absent women were provided by hus-
+
+timated below indicate that there were bands ormothers if their accuracy could
+
+about 12,000 Herero in Botswana in be confirmed byother sources. Because
+
+1986. In this study, we ascertained individuals were ascertained in a num-
+
+about 3,500 Herero, most of whom live ber ofways, this type ofsampling has the
+
+in Ngamiland.
+
+potential to be biased in complex ways.
+
+1941,027 persons were counted inthe 1981 Bot- For example, young children usually en-
+
+swana population census (Central Statistics Office, tered our database only if one of their
+1981).
+
+Vol. 38,No. 1-2
+
+Infertility and Population Structure
+
+129
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+parents was ascertained, while adults were ascertainable through parents, children, and spouses. However, for reasons described more explicitly elsewhere (Harpending and Pennington, 1991a), we have assumed the individuals we ascertained to be a random sample of the Herero population in Botswana.
+The dates of most vital events were reported in either European calendar years or using traditional year names. Few Herero knew the Gregorian year in which an event occurred if it occurred less recently than about 1960, but most were able to date earlier vital events using a Herero or Mbanderu year name. Each year name typically reflects some important event occurring in that year. Since the name of the year in which an individual is born becomes a part of that person's identity, nearly every individual knows the name of his or her year of birth. Several year lists have been sequenced and aligned with Gregorian years. Lists published in Almagor (1980) and Vedder (1966) and supplemented by knowledgeable Herero we met were used to date the years of vital events reported to us in Herero and Mbanderu year names. Although there is some disagreement among sources about the correct sequence of some years, and although some error is introduced due to Herero years beginning and ending with the rainy season (usually in November or December), the use of Herero year names produced consistent dating of the years in which births and deaths occurred. In addition, this method is not biased by common problems of age estimation found in studies of other populations, such as age heaping on multiples of five (Brass, 1963).
+Further details on the sampling and methodology used in this study can be found in Pennington (1990) and Har-
+
+pending and Pennington (1991a). The compiled year list we used to date vital events is in Pennington (1990).
+MATERIALS AND METHODS
+AGE-SPECIFIC FERTILITY
+Pockets of low fertility occur throughout Africa, and the causal relationship between subfertility and venereal infection in sub-Saharan Africa has been examined by Caldwell and Caldwell (1983) and Frank (1983). Fertility rates among Herero began increasing in the mid-1950's, and the correspondence between these increases in fertility and the widespread use of antibiotics in rural northwestern Botswana (Dam and Molosiwa, 1987) implicates infectious infertility as the causal agent there as well. Apart from the !Kung Bushmen, who have an average of 4 to 5 live births at the end of childbearing (Howell, 1979; Harpending and Wandsnider, 1982), this study is one of the first to describe subnormal fertility in a southern African ethnic group. It may be significant that the !Kung described by Howell, Harpending, and colleagues reside among Herero, who frequently employ them as cattlehands.
+The transition from low to high rates of fertility experienced by Herero women is illustrated in Figure 1, which shows the age-specific fertility rates for three 10-year periods and for the period 1909 to 1956 (from Pennington and Harpending, 1991). These rates were calculated from a total of 12,774 person-years and 1,921 live births from the 611 female reproductive histories. Fertility among women of all ages is lowest in the earliest period, with a total fertility rate (the sum of 5 times the age-specific fertility rates) of only 2.65. An increase in fértil-
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+130
+
+Pennington and Harpendîng
+
+Social Biology
+
+ity rates inthe period 1957-66 illustrates by older women "forgetting" their
+
+the initiation of the gradual recovery births or byunderreporting of deceased
+
+from infertility, resulting inatotal fertil- offspring. First, women with low fertil-
+
+ity rate of 7.02 for the most recent pe- ity report their births asoccurring while
+
+riod, 1977 to 1986. The low fertility rates young. If women underreport their
+
+are probably dueto the sequelae of ve- births due tomemory lapse, they should
+
+nereal diseases leading to pelvic inflam- be more likely to forget offspring born
+
+matory disease (PID), causing early ste- earlier in reproduction than those born
+
+rility in many women (Pennington and later in reproduction because recent
+
+Harpending, 1991). The incidence of events should be better remembered.
+
+PID would decline as more women re- Secondly, older women report higher
+
+ceived antibiotic treatments that be- mortality among their young than youn-
+
+came available in rural Botswana in the ger women (Harpending and Pen-
+
+1950's.
+
+nington, 1991a) so that underreporting
+
+The increase infertility in the last half of this century is unusually dramatic. When estimates of fertility arebased on retrospective reports, the possibility that older women are underreporting their numbers of births must be considered. Several lines of evidence indicate that estimates of fertility are not biased
+
+of deceased offspring cannot accountfor the increase in fertility. Moreover, offspring born towomen early inreproduction areolder andtherefore more likely to be deceased than offspring born later in reproduction. However, older women preferentially reported their births asoccurring early in reproduction
+
+TFRs: 1909: 2.65 1957: 3.98 1967: 5.41 1977: 7.02
+
+15-19 20-24 25-29 30-34 35-39 Age class
+FIG. 1.--Herero age-specific fertility rates of 611 women for four periods
+
+40-44
+
+45-49
+
+Vol. 38, No. 1-2
+
+Infertility andPopulation Structure
+
+131
+
+so that, again, there is no evidence to suggest underreporting ofdeceased offspring inthese data. Thesecondarysex ratio is also near unity, indicating that Herero are not preferentially reporting births of one sexmore than theother. Finally, when thefertility ofwomengiving birth inthe first period (1909-56) is separated into narrower time periods, the age-specific fertility rates are about the same. Thefertility rates of women reproducing in 1909-56 have beencombined inthis analysis dueto data sparseness atolder ages.
+PARITY PROGRESSION RATIOS
+While the changes inage-specificfertility rates illustrate the damping effect
+
+of infectious infertility onfertility rates, the onset of secondary sterility isillustrated by theparity progression ratios (PPR's) in Figure 2 (from Pennington and Harpending, 1991). This figure is based onfertility histories of 239 postreproductive women (women atleast45 years oldin1986). Thefirstdata pointof the graph (i = 0)isatabout 0.85, indicating that about 85per cent ofthe women in this sample had atleast onelive birth. This primary infertility of 15%ishigh compared tomost natural fertility populations inwhich rates of2-3 per centare considered normal (Bongaarts and Potter, 1983). However, itislowcompared to many of the populations comprising the African infertility belt describedby
+
+Proportion of women with at least one birth
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+5 67
+Progression
+FIG. 2.--Parity progression ratios of239 post-reproductive women
+
+10 11 12
+
+132
+
+Pennington and Harpending
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+Frank (1983), in which primary infertility rates were often as high as 40 per cent.
+The rest of the data points on this graph show the proportion of women who, having had an ith birth, progress to have an / + Ith birth. The next data point at i = 1 is the proportion of women who, having had at least one birth, go on to have at least one more. The PPR's are around 0.75 for ratios 1 through 12 (corresponding to / = 1,2,3,...,12), after which they rapidly decline. The PPR of 0.75 indicates that about 25 per cent of all women become sterile after giving birth. This means that a woman of "proven fertility" is more likely to be sterile than a woman who has never given birth, since she has about a 25 per cent chance of being sterile compared to a nulliparous woman whose chance is only about 15 per cent.
+The general shape of the Herero parity progression ratio curve indicates the nature of reproduction in this population. PPR curves that are concave downwards are characteristic of "natural" fertility populations (Howell, 1979), meaning that factors affecting the level of fertility in Herero are not strongly correlated with parity. In contracepting populations, these curves tend to be concave upwards as most women terminate childbearing at lower parities. Although the Herero PPR's appear to be relatively constant across parities, the jump at progression i = 5 suggests that there may be heterogeneity in the level of fertility in this group of women.
+POPULATION STRUCTURE
+Explaining the bumps and curves in a population pyramid is important, since what is learned from demographic analysis can reveal characteristics of a popu-
+
+lation's history. Figure 3 (taken from Harpending and Pennington, 1991a) is the smoothed age-sex distribution of 2,591 individuals ascertained by us in 1987-89. This pyramid is representative of the living population in 1986. The top of the pyramid is fairly narrow but begins widening at the wave of births occurring about 20 to 30 years ago. The narrow structure of the pyramid at older ages is characteristic of a low fertility population, and the broadening and tapering of its shape initiated about 30 years ago coincides with the increase in fertility rates. Narrow population pyramids are also associated with populations with very high mortality, but this pattern does not describe the Herero, who have an expectation of life at birth of at least 50 years (Harpending and Pennington, 1991&).
+Without smoothing, the population pyramid based on the raw data used to generate-Figure 3 is rough, jagged, and uninformative. Traditionally, demographers have collapsed these kinds of erratic data series into 5-year age-classes. This technique has the advantage of minimizing noise in population data, but, by the same token has the disadvantage in that it may also eliminate pattern. The pyramid in Figure 3 has been smoothed using a 4253H filtering algorithm recommended by Velleman and Hoaglin (1981). This algorithm illustrates pattern in the population structure but does not create an artificial wave.
+The purpose of smoothing is to generate hypotheses, and a variety of them are suggested by the pyramid in Figure 3. First, the pyramid is asymmetric in that bulges on the female side of the pyramid appearing in the mid 1920's, 1940's, and 1960's are not as conspicuous on the male side. These apparent "missing males" suggest that male mor-
+
+Vol. 38, No. 1-2
+
+Infertility and Population Structure
+
+133
+
+Number of Females
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+50 FIG. 3.--Herero age-sex distribution in 1986
+
+50
+
+tality may be excessively high in this population, and in fact males do experience about three times the risk of mortality in infancy and about two times the risk of mortality in childhood relative to females (Harpending and Pennington, 1991a). Although this level of sexbiased mortality is unusually high, its cause is unknown.
+This smoothed pyramid also shows an apparent wave originating early in the century, that is, among the oldest individuals in this sample. The wave is probably a result of the Herero population in Botswana being founded by adisproportionate number of young people following the flight from Namibia at the turn of the century. Figure 4 is a redrawing of a population pyramid constructed by Gordon Gibson based on a 1953 census of the Herero (Gibson, 1959). The individuals born in the years 1903 to 1868 in this pyramid represent the proportions of individuals who were aged 0
+
+to 40 in 1903, when the refugee Herero population was founded. The age range represented encompasses most of the female reproductive span, and since a relatively small proportion of individuals of reproductive age founded the Herero population, a surge of births would follow as the refugee population matured. This birth surge would be echoed in subsequent generations. Although Gibson's sample is small, his pyramid is characterized by the same pinches and bulges suggested by the pyramid in Figure 3. Consequently, there is a greater basis for accepting Gibson's pyramid as representative of the age structure of the Herero of Botswana in 1953. Gibson's pyramid is also similar in shape to population pyramids of the Herero of Namibia constructed about the same time (Köhler, 1959a,b,c), suggesting that the age-structure in both Herero populations reflects excessive subadult mortality during the war.
+
+134
+
+Pennington and Harpending
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+1953
+
+10 20 Number of Individuals
+
+30
+
+FIG. 4.--Herero age-distribution in 1953
+
+GENERATION TIME ANDTHE
+LENGTH OF WAVES
+Natural periodicity is normal in human populations such that the wave resulting from a perturbation has a period about equal to the length of one generation (Keyfitz and Flieger, 1971; Keyfitz, 1972; Coale, 1972). That is, given a fixed set of fertility and mortality rates, a surge of births occurring at a particular point in time will be echoed a generation later when the excess births mature to reproduce themselves. Thus, the length of the period W2 is approximately equal to the generation time T (Keyfitz, 1968; Caswell, 1989), where Tis the number of years a population growing at a rate r will increase by a factor of the net reproduction rate (NRR), and the NRR is the expected number of baby girls born to a newborn female (e.g., Keyfitz and Flieger, 1971). Generation time can be derived from Lotka's renewal equation (Keyfitz and Flieger, 1971) in which exp'7" = NRR so that T - In {«5») T
+
+has been shown to be equal to the mean age of childbearing ¡x. (Keyfitz and Flieger, 1971; Coale, 1972). Since the length of the generation time reflects the age at which reproduction is concentrated, populations with longer generation times have reproduction concentrated at older ages compared to populations with shorter generation times (Coale, 1972). The correlation between Tand /xindicates that the average mother in populations with longer generation times will be older than in those with shorter generation times, and it follows then that, all things being equal, the average grandmother must be younger as well.
+A study of the female side of the Herero population pyramid in Figure 4 indicates that the length of the apparent wave is unusually short. Troughs in the apparent wave appear about every 22 years, several years shorter than calculations for most populations given in Keyfitz and Flieger (1971). Since the length of a wave is generally longer in human populations, the short wave
+
+Vol. 38, No. 1-2
+
+Infertility and Population Structure
+
+135
+
+Apparent wave indicated by arrows
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+10 20 30 40
+Number of Living Women
+
+FIG. 5.--Population wave in the 1986 female age distribution
+
+length in the smoothed pyramid suggests that shortened reproductive spans resulting from venereal infection during the first half of the century may be responsible for increasing the frequency of oscillation in the pyramid and, consequently, for reducing generation time and the mean age of childbearing in this population.
+THE LESLIE MODEL
+The length of a population wave can be derived from its Leslie matrix (e.g., Keyfitz and Flieger, 1971). The eigenvalues of a Leslie matrix have their analogues in the Lotka equation such that In \i = r, where \i is the dominant eigenvalue of the matrix. For i > 1, the \¡ are complex so that their relationship to the roots r¡in the Lotka model are not one-to-one (Keyfitz, 1968). Rather, the frequency of the natural periodicity is given by (Caswell, 1989)
+
+where \2 is the second eigenvalue in magnitude with 3(\2) being the imaginary part and ÍR(\2) being the real part. To test the hypothesis that infertility has reduced the frequency of oscillation in the Herero population, we analyzed a series of Leslie matrices in order to identify temporal changes associated with increases in fertility. Four Leslie matrices were constructed using the four sets of fertility schedules calculated from the age-specific fertility rates in Figure 1. These are given in Table 1. The subdiagonals are the probabilities P, of surviving from the ith to i + lth age class. These are based on empirical estimates of survivorship that have been fitted to model life tables (H. Harpending, unpublished calculations). The F¡¡ are the fertilities of the ith age class for the yth period and are given by (Caswell, 1989)
+F = /(2.5)
+
+where 1(2.5) is the probability of survivtan ing half the projection interval of the
+
+136 Pennington and Harpending
+TABLE 1
+HERERO LESLIE MATRIX. F¡¡ = 1(2
+
+Social Biology
+
+0-4
+Fu
+0.9365
+0 0 0 0 0 0 0 0
+
+5-9
+F» 0
+0.9895
+0 0 0 0 0 0 0
+
+10-14
+F} i
+0 0
+0.9885
+0 0 0 0 0 0
+
+15-19
+F*i
+0 0 0
+0.9812
+0 0 0 0 0
+
+AGE CLASS
+
+20-24
+
+25-29
+
+F¡ i
+0 0 0 0
+0.9789
+0 0 0 0
+
+F» 0 0 0 0 0
+0.9786
+0 0
+0
+
+30-34
+FT i
+0 0 0 0 0 0
+0.9771
+0 0
+
+35-39
+Fs, 0 0 0 0 0 0 0
+0.9739
+0
+
+40-44
+F,i
+0 0 0 0 0 0 0 0
+0.9686
+
+45-49
+F\o.j
+0 0 0 0 0 0 0 0 0
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+ooo o
+
+TABLE2
+FERTILITIES BY PERIOD AND AGE CLASS. FÍ¡ = 1(2.5) m'i+Pim(i + l)i
+
+PERIOD
+1977-1986 1967-1976 1957-1966 <1957
+
+0-4
+0 ... 0
+0
+... 0
+
+AGE CLASS
+5-9 10-14 15-19 20-24 25-29 30-34 35-39 40-44 45-49
+
+0.2216 0.1949 0.1779 0.1335
+
+0.5740 0.4845 0.3826 0.3087
+
+0.6567 0.5210 0.3910 0.2877
+
+0.5568 0.4139 0.2963 0.1591
+
+0.4477 0.3001 0.1833 0.0899
+
+0.2758 0.1861 0.1152 0.0702
+
+0.0976 0.0833 0.0549 0.0270
+
+0.0169 0.0139 0.0138 0.0000
+
+first age-class and m¡¡ is the age-specific growth rate (j Xi) and the second eigen-
+
+fertility rate for girl births during age value associated with the Leslie matrix
+
+class / and period;. The m¡¡ are the age- for each period are listed in Table 3. The
+
+specific fertility rates in Figure 1 multi- last column of the table lists the frequen-
+
+plied by the sex ratio and the width of cies estimated using the formula for Wz
+
+the age-class; 1(2.5) has been empirically above and multiplied by five, the length
+
+estimated at 0.84. F¡¡ is equivalent to for- of the age intervals. The Xj for the pe-
+
+mulas found in more standard demo- riod of low fertility during the first half
+
+graphic sources such as Keyfitz (1985). of the century indicates that, following
+
+Table 2 contains the fertilities Fgof He- their flight to Botswana, the Herero
+
+rero women calculated for each of the population was slowly declining at a rate
+
+four periods.
+
+of about 0.15 per cent per year. The in-
+
+trinsic rate of population growth be-
+
+RESULTS
+
+came positive following the recovery from infertility initiated in the mid-
+
+The eigenvalues for each of the Leslie 1950s, and currently appears to be growmatrices were obtained,2 and the annual ing at a rate of nearly 3.5 per cent per
+
+year.
+
+2The eigenvalues were obtained using the computer program GAUSS by Abtech Systems on an
+
+The second eigenvalues indicate that
+
+IBM PC compatible microcomputer.
+
+the frequency of the natural periodicity
+
+Vol. 38, No. 1-2
+
+Infertility and Population Structure
+
+TABLE3 EIGENVALUES AND THE FREQUENCY OF OSCILLATION
+
+Period
+1977-1986 1967-1976 1957-1966 <1957
+
+Annual Growth Rate
+5
++ 0.0346 . .. +0.0253 . . . +0.0140
+-0.0015
+
+0.3913 + 0.7187/ 0.3664 ± 0.6526/ 0.1208 ± 0.6958/ 0.0864 ± 0.7263/
+
+w2
+29.3 29.7 22.5 21.6
+
+137
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+in the population hasincreased from a in dramatic increases in population
+
+low of 21.6 in thefirstperiod to 22.5in growth rates, these increases appear to
+
+the first 10-year period ofrecovery from be more gradual.
+
+infertility, toover 29 years in the last two
+
+decades. Comparisons with populations in Keyfitz and Flieger (1971) suggest
+
+DISCUSSION AND CONCLUSIONS
+
+that frequencies ofless than 25 years are The shape of the present-day Herero
+
+unusual. Of the populations studied, population pyramid reflects the struc-
+
+those with the shortest generation times ture of its founding population, which
+
+tended to have low growth rates, but the was composed of a high proportion of
+
+pattern is by no means clear. Many of adolescent girls. The aging ofthese girls
+
+the populations with the highest growth into their childbearing years isprobably
+
+rates had generation times ofintermedi- responsible for anapparent wave in the
+
+ate length.
+
+pyramid today. Evidence for infectious
+
+Based on observations in teasel (a infertility afflicting this population
+
+plant) populations in which a negative through the mid-1950's can be seen in
+
+correlation between Wz and \ i was the narrow structure of the upperpor-
+
+found, Caswell (1989) suggested that tion of the pyramid, while its recently
+
+more rapidly growing populations may broadened base is indicative ofa gradual
+
+be associated with shorter generation shift tohigher rates of fertility.
+
+times. Since increases in population The leading eigenvalue k\ ofthe Les-
+
+growth rates among Herero areassoci- lie matrix for the Herero population in
+
+ated with longer periods of osciHation, the first half of this century indicates that
+
+CaswelPs suggestion cannot be true in population growth was -0.15 per cent
+
+general. Instead, this study suggests that per year. The finding that the Herero
+
+the magnitude of the peak in reproduc- has been adeclining population for most
+
+tive rates may have the most dramatic of its history in Botswana suggests that
+
+effect on the frequency W2 in human the number given refuge in Botswana
+
+populations. The curves of the age- during the Herero-German War has
+
+specific fertility rates for the earliest pe- been significantly underestimated.
+
+riods in Figure 1arerelativelyflat.The Since the Botswana census enumerated
+
+curve becomes sharply peaked follow- 5,798 Herero in 1946,the near-zero
+
+ing the period 1957-66, after whichthe population growth rate suggests that the
+
+most substantial increase in W2 occurs. number of refugees mayhave been as
+
+While increases infertility have resulted many as 6,000. Using the growth rates in
+
+138
+
+Pennington and Harpending
+
+Social Biology
+
+Table 3 and the 1946 census figure as the baseline population, we estimate that the Herero population in Botswana would have grown to about 12,000 in 1986. Although population movement between Namibia and Botswana may affect these estimates, most of the migration of Herero is probably towards Namibia, the Herero homeland (Pennington, 1990).
+Finally, recovery from infertility is responsible for transforming the Herero from a declining population into one experiencing extremely high population growth rates of about 3.5percent per year, a finding of great importance to policy planners in parts of Africa still characterized byhigh levels of involuntary infertility. The decrease in infertility has resulted in anincrease in the pe-
+
+riod of oscillation in the population from about 22 to 29 years. Since the period of oscillation is approximately equal to generation time, which is correlated with themean age of childbearing ina population, these findings indicate that more children today arebeing born to mothers who are older than those in previous decades.
+ACKNOWLEDGMENTS
+We thank Kenneth Weiss, James Wood, Anne Buchanan, Clifford Clogg, Alan Rogers and Jeffrey Kurland for their help or suggestions in preparation of this manuscript. Project field work wassupported by the Wenner-Gren Foundation for Anthropological Research, the Hill Fund of the Pennsylvania State University, and National Institute on Aging Grant AG03110 toChristine Fry and Jennie Keith.
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+REFERENCES
+
+ALMAGOR, U. 1980. Some notes on the Mban- DAM, C. J. VAN, and K. MOLOSIWA. 1987. A
+
+deru calendar. Botswana Notes and Re- control programme for sexually transmit-
+
+cords 12:67-82.
+
+ted diseases in Botswana. Proposal, July,
+
+_____. 1982. A note on the fertility of the Ministry ofHealth, Botswana.
+
+Mbanderu women. Botswana Notes and FRANK, O.1983. Infertility insub-Saharan Af-
+
+Records 14:23-25.
+
+rica: Estimates and implications. Pop. De-
+
+ALNAES, K. 1989. Living with the past:The
+
+velop. Rev. 9:137-144.
+
+songs of the Herero in Botswana. Africa GIBSON, G . D . 1959. Herero marriage.
+
+59:267-299.
+
+Rhodes-Livingston Journal 24:1-37.
+
+BRASS, W. I. 1968. The use ofexisting data. In HARPENDING, H., and R. PENNINGTON. 1991a.
+
+J. C. Caldwell and C. Okonjo (eds.), The
+
+Age structure and sex-biased mortality
+
+population of tropical Africa. Columbia
+
+among Herero pastoralists. Hum. Biol.
+
+Univ. Press, New York.
+
+63:329-353.
+
+CALDWELL, J. C., and P. CALDWELL. 1983. The _____. 1991b. Product-limit estimates of adult
+
+demographic evidence for the incidence and
+
+survivorship among southern African pasto-
+
+cause ofabnormally low fertility in tropical
+
+ralists. Unpublished manuscript, Depart-
+
+Africa. World Health Statistics 36:2-34.
+
+ment of Anthropology, Pennsylvania State
+
+CASWELL, H. 1989. Matrix population models.
+
+University.
+
+Sinauer, Sunderland, Mass.
+
+HARPENDING, H., and L. WANDSNIDER. 1982.
+
+CENTRAL STATISTICS OFFICE. 1981. Population
+and housing census, Republic ofBotswana. Census administrative/technical report and national statistical tables. Central Statistics
+
+Population structures of Ghanzi and Ngamiland !Kung. In M. H. Crawford and J. H. Mielke (eds.), Current developments in anthropological genetics. Plenum Press, New
+
+Office, Gaborone, Botswana.
+
+York.
+
+_____. 1988. Statistical Bulletin. Vol. 13, No. HOWELL, N. 1979. Demography of the Dobe
+
+1. Central Statistics Office, Gaborone, Bot-
+
+!Kung. Academic Press, New York.
+
+swana.
+
+KEYFITZ, N. 1968. Introduction to the mathe-
+
+COALE, A. J. 1972. The growth and structure of
+
+matics of populations. Addison-Wesley,
+
+human populations. A mathematical inves-
+
+Reading, MA.
+
+tigation. Princeton Univ. Press, Princeton, _____. Population waves. In T. N. E.Greville
+
+New Jersey.
+
+(ed.), Population dynamics. Academic
+
+Vol. 38, No.1-2
+
+Infertility and Population Structure
+
+139
+
+Press, New York. _____. 1985. Applied mathematical demogra-
+phy. 2nd ed. Springer-Verlag, New York.
+KEYFITZ, N., and W. FLIEGER. 1971. Popula-
+tion. Facts and methods of demography. Freeman, San Francisco. KÖHLER, O. 1959a. Astudy ofGobabis District (South West Africa). Ethnological Publications No. 42. Union of South Africa, Department ofBantu Administration and Development.
+_____. 1959b. A study of Omaruru (South West Africa). Ethnological Publications No. 43. Union of South Africa, Department of Bantu Administration and Development.
+_____. 1959c. A study of Grootfontein District (South West Africa). Ethnological Publications No. 45. Union of South Africa, Department of Bantu Administration and Development.
+O'KEEFE, S. J. D., J. E. RUND, N. R. MAROT,
+K. L. SYMMONDS, and G. M. B. BERGER.
+1988. Nutritional status, dietary intake, and disease patterns in rural Hereros, Kavangos, and Bushemen in South West Africa/Namibia. South African Med. J. 4:643-648.
+
+PENNINGTON, R. 1990. Fertility of the Herero and Mbanderu pastoralists of Botswana. Ph.D. dissertation, Department ofAnthropology, Pennsylvania State University, University Park.
+PENNINGTON, R., and H. HARPENDING. 1991.
+Infertility in Herero pastoralists of southern Africa. Amer. J. Hum. Biol. 3:135153.
+RESEARCH PUBLICATIONS. 1973. International
+population census publications, Botswana, 1946. Research Publications, New Haven, Conn.
+TLOU, T. 1985. A history of Ngamiland--1750 to 1906: The formation ofan African state. MacMillan Botswana, Gaborone, Botswana.
+VEDDER, H. 1966. South West Africa in early times. Frank Cass & Co.,London, England. (Reprint of1938 edition.)
+VELLEMAN, P. F., and D. C. HOAGLIN. 1981.
+Applications, basics, and computing of exploratory data analysis. Duxbury Press, Boston, Massachusetts. WILMSEN, E. N. 1982. Remote area dwellers in Botswana: An assessment of their current status. African Studies Center. Working Papers, Boston University.
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+

@@ -1,0 +1,263 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Development, "welfare," and fertility: A simple macroanalysis
+Antony Raymont
+To cite this article: Antony Raymont (1989) Development, "welfare," and fertility: A simple macroanalysis, Social Biology, 36:1-2, 110-113, DOI: 10.1080/19485565.1989.9988723 To link to this article: http://dx.doi.org/10.1080/19485565.1989.9988723
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:43
+
+Development, "Welfare," and Fertility: A Simple Macroanalysis
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Antony Raymont
+Department of Community Health Medical School, University of Auckland Auckland, New Zealand
+
+ABSTRACT: Accepting the theoretical position that desired family size is likely to diminish as economic modernization occurs, the author analyzes the association between fertility and development using recent national data from less developed countries. Measures of income and equality are combined to provide an index of population "welfare." Multiple and cross-lagged correlations are used to demonstrate the magnitude and nature of the relationship between welfare and fertility rates. Despite inadequacies of the data, high negative correlations are obtained, and evidence is advanced to show that the direction of causation is from welfare to fertility.
+
+Much demographic discussion has the period 1978-87. Readily available been focused on microanalytical models indices are used to increase the size of (e.g., Caldwell, 1983; Easterlin and the study group, despite the exclusion of Crimmins, 1985) which have examined the developed countries which now the mechanisms that relate develop- have uniformly low fertility rates. Dement to lowered fertility. A persuasive velopment is assessed in terms of per case has been made that, for the individ- capita income, supplemented by a meaual couple, fertility is a rational decision sure of equality, as suggested by Murbased on the economic costs and doch (1980). For convenience, the combenefits of children, and that with devel- bination of national per capita income opment children come to cost more and and equality is referred to as "welfare." return less (Murdoch, 1980). If develop- The prediction of fertility by welfare is ment is unevenly distributed within a assessed using a lagged model as sugcountry, it will have a reduced effect on gested by Oechsli and Kirk (1975). The fertility. Thus, high birth rates among residual effect of culture is also evaluthe rural poor may conceal fertility re- ated. duction in urban areas (Bhattacharyya
+1975).
+
+Relatively few macroanalyses of the association between development and fertility have been published in the eighties. A paper by Omran and Salama (1986) draws attention to the variability of the phenomenon, but uses data from before 1975. This contribution updates the analysis with international data from
+
+MATERIALS AND METHODS
+Data were obtained primarily from the Population Reference Bureau World Population Data Sheets for 1979 and 1987. Eight years was accepted as an appropriate time lag over which economic conditions might be expected to
+
+110
+
+Vol. 36, No. 1-2
+
+Brief Reports
+
+111
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+affect reproductive behavior. An arbi- the country's PCP. Our measure of
+
+trary figure of $5,000 was adopted as the equality is the error term in the PCP/
+
+upper limit of per capita Gross National IMR regression and will be referred to
+
+Product (PCP) for a Less Developed as ERR. Infant Mortality Rates were
+
+Country (LCD) in 1987. Of all countries obtained from the Data Sheets.
+
+listed, 19 were excluded on the basis of Finally, as a rough measure of cul-
+
+high PCP; 60 LCD's were excluded be- tural affiliation, countries were assigned cause of incomplete data. A study group to one of five groups (North Africa and
+
+of 94 countries remained.
+
+the Middle East; West, East and South
+
+Total Fertility Rate (TFR) was used Africa; Asia and Oceana; Central
+
+as the measure of fertility to avoid the America and the Carribean and South
+
+population structure bias incorporated America; Europe).
+
+in Crude Birth Rates. TFR87 was taken The basic measure of association was
+
+from the Data Sheet; TFR79 was esti- a regression of fertility on measures of
+
+mated by multiplying the Gross Repro- welfare. A scattergram of TFR87 with
+
+duction Rates given in the United Na- PCP87 suggests an exponential relation-
+
+tions Demographic Yearbook of 1981 ship. As a result, it was decided to trans-
+
+by a factor of 2.07 (the majority of these form TFR so as to produce the optimal
+
+statistics referred to 1978 censuses). The linear relationship as measured by the
+
+per capita Gross National Product ratio between the slope of the first and
+
+(PCP) supplied by the Data Sheets was second half of the curve. A initial ratio
+
+used as the measure of income; it must of 2.5 was reduced to 1.13 by using the
+
+be recognized that it also reflects urban- Reciprocal Square Root of the TFR
+
+ization and the degree to which the pop- (rrTFR), and this transform was
+
+ulation has moved from a subsistence to adopted for the analysis.
+
+a monetary economy.
+
+Data analysis began with the creation
+
+Measures of equality are less gener- of a multiple regression equation with
+
+ally available; there are no recent figures r/TFR87 as the dependent variable. The
+
+for income distribution in the majority independent variables were the mea-
+
+of LCD's. The Infant Mortality Rate sures of economic welfare from 1979
+
+(IMR) is widely available and is a mea- (PCP79 and ERR79) and the dummy
+
+sure of equality in that the rich in most variables representing cultural group-
+
+countries can achieve low levels of in- ings. This was seen as a demonstration
+
+fant loss while the poor cannot. Of of the existence and strength of the
+
+course, IMR itself has a direct effect on welfare/fertility correlation, along with
+
+fertility. The higher the IMR, the more an estimate of the influence of culture
+
+births needed by a couple to achieve a once welfare was controlled.
+
+given family size. However, it was felt The second step was a cross-lagged that IMR, entered in a multiple regres- correlation in which measures of welfare sion equation after PCP, was a relatively for both 1979 and 1987 were related to clean indicator of equality. What is be- the fertility rates, and also for 1979 and ing used here is the variance in IMR not 1987. This step was seen as a test of the predicted by PCP. A couple's reproduc- proposition that the direction of causaltive behavior can hardly be influenced ity is from welfare to fertility rather than by the extent to which the IMR in their the reverse. This statistical manipulacountry differs from that predicted by tion requires that the sample be of mod-
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+112
+
+BriefReports
+
+Social Biology
+
+erate size, that the variables indeed analogous, data. When thefour dummy
+
+vary, that the effect is lagged, and that variables representing cultural affilia-
+
+the synchronous correlations bemoder- tion were added, theexplained variance
+
+ate (Kenny, 1975). These criteria are increased to 79 per cent. The attained
+
+met by our data. In addition, Kenny significance ofall correlations, including
+
+notes the need for "stationarity," the thefinal6per cent increase is better than
+
+stability of the causal structure over one in a thousand (p< 0.001).
+
+time, and "synchroniriry," the use of The correlations necessary for cross-
+
+measures actually collected at the spe- lagged comparison arepresented in Ta-
+
+cified time. There is no reason to sup- ble 1.The synchronous correlationsare
+
+pose that the factors causal of fertility similar (0.810 and 0.817), giving empiri-
+
+should have altered over the last two cal support to the assumption of sta-
+
+decades, butthere is some doubt about tionarity ofcausation. They also suggest
+
+the dates to which the data refer. Na- that theuseof different sources of TFR
+
+tional information from a given year for the two dates has notintroducedany
+
+represents the most recent survey with systematic distortion. Readers will note
+
+or without subsequent projections of that reversing the time sequence re-
+
+change. Furthermore, variation maybe duces theobserved correlation between
+
+nonrandom, influenced, for example, fertility and welfare indicators from
+
+by UN census projects.
+
+0.856 to0.764. Kenny (1975) gives a for-
+
+mula for calculating the significance of
+
+RESULTS
+
+such a change. However, this formula requires a single correlation between
+
+Calculation revealed a close correla- both welfare variables in 1979 andboth tion between fertility rates and the indi- in 1987. If the variables are separately cators of welfare. The bivariate correla- correlated across time and the mean tion between rrTFR87 andPCP79 was used, the cross-lagged comparison at0.712. The coefficient ofmultiple corre- tains a significance of p =0.003.
+
+lation when ERR79 was added to the
+
+equation was0.856. Thus, the welfare indicators account for73 percent of the
+
+CONCLUSION
+
+variation in fertility rates. Curiously, Given our theoretical perspective, this is exactly the figure obtained by the figures confirm ourexpectation that Murdoch (1980), using different, but the economic welfare of a population is
+
+TABLE 1
+FOUR-WAY CORRELATIONS, 1978/9 AND 1987, BETWEEN RECIPROCAL ROOT OF TOTAL FERTILITY RATES AND WELFARE MEASURES
+
+Correlations
+Synchronous 78/9 Forward4 Backward' Synchronous 87
+"Forward = wellare measures, 1979;fertilityrates,1987. 'Backward = welfare measures, 1987;fertility rates 1978.
+
+r/PCP
+0.703 0.712 0.663 0.696
+
+R/PCP &ERR
+0.810 0.856 0.764 0.817
+
+R2/PCP &ERR
+0.656 0.733 0.584 0.667
+
+Vol. 36,No. 1-2
+
+Brief Reports
+
+113
+
+an excellent predictor of fertility rates duces high fertility are more important across less developed countries. The than those by which high fertility might strong correlations obtained are re- cause poverty. Thisfindingdoes not immarkable in view oftheuncertaintiesof ply that fertility control programs are inthe data, and they are higher thanthe effective; it does imply that thepromomajority reported inthe literature.The tion of general economic welfare must cross-lagged correlations suggest that accompany such programs. the mechanisms by which poverty in-
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+REFERENCES
+
+BHATTACHARYA, AMIT KUMAR 1975. Income in-
+
+chol. Bull. 82(6):887-903.
+
+equality and fertility: A comparative view. MURDOCH, WILLIAM W. 1980. The poverty of
+
+Pop. Stud. 29:5.
+
+nations. TheJohns Hopkins Univ. Press,
+
+CALDWELL, J. C. 1983. Direct economic costs Baltimore.
+
+and benefits of children, p. 370-379. In OECHSLI, F. W., and D. KIRK. 1975. Moderni-
+
+R. A. Bulatao andR. D. Lee(eds.), Deter- zation and economic transition in Latin
+
+minants offertility in developing countries, America and the Carribean. Econ. De-
+
+Vol. I. National Academy Press, Washing- velop. Cult. Chge. 23:412.
+
+ton, D.C.
+
+OMRAN, ABDEL R., and IBRAHIM A. SALAMA.
+
+DEMOGRAPHIC YEARBOOK, 1981. United Na-
+
+1986. Macroeconomic study of develop-
+
+tions, New York.
+
+ment and fertility: Consideration of transi-
+
+EASTERLIN, R. A., and E. M. CRIMMINS. 1985.
+
+tional models. Soc. Biol. 33(3-4):259-274.
+
+The fertility revolution. Univ. of Chicago WORLD POPULATION DATA SHEET 1979/87. Pop-
+
+Press, Chicago.
+
+ulation Reference Bureau, Washington,
+
+KENNY, DAVID A. 1975. Cross-lagged panel
+
+D.C.
+
+correlation: A test for spuriousness. Psy-
+
+

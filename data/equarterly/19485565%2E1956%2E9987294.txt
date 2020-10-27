@@ -1,0 +1,402 @@
+Eugenics Quarterly
+ISSN: 0097-2762 (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi18
+The estimation of spontaneous and radiationinduced mutation rates in man
+James F. Crow
+To cite this article: James F. Crow (1956) The estimation of spontaneous and radiationinduced mutation rates in man, Eugenics Quarterly, 3:4, 201-208, DOI: 10.1080/19485565.1956.9987294 To link to this article: http://dx.doi.org/10.1080/19485565.1956.9987294
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 3
+View related articles Citing articles: 4 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi18
+
+Download by: [University of Michigan]
+
+Date: 07 December 2015, At: 06:37
+
+THE ESTIMATION OF SPONTANEOUS AND RADIATIONINDUCED MUTATION RATES IN MAN*
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+This is the second article in a series on Genetics and Radiation.
+
+JAMES F. CROW
+Department of Genetics The University of Wisconsin
+
+N,EITHER THE METHODS USED nor the re-
+sults obtained in human mutation studies would be regarded as acceptable in experimental animals and plants. Yet there are decisions of public policy that cannot wait for better knowledge, so it is necessary to make the best possible estimates from available information. At the same time we must remain aware of the limited accuracy and provisional nature of such estimates.
+As long as we deal with spontaneous mutation leading to specific hereditary conditions there is information from direct human studies. But if any attempt is made to measure the overall mutation rate it is necessary to use experimental animals for part of the information, and this introduces all the uncertainty of extrapolating from one organism to another. In assessing radiation effects the situation is still worse, for almost all the information has to come from experimental animals. Such human data as there are permit only the broadest of limits.
+This article is an attempt to present such estimates as can now be made for human mutation rates and for the amount of increase to be expected from a given amount of radiation. In a later article some possible eugenic and evolutionary consequences of an increased mutation rate will be examined. I am relying largely on published research and shall cite vari-
+*Paper No. 642 from the Department of Genetics, University of Wisconsin. Dr. Crow was a member of the Committee on Genetic Effects of Atomic Radiation of the National Academy of Sciences.
+
+ous recent summaries that give more details than are possible here, but I should like to call special attention at the outset to two recent reports sponsored by the British Medical Research Council and the National Academy of Sciences of the United States (1, 2). These two studies approach the problem of radiation damage from quite different directions, yet reach remarkably similar conclusions and recommendations.
+Spontaneous Rates: Dominant Mutants
+In principle, the measurement of the rate of occurrence of dominant mutations offers no difficulty. With regular dominant inheritance every affected individual has at least one affected parent, and any exception to this rule may be regarded as of mutational origin. Given adequate census data, the investigator simply records the proportion of births where affected children are born of normal parents. The mutation rate per gene is half this proportion, since either of two genes may have mutated, that carried by the sperm or that in the egg.
+Several investigators have measured mutation rates this way. A recent summary is given by Penrose (1, appendix C). He lists six conditions (epiloia, achondroplasia, aniridia, microphthalmos, retinoblastoma, and dominant partial albinism) . The mutation rates all lie between 4 and 45 per million genes per generation, with an average of roughly 15 per million.
+Despite its seeming directness and free-
+
+201
+
+202 Eugenics Quarterly
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+dom from gratuitous assumptions, this procedure has several sources of bias. One possible error is a mistake in ascertaining the true parentage of the mutant child. For this reason the best data are for genes that cause a conspicuous abnormality or a reduction of fertility, where such a mistake is much less likely. Note that the conditions listed above are of this type.
+Another source of error is that the mutant trait may be mimicked by a non-hereditary condition (i.e., is a "phenocopy"), or that the mutant gene is not always expressed (i.e., is not fully penetrant).
+A third possible error lies in the fact that any of several genes may mutate to give essentially the same abnormality. In animal studies experiments are designed so that similar appearing mutants at different gene loci can be distinguished, but in man this is hardly ever possible. Thus the investigator may not be measuring the mutation rate of a single gene, but the total rate of all genes producing a similar abnormality.
+For all these reasons the published mutation rates are probably over-estimates of the true rates. This is even more true if these rates are to be regarded as representative of mutation rates in general. For a mutant with a high rate of occurrence, being more common, is more likely to be known to geneticists and more likely to be included in a mutation rate study.
+There are sources of bias in the opposite direction also, but probably of less consequence. One possibility is that some of the mutant individuals, being weak, die as embryos and are not counted.
+Finally, the number of actual mutant individuals in these studies is not large, so the estimates are subject to the caprices of small sample numbers.
+We can bolster our confidence in these figures somewhat by estimating them another way. A second, more indirect procedure depends on knowledge of the relative "fitness" (i.e., ability to survive and reproduce) of persons with the mutant
+
+gene. For example, achondroplastic dwarfs, because of lowered viability and fertility, are represented next generation by only about 1/5 as many descendants as a normal person. Therefore, of the achondroplastics in the population, approximately 1/5 will have inherited the condition while the other 4/5 will be from new mutations. Using this information one can obtain the mutation rate from the frequency of the abnormality in the population. The procedure is explained more fully in (1).
+The mutation rates given above have been checked by this indirect method with general agreement. Unfortunately most of the sources of error in the direct method that cause overestimation of the true rate also apply to the indirect. We shall take the average above, 15 mutations per million genes per generation, as an estimate, but with the realization that it is more likely to be too high than too low.
+Spontaneous Rates: Recessive Mutants Recessive mutants are much more com-
+mon than dominants in experimental animals. But the measurement of mutation rates to recessives is complicated by the fact that the mutant must be in the homozygous state to be detected, and the actual mutation may have occurred many generations earlier. There are special techniques in experimental animals that circumvent this difficulty, but they are not available for man.
+However, there is one class of recessive mutants that can be effectively studied in man, those that are on the X-chromosome (sex-linked), for here a mutant is expressed on the average every three generations. This is because the male has only one X-chromosome while the female has two; therefore 1/3 of the mutant genes are in males where their effect is fully expressed and detectable.
+The mutation rate to sex-linked recessives may thus be measured by indirect methods analogous to those used for ordinary, non sex-linked dominants. The method assumes that the fitness of the
+
+203
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+mutant type has been constant for the past dozen generations or so, which is dubious for most genes. But it is reasonable for genes that are highly incapacitating, and which in the past must have resulted in almost certain failure to reproduce. Two sex-linked mutants that have been studied approach this condition, hemophilia and sex-linked muscular dystrophy. The average of several studies on each give respective mutation rates of about 25 and 60 per million genes per generation (1).
+The measurement of autosomal recessives is a highly dubious undertaking. A number of unrealistic assumptions must be made, so one can have little confidence in the results.
+The measurement is strongly influenced by even small heterozygous effects and by the amount of inbreeding, neither of which can be assessed for times in the remote past. Therefore, although such estimates have been made (see 1, appendix C, for summary), I shall not include them here.
+Estimating the Overall Mutation Rate We should like to be able to measure
+the total mutation rate of all genes, for then we should be in a position to make a reasonable assessment of the total mutational damage. But this is clearly impossible, for not all mutations have detectable effects. A direct procedure might be to use the single gene rates discussed in the previous section and multiply by the number of genes. But we don't know the number of genes in any organism, much less in man. A more realistic approach to the problem is to measure the rate of mutation to a broad but clearly definable class of mutants. Mutations that cause death (lethals) or that measurably decrease the viability (detrimentals) constitute such a class.
+I shall describe two procedures that give estimates for the total frequency of a class of mutations. The first has been used by Muller (3) and consists of multiplying the single gene rate in man by a factor, ob-
+
+tained from Drosophila data, relating the single gene rate to the overall rate of lethal and detrimental mutations.
+In Drosophila it is possible, by using methods that also owe their origin to Muller, to measure the total rate of occurrence of sex-linked lethal mutations with great precision. Mutations causing a detectable decrease in viability are about four times as frequent as lethals, so we multiply the lethal number by 4 to include detrimentals. Then we note that the X-chromosome in Drosophila has about 1/6 of all the mutations in a sperm or egg, so we multiply by 6. The value finally obtained is about 10,000 times the mutation rate for a representative single gene (3).
+I shall note three points about this ratio. First the figure is for radiation-induced, not spontaneous mutations. This is necessary since the latter occur in too low frequency to provide reliable estimates. However there is no reason to think the ratio would be different. Second, the sensitivity of the method is such that a detrimental mutant is detected only if it reduces the survival by about 10 per cent or more; lesser mutants go undiscovered. Finally, the survival being measured is in the egg, larva, pupa, and perhaps early adult stages; a mutant that decreases the life expectancy of adult flies or lowers their fertility is not counted by this procedure.
+I shall take the value given above as the average of the dominant mutation rates, 15 per million genes, as representative of single locus rates in man. Multiplying this by 10,000 we obtain .15; that is, 15 sperms or eggs in a hundred may be expected to carry a new lethal or viability-reducing mutation.
+There is of course a large error possible in this, because all of the factors that were multiplied together are individually subject to error. But more important we are assuming that man is like Drosophila in two important respects. We are assuming first that the ratio of overall to single locus mutation rates is the same in Drosophila
+
+204 Eugenics Quarterly
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+and man. This is equivalent to assuming homozygous, would cause death. That is,
+
+that the number of genes is the same. If there are 4 lethals, or 8 mutants with 50
+
+man has more than Drosophila, we have per cent probability of causing death, or
+
+produced an underestimate. But perhaps 40 with 10 per cent probability, or some
+
+this compensates for our probable over- other equivalent. The deaths on which
+
+estimation of the single locus rates. Second- the calculations were based occurred
+
+ly, we are assuming that the class of mu- between birth and young adulthood (in-
+
+tants that increase the probability of death cluding stillbirths), so the class of mutation
+
+between the egg and adult stage of Droso- studied is that causing death in these ages.
+
+phila corresponds in a meaningful way to some class in man. It is probable that some of these, perhaps a large fraction, correspond to very early embryonic deaths in man that are of relatively little consequence.
+
+The four hidden lethal equivalents per person are due to mutations that have occurred some time in the past and which still persist in the population. To estimate the rate of occurrence of mutations it is necessary to know how long the average
+
+These are serious limitations, but the mutant persists. The major factors de-
+
+procedure does give a concrete estimate. termining this are the amount of inbreed-
+
+It is convenient to think in terms of a ing and the extent to which the mutant is
+
+population of 100 million persons, very expressed in the heterozygous state, and of
+
+roughly the number of children that the course the amount of reduction in viability
+
+present population of the United States and fertility caused by the mutation. The
+
+may be expected to produce. In these latter factor is impossible to measure in
+
+terms the total number of estimated new general for human mutations, but very
+
+mutations (of the designated class) would fortunately this factor may be bypassed if
+
+be .15 X 100 million X 2, or 30 million. the amount of hidden mutational damage
+
+The factor of 2 comes from the fact that is expressed in lethal equivalents. It turns
+
+each person has two sets of genes, one from out that the total mutation rate is equal to
+
+the sperm and one from the egg.
+
+the total number of lethal equivalents
+
+Fortunately an entirely different method carried by the population multiplied by a
+
+is available. This also combines informa- factor which we have called z, determined
+
+tion from man and from Drosophila, but largely by the average amount of heter-
+
+uses entirely different information from ozygous expression (dominance). The deri-
+
+both than the above method does, so it vation of this relation is given in (4). A
+
+provides an independent estimate (4). desirable feature is that the amount of
+
+This method makes use of the fact that in children whose parents were related a certain fraction of the genes are made homozygous, and therefore the recessives can be expressed. Genetic theory tells what this fraction is for any degree of relationship. Using this, we can estimate from the increased death rate in children from consanguineous marriages how much lethality is carried in the form of hidden recessive genes. Morton, Muller, and I (4) have examined death rate data from consanguineous marriages and have concluded
+
+dominance might be expected to remain reasonably constant in a changing environment, since it is determined by the ratio of the heterozygous to the homozygous damage. Although the two quantities may both be expected to change, their ratio should be fairly constant. Remember that the mutant genes now in the population may have been carried for dozens, or even hundreds of generations. An undesirable feature is that we must go to Drosophila for data and even here the data are not very reliable.
+
+that the average person carries the equiva- Our best estimate of z from Drosophila
+
+lent of about four genes that, if made data is about .02, though this may easily
+
+205
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+be off by a factor o£ 2. Multiplying this by 4, the number of lethal equivalents in the population, we get .08 as the number of new mutations per individual. In a population of 100 million this would amount to 8 million mutant genes of the class leading to an increased probability of death between birth and sexual maturity.
+These two entirely independent procedures have led to results that are reasonably concordant and therefore reinforce each other. The first method led to an estimate of 30 million, the second to 8 million mutants in a population of 100 million. It is to be expected that the first should be larger, since it is based on Drosophila data that include lethals causing death in the egg and early larva stages and which probably correspond to early embryonic lethals in man. Embryonic deaths are not included in the second estimate which is based on human neo- and post-natal death rates. Of course the post-natal and late foetal deaths are of much greater consequence from the standpoint of human welfare.
+The human deaths from which the second estimate was made were hardly ever due to obvious genetic anomalies. They had the usual causes, and included a number from tuberculosis and other infectious diseases.
+Some General Principles of Radiation Mutagenesis
+In every organism where an adequate test has been made radiation has been shown to induce mutations. Other articles in this series will discuss mutations from the standpoint of their chromosomal basis and the effects on the individual. Here I shall summarize only those well established principles needed for this discussion.
+1. Radiation induces mutations. 2. Radiation-induced mutations increase almost exactly in proportion to the radiation dose. To a large extent this is independent of the kind of radiation and wave length. Radiation is conventionally measured in units of the Roentgen, or r.
+
+(In animal tissue this amounts to about two ionizations per cubic micron; a micron is 1/25,000 inch). At the low doses likely to be encountered in man, "point" mutations would be expected to predominate over gross chromosomal abnormalities.
+3. Although the overwhelming majority of detectable radiation-induced mutations are harmful, most mutations do not result in conspicuous abnormalities. Careful tests in Drosophila have shown that much the most frequent class of mutation is one that causes a slight impairment in the survival rate. The mutant has somehow rendered the fly more prone to early death. It is also likely that fertility impairing mutants are frequent, but these have not been extensively studied.
+These principles, which apply to all experimental animals that have been adequately studied, must surely hold for man as well. There is no reason whatever to think that man is unique in this respect. Furthermore, as will be detailed in the next section, there is some supporting evidence for at least the first principle from direct human studies.
+Radiation Studies in Man Animals studies show that radiation-
+induced mutations cause the same kinds of abnormalities as spontaneous mutations, so it is not possible to identify an individual abnormality as being radiationinduced. Furthermore, in almost every case a mutational effect can be simulated by an abnormality of non-genetic origin. The situation must surely be the same in man, and the consequence is that radiation damage is manifest simply as an increase in the types of abnormality, disease, and death that are already occurring. This means that genetic effects of radiation can only be detected statistically, with carefully collected data comparing morbidity and mortality rates in otherwise comparable irradiated and control groups.
+There have been three such studies. One source of data is the children o£ Hiroshima and Nagasaki survivors. A sec-
+
+206 Eugenics Quarterly
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+ond is the children of medical radiologists by the usual statistical criteria, but one
+
+who may be exposed to stray radiation in cannot exclude the possibility that the
+
+their work. The third opportunity lies in differences were due to hidden biases of
+
+the study of children whose parents have the type likely to be found in any question-
+
+had heavy X-ray or radium treatments. naire study. So this must be regarded as
+
+The Hiroshima and Nagasaki studies suggestive, but not completely conclusive.
+
+have now been completed and a final re- (As an example of a possible type of
+
+port is expected soon (for an earlier re- bias, consider this: The control group re-
+
+port, see 5). Despite the fact that over sponded to the questionnaire less frequently
+
+80,000 pregnancies were followed, the data than the exposed group--54 per cent vs.
+
+are inconclusive. The most recent analysis 74 per cent--, while in both groups those
+
+shows no statistically significant evidence respondents who answered only after a
+
+of a genetic effect, as might be shown by second follow-up questionnaire had a
+
+increased stillbirths and abnormalities or higher rate of abnormality. This suggests
+
+changes in the sex ratio.
+
+that where abnormalities exist the parents
+
+It should be emphasized that genetic are more reluctant to answer the question-
+
+effects induced by the bombs would be naire, so part of the seeming radiation
+
+spread over many generations and would effect may lie in the failure of more in the
+
+be manifest in many ways, so that only a control group to answer the questionnaire.
+
+small fraction of the total effect would There are other interpretations, of course,
+
+occur in a single generation and be of such but this illustrates one possible difficulty
+
+a nature as to be detected in this study. in interpreting the results.)
+
+Another point to be made is that only a More recently Turpin (8) has reported
+
+small fraction of the births studied were shifts in the sex-ratio in children whose from heavily irradiated parents; most came parents had been exposed to heavy pelvic from areas away from the explosion centers. irradiation for therapeutic reasons. Reces-
+
+Therefore the inconclusive results are not sive sex-linked mutations would be ex-
+
+surprising. If mutations in man were oc- pected to affect males more than females, curring at the rates found in mice, the where they would be "covered" by their effects could probably not have been de- dominant alleles. Since the male gets his
+
+tected by this study. About the only con- X-chromosome from his mother, an effect
+
+clusion is the negative but hopeful one of sex-linked lethals would appear as a that human germ cells are not grossly more decrease in the proportion of sons from susceptible to radiation than those of mice. irradiated mothers. Dominant sex-linked
+
+There are two published studies on the lethals' would have a contrary effect, for
+
+families of radiologists (6,7). Both were males transmit an X-chromosome only to
+
+by questionnaire, and compared radiol- their daughters. If the effect of the Y-
+
+ogists with control groups, mainly pathol- chromosome is negligible compared with
+
+ogists, thought to be comparable in respects the X, the effect of dominant sex-linked
+
+other than radiation exposure. In my lethals would be manifest as a decreased
+
+study there was no significant difference proportion of daughters from irradiated
+
+between the miscarriage, stillbirth, or child- fathers. The data of Turpin, although the
+
+hood death rates in the two groups. The total numbers are small, show a statisti-
+
+larger study of Macht and Lawrence cally significant deviation in this direction,
+
+showed about 19.8 per cent of the children i.e., a larger proportion of male children
+
+of the radiologists to be stillborn or ab- when the father was irradiated than when
+
+normal, as compared with 17.3 per cent in the mother was exposed. The significant
+
+the control group (rates adjusted for parity data are for parents receiving 1000 r or
+
+differences). This difference is significant more (this is the skin dose; it is hard to
+
+207
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+judge the dose to the testes or ovaries). have .000,000,25 X 100,000,000 X 10 X 2,
+
+The Turpin data were also obtained by or 500 new mutations at a typical gene
+
+questionnaire and the response was low. locus. (The final factor of 2 comes from
+
+However, one might expect that non- the fact that we are assuming that both
+
+response bias would be minimal for an parents are irradiated, whereas the actual
+
+objective criterion like sex-ratio. In any data are based on only one irradiated
+
+event, the data of Macht and Lawrence parent.)
+
+and of Turpin both point toward a genetic 2. In irradiated Drosophila, as men-
+
+effect and, I believe, collectively offer direct tioned earlier, the total number of detect-
+
+evidence of an effect in man.
+
+able detrimental mutations is about 10,000
+
+How Much Does Radiation Increase
+
+times the number of mutations at a typical
+
+Human Mutation Rates?
+
+single locus. There are no corresponding
+
+The evidence given in the last section data for mice. Using mouse data where
+
+makes it almost certain that human muta- possible, and Drosophila data otherwise
+
+tion rates are increased by radiation. On we may say that a population of 100 million
+
+the other hand, the quantitative informa- "organisms" exposed to 10 r would have
+
+tion is much weaker. Although we are 5 million new lethal or detrimental muta-
+
+quite certain that radiation increases the tions. The "organisms" are hypothetical
+
+mutation rate in direct proportion to the beasts with the single locus mutation rates
+
+dose, we are in great doubt as to how much of mice, but with the ratio of overall to
+
+increase a certain dose will cause.
+
+single locus rate and the death pattern
+
+The uncertainty has two main causes: characteristic of Drosophila.
+
+(1) The data from man are not good The troublesome question, of course, is:
+
+enough to permit any meaningful quanti- to what extent are these figures applicable
+
+tative statements; neither the measures of to man? And, of course, there is no exact
+
+dosage nor those of effect are accurate answer. In other branches of biology
+
+enough. (2) Data from different experi- quantitative extrapolation from experi-
+
+mental animals do not agree. For example, mental animals to man has often been
+
+typical individual genes in mice mutate reliable, but occasionally grossly mislead-
+
+some 15-20 times as often as those in ing. We can get only the crudest verifica-
+
+Drosophila with the same radiation dose. tion from human data, but we can note
+
+We have little choice but to adopt provi- that if radiation-induced mutation rates
+
+sionally the data from the organism nearest in man were grossly higher than these
+
+man. estimates the effects should have been de-
+
+Our nearest relative among those ani- tectable in Japanese data. See (1) for a
+
+mals for which reliable mutation data discussion.
+
+exist is the house mouse. Russell's large Another question, more meaningful to
+
+scale study of seven different genes in mice some, is to ask how much radiation would
+
+gave an average of about 25 mutations per be required to produce a number of muta-
+
+100 million genes per r.
+
+tions equal to those that occur spontane-
+
+The National Academy of Sciences Ge- ously. This is called the rate-doubling dose
+
+netics Committee (2) recommended 10 r and may be estimated from the figures
+
+as a maximum dose for the human popu- given.
+
+lation. So I shall use as a convenient refer- In an earlier section the average spon-
+
+ence base a population of 100 million ex- taneous rate for individual mutants in man
+
+posed to 10 r. Using this base, we can make was taken as 15 per million genes. The
+
+two kinds of statements.
+
+corresponding estimate for radiation-in-
+
+1. A population of 100 million mice duced mutations in mice is 25 per 100
+
+whose parents were exposed to 10 r would million genes per r. Dividing, we get 60 r,
+
+208 Eugenics Quarterly
+
+Downloaded by [University of Michigan] at 06:37 07 December 2015
+
+as the dose that would cause a number of mutations equal to those that occur spontaneously. This, as all other figures given, is subject to considerable uncertainty.
+We can at least place lower limits to this uncertainty. If all spontaneous mutations were due to natural radiation, the doubling dose would be simply an amount of radiation equal to that normally received. In 30 years, the average period from birth to reproduction, the amount of natural radiation received is between 4 and 5 r. Thus we can take about 5 r as the lower limit of the doubling dose. There is no comparably precise way of setting an upper limit, but this is not so important for if the doubling dose is very high radiation is much less of a potential hazard.
+Both the British and American committees independently, and perhaps fortuitously, chose the interval 30-80 r as the range within which the doubling dose might reasonably be expected to lie.
+Note on Chemical Mutagenesis In experimental organisms, especially
+microorganisms, a number of chemicals are known to be mutagenic. Thus far there are numerous inconsistencies among different organisms; for example, substances mutagenic in bacteria have not been shown to be so in Drosophila, though the difference may be due to technical difficulties. Furthermore, there is no information for mammals. This means that one can only guess about the probability that some chemicals in common use may alter the mutation rate. But I want to call attention to the possibility that radiation may not be the only mutational hazard in man.
+Summary and Conclusions This article is a review of some of the
+ways of estimating mutation rates in man. Using what human data are available, supplementing this with mouse information when human data cannot be used, and relying on Drosophila when neither mice nor humans provide information, the following estimates are arrived at. They are for
+
+new spontaneous mutations in a population of 100 million.
+1. About 3000 mutations at an average locus. There are reasons for believing that this is an overestimate.
+2. About 8 million mutants of the class causing increased probability of death between birth and adulthood, including stillbirths.
+3. Perhaps 30 million causing increased probability of death from the time of conception.
+Numbers 2 and 3 are based partly on Drosophila data and require several unverifiable assumptions. However, the two estimates are entirely independent.
+The following are estimates for radiation-induced mutations in a population of 100 million whose parents were exposed to 10 r. These are based entirely on mouse and Drosophila information since there are no quantitatively reliable human data.
+1. About 500 mutations at a typical locus.
+2. About 5 million new mutations increasing the probability of death from the time of conception.
+REFERENCES
+1. The Hazards to Man of Nuclear and Allied Radiations. British Medical Research Council. Her Majesty's Stationery Office. London. 1956.
+2. The Biological Effects of Atomic Radiation. National Academy of Sciences--National Research Council, Washington. 1956.
+3. MULLER, H. J. 1955. How radiation changes the genetic constitution. Bull. Atomic Scientists 1 1 : 329-338, 352.
+4. MORTON, N. E., CROW, J. F., and MULLER, H. J.
+1956. An estimate of the mutational damage from data on consanguineous marriages. Proc. Natl. Acad. Sciences (in press). 5. NEEL, J. V., et al. The effect of exposure to the atomic bombs on pregnancy termination in Hiroshima and Nagasaki. Science 118: 537-540.
+G. MACHT, S. H., and LAWRENCE, P. S. 1955. Na-
+tional survey of congenital malformations resulting from exposure to roentgen radiation. Am. J. Roent. Rad. Ther. 7 3 : 442-466. 7. CROW, J. F. 1955. A comparison of fetal and infant death rates in the progeny of radiologists and pathologists. Am. J. Roent. Rad. Ther. 73: 467-471. 8. TURPIN, R. 1956. Studies on the offspring of parents treated by pelvic radiotherapy. Abst. Int. Gentics Symp., Japan. Pp. 97-98.
+
+

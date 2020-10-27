@@ -1,0 +1,2658 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Seasonality of births in human populations
+David A. Lam & Jeffrey A. Miron
+To cite this article: David A. Lam & Jeffrey A. Miron (1991) Seasonality of births in human populations, Social Biology, 38:1-2, 51-78, DOI: 10.1080/19485565.1991.9988772 To link to this article: http://dx.doi.org/10.1080/19485565.1991.9988772
+Published online: 23 Aug 2010. Submit your article to this journal Article views: 38 View related articles Citing articles: 12 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:43
+
+Seasonality of Births in Human Populations
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+David A. Lam and Jeffrey A. Miron
+Department of Economics, University of Michigan, Ann Arbor, Michigan; and Department of Economics, Boston University, Boston, Massachusetts
+
+ABSTRACT: Seasonal fluctuations in births have been observed in virtually all human populations. In this paper we re-examine the seasonality of births with two main objectives in mind. The first is to provide an overview of the basic facts about the seasonality of births, presenting new estimates of the seasonal patterns. Seasonality is an important if not dominant source of nontrend variation in births in virtually all populations, but there are dramatic and puzzling differences across countries and time periods in the pattern of seasonal variation observed in particular populations. The second purpose of the paper is to survey the leading hypotheses about birth seasonality that have appeared in the literature and to discuss the consistency of these hypotheses with observed seasonal patterns. Using our estimates of seasonal patterns along with other evidence in the literature, we conclude that no single explanation receives strong, consistent support from the data.
+
+Seasonal fluctuations in births have methodologies and the frequent use of
+
+been observed in virtually all human small sample periods makes compari-
+
+populations, both contemporary and sons across populations difficult. We
+
+historical. These fluctuations have at- present new estimates of the seasonal
+
+tracted considerable attention from de- patterns in births in order to document
+
+mographers and other social scientists, the major regularities and unify existing
+
+and a variety of behavioral and biologi- estimates. We do not, however, provide
+
+cal mechanisms have been proposed to an exhaustive set of results (Lam and
+
+explain them (see, e.g., Cowgill, 1965, Miron, 1987). Instead, we illustrate the
+
+1966; Rosenberg, 1966; Parkes, 1968, basic stylized facts about the seasonality
+
+1976; Kevan, 1979; Dyson and Crook, of births.
+
+1981; and Roenneberg and Aschoff, The empirical section of the paper
+
+1989a). Despite a long history of re- produces two broad conclusions. First,
+
+search on the subject, however, there is seasonality is an important if not domi-
+
+no generally accepted explanation for nant source of nontrend variation in
+
+the seasonality of births.
+
+births in virtually all populations. Sec-
+
+In this paper we re-examine the sea- ond, even though there is pronounced
+
+sonality of births in human populations, seasonal variation in almost all popula-
+
+with two main objectives in mind. The tions, there are dramatic and puzzling
+
+firstis to provide an overview of the ba- differences across countries and time
+
+sic facts about the seasonality of births, periods in the pattern of seasonal varia-
+
+presenting new estimates of the seasonal tions observed in particular popula-
+
+patterns. Existing literature provides es- tions. While it is true that certain pat-
+
+timates of birth seasonality for many terns appear in many countries and
+
+countries and time periods, but differing persist over periods as long as centuries,
+
+51
+
+52
+
+Lam and Mirón
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+there is no simple rule determining which seasonal pattern in births a particular population exhibits.
+The second purpose of thepaper isto survey the leading hypotheses about birth seasonality that have appeared in the literature and to discuss the consistency of these hypotheses with observed seasonal patterns. Using our estimates of seasonal patterns along with other evidence in the literature, we conclude that no single explanation receives strong, consistent support from the data. Instead, the variation in seasonal patterns across countries and time periods poses a challenge to virtually allexisting explanations, without decisively rejecting any of them. The seasonality of births remains a major unresolved puzzle in empirical demography, apuzzle that raises provocative questions for both biological and behavioral research on fertility.
+
+MATERIALS AND METHODS
+
+ESTIMATING AND COMPARING SEASONAL PATTERNS
+
+In order to quantify the relative importance of seasonal fluctuations and to consistently compare seasonal patterns across populations, we use a methodology based on the seasonal dummy definition of seasonality. This is a simple and easily interpreted definition, and our results canbe readily compared with the estimates provided in much previous research. Alternative specifications of seasonality, such as seasonal ARIMA or spectral models, do not produce estimates of the timing and magnitude of the seasonal peaks and troughs in births. These patterns are the principal focus of our study.
+We assume that the data on births are described by the following model:
+
+B, = S,T,X,
+
+(1)
+
+12
+S, = exp ( 2 Mí j (2)
+
+Tt = exp (yt + Si2 + Qt3 + tyt4) (3)
+where B, is the number of births perday in month t, St is the seasonal component of B,, T,is the trend component of B,, X, is the nonseasonal, nontrend component of B¡, d\ is a seasonal dummy for month s, and as is the seasonal factor in B, for months.
+Equations (l)-(3) imply
+
+12
+In B, =
+s=1
+
+St + V + Si2 + 6i3 + <t>i4 + In Xt. (4)
+
+It follows from (4) that if as is the coefficient on the sth seasonal dummy, then Bt is on average as per cent higher inseason s than it is on average during the year as a whole.
+To obtain estimates of the as, we proceed in two steps. We first estimate the equation
+In B, = a + 7f + 8i2 + 0i3 + 4>t4 + bt (5)
+
+by Ordinary Least Squares (OLS). The residual from this equation, bt, is a zero mean, detrended series for the log of births. We then estimate the equation
+
+12
+b, =
+s=1
+
++
+
+(6)
+
+OLS estimates of the as are consistent; we use these as our estimates of theseasonal pattern in births.
+In addition to presenting estimates of the seasonal patterns, we summarize these patterns in a number of ways. We present the R2 from the OLS estimation of (6)as an estimate of thepercentage of the nontrend variation in births due to seasonality, and we report the ampli-
+
+Vol. 38, No. 1-2
+
+Seasonality ofBirths
+
+53
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+tude (maximum minus minimum) of the twelve seasonal coefficients as a measure of the importance of the seasonal fluctuations.Finally, we test the statistical significance of the seasonal patterns that we estimate. Since the error term in (6) is not necessarily serially uncorrelated, we employ the Newey and West (1987) formulas for the standard errors of the coefficient estimates. Our specification allows for a lag length of 12 months in the autocorrelation matrix, and it insures positive definiteness of the variance-covariance matrix by using the damp factor suggested in Newey and West (1987).
+
+twenty years long, and all are over ten years long. There are many potential sources of bias in monthly data on births, so it is possible that the data reflect something other than true seasonal fluctuations in births. Takahashi (1964), for example, notes a serious reporting bias for Japan, and Anderson and Silver (1988) provide a detailed analysis of the effects of the Soviet birth registration system on seasonality in Soviet birth series. We believe the data used here are of high quality, but the potential for systematic reporting biases must always be kept in mind in analysis of monthly vital statistics data.
+
+RESULTS
+
+Is BIRTH SEASONALITY QUANTITATIVELY IMPORTANT?
+
+THE STYLIZED FACTS ABOUT THE SEASONALITY OFBIRTHS
+
+Seasonality in births would merit only casual attention if the seasonal fluc-
+
+In this section we document the tuations were small in magnitude or if
+quantitative importance of seasonal the patterns were highly unstable over
+fluctuations and present new estimates time. As will be seen below, however,
+of the seasonal patterns in births for a seasonal fluctuations are quantitatively
+sample of countries and time periods. large when compared to other temporal
+Our goal is to illustrate the key stylized variations in fertility, and the patterns
+facts about birth seasonality rather than themselves are strongly persistent.
+to provide an exhaustive set of esti- The most convincing evidence on mates. A more extensive set of empiri- both of these points can be found in cal results can be found in Lam and graphs of the time series of monthly Miron (1987), which presents the sea- births. In Figures 1and 2 we present the sonal patterns in over twenty-five coun- monthly data on births (adjusted for the tries, in many cases for long sample peri- number of days in the month) for two ods. Here we present only those populations with relatively large seapatterns that are necessary to make the sonal fluctuations. Figure 1 shows the points that we discuss in the next sec- monthly birth series for Georgia for the tion. period 1948-86, while Figure 2 shows
+We limit the presentation to pub- the series for Sweden for the period lished vital statistics data, with the ex- 1921-87. Inspection of the figures demception of the Wrigley-Schofield (1981) onstrates first of all that seasonal flucparish reconstitution series for England, tuations are large in magnitude relative included because of the exceptionally to longer term secular movements in ferlong time period it covers. We also re- tility. For example, the typical May to strict our analysis to data series long September change in births in Georgia is enough to establish meaningful seasonal at least as great as the difference bepatterns. Our typical series is at least tween the average birth rate in the mid-
+
+54
+6.0 -- 5.6 -- 5.2 -- 4.8 -- M .H --
+
+Lam and Miron
+
+Social Biology
+
+3 .2
+xlO-
+
+| ''' |
+
+1942 19H6 1950 19SH 1958 1962 1SB6 1970 197H 1978 1982 1986
+
+FIG. 1.--Births by month, Georgia, white.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+xlO3
+
+1921 1927 1933 1939 19H5 1951 19S7 1963 1969 1975 1981 1987
+
+FIG. 2.--Births by month, Sweden.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 38, No. 1-2
+
+Seasonally of Births
+
+55
+
+55 74 41 47 76 49 94 53 98
+
+53 47 28
+
+TI-
+SrH
+
+cionPi ON
+
+o
+
+co co CO
+
+inVO CM
+
+ON T-H
+
+r - Tf ?!m ON vo vá CM !-H
+
+«sCS COn CM CM O o o1-4 o o
+7 71 1 1
+
+O O ro ro ro co o Oro CM CM CM 1 1 1 1 11 1 1
+
+O CM t-H
+11
+
+CM
+1
+
+oT-H
+vO
+coT-H O
+
+$33 s SCO ro
+1
+
+1o
+
+mro
+
+T-H CO
+
+oT-H O T-H 11
+
+CS
+
+CO
+1
+
+vo 00 0O ON0vO0
+t-H CM CM CM CM
+1 11
+
+TÎS
+
+00 in
+
+T-H T-H
+
+1 11
+
+T-H
+1
+
+CM
+1
+
+vo 1
+
+Tf
+1
+
+1
+
+S o CM T-H o T-H
+111111
+
+s p*-< ggP 3 S 2S3 s S 5co
+
+ON m v0o0 CO ro O
+1
+
+oT-H T-H
+CM O
+
+rooo irn-
+
+o1 o o o oo o o oCM T-H
+
+coT-H Tf T-H
+
+CM
+
+T-H
+
+CM m
+
+VO O
+
+o co
+
+11
+
+1
+
+Tf CO
+t - H T-H t -- « T-H
+
+vo vO T-H r o
+T-H
+11
+
+SS S CM-PSÉ; , 30VO0
+
+T-H
+00
+
+ro
+CM
+
+Tf
+
+ot-H
+ON ON 0 0 OO
+
+vo T í
+
+0
+
+ONi n
+0 0 T-H
+
+co
+
+00
+VO
+
+7ON O N 00 inm r- vo voVO 00 ON 00 00 Tf Tf VO Tf m i n i n Tf r-
+
+ro VO CM ES
+00 00 m
+
+S ss s SVO
+
+§g
+
+oo
+Tf
+
+r-* inT f
+
+vo rcoo
+
+f£ CM VO Tf
+
+m
+
+in in
+
+co ON O T-H
+T-H r -- ON
+
+ST?
+
+CO Tf
+
+oro ço
+
+CM t-H
+invo
+
+ro
+
+vo
+
+in
+
+oino
+
+00 vo 00 OCM CM co in in ro TÍ co in 1-H in <n m in vo vo
+
+"·
+
+s 5? mT-H CM ro 0 0 T-H 0 0
+
+t'l
+
+coSS SS sON
+
+00 VOON O t - i n ON T--*
+
+rin
+
+CM VO
+
+ro
+VO
+
+cO No
+
+T-H ccoo
+
+Tf 0 0 CM 00
+co ON CM
+
+CM CM Tf m CM CM CO CM n CO CO CO m in ro co T f i n vo co Tf CM VO co co co CM CO co T T
+
+91 78 01
+83 31 27
+53 43 51
+
+37 91 73
+
+47 70 22 74
+04 75 27
+55 21 01
+45 94 55 69
+-14 -13 61 43 03 58 06 -0
+
+41 -11 .74 .74
+76
+
+00 fv CO
+
+SS SS3 8irno
+
+tr-o-
+
+co
+
+O
+o
+
+O
+
+O
+o
+
+ST?
+o CM
+
+7 71 1 1
+
+11
+
+VO CM CO
+
+CM Tf i n
+
+mCO Tf CM Tf
+
+T-H
+
+11
+
+ON CM
+
+ri in
+
+o ot-H T-H
+
+o
+
+o ro O 00 eO
+
+CO CM
+in inCM O t-H CM T-H
+
+VO T-H
+i n T-H
+
+1 1 11
+
+s g 8 go
+ON
+77 7 7|
+
+O
+
+S CM CMv0o0 VO CM co 11
+
+CO
+co
+CM
+1
+
+Ï2
+
+CM
+Tf |
+
+co t
+
+r-
+1
+
+ON
+O N «n 11
+
+T-H T-H
+
+&
+
+o
+
+T-H co Tf Tf oo i n m
+
+T-H
+
+00 vO
+
+oco 1
+
+CM
+o
+
+oo r o CM i n
+m in T-H CM 1 11 1
+
+VO
+o T-H 11
+
+Tf
+1
+
+ro 1
+
+T-H
+Tf
+1
+
+co 1
+
+ro r11
+
+ON Tf
+t-. 1
+
+S a R sas So o oro
+
+CM VD
+
+oo
+
+T-H OO
+
+T-H
+
+00O
+
+VO CM CO CM Tf CO VO ON
+
+inT-H NC ON Ovo ·25
+
+t-H Tf
+
+rcoo OO
+
+m ÇM
+
+T-H CM
+
+ro ro Tf ro CO
+
+rî
+CM
+
+7 T1 1 1 1 1 1 1 1 1 1 11 1 1 1 1 11 1 1 1 1 11 1 1 1 1 1
+
+R S s S £ S s sSS3o O
+7 77 77 71
+
+§§ON T-H in o
+
+T-H
+00
+
+o m T-H CM
+
+111
+
+O vo
+
+o
+
+T-H CM
+
+SST?
+
+CM
+1
+
+CO COCN 1-H
+1 11
+
+vo 1
+
+Oo
+
+CM O T-H O
+11
+
+CM 0 0
+CO T-H
+mr i r i 1
+
+·n T-H
+00
+o o CM T-H 11 11
+
+go.
+
+7 S 777 7S S 7 So
+
+o 1
+
+SB
+
+idCM
+ON CO
+
+O CM CM co ro
+
+CM CO ON r o OO
+Tf t-H
+T-H eo O
+
+11
+
+11
+
+SSVO 0 0
+
+VO CO CM
+
+T-H
+
+CM
+T-H CM O O O
+
+Oin
+
+in
+CM
+
+t-H
+
+oo
+
+VO
+t-H
+
+ro ON
+t-H 00
+CM es T-H
+
+11 1
+
+1111I
+
+1
+
+.98 21
+.61 .21 .49 .89
+
+p?¡8 O
+
+ON
+co
+
+00 r oT-H co CM
+o 1 m VD
+
+CM
+i n CM
+
+oo
+
+co O
+oo ON r oTt Tj"
+T-H CM co co
+
+ON CM
+in
+
+OiNn vro-
+
+in TÍ
+Tf CM
+
+m m o ovo
+
+r--
+
+77 42
+
+7 77 71 1 1 1 1 1 1 1
+
+1 1 1 1 11 1
+
+S3m 00
+
+00 CM 00 00
+
+VO t-H CM
+1
+
+i
+
+CM CO
+
+ccoo
+
+TÍ CM
+
+co i n
+cs m
+
+1 11
+
+.42 .10 .45
+
+»S
+
+T-H
+VO
+
+g CM O
+
+S? SSoS
+
+VO 0 0
+in co
+
+crio mco
+
+ON
+00
+
+T?
+
+T-H
+in
+
+T?
+
+;^
+
+^^ ^
+
+^^^
+
+^q
+
+^
+
+oöööoöoööoöööoööoöööööoööööööoöö
+
+)00 (
+
+ï VO >00
+
+»o
+O
+
+N 0 0)I0
+
+vo
+00 I
+ON
+
+oo vo vo
+vO 0 0 0 0 I!» 0 0 ON CO
+
+c
+
+v
+
+C)·
+
+ON
+VO
+
+O vO VO OO D 0 0 0 0 VO (lit) 0" 0" O00 0 't
+
+vO 00
+ON
+
+7\ ON ON ON O N C^ ON ON ON ON Ch
+
+00
+cK oô
+
+vO OO v o v o v o
+t I0 0 VO 0 0 OO 0 0 · ._ - ..
+OOONOONQONQON Tj-vOvO)VVpOvvOVOVOVO
+\ ON <
+
+W cd CC
+s .s s s...
+Ç C n C Ç cd ci 'd 03
+
+r .W ·!-> ^ 'M M
+
+=3 '=2 C C OO
+»r.r.(
+
+Lam and Mirón
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+iooroNnoionrioOriKdhOtD^noooionori
+
+iii
+
+111117111111177777171111111111^1111
+
+III
+NOooNOt^fOfOuiooN^Qn^rHor^^^ONOOvNtrONvooovotNNOri^oOrHTí-nnin °°. "**. t^'-J'^OOÏ^'^'OOO^CMvOOCMONi--ivOt^-OOCM H H n O t N l y . 0 0 O ' t 0>r>^DMtTl\OiH(NlNO
+i i i i i i7 i i i i i i i i i7 7 7 7 i i i i i i i i i i i i i i i
+
+^^·OO^n^OH^OûOiOCi^^^HlO^iO^ûtNvOOOh-lOHNOvNiOOOOHHr'ihOOO
+
+inininoor^-'-ic^'tcncMOT-Hcoi-tocMocMOOOi-íTroooO'-i'tioooOT-tocMoocMO
+
+! I lili
+
+tiltil
+
+II
+
+^"^c^r^t^ööoöcMNOw^cMt^cnincninvdcncvitnö^^
+
+I I I I I I I I I I I I I I II
+
+IIIIIIIIII
+
+till
+
+^r^ppc^vow^cMt^^^cor^^^^r^incMONNOco^vqin^t
+
+Tfcn^VOVOCMHTfCMÖ^CMcnOCMÖÖÖ^^ÖoNvOt^ON^CMÖwS^^
+
+I I I I I II till
+
+III
+
+I
+
+I
+
+CM ITMH f~^ co f*** oo^f OO CO voc^i ^ j Osj r^i ^ * s os o ONCMt""**r^ ON r^^ *"^i*"i *"^ »*" O t ^ - C M ' -- t C M v O v O v p o o r ^ - r j - i o
+
+HrvHootN^í'TOHONOOfOCM^v^o^oNovrDnri/o^r-H(OrJvoNinrc^NnCfnMioNr^N-'^n"ic--O<rr»H»'Vií"CûMOOONritnir/^ir-i^NHffiHiorOT^ioNCjiNtN
+
+II I
+
+^ II
+
+rOHtOooi^^cvMOvOO'^^tC^M^^i^\coMotO>c^MHin^^oin>to^coooooro^r\^^cvMD'^ûc^ßor^n^vToirnnovNiHCoMoininT\rocni/civ^Nori^o^^r^Tro-ic(nNi^Oin^v\öo
+
+n O o r**vO i n ^ i " ^T ^"VO O i-H o ) voONNO ONVO 00 ON OO ^" ^" »"^i n i n vO*nrO vO i n ^" r^" i n ^ vo^" ^" CO f )
+
+I I II
+
+- 1^
+
+-1
+
+^^ t**
+
+^H ON
+
+f**** T-H
+
+V\Oot"^^1
+
+i v ',3 ON t^"
+
+r ^
+
+HoOoo^TT"^*r^*lntO***N0^0H
+
+f^** i n oo *^ oo<-H I H
+
+cM'^ooNONvo^rn^voini^r^voincocnr^inininrnr^ocncocoONVot^'^^cMONONONrn^cMro
+
+I I| II
+
+^^^-.^»-H^H^H
+
+|
+
+I
+
+or^-cMooooinroooin'--«in« HOO^^^(NrHrJh-'-iPH\ovorH»ots''-'rHfvin^^ff)rs-^io\00\inr^ni>i>>o^is-<nTf
+
+ivo»rqHt>nrNHOttOi/iD\^ot^^hT^frrtsqioo>wroHoNNn^oi^oT^iH^Mon\O^OiHHnfHsvjoo>Mt^vrHoirN^^>oo>nv(oNN(N't>ornHoniooo
+
+rtoi^¡HiHo^rÍHHrÍTi:rHr^r<i^o'HT]:iN*¿ i'cSoööööoNin^rvoö'-HcnöcMcoöcM
+
+I IIII III
+
+^ II
+
+ON
+
+in ^^\oodn^(^TíV)<orvidN^;'*i|'iffiffiTtHHStSi-HTtroTÍ(NÍ^:
+
+III
+
+i" i i i i i i i i i i i i i i i
+
+III
+
+cMcôvSr^vOi--'OCMO i i i i i ii
+
+> in vo ( IcSoôvoes'cnTrT-TO
+
+00ÇO''O(7i0HHMNH vovoco
+ooöoooöoööooöooöoöööööööoöööööööööööööoö
+
+nj wKj o o f i r ^ NO t ^ e o NO c i v o e o v o f iNO C*I OO NO O O N- < ^- < *fw ^ ^^« · · *·. *~ ^ TM --*» »» --~ TM .»·^w ww I ± J I IIIIIII IIIII IIIIII I IIIIII IIIII III I
+ON ON O N ON ON O N O N ON ON O N ON O N O N ON ON O N ON ON 0 0 ON ON O N ON ^ ON ON ON ON O N ON O N ON ON ON <
+
+:¡.g
+ill
+es es esM TM « « «c c = c c c c c cc cccccc-·ao'- ad-- aa TTi3TTi3TTi3T-io--e2^-e--Ç2'-Çe--S M!3 MS «3SS'SS^'S^'"Sa
+r" r r r'S^S'S'S-S-S-S-S-S-S-S-S-S-S-S-S g § S g g § S Í Ü e Í | ¡ §J lI M
+
+Vol. 38,No. 1-2
+
+Seasonality of Births
+
+57
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+tcNinescnNDn^i/SooNONDNOtcntin^iiiiii^iieNOOfoo^ooôooN^Oft
+
+I I I I I I I I 1 ^ 1 I I I I I I l»l
+
+IIII IIIII ~ I ~ ~
+
+III
+
+II I I I I I I I I I I I I I I I I I I I
+
+Pi 8 S (S en Ses
+
+NO 00
+
+N0»0 ON 00 en 00 es
+
+es r-es en o
+
+00
+T1
+
+es
+
+oo1
+
+1
+
+Tt e>nn eessTNOt o
+I 1 1 11 1
+
+en en o l-H o 1 1 11 1 1
+
+NO CS
+11
+
+NO"
+
+o 00 Tf
+
+i--t
+oo
+
+NO
+
+io" einn
+
+o
+
+Tf 00 NO NO
+
+CN
+1
+
+Oo
+
+ol-H |
+
+o
+
+o
+
+o
+1
+
+o in 1
+
+en 00 O m emn r^ O i T-l
+
+«s 283 S Ses
+
+c-- esen
+
+en
+moo
+
+es i -- i
+
+in CN
+
+es
+NO CN
+
+CN
+
+1 11
+
+1
+
+s s S00 Tetn ienn
+
+et-s» eenn et-n-
+
+es l-H en oes csl-H Tf
+
+00 i-H T-H
+
+Tt
+
+oo m Tt i n
+
+in
+
+cs
+
+Tt
+
+1 1* * ·
+
+§8 gT?
+
+Tf 00 NO
+en ON
+
+a00 i n m 00 00 es
+1
+
+97 47 42
+
+-23 26
+
+94 47
+
+59 20
+
+-13 -10 -12 -17 -17 56
+
+-12 -21 -28 -30 -20
+
+.47 43 .29 45 .46 74 .71 .67 -2 .15 41 01 71 43
+54 .13 76 47 .36 45
+48 71 -10 -19 -27 -22 71
+
+.62 .74
+-10 -24 20 45 .21 71
+
+SI-
+
+NO
+P: S Pi gig S S06
+T t O CS
+T T' T esT T1
+
+o o o oON
+en
+
+NO
+en
+
+es
+
+oS N T ?
+
+oo es en i--i
+
+1-H
+
+o o1 11
+
+es l-H
+
+NO NO
+
+O
+
+NO
+
+es o es
+
+en
+
+00 00
+en oo esl-H
+
+Tf
+
+ON
+in 00 en T -- t
+
+ON
+CN 1-H T f
+
+ON
+S ONCS es O O
+
+1 1 11 11
+
+1
+
+es es
+
+m
+00
+
+in en '~t esen
+
+i--i 1
+
+S S S g 3iennrON-
+sso es
+
+inen en OeNnT t
+
+en
+ON
+O
+
+in Tt e soo
+
+Ttjq
+ON
+
+in oo
+
+O i-ies esm
+
+o
+o
+
+ï-~ ON es en es NO
+es ocs m
+
+T' 1
+
+1
+
+o
+
+o
+
+NeOs es
+1
+
+etn-i§
+Tt es
+
+NO O i-H en
+<n cs
+Y1
+
+ON
+NO1en eon o
+
+00 OO
+m oo in T f OO 0 0
+1
+
+ON ON
+CS
+
+00
+1
+
+oo ooO Tf
+
+en CS
+
+i--*
+o
+
+or ^ eens
+
+111
+
+41 -37 -17 43
+
+S p PiPj 1-H ON f~
+aO Tf 1-1
+
+i-l
+en
+
+CeSncS
+
+o1-H
+
+ON r-t
+
+in es es es es en oescN i -- i
+
+·*
+
+T T T1
+
+0 0 NO
+r~- t --
+cs o
+
+NO
+
+es
+i--i
+
+NO O
+
+en
+
+NO
+en
+
+T?
+
+1i-i 1 1
+
+es en ON
+
+en 1
+
+oo 1
+
+o
+
+r-
+
+pi F2i n
+
+m oo
+i - l NO
+
+eens
+
+Tf 1--1
+
+T'r»
+
+en 1
+
+oo m
+
+NO
+1
+
+CS o
+11
+
+cs
+
+o
+S ig 2 S$
+T s 'T TNO o
+
+es
+00
+
+0ON0 m
+
+Ci-Si t
+
+00 r -1-H
+f't-eni-Hri ---
+
+ON
+en
+O
+
+enoo 00 NO
+Tt
+
+co
+Tt Tt
+
+Tt
+
+es
+
+en 00
+
+Sj
+NO O
+
+0 0 NO
+eon eenn 1
+
+ON
+
+ON I -- I
+CS Tf
+ON T t en
+11
+
+O N T f ON
+
+CN oor-. 0 0
+
+NO O
+l
+
+eN"pes
+
+S Sen in T t NO NO en 1-H 1 11 1
+
+-24 -27 03
+
+74 98
+
+ON
+88 3PS S S $T S °T Ti n O
+
+S3· -- i NO T Í
+
+om Tt en Tt T- i n o i n in en en es
+
+"*i-H 1--t
+
+1 1 ·*
+
+I-H ON OO OO
+
+ON m
+
+o mes o T f t -
+
+11
+
+r-in 1-4 ON m CO
+
+47
+
+eesn
+
+Sii--n» imnToto
+in en en NO 1--* 111 1
+
+-24 42 47
+29
+
+g Sitnn
+
+NO ON
+
+eoos
+
+Pi P! YNO
+
+00 CS
+
+S Í S 00 o 00
+
+oo NO r - Tt 1-H es o
+
+es eono
+
+NO
+
+en
+
+es
+
+OTt eon
+Tto
+
+ienn
+
+1
+
+NO ON e n r- ^
+
+r^
+O
+
+en
+Tt
+
+eono"i --7ie
+
+NO t -
+11
+
+vn in i-i ON es mNO en cs o 1
+
+g o00 NO 00
+i-H ON i-H
+CS m en o en i -- ' l-H 1 11
+
+1
+
+g
+
+S S 8m NO ON g
+
+Pi S00 00
+Tt Tt
+
+en
+
+in
+ON
+
+sa8 S P3i-H 1--1 o! O ON
+
+icsn ecns& 85m oo men »n
+
+eens oo ines en oo
+
+en o
+
+·
+
+CS
+'
+
+O CN
+
+1
+
+es 1
+
+NO
+
+NeOs
+
+i
+
+n
+
+10
+
+l-H
+1
+
+Tm ON i -- l en es in cs 1
+
+··H en 1
+
+1
+
+en 1
+
+.91 74
+
+34 15 .55
+75
+
+S 8 ig PJeenn
+ss To oo
+
+T-l
+
+i
+
+CiSn eOn0i-0H
+
+o es i--I ! 11
+
+m
+
+es
+
+l-H 00
+en Tt O 1 |1
+
+l-H
+
+r^
+«t
+1
+
+oo mNO NO »n NO O NO ON
+
+,o-H
+
+NO i-H
+
+NO
+in
+
+00
+
+O 1
+
+eens
+
+eon
+
+en es
+
+CiSn0 0
+
+TH
+
+es
+
+o oNO l -- l es NO
+
+in
+
+in
+
+i-H
+Tf NO
+
+e*"~ni i n
+
+O
+
+oen
+
+1 11
+
+1
+
+Tt SiC
+
+s«a 3 S S Sines ON en 00
+i-HO N 00 Tt NO
+
+m oo
+
+00 NO
+
+ooooooooooooooooooooooooooooooooooooooo
+(*·· NO NO
+en enen "~lrTT i i 0 ? 0 ? 0 ? i M T T I I ^ ? * ? 0 ? ^ ? I T T 0 ? 1 ^ 0 ? 0 ? 0 ? 0 ? ^ ^ ^ ^ 1 ? 0 ? 0 ? 1 ? ^
+I 0O f^1 0 0 0 0 ON ON ON ON *-H I-H ONON ON ON 0 0 ON 0 0 0O ONON ON0 0 0O ON ON e n >n ON ON O F** ON^" O e n e n lenen^^Noin^inininNOTt^NOTti-HTtTtNöini--'^TtNOinNor^in^NONOinNONoiriin
+
+o
+
+.ts .5 >.
+
+3
+
+eobo
+
+C·
+
+ää ää ;; : ;; :: ii ;; ;; :: jj-g-g:-g : jj ii ll :: :: :: jj u: uâ j ' ' J·E-E'fi o 1TJSw33i-S\SaJ-iSaW3iSX2WIJS72t3jS---\aJSTJ\3J2ST^«33
+
+°
+
+··
+
+.·
+
+«y_j^«¿áZí^«2á c :*c.·
+
+c.>N*fSc*1 Ü:·^E:*^Ü:·^^.·Ü:'L'.o2s '.So
+
+'S
+o
+
+' 3 *u t v 4
+oo *"S
+
+*
+'3 *n3
+
+tri
+^
+
+** * f l irfr^f^
+"ÏÏ-^UA
+
+58
+
+Lam andMirón
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+1950's, the peak of the baby boom, and the mid-1970's, the trough of the baby bust. The figures also demonstrate that the seasonal patterns are highly persistent; the basic timing of peaks and troughs, as well as the approximate magnitudes of the fluctuations, remain essentially constant over long periods. The actual timing of the monthly patterns in the two populations is difficult to see in these figures but will be shown in detail below.
+Table 1 presents more extensive evidence on the quantitative significance of seasonal fluctuations. The table shows, for a large sample of populations, the i?2's from regressions of detrended log births on monthly dummies, as well as the peak-to-trough amplitudes in the seasonal patterns. The table also reports the twelve estimated monthly coefficientsfor later reference. As shown in the table, the R2's regularly exceed 50 per cent and are as high as 80 per cent even in recent periods in highly developed populations. The peak-to-trough amplitudes in births reported in Table 1 are almost always greater than 10 per cent and are as high as 30 per cent in a number of modern, urban populations. Tests of statistical significance (not reported in the tables) reject the null hypothesis of no seasonality at the 1 per cent level in all cases. Thus, according to any reasonable measure, seasonal fluctuations are a dominant source of variation in births.
+GEOGRAPHICAL VARIATION IN BIRTH
+SEASONALITY
+The summary statistics in Table 1 document the fact that seasonal fluctuations in births are quantitatively important. We turn now to an examination of the geographical variation in these seasonal patterns. The first characteristic we establish is that there is no simple
+
+rule determining the seasonal pattern that occurs in a particular country, despite the presence of significant seasonal fluctuations in every country.
+We begin by considering the patterns in white births in three states representing different geographic regions of the United States, shown in Panel A of Figure 3. All of the states exhibit a September peak and an April-May trough, a pattern well established in previous studies of U.S. birth seasonality (Cowgill, 1966; Rosenberg, 1966; Macfarlane, 1970; Lyster, 1971; Seiver, 1985). The figure demonstrates a persistent regional difference in birth seasonality in the United States. The April-May trough is noticeably more pronounced in Georgia than in California and New York, and the overall magnitude of birth seasonality is larger in Georgia. As documented in previous studies of U.S. birth seasonality, the Georgia pattern shown here is typical of the southern United States. The R2 statistics imply that seasonal fluctuations explain around 40 per cent of the nontrend variation in births in the states shown, with peak-to-trough amplitudes ranging from 10 per cent to 25 per cent.
+Panel B of Figure 3 shows the seasonal patterns in Canada and England. The Canada and England patterns are similar to the U.S. patterns in the presence of a September peak followed by a reduction in births in October through January. They differ from the U.S. pattern in the spring months, however, with no evidence of the spring trough that is so pronounced in the southern United States. England exhibits a noticeable March peak in births, with a peak-totrough amplitude of about 13per cent in the 1948-83 period.
+The pattern exhibited by England is similar to that of many continental European populations. Panels C and D of
+
+Vol. 38, No. 1-2
+
+Seasonality of Births
+
+A. United States. 1948-1986
+
+B. Canada and England
+
+59
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+1 2 3 · 5 « 7 S « 10 11 12
+O California · Georgia B New York
+C. Denmark and Sweden
+
+1 2 3 4 5 S 7 S B 10 11 12
+©Canada. 1948-76 * England, 1948-83
+D. Netherlands and West Germany
+
+1 2 3 4 5 8 7 8 9 10 11 12
+G Denmark, 1940-86 * Sweden, 1948-87
+
+1 2 3 4 5 8 7 S S 10 It »
+
+O Netherlande, 19S1 - 8 3
+
+* Wast Germany, 1948-67
+
+E. France and Luxembourg
+
+F. Italy and Spain
+
+1 23456789
+
+10 11 12
+
+G Franca. 1959 - 83
+
+· Luxembourg, 1948-82
+
+1 23458789
+
+10 11 12
+
+0 Italy. 1949-81 · Spain. 1949-82
+
+FIG. 3.--Patterns of birth seasonality, North America and Europe. Percentage deviations from trend in births by month of birth.
+
+60
+
+Lam and Mirón
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Figure 3 present patterns for the northern European populations of Denmark, Sweden, Netherlands, and West Germany for the post-World War II period. The "European pattern" consists of a global spring peak, a local September peak, and a significant trough during the late fall and early winter. In several of these countries, the change from peak to trough is as high as 30 per cent, with the seasonal dummies explaining as much as 80 per cent of the nontrend variation in births. The pattern seen here is markedly different from that in the United States, particularly the spring peak in Europe as opposed to the spring trough in the United States. The patterns do have the September peak in common, as well as some similarity with respect to the fall/winter.
+Panels E and F of Figure 3 show patterns for the central and southern European countries of Luxembourg, France, Spain, and Italy. These countries exhibit less dramatic seasonally than the northern European countries. A number of features of the "European pattern" persist, however, including the local September peak and the October through January trough.
+Figure 4 shows seasonal patterns for a number of populations outside of North America and Europe. Panels A and B show the seasonal pattern for five regions of India. Delhi and Punjab are the most northern of the Indian states included here, with Delhi at roughly the same latitude as Florida and Punjab at roughly the same latitude as Georgia. Maharashtra and West Bengal are further south, at roughly the same latitude as central Mexico. Kerala is in the far south, at latitudes corresponding to Central America. The raw birth series for Kerala and West Bengal show much less regular seasonal patterns than do the other three states, suggesting the
+
+possibility of significant measurement error. Since we do not have any specific reason to exclude these two series, however, we present the seasonal patterns but suggest that they be interpreted with caution. Kosambi and Raghavachari (1951) present evidence on birth seasonality in India during the pre-WWII period.
+The patterns for the three regions shown in Panel A--Delhi, Maharashtra, and Punjab--are strikingly similar to patterns for southern regions of the United States. Delhi, the region of India with the most extreme amplitude in seasonality, has an April-May trough and a September peak. As seen in Table 1, the peak-to-trough amplitude and the R2 for the regression for Delhi are much higher than those for other populations in Figures 3 and 4. The two other regions shown in Panel B, Kerala and West Bengal, display somewhat different seasonal patterns, although West Bengal does exhibit a local September peak, a feature frequently observed in the seasonal patterns presented here.
+Panel C shows the seasonal birth patterns for two regions of Japan, the Tokyo and Kagoshima prefectures. Tokyo is at a latitude close to that of Washington, D.C., while Kagoshima is at a latitude close to that of Georgia. Seasonal fluctuationsin Japan are closer in magnitude to those of the North American and European populations than to those in India, and they show some similarity to the North American pattern of a September peak followed by a November trough. Panel D of the figure shows the seasonal birth pattern for Israel. Israel's pattern is remarkably similar to that in the southern United States, exhibiting an April trough and September peak, with an amplitude of 15 per cent.
+
+Vol. 38, No. 1-2
+
+Seasonality of Births
+
+61
+
+A. India - Delhi, Mahar., Punjab
+
+B. India- Kerala, West Bengal
+25
+f15
+5 -B -15
+
+1234S67SS10
+
+1112
+
+G Delhi 59-69 · Mahar. 60-79 s Punjab 67-79
+
+-!tt 123456760
+
+1 0 11 12
+
+© Kerala, 1959-77
+
+«Went Bengal, 1959-79
+
+C. Japan - Kagoshirna, Tokyo
+
+D. Israel
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+1 23466780
+
+10 11 12
+
+OKagoshlma, 1969-83 * Tokyo, 1969-63
+
+E. Australia and New Zealand
+
+1 23466769
+
+10 11 12
+
+0Australia. 1963-85
+
+* New Zealand, 1960-82
+
+F. South Africa. 1953-77
+
+15
+
+10
+
+6 -5
+
+-·--~*
+
+"V-""
+
+-10
+
+-15
+
+20 1 2 3 4 5 6 7 S B 10 11 12
+e Black »White
+
+FIG. 4.--Birth seasonality outside of North America and Europe. Percentage deviations from trend in births by month of birth.
+
+62
+
+Lam andMirón
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+In Panels E and F of Figure 4 we show the seasonal birth patterns for the southern hemisphere countries of Australia, New Zealand, and South Africa. Although comparisons of seasonal patterns across hemispheres are appealing to test a number of hypotheses about birth seasonality, such comparisons are in practice inconclusive.
+The pattern shown for Australia, consisting of a global March peak, a local September peak, and a NovemberDecember trough, is surprisingly similar to the pattern for England in Figure 3. Earlier analyses of birth seasonality in Australia, however, identify a September global peak. Rosenberg (1966), for example, presents a seasonal pattern for South Australia for the period 1957-59 that is remarkably similar to the United States pattern in both timing and magnitude. Mathers and Harris (1983) analyze three-year periods from 1962 to 1979 and conclude that the Australian pattern shifts from a September peak to a March peak (see also Macfarlane and Spalding, 1960; Lyster, 1979; and Parker, 1978,1979). The change in pattern is primarily a change in relative magnitudes. The March and September local peaks shown in our estimates in Figure 3 appear in virtually all periods in Australia, with the September peak being more predominant in earlier periods.
+The pattern for New Zealand, also shown in Panel E of Figure 3, demonstrates a seasonal pattern similar in shape to that of Australia, but with the September peak significantly more pronounced. The New Zealand pattern, with the sharp September peak and April-May trough, displays the key features of the U.S. pattern.
+Panel F shows the seasonal birth pattern by racial group for South Africa.
+
+South African blacks in the period 1953-77 exhibit a pattern quite similar to the pattern in the southern United States, with a May trough and a September peak. The pattern for South African whites is smaller in amplitude and somewhat different in shape, although whites display a September local peak and December trough similar to the pattern for blacks. Cowgill (1965) and Crook and Dyson (1980) document a September peak for all races in South Africa using data for earlier periods, while Dyson and Crook (1981) suggest that the pattern for whites changes in more recent periods to a pattern with a March peak. Their comparisons across time are based on only three-year periods, however. These periods may be too short to establish systematic seasonal patterns.
+The stylized fact established by the geographical comparisons in Figures 3 and 4 is that there is no simple rule determining which population displays a particular seasonal pattern of births. The "U.S." pattern and the "European" pattern show up in many populations, but not according to any simple scheme. The September global or local peak does appear in numerous cases, across a wide variety of geographical and cultural settings. There is no evidence that seasonal patterns are consistent within hemisphere or simply reversed across northern and southern hemispheres.
+CHANGES OVER TIME IN BIRTH
+SEASONALITY
+A second important characteristic of the cross-population variation in seasonal patterns is the stability of these patterns over time. We begin by examining what is surely the longest time series of monthly births in existence, the 300-year series constructed by Wrigley
+
+Vol. 38,No. 1-2
+
+Seasonally ofBirths
+
+63
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+and Schofield (1981) for pre-industrial century, the most surprising feature of
+
+England. As mentioned above, this is these patterns is their relative stability
+
+the only data source we use that is not through time. Luxembourg shows some
+
+based directly on vital statistics, so a evidence of a decline in the amplitude of
+
+number of caveats are in order. The se- seasonalfluctuations,in the form of a re-
+
+ries used here is exactly as published in duction in the March peak in births.
+
+Wrigley and Schofield's Appendix Canada shows very little change in its
+
+A2.4, as constructed from parish recon- seasonal birth pattern from the 1926-38
+
+stitutions. The time between birth and period to the 1963-76 period. Luxem-
+
+baptism, and possible changes in this in- bourg and Finland show some evidence
+
+terval across seasons and across time, of changes in seasonal patterns, but also
+
+may confound the seasonal pattern, in show considerable stability in the over-
+
+addition to distorting the secular all amplitude and in particular features
+
+changes in this pattern (see Wrigley and such as the local September peak and
+
+Schofield, 1981, for a discussion of some the October-December trough. Most
+
+of these issues). We find it unlikely that surprising of all is the increase in
+
+the dramatic decrease in seasonality dis- seaonality in Sweden during the twenti-
+
+cussed below can be explained entirely eth century. While the basic shape of the
+
+by these data problems, but the pattern remains similar, the peak-to-
+
+Wrigley-Schofield monthly birth series trough amplitude increases from 17 per
+
+must be interpreted with caution.
+
+cent in the 1921-38 period to 31per cent
+
+Figure 5 shows the seasonal birth pat- in the 1969-87 period.
+
+terns for the Wrigley-Schofield series for Changes over time for the United
+
+three periods. The figures show a dra- States are illustrated in Figure 6. The
+
+matic decline in the amplitude of the figurecompares the seasonal pattern by
+
+seasonal patterns, with the peak-to- racial group for Georgia and New York
+
+trough difference of 48 per cent in the for two separate periods, 1948-68 and
+
+1539-1637 period dropping to 25 per 1969-86. (U.S. vital statistics are clas-
+
+cent in the 1737-1836 period. Knodel sified by white and nonwhite prior to
+
+and Wilson (1981) document a similar 1969, and for white and black beginning
+
+secular decline in birth seasonality over in 1969. The change in classification is
+
+a 150-year-period in eighteenth- and not especially critical in states such as
+
+nineteenth-century German villages. As Georgia and New York where blacks
+
+shown in Panel B of Figure 5, however, are by far the predominant component
+
+there is still substantial seasonality in of nonwhite births.) The most signi-
+
+births in England in the post-WWII pe- ficant change over time is a substantial
+
+riod. The timing of the seasonal pattern decline in the amplitude of birth season-
+
+after WWII is remarkably similar to that ality for whites in Georgia. Seasonality
+
+in earlier periods, with a late winter for blacks in the South, and for both
+
+peak and a summer trough.
+
+blacks and whites in the North, changes
+
+Figure 5 also plots the seasonal patterns in births for a series of periods in the twentieth century in Finland, Canada, Luxembourg, and Sweden. Given the dramatic economic and social changes in these countries during the
+
+very little in either timing or amplitude across the two periods. The decline in birth seasonality for whites in the U.S. South has been documented in previous research by Querec and Spratley (1978) and Seiver (1985).
+
+64
+
+Lam and Mirón
+
+Social Biology
+
+A. England, Wrigley-Schofield Series
+
+B. England, Vital StatisticsSeries
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+1 2348(78«
+
+10 11 12
+
+01539-1637 «1638-173« B 1737-1838
+
+C. Canada
+
+D. Luxembourg
+
+1 2346B789
+
+10 1 1 1 2
+
+01828-1938 »1943-1962 B 1963-1976
+
+E. Finland
+
+1 2 3 4 5 6 7 8 S 10 11 12 G1919-1938 «1948-1968 a 1969-1982
+F. Sweden
+
+1 2 3 4 5 0 7 8 S 10 11 12 01928-1938 «1948-1968 B1969-1986
+
+2 3 4 5 6 7 8 « 10 11 12 01921-1938 «1948-1968 H1969-1987
+
+FIG. 5.--Changes in birth seasonality over time. Percentage deviations from trend in births by month of birth.
+
+Vol. 38, No. 1-2
+
+Seasonality of Births
+
+. Georgia Non-white and White, 1948-68
+
+B. Georgia Black and White. 1969-86
+
+65
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+. New York Non-white and White, 1948-68
+
+D. New York Black and White, 1969-86
+
+1 23466760
+GNon-wtirlo * White
+
+10 11 12
+
+FIG. 6.--U.S. birth seasonality. Percentage deviations from trend in births by month of birth.
+
+These secular changes in seasonal patterns indicate that although seasonality may be less important now than during the pre-industrial period, it has not disappeared in any population and has actually increased in one. Further, the timing of the seasonal patterns has remained essentially unchanged even in those populations where there have been changes in overall amplitude.
+VARIATIONS IN BIRTH SEASONALITY
+ACROSS SUB-POPULATIONS
+Vital statistics for some countries make it possible to estimate seasonal
+
+patterns for subpopulations that are potentially relevant to interpreting the determinants of birth seasonality. Figure 6, analyzed above with respect to changes over time in seasonality in the United States, also demonstrates the existence of substantial differences in the magnitude of birth seasonality for U.S. whites and nonwhites. In Georgia there is a marked decrease in the magnitude of the spring trough over time for whites but no obvious change in the pattern for blacks. In New York, however, the difference in the magnitude of this trough is clearly present and of approximately
+
+66
+
+Lam and Mirón
+
+Social Biology
+
+A. United States, First and Second White Births, 1960-86
+
+B. United States. First and Second Non-White Births. 1960-86
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+1 23456780
+
+10 11 12
+
+O First Birth«
+
+· Second Birth«
+
+1 23466789
+
+10 11 12
+
+eFtrit Birth«
+
+· Second Birth«
+
+C. England, Illegitimate and Legitimate Births, 1948-83
+
+D. Finland. Illegitimate and Legitimate Births. 1926-38
+
+E. Sweden. Illegitimate and Legitimate Births, 1948-64
+
+3 4 6 6 7 8 9 10 11 12
+O BsgKlmata * Legitimate
+F. Sweden, Rural and Urban Births. 1948-64
+
+1 234S678B10
+G Illegitimate » Légitimais
+
+1112
+
+FIG. 7.--Intrapopulation variation in patterns ofbirth seasonality. Percentage deviations from trend in births bymonth of birth.
+
+Vol. 38,No. 1-2
+
+Seasonality ofBirths
+
+67
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+the same magnitude for both the early tude rises from 14 per cent in the 1921-
+
+and later sample periods. In Lam and 38 period to 26 per cent in the 1948-64
+
+Miron (1987), we demonstrate that period, while for rural births the corres-
+
+these results hold generally for states in ponding increase is from 18 per cent to
+
+the South and Northeast.
+
+24 per cent.
+
+Figure 7 presents seasonal patterns for a variety of additional subpopula-
+
+SUMMARY OF BASIC FACTS
+
+tions. Panels A and B contrast seasonal patterns for first births versus second births for whites and nonwhites in the United States. (Births by birth order are not available at the state level in published vital statistics data.) The seasonal patterns are quite similar for the two groups. There is some evidence of slightly more seasonality in first births for whites, but the difference is small and causes no change in the basic timing of peaks and troughs.
+Panels C, D, and E of Figure 7 contrast the seasonal patterns for legitimate and illegitimate births for England, Finland, and Sweden. For England the patterns are virtually identical in both timing and magnitude. For Finland the patterns are similar in the most pronounced features and have similar amplitudes. In Sweden the timing of peaks and troughs is the same for legitimate and illegitimate births, but illegitimate births exhibit a lower amplitude in seasonal fluctuations.
+Panel F of Figure 7 compares births in rural and urban Sweden during the post-WWII period. The striking feature of the rural-urban comparison for Sweden is the similarity in both the timing and amplitude of the seasonal fluctua-
+
+We can summarize the facts presented above as follows:
+1. Seasonality is a quantitatively important feature of the variation in births in populations covering a wide variety of geographical areas, historical periods, and cultural settings.
+2. The presence of a particular seasonal pattern is not governed simply by the hemisphere in which that country resides.
+3. There does not appear to be a consistent conclusion about whether the amount of seasonality increases or decreases over time. In some countries the amount decreases significantly; in many it remains stable; and in one (Sweden) it increases significantly.
+4. The differences in seasonal patterns across urban/rural populations are relatively small.
+5. The differences in the patterns of legitimate and illegitimate births are small, at least in Sweden, Finland, and England. Similarly, the differences by birth order, at least for the United States, are not quantitatively important.
+6. Other comparisons across subpopulation, such as those by race or income class, provide conflicting results.
+
+tions in the two regions. Results re-
+
+ported in Table 1but not included in the
+
+DISCUSSION
+
+graph indicate that the significant increase in the amplitude of Swedish birth EXPLANATIONS OF BIRTH SEASONALITY
+
+seasonality during the twentieth century, documented above in Figure 5, is similar in rural and urban areas. For urban births, the peak-to-trough ampli-
+
+We turn now to discussing the proposed explanations of birth seasonality found in the literature. A number of the existing explanations are based on ex-
+
+68
+
+Lam and Mirón
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+amination of data for one population, and many of these hypotheses appear reasonable when confronted with evidence from only a few countries. Since alternative explanations of birth seasonality have implications for the crosscountry or cross-time period variation in seasonal patterns, however, it is useful to confront these explanations with the variety of seasonal patterns presented above. We show below that these facts do not by themselves eliminate any interesting hypothesis. The results do, however, place significant limits on how important various explanations might be for an overall understanding of birth seasonality, and they suggest avenues that future research should follow in order to pursue these explanations further.
+Since the number of proposed explanations of birth seasonality in the existing literature is large and diverse, it is useful to have a simple framework within which to discuss proposed explanations. We organize our discussion of the literature around the possible exogenous determinants of birth seasonality, namely, the weather, the agricultural cycle, economic variables, holidays, and the marriage rate. It is of course possible that the seasonality in some of these variables is a response to the seasonality in births. For example, couples may choose to get married nine months before the month in which they would like to have a birth. While we recognize the possibility of such endogeneities, we regard them as sufficiently implausible that we do not discuss them further in this paper. We emphasize wherever possible the behavioral or biological mechanisms through which these variables may be operating. Lam and Miron (1987) present a simple, formal model of birth seasonality.
+
+WEATHER
+There are a number of possible mechanisms through which the seasonality of the weather might determine the seasonality of births. On the behavioral side, couples may desire births in spring months because this improves the health and survival probabilities of the child or fetus. Women may desire spring births because it is uncomfortable to be pregnant in the summer (Rodgers and Udry, 1988). In addition, couples may choose to engage in intercourse more often in certain seasons because of the weather. In the first two cases, it is the expected variation in the weather that is crucial, since couples' frequency of intercourse is determined before knowing the weather at the time of the birth. In the third case, the actual value of the weather in the month of intercourse might be important. On the biological side, seasonal fluctuations in temperature or other aspects of the weather may affect fecundity through a number of mechanisms that are outlined below.
+Previous literature on the seasonality of births provides some evidence supporting weather-based explanations. Indirect evidence is provided by comparisons of seasonal patterns across socioeconomic groups. Greater seasonality for lower-income classes could be interpreted as evidence supporting weather-induced seasonality, since high-income groups may control their environment more completely than lowincome groups. The most recent analysis of socioeconomic differentials in seasonality is by Kestenbaum (1987), who uses the 1980 U.S. census to identify the quarterly pattern in births in years immediately prior to the census, controlling for parental income. Consistent with a number of previous studies for
+
+Vol. 38, No. 1-2
+
+Seasonally of Births
+
+69
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+the U.S., Kestenbaum finds somewhat April-May trough in births is based on a
+
+greater seasonality among lower- regression of the time trend in the mag-
+
+income groups. Based on characteristics nitude of the May seasonal effect for
+
+of parents at the time of the 1980census, each state between 1960 and 1970 on the
+
+April-June births in 1977-79 were 6 per increase in air conditioning in the state
+
+cent below the annual average for those between the 1960 and 1970 censuses.
+
+with less than high-school education, Seiver's interesting results provide sup-
+
+but were only 3 per cent below the an- port for the hypothesis that summer
+
+nual average for those with college edu- heat reduces conceptions and thus parti-
+
+cation. Kestenbaum's results are subject ally explain the April-May trough in
+
+to the criticism that income and educa- births. Seiver's results do not explain the
+
+tion in his sample are highly correlated August-September peak in births, the
+
+with residence in northern versus south- other dominant feature of the U.S. sea-
+
+ern states. His results may therefore sonality pattern. Seiver (1989) tests the
+
+simply reflect the large north-south dif- role of weather more directly by esti-
+
+ferentials in seasonality, as seen in Fig- mating the effect of summer tempera-
+
+ure 3, rather than provide independent ture extremes on births nine months
+
+evidence of socioeconomic differentials. later. His results indicate that increases
+
+Earlier studies of socioeconomic differentials in birth seasonality are some-
+
+in summer temperatures have a direct negative effect on births.
+
+what inconclusive, being based on small In addition to Seiver's (1989) use of
+
+geographical areas and/or short time pe- monthly weather data for the United
+
+riods. Pasamanick et al. (1959,1960) re- States, the effects of the weather on fer-
+
+port more seasonality in low-income tility have been tested using direct
+
+groups than in high-income groups in weather variables by Lee (1981) and
+
+Baltimore, although reexamination by Richards (1983), although they do not
+
+Zelnik (1969) indicates no significant consider seasonality per se. Lee uses
+
+differences between income groups. A over three hundred years (1541-1871)
+
+replication of the Baltimore study by of monthly, seasonally adjusted data for
+
+Chaudhury (1972) supports thefinding England to determine the effects of tem-
+
+of greater seasonality among lower- perature and rainfall on births seven to
+
+income groups, and Warren and Tyler eleven months later. He finds that tem-
+
+(1979) find similar differences based on perature extremes reduce future fertility
+
+birth records for a county in Georgia. In rates, mainly through intrauterine mor-
+
+contrast to these findings of greater sea- tality effects. The estimates are statisti-
+
+sonality among low-income groups in cally significant, but quantitatively
+
+the United States, James (1971), com- small. Richards estimates the effect of
+
+paring birth seasonality across social temperature extremes on annual births
+
+classes in England, finds less seasonality for France for the period 1740-1909.
+
+among low-income groups. His results Her point estimates are consistent with
+
+are based on comparisons for only a sin- the hypothesis that temperature ex-
+
+gle year's vital statistics data, however. tremes reduce fertility nine months
+
+The role of weather in seasonality in the United States is examined indirectly by Seiver (1985). His test of the hypothesis that summer heat explains the
+
+later, but the estimates are never statistically significant. Chang et al. (1963), using data for Hong Kong, report a strong negative correlation between the
+
+70
+
+Lam andMirón
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+seasonal pattern in temperature and the seasonal pattern of conceptions. Their results are consistent with a weatherbased explanation of birth seasonality, but they fit other explanations as well. In particular, the seasonal pattern in marriages matches the seasonal pattern in conceptions quite well.
+Recent work by Becker et al. (1986) may suggest an important effect of the weather on birth seasonality in Matlab, Bangladesh. Their study finds that the large seasonal variation in fecundability can be only partially explained by the seasonal variation in the frequency of intercourse. In particular, there is a peak in frequency of intercourse in September, the period of lowest fecundability. Since September is the month with highest mean monthly temperature, an effect of temperature on spermatogenesis or the fetal loss rate appears likely. As emphasized by Becker et al. (1986), however, further investigation is required to determine the precise mechanisms through which temperature affects fecundability.
+The most thorough examination of the role of weather in producing the seasonality of births is that by Roenneberg and Aschoff (1989ft), who find that temperature and latitude (which they interpret as a proxy for photoperiod) explain much of the variation in seasonal patterns across countries. They note, however, that the effects of temperature and latitude are reversed across America and the rest of the world. Their work does not, therefore, explain the differences in seasonal patterns between the United States and Western Europe, which arguably constitute some of the most intriguing puzzles. The differences in seasonal patterns that they fail to explain coincide exactly with those left unexplained by Lam and Miron (1990). They find significant effects of summer
+
+heat extremes in reducing summer conceptions, but they do not explain the significant increases in summer conceptions that occur in much of Europe.
+The biomédical literature contains some evidence that weather affects the biological probability of conception, as well as some evidence of seasonality in this probability, which may reflect the weather. Levine et al. (1988) show that semen quality in a sample of 1,235 men deteriorates significantly from winter to summer in New Orleans, with the sizeof the deterioration greatest in those occupations most exposed to external temperature. Similarly, Levine et al. (1990) find that several measures of semen quality deteriorate from winter to summer in a sample of 131 men who work outdoors in San Antonio, Texas, although they find no correlation between the magnitude of the deterioration and the number of hours spent without airconditioning. Zorgniotti and Sealfon (1988) find significantly higher scrotal temperatures in subfertile than normospermic men. Studies of small numbers of subjects suggest monthly variations in male hormones related to sexual activity (Reinberg, 1974; Reinberg et al, 1978), without explaining the sources of the variations directly. Research based on a sample of males in Houston, Texas, indicates significant seasonal variation in sperm count, with peaks in February and March and a trough in September (Tjoaetal., 1982). This pattern of peaks and troughs in sperm count implies a peak in births in November and December and a trough in June, predictions that differ by one to two months from the seasonal pattern in births in Texas.
+Seasonal variations in menstrual cycles and menarche have also been documented (Sundararaj et al., 1978; Brundtland and Liestol, 1982), suggesting possible physiological explanations
+
+Vol. 38,No. 1-2
+
+Seasonally ofBirths
+
+71
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+of seasonality on the female side as well. Results for a sample of women in Minnesota show some shortening of menstrual cycles during spring and summer months (Sundararaj et al., 1978). Again no direct explanations of the seasonal variations in menstruation are provided, although Sundararaj et al. speculate that the effects might result from seasonal changes in physical activity or external temperature. The weather may also operate through effects on intrauterine mortality. Holmes (1968), Macfarlane (1970), and Tromp (1963), for example, discuss the possible relationship between temperature extremes, intrauterine mortality, and birth seasonality. The evidence is mixed on whether such an effect is empirically important (Slatis and DeCloux, 1967; Huntington, 1938; McDonald, 1971; Warren et al., 1980).
+Research on animal populations suggests that several factors, especially photoperiod, cause conceptions to be timed so that births are concentrated in the spring, when survival probabilities are highest (Karsch et al., 1984). Although the relationship between photoperiod and seasonal breeding in animals appears to be well established, there has been little research analyzing effects of photoperiod on human reproduction. Ehrenkranz (1983a, 1983Ö) argues that photoperiod variations may explain seasonal variation in conceptions among Eskimo populations, but his results are based on small samples and provide only indirect evidence at best of an effect of photoperiod on human reproduction. Roenneberg and Aschoff (1989&) argue for an important effect of photoperiod using latitude as a proxy. As mentioned above, their results are suggestive but do not explain some of the most striking puzzles in the data.
+
+The evidence in the existing literature is therefore inconclusive concerning the possible role of the weather. The evidence that we have provided above on cross-population comparisons presents a clear challenge to any weatherbased hypothesis. According to the simplest possible model of the relation between weather and either behavior or biology, countries in the northern hemisphere should display similar seasonal patterns, and these patterns should be six months reversed from the patterns displayed in the southern hemisphere. Yet, as we have documented above, there is little consistency to the patterns across countries or hemispheres. The simplest case of a single northern hemisphere pattern that is reversed by six months in the southern hemisphere clearly does not hold, even across countries that are culturally and economically quite similar. The significant differences between the United States and European patterns, and the striking similarity of the United States and New Zealand patterns, are a clear challenge to any explanation of birth seasonality based only on seasonal weather patterns.
+The difficulties involved in explaining the cross-population differences in birth seasonality by means of differences in weather seasonality are illustrated clearly in Figure 8. Panel A shows the seasonal pattern in births in Georgia, Minnesota, New York, and Sweden, while Panel B shows monthly average temperature for the same locations. Although the basic shape of the seasonal patterns in temperature are the same, the differences in birth seasonals are dramatic. It seems likely that no explanation based solely on weather effects can reconcile these data.
+
+72
+
+Lam and Mirón
+
+Social Biology
+
+A. Percentage Deviations from Trend in Birthf by Month of Birth
+
+B. Mean Temperature in Degrees Farenheit by Month
+
+©Gaorgta. 1948-86 S New Ybrk, 1 8 4 8 - 8 6
+
+w 11 U
+mMlmnota. 1948-66 á Swadan, 1048-87
+
+C. Percentage Deviations from Trend in Marriages by Month of Marriage
+
+eOaorgla, 1940-82 B Newtork. 1940-82
+
+10 n 12
+· Minnesota. 1940-82 & 8woden. 1948-83
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+O Georgia, 1863-84 E> Sweden, 1861-88
+
+-84
+
+FIG. 8.--Seasonally in births, temperature, andmarriages, Georgia, Minnesota, New York, and Sweden.
+
+The evidence presented above does tant when it reaches extreme values,
+
+not completely rule out the effects ofthe such as the summertime heat experi-
+
+weather. The argument that countries in enced bythe southern United States.If
+
+the same hemisphere should have simi- this is thecase, then theweather might
+
+lar seasonal patterns obviously relies on have quite different effects in Georgia
+
+the assumption that countries within the than inSweden, even though summeris
+
+same hemisphere have similar weather. the warmest season inboth locations.
+
+While Figure 8 shows that this assumption iscorrect regarding the basic timing
+
+AGRICULTURE
+
+of warm months and cold months, it The second variable that isoften pro-
+
+may notbe accurate with respect to the posed as an important determinant of
+
+dimensions of the weather that deter- the seasonal fluctuations inbirths is the
+
+mine birth outcomes. For example, it agricultural cycle. The harvest cycle may be that theweather is only impor- might operate on birth outcomes
+
+Vol. 38,No. 1-2
+
+Seasonality ofBirths
+
+73
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+through a number of mechanisms, and cultural cycle is obviously a key determi-
+
+there is some evidence in the literature nant of birth seasonality in some current
+
+to support each of these mechanisms. less-developed, highly agricultural soci-
+
+Nurge (1970) hypothesizes a relation- eties such as Matlab, Bangladesh (Be-
+
+ship between labor demand and the de- cker, 1981). The fact that the seasonal
+
+sired timing of births and finds corroborating evidence in data from a German peasant village. More recently, Levy (1986)findspatterns of birth seasonality in contemporary rural Egypt that are consistent with attempts to avoid births in the periods of peak labor demand. Mosher (1979) argues that seasonal variation in nutrition explains much of the seasonal variation in births in Taiwan during the 1926-76 period.
+
+pattern in pre-industrial England emerges consistently in northern European countries well into the twentieth century, however, suggests that the agricultural explanation is far from the entire story. More importantly, the increasing seasonality in Sweden, combined with the similarity of rural and urban patterns, makes it highly implausible that this is the main effect in modern populations.
+
+The agricultural cycle may affect the frequency of intercourse by raising its
+
+ECONOMIC VARIABLES
+
+opportunity cost in periods of peak la- In addition to the possible role of the
+
+bor demand, including as an extreme agricultural cycle, a number of other ec-
+
+case spousal separation due to seasonal onomic variables may be important de-
+
+labor migration (Chen et a l , 1974; van terminants of the seasonality of births. If
+
+de Walle, 1975; Menken, 1979; Massey labor force opportunities for women are
+
+and Mullan, 1984). Spencer et al. (1976) seasonal, they may attempt to time
+
+and Spencer and Hum (1977) argue that pregnancies so that as little work time as
+
+decreases in workload during periods of possible is lost due to pregnancy and/or
+
+low agricultural labor demand lead to child care. Alternatively, seasonality
+
+increased conceptions in several popula- in male labor force participation could
+
+tions. Knodel and Wilson (1981) report affect the amount of contact between
+
+evidence of a strong seasonal pattern in husbands and wives. There are large
+
+births in eighteenth- and nineteenth- seasonals in economic activity in most
+
+century German villages. The most pro- economies, and these patterns turn out
+
+nounced feature of the pattern is an to be very similar around the world
+
+early summer trough which the authors (Barsky and Miron, 1989; Beaulieu and
+
+argue is consistent with reduced concep- Miron, 1990fl,è).
+
+tions during the harvest period of Au- The results presented in Figure 5
+
+gust through November.
+
+above provide suggestive evidence on
+
+The agricultural cycle is a plausible the possible role of these other eco-
+
+hypothesis to explain birth seasonality, nomic variables in producing the sea-
+
+and it may well have played an impor- sonality of births. It seems unlikely that
+
+tant role in pre-industrial societies. In seasonal variations in economic varia-
+
+particular, the dramatic decline in the bles are the primary factor in determin-
+
+amplitude of seasonal birth fluctuations ing the seasonality of births because of
+
+in pre-industrial England probably the marked absence of dramatic
+
+reflects the declining importance of the changes in the timing of seasonality over
+
+agricultural sector. In addition, the agri- long periods. For the five long time se-
+
+74
+
+Lam andMirón
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ries we consider (England, Finland, Sweden, Canada, and Luxembourg), we have data covering a transition from an almost entirely agricultural economy to a significantly industrial one. There is no reason to believe that the seasonality in agricultural and industrial activities is the same, so the stability in the timing of the patterns over time suggests an absence of strong economic effects.
+HOLIDAYS
+Increased leisure time due to holidays, and the availability of other activities that may compete with or complement sexual activity, could also lead to seasonal variations in conceptions and births. Of course, it may be difficult to distinguish the effects of seasonal patterns in holidays, economic activity, and the weather, since the seasonality in economic activity and holidays may be determined simultaneously, with both of these possibly influenced by seasonal weather patterns. Casual observation, however, suggests that the winter holidays associated with Christmas, the New Year, and possibly Hannukah are important determinants of leisure time in a substantial fraction of the world, so evidence that births or conceptions are concentrated in December would suggest one particular holiday effect. Such a "Christmas effect" has been mentioned frequently in discussions of the September peak in U.S. births (e.g., Rosenberg, 1966) and is cited by Wrigley and Schofield (1981) as a possible explanation for a persistent September local peak in English births. Calot (1981) emphasizes August vacations as the reason for the strong May peak in births in France, and James (1971) argues that increased leisure time in holiday periods may explain his finding of greater seasonality among higher-income groups in England.
+
+A number of features of the crosspopulation comparisons shed light on the hypothesis that holidays affect the seasonal pattern in births. The most noticeable is the evidence in favor of a Christmas effect on the conception rate. In almost every Christian country, in either hemisphere, there is at least a local September peak in births, consistent with increased conceptions during the Christmas holiday season. The persistent September peak is one of the intriguing recurring patterns across countries. It has no obvious explanation in terms of weather, especially since it occurs in both hemispheres and at all latitudes. The hypothesis that it is attributable to a Christmas holiday effect, however, must confront the presence of a September peak in the non-Christian countries of Israel and India. One possibility is that the increase in conceptions around Christmas is due to an increase in leisure time that occurs in all countries independent of religion.
+The other regular pattern in the data that may reflect the timing of holidays is the persistent spring peak in European countries, consistent with the hypothesis that there is increased sexual activity during the leisure time associated with summer holiday periods. The explanation of Sweden's spring peak as the result of summer holidays is consistent with the surprising secular increase in the amplitude of Sweden's spring peak over recent decades, an increase that could result from increased leisure time durig the summer in response to rising incomes. The data can be little more than suggestive of the role of summer holidays, however, in the absence of more direct tests.
+MARRIAGES
+The possible effect of seasonal fluctuations in marriage rates on birth sea-
+
+Vol. 38,No. 1-2
+
+Seasonally ofBirths
+
+75
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+sonality has been considered by a num- legitimate and illegitimate births are vir-
+
+ber of researchers, with mixed results. tually identical. Likewise, the similarity
+
+Rosenberg (1966) finds little effect of of seasonal birth patterns by birth order
+
+marriage seasonality on birth seasonal- in the United States (Figure 7, Panels A
+
+ity in the United States based on the and B) raises serious difficulties for the
+
+large divergence between the seasonal marriage cycle as an important determi-
+
+pattern in marriages, which is domi- nant of birth seasonality.
+
+nated by a large peak in June, and the Seasonal patterns in marriages for
+
+seasonal pattern in births, which implies three populations, Sweden, Georgia,
+
+below-average conceptions in June and and New York, are presented in Panel C
+
+July. Rosenberg also notes that legiti- of Figure 8. The change of scale com-
+
+mate and illegitimate births display simi- pared to the graphs for birth seasonality
+
+lar seasonal patterns, based on data for is important to note, indicating the
+
+the single year of 1963. Rosenberg's much higher magnitude of marriage sea-
+
+skepticism over the influence of mar- sonality. Sweden has a peak-to-trough
+
+riage seasonality on birth seasonality amplitude of almost 150 per cent, while
+
+has been repeated by other researchers. the states of Georgia and New York
+
+Mathers and Harris (1983), for exam- have amplitudes of over 60 per cent.
+
+ple, conclude that marriage seasonality has little effect on birth seasonality in Australia because of the similarity between the seasonal patterns in legitimate and illegitimate births.
+
+All three patterns indicate large June peaks in marriages. If this marriage peak had a large effect on birth seasonality, it would presumably show up as an increase in births in March. Looking
+
+A recent noteworthy exception to the back at the seasonal birth patterns in
+
+view that marriage is unimportant in in- Panel A, we do not see a sharp March
+
+fluencing birth seasonality is Prioux peak in births in any of the populations,
+
+(1988), who reports a significant peak in although there is a small local peak in
+
+conceptions for first births in October in births in March in New York. The April
+
+Italy, based on data for the period 1960- peak in births in Sweden could be parti-
+
+79. Prioux attributes this peak to a peak ally influenced by the June peak in mar-
+
+in marriages in September-October. riages, although we have seen that ille-
+
+Higher-order births do not exhibit the gitimate births display a seasonal
+
+same October peak in conceptions in pattern virtually identical to that shown
+
+Italy. Prioux argues that the overall in Panel A.
+
+level of birth seasonality increased in All three patterns indicate large June
+
+Italy during this period as first births be- peaks in marriages. If this marriage
+
+came a higher fraction of all births.
+
+peak had a large effect on birth season-
+
+Our own evidence presented above ality, it would presumably show up as an
+
+also provides a mixed assessment of the increase in births in March. Looking
+
+possible role of marriages. Comparisons back at the seasonal birth patterns in
+
+of the seasonal patterns for legitimate Panel A, we do not see a sharp March
+
+and illegitimate births (Figure 7) give lit- peak in births in any of the populations,
+
+tle support to an important role for mar- although there is a small local peak in
+
+riage seasonality, since the major peaks births in March in New York. The April
+
+and troughs in the seasonal birth pattern peak in births in Sweden could be parti-
+
+are the same for legitimate and illegiti- ally influenced by the June peak in mar-
+
+mate births. In England, the patterns for riages, although we have seen that ille-
+
+76
+
+Lam and Mirón
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+gitimate births display a seasonal account for multivariate explanations.
+
+pattern virtually identical to that shown Our results suggest that there may be
+
+in Panel A.
+
+high returns to further research on birth
+
+seasonality and its underlying determi-
+
+CONCLUSIONS
+
+nants. The two effects that appear to be
+
+The empirical results in this paper present a set of basic stylized facts about the seasonality of births. We show that births are highly seasonal in all human populations, even for very recent periods in highly industrialized low-fertility populations. The timing of the seasonal patterns, however, differs widely across populations. Although a large literature exists on birth seasonality, the magnitude and persistence of seasonal fluctuations in births continue to be important empirical puzzles in demography. The fact that births in April are 31 per cent greater than births in December in contemporary urban Sweden, for example, is a dramatic result that begs for an explanation, especially in light of ourfinding that the amplitude of this seasonal cycle in Sweden has increased during the twentieth century.
+
+most consistent with observed seasonal patterns, i.e., seasonal fluctuations in weather and seasonal fluctuations in leisure time due to holidays, both raise provocative issues. It is well worth seeing whether what appears to be a relatively large effect of summer heat in reducing fertility holds up to direct tests using monthly weather data (Lam and Miron, 1990). It is not clear whether this effect is due to behavioral or biological effects, and further research is clearly called for on the short-run relationship between temperature and fertility in modern populations. Similarly, the notion that holidays are associated with nontrivial increases in conceptions in highly contracepting low-fertility populations also poses a challenge to our understanding of modern fertility behavior. It is important to determine whether this apparent feature of the seasonal
+
+This paper has surveyed possible ex- patterns stands up to more direct tests
+
+planations of the seasonality of births and to examine the specific behavior
+
+and considered whether those explana- that may produce it.
+
+tions can rationalize the basic stylized
+
+facts about birth seasonality. We con-
+
+clude that existing evidence places some limits on the kinds of explanations that may be important, but it does not decisively either rule out or support any interesting hypothesis. In order to make
+
+ACKNOWLEDGMENTS
+This paper has benefited from discussions with Al Hermalin, Barbara Anderson, Robert Barsky, Severin Borenstein, Roger Gordon, Richard Levine, Gary Solon, and
+
+additional progress in understanding the determinants of birth seasonality, we believe it is necessary to use data on variables other than births, to employ more disaggregated data sets, and to explicitly
+
+James Wood. Excellent research assistance was provided by Shubha Ghosh, Jon Tinberg, and Todd Clark. Financial support was provided by the National Institute for Child Health and Human Development, Grant No. 1-R01-HD22141.
+
+REFERENCES
+
+ANDERSON, B. A., and B. D. SILVER. 1988. The
+effects of the registration system on the seasonality of births: The case of the Soviet Union. Pop. Stud. 42:303-320.
+
+BARSKY, R. B., and J. A. MIRON. 1989. Sea-
+sonal cycles and business cycles. J. Polit. Econ. 97:503-534.
+BEAULIEU, J. J., and J. A. MIRON. 1990a. Sea-
+
+Vol. 38,No. 1-2
+
+Seasonally of Births
+
+77
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+sonality in U.S. manufacturing. NBER WP #3450.
+
+Two findings from the decennial census. Soc. Biol. 34:244-248.
+
+_____. 1990b. A cross-country comparison of KEVAN, S.M. 1979.Season of life-Season of
+
+seasonal cycles and business cycles. NBER
+
+death. Soc.Sci.Med. 13D:227-232.
+
+WP #3459. BECKER, S. 1981. Seasonality of fertility in
+Matlab, Bangladesh. J. Biol. Sci. 13:97105.
+BECKER, S., A. CHOWDHURY, and H. LERIDON.
+
+KNODEL, J., and C. WILSON. 1981. The secular
+increase infecundity in German village populations: An analysis ofreproductive histories of couples married, 1750-1899. Pop. Stud. 35:53-84.
+
+1986. Seasonal patterns of reproduction in KOSAMBI, D. D., and S. RAGHAVACHARI. 1951.
+
+Matlab, Bangladesh. Pop.Stud. 40:457472.
+
+Seasonal variation inthe Indian birth rate. Eugenics 16:165-191.
+
+BRUNDTLAND, G. H., and K. LIESTOL. 1982.
+Seasonal variations in menarche in Oslo. Ann. ofHum. Biol. 9:35-43. CALOT, G. 1981.L'Observation de la fécondité a court et moyen terme. Population 36:940.
+CHANG, K., S. CHAN, W. LOW, and C. No.
+1963. Climate andconception rates in Hong Kong. Hum. Biol. 35:366-375.
+CHAUDHURY, R. H. 1972.Socioeconomic and seasonal variations inbirths: A replication. Soc. Biol. 19:65-68.
+CHEN, L. C., S. AHMED, M. GESCHE, and
+W. H. MOSLEY. 1974.A prospective study
+
+LAM, D. A., and J. A. MIRON. 1987. The sea-
+sonality of births in human populations.Research Rep. #87-114, Population Studies Center, University ofMichigan.
+_____. 1990. Temperature andthe seasonality of births. InA. Zorgniotti (ed.), Temperature andthetestis: Proceedings ofa Conference. Plenum Press, New York.
+LEE, R.D. 1981.Short-term variation: Vital rates, prices, and weather, p. 356-401. In E. A.Wrigley and R. Schofield (eds.),The population history of England, 1541-1871: A reconstitution: Harvard Univ. Press, Cambridge.
+
+of birth interval dynamics in rural Bangla- LEVINE, R . J . , B. L. BORSDON, R. M.
+
+desh. Pop.Stud. 28:277-298.
+
+MATHEW, M. H. BROWN, J. M. STANLEY,
+
+COWGILL, U. M. 1965. Season ofbirth in man: Contemporary situation with special reference to Europe and the southern hemi-
+
+and T. B. STARR. 1988. Deterioration of semen quality during summer in New Orleans. Fertil. Sterility 49:900-907.
+
+sphere. Ecology 47:614-623.
+
+LEVINE, R. J., R. M. MATHEW, C. B.CHE-
+
+_____. 1966. The season ofbirth inman: The
+
+NAULT, M. H. BROWN, M. E. HURTT, K. S.
+
+northern NewWorld. Kroeber Anthropol.
+
+BENTLEY, K. L. MOHR, and P. K. WORKING.
+
+Society Papers 35:1-21.
+
+1990. Differences in the quality ofsemen in
+
+CROOK, N., and T. DYSON. 1980. Variations
+saisonnières des événements en afrique du
+
+outdoor workers during summer and winter. N. Engl. J.Med. 323:12-16.
+
+sud: Contraste entre lesraces. Population LEVY, V. 1986. Seasonal fertility cycles in rural
+
+35:691-697.
+
+Egypt: Behavioral and biological linkages.
+
+DYSON, T., and N. CROOK. 1981. Causes of sea-
+
+Demography. 23:13-30.
+
+sonal fluctuations in vital events, p. 135- LYSTER, W. R. 1971. Three patterns ofseason-
+
+162. In R. Chambers et al. (eds.), Seasonal ality in American births. Amer. J. Obstet.
+
+dimensions to rural poverty. Frances Pinter, Gynecol. 110:1025-1028.
+
+London.
+
+_____. 1979. Newseasonal distribution of
+
+EHRENKRANZ, J. R.L. 1983a. A gland for all births in New South Wales. Med. J. Austra-
+
+seasons. Nat.Hist. 6:18-23.
+
+lia 2:150.
+
+_____. 1983b. Seasonal breeding in humans: MACFARLANE, W. V. 1970. Seasonality of con-
+
+Birth records oftheLabrador Eskimo.Fer-
+
+ception of human populations. Biometeor-
+
+til. Steril. 40:485-489.
+
+ology 4:167-182.
+
+HOLMES, R. L. 1968. Reproduction and envi- MACFARLANE, W. V., and D. SPALDING. 1960.
+
+ronment. Norton, New York.
+
+Seasonal conception rates in Australia.
+
+HUNTINGTON, E. 1938. Season ofbirth. Wiley,
+
+Med. J. Australia 47:121-124.
+
+New York.
+
+MASSEY, D. S., and B. P. MULLAN. 1984. A
+
+JAMES, W. H. 1971. Social class and seasonof birth. J. Biosoc. Sci. 3:309-320.
+KARSCH, F. J., E. L. BITTMAN, D. L. FOSTER,
+
+demonstration of the effect of seasonal migration on fertility. Demography 21:501517.
+
+R. L. GOODMAN, S. J. LEGAN, and J. E. RO- MATHERS, C. D., and R. S. HARRIS. 1983. Sea-
+BINSON. 1984. Neuroendocrine basis of sea- sonal distribution ofbirths inAustralia. In-
+
+sonal reproduction. Recent Progress in
+
+ternat. J.Epidemiol. 12:326-331.
+
+Hormone Research 40:185-232.
+
+MCDONALD, A. D. 1971. Seasonal distribution
+
+KESTENBAUM, B. 1987. Seasonality of birth:
+
+of abortions. Brit. J. Prev. Soc. Med.
+
+78
+
+Lam and Mirón
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+25:222-224. MENKEN, J. 1979. Seasonal migration and sea-
+sonal variation in fecundability: Effects on birth rates andbirth intervals. Demography 16:103-119.
+MOSHER, S.W. 1979. Birth seasonally among peasant cultivators: Theinterrelationship of workload, diet, andfertility. Hum. Ecol. 7:151-181.
+NEWEY, W., and K. WEST. 1987. A simple, pos-
+itive definite, heteroskedasticity and autocorrelation consistent covariance matrix. Econometrica 55:703-708. NURGE, E. 1970. Birth rate andwork load. Amer. Anthropol. 72:1434-1439. PARKER, G. 1978. Season of birth in New South Wales. Med. J.Australia 2:563-566. _____. 1979. New seasonal distribution of births in New South Wales. Med. J. Australia 2:424. PARKES, A.S. 1968.Seasonal variation in human sexual activity, p. 128-145. In J. M. Thoday andA. S. Parkes (eds.), Genetic and environmental influences on behavior. Plenum Press, New York. _____. 1976. Patterns of sexuality and reproduction. Oxford Univ. Press, London.
+PASAMANICK, B., S. DINITZ, and H. KNO-
+BLOCH. 1959. Geographic and seasonal variations inbirths. Publ. Hlth. Rep.74:285288. variations in birth rates. Milbank Mem. Fund Quart. 38:248-254. PRIOUX, F. 1988.Mouvement saisonnierdes naissances: Influence du rang et de la legitimite dans quelques pays d'Europe occidentale. Population 43:587-610.
+QUEREC, L. J., and ERNELL SPRATELY. 1978.
+Characteristics of births, United States, 1973-1975. Vital and Health Statistics Series 21, Number 30. National Center for Health Statistics, Washington,D.C. REINBERG, A. 1974. Aspects of circannual rhythms in man, p. 423-505. In E. T. Pengelley (ed.), Circannual clocks. Academic Press, New York.
+REINBERG, A., M. LAGOGUEY, F. CESSELIN, Y.
+Tourrou, J. LEGRAND, A. DELASSALLE, J.
+ANTREASSIAN, and A. LAGOGUEY. 1978. Or-
+cadian and circannual rhythms in plasma hormones and other variables of five healthy young human males. Acta Endocrinol. 88:417-427. RICHARDS, T. 1983. Weather, nutrition, and the economy: Short-run fluctuations in births, deaths, and marriages, France 1740-1909. Demography 20:197-212.
+RODGERS, J. L., and J. R. UDRY. 1988. The
+season-of-birth paradox. Soc. Biol. 35:171-185.
+
+ROENNEBERG, TILL, and JURGEN ASCHOFF.
+1989a. Annual rhythm ofhuman reproduction: I. Biology, sociology, orboth?. J.Biol. Rhythms, in press.
+_____. 1989b. Annual rhythm of humanreproduction: II. Environmental correlations. J. Biol. Rhythms, in press.
+ROSENBERG, H. M. 1966. Seasonal variation of births, United States, 1933-63. National Center for Health Statistics, Washington, D.C.
+SEIVER, D. A. 1985. Trend andvariation in the seasonality of United States fertility, 1947 to 1976. Demography 22:89-100.
+_____. 1989. Seasonality offertility: New evidence. Pop. Environ. 10:245-257.
+SLATIS, H. M., and R. J. DECLOUX. 1967. Sea-
+sonal variation in stillbirth frequencies. Hum. Biol. 39:284-294.
+SPENCER, B., D. HUM, and P. DEPREZ. 1976.
+Spectral analysis and the study of seasonal fluctuations in historical demography. J. Europ. Econ. Hist. 5:171-190. SPENCER, B., and D. HUM. 1977. Workload and seasonal variation in birthrates reconsidered. Amer. Anthropol. 79:911-912.
+SUNDARARAJ, N . , M . CHERN, L . G A T E W O O D , L .
+HICKMAN, and R. MCHUGH. 1978. Seasonal
+behavior of human menstrual cycles: A biometric investigation. Hum. Biol. 50:15-31. TAKAHASHI, E. 1964. Seasonal variation of conception and suicide. Tohoku J. Exper. Med. 84:215-227.
+TJOA, W. S., M. SMOLENSKY, B. HSI, E. STEIN-
+BERGER, and K. SMITH. 1982. Circannual
+rhythm inhuman sperm count revealed by serially independent sampling. Fertil. Steril. 38:454-459. TROMP, S.W. 1963. Medical biometeorology. Elsevier, Amsterdam. VAN DEWALLE, F. 1975. Migration and fertility in Ticino. Pop. Stud. 29:447-462.
+WARREN, C. W., and C. W. TYLER. 1979. So-
+cial status andseason ofbirth: A study of a metropolitan area in the southeastern United States. Soc. Biol. 26:275-288.
+WARREN, C. W., J. GOLD, C. W. TYLER, J. C.
+SMITH, and A. L.PARIS. 1980. Seasonal variation in spontaneous abortions. Amer. J. Publ. Hlth. 70:1297-1299.
+WRIGLEY, E. A., and R. SCHOFIELD. 1981. The
+population history of England, 1541-1871: A reconstitution. Harvard Univ. Press, Cambridge. ZELNIK, M. 1969. Socioeconomic and seasonal variations in births: A replication. Milbank Mem. Fund Quart. 47:159-165.
+ZORGNIOTTI, A. W., and A. I. SEALFON. 1988.
+Measurement of intrascrotal temperature in normal andsubfertile men. J. Reprod. Fertil. 82:563-566.
+
+

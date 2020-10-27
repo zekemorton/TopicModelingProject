@@ -1,0 +1,391 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+More on the determinants of the fertility transition
+William Sander
+To cite this article: William Sander (1990) More on the determinants of the fertility transition, Social Biology, 37:1-2, 52-58, DOI: 10.1080/19485565.1990.9988746 To link to this article: http://dx.doi.org/10.1080/19485565.1990.9988746
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 6
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:43
+
+More on the Determinants of the Fertility Transition
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+William Sander
+Department of Economics DePaul University Chicago, Illinois
+
+ABSTRACT: The economic approach to fertility is an application of the economics theory of consumer behavior. It is assumed that consumers of children are utility-maximizers with stable preferences over time. Thus, changes in fertility are related to changes in household income and the "price" of children. One concern in this approach is that demographic changes are a product of changes in tastes rather than exogenous changes in economic factors such as the earning ability of women. In this paper, the effect of economic variables on the demand for children in the United States in 1950, 1960, 1970, and 1980 is examined. Support is provided for the hypothesis that the earning ability of women is an important determinant of fertility.
+
+The economic approach to fertility is MATERIALS AND METHODS
+
+an application of the economic theory of
+
+consumer behavior. It is assumed that In lieu of an in-depth review of eco-
+
+consumers of children are utility- nomic approach to fertility (see Becker,
+
+maximizers with stable preferences over 1981), key concepts that are relevant to
+
+time. Thus, changes in fertility are re- this paper are briefly reviewed. The
+
+lated to changes in household income most salient economicfindingis that fer-
+
+and the "price" of children (Becker, tility is negatively related to female
+
+1981).
+
+earnings (see Becker, 1981; Butz and
+
+This approach to explaining the fer- Ward, 1979; Sander, 1986; Schultz,
+
+tility transition has been called into 1985). Whereas female earning ability
+
+question by Blake (1968), Cleland and increases the "price" of children, since
+
+Wilson (1987), and others. Cleland and they are female-time-intensive prod-
+
+Wilson (1987, p. 27) argue that "the on- ucts, male earnings increase the demand
+
+set of demographic change is more for the quantity and quality of children
+
+closely associated with parents' educa- (see Becker, 1981, pp. 103-112). Thus,
+
+tion and cultural affiliation than with ec- the positive effect of male earnings on
+
+onomic factors, such as familial control the demand for quantity may be partly
+
+of economic life or women's employ- offset by the demand for quality (e.g.,
+
+ment."
+
+investments in schooling) making the
+
+In this paper, the effect of economic male earnings (income) effect ambiguvariables on the demand for children in ous. Other factors that increase the the United States in 1950, 1960, 1970, price of children such as urbanization and 1980 is examined. Support is pro- should reduce fertility, as well.
+
+vided for the hypothesis that the earning Estimates of the number of children
+
+ability of women is an important deter- ever born to women age 35 to 44 in 1980
+
+minant of fertility.
+
+are presented for four periods: 1950,
+
+52
+
+Vol. 37,No. 1-2
+
+Fertility Transition
+
+53
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+1960, 1970, and 1980. Fertility is measured per woman rather than per woman married because the marriage rate is also a function of some of the same determinants of fertility (see Becker, 1981). Thus, the effect of economic factors on fertility may be both direct and indirect. Data are at the state level (excluding Alaska and Hawaii).
+For the estimates of fertility, median income of males and females 35to 44 are used as proxies for male and female wages, respectively, for 1950,1960, and 1970. Mean earnings of males and females 35 to 44 employed at least 40 weeks in 1979 are entered to adjust for male and female wages for 1980. The above are used as proxies for the actual wage rates because average state wage rates for men and women are not available over time. Female earnings are entered to adjust for the effect of the value of female time on the demand for children. Male earnings are entered to capture the income effect. Male earnings are used rather than family income because family income is related to the labor market status of women which, in turn, is a function of fertility.
+Since female earnings may be endogenous with fertility (Sander, 1986; Schultz, 1985), an estimate of female earnings is used in the fertility regressions. Estimated earnings is based upon the industry-mix in a state derived as follows.
+Following Bowen and Finegan (1969), I constructed a female-industrymix variable for the 48 states used. First, I broke down employment into 25 industrial categories for 1950 and 1960and 34 categories for 1970 and 1980. These categories accounted for all of the employed workers in the United States (see Tables 1 and 2). Second, I calculated what per cent of the workers in each cat-
+
+egory were female. Third, I calculated how many women would be employed in each industry at the state level if the state conformed to relative employment levels for women at the national level. For example, if 10 per cent of workers in agriculture at the national level are women, 10 per cent of the jobs in agriculture at the state level are allocated to women. The total number of jobs that are allocated to women in a state are then divided by the total number of jobs in the state to derive the femaleindustry-mix variable. Thus, one derives a measure that can be used to predict the demand for female workers in a state. The relationships between female earnings and the industry mix (IM) and female work and the industry-mix are shown in Table 3.
+It is recognized that the wage variables are imprecise measures of the value
+TABLE 1
+INDUSTRIAL CATEGORIES, 1950 AND 1960
+1. Agriculture, forestry, and fisheries 2. Mining 3. Construction 4. Manufacturing 5. Railroads and railway express service 6. Trucking service and warehousing 7. Other transportation 8. Communications 9. Utilities and sanitary services 10. Wholesale trade 11. Foodanddairy products stores 12. Eating and drinking places 13. Other retail trade 14. Finance, insurance and real estate 15. Business services 16. Repair services 17. Private household services 18. Other personal services 19. Entertainment and recreation services 20. Educational services 21. Welfare, religious, and nonprofit membership
+organizations 22. Hospitals 23. Other professional and related services 24. Public administration 25. Industries not reported
+
+54
+
+Sander
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE2
+INDUSTRIAL CATEGORIES, 1970 AND 1980
+1. Agriculture, forestry, and fisheries 2. Mining 3. Construction 4. Food and kindredproducts 5. Tobaccomanufacturing 6. Textilemillproducts 7. Apparel and otherfinishedtextileproducts 8. Paper and alliedproducts 9. Printing and publishingand alliedproducts 10. Chemicalsand alliedproducts 11. Petroleum and coalproducts 12. Rubber and miscellaneous plastics 13. Leather and leatherproducts 14. Lumber and wood products,except furniture 15. Furniture and fixtures 16. Stone, clay, glass,etc. 17. Metalindustries 18. Machinery, except electrical .. 19. Electricalmachinery 20. Transportation equipment 21. Professional and photographic equipment 22. Other manufacturing 23. Transportation 24. Communications 25. Utilities 26. Wholesale trade 27. Retail trade 28. Finance, insurance, and real estate 29. Business and repair services 30. Personalservices 31. Entertainment 32. Professional and relatedservices 33. Public administration 34. Experiencedunemployed
+of time, particularly for females. One of the problems with the measure is that labor supply decisions affect their levels, particularly for 1950, 1960, and 1970. This is a particular problem for females because female labor supply decisions tend to vary relative to males. Thus, whereas male labor supply can be assumed to be independent of fertility, female labor supply is endogenous with decisions regarding family size. Although it would be preferable to have better measures of wage rates, they are not available at this level of aggregation during earlier periods.
+
+TABLE3
+RELATIONSHIPS BETWEEN FEMALE EARNINGS AND THE INDUSTRY MIX AND FEMALE WORK AND THE INDUSTRY MIX"
+Female earnings 1950 = -922 + 80IM (4.9) 1960 = -2657 + 139 IM (4.4) 1970 = -1069 + 113 IM (3-3) 1980 = 3902 + 163 IM (2.0)
+Female work 1950 = -6.75 + 1.52 IM (8.0) 1960 = -23.62 + 2.02IM (6.3) 1970 = -1.56 + 1.38 IM (4.7) 1980 = 15.55 + 1.16 IM
+"(-statistics are given in parentheses. The state-level female-industry-mix coefficients are presented in Table 4.
+Another problem with the data is that the proxies that are used for wages do not precisely reflect the value of time when decisions regarding children are being made. I would note, however, that if one lags the wage rates by a decade, the results do not appreciably change.
+To provide another test of the hypothesis that female earning ability has a negative effect on fertility, the estimated female wage is replaced by an estimate of the labor force participation rate for females age 35 to 44. Since female labor supply decision is endogenous with fertility, as noted above, an estimate of it that is also based on the industry-mix in a state will be used.
+Adjustments are also made for population density and per cent living in urban areas, since the price of children may be affected by location. On one hand, the cost of children may be higher
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 37, No. 1-2
+State
+Alabama Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi . . . , v Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina NorthDakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming
+
+Fertility Transition
+
+TABLE4
+FEMALE-INDUSTRY-MIX COEFFICIENTS
+
+1950
+26.4 27.6 23.8 29.0 27.5 30.0 28.1 30.3 28.0 23.9 28.3 27.1 24.9 25.8 23.1 27.8 27.8 29.3 30.5 28.5 25.7 23.4 26.6 23.9 24.2 27.3 29.0 29.5 25.4 30.8 26.0 21.5 28.0 25.9 27.6 27.5 29.2 26.8 22.4 26.4 27.4 26.2 27.6 27.1 28.2 22.4 26.2 22.9
+
+I960
+33.5 32.9 30.9 33.9 33.4 33.6 33.1 35.1 33.9 30.0 32.6 32.1 30.7 31.7 30.2 34.1 32.5 33.7 34.3 33.4 31.6 32.1 32.0 31.0 30.4 35.3 33.3 32.9 32.4 34.7 31.8 28.9 32.6 32.1 33.0 32.4 33.2 33.2 29.4 32.4 32.7 32.0 33.3 32.8 33.2 30.4 31.4 29.6
+
+1970
+37.7 38.5 37.0 38.4 38.7 37.1
+36.9 39.0 38.9 34.6 36.7 35.2 36.3 36.6 36.5 36.8 38.8 38.4 40.4 34.7 36.9 39.1 37.5 24.0 36.5 41.4 39.3 38.1 38.8 40.5 39.4 36.2 35.2 37.1 36.6 37.7 38.8 40.4 35.9 38.8 37.0 37.9 38.4 38.0 36.4 34.3 35.9 34.9
+
+55
+1980
+42.4 42.7 40.6 42.8 42.3 42.7 42.4 43.8 44.9 39.7 45.8 40.3 41.1 41.1 41.0 40.4 43.6 44.3 45.6 40.3 42.1 42.4 42.3 40.8 41.6 46.2 43.1 43.7 40.3 45.9 43.6 39.6 40.6 40.6 41.2 42.5 44.5 44.1 41.5 43.1 40.7 41.9 43.3 44.3 40.8 38.5 41.0 36.8
+
+in more urbanized and densely populated states because of, for example, higher housingcosts. However,the cost of child quality may be affected byloca-
+
+tion, as well. During earlier periods of time, it has been argued that schooling quality wassuperiorin urban areasrelative to rural areas (Schultz, 1967). Thus,
+
+56
+
+Sander
+
+SocialBiology
+
+the price of child quality would be higher in rural areas relative to cities. More recently, evidence indicates that schools in large cities tend to be relatively inferior (Schultz, 1981), thus increasing the price of quality (and decreasing the price of quantity) of city children. This implies that the effect of location on fertility is ambiguous and may vary over time. In addition, it has been shown that fertility is higher among farmers (Sander, 1986). Since the per cent in farming tends to be higher in less urbanized, more sparsely populated states, the density and urban adjustments tend to pick up the farm effect, as well. In preliminary work with the data, I could not separate out a farm
+
+effect. Also, in preliminary work with the data I could not separate out a female schooling effect. Since female schooling and per cent in farming have no bearing on the results, they are excluded in the empirical analysis.
+The data are taken from issues of the StatisticalAbstract of the UnitedStates and the Censuses of Population since 1950. Summary statistics for the data set are provided below (Table 5).
+RESULTS
+OLS estimates of children ever born to women ever married age 35 to 44are presented below (Tables 6 and 7). The results indicate that the male wage coef-
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE5
+SUMMARY STATISTICS FOR THE DATA SET
+
+Variable
+1. Fertility, 1950 2. Male earnings, 1950 3. Female earnings, 1950 4. Female work, 1950 5. Density, 1950 6. Urban, 1950
+7. Fertility, 1960 8. Male earnings, 1960 9. Female earnings, 1960 10. Female work, 1960 11. Density, 1960 12. Urban, 1960
+13. Fertility, 1970 14. Maleearnings, 1970 15. Female earnings, 1970 16. Female work, 1970 17. Density, 1970 18. Urban, 1970
+19. Fertility, 1980 20. Male earnings, 1980 21. Female earnings, 1980 22. Female work, 1980 23. Density, 1980 24. Urban, 1980
+
+Mean
+Z29 $2,864/year $l,216/year
+33.8% 111/sq. mile
+56%
+2.65 $4,979/year $l,841/year
+42.0% 130/sq. mile
+61.9%
+3.06 $8,495/year $3,181/year
+50.3% 148/sq. mile
+65.8%
+2.73 $21,267/year $10,773/year
+64.6% 158sq. mile
+66.6%
+
+Standard Deviation
+0.36 535 314
+4.6 167
+16
+0.33 709 374
+4.4 194 14.8
+0.29 1,154
+436 4.1
+223 14.4
+0.21 2,131 1,122
+4.3 225
+14.4
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 37, No. 1-2
+
+Fertility Transition
+
+57
+
+TABLE 6
+ESTIMATES OF CHILDREN EVER BORN TO WOMEN 35-44,1950a
+
+Male earnings
+
+Variables
+
+Female earrangs estimated
+
+Density
+
+Urban..
+
+Intercept R2
+"/-statistics in parentheses. 'Significant at the 1% level. 'Significant at the 5% level. ¿Significant at the 10% level.
+
+1950
+-0.0003s (3.0) -0.0008c (2.4) -0.0003 (1.3) -0.004 (0.8) 4.2 0.72
+
+1960
+-0.0002' (2.2) -0.00066 (2.8) -0.0007» (3.3) -0.0001 (0.03) 4.6 O60
+
+1970
+0.00007¿ (1.8)
+-0.0004c (2.1) -0.0003d (2.0) -0.007'' (1.9) 4.4 0.36
+
+1980
+-0.00001
+(0.4)
+-0.0002''
+(1.9) -0.0002
+(1.4) -0.002
+(0.9) 5.2 0.33
+
+TABLE7
+ESTIMATES OF CHILDREN EVER BORN TO WOMEN 35-44,1950-1980"
+
+Male earnings
+
+Variables
+
+Female work estimated
+
+Density
+
+Urban
+
+Intercept R2
+"(-statistics in parentheses. 'Significant at the 1% level. ^Significant at the 5% level. ^Significant at the 10% level.
+
+1950
+-0.00036 (3.0) -0.040e (2.4) -0.0003 (1.3) -0.004 (0.8) 4.6 0.72
+
+1960
+-0.0002c (2.2) -0.0406 (2.8) -0.0007" (3.3) -0.0001 (0.03) 5.2 O60
+
+1970
+0.0001'' (1.8) -0.036e (2.1) -0.0003'' (2.0) -0.007¿ (1.9)
+4.8 0.36
+
+1980
+-0.00001 (0.4) -0.029^ (1.9) -0.0002
+·(1.4)
+-0.002 (0.9) 4.9 0.33
+
+ficientis negative in1950 and 1960, and for 1950, 1960, and 1970 and0.8 for
+
+positive in 1970. The male wage coef- 1980. Thesubstantial change in 1980
+
+ficientis not significant in 1980. The fe- may reflect the different (andbetter)
+
+male wage and work coefficients are measure of the female wage for that
+
+negative and significant inall years esti-
+
+mated. Population density is found to
+
+have asignificant negative effect on fertility in 1960 and 1970. The urban coefficient is only negatively significant for 1970.
+In Table 8, elasticities at point means are presented forthe female wage and female work effects. For the female
+
+TABLE8
+ABSOLUTE VALUE OF FEMALE WAGE AND WORK ELASTICITIES
+
+Year
+1950 1960 1970
+
+Wage
+
+Work
+
+04 0.6 0.4 0.6 04 0.6
+
+wage, theelasticity is estimated at 0.4 1980 .
+
+0.8 ' 0.7
+
+58
+
+Sander
+
+Social Biology
+
+year. Thus, in 1980 a 10percent in- The male wage results aremore of a
+
+crease inthe female wage reduces fertil- puzzle. Inarelated study, the male wage
+
+ity by 8per cent. Thesubstantial nega- (income) effect was found to bepositive
+
+tive effect of female earning abilityon during the 1970's (Rosenzweig and
+
+fertility isalso confirmed by the female Schultz, 1985). Thus, my results for1970
+
+work elasticity. A10 per cent increasein are consistent with this finding. A specu-
+
+the labor force participation rate for lative interpretation of the negative
+
+women 35 to44 reduces fertility by 6to 7 coefficients for 1950 and1960 isthat in-
+
+per cent.
+
+come may have increased the demand
+
+for child quality (thus increasing the
+
+CONCLUSIONS
+
+price ofchildren) relative tonumber of
+
+My results for thefour periods under study support the hypothesis that eco-
+
+children during earlier periods. It is more difficult to explain the lack of an
+
+nomic factors, particularly the earning ability ofwomen, affect fertility. Thus,
+
+effect in 1980. The changing effect ofincome over time on thedemand for chil-
+
+changes infertility over time appear to dren isa topic that merits additional re-
+
+be substantially related tochanges in the search.
+
+economic value offemale time. An in-
+
+crease in the earning ability of women
+
+ACKNOWLEDGEMENTS
+
+increases the price of children and reduces fertility. This result does not preclude other factors from being impor-
+
+The author would like tothank an anonymous reviewer for comments andthe College of Commerce at DePaul forresearch
+
+tant, aswell.
+
+support.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+REFERENCES
+
+BECKER, GARY S. 1981.A treatise onthe family. Harvard Univ. Press, Cambridge.
+BLAKE, JUDITH. 1981. Family size andthe quality of children. Demography, 18(4):421442. . 1968. Arebabies consumer durables?. Pop. Stud. 22(1):5-25.
+BOWEN, WILLIAM G., and T. ALDRICH FINE-
+GAN. 1969. Theeconomics of labor force participation. Princeton Univ. Press, Princeton.
+BUTZ, WILLIAM P., and MICHAEL P. WARD.
+1979. The emergence of countercyclical U.S. fertility. Amer. Econ. Rev. 69(3):318328.
+CLELAND, JOHN, and CHRISTOPHER WILSON.
+1987. Demand theories ofthe fertility transition: An iconoclastic view. Pop. Stud. 41(1):5-30.
+MICHAEL, ROBERT T. 1973. Education and the
+derived demand for children. J.Polit. Econ. 81(2):S128-S164.
+ROSENZWEIG, M. R., and KENNETH I. WOLPIN.
+
+1980. Testing the quantity-quality fertility model: Theuseoftwins as a natural experiment. Econometrica 48(l):227-240.
+ROSENZWEIG, M. R., and T. P. SCHULTZ. 1985.
+The demand for and supply of births. Amer. Econ. Rev. 75(5):992-1015. SANDER, WILLIAM. 1986.Farm women, work, and fertility. Quart. J. Econ. 101(3):653657.
+SCHULTZ, T. PAUL. 1985. Changing world prices, women's wages, and the fertility transition: Sweden, 1860-1910. J. Polit. Econ. 98(6):1126-1154.
+SCHULTZ, THEODORE W. 1981.Investing in peo-
+ple. Univ. ofCalifornia Press. Berkeley. . 1967. National employment skills and
+earnings of farm labor. In C. E. Bishop (ed.), Farm labor in the United States. Columbia Univ. Press, New York.
+WILLIS, ROBERT J. 1973. A new approach to the
+economic theory offertility behavior. J. Polit. Econ. 81(2):S14-S64.
+
+

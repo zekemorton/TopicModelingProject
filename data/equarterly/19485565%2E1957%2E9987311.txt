@@ -1,0 +1,443 @@
+Eugenics Quarterly
+ISSN: 0097-2762 (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi18
+Possible consequences of an increased mutation rate
+James F. Crow
+To cite this article: James F. Crow (1957) Possible consequences of an increased mutation rate, Eugenics Quarterly, 4:2, 67-80, DOI: 10.1080/19485565.1957.9987311 To link to this article: http://dx.doi.org/10.1080/19485565.1957.9987311
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 2
+View related articles Citing articles: 5 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi18
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:24
+
+Vol. 4,NO.2, June, 1957 Eugenics
+
+Quarterly
+
+Downloaded by [University of Michigan] at 13:24 08 December 2015
+
+POSSIBLE CONSEQUENCES OF AN INCREASED MUTATION RATE1
+This is the third article in a serieson GeneticsandRadiation.
+
+JAMES F. CROW
+University of Wisconsin
+
+IN AN EARLIER ISSUE OF THIS JOURNAL I h a v e
+presented estimates of human mutation rates and the amount by which they might be increased by radiation (1). The present article is an attempt to assess the effects of such an increase on the population.
+I should like to start by reemphasizing what was stated earlier, that estimating overall human mutation rates, and particularly the estimation of radiation effects involves many unprovable assumptions. The data, even from experimental organisms, are frequently inaccurate. To this is added the still greater uncertainty of extrapolating from experimental organisms to man. Finally, in discussing the consequences for man of an increased mutation rate there are the difficult problems of deciding by what criteria radiation damage is to be measured.
+For all these reasons, any sort of quantitative assessment of radiation mutational damage is a dubious undertaking. In fact, Neel and Schull (2) in discussing the difficulties involved conclude that "semi-quantitative treatments are ill-advised, since except to the relatively few who have made a detailed study of the problem, they impart an air of mathematical exactitude and scientific accuracy to an area where the
+1Paper number 656 from the Department of Genetics.
+
+errors are sometimes large and often indeterminate." However, my opinion is that a poor and provisional estimate is better than no estimate at all, provided that we keep always in mind the possibility that it may be grossly in error.
+A General Principle of Genetic Damage Due to Radiation
+Almost all mutations, and in particular radiation-induced mutations, that have an effect large enough to be measured are harmful in some way. This is an observed fact in experimental animals, but it is also to be expected on theoretical grounds; mutations, being essentially random changes, are much more likely to be harmful than beneficial. We can state, as the National Academy of Sciences Committee on Genetic Effects of Atomic Radiation (3) did, that "Complexities notwithstanding, the genetic damage done, however felt and however measured, is roughly proportional to the total mutation rate." A second fact is, that at the low dosages likely to be encountered in the human population, the number of mutations induced is strictly proportional to the amount of radiation, irrespective of the intensity or spacing of the dose. Combining these two statements we conclude that the amount of genetic harm done is strictly proportional to the radiation dose. The evidence for this statement is given in non-technical form by Muller (4).
+
+68 Eugenics Quarterly
+
+Downloaded by [University of Michigan] at 13:24 08 December 2015
+
+This tells us something, but not enough. It says that 50r of radiation causes 5 times as much harm as lOr, but it doesn't say how much either causes. In the following sections some quantitative estimates will be given. But first it is necessary to consider some general principles governing the fate of mutant genes in populations.
+The Haldane-Muller Principle
+The basic quantitative relation between mutation rate and the amount of genetic damage was first pointed out by Haldane (5). Essentially the same idea was used independently by Muller (4, 6, and earlier papers) as a basis for assessment of possible mutational damage from radiation. I think it is instructive to consider the problem both ways.
+Haldane expressed the mutational damage in terms of the fitness of the population. Fitness is used in a strictly Darwinian sense, i.e., the ability to survive and leave descendants. Consider a mutant gene that lowers the fitness of the heterozygous individual carrying it by a fraction s. For example, if s is .05, individuals carrying this gene will be represented next generation by only 95 per cent as many descendants as if they did not carry it. Such a mutant gene will persist in the population an average of \/s, or 20 generations (6).2 Now suppose that the normal gene has a probability of m of mutating each generation. Then in each generation the proportion of individuals carrying newly mutated genes at this locus will be 2m. The factor 2 comes from the fact that each individual has 2 sets of genes. If the mutant is harmful it will be so rare that reverse mutation can safely be ignored. Since each mutant persists an
+2If this statement is not self-evident, consider the following argument. If the initial fraction of mutant genes is g, the fraction in successive later generations will be gw, gw2, gw3, . . . , where w = 1 -- s. The total number of individuals carrying the mutant for all time is g + gw + gw2 + gw3 + . . . But g (1 + w + w2 + w3 + . . .) = g/ (1 ­ w) = g/s. Dividing this by g, the initial fraction, gives 1/s as the average number of times a mutant is expressed before it is eliminated.
+
+average of \/s generations, the population will eventually contain an average of 2m/s mutant genes per individual. But the effect of each mutant gene is to decrease the fitness by a fraction s. Hence the average reduction in fitness of the population is (2m/s)s or simply 2m. The remarkable result is that the s factors cancel out; the effect of mutation on a population is proportional to the mutation rate, but is independent of the effect of the mutant on the individual. Considering mutants at all loci, if they act independently and are rare relative to normal genes, the effect is approximately the sum of the individual effects. We can thus state the Haldane principle as follows: The fitness of an equilibrium population is decreased because of mutation by a fraction approximately equal to Af, the total mutation rate. M is the total rate per diploid individual, i.e., twice the gametic (haploid) rate. '
+Muller has measured mutational damage in terms of genetic deaths. A genetic death is the extinction of a gene lineage through the premature death or reduced fertility of some individual bearing the gene. Consider a large population whose size remains constant from generation to generation. If it starts out with a certain number of harmful mutant genes, this number will decrease each generation since the carriers of the mutant have a smaller chance of surviving and reproducing. This process will continue until all the mutant genes are eliminated. Table 1 illustrates that, irrespective of the value of s, each mutant eventually leads on the average to one extinction.3 Of course some mutants will increase in number by chance, but this will be exactly compensated on the average by those that are lost by chance. We can state the prin-
+3More formally, the fraction of mutants eliminated the first generation is s1, in the second generation is (1 -- s1) s2, in the third (1 -- s1) (1 -- s2) s3, and so on. Letting w4 = 1 -- s4, the total fraction of eliminations is (1 -- w1) + w1 (1 -- w2) + w1w2 -- w1w2w3 + . . . = 1. So each mutant leads to an average of one elimination, irrespective of fluctuations in s.
+
+69
+
+TABLE 1
+
+Numerical examples illustrating the principle that each harmful mutation leads eventually to one genetic death. In each case there are 1000 new mutant genes to start with. The total population is assumed to remain constant from generation to generation and to be large enough that the mutants constitute only a very small fraction. Mutants reducing the fitness by .8, .2, and by a variable amount are assumed. In each case the number of eliminations, or genetic deaths, eventually totals 1000.
+
+Generation
+0
+1
+a s
+4
+5
+0
+7 8 9 10
+oo Eventual Total
+
+s -- .8
+
+Number of remaining mutants
+
+Number of mutants eliminated
+
+1000 200
+40 8 1.6 0.3 0.1 0.0 0.0 0.0 0.0
+
+800 160 32
+6.4 1.3 0.2 0.1 0.0 0.0 0.0
+
+00
+
+1250 1000
+
+S =r .2
+
+Number of remaining mutants
+
+Number of mutants eliminated
+
+1000 800 640 512 409.6 327.7 262.1 209.7 167.8 134.2 107.4
+
+200 160 128 102.4 81.9 65.6 52.4 41.9
+33.6 26.8
+
+00
+
+5000
+
+1000
+
+s .2 .25 .33 .25 .50 .10 .00 .50 .50 .10
+
+s variable
+
+Number of remaining mutants
+
+Number of mutants eliminated
+
+1000 800 600 400 300 150 135 135 67.5 33.8 30.4
+
+200 200 200 100 150
+15 0 67.5 33.8 3.8
+
+00
+
+1000
+
+Downloaded by [University of Michigan] at 13:24 08 December 2015
+
+ciple as Muller has: each harmful mutation leads on the average to one genetic death.
+These two formulations, though similar in many ways, have some important differences, both in assumptions and in conclusions. The Haldane calculations are based on the assumption that the population is in equilibrium and measures the loss in fitness in a single generation due to the accumulation of mutations that have occurred previously. The Muller formulation makes no assumption that the population is at equilibrium, only that the number of mutant genes is a small fraction of all genes and that the population size remains stable. If the population is expanding, the number of genetic deaths increases proportionately. This principle gives the total genetic damage to be expected in the future from mutant genes now present.
+Though the two approaches differ, the
+
+same general principle emerges. Whether the damage is measured as loss of fitness in an equilibrium population or as future genetic deaths, the total mutational damage is equal to the total mutation rate.
+The foregoing theory assumes that the mutants have a harmful effect in the heterozygous condition, and that homozygous mutant individuals are so rare that they can be neglected. The most frequent mutation in Drosophila is a detrimental "recessive," but careful tests usually reveal that the mutant has an appreciable effect on viability when heterozygous. For example, the average mutant that is lethal in the homozygous condition causes about 4-5 per cent pre-adult deaths when heterozygous. If adult mortality and decreased fertility were considered, the heterozygous effect on fitness would probably be greater. It is probable that the same absence of complete
+
+70 Eugenics Quarterly
+
+Downloaded by [University of Michigan] at 13:24 08 December 2015
+
+dominance is also characteristic of mutants that cause only slight damage when homozygous, but this point has not yet been established experimentally. Any mutant gene that has a measurable harmful effect when heterozygous will usually be eliminated from the population before it ever has a chance to become homozygous.
+It is quite safe, I believe, to ignore in this discussion mutations classed as dominant lethals in experimental animals and plants. These are mostly due to gross changes in the chromosomes. At the low radiation dosages likely to be encountered in human populations, these would be very much less frequent than "point" mutations. Another reason is that any that do occur are likely to cause mostly very early embryonic deaths, which are of less consequence for human welfare than mutations causing disease or death at later stages.
+The Haldane-Muller principle does not apply to genes that are maintained in the population in a balanced polymorphic condition, by heterozygote superiority or for other reasons. An increase in mutation rate at such loci does not cause a proportional reduction in fitness. The possible importance of such factors in non-inbred populations has been stressed by several authors {e.g., 8, 9). But, although such loci may possibly account for a large fraction of the population variance in fitness, it is likely that this comes from a relatively small number of chromosome loci that individually, because of their polymorphism, make a disproportionately large contribution to the population variance (8). If the number of such loci is relatively small, they account for a small fraction of new mutants. Furthermore, the range of possible mutant types must far exceed the number of alleles maintained in balanced polymorphism, and many of these mutant types, especially radiation-induced, may be unequivocally harmful. In any event the lethal and distinctly deleterious mutants studied in Drosophila which form the basis for most estimates of total mutation rate are of a
+
+type to which the Haldane-Muller principle applies.
+There also may be genes whose effect on fitness is very slight. Perhaps the "polygenes" that determine quantitative characters are of this type. If the harmful effect of a mutant is of the same order as the mutation rate (say less than 10~4) the Haldane-Muller principle does not hold exactly. However, such genes probably contribute relatively little to the total mutational load.
+We are left then with the belief that the mutational load is due primarily to detrimental recessive genes that have small but not negligible effects as heterozygotes. Usually these cause no obvious visible abnormality. The kind of mutants studied in Drosophila and from which the calculations given in the earlier paper (1) were made are of this type. Since these mutants usually never become homozygous, it is their heterozygous (i.e., dominant) effects that count. Therefore a simple theory, such as I have presented, based on only dominant mutations is probably a close approximation to the truth.
+This theory, simple and direct though it is, is unsatisfactory from the standpoint of assessing human damage. For, although fitness is one aspect of the human population, it is not the most important one. What we should like to know is the amount of mutational damage in successive generations in terms of death rates at various ages, increased incidence of physical and mental disease, increased frustration and unhappiness -- in short, the sum total of human misery. However, the total impact of mutation on mankind in such terms cannot be measured by any means now known. We can hope to estimate the increased frequency for specific genetic diseases. But even when this has been done for all known hereditary diseases only a small fraction of the total genetic damage will have been included; for most of the genetic damage, if we can analogize from Drosophila, is due to genes that cause a slight reduction of life
+
+71
+
+expectancy, a decrease in fertility, an increase in various kinds of ordinary illnesses, and other such non-specific effects. Measurement of the effect on fitness or of the number of genetic deaths at least has the merit that it is an approach to the total genetic damage. Intangible as it is, measurement of mutational damage in these terms gives some quantitative notion. But one must remember that a "genetic death" is not necessarily a physical death and that not all genetic deaths are equal in their impact on man's welfare. A genetic death resulting from early embryonic death or failure to reproduce may cause little or no distress. At the other extreme is a mutant gene that causes its bearer great pain or unhappiness, but which has very little effect on early death rate or fertility, and which therefore may affect many generations of descendants before its elimination.
+
+The Effect of Changing Mutation Rates
+The Haldane principle depends on the assumption of equilibrium between mutation and selection. I shall now consider some of the effects of departure from equilibrium.
+Figure 1 is intended to show the effect on an equilibrium population of a permanent increase in the mutation rate. If the mutation rate is increased by a certain factor, X, the mutational load (measured as decreased fitness, or increased number of genetic deaths) gradually rises and approaches asymptotically a new equilibrium where the loss in fitness is X times as great. Although the final equilibrium value is independent of the harmfulness of the individual mutant, the rate at which the population approaches the new equilibrium is strongly dependent on it. The rates have
+
+Downloaded by [University of Michigan] at 13:24 08 December 2015
+'IONA .OAD
+
+MUTATION RATE PERMANENTLY DOUBLED
+_ i NEW EQUILIBRIUM
+
+EQUILIBRIUMS M
+
+TIME
+
+2M
+
+FIGURE 1. Effect of a permanent change in mutation rate on the mutational load.
+
+72 Eugenics Quarterly
+
+been studied by Wright (10, and unpublished).
+If the mutation has a completely lethaJ effect, the new equilibrium is reached in one generation. But many mutations of great overall consequence for man probably have relatively small individual effects on fitness. For these it is convenient to compute a quantity analogous to the half-life of radioactive substances. This is the number of generations or years required for the fitness of the population to be changed half way to the new equilibrium value.4 A few numerical values are given in Table 2.
+Figure 2 is intended to illustrate a different situation, one where there is only a single generation of increased mutation rate followed by a return to normal. The upper line shows the equilibrium number of mutant genes per individual, M/s. This equilibrium is maintained as long as the
+4For moderately small values of s the number of generations required to go half way to the new equilibrium is very closely approximated by (1/s) logc2 = .693/s.
+
+TABLE 2
+
+Values of the time, T, required for the population to move half way to a new equilibrium when the mutation rate is changed, for different values of s, where s is the proportional reduction in fitness caused by the mutant. T is also the time when the mutations occurring in a single generation will have caused half of their total harm to the population. In converting from generations to years, an average time of 30 years is assumed.
+
+T
+
+Generations
+
+Years
+
+.25 2.8 84 .10 6.9 207 .05 13.9 417 .01 69.3 2079
+.001 693.1 20793
+
+new mutations are exactly balanced by elimination of old mutant genes. When the mutation rate is doubled for one generation, M new mutant genes per individual are added to the population. The number then gradually decreases to the old equilibrium value.
+The lower line in Figure 2 shows the mutational load. The effect of the single generation of increased mvitations is spread
+
+Downloaded by [University of Michigan] at 13:24 08 December 2015
+
+M MUTANTS IN POPULATION
+MUTATION RATE DOUBLED FOR ONE GENERATION
+M MUTATIONAL LOAD
+TIME
+FIGURE 2. The effect of an increased mutation rate for one generation on subsequent generations. The upper line gives the number of mutant genes per individual in the population, the lower the mutational load. The ratio of these two stays constant throughout the process.
+
+73
+
+Downloaded by [University of Michigan] at 13:24 08 December 2015
+
+over many generations in the future. But high probability of death a century ago
+
+the total increase in the load, the shaded may have a minor effect now. In so far as
+
+area in the graph, is exactly equal to M, the an improvement in environment amelio-
+
+number of added mutations.
+
+rates, rather than completely obliterates,
+
+In inquiring as to how long a time the the harmful effect of a mutant the Muller
+
+effect of the mutation increase persists, a principle still holds. For example if a mu-
+
+meaningful quantity is the "half damage tant which previously caused its bearer to
+
+time." This is the time by which half the have a 50 per cent probability of death in
+
+total damage due to these mutations will an improved environment causes only a 10
+
+have taken place. The half damage time is per cent probability of death, it still leads
+
+the same as the time for the number of to one genetic death, but the effect is
+
+mutants to return half way to their equi- spread over 5 times as many generations. librium value.5 Thus a mutant gene that Figure 3 is intended to show the effect of
+
+causes a 10 per cent reduction in fitness an improvement in the environment on a
+
+will exert 50 per cent of its total harm on population previously at equilibrium. The
+
+the population in about 7 generations, irre- improvement is assumed to be permanent.
+
+spective of how this harm is manifested or Following the changed environment, the
+
+measured.
+
+mutational load drops suddenly in propor-
+
+The new mutations are, of course, a tion to the magnitude of the change in fit-
+
+heterogeneous group with varying effects ness effected by the improved environment.
+
+on fitness. The approach to equilibrium is Then the population slowly returns to its
+
+a complex composite of the varying rates previous position. Each successive new im-
+
+of approach of the individual mutants. In provement causes a similar drop. Contrari-
+
+the earlier generations this is relatively wise, any return to the original conditions
+
+rapid because of mutants having large ef- after the improved situation increases the
+
+fect, but later as these are eliminated and load.
+
+mutants with small effect become relatively The present human population, especial-
+
+more important the approach is very slow. ly in the technologically more advanced
+
+For example, if the new mutants consist of countries, may be considerably out of equi-
+
+25 per cent with s = .04, 25 per cent with librium in this respect. The population is
+
+5 = .02, and 50 per cent with s = .01, the probably at a stage where current elimina-
+
+average persistence is about 70 generations, tions are insufficient to balance the past
+
+but 50 per cent of the total genetic damage and current mutation rates. If the present
+
+occurs in about 40 generations.
+
+environment can be maintained (but is
+
+not further improved), the population will
+
+Effect of a Change in Environment
+A major difficulty with the foregoing theory comes from the fact that in the human population many of the factors that determine the equilibrium are changing faster than the equilibrium is approached. The environmental improvements of the last few centuries have undoubtedly had a great effect in decreasing the harmfulness of many mutants. A mutant that caused a
+
+eventually return to a state where the number of genetic deaths per generation is equal to the number in the past. Thus the current generations are probably enjoying a respite. But the harm is postponed rather than prevented entirely, unless the environmental change is such as to render a previously harmful gene completely innocuous. There will be future improvements in the environment, probably much more spectacular than those of the past. The
+
+5Since half as many mutants will do halt as much total damage, when the number of mutants has been reduced by half, half the damage will have been done.
+
+continued postponement of genetic deaths demands continuous new improvements of the environment, but whether such im-
+
+74 Eugenics Quarterly
+PERMANENT ENVIRONMENTAL
+IMPROVEMENT
+
+3
+Z EQUILIBRIUM
+Io
+
+RETURN TO EQUILIBRIUM
+
+Downloaded by [University of Michigan] at 13:24 08 December 2015
+
+TIME
+FIGURE 3. The effect of a permanent improvement in the environment on the mutational load. Each new improvement would cause a similar drop, followed by a slow return to the earlier condition, unless the environmental change is such as to render the mutant completely innocuous.
+
+provements can keep ahead for long times in the future is a question about which one can only guess.
+As emphasized earlier, what we are primarily interested in is not reduction in fitness per se but the associated increase in human misery. From the standpoint of long-time human welfare, the most beneficial kind of environmental advance is one that reduces the amount of suffering associated with a mutation by a greater fraction than the fitness is increased. On the other hand, if the fitness is greatly increased but the amount of suffering not reduced correspondingly, the long-time total misery will increase.
+The Possible Effects of an Increased Mutation Rate on the Survival of the Population
+In one respect the theory developed in the previous sections is directly applicable.
+
+Since the population fitness is a measure of its ability to survive. and reproduce, any phenomenon that changes the fitness will be directly reflected in this ability. We may therefore inquire into the possibility that an increase in mutation rate may reduce the fitness of the population to such a point as to seriously threaten its survival. At a time when overpopulation is a major deterrent to economic advance in much of the world and a potential threat to human welfare everywhere, this may seem like a peculiar question to raise. Nonetheless a high enough mutation rate could lower the survival and reproductive powers of the population so that it might not be able to maintain itself. Is such a possibility at all likely?
+The total (diploid) rate of mutation to appreciably harmful genes in man has been estimated, with a great deal of uncertainty of course, as perhaps as high as .30 (1,7,9).
+
+15
+
+Downloaded by [University of Michigan] at 13:24 08 December 2015
+
+That is, 100 persons would carry a total of 30 new mutations. This means that if the population is now maintaining its numbers by producing an average of two offspring per parent, a population with no mutational impairment would survive and reproduce at such a rate that 30 per cent premature death or sterility would still leave an average of two offspring per parent. A doubling of the mutation rate would mean that, after equilibrium is reached, the population must have sufficient survival and reproductive capacity that perhaps 60 per cent deaths could be tolerated. The number would actually be somewhat less because of coincidence of mutants in the same individual.
+In the most fertile human populations, such as the Hutterites and some rural populations in Quebec where high conception rates are combined with favorable living conditions, the total number of children per family is 10 or more. This is five times the replacement rate so 80 per cent deaths could be tolerated in these populations. It is clear that the potential reproductive capacity of the human population is sufficient to permit an increase of several fold in the mutation rate for several generations. The problem of actual survival would begin to become critical only after many generations as the equilibrium state is approached.
+To state that the human population could stand a several fold increase in mutation rate without a threat to persistence from decrease in survival and reproductive potential per se is of course not to state that such a change would not have disastrous effects on the population for other reasons. For one thing if the number of genetic deaths were greatly increased there would be a corresponding increase of all illness and incapacitation of genetic origin. In a system of careful cost accounting, the unhappiness, suffering, or inefficiency of the well caused by their having to care for the physically or mentally sick should be charged to the mutational load. In such a sense the mutational load may extend to
+
+persons who do not actually carry a mutant gene.
+Despite the complexity of human society and the limited applicability of the simple analysis followed here I believe it is safe to say that the human population is not likely to encounter any amounts of radiation that would exert enough of an effect on survival and reproductive capacity to be a serious hazard for this reason alone. Even one generation of exposure to a near lethal dose would probably not lead to population extinction for the effects would be spread over many generations. In particular, if the population stays within the lOr limit recommended by the National Academy of Sciences Committee (3) and the National Committee for Radiation Protection, it is safe from the survival viewpoint.
+Attempts to Estimate the Magnitude of
+the Impact of lOr of Radiation
+in Various Ways
+Table 3 gives some crude estimates of the amount of genetic effect to be expected from lOr of radiation (the amount recommended as the maximum average gonad dose for the population) as a single generation indefinitely in the future. The first estimate is for a single dominant mutation which, being highly debilitating, is transmitted to a second generation only in a minority of cases. Thus most of the impact is in the first generation. The second is a more inclusive category intended to include all of the more severe impairments thought to have a clear hereditary origin. Next are infant and childhood deaths based on human death rates from consanguineous marriages. These include stillbirths and deaths at all childhood ages up to sexual maturity. The fourth category is an estimate of embryonic and infant deaths, based on total deaths in mice during embryology and for the first 3 weeks of post-natal life. Finally the total "genetic deaths" are estimated, based on radiation-induced mutation rates in mice.
+
+76 Eugenics Quarterly
+
+TABLE 3
+Crude estimates of the effect of lOr of radiation on the human population. T h e first two columns give the effect of the first generation. T h e last two columns can be interpreted either of two ways: (1) as the total effect for all time in the future from a single dose assuming constant population size, or (2) the effect in a single generation after a population has received lOr per generation for a large number of generations. All of these estimates depend on mouse data for radiation-induced mutation rates, and on other data which are not always accurate. Therefore, the numerical values should be regarded only as roughly indicative.
+
+First Generation Effect
+
+Cases as a fraction
+of total population
+
+Number of
+cases in a popu-
+lation of 100 million
+
+(1) Achondroplasia
+
+0.000005
+
+(2) Gross mental or physical 0.00O4
+
+500 40,000
+
+(3) Infant and childhood death
+(4) Embryonic and early childhood deaths
+(5) Total "genetic deaths"
+
+0.001 0.002 0.003
+
+80,000 200,000 300,000
+
+Total Effect
+
+Number of
+cases as a fraction
+of total population
+
+Number of
+cases in a popu-
+lation of 100 million
+
+0.000006 0.004
+
+600 400,000
+
+0.02 2,000,000
+
+0.04 4,000,000
+
+0.05 5,000,000
+
+Downloaded by [University of Michigan] at 13:24 08 December 2015
+
+The figures in Table 3 were obtained as follows:
+(1) Effect on specific diseases. With a disease due to a single dominant gene, the effect of an increased mutation rate will take place immediately. With a recessive sex-linked gene about a third of the mutations will be expressed in the first generation, and the rest will make their first appearance over the next half-dozen generations. But with an autosomal recessive mutant the proportion that will be expressed in any one generation is extremely small, usually less than 1per cent and often much less.
+The example chosen is a dominant mutant, achondroplasia. This is an example of a highly deleterious dominant gene, and most of the total impact of the mutation is on the first generation (11). The reduction in fitness of persons carrying this gene is estimated to be about 4/5. To estimate the number of mutations induced by lOr, I have taken the rate for mice, which is about 2.5 mutations per million genes for lOr. On this assumption, if each parent received lOr there would be 5 new mutations per million progeny. The average
+
+persistence of this mutant is about 5/4 generations, so the eventual number of cases would be about 625 per 100 million.
+If the X-ray mutation rate is correlated with the spontaneous rate, this probably represents an underestimate, for achondroplasia is one of the most frequently occurring spontaneous mutations. A detailed discussion of this disease is given by Penrose (8, p. 93).
+(2) Gross mental or physical defect. Roughly 5 per cent of the children born have some gross mental or physical defect and geneticists have estimated that perhaps half of these have a simple genetic origin (3). I shall take the figure as 2 per cent. A dose of 30-80r produces a mutation rate in mice that is equal to the spontaneous rate in man (3, 11). I shall assume 50r, so lOr is 1/5 this amount. If this figure is used, then 1/5 X .02, or .004 would be the eventual increase in such defects due to continued exposure to lOr. Since a substantial fraction of such conditions in man follow a simple dominant pattern of inheritance, I have assumed that 10 per cent of the total effect would appear the first
+
+77
+
+Downloaded by [University of Michigan] at 13:24 08 December 2015
+
+generation or 40,000 cases per 100 million births.
+(3) Infant and childhood death. This calculation uses the increased death rate from birth (including stillbirths) to early adulthood among the children of consanguineous marriages as an estimate of the amount of hidden genetic damage. Using this, and assuming that the amount of heterozygous expression of recessive genes is the same in man as for lethal factors in Drosophila, one can calculate the increased death rate to be expected from this cause in non-inbred families. This calculation led to a value of 6 to 10 per cent (12); I shall use .08. A further assumption is, as in the previous paragraph, that lOr is 1/5 the amount of radiation required to double the human mutation rate. This gives 1/5 X .08 = .016 as the total damage. Drosophila data give 4-5 per cent as the amount of heterozygous expression. Allowing for a few dominant mutants during this time, I shall assume that 6 per cent of the total effect, or .00096 occurs the first generation.
+(4) Embryonic and infant deaths. This estimate uses data from Russell (13) showing that female mice mated to males who have received 300r of X-rays had a 3-4 per cent reduction in litter size. The litters were counted at 3 weeks, so the figure represents the sum of embryonic and early post-natal deaths. For an exposure of lOr to both parents the fraction of first generation deaths is estimated as 20/300 of .035 or .0023. In order to compute the total damage it was assumed as before that 6 per cent of the damage occurred the first generation, giving .038 as the total.
+(5) Total "genetic deaths." The average of several gene loci studied in mice gave 0.000,0025 mutants per gene for lOr. In Drosophila the ratio of all detectably harmful mutations to the single gene rate is about 10,000. Using this combination of mouse and Drosophila data we estimate for the number of mutations induced by lOr, .000,0025 X 10,000 X 2 or .05. The factor 2 comes from the assumption that both par-
+
+ents are irradiated. This .05, or 5 million in a population of 100 million, represents the total mutations or, by the Muller principle, the number of genetic deaths. Assuming as before that the first generation effect is 6 per cent, the estimate for this is .003.
+Despite the limitations of accuracy and the tenuous assumptions that have been made, these figures are in reasonable agreement. They are to a large extent independent, but in one very important respect they are all subject to the same possible error. All depend on mouse data for the rate of radiation-induced mutation. Until there is quantitative information on man this is the best we can do, but this limitation must be kept in mind. There are of course other sources of error, but this is perhaps the greatest source of uncertainty.
+Categories (3) and (4) are necessarily overlapping in that both include stillbirths and early childhood deaths (or whatever in man corresponds to mice less than 3 weeks old). None of these figures measure effects on fertility, for even the Drosophila data that go into the calculations of the total genetic deaths do not include this. Nor are the effects of mutants with very small effects included. In this respect the last row of figures are underestimates.
+Assuming for the moment that these estimates are all entirely reliable, there are still difficult problems of interpretation. Which is more important, 40,000 physically or mentally defective or 200,000 embryonic and early childhood deaths. And how does either of these compare in its impact on mankind with 300,000 "genetic deaths"? Clearly some persons will find one measure more meaningful, other persons will prefer other measures. Some prefer a tangible estimate of known genetic disease. Others prefer an estimate of the total effect, even if intangible.
+The general conclusions that emerge from the figures in Table 3, it seems to me, are as follows: unless the estimates given here are grossly in error, the figure of lOr
+
+78 Eugenics Quarterly
+
+Downloaded by [University of Michigan] at 13:24 08 December 2015
+
+that has been recommended appears to be a reasonable one, "not harmless, mind you, but reasonable" (3). The amount of damage to be expected from one generation of exposure to this amount of radiation, though not negligible, would be a small fraction of the total human misery due to other causes. Long-continued exposure to this dose would cause more damage of course. Present estimates suggest that the long-time effects would still be considerably less than those caused by other factors, including spontaneous mutations. We can also hope that before many generations are exposed to this or any other level, the amount of knowledge will have increased so that better estimates can be made and public policy corrected accordingly.
+The above paragraph should not be construed to mean that an average gonad dose of lOr is harmless. Any amount is harmful to some extent, and every preventable instance of disease or death is one too many. Therefore, any reduction of the radiation exposure to the pre-reproductive gonads is a genetic gain. Fortunately, there are many ways in which such exposure can be reduced without impairment of economic development or the quality of medical diagnosis.
+Evolutionary Considerations
+A question which frequently arises is this: if, as is generally believed, mutations constitute the raw material for evolution, might it not be true that an increased mutation rate would increase the opportunity for further human evolution? I think there are two kinds of answers.
+The first is that it is not easy to determine the optimum rate of mutation for evolution of any species. In man one can only guess. It is at least as likely that man's mutation rate is already too high for maximum evolutionary progress as that it is too low. See Muller (6) for a discussion.
+The second, and to me more important answer, is that our main concern is not with the next million years of man's future
+
+(if he has that much of a future) but with the next few generations. For the foreseeable future, an increased mutation rate would only add to human misery. Radiation-induced mutations are at least as harmful on the average as spontaneous mutations, and there are reasons for believing that they are more so. Therefore any concern for the "short-term" genetic future, which is really a much longer time than we usually try to plan for in human affairs, would dictate that the mutation rate be kept as low as possible.
+Much of the hope for man's future does not lie in biological improvement but in cultural, social, and scientific advance. And in the realm of the strictly biological, there is plenty of opportunity for selection among the array of genes already in the population.
+Needed: Alternatives to Natural Selection
+A few generations ago less than half of the infants born survived to maturity; now the majority do. This does not necessarily mean that natural selection was more effective then than now, for the efficiency of selection depends on how closely the differential survival and fertility are related to the genetic makeup. The chances are that many deaths and failures to reproduce were purely random with respect to genotype and therefore were a waste as far as human progress is concerned (except as Muller (14) points out, in so far as they prevented the world from becoming overpopulated even sooner). But some of the deaths and reproductive failures were selective and whatever genetic merits the human species now has it owes to this process, crude as it was.
+We are approaching a stage when almost every zygote can grow into a potentially reproducing adult. Environmental advance may in this fashion largely eliminate natural selection as a moulding force. The chief selective factor may then become differences in desire for children. Deleterious
+
+79
+
+Downloaded by [University of Michigan] at 13:24 08 December 2015
+
+mutants are probably already accumulating in the population more rapidly than they are being eliminated, and any increase in the mutation rate will accentuate this.
+In the realm of future possibilities there are at least three things than can perhaps be done to ameliorate the problem of accumulating deleterious mutations. One possibility lies in the reduction of not only radiation-induced but spontaneous mutation rates. This, of course, will not help reduce the number of mutants already in the population but will slow down the rate of addition of new ones. For example, the mutagenic activity of X-rays can be reduced by lowering the oxygen content of the tissues. So far the method is not practical for human use, but there is hope that at least some reduction of the genetic effects of radiation may some day be attained. On the other hand we have hardly any idea about what chemicals are mutagenic in man, and it is entirely possible that some substances among the variety of chemicals used in our present society are mutagenic. They may be a more serious problem than radiation. The most hopeful finding is that of Novick and Szilard (12) that some substances decrease the spontaneous mutation rate in bacteria. It may be a long time before any control over human mutations comes from this discovery, but it points the way to what may some day be possible.
+Another thing that might be done is to continue permanently to improve the environment. We can and undoubtedly will continue to produce spectacles, hearing aids, insulin (though this may eventually be supplanted by transplanting pieces of pancreas), and hormones. We can also share a larger fraction of our blood and eventually tissues and organs with others. And of course there are possibilities that no one can now foresee. The important principle from the genetic standpoint is that following each environmental improvement there is a slow return to the old mutational equilibrium. We cannot maintain the present low death rate forever by sim-
+
+ply maintaining the present environment; continuous improvements have to be made. Whether future health is better or worse depends on the relative rate of environmental improvement compared with mutation accumulation. Much of the long-range success depends on economic advance that makes possible a large expenditure in repairing one another's genetic weaknesses.
+Perhaps most important of all for man's genetic future is the finding of substitutes for natural selection. Natural selection operates in an inefficient and often cruel way. What are needed are ways of painlessly and efficiently weeding out harmful mutant genes. There are several possibilities that offer hope for the future. Increasing knowledge of biochemistry has made it possible to detect persons who are asymptomatic, but who may pass on the gene for a severe disease. Ways may some day be found to identify persons who carry a large number of genetic defects, so that one abstention from reproduction may eliminate several harmful genes. Artificial insemination and, some day, perhaps, ova transplants may be used. With these possibilities, and with the advances that are certain to come in the future, man can go a long way in replacing natural selection with much more effective and much more humane alternatives. I have more confidence that scientists will be able to devise such procedures than that society will accept them willingly and use them wisely.
+REFERENCES
+1. CROW, J. F. 1956. The estimation of spontaneous and radiation-induced mutation rates in man. Eugen. Quart. 3 : 201-208.
+2. NEEL, J. F., and SCHULL, W. J. 1956. The Ef-
+fect of Exposure to the Atomic Bombs on Pregnancy Termination in Hiroshima and Nagasaki. Nat. Acad. Sci.--Rat. Res. Council Publ. 461, pp. 1-241. 3. The Biological Effects of Atomic Radiation. 1956. National Academy of Sciences--National Research Council, Washington. 4. MULLER, H. J. 1955. How radiation changes the genetic constitution. Bull. Atomic Scientists 1 1 : 329-338, 352. 5. HALDANE, J. B. S. 1937. The effect of variation on fitness. Amer. Nat. 7 1 : 337-349.
+
+80 Eugenics Quarterly
+
+6. MULLER, H. J. 1950. Our load of mutations. Amer. J. Human Genet. 2 : 111-176.
+7. MULLER, H. J. 1956. Further studies bearing on the load of mutations in man. Acta Genetica et Statistica Medica 6: 157-168.
+8. CROW, J. F. 1952. Dominance and overdominance. Heterosis, ed. by J. W. Gowen. Iowa State Coll. Press. pp. 282-297.
+9. PENROSE, L. S. 1856. Mutation in man. Acta Genetica et Statistica Medica 6: 169-182.
+10. WRIGHT, S. 1950. Discussion on population genetics and radiation. J. Cell. Comp. Physiol. 35 (suppl. 1): 187-204.
+11. The Hazards to Man of Nuclear and Allied
+
+Radiations. 1956. British Medical Research Council. Her Majesty's Stationery Office. London.
+12. MORTON, N. E., CROW, J. F., and MULLER, H. J.
+1956. An estimate of the mutational damage from data on consanguineous marriages. Proc. Natl. Acad. Sciences 4 2 : 855-863.
+13. RUSSELL, W. L. 1956. Genetic effects of radiation in mice and their bearing on the estimation of human hazards. Proc. Iner. Conf. on Peaceful Uses of Atomic Energy. 2: 382-383.
+14. MULLER, H. J. 1957. Man's place in living nature. The Humanist 7: 3-13, 93-102.
+15. NOVICK, A. 1955. Mutagens and antimutagens. Brookhaven Symposia in Biology 8 : 201-214.
+
+Downloaded by [University of Michigan] at 13:24 08 December 2015
+
+

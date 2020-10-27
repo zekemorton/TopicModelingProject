@@ -1,0 +1,647 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Indirect estimation of cause of death structure in Africa and contemporary theories of mortality
+Sulaiman M. Bah
+To cite this article: Sulaiman M. Bah (1995) Indirect estimation of cause of death structure in Africa and contemporary theories of mortality, Social Biology, 42:3-4, 247-255, DOI: 10.1080/19485565.1995.9988905 To link to this article: http://dx.doi.org/10.1080/19485565.1995.9988905
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 4
+View related articles
+Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:46
+
+Indirect Estimation of Cause of Death Structure in Africa and Contemporary Theories of Mortality
+
+I >;.1 ( ->·mwwmmmmms
+SI-/
+
+Sulaiman M. Bah
+Population Studies Programme Department of Sociology University of Zimbabwe Harare, Zimbabwe
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+ABSTRACT:This paper is a critical assessment of techniques used for the estimation of cause of death structure in Africa in the light of contemporary theories of mortality. The technique mostly used for the indirect estimation of cause of death structure is based on the mortality experience in Western countries. With the marked differences in the epidemiologic transition experienced in Western countries and those being experienced in African countries, it is not very likely that an estimation of cause of death structure based on data from the former can accurately estimate cause of death structure in the latter. This argument is supported in the paper through a comparison of observed estimates of cause of death structure for some African populations with indirect estimates. It is proposed that a better approach is to use a residual method whereby one proceeds from nearly true estimates of cause of death rates to obtain estimates for unknown causes via the known general mortality.
+
+The study of mortality by causes of death plays a very important role in the design of health intervention programs as well as in decision making in terms of priorities for health care action. In many African countries mortality statistics themselves are incomplete; statistics on causes of death are rarely available. Where they are available (mostly in urban areas), their reliability and their representativeness in reflecting the national pattern of cause of death are questionable. The exceptions to the above are few.
+Faced with such problems of data constraints, researchers have developed a host of techniques for the purpose of obtaining conventional data using unconventional means. These techniques, otherwise known as "indirect estimation techniques," have been applied to the estimation of infant and
+
+child mortality, adult mortality, and maternal mortality among others. Recently, indirect estimation techniques have been extended to the analysis of causes of death. As these techniques are developed, they are evaluated, and if found to be valid, they are subsequently applied to developing countries where the results obtained from their application assist in decision making.
+The simplest way to validate the performance of these techniques is to compare their estimates with the observed values. In the absence of observed values, the evaluation of these indirect techniques becomes problematic. It is against this background that this article is written. As cause-ofdeath data in Africa are very scarce, the validation of the techniques for the indirect estimation of cause-of-death
+
+247
+
+248 Bah Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+structure cannot be a straightforward matter.
+The starting point for the indirect estimation of cause-of-death structure is recognition of the linear relationship between overall mortality and causespecific mortality. This relationship was first documented in the work of Preston and Nelson (1974) based largely on data from European populations. It has since been replicated by other researchers, such as Palloni and Wyrick (1981) using Latin American data, and by Bah (1992) using Mauritian data.
+The problem arises when the linear model derived from those populations studied is extended to other populations for the purpose of estimating their cause-of-death structure. Is the practice viable, or not? Using Omran's (1982) theory of the epidemiological transition, one can reason both ways. The theory "focuses on the complex changes in pattern of health and disease in a society and on their demographic, socioeconomic and biological determinants and consequences" (Omran, 1982). It proposes that disease patterns shift over time so that infectious and parasitic diseases are gradually, but not completely, displaced by degenerative and man-made diseases as the leading causes of death.
+According to the theory, the transition consists of three major successive stages: the stage of pestilence and famine with life expectancy at birth of 20-40 years; the stage of receding pandemic with life expectancy at birth of 30-55 years; and the stage of degenerative and man-made diseases with life expectancy at birth of 70 years or more. The theory further proposes four models of the; epidemiological
+
+transition: the classical or Western model; the accelerated variant of the classical model; the delayed model; and the transitional variant of the delayed model.
+Based on this theory, one would argue that the causes-of-death structure would be largely determined by life expectancy (and corresponding to the crude death rate). This approach is an evolutionary one which assumes that the progression from the stage of pestilence and famine to that of degenerative diseases is a linear one. As such, it would seem that the regression model developed using data from Western countries (which have undergone all the stages of the epidemiologic transition) would be applicable to developing countries which are undergoing their epidemiologic transitions.
+In criticizing Omran's formulation, Frenk et al. (1989) argue that between the countries in the advanced stage of the epidemiologic transition and those in the initial stage lies a third group that is undergoing a new transition experience quite different from that of the developed nations. They describe such countries as belonging to the "protracted and polarized" transition model. This model is characterized by the following features. (1) Overlap of eras.The stages of the transition do not follow a sequential order but exhibit considerable overlap. (2) Countertransitions. The shift from high mortality to high morbidity occurs not only for degenerative diseases but also for infectious diseases as in some developing countries. (3) Protracted transition. The transition process is not clearly resolved as countries exhibit both infectious and chronic diseases. (4) Epidemiologicpolarization. A polarization is
+
+Vol. 42, No. 3-4
+
+Cause of Death
+
+249
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+seen to occur between population subgroups with the poor and rural populations succumbing to the pretransitional pathology while the urban populations experience posttransitional pathology.
+More recently, Omran (1993) modified the epidemiologic transition theory, taking account of the different criticisms levelled against the theory. Specifically, the idea of overlap of diseases and the emergence of new scourges like AIDS and the resurgence of diseases like tuberculosis are now included in the modification. Also, Omran's modification includes three transitional variants--the rapid transitional variant, the intermediate transitional variant, and the slower transitional variant. To a large extent, this modification has addressed most of the issues raised by the different critics of the older theory.
+From these modifications to the epidemiologic transition theory, it would not seem viable to apply a model based on the epidemiological experiences of one group of countries to another.
+MATERIALS AND METHODS
+The method used here is relatively straightforward. First, the regression equations of Lopez and Hull (1983) are used to obtain the cause-of-death structure for certain African countries. The countries selected for the validation exercise are those for which reliable cause-of-death information is available. Second, the estimated cause-of-death structure is then compared with the observed one. The difference between the two is then explained using contemporary theories of
+
+mortality and making use of reasoning based on internal consistency.
+The basic equation for the indirect estimation of the cause-of-death structure is given as:
+
+Mt = a, + bt-M
+
+(1)
+
+Where Mt is the age-standardized cause-specific death rate for cause i (to be estimated)
+M is the age-standardized death rate for all causes (given as input)
+a, and bi are the fitted regression coefficients (obtained from Lopez and Hull, 1983).
+The regression coefficients a, and bt fitted by Lopez and Hull (1983) are based on data compiled by Preston et al. (1972). The data covered 165 national populations (mostly European or "overseas European"), spanning about one hundred years (1861 to 1964) and grouped into twelve broad categories of causes of death. In order to compute the standardized death rates, Lopez and Hull used a "young standard" population. This population was unlike the "old standard" age structure used by Preston and Nelson (1974) which was inappropriate for use in many African countries.
+
+The cause-of-death groupings used in some of the estimation are given in Table 1. In comparing the estimated cause-of-death structure with the observed one, we attempt to make the cause-of-death categories as compatible as possible. The computations were done using the author's program CAUSE.FOR written in standard FORTRAN. The program uses as input data the crude death rate of a given
+
+250 Bah Social Biology
+
+TABLE 1
+CAUSES OF DEATH CATEGORIES USED IN THE ANALYSIS
+
+Category
+1. All Causes 2. Infectious andParasitic Diseases
+3. Neoplasms 4. Endocrine and Nutritional Disorders 5. Diseases of the Circulatory System 6. Diseases of the Respiratory System 7. Diseases of the Digestive System 8. Complications dueto Pregnancy,
+Childbirth, andPuerperium 9. Congenital Malformation and
+Diseases of Infancy 10. External Causes of Injury andPoisoning... 11. Others and Unknown
+SOURCE: Hakulinen et al., 1986, Table 1.
+
+Abbreviation
+ALLC INF
+NEO NU CIR RES DIG
+PRG
+CON INJ OTH
+
+ICD-8 A-List (1965)
+
+ICD-9 Basic Tabul. List (1975)
+
+A1-A150
+
+01-56
+
+A1-A44 01-07; 2% of rest
+
+of 34; 320, 323
+
+A45-A61
+
+08-17
+
+A62-A66
+
+18-19
+
+A80, A88
+
+25-30
+
+A89, A94-96
+
+31-32
+
+A97-A104
+
+33-34
+
+A112-A118
+
+38-39; 41
+
+A126-A135 AE138-AE150
+A68-A80; A106-A112; A120-A126;
+A137-A138
+
+44-45 E47-E56 All the rest
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+country and makes use ofEquation (1)
+
+and the regression coefficients of Lo-
+
+pez and Hull (1983) toobtain estimates
+
+of cause-of-death rates for all age
+
+TABLE 2
+
+groups. The rates are then expressed as
+
+COMPARISON BETWEEN OBSERVED CAUSE
+
+percentage ofthe M. If the crude death
+
+OF DEATH STRUCTURE IN GHANA (1966)
+
+rate is available by sex, the analysis is done by sex. If the cause-of-death categories published differ from those
+
+AND ESTIMATED CAUSE OFDEATH STRUCTURE IN GHANA (1965) BASED ON REPORTED HOSPITAL DEATHS
+
+used by Lopez andHull, the program further regroups the cause-of-death
+
+Cause of Death
+
+Per Cent
+
+Per Cent
+
+Observed
+
+Estimated
+
+(Ghana, 1966) (Ghana, 1965)
+
+categories used for the estimates to al- Infectious and parasitic
+
+low
+
+for comparison
+
+between
+
+the
+
+ob-
+
+diseases Neoplasms
+
+served andthe estimated rates.
+
+Diseases of the
+
+26.0 2.7
+
+27.76 3.92
+
+RESULTS
+
+circulatory system.... 5.1 11.83 Diseases of the
+respiratory system.... 9.9 17.44 Accidentsand
+
+In the first application, weuse data poisoning
+
+on registered causes of death in urban
+
+Maternal causes of death
+
+areas of Ghana in 1966.The urban Certain diseasesof
+
+6.6 4.37 2.1 .67
+
+population comprised 15 per cent of the total population, and thestudy period was from July to September. Table 2 shows a comparison between the
+
+early infancy
+
+12.4
+
+All others (residual).... 35.2
+
+Total
+
+100.0
+
+8.57 25.44 100.00
+
+SOURCES: Miltenyi (1971) for observed data; output from author's program CAUSE.FOR for estimated data.
+
+Vol. 42, No. 3-4
+
+Cause ofDeath
+
+251
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+observed (urban) and the estimated
+
+TABLE 3
+
+(national) cause-of-death structure us- COMPARISON BETWEEN OBSERVED CAUSE OF
+
+ing a cause-of-death grouping that allows forcomparability. It would have been better to compare estimates for
+
+DEATH STRUCTURE IN RURAL KENYA (1975-78) AND ESTIMATED CAUSE OF DEATH STRUCTURE IN RURAL KENYA (1983)
+
+the urban area with the observed rates for the same area. However, the estimates needed for mortality in the ur-
+
+Cause of Death
+
+Per Cent Observed (Kenya, 1975-78)
+
+Per Cent Estimated (Kenya, 1983)
+
+ban area were not available. Taking into account that there is marked seasonality in mortality inAfrica and that mortality patterns in rural areas are quite different from those in urban areas, the reported data can hardly be said to be representative ofthe national population. Nevertheless, they allow rough comparisons. Table2 shows a good agreement between the
+
+Tuberculosis Other infectious and
+parasitic diseases Neoplasms Diseases of the
+circulatory system....
+Diseases ofthe respiratory system....
+Diarrhoeal diseases Accidents and
+poisoning Certain diseases
+of early infancy
+
+7.1
+17.6" 3.7
+7.2 15.8
+10.8 6.2
+12.8
+
+6.42
+11.68 5.81
+14.99 15.36
+9.42 5.07
+8.99
+
+model's estimate for infectious diseases and the observed rates. For neoplasms, respiratory diseases, and cardiovascular diseases, themodel tends
+
+All others (residual).... 18.8
+
+Total
+
+100.0
+
+22.26 100.00
+
+SOURCES: Omondi-Odiambo et al., 1990, for observed data; output from author's program CAUSE.FOR for estimated data.
+'Includes measles and malaria.
+
+to overestimate.
+
+As a second illustration, the ob-
+
+served cause-of-death structure in ru- of-death structure in Tables 4 and 5.
+
+ral Kenya is compared with theesti- The differences arevery striking. For
+
+mated cause-of-death structure (Table both males and females, the model
+
+3). The observed data were obtained showed high overestimates of neo-
+
+from the demographic surveillance sys- plasms, respiratory diseases, and con-
+
+tem of the Machakos project in rural genital malformations. The model
+
+Kenya. The estimated cause-of-death underestimated diseases ofthe circula-
+
+data were obtained using 1983 data. tory system.
+
+The table shows even better agreement
+
+between the observed data and the estimated results than in the Ghanaian
+
+DISCUSSION
+
+case. Diseases of the respiratory sys- The results given above have shown
+
+tem which appeared to be overesti- an overestimation of cardiovascular
+
+mated in Ghana now show very good diseases in Ghana and Kenya and an
+
+agreement with the data. However, underestimation in Mauritius. This dif-
+
+cardiovascular diseases appear tobe ference isnot a problem of methodol-
+
+overestimated just asin the Ghanaian ogy or data quality, but rather relates
+
+case. to thedifferences in the epidemiolog-
+
+As a third illustration, the observed ical transition experienced in these
+
+cause-of-death structure in Mauritius three countries relative to the countries
+
+is compared with the estimated cause- on which the model is based. The
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+252 Bah Social Biology
+
+TABLE 4
+COMPARISON BETWEEN OBSERVED CAUSE OF DEATH STRUCTURE AND ESTIMATED: MAURITIUS MALES, 1969-1986
+
+1969
+
+1975
+
+1980
+
+1986
+
+Cause of Death
+INF NEO CIR RES VIO CONG OTH
+
+Obs.
+263 53 235 20 59 59 270
+
+Est.
+174 79 193 114 81 94 224
+
+Obs.
+196 55 336 30 79 42 324
+
+Est.
+213 76 194 139 83 101 253
+
+Obs.
+132 56 387 51 76 34 255
+
+Est.
+173 79 193 113 81 93 223
+
+Obs.
+88 56 333 13 59 56 166
+
+Est.
+101 84
+192 76 76 79
+170
+
+SOUKCE: Observed values for rates per 100,000 compiled from Bah, 1993, Table 3.2,and estimated values were obtained from output of author's program CAUSE.FOR.
+
+TABLE 5
+COMPARISON BETWEEN OBSERVED CAUSE OF DEATH STRUCTURE AND ESTIMATED: MAURITIUS FEMALES, 1969-1986
+
+1969
+
+1975
+
+1981)
+
+1986
+
+Cause ofDeath
+
+Obs.
+
+Est.
+
+Obs.
+
+Est.
+
+Obs.
+
+Est.
+
+Obs.
+
+Est.
+
+INF
+NEO CIR RES
+VIO CONG PRG
+OTH
+
+227
+51 167 16
+23 43
+9
+236
+
+158
+71 152 96
+27 74 18
+185
+
+130
+40 167 18
+26 33
+6
+234
+
+113
+72 148 70
+26 66 16
+154
+
+87
+38 202
+9
+29 29
+6
+153
+
+75
+73 145 46
+26 59 14
+126
+
+51
+45 204
+6
+32 43
+4
+101
+
+51
+74 143
+32
+25 54 13
+109
+
+SOURCE: Observed values forrates per 100,000 were compiled from Bah, 1993,Table 3.3, and estimated values were obtained from output of author's program CAUSE.FOR.
+
+countries themselves are undergoing Lanka, and Jamaica. These countries
+
+different epidemiologic transitions. experienced rapid mortality decline in
+
+In the cases of Ghana and Kenya, the 1940's. A few decades later fertility
+
+both represent the delayed model, and started to decline as well inresponse to
+
+both are still in the early stages of efficient, organized family-planning ef-
+
+their transition, most likely thesecond forts supplemented by social develop-
+
+stage. At this stage, the incidence of ment. Furthermore, the mortality de-
+
+infectious diseases is much higher than cline in these countries, especially with
+
+that of noninfectious diseases.
+
+respect to infant and child mortality,
+
+Mauritius, however, represents the did not slacken but was sustained
+
+transitional variant of the delayed (Omran, 1982).
+
+model. Other countries belonging to Mauritius in the1980's saw a change
+
+this model include Taiwan, South in itscause-of-death structure in which
+
+Korea, Singapore, Hong Kong, Sri noninfectious diseases began topre-
+
+Vol. 42, No. 3-4
+
+Cause of Death
+
+253
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+dominate over infectious diseases. This period witnessed a rapid rise in cardiovascular diseases, even exceeding the rates experienced by Western countries at similar levels of mortality.
+The epidemiologic transition experienced in Western countries is fundamentally different from that experienced or being experienced in African countries. This difference had been described earlier by Omran (1971) in classifying different experiences under different models. One of the differences between these models lies in the incidence of cancers and cardiovascular diseases. According to Hunt (1991, p. 234):
+Hypertension and coronary artery diseases were very rare in Africa in the early part of this century. Both are now emerging in certain population groups and are likely to increase in frequency and importance as causes of morbidity and mortality.
+Regarding the origin of these causes of
+death, Hunt (1991, p. 236-237) writes:
+With both diseases (cancers and heart diseases), the patterns can be divided between the conditions that have existed in Africa since before European and Western influence arrived and those that can be related directly or indirectly to such influences.
+Hence, for many African countries where Western influence has been relatively less in terms of diet and life styles, the cause-of-death structure is characterized by a variation of different types of infectious diseases rather than a variation of different causes of death. As a result, an overall blanket estimate of "infectious diseases" will not be of much benefit.
+With the exception of Kenya, the model overestimated deaths due to
+
+respiratory diseases. This cause of death has been much reduced due to improvement in medicine and housing conditions and no longer poses the threat it did during the course of the Western epidemiologic transition. Hence, generally, the applicability of the model is questionable for those causes of death which have been brought under control through internationally assisted intervention programs in Africa.
+In addition to the above, the regression model will not be applicable in countries where "counter-transitions" are being experienced because the uniform decline embodied in the regression model cannot capture rises which follow declines.
+If this regression methodology is still to be employed in indirect estimation, then the epidemiological experiences of specific countries will have to be considered. For example, in the case of Latin America, the coefficients obtained by Palloni and Wyrick (1981) may be of some use. However, the marked heterogeneity among the Latin American countries will have to be taken into account. The coefficients obtained by Bah (1992) for Mauritius may be useful if applied to other countries belonging to the same epidemiological transition model.
+Alternatively, what we need is the reverse of the direction taken in the indirect estimation of cause-of-death structure. Instead of using broad categories, we should now concentrate on estimating rates for specific causes, using all available information. Grouping together the rates for these causes, we can obtain the rates for the residual causes via the general mortality rate (the rate of all causes combined).
+
+254 Bah Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+For example, a reliable indirect estimation technique for estimating maternal mortality rates is that of Blum and Fargues (1990) which can be used to obtain fairly accurate rates for maternal mortality. Cancer registries (now emerging in some African countries like Zimbabwe) can be used to obtain fairly accurate estimates of cancer incidence and mortality. These procedures can be followed by obtaining estimates of deaths from notifiable diseases (readily available from ministries of health) and from deaths due to traffic accidents (available from police records), etc. From these fairly reliable estimates, the known general mortality can be used to obtain residual mortality from "all other causes." While this residual category could be very broad, the technique used would have provided upper limits for the various causes included in the residual category.
+CONCLUSIONS
+Life expectancy at birth in most African countries (with the exception of some island populations like Mauritius where mortality has approached that of developed countries) ranges from 30 to 55 years. The major causes of death for these countries can be grouped broadly as follows: intestinal diseases, other infectious diseases, airborne diseases, maternal causes of death, accidents and poisonings, behavioral diseases, and complex and unexplained causes.
+While these broad groups of causes of death are common to many African countries, there are many disparities among their cause-of-death structures. These disparities arise because of differences in environment, culture, cli-
+
+mate, education, income levels, population distribution, the availability and accessibility of health services, the intensity of public health campaigns, and a host of other factors. All these factors contribute to the development of different epidemiologal profiles and to different routes used in the process of undergoing epidemiological transitions. This differentiation means that in the estimation of cause-of-death structure, broad regionalization will not be useful. As much as possible, the unit of analysis should be national or if possible, subnational. Effort should be directed to including some of the sources of variation in cause-of-death structures observed in Africa.
+With the marked differences in the epidemiologic transition experienced in Western countries and those being experienced in African countries, it is not likely that an estimation of cause-of-death structure based on data from the former can accurately estimate cause-of-death structure in the latter. This paper has used limited evidence to support this argument. We propose that a better approach is to focus on specific causes for which tested methods are available that can yield reliable estimates. These estimates can then be used to obtain rates for residual causes if the general mortality rate is known. The death rate for residual causes can provide the upper limit for the specific causes contained in the residual category.
+ACKNOWLEDGMENTS
+This research was begun while the author held a Rockefeller Foundation fellowship and was completed while the author held a Population Council postdoctoral fellowship.
+
+Vol. 42, No. 3-4
+
+Cause ofDeath
+
+255
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+REFERENCES
+
+BAH, S. M. 1992. Theinfluence of cause of death MILTENYI, K. 1971. Mortality pattern inGhana.
+
+structure on age patterns of mortality in
+
+In International Population Conference,
+
+Mauritius, 1969-1985. Unpublished Master's
+
+London, 1969. IUSSP, Liège.
+
+thesis, UNRIPS, Ghana.
+
+OMONDI-ODIAMBO, J. K., and VAN GINNEKEN.
+
+BLUM, ALAIN, and P. FARGUES. 1990. Rapid es-
+
+1990. Mortality bycause of death in a rural
+
+timation of maternal mortality in countries
+
+area of Machakos district, Kenya in 1975-78.
+
+with defective data: An application to Ba- J. Biosoc. Sci.22:63-75.
+
+mako (1974-85) and other developing coun- OMRAN, ABDEL R. 1971. The epidemiologic tran-
+
+tries. Pop.stud. 44:155-171.
+
+sition: A theory of epidemiology of popula-
+
+FRENK, J., ETAL. 1989. The epidemiologic transition in Latin America. In Proceedings of
+
+tion change. Milbank Mem. Fund Quart. 49:507-537.
+
+the International Population Conference,
+
+. 1982. Epidemiologic transition. In Inter-
+
+New Delhi, Vol. 1. International Union for
+
+national encyclopedia of population. Collier
+
+the Scientific Study of Population, Liege.
+
+MacMillian Publishers, NewYork, NY.
+
+GRAHAM, WENDY, W. BRASS, and R. SNOW.
+
+. 1993. The epidemiologic transition the-
+
+1989. Estimating maternal mortality: The
+
+ory. InPop. Bull. United Nations 48, No. 1.
+
+sisterhood method. Stud. Fam. Plan. 20(3): PALLONI, A., and R. WYRICK. 1981. Mortality
+
+125-146.
+
+decline in Latin America: Changes in the
+
+HAKULINEN, T., ET AL. 1986. Estimation of glo-
+
+structure of causes ofdeath, 1950-1975. Soc.
+
+bal mortality patterns bycause of death. In
+
+Biol. 28(3-4):187-216.
+
+H. Hansluwka et al. (eds.), New develop- PRESTON, S. 1972. Influence of cause of death
+
+ments inthe analysis ofmortality and causes
+
+structure on age patterns of mortality. In
+
+of death. Amarin Press, Bangkok.
+
+T. N. E. Greville (ed.), Population dynam-
+
+HUNT, MICHAEL. 1991. Cancer and cardiovascu-
+
+ics. Academic Press, New York.
+
+lar diseases. In R. Feacham and D. Jamison
+
+. 1976. Mortality patterns in national pop-
+
+(eds.), Disease andmortality inSub-Saharan
+
+ulations, with special reference to recorded
+
+Africa. World Bank, Washington, DC.
+
+causes of death. Academic Press, New York.
+
+LOPEZ, A. D., and T. H. HULL. 1983. A note PRESTON, S., and V. E. NELSON. 1974. Structure
+
+on estimating the cause of death structure
+
+and changes incauses of death: An interna-
+
+in high mortality populations. Pop.Bull.
+
+tional summary. Pop. Stud. 28(1).
+
+United Nations 14, 1982.
+
+

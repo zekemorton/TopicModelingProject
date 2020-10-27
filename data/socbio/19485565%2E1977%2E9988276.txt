@@ -1,0 +1,792 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Levels and patterns of infant and child mortality in Bangladesh
+M. Kabir
+To cite this article: M. Kabir (1977) Levels and patterns of infant and child mortality in Bangladesh, Social Biology, 24:2, 158-165, DOI: 10.1080/19485565.1977.9988276 To link to this article: http://dx.doi.org/10.1080/19485565.1977.9988276
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 3
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:36
+
+Levels and Patterns of Infant and Child Mortality in Bangladesh
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+M. Kabir
+London School of Hygiene and Tropical Medicine London, England
+ABSTRACT: Utilizing the 1974 Retrospective Survey data and registration data by Cholera Research for 1967-68 and by the Population Growth Experiment for 1962-63, this study attempts to measure infant and child mortality levels in Bangladesh and to determine their structure. The child mortality technique is used to convert proportions dead among children ever born to women in the childbearing ages into conventional life table measures of mortality. Shortcomings of present methods of measuring infant and child mortality in developing populations are discussed.
+
+This paper attempts to measure infant methods and/or by the fitting of models;
+
+and child mortality levels in Bangladesh to and (2) the estimation of infant mortality
+
+determine their structure by utilizing the from independent source meterial, i.e., re-
+
+1974 Retrospective Survey data, registra- trospective information on the number of
+
+tion data by Cholera Research, and Popu- children ever born and the number surviv-
+
+lation Growth Experiment data. Among ing.
+
+the major problems encountered in the exercise are the adjustment of the current
+
+MATERIALS AND METHODS
+
+raw mortality data and the estimation of The Cholera Research estimates of in-
+
+infant and child mortality from inde- fant mortality for the periods 1966-67 and
+
+pendent source material.
+
+1967-68 were 110 and 12S per thousand
+
+The estimates of infant mortality and live births. These figures seem to be seri-
+
+childhood mortality are seriously ham- ous underestimates compared to the Popu-
+
+pered by the lack of reliable and adequate lation Growth Experiment (PGE) estimate
+
+information on infant and child deaths. for 1962-63 of 147 per thousand live
+
+The existing source of information (Chol- births, especially considering the fact the
+
+era Research Project, Comilla Kotwali latter estimate is based on national data
+
+Project) are insufficient and can at best and therefore reflects a more or less true
+
+give an indication only of the level of rural level of infant mortality.
+
+infant mortality.
+
+It is evident that infant mortality rates
+
+The tendency of surveys to miss a sub- are higher in rural areas than in urban
+
+stantial proportion of infant deaths areas, although the magnitude of the dif-
+
+imposes a further limitation on the degree ferences is small. Males have a higher
+
+to which the infant mortality rate can be death rate than females, as reflected in the
+
+reasonably estimated from the available sex ratios at death. Neonatal mortality ac-
+
+sources. The present study will therefore counts for nearly one-half of the infant
+
+be concerned with two main problems: (1) deaths. Although there is tendency for the
+
+the adjustment of raw data on the basis of proportion of infant deaths to rise during
+
+detected errors as revealed by analytical the second half of the period under review,
+
+158
+
+Vol. 24, No. 2
+
+Infant and Child Mortality
+
+159
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+exact times of rise and fall differ slightly from one area to another or from one study to another. The irregular pattern of proportions dead may be largely due to either age misstatements or underregistration of deaths.
+It was assumed, however, that a large proportion of the observed discrepancies between the age composition of the infant deaths was due to errors arising from age misreporting. In the following section an attempt was made to adjust the recorded infant deaths by age by an analytical model developed by Bourgeois-Pichat (19S2).
+RESULTS
+APPLicATioN OF BOURGEOIS-PICHAT MODEL
+TO INFANT MORTALITY BY MONTH OF AGE
+According to Bourgeois-Pichat's model, Pn, the probability of death from birth to age n days can be expressed (except apparently in the first month of age) in terms of the following function
+_3 Pn - a + b log (n + 1), where a measures endogenous mortality
+
+and b log3 (« + 1), exogenous mortality, The application of the method to both Cholera Research and PGE data is presented in Table 1.
+It can be seen from this table that the curve of the adjusted infant mortality rates falls very sharply during the first four weeks and then falls more gradually toward the end of the period. According to the model, the proportion of infant deaths at ages 0 and 1 should be 45.9 and 9.7 respectively. There is therefore a general tendency toward understatements of age of the one-month-olds, resulting in the inflation of the proportion of deaths at age 0 months. However, if the omission of deaths is strongly associated with age, then the distortion of the mortality schedule may be partly attributed to omission errors. This fact is difficult to demonstrate
+with the available data, but it is commonly known that a fairly sizeable number of deaths of infants who die immediately after birth are missed,
+While it is difficult to draw any meaningful inferences from the data presented
+in T a b l e u it is e v i d e n t f r o m a v a i l a b l e
+information that there was underreporting
+
+TABLE 1
+OBSERVED AND ADJUSTED INFANT DEATH RATES BY AGE: BANGLADESH
+
+CHOLERA RESEARCH
+1967-1968
+
+POPULATION GROWTH EXPERIMENT
+1962-1963
+
+AGE IN MONTHS
+
+Deaths Cumulated
+
+Observed Rates per
+1,000 Live Births
+
+Adjusted Rates*
+
+Deaths Cumulated
+
+Observed Rates per
+1,000 Live Births
+
+Adjusted Rates*
+
+0
+
+94
+
+18.05
+
+27.01
+
+2,778
+
+91.88
+
+111.05
+
+1
+
+142
+
+27.71
+
+29.65
+
+3,046
+
+102.59
+
+111.97
+
+2
+
+178
+
+34.18
+
+37.73
+
+3,333
+
+112.26
+
+114.46
+
+3
+
+221
+
+42.44
+
+48.36
+
+3,643
+
+122.70
+
+118.46
+
+4
+
+264
+
+50.70
+
+60.52
+
+3,704
+
+124.75
+
+122.68
+
+5
+
+317
+
+60.88
+
+73.16
+
+3,789
+
+127.62
+
+127.06
+
+6
+
+380
+
+72.98
+
+86.19
+
+3,913
+
+131.80
+
+131.59
+
+7
+
+452
+
+86.81
+
+99.13
+
+3,998
+
+134.66
+
+136.11
+
+8
+
+513
+
+98.S2
+
+112.16
+
+4,093
+
+137.86
+
+140.60
+
+9
+
+561
+
+107.74
+
+125.41
+
+4,238
+
+142.74
+
+145.47
+
+10
+
+698
+
+114.85
+
+143.04
+
+4,288
+
+144.43
+
+149.44
+
+11
+
+653
+
+125.41
+
+150.18
+
+4,319
+
+145.47
+
+153.78
+
+SOURCES.- Derived from data from the 1967-68 Cholera Research annual report, Table B.21, and the 1962-63 Population Growth Experiment report, Table A,.
+· The adjusted rates were obtained by applying Bourgeois-Pichat's model (1952) to the observed rates.
+
+160
+
+Kabir
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+of infant deaths. In addition, since among children ever born to women
+
+Bourgeois-Pichat's model can not detect 15-19, 20-24, 25-29, 30-34, etc.
+
+omission errors, as noted by Chandrasekar In the estimation of childhood mortality
+
+(195 9), it is very doubtful that it could by Brass's technique, it is assumed that
+
+provide useful adjustment factors for cor- age-specific fertility and mortality (espe-
+
+recting the distorted infant mortality rates. cially infant and child mortality) have
+
+Further, the model tends to conceal some, remained approximately stable in the
+
+if not all, of the basic characteristics of the recent past. It is further assumed that the
+
+infant mortality pattern, e.g., an increase experience of surviving women can be
+
+in the proportions dead at ages between taken as representing that of all women
+
+six and eight months.
+
+exposed to the risk of births and deaths of
+
+Several studies in the developing coun- children. The underlying ideas on which
+
+tries have also shown that the shape of the the method is based can be explained in infant mortality curve beyond age six the following way.
+
+months is heavily influenced by malnutri- The proportions of children ever born
+
+tion and infectious diseases (Gordon et al., who have died are denoted by the term
+
+1967). The Bourgeois-Pichat model offers Dx, so that if standard age groups are very little assistance as far as adjustment used, Dx refers to the proportion dead in
+
+for underreporting of infant mortality is the age group of women 15-19; D2 the concerned. It must, however, be noted proportion in the age group 20-24; and so
+
+that it could be a useful tool for distin- on. With the terms used thus defined, the
+
+guishing between endogenous and exoge- first step in converting Dx values into life
+
+nous mortality.
+
+table measures is to examine the rela-
+
+tionship between Dx and q(t). The Dx val-
+
+ESTIMATION OF INFANT MORTALITY FROM ues for any age group of women will de-
+
+CHILD SURVIVORSHIP DATA
+
+pend on two factors--the age distribution
+
+Demographic data in many developing of all the children ever born to those wom-
+
+countries are still limited to that available en, assuming that they all survived, and
+
+from a single census or survey. In such the mortality to which these children have
+
+surveys or censuses, the questions ask for been subjected.
+
+retrospective information from women The age distribution of the children ever
+
+about the number of children ever born born is, of course, a direct reflection of the
+
+and also about the number of these chil- age-specific fertility rates. However, the
+
+dren who had died by the time of the explanation of the relationship between
+
+survey. From this information, propor- Dx and q(t) is rather complex for age tions of dead or surviving children by age groups of women in the childbearing pe-
+
+of women can be easily calculated. Brass riod. Nonetheless, its essence remains the
+
+(1968) felt that these proportions reflect in same; that is, for each Dx some time a crude way the level of childhood interval (tx) will equate the values of q(tx) mortality. He developed a method by and Dx. For women aged 20-24, tx apwhich these proportions of dead or surviv- pears surprisingly small, approximately
+
+ing children could be translated into two years, that is, D2 is roughly equivalent conventional life table functions. More to q2. This finding reflects the effect of the specifically, the technique is used to esti- sharp fall in mortality during the first year
+
+mate the proportion of children ever born of life and the very gradual rise after age 5.
+
+who have died by ages 1, 2, 3, 5, 10, etc., For a fixed location of the fertility from the proportions reported as dead curve, alterations in the shape of fertility
+
+Vol. 24, No. 2
+
+Infant and Child Mortality
+
+161
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+will also affect i,. On examination, it was the older women. Extensive investigations
+
+found that for each group the calculated tx have shown that the multiplying factors
+
+values were approximately equal to a give satisfactory estimates of child mor-
+
+whole number. More precisely, a rough tality despite differences between true and
+
+approximation was found between each of model fertility and mortality patterns.
+
+£>! and qu D% and q2, D3 and g3, £>4 and With regard to fertility, the small range
+
+ç4, and so on. These approximations were of multiplying factors, even with quite dif-
+
+closest for locations of the fertility dis- ferent values of P \IP2 and other indices, tribution that revealed neither very late suggests that the factors are insensitive to
+
+nor very early starts to childbearing. In the detailed shape of the fertility function,
+
+the case of early fertility, the children ever and this feeling has been confirmed by the
+
+born to a particular age group of women application of the method to a wide range
+
+will be on the average older; for instance, of populations. The only case in which
+
+D2 will be somewhat larger than q2. The sizeable differences occur is in the 15-19
+
+reverse situation will hold for late fertility. age group of women, which is because of
+
+But the amount of change in the relation the great variability of the fertility pat-
+
+of q(tx) to Dx as the fertility locations var- terns possible at the younger ages (even for
+
+ied was found to be small. As a result, only a given Pi/P2 value). Thus, the estimates small adjustments were necessary to con- of qx are subject to considerable error.
+
+vert each Dx value into q (tx), the proba- Although the mortality model used was
+
+bility of dying by the appropriate exact age a fixed one, it is important to realize that
+
+(in years).
+
+exactly the same results would have been
+
+Brass developed a set of multiplying obtained from any other life table in which
+
+factors to convert the proportion dying the level of mortality differed but the pat-
+
+into the life table functions. The choice of tern remained the same. More specifically,
+
+multiplying factors depends on four pa- this comment applies to any life table in
+
+rameters: (1) the ratio of total children ever which the qx values are some constant
+
+born per women in the age group 15--19to times the corresponding qx values in the
+
+that for the age group 20-24 (P^Pa; (2) standard. Thus, using a single fixed mor-
+
+the ratio of children ever born per women tality model is less rigid than it at first
+
+in the age group 20-24 to that for the age appears, and only variations in the age
+
+group 25-29 (P2IP3); (3) _the mean age of pattern of mortality will affect the accuthe fertility distribution (w); (4) th£ median racy of the estimates. To examine this
+
+age of the fertility distribution (m').
+
+latter effect, numerous comparisons have
+
+If more than one of these measures is been made both with observed mortality
+
+available from the population in question, schedules and with other model life tables
+
+then the factors obtained by use of the showing a variety of patterns of mortality,
+
+different measures will agree if the fertility for example, the four mortality patterns of
+
+distribution of the population is exactly the Coale-Demeny model life tables
+
+the same as model. The first two indices (Coale-Demeny, 1966). The results have
+
+(P i/P2 and P2/P3) indicate the shape of the fertility curve toward the beginning of the
+
+shown that although estimates where the age pattern of mortality differs from that
+
+reproductive period and thus are particu- of the model will not be completely accu-
+
+larly relevant to the younger women. The rate, errors are small and unimportant
+
+last two indices (m and m') are measures of when compared with those arising from
+
+the age around which most children are other sources.
+
+born and are therefore more important for The assumptions made are that fertility
+
+162
+
+Kabir
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+and mortality have not changed recently and that the experience of surviving women is not markedly different from that of those who have died. Changes in fertility are unlikely to have an effect in the estimation. However, shifts in the age pattern of fertility might have an effect in the estimation.
+Table 2 reveals that errors in reporting the proportions dead are fully reflected in xq0 values obtained by Brass's technique. Both a priori reasoning and general experience suggest that such errors, consisting chiefly in failures to report past events, do commonly affect such data (Brass, 1968). If dead children and children still alive were underreported by the same percentage, the proportion reported dead would not be affected. However, it is more common to fail to report the births and deaths of the children who have died, particularly if the event took place long before the time of the survey.
+It follows that reports of older women might be particularly subject to bias, an expectation that appears to be confirmed by the figures of Table 2, which show proportions dead reported by older women that are somewhat higher than the proportions reported by younger women in the same locations. It should be noted that, whatever their reliability, older women's reports are heavily influenced by the mortality conditions that prevailed
+
+long before the time of the survey. And as noted above, the implausibly low infant mortality rates shown in Table 1 are indicative of incompleteness of reporting on infant deaths. A comparison between the computed /2 values and those estimated from l3 and /5 (Table 3, Cols. 10 and 11) would seem at first sight to indicate an improvement in mortality over time and a slow decline in child mortality.
+One would have expected that with the substantial improvements in the health services and medical facilities that have occurred since World War II, the mortality rate should have been declining. It appears therefore that the l3 and ls values have been inflated by the omission of dead children. This omission could be more frequent among the older than the younger women. The /2 values, as implied by observed l3 and ls values, were calculated on the basis of the comparable l3 and/5 values in the Coale-Demeny West model life tables (Coale and Demeny, 1966). The low expectation of life at birth as implied by the Z2 values in the Coale-Demeny West model life tables suggests that mortality level did not improve significantly over the period 1961-74.
+Nevertheless, with the exception of lg0 which is highly unreliable for several reasons (Brass et al., 1968), 2q0, 3q0 and 5q0 give reasonable and plausible indications of at least the lower limits of recent levels
+
+TABLE 2
+ESTIMATING C H I L D MORTALITY FKOM 1974 RETROSPECTIVE SURVEY DATA: BANGLADESH
+
+Age Group of Mothers
+
+Proportion Deaths (£>,)
+
+Multiplying Factors* QV¡)
+
+Proportions of Dying
+<jq¿
+
+15-19 20-24
+25-29 30-34 35-39 40-Í4 45^19
+
+0.1856 0.2035
+0.2132 0.2282 0.2398 0.2635 0.2835
+
+0.911 0.973
+0.971 0.982 1.026 1.004 1.003
+
+0.1691 0.1980
+0.2070 0.2241 0.2460 0.2646 0.2847
+
+· The parameter for finding the multiplying factor is PtIP, = 0.SSO6, m = 28.7.
+
+Exact Age of Children
+1 2 3 5 10 15 20
+
+Proportion Surviving
+It,)
+0.8309 0.8020 0.7930 0.7757 0.7540 0.7354 0.7153
+
+Vol. 24, No. 2
+
+Infant and Child Mortality
+
+163
+
+TABLE 3
+ESTIMATED C H I L D MORTALITY (qx) AND THE PROBABILITY OF SURVIVING FROM BIRTH TO AGE x (lx) DERIVED FROM REPORTED PROPORTIONS OF CHILDREN DEAD AMONG CHILDREN EVER BORN TO WOMEN AGED 20-35
+
+PROPORTIONS DEAD AMONG CHILDREN
+EVER BORN TO WOMEN AGIED
+20-24 25-29 30-34
+
+CHILD MORTALITY (DERIVED FROM
+COLS. 1, 2, & 3)
+
+CORRESPONDING lx
+VALUES DERIVED
+FROM C o t s . 4, S, &6
+
+CORRESPONDING I, VALUES
+DERIVED FROM COLS. 8 & 9
+
+RATIO
+OF
+COL. 7
+TO
+COL. 10
+
+RATIO
+OF
+COL. 7
+TO
+COL. 11
+
+REGION
+National Rural . . Urban
+Dacca . Chittagong . Rajshahi . . . Khulna
+
+12
+0 204 0 213 0 204 0 216 0.189 0.157
+0 201 0.211 0.206 0.214 0.203 0.219 0.205 0.209
+
+3
+0.228 0.230 0.192
+0.237 0.228 0.216 0.231
+
+4S »«·) (3íJ
+0 198 0 207 0 199 0.211 0.191 0.156
+0.203 0.209 0.211 0.215 0.202 0.216 0.206 0.207
+
+6
+(5?.)
+0 224 0 226 0.192
+0.237 0.230 0.215 0.231
+
+7
+Vi
+0.802 0.801 0.809
+0.797 0.789 0.798 0.794
+
+g9
+M
+
+10
+
+n 791 0 776 0.810 n 7R9 0 774 0.806
+0 .844 0.808 0.856
+
+0 791 0.763 0.808 0.785 0.770 0.802
+0 .784 0.785 0.802 0.793 0.769 0.810
+
+ii
+<li
+0.812 0.810 0.839
+0.800 0.807 0.819 0.806
+
+12
+0.990 0.994 0.945
+0.986 0.984 0.995 0.980
+
+13
+0.998 0.989 0.964
+0.996 0.978 0.974 0.985
+
+SOURCE: Estimated from the 1974 Retrospective Survey data.
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+of infant and child mortality. Furthermore, general experience has shown that 2q0 is the most reliable of the estimated probabilities of dying (Brass et al. 1968).
+Accepting the estimated 2q0 as fairly plausible and also assuming that the relationship between it and the lg0 in the model life tables is the same as that prevailing in the actual population, we estimated a new set of infant mortality rates which is given in Table 4. The basis was the Coale-Demeny West model life tables. Estimates from the North model life tables are also presented. The estimates from the North family models show low infant mortality relative to child mortality, apparently a notable feature of the African and Asian mortality pattern (Brass et al., 1968). The \q0 does not differ significantly, and in some cases the latter exceeds the infant mortality, although some of -the differences may be explained in terms of omission errors and chance fluctuations affecting mortality rates.
+Estimates based on the West models are higher than those derived from the North models. The estimates for males in the Dacca and Chittagong regions are too high to be plausible. Similarly, the estimate for urban females is too low to be taken into
+
+consideration. This finding is due to the fact that the estimated l2 values are probably not only biased by omission errors but also by chance fluctuation largely due to the small number of cases. In general, however, the highest infant death rates are found in the Chittagong and Khulna regions with relatively lower rates prevailing in the other regions, except the urban area
+
+TABLE 4
+ESTIMATED INFANT MORTALITY RATES BASED ON THE COALE-DEMENY WEST AND NORTH MODEL
+LIFE TABLES BY REGION AND BY SEX
+
+Region
+National West North
+Rural West North
+Urban West North
+Dacca West North
+Chittagong West North
+Rajshahi West North
+Khulna West North
+
+Both Sexes
+
+Male
+
+Female
+
+158 167 149 154 162 146
+159 168 150 155 163 147
+153 165 138 148 161 134
+162 176 146 157 171 143
+168 175 160 164 170 157
+161 171 153 159 168 151
+164 172 159 162 167 156
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+164 Kabir
+
+which enjoys the lowest infant death rate. The rural infant death rates are generally higher than that of the urban area.
+Table 5 shows both recorded and estimated child mortality rates defined as the proportion dying between ages 1 and 4. The estimates derived from both the West and North models are higher than the recorded Aqt values, and in view of the general underreporting of deaths by both the survey and the registration system, the West models appear to be inappropriate for the determination of the levels of child mortality for the population in question. In all the regions, the child mortality rates (based on the 1974 Retrospective Survey data) are remarkably lower than the corresponding North models estimates. It is quite possible that mortality rates of the magnitude recorded in the North family model life tables would indeed operate in areas where the high infant mortality rate is sustained through the second year of life, and even beyond, as a result of malnutrition and infectious diseases. It can be seen from the estimated infant and child mortalities that Bangladesh's mortality pattern is characterized by high child mortality relative to infant mortality, a feature which has also been observed in a number of other developing countries.
+The regional child mortality differentials follow the same pattern as revealed by the infant mortality rates and, in general, rural areas are experiencing the highest child mortality levels, while relatively moderate rates operate in the other regions. The survival rates are higher among females than among males.
+
+i
+
+SUMMARY AND CONCLUSIONS
+The child mortality technique is used to convert proportions dead among children ever born to women in the childbearing ages into conventional life table measures of mortality. This conversion is made by
+
+Social Biology
+as
+i
+tl
+·f â B ai
+aX
+sï
+« (A
+
+Vol. 24, No. 2
+
+Infant and Child Mortality
+
+165
+
+the useof a table of multiplying factors its application tothe population where in-
+
+specifically devised for the purpose and by fant andchild mortality aredeclining since
+
+taking into account the location ofthe fer- Brass (1968) developed the technique on
+
+tility distribution in the population.The the assumption of constant mortality and
+
+most reliable estimates are those derived fertility in the recent past. There is evi-
+
+from the reports of theyounger women, dence that mortality has been declining
+
+usually q2, q3 and qs. Therefore, it is sharply in many countries of the develop-
+
+primarily a method for estimating early ing world for which estimates are most
+
+childhood mortality, and itfollows that its needed. Finally, the multipliers with
+
+major drawback is that itdoes notprovide which Brass mortality estimates are
+
+reliable estimates of adult mortality.
+
+usually made are based on a special model
+
+The method wasdesigned originallyfor life table developed for African popula-
+
+populations where demographic data are tions. The question is whether these mul-
+
+limited to those available from a single tipliers are appropriate in applicationsto,
+
+census or survey. It has been very widely for instance, Asian populations and, for
+
+used in such populations and has given that matter, to anyother population. To
+
+very reasonable results of child mortality. what extent, indeed, doAsian or African
+
+Its application hasalso been extended to populations share a particular pattern of
+
+populations where data is available from mortality? How much difference doesthe
+
+two or more censuses.
+
+choice of model life table make? In order
+
+Recently, various shortcomings of the method have been noted, particularly in
+
+to answer these questions, search seems in order.
+
+exhaustive re-
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+REFERENCES
+
+BRASS, WILLIAM. 1968. Methods of analysis and Population Investigation Committee, London
+
+estimation. In William Brass (ed.), Demography of School of Economics, London.
+
+Tropical Africa. Princeton Univ. Press, Princeton. CHANDRASEKAR, S. 1959. Infant mortality inIndia.
+
+_____. 1971. On the scale of mortality, p. 69-110. George, Allen, Unwin, Ltd., London.
+
+In William Brass etal. (eds.), Biological aspectsof COALE, A. J., and PAUL DEMENY. 1966. Regional
+
+demography. Taylor and Francis, London.
+
+model life tables and stable population. Princeton
+
+_____. 1973. Mortality estimation by indirect Univ. Press, Princeton.
+
+means. Population Bulletin of the United Nations FISHER, R. A., and F. YATES. 1963. Statistical
+
+Economic and Social Office in Beirut, No. 4. tables forbiological, agricultural, and medical re-
+
+Beirut.
+
+search. 6thed.Oliver and Boyd, Edinburgh.
+
+_____. 1974. The estimation of fertility and mortality from defective vital registration records. Working paper for the United Nations Economic and Social Office in Beirut.
+_____. 1975. Methods for estimating fertility and mortality from limited and defective data. International Program ofLaboratories forPopulation Statistics, University of North Carolina, Chapel Hill.
+
+GHANA. 1967. Education statistics. Ministry of Education, Accra.
+GORDON, J. E.,et al. 1967.The second year death rates in less developed countries. Amer. J.Med. Sci. 67:135-148.
+OMRAN, R. 1970. The role of malnutrition in childhood mortality. Bulletin of the Gandhigram Institute of Rural Health and Family Planning, July. Gandhigram.
+RUZICKA, L. T. 1972. Infant mortality in the coun-
+
+BOURGEOIS-PICHAT, J. 1952. Ananalysis of infant tries of South Asia: Areview. Paper presented at
+
+mortality, p. 1-14. In Population Bulletin of the the Second Asian Conference, Tokyo.
+
+United Nations. United Nations, New York.
+
+STOECKEL, J., and M. A. CHOWDHURY. 1973.Fer-
+
+CARRIER, NORMAN, and JOHN HOBECRAFT. 1974. tility, infant mortality andfamily planning in rural
+
+Demographic estimation for developing societies. Bangladesh. Oxford University Press, NewYork.
+
+

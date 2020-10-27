@@ -1,0 +1,894 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+How do we interpret the recent dramatic increase in the time to earn a Ph.D.?
+Prithwis Das Gupta
+To cite this article: Prithwis Das Gupta (1997) How do we interpret the recent dramatic increase in the time to earn a Ph.D.?, Social Biology, 44:3-4, 247-257, DOI: 10.1080/19485565.1997.9988951 To link to this article: http://dx.doi.org/10.1080/19485565.1997.9988951
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 7
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:47
+
+Brief Reports
+How Do We Interpret the Recent Dramatic Increase in the Time to Earn a Ph.D.?
+
+· Jl
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Prithwis Das Gupta
+Population Division U.S.Bureauof theCensus Washington, D.C.20233
+
+ABSTRACT: A 1962 recipient of a Ph.D. was an average of 10.13 years from receipt of a B.A.; a 1992 recipient was an average of 12.55 years. Some authors have suggested that if the B.A.-year cohorts were compared instead of the Ph.D.-year cohorts, the average time to earn a Ph.D. would not show such a drastic increase. The author recognizes the problem with the Ph.D.-year data, but uses these data with a standardization-decomposition technique to show that 75 per cent of the increase in the time between the B.A. and the Ph.D. in 1992 was due to the change in the age-sex structure of Ph.D. recipients in favor of more women and older persons.
+
+Total time-to-degree (TTD) measures the number of years elapsed between receipt of the baccalaureate degree and the Ph.D. (Ries and Thurgood, 1993). There has been a dramatic increase in mean TTD in the United States over the last three decades. For example, the mean TTD for doctorate recipients in 1992 was 12.55 years--an increase of 23.9 per cent from the mean TTD of 10.13 years in 1962. In the field of education, this increase during the same 30-year period was even faster (30.0 per cent)--from 14.61 years in 1962 to 18.99 years in 1992 (Tables land 2).
+Students, faculty members, and those involved in making policies for education in the country have been concerned about the drastic rise in the length of time it takes to earn a doctorate. This concern has resulted in calls for reform in graduate education by media commentators and other interested persons.
+
+In a recent paper, Bowen et al. (1991) have argued that there has been, in fact, some rise in the average TTD in recent years but that the overall picture is not at all as bad as the data seem to indicate. The average TTD is derived from students grouped by the year in which they were awarded doctorates and, according to these authors, this Ph.D.-year method of aggregation produces a highly misleading picture of trends in average TTD because of the steady fall in the sizes of entering cohorts to graduate school. They have suggested that the same data be regrouped by the year in which recipients of doctorates received their B.A. degrees. Reorganization of the data in this manner has since been suggested in another paper by Bowen et al. (1992). The B.A.-year method of aggregation, according to these authors, is free of the potential "statistical bias" that afflicts the Ph.D.-year method. Using the B.A.-year approach, they have estimated
+
+247
+
+248
+
+Brief Reports
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+that the reported Ph.D.-year median for 1988 overstates the time a typical humanities graduate student spends earning a doctorate by as much as two years.
+While Bowen et al. (1991) are right in pointing out the problem of overestimation of TTD based on the Ph.D.-year approach and in suggesting the use of the B.A.year method of aggregation as a solution, this latter approach has a problem of its own which is related to the availability of data to study the pattern of TTD over time. The mean TTD for the 1962 and 1992 B.A.-year cohorts, for example, will not be known until around the years 2020 and 2050, respectively (there was an 82year old Ph.D. recipient in 1992). In order to avoid the problem of long wait, if we calculate truncated measures for B.A.year cohorts after, say, ten years, as the authors have suggested, we will introduce a different kind of "statistical bias" because the relationship between the two sides of the truncation point is likely to change over time.
+The objective of the present paper is to handle the problem of overestimation of TTD by the Ph.D.-year method of aggregation by an alternative approach using the same Ph.D.-year cohorts and not regrouping the data by the B.A.-year method. This new approach also recognizes the steady fall in the sizes of entering cohorts to graduate school, but takes account of this factor by standardizing the mean TTD's of the Ph.D.-year cohorts by the age structures of these cohorts. Depending on the availability of data cross-classified by other factors, such as gender and broad field, it is also possible to standardize simultaneously with respect to several factors and at the same time decompose the difference between the mean TTD's of two years into
+
+the additive effects of these factors (Das Gupta, 1991, 1993). The data for the Ph.D. recipients of 1962 and 1992 are used for the illustration of these techniques.
+
+MATERIALS AND METHODS
+ANALYSIS OF PH.D.'S IN A BROAD FIELD BY AGE AND GENDER
+For 1962,
+Njj = number of Ph.D. recipients in age group i and gender/
+N¡ = number of Ph.D. recipients in age group i,
+Nj = number of Ph.D.' recipients in gender/
+N = total Ph.D. recipients in the " field,
+Tr - mean TTD of Ph.D. recipients in age group i and gender/
+T = mean TTD of Ph.D. recipients in the field.
+For 1992, the above quantities are denoted by n-, n¡, rij, n , t¡¡, and t, respectively.
+From Das Gupta (1991; 1993, Section 5.3), we have
+CD
+
+t -- T = age effect + gender effect + effect of age-gender-specific mean TTD's
+
+= [S2(J,R)- 5 , (/,/?)] +[S2 where
+
+(2)
+
+5, (7,7) = 1962 mean TTD, standardized by age and gender
+
+Vol. 44, No. 3-4
+
+Brief Reports
+
+249
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+(3)
+S{ (J,R) = 1962 mean TTD, standardized by gender and age-gender-specific meanTTD's
+
+where
+5j (UK) = 1962 mean TTD, standardized by age, field, and gender
+
+N T IJ.
+
+(9)
+
+(4)
+5, (I,R) = 1962 mean TTD, standardized by age and age-gender-specific mean TTD's
+
+5, (J,K,R) - 1962 mean TTD, standardized by field, gender, and age-fieldgender-specific mean TTD's
+"ë ^[± bijkcijk+BijkCijk 3
+
+Aijk '
+
+«·· and &··are obtained from (6) by replacing iVs and «'s. S2 (I,J), S2 (J,R), and S2 (I,R) are obtained by replacing T¡¡ by t.. in (3), Al7 by ay in (4), and B/;/ by by in (5), respectively.
+ANALYSIS OF TOTAL PH.D.'S BY AGE, FIELD, AND GENDER
+Denoting age group, field, and gender by i, j , and k, respectively, and using analogous symbols, we can express the mean TTD's for 1962 and 1992, respectively, (Das Gupta, 1991; 1993, Section 5.4) by:
+
+T= N
+
+tj
+
+(7)
+
+t -- T = age effect + field effect + gen-
+
+der effect + effect of age-field-gender-
+
+spécific mean TTD's
+
+= [52 (J,K,R) - Si (JXR)] + [S2(I,K,K)-Sl(I,KJV\ + [S2(IJ,R)-Sl(I,J,R)] + [S2(UK) - Sj (UK)],
+
+(8)
+
+Sl (I,K,R) = 1962 mean TTD, standardized by age, gender, and age-field-genderspecific mean TTD's
+
+L
+aijkCijk+AijkCijk]
+6
+
+\B^
+
+(UR) =1962 mean TTD, standardized by age, field, and age-field-genderspecific mean TTD's
+--[-- +'(/*+7V¿ \aijkhijk+Aijfi¡jk
+
+aViPijk+Aijkhuk
+
+(12)
+
+A -fe.Mite.Mî (13)
+
+250
+
+Brief Reports
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+aüük' j
+
+cijjk a r e obtained from
+
+(13))--( 1(15) by replaciing Ws by n's. S2
+
+) , S2 (J,K,R), S2 (I.K.R), and S2 (I,J,R) are obtained by replacing T¡-k by
+
+i n ' Ank by a,» in (10), Biit by Äi.j.k. in
+
+(11), and Cijkby c ^ in (12), respectively.
+
+RESULTS
+The basic data used for our analysis are the doctorate recipients and their mean TTD's in 1962 and 1992 crossclassified by nine age groups, seven broad fields, and gender. These data in summary form are shown in Table 1. The overall mean TTD's for all fields together are 10.13 and 12.55 years for 1962 and 1992, respectively. It is obvious from the data that there are two facts which contribute significantly to this difference. The more important fact is that the mean TTD's in both 1962 and 1992 increased with age and that a much higher percentage of older people earned Ph.D.'s in 1992 (percentages of Ph.D. recipients aged 35 and above are 34.0 and 47.5 in 1962 and 1992, respectively). The other fact is that the mean TTD's for women were higher than those for men in both 1962 and 1992 and that a much higher percentage of women earned Ph.D.'s in 1992 (10.8 per cent in 1962 as against 37.4 per cent in 1992). It is not obvious from the data whether the difference in the distribution of broad field for 1962 and 1992 had a positive or negative effect on the difference between the overall mean TTD's. Similar observations can be made on the seven broad fields from the summary data in Table 1.
+Table 2 gives a more accurate picture of the effects of age, gender, and broad field obtained by applying the techniques of standardization and decomposition de-
+
+scribed in the preceding section. For all fields together, we may summarize the results as follows:
+(1). The mean TTD's for 1962 and 1992 are, respectively, 10.13 and 12.55 years (an increase of 23.9 per cent). Their difference of 2.42 is the total effect of the differences in age, field, gender, and agefield-gender-specific mean TTD's.
+(2). If the distributions of field, gender, and age-field-gender-specific mean TTD's were identical in 1962 and 1992, and only the distribution of .age varied, as it did, then the mean TTD's for 1962 and 1992 would be 10.53 and 11.98 years (an increase of 13.8 per cent). The difference of 1.45 between them is, therefore, the effect of the difference in the age distribution.
+(3). If the distributions of age, gender, and age-field-gender-specific mean TTD's were identical in 1962 and 1992, and only the distribution of field varied, as it did, then the mean TTD's for 1962 and 1992 would be 11.26 and 11.23 years (a decrease of 0.3 per cent). The difference of --0.03 between them is, therefore, the effect of the difference in the field distribution.
+(4). If the distributions of age, field, and age-field-gender-specific mean TTD's were identical in 1962 and 1992, and only the distribution of gender varied, as it did, then the mean TTD's for 1962 and 1992 would be 11.06 and 11.45 years (an increase of 3.5 per cent). The difference of 0.39 between them is, therefore, the effect of the difference in the gender distribution.
+(5). If the distributions of age, field, and gender were identical in 1962 and 1992, and only the distribution of agefield-gender-specific mean TTD's varied, as it did, then the mean TTD's for 1962
+
+Vol. 44, No. 3-4
+
+Brief Reports
+
+251
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 1
+NUMBER OF DOCTORATE RECIPIENTS AND MEAN TTD IN BROAD FIELDS, BY AGE AND GENDER, 1962 AND 1992a
+
+BROAD FIELD/AGE/GENDER
+All fields Under 25 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60 and over
+Men Women
+
+1962
+Ph.D. Recipients Number Per Cent
+
+Mean TTD
+
+77 3,531 3,830 1,963 1,047
+491 217
+85 23
+10,053 1,211
+
+0.7 3.49 31.3 5.52 34.0 8.91 17.4 12.47 9.3 15.99 4.4 20.96
+1.9 24.99 0.8 29.22 0.2 33.09
+89.2 9.69 10.8 13.70
+
+1992
+Ph.D. recipients Per Cent
+
+Mean TTD
+
+26 7,233
+
+0.1 19.5
+
+4.35 6.04
+
+12,190 32.9
+
+9.15
+
+7,700 20.8 13.21
+
+4,948 13.4 17.87
+
+2,811
+
+7.6 22.04
+
+1,321
+
+3.6 25.36
+
+532 1.4 28.33
+
+258 0.7 33.61
+
+23,167 62.6 11.49 13,852 37.4 14.32
+
+Physical Sciences Engineering Life Sciences Social Sciences Humanities Education Professional/Other
+
+2,447
+1,203 1,896 1,850 1,678 1,881
+309
+
+21.7 7.48 10.7 8.25 16.8 8.78 16.4 10.17 14.9 11.36 16.7 14.61 2.8 12.31
+
+6,174
+
+16.7
+
+9.03
+
+5,175
+
+14.0
+
+9.51
+
+6,699 18.1 10.68
+
+5,898 15.9 12.29
+
+4,228 11.4 13.65
+
+6,468 17.5 18.99
+
+2,377
+
+6.4 14.81
+
+Total
+
+11,264 100.0 10.13
+
+37,019 100.0 12.55
+
+Physical Sciences Under 25 25-29 30-34 35-39 40-44 45^19 50-54 55-59 60 and over
+Men
+Women
+Total
+
+37 1,337
+768 223
+58 17 6
+1 0
+2,349 98
+2,447
+
+1.5 54.6 31.4 9.1 2.4 0.7 0.3 0.0 0.0
+96.0 4.0
+100.0
+
+3.51 5.37 8.69 12.65 16.80 21.06 29.00 5.00 0.00
+7.46 8.03
+7.48
+
+13 2,340 2,466
+895 305 107
+28 15 5
+4,937 1,237
+6,174
+
+0.2 37.9 39.9 14.5 4.9
+1.7 0.5 0.3 0.1
+80.0 20.0
+100.0
+
+4.39 6.03 8.86 12.29 16.35 22.02 26.36 29.60 39.20
+9.01 9.08
+9.03
+
+Engineering
+Under 25 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60 and over
+
+7 0.6 3.29
+
+555 46.1 5.32
+
+404 33.6
+
+8.64
+
+160 13.3 12.84
+
+58 4.8 15.93
+
+13 1.1 23.08
+
+5 0.4 28.40
+
+1 0.1 33.00
+
+0 0.0 0.00
+
+8 1,513
+
+0.2 29.2
+
+4.13 5.90
+
+2,303 44.5
+
+8.98
+
+950 18.4 12.55
+
+282 5.5 16.73
+
+80 1.5 21.79
+
+26 0.5 27.46
+
+7 0.1 32.71
+
+6 0.1 38.50
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+252
+BROAD FIELD/AGE/GENDER
+Men
+Women
+Total
+Life Sciences Under 25 25-29 30-34 35-39 40-44 45-49 50-54 55-59.... 60 and over Men
+Women
+Total
+Social Sciences Under 25 25-29 30-34 35-39 40-44 45^9 50-54 55-59 60 and over Men
+Women
+Total
+Humanities Under 25 25-29 30-34 35-39 40-44 45^19 50-54 55-59 60 and over Men Women
+Total
+
+Brief Reports
+
+TABLE 1 (continued)
+
+1962
+
+Ph.D. Recipients
+
+Number
+
+Per Cent
+
+1,199 4
+
+99.7 0.3
+
+1,203
+
+100.0
+
+Mean TTD
+8.24 10.75
+8.25
+
+13 674 752 288 112 44
+10 3 0
+1,710 186
+1,896
+
+0.7 35.5 39.7 15.2 5.9 2.3 0.5 0.2 0.0
+90.2 9.8
+100.0
+
+3.62 5.61 8.52 12.04 15.79 20.61 20.70 22.33 0.00
+8.62 10.24
+8.78
+
+13 490 663 376 194 75
+26 10 3
+1,613 237
+1,850
+
+0.7 26.5 35.8 20.3 10.5 4.1
+1.4 0.5 0.2
+87.2 12.8
+100.0
+
+3.46 5.73 8.87 11.97 15.54 19.56 26.56 27.70 43.67
+9.86 12.27
+10.17
+
+5 336 646 341 201 91 35
+18 5
+1,396 282
+1,678
+
+0.3 20.0 38.5 20.3 12.0 5.4 2.1
+1.1 0.3
+83.2 16.8
+100.0
+
+3.40 5.81 9.35 12.71 16.17 21.36 24.29 30.06 28.60
+10.84 13.96
+11.36
+
+Social Biology
+
+1992
+
+Ph.D. recipients
+
+Number
+4,683 492
+
+Per Cent
+90.5 9.5
+
+Mean TTD
+9.57 8.95
+
+5,175 100.0
+
+9.51
+
+2 1,627 2,603 1,503
+608 228 97 24
+7
+
+0.0 24.3 38.9 22.4
+9.1 3.4 1.4 0.4 0.1
+
+4,027 2,672
+
+60.1 39.9
+
+6,699 100.0
+
+4.50 6.12 9.06 12.97 17.13 21.07 24.63 27.12 28.86
+10.18 11.42
+10.88
+
+2 1,003 2,006 1,304
+887 434 168
+63 31
+3,078 2,820
+5,898
+
+0.0 17.0 34.0 22.1 15.0 7.4 2.9 1.1 0.5
+52.2 47.8
+100.0
+
+4.50 5.98 9.18 13.12 17.53 20.78 22.86 24.32 31.52
+11.69 12.94
+12.29
+
+0 417 1,415 1,126 665 331 160
+70 44
+2,268 1,960
+4,228
+
+0.0 9.9 33.5 26.6 15.7 7.8 3.8 1.7 1.0
+53.6 46.4
+100.0
+
+0.00 6.33 9.52 13.45 17.66 21.80 24.88 28.00 35.46
+13.00 14.40
+13.65
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Vol. 44, No. 3-4
+
+Brief Reports
+
+253
+
+TABLE 1 (continued)
+
+BROAD FIELD/AGE/GENDER
+Education Under 25 25-29 30-34 35-39 40-44 45^19 50-54 55-59 60 and over
+
+1962
+
+Ph.D. Recipients
+
+Number
+
+Per Cent
+
+MeanTTD
+
+1 0.0 4.00 85 4.5 6.21 498 26.5 9.52 508 27.0 12.66 380 20.2 16.00 224 11.9 21.20 122 6.5 24.85 50 2.7 29.96 13 0.7 32.15
+
+1992 Ph.D. recipients Number Per Cent
+
+MeanTTD
+
+0 0.0 0.00
+
+149 2.3 6.17
+
+728 11.3
+
+9.68
+
+1,293 20.0 14.27
+
+1,735 26.8 18.79
+
+1,394 21.5 22.63
+
+720 11.1 25.99
+
+309 4.8 28.91
+
+140 2.2 33.21
+
+Men Women
+
+1,526 355
+
+81.1 13.95 18.9 17.44
+
+2,613 40.4 18.42 3,855 59.6 19.38
+
+Total
+
+1,881 100.0 14.61
+
+6,468 100.0 18.99
+
+Professional/other
+Under 25 25-29 30-34 35-39 40-44 45-49 50-54 55-59 60 and over
+Men Women
+
+1 0.3 3.00 54 17.5 5.65 99 32.0 8.89 67 21.7 12.85 44 14.2 16.52 27 8.7 21.00 13 4.2 25.23
+2 0.7 31.50 2 0.7 34.50
+260 84.1 11.47 49 15.9 16.75
+
+1 0.0 5.00
+
+184 7.7 6.33
+
+669 28.1
+
+9.68
+
+629 26.5 13.63
+
+466 19.6 18.03
+
+237 10.0 22.28
+
+122 5.1 25.61
+
+44 1.9 30.07
+
+25 1.1 34.28
+
+1,561 65.7 14.34
+
+816 34.3 15.72
+
+Total
+
+309 100.0 12.31
+
+2,377 100.0 14.81
+
+SOURCE: National Research Council, Survey of Earned Doctorates. "11 LI (Total Time-to-Degree) measures the number of years elapsed between receipt of the baccalaureate and the Ph.D. The data exclude cases with unknown TTD and/or unknown age.
+
+and 1992 would be 11.01 and 11.62 years (an increase of 5.5 per cent). The difference of 0.61 between them is, therefore, the effect of the difference in the distribution of age-field-gender-specific mean TTD's.
+(6). Age, field, gender, and age-fieldgender-specific mean TTD's contribute, respectively, 59.9, -1.2, 16.1, and 25.2 per cents to the total difference between
+
+the mean TTD's for 1962 and 1992 (when a percentage is negative, as in the case of the field effect, we should avoid interpreting that percentage and make our observations in terms of the preceding three numbers in that row).
+Similar analysis can be made for the seven broad fields from the numbers in Table 2. The only difference is that the analysis for a field is made in terms of
+
+254
+
+Brief Reports
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 2
+STANDARDIZATION AND DECOMPOSITION OF MEAN T T D ' S IN 1962 AND 1992 BASED ON DATA CROSS-CLASSIFIED BY AGE, BROAD FIELD, AND GENDER
+
+MEAN TTD
+All fields Standardized by Field, Gender, and AgeField-Gender-specific Mean TTD's Standardized by Age, Gender, and AgeField-Gender-Specific Mean TTD's Standardized by Age, Field, and AgeField-Gender-specific Mean TTD's Standardized by Age, Field, and Gender Crude Mean TTD
+
+STANDARDIZED MEAN TTD
+
+1962
+
+1992
+
+DECOMPOSITION
+
+Difference (Effects)
+
+Per Cent Distribution of Effects
+
+PER CENT
+Change
+OF MEAN
+TTD (1962-1992)
+
+10.53 11.98
+11.26 11.23
+11.06 11.45 11.01 11.62 10.13 12.55
+
+1.45 (Age)
+
+59.9
+
+0.03 (Field)
+
+-1.2
+
+0.39 (Gender)
+
+16.1
+
+0.61 (Mean TTD) 25.2
+
+2.42 (Total)
+
+100.0
+
+13.8
+-0.3
+3.5 5.5 23.9
+
+Physical sciences Standardized by Gender and Age-Genderspecific Mean TTD's Standardized by Age and Age-Genderspecific Mean TTD's Standardized by Age and Gender Crude Mean TTD
+
+7.69 8.85
+8.25 8.28 8.10 8.46 7.48 9.03
+
+1.16 (Age)
+
+74.9
+
+0.03 (Gender)
+
+1.9
+
+0.36 (Mean TTD) 23.2
+
+1.55 (Total)
+
+100.0
+
+15.1
+0.4 4.4 20.7
+
+Engineering Standardized by Gender and Age-Genderspecific Mean TTD's Standardized by Age and Age-Genderspecific Mean TTD's Standardized by Age and Gender Crude Mean TTD
+
+8.31 9.25
+8.88 8.68 8.54 9.06 8.25 9.51
+
+0.94 (Age)
+
+74.6
+
+-0.20 (Gender) -15.9
+
+0.52 (Mean TTD) 41.3
+
+1.26 (Total)
+
+100.0
+
+11.3
+-2.3 6.1 15.3
+
+Life sciences Standardized by Gender and Age-Genderspecific Mean TTD's Standardized by Age and Age-Genderspecific Mean TTD's Standardized by Age and Gender Crude Mean TTD
+
+9.19 10.21
+9.56 9.84 9.42 10.02 8.78 10.68
+
+1.02 (Age)
+
+53.7
+
+0.28 (Gender)
+
+14.7
+
+0.60 (Mean TTD) 31.6
+
+1.90 (Total)
+
+100.0
+
+11.1
+2.9 6.4 21.6
+
+Social sciences Standardized by Gender and Age-Genderspecific Mean TTD's Standardized by Age and Age-Genderspecific Mean TTD's Standardized by Age and Gender Crude Mean TTD
+
+10.61 11.92
+11.06 11.46 11.07 11.48 10.17 12.29
+
+1.31 (Age)
+
+61.8
+
+0.40 (Gender)
+
+18.9
+
+0.41 (Mean TTD) 19.3
+
+2.12 (Total)
+
+100.0
+
+12.3
+3.6 3.7 20.8
+
+Humanities Standardized by Gender and Age-Genderspecific Mean TTD's Standardized by Age and Age-Genderspecific Mean TTD's Standardized by Age and Gender Crude Mean TTD
+
+11.78 13.27
+12.32 12.73 12.33 12.72 11.36 13.65
+
+1.49 (Age)
+
+65.1
+
+0.41 (Gender)
+
+17.9
+
+0.39 (Mean TTD) 17.0
+
+2.29 (Total)
+
+100.0
+
+12.6
+3.3 3.2 20.2
+
+Vol. 44, No. 3-4
+
+Brief Reports
+
+255
+
+TABLE 2 (continued)
+
+MEAN TTD
+Education Standardized by Gender and Age-Genderspecific Mean TTD's Standardized by Age and Age-Genderspecific Mean TTD's Standardized by Age and Gender Crude Mean TTD
+Professional/other Standardized by Gender and Age-Genderspecific Mean TTD's Standardized by Age and Age-Genderspecific Mean TTD's Standardized by Age and Gender Crude Mean TTD
+
+STANDARDIZED MEAN TTD
+1962 1992
+15.44 18.08 16.54 16.98 16.05 17.35 14.61 18.99
+12.88 14.30 13.41 13.78 13.26 13.97 12.31 14.81
+
+DECOMPOSITION
+
+Difference (Effects)
+
+Per Cent Distribution of Effects
+
+PER CENT
+Change
+OF MEAN
+TTD (1962-1992)
+
+2.64 (Age)
+
+60.3
+
+0.44 (Gender)
+
+10.0
+
+1.30 (Mean TTD) 29.7
+
+4.38 (Total)
+
+100.0
+
+17.1
+2.7 8.1 30.0
+
+1.42 (Age)
+
+56.8
+
+0.37 (Gender)
+
+14.8
+
+0.71 (Mean TTD) 28.4
+
+2.50 (Total)
+
+100.0
+
+11.0
+2.8 5.4 20.3
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+only two factors (age and gender) instead of the three factors (age, gender, and field).
+CONCLUSIONS
+By using the data for the Ph.D.-year cohorts, I show that during the 30-year period 1962-1992 the crude mean TTD's increased by 23.9, 20.7, 15.3, 21.6, 20.8, 20.2, 30.0, and 20.3 per cents, respectively, in all fields together, the physical sciences, engineering, life sciences, social sciences, humanities, education, and in the professional/other. When the mean TTD's are standardized by age and gender (and by age, field, and gender in the case of all fields), these percentages come down to 5.5, 4.4, 6.1, 6.4, 3.7, 3.2, 8.1, and 5.4, respectively. Again, in all fields and in seven individual areas, respectively, 74.8, 76.8, 58.7, 68.4, 80.7, 83.0,
+70.3, and 71.6 per cents of the total difference between the crude mean TTD's in
+
+1962 and 1992 can be attributed to the differences in the factors age and gender (age, field, and gender in the case of all fields), and predominantly age. The field of engineering in 1992 is the only place where women, on the average, took less time than men to earn a Ph.D. (Table 1). This phenomenon translates into a negative gender effect for engineering in Table 2.
+As we noted earlier, total time-todegree (TTD) measures the number of years elapsed between receipt of the baccalaureate and the Ph.D. Many students do not spend this entire period of time in graduate school in active pursuit of the advanced degree. They may choose to do "other things" for a period of time such as working, serving in the Peace Corps, serving in the military, raising children, establishing a spouse in a career, etc. If the percentage of time spent in doing other things during TTD shows an increasing trend over the years, then the use
+
+256
+
+Brief Reports
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+of TTD as a measure of time spent on active pursuit of the degree may give the false impression that students are taking increasingly more time to complete their degrees once they enroll in the program.
+Obviously, the research on this issue would be more precise in terms of registered time-to-degree (RTD) which gauges the amount of time an individual was actually enrolled in graduate school, including master's degrees and enrollment in nondegree programs (Ries and Thurgood, 1993). If, during 1962-1992, for example, RTD remained unchanged but TTD increased, that finding would clearly indicate that this increase in TTD was solely due to students' spending increasingly more time in non-academic activities following the baccalaureate. However, as we see in Table 3, both median RTD and median TTD increased during 1962-1992 in each and every field of study. As a matter of fact, the per cent increase in RTD was higher than that in TTD during this period for all fields together and for individual fields except for education. Even in terms of absolute increase, both median RTD and median TTD for all fields together showed the same increase of 1.7 years during 1962-1992. Therefore, there has been a significant increase in the average time to earn a Ph.D. in recent years.
+How do we interpret this increase? There are primarily two reasons why it is taking more time in recent years to earn a doctorate, and both these reasons are demographic in nature. Traditionally, those
+
+individuals who complete their degrees at older ages take more time to do so compared to younger Ph.D. recipients. However, at the same time, the percentage of Ph.D. recipients at older ages has substantially increased in recent years. These two phenomena together are pushing the mean TTD upward, as happened during 1962-1992. Likewise, traditionally, women take more time than men to complete their Ph.D.'s, but the percentage of women among the Ph.D. recipients in a year has shown significant increase over time. Again, these two factors together are responsible for inflating the mean TTD, as happened during 1962-1992.
+Thus, about 75 per cent of the actual increase in mean TTD can be attributed to the change in the age-sex structure of Ph.D. recipients during 1962-1992. Therefore, the "real" increase in mean TTD is only about 25 per cent of what the difference of the overall mean TTD's for 1962 and 1992 indicates. In other words, the real increase is 0.61 year (instead of 2.42 years), i.e., about 7 months over a thirty-year period. This increase does not seem to be so alarming that students would be discouraged from pursuing doctoral programs.
+ACKNOWLEDGMENTS
+The author thanks the editor and two anonymous referees for their helpful suggestions and Dr. Paula Ries of the National Research Council for providing the data for the present analysis.
+
+Vol. 44, No. 3-4
+
+Brief Reports
+
+257
+
+TABLE 3
+MEDIAN REGISTERED TIME-TO-DEGREE (RTD) AND MEDIAN TOTAL TIME-TO-DEGREE (TTD) FOR DOCTORATE RECIPIENTS BY BROAD FIELD: 1962 AND 1992
+
+MEDIAN RTD (IN YEARS)
+
+FIELD
+All Fields Physical Sciences Engineering Life Sciences Social Sciences Humanities Education Professional/Other
+
+1962
+
+1992
+
+Per Cent
+Increase
+
+5.4 7.1 31.5 5.1 6.5 27.5 5.0 6.2 24.0 5.3 6.7 26.4 5.4 7.5 38.9 5.9 8.3 40.7 6.6 8.2 24.2
+5.2 7.5 44.2
+
+SOURCE: National Research Council, Survey of Earned Doctorates.
+
+MEDIAN TTD (IN YEARS)
+Per Cent 1962 1992 Increase
+8.8 10.5 19.3 6.5 8.1 24.6 7.1 8.7 22.5 7.8 9.4 20.5 9.0 10.6 17.8 10.3 12.0 16.5 12.8 18.9 47.7 10.8 13.5 25.0
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+REFERENCES
+
+BOWEN, W. G., G. LORD, and J. A. SOSA. 1991.
+Measuring time to the doctorate: Reinterpretation of the evidence. Proc. Nati. Acad. Sci. (USA) 88:713-717.
+BOWEN, W. G., S. E. TURNER, and M L. WITTE.
+1992. The B.A.-Ph.D. nexus. J. High. Educ. 63(1):65-86. DAS GUPTA, P. 1991. Decomposition of the difference between two rates and its consistency when more than two populations areinvolved. Math. Pop. Stud. 3(2):105-125.
+
+. 1993. Standardization and decomposition of rates: A user's manual. U.S. Bureau of the Census, Current Population Reports, Series P23186, U.S. Government Printing Office, Washington, D.C.
+RIES, P., and D. H. THURGOOD. 1993. Summary re-
+port 1992: Doctorate recipients from United States universities. National Academy Press, Washington, D.C.
+
+

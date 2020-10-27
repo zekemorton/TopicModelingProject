@@ -1,0 +1,453 @@
+Eugenics Quarterly
+ISSN: 0097-2762 (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi18
+Analysis of birth intervals of a set of Indian women
+Kumudini Dandekar
+To cite this article: Kumudini Dandekar (1963) Analysis of birth intervals of a set of Indian women, Eugenics Quarterly, 10:2, 73-78, DOI: 10.1080/19485565.1963.9987546 To link to this article: http://dx.doi.org/10.1080/19485565.1963.9987546
+Published online: 23 Aug 2010. Submit your article to this journal Article views: 1 View related articles Citing articles: 3 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi18
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:27
+
+ANALYSIS OF BIRTH INTERVALS OF A SET OF INDIAN WOMEN
+KUMUDINI DANDEKAR Gokhale Institute of Politics and Economics
+Poona, India
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+The purpose of the present paper is to analyze birth intervals of a group of Indian women. Indian women satisfying the following criteria were examined for the analysis of birth intervals.
+It was ensured that the birth intervals of women were not affected by:
+1. Any deliberate attempt to affect the birth intervals,
+2. Any abortion or miscarriage, 3. Death in infancy of an earlier
+child,
+4. Separation from the husband.
+Women with five or more children were selected so that there could be a sizable number o£ intervals available for study. This could also facilitate the examination of changes in the birth intervals of various orders, though this has not been done in the present paper.
+It was very difficult to get women who satisfied the above criteria: first, because women with five or more children often had an infant death among their children, and, second, a large number of women did not know the exact birthdates of their children. A random sample of women was therefore out of the question. Data were therefore collected only for 50 women. The number 50 was chosen because similar data for 50 French women were analyzed by the author in the September 1959 issue of Eugenics Quarterly,1 and the results for the two
+1The sample of French women originated in the 17th and 18th centuries at a time when family limitation was not extensively used in that country.
+
+groups of French and Indian women could be compared. After careful scrutiny of the data, only 44 Indian women and 46 French women were available for the final analysis. In the following are analyzed the birth intervals for Indian women.
+Birth intervals of various orders for the 44 Indian women are given in Table 1. Obviously, the birth intervals do change from one woman to another and from one order of birth to another. To consider for the time being the variation from one woman to another, the mean and variance of the intervals of births for each woman are set out in Table 1. A consideration of the following kind gives an expected relation between the means and variances of the women.
+If p is the fecundability or the probability that a woman conceives within 1 month (one menstrual cycle, to be more exact, but the data regarding birth intervals are available in terms of months and not of menstrual cycles), and P(x) is the probability of having an interval of x months between two successive confinements, then P(x) = p (l-p)x. Then, under the same conditions of fecundability for a large set of intervals, the mean and variance of the intervals are given by: Mean = (l-p)/p, Variance = (1-p)/ p2, and, hence, Variance -- Mean (1 + Mean). In actuality, however, it will be found that this relation does not hold well. The actual variances given in Table 1 are too small compared to the expected ones obtained from the above
+
+73
+
+74 Dandekar
+
+equality. One explanation for the discrepancy can be found in the fact that the intervals between births include the period of amenorrhea, which is an infecund period, and, hence, it may not be a period with p as the fecundability. This exaggerates the mean interval between births and brings down the value of the variance. Here, therefore, it seems reasonable to calculate the mean interval on
+
+the basis of the variance observed for each woman. In the equality variance = mean (1 -f mean), the variance is the observed variance and the mean is calculated from the equality. The mean interval obtained this way gives the estimate of the fecund period that passes before one conceives after the onset of menstruation. This period subtracted from the observed mean interval for each
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+Serial No. of the Women
+1
+2 3 4
+5 6 7 8 9 10
+11
+12 13 14 15 16 17 18 19 20
+21 22 23 24 25 26 27 28
+29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 Average
+
+TABLE 1 INTERVALS BETWEEN BIRTHS TO 4 4 INDIAN WOMEN.
+
+Birth Interval
+
+Mean Interval
+
+1-2 2-3
+
+3-4 4-5 in Months
+
+25 23 25 25 24.50
+
+31 28 29 29 29.25
+
+31 30 32 29 30.50
+
+28 26 28 30 28.00
+
+19 22 20 18 19.75
+
+23 22 21 25 22.75
+
+21 25 23 25 23.50
+
+15 20 20 20 18.75
+
+28 24 23 21 24.00
+
+22 27 29 29 26.75
+
+39 31 34 34 34.50
+
+15 20 21 23 19.75
+
+19 27 21 23 22.50
+
+27 35 28 30 30.00
+
+30 21
+
+25 25
+
+25.25
+
+22 22 25 30 24.75
+
+29 21 20 24 23.50
+
+22 25 30 21
+
+24.50
+
+34 40 38 44 39.00
+
+16 25 21 25 21.75
+
+18 25 26 18 21.75
+
+29 26 36 27 29.50
+
+36 28 38 37 34.75
+
+25 24 26 34 27.25
+
+13 18 19 25 18.75
+
+24 37 32 33 31.50
+
+22 19 31 28 25.00
+
+17 25 16 28 21.50
+
+25 26 28 38 29.25
+
+29 33 30 44 34.00
+
+28 35 38 45 36.50
+
+11 18 27 24 20.00
+
+24 25 16 34 24.75
+
+30 40 48 38 39.00
+
+39 35 23 25 30.50
+
+10 29 26 30 23.75
+
+13 33 16 30 23.00
+
+26 32 24 47 32.25
+
+43 18 27 23 27.75
+
+25 39 45 21 32.50
+
+16 22 44 28 27.50
+
+50 24 23 35 33.00
+
+23 24 30 52 32.25
+
+12 30 26 46 28.50
+
+24.6 26.8 27.4 30.0
+
+Variance
+1.0000 1.5833 1.6667 2.6667 2.9167 2.9167 3.6667 6.2500 8.6700 10.9166 11.0000 11.5833 11.6667 12.6667 13.5833 14.2500 16.3333 16.3333 17.3333 18.2500 18.9167 20.3333 20.9167 20.9167 24.2500 29.6667 30.0000 35.0000 35.5833 47.3333 49.6667 50.0000 54.2499 54.6667 59.6667 86.9166 99.3333 108.2500 116.9167 129.0000 145.0000 158.0000 182.9165 195.6667
+
+Birth Intervals of Indian Women
+
+75
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+woman yields an estimate of the infecund period. The estimates of the fecund and infecund periods for each woman of the sample are presented in Table 2.
+The probability p of conception after the onset of menstruation is given for each woman in the sample in Table 3. Obviously, the probabilities or fecundabilities vary to a large extent from one woman to the other, the range of variation being .069 to .618. This means that the highest fecundability found among the set of women is more than eight times the lowest fecundability.
+Similar estimates of the infecund periods and the fecundabilities were made for a set of 46 French women in the September 1959issue of Eugenics Quarterly. The procedure followed to get the estimates was exactly the same. In Tables 3 and 4 the estimates of fecundabilities and the infecund periods for the present sample of Indian women and for the French women2 are laid side by side for comparison. The fecundability curve for the French women is leptocurtic, while that for the Indian women is platycurtic and has a large range of variation. The highest fecundability among the French women of the sample is only a little more than five times the lowest, while for the Indian women it is more than eight times. A part of the variability could be explained by the fact that the set of French women had six or more children, while the Indian set includes women with five or more children. The set of French women is likely to be more homogeneous than the set of Indian women.
+The frequency distribution of the infecund period for the two sets ofwomen is presented in Table 4. As seen from
+2For detailed explanation refer to September 1959 issue of Eugenics Quarterly,
+
+the table, the average for the infecund period of the two sets of women is not much different, though for the Indian women it is a little higher.
+An important point about the estimate of the infecund period may be noted here. In Table 5 the infecund pe-
+
+TABLE 2
+THE FECUND PERIOD, THE INFECUND PERIOD OF AMENORRHEA, AND THE FECUNDABILITY
+'P' FOR INDIAN WOMEN.
+
+Serial No. of the
+Women
+
+Fecund
+Period (mos.)
+
+Infecund Periodi (mos.)
+
+Fecundability 'p'
+
+1 .618
+2 .854
+3 .884 4 1.208
+5 1.279
+6 1.279
+7 1.479 8 2.049 9 2.486
+10 2.842
+11 2.854
+12 2.940
+13 2.952 14 3.094
+15 3.219 16 3.308
+17 3.572
+18 3.572 19 3.693
+20 3.801
+21 3.878 22 4.037 23 4.101 24 4.101 25 4.450 26 4.970 27 5.000 28 5.437 29 5.486 30 6.398 31 6.565 32 6.588 33 6.882 34 6.911 35 7.241
+36 8.836
+37 9.482 38 9.916
+39 10.327
+40 10.869
+41 11.552
+42 12.080
+43 13.034
+44 13.497
+
+23.88 28.40
+29.62 26.79 18.47 21.47
+22.02 16.70 21.51
+23.91 31.65 16.81 19.55 26.91 22.03 21.44 19.93 20.93 35.31 17.95 17.87 25.46 30.65 23.15
+14.30· 26.53 20.00
+16.06 23.76 27.60 29.94 13.41 17.87 32.09 23.26
+14.91 13.52 22.33 17.42 21.63 15.95 20.92 19.22 15.00
+
+.618 .539 .531 .453 .439 .439
+.403 .328 .287 .260
+.259 .254 .253 .244 .237 .232
+.219 .219 .213 .208 .205 .198 .196 .196 .183 .167 .167 .155 .154
+.135 .132 .132 .127 .126
+.121 .102 .095 .092 .088 .084
+.080 .076
+.071 .069
+
+llnfecund period includes the period of amenorrhea and the period of pregnancy.
+
+76 Dandekar
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+TABLE 3 DISTRIBUTION OF FECUNDABILITIES FOR THE
+TWO SAMPLES OF WOMEN. Fecundability Indian Women French Women
+
+--.1
+-.2 --.3 -- .4
+--.5 -- .6 Above .6
+
+8 15 13 1 4 2
+1
+
+6
+27 5 6 2
+
+Total
+
+44 46
+
+Average fecundability .2209
+
+.1858
+
+riods for the two sets of women are put side by side with the smallest interval between births to a woman. It is obvious that the agreement between the smallest interval and the estimated infecund period is close. Moreover, a little adjustment in the estimate of infecund period for the fact that the interval has been measured in terms of months and not of menstrual cycles as it should be is likely to show a closer agreement between the two.2 This proves to be a very useful observation, since the smallest interval between two successive births to a woman can be taken to be the estimate of the period of amenorrhea. In the discussion above, however, the variability in the period of amenorrhea with change in the order of birth or age of the mother, if any, is not taken into account.
+Getting the estimates of fecundabilities and infecund periods, one wonders how they would be related to each other. Is it that women who have smaller infecund periods are more prolific and hence have larger fecundabilities? Or is it that the two processes are completely independent of each other and, once the period of amenorrhea ends, all women start on par? It may be quite possible that the period of amenorrhea is affected by factors quite different from those that affect the fecundability. Correlation coefficients were calculated for both the sets
+
+TABLE 4 PERIODS OF AMENORRHEA FOR THE TWO
+SAMPLES OF WOMEN.
+
+Frequency Distribution of the Period o£
+Amenorrhea (Excluding Pregnancy)
+in Months
+
+Indian Women
+
+French Women
+
+Below 6 6 --10 11-- 15 16 -- 20 21 and over
+
+4 11 17 6 6
+
+4 21
+7
+
+Total Average
+
+44 12.99
+
+46 12.54
+
+of women to find out the relation between fecundability and the period of amenorrhea. Plus 0.3 and plus 0.8 were the values obtained for the Indian and French women, respectively. There is a possibility that 'Nature gives larger periods of amenorrhea to guard against high fecundabilities.' But nothing is known about such a relation in the present state of our knowledge.
+In the above estimation of the period of amenorrhea, onset of menstruation itself was not considered to be a random process. This may be considered to be a random process along with the random process of conception after menstruation. This means that if x is the total interval between two successive births, then x = x1 -f- x2 + c where c is the interval wherein the probability of conception or menstruation is zero, xx is the interval between the end of this 0-probability period and the onset of menstruation,2 x2 that between onset of menstruation and the conception. It is obvoius that c includes the period of pregnancy and the period, if any, after confinement in which one cannot menstruate.3 C can be regarded as constant.
+3Herein, for simplicity, menstruation and ovulation are considered to be identical.
+
+Birth Intervals of Indian Women
+
+77
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+TABLE 5 . INFECUND PERIODS AND THEIR ESTIMATES GIVEN BY SHORTEST INTERVALS
+BETWEEN SUCCESSIVE BIRTHS.
+
+Serial Number of the Women
+1 2 3 4 5 6 7 8 9 10
+11 12 13 14 15 16 17 18 19 20
+21 22 23 24 25 26 27 28 29 30
+31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46
+
+Infecund Period
+
+Shortest Interval
+
+Indian Women
+
+23.88 28.40 29.62 26.79 18.47 21.47 22.02 16.70 21.51 23.91
+31.65 16.81 19.55 26.91 22.03 21.44 19.93 20.93 35.31 17.95
+17.87 25.46 30.65 23.15 14.30 26.53 20.00 16.06 23.76 27.60
+29.94 13.41 17.87 32.09 23.26 14.91 13.52 22.33 17.42 21.63 15.95 20.92 19.22 15.00
+
+23 28 29 26 18 21 21 15 21 22
+31 15 19 27 21 22 20 21 34 16
+18 26 28 24 13 24 19 16 25 29
+28 11 16 30 23 10 13 24 18 21 16 23 23 12
+
+--
+
+Infecund Period
+
+Shortest Interval
+
+French Women
+
+16.70 30.70 16.82 34.50 17.37 18.37 23.56 28.56 13.35 24.40
+17.30 19.23 16.18 28.71 22.43 20.57 30.57 16.28 17.34 16.03
+14.68 15.68 15.31 25.45 17.04 23.76 18.08 18.83 26.88 37.68
+31.00 18.45 21.16 30.68 29.92 11.55 26.70 14.52 17.23 22.13 25.43 15.29 19.14 23.11 17.62 18.14
+
+16 29 15 34 16 17 23 28
+12 23
+17 17 15 26 20 20 30 14 15 13
+12 13 14 24 15 24 18 15 23 38
+31 18 20 30 31 12 25 15 19 22 23 13 17 25 17 20
+
+78 Dandekar
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+TABLE 6 THE VALUE OF C OBTAINED FOR THE INDIAN
+SET OF WOMEN.
+
+Serial No. of the Value of c Women in Months
+
+Serial No.
+
+of the
+
+Value of c
+
+Women in Months
+
+1 23.77 23 29.20
+
+2 28.21 24 21.70
+
+3 29.42 25 12.71
+
+4 26.48 26 24.73
+
+5
+
+18.14
+
+27
+
+18.19
+
+6
+
+21.14
+
+28
+
+14.07
+
+7 21.61 29 21.75
+
+8 16.07 30 25.22
+
+9 20.72 31 27.48
+
+10 22.97 32 10.95
+
+11 30.70 33 15.29
+
+12 15.83 34 29.50
+
+13 18.57 35 20.53
+
+14 25.87 36 11.53
+
+15 20.94 37
+
+9.87
+
+16 20.32 38 18.50
+
+17 18.70 39 13.43
+
+18
+
+19.70
+
+40
+
+17.40
+
+19 34.13 41 11.44
+
+20
+
+16.63
+
+42
+
+16.20
+
+21 16.52 43 14.10
+
+22 24.04 44
+
+9.69
+
+The assumption yields the mean and variance of the intervals Xi and x2 as given below.
+Mean xx = (l-p^/p^ Variance x: = (l-pi)/p2i-
+Mean x2 = (l-p2)/p2. Variance x2 = (l-p2)/p22-
+The mean of the recorded interval is, therefore, given by mean (x) = (l-pi)/pi + (1-Pa)/P2 + c. If the two probabilities are regarded as independent, the variance of the interval x will be (l-pi)/p2i + (l-p2)/p22. The mean and the vari-
+
+ance lead to the inequality Variance (x) ^ (Mean - c) (Mean - c + 2)/2. If the relation of equality holds, we get the minimum value of c that is the period when the probability of menstruation or conception is zero. The values of c estimated for the sample of Indian women are presented in Table 6.
+As is clear from the table, the values of c are often different from 9 months, the period of pregnancy. This perhaps means that after the completion of pregnancy and confinement there is a period when the possibility of the onset of menstruation is absent. This may be called the postpartum sterile period. This has been given for the Indian and French women of the two samples in Table 7.
+The values of c (i.e. the period of pregnancy -f- the postpartum sterile period) presented for the two samples of women show them to be somewhat larger for Indian women than for the French, though the difference is not marked.
+
+TABLE 7 FREQUENCY DISTRIBUTION OF THE VALUES OF C IN MONTHS FOR (1) INDIAN WOMEN
+AND (2) FRENCH WOMEN.
+
+Below 15 15 -- 19 20 -- 24 25 -- 29 30 and over
+
+(1)
+9 13 12 8 2
+
+(2)
+14 15 8 6 3
+
+Total
+
+44 46
+
+

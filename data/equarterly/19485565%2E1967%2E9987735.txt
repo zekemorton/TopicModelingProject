@@ -1,0 +1,180 @@
+Eugenics Quarterly
+ISSN: 0097-2762 (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi18
+The level of nonwhite fertility in the united states, 1930 and 1920
+Melvin Zelnik
+To cite this article: Melvin Zelnik (1967) The level of nonwhite fertility in the united states, 1930 and 1920, Eugenics Quarterly, 14:4, 265-270, DOI: 10.1080/19485565.1967.9987735 To link to this article: http://dx.doi.org/10.1080/19485565.1967.9987735
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi18
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:29
+
+THE LEVEL OF NONWHITE FERTILITY IN THE UNITED STATES, 1930 AND 1920
+MELVIN ZELNIK School of Hygiene and Public Health
+The Johns Hopkins University Baltimore, Maryland
+
+Downloaded by [University of Michigan] at 13:29 08 December 2015
+
+Ideally, the analyst concerned with historical patterns of fertility would like to have, for an extended period of time, the best possible estimates of the annual numbers of births and the best possible estimates of the annual population.1 The (official) demographic data for the United States do not, or at best only partially, satisfy these conditions. On the one hand the agency responsible for population data, the Bureau of the Census, makes no adjustment of these data, in spite of the awareness of deficiencies in census counts (and in estimates based on these counts). On the other hand the agency responsible at the national level for vital statistics, the National Center for Health Statistics (NCHS), publishes, for years prior to 1960, figures on registered births as well as figures on registered births adjusted for underregistration.2 For those same years NCHS also publishes two series of crude birth rates--one based on unadjusted births and unadjusted population figures, the other based on adjusted births and the same unadjusted population figures. (In 1960 NCHS officially stopped adjusting registered births for underregistration; however, they con-
+1 The availability of such estimates would not eliminate the possibility of bias in the various adjusted fertility rates because of what might be the different quality of adjustment to numerator and denominator. Conversely, rates based on unadjusted data may, of course, be approximately correct, if the short-comings of numerator and denominator are about the same.
+2The term NCHS is used to refer to that organization and its predecessors.
+
+tinue to provide estimates of the completeness of registration.)
+Thus, the "consumer" is presented, for most of the years for which data are available, with what are presumably the best estimates of the numbers of births (i.e., the adjusted births), unadjusted population figures, and no way of determining which series of birth rates more accurately reflects the fertility behavior of American women. This paper represents a minor effort directed towards reducing that uncertainty. An extended series of births and birth rates, where the numbers of births and the total population figures are approximately consistent, has already been prepared for the white population of the United States (Coale and Zelnik, 1963). Thus, our present concern is with the nonwhites. The results presented here, however, are much more restricted in scope in that we cannot at this time provide an extensive time series of estimates. Rather, we shall attempt to validate an estimate of the adjusted nonwhite birth rate for 1930 and, by implication, the corresponding rate for 1920. To the degree that this effort is successful, it implies that the estimated numbers of adjusted nonwhite births in those years are too low, the relative errors being approximately equal to the relative undercounts of nonwhites in the 1930 and 1920 censuses.
+The age distribution of a closed population is determined by its past history of fertility and mortality; of the two,
+
+265
+
+266
+
+Zclnik
+
+Eugen. Quart.
+
+Downloaded by [University of Michigan] at 13:29 08 December 2015
+
+fertility tends to be the dominant factor. If this (closed) population has been experiencing a lengthy history of declining fertility at some constant annual rate, it is possible to derive a close approximation to the current (proportionate) age distribution (Coale and Zelnik, 1963). The derivation requires a determination of the stable age distribution implied by the current age schedules of fertility and mortality. Given these parameters, and the annual rate of decline of fertility, then:
+C (a) = KC, (a)exp - % k a+ % A'1 ka2 where Cd(a) is the proportion of the population at age a in the actual, or declining fertility, population; Cg(a) is the proportion of the population at age a in the current stable population; K is equal to bd/bs, or the ratio of the birth rate of the declining fertility population to that of the stable population; A is the mean age of childbearing; and k is the constant annual rate of decline of fertility.
+This presentation ignores changes in mortality, which effect the age distribution in a manner similar to changes in fertility in the opposite direction. That is, the principle effect of declining mortality closely resembles the effect of steadily rising fertility and the principle effect of rising mortality resembles the effect of steadily falling fertility. Since it is possible to find a proportionate change in fertility that is equivalent to a recorded change in mortality in terms of the effect on the age distribution, k can be considered the annual rate of net decline in those situations where mortality is changing.
+Following this argument, we shall attempt to approximate the age distribution of nonwhite females in 1930. (It should be made clear that we are attempting to approximate the actual--
+
+but unknown--age distribution rather than the reported one which is affected by errors of coverage and of reporting.) To the degree that this attempt is successful, and that we can thereby derive an estimate of the 1930 nonwhite birth rate that agrees with the birth rate consistent with the fertility schedule used in establishing the 1930 stable age distribution, we shall regard this fertility schedule as accurately measuring nonwhite fertility.
+Underlying the synthesis of the age distribution (of nonwhite females in 1930) is the assumption that Negro, and therefore nonwhite, fertility had started to decline at least by 1830. The evidence on which this assumption is based is presented below. An additional factor facilitating the synthesis is that prior to 1930 and subsequent to the ending of the importation of slaves the nonwhite female population was essentially a closed population.
+Two different sets of fertility schedules are available--the one consistent with the unadjusted birth rate and the one consistent with Whelpton's adjusted birth rate (U. S. National Office of Vital Statistics, 1950). The former schedule refers to the Birth Registration Area, which in 1930 included all but two states, Texas and South Dakota. Since the populations of those two states were excluded in the computation of the unadjusted birth rate and fertility schedule, we are assuming that these figures are applicable to the entire United States. Whelpton's figures, prepared under the aegis of NCHS, include an allowance for Texas and South Dakota as well as for incompleteness of registration at the national level.
+We have used these two fertility schedules, and the life expectancy at birth in 1930 of nonwhite females, to estimate the two stable age distributions implied
+
+Vol. 14, No. 4
+
+Nonwhite Fertility
+
+267
+
+by these schedules (from the family of "West" stable populations in Coale and Demeny, 1966). Figure 1 shows the reported age distribution for nonwhite females in 1930 and the stable age distribution based on the unadjusted fertility rates. Also shown are three estimated declining fertility age distributions. One is based on a k of 2.97 percent, the value of k needed, with the given stable distribution, to give an estimated birth rate (for the total nonwhite
+
+population) that agrees with the recorded unadjusted rate of 21.6 per thousand.3 The two other estimated age distributions are based on assumed values of k --4.0 percent in one instance, 5.4 percent in the other.
+Of the three estimated declining fer-
+3 The estimated birth rate (for the declining fertility population) was estimated in each instance from the female birth rate by multiplying it by 1 plus the sex ratio at birth (assumed to be 103) and by the ratio of the female population to the total population.
+
+Percent
+13
+
+Downloaded by [University of Michigan] at 13:29 08 December 2015
+
+\ \ \ \
+
+10 15 20 25 30 35 ¿0
+
+50 55 60 65 70 75
+
+Reported Stable
+
+Distribution resulting from history of fertility declining at annual rate of:
+
+2.97% _ . . -- . . -- . .
+
+__, . . - . .
+
+4-00%
+
+5.40% + -- + -- + --
+
+......
+
+. " . . : . · .^ . . : . . . · · . .
+
+Figure 1. Age distributions for the nonwhite female population of the United States, 1930: Reported, stable, and distributions resulting from a history of declining fertility, for various rates of
+decline, where stable distribution is based on (reported) unadjusted rates
+
+268
+
+Zelnik
+
+Eugen. Quart.
+
+tility age distributions, only the one based on a A of 4.0 percent can be considered a reasonably good approximation of the actual age distribution. However, three points should be noted about this value of k and the age distribution estimated with it. First, a k of 4.0 percent would lead to impossibly high levels of fertility in the years preceeding 1930; second, although the estimated age distribution appears to provide a close approximation to the actual, it is undoubtedly too small at the younger ages; third, the birth rate estimated in this instance
+
+is somewhat higher than the recorded rate. Obvious criticisms can be raised about the other two declining fertility age distributions and, by inference, about values of k other than the three used here. In effect, it appears to be impossible to derive a satisfactory estimate of the actual age distribution from the stable age distribution based on the unadjusted fertility schedule.
+Figure 2 shows the reported 1930 nonwhite female age distribution and the stable distribution based on Whelpton's adjusted fertility rates. Although Whelp-
+
+Fercent
+13
+12
+11
+10
+
+Downloaded by [University of Michigan] at 13:29 08 December 2015
+
+\ \
+
+10
+
+15
+
+20
+
+25
+
+30 35 Age
+
+¿0
+
+¿5
+
+50
+
+55 60 65
+
+70
+
+75
+
+Reported Stable Distribution resulting from history of fertility declining at annual rate of 2.41%
+
+Figure 2. Age distributions for the nonwhite female population of the United States, 1930: reported, stable, and distribution resulting from a history of declining fertility, where stable distribution and
+decline in fertility are based on (Whelpton's) adjusted rates
+
+Vol. 14, No. 4
+
+Nonwhite Fertility
+
+269
+
+Downloaded by [University of Michigan] at 13:29 08 December 2015
+
+ton prepared adjusted nonwhite birth rates for years prior to 1930, he did not prepare adjusted fertility rates for these years. Thus, in this instance we have estimated k from the decline in the adjusted birth rates between 1920 and 1930.4 The declining fertility age distribution based on this k also is shown in Figure 2. This age distribution appears to provide a close approximation to the actual one and, further, it also results in an estimated birth rate of 27.2 per thousand, a very close approximation to Whelpton's adjusted figure of 27.5 per thousand. We infer from these results that the adjusted rates do in fact reflect the level of nonwhite fertility around 1930 and that the estimated k is a good approximation of the average annual net decline in nonwhite fertility during the period preceeding 1930.
+It should be noted, however, that our method of estimating k ignores changes in mortality. We have estimated that the decline in nonwhite female mortality between 1830 and 1930 was approximately equivalent to a 0.24 percent annual increase in fertility, in terms of the effect of the decline in mortality on the age distribution. (The effect of the change in mortality between 1920 and 1930 was identical to the effect over the longer interval.) Our estimated value of k--2.41 percent--should, therefore, be considered the annual net decline and the actual decline one of about 2.65 percent. This latter figure suggests in turn that Whelpton's adjusted birth rate for 1920 may be slightly too low.
+Since Whelpton's adjusted birth rate
+4 A similar procedure was followed with the unadjusted data. However, the resulting k was smaller than 2.97 percent and led, therefore, to an estimated age distribution even further from the actual than the one shown in Figure 1 based on this value. For an instance in which changes in fertility closely paralleled changes in crude birth rates over a fairly lengthy time, see (Coale and Zelnik, 1963).
+
+for 1930 is based on adjusted births and unadjusted population figures, acceptance of this rate implies an approximately equal degree of error in the number of adjusted births and in the population figures. In an effort to establish a possible "reasonable" level of error, we have prepared an approximate adjusted population count of nonwhite females in 1930. This estimate is based on an adjusted figure for 1950 (Coale, 1955) and an estimate of change between 1930 and 1950.5 This procedure results in an estimated undercount of nonwhite females in 1930 of about 9 percent. If nonwhite males were undercounted to the same degree, then the adjusted births for 1930 should be increased by about 9 percent, or from 344,000 to 375,000.
+A similar approach could be used to estimate the error in the adjusted number of births for 1920. In this instance a small additional adjustment first would be needed to increase the adjusted birth rate to the appropriate level (ie., the level necessary to give a i of 2.65 percent as suggested above). It is of interest to note that the results presented in this paper suggest that Whelpton's adjusted nonwhite births are too low whereas the results presented by Coale and Zelnik indicate that Whelpton's adjusted white births are too high.
+It must be emphasized that the declining fertility age distribution shown in Figure 2 can be at best an approximation to the real age distribution. This estimated age distribution does not reflect the actual history of nonwhite fertility but instead is based on an assumed con-
+5 For the 1940-1950 decade, the estimate of change was taken from (U.S. Bureau o£ the Census, 1954). The estimate of change between 1930 and 1940 was based on adjusted births and registered deaths, the latter figures being adjusted where necessary for differences in geographic coverage and for changes in the groups included in the nonwhite category. No adjustment was made for migration during this decade.
+
+270
+
+Zelnik
+
+Eugen. Quart.
+
+Downloaded by [University of Michigan] at 13:29 08 December 2015
+
+stant average rate of decline in fertility. Even if the actual decline had fluctuated around this average figure, the estimated distribution would not be an exact duplicate of the actual distribution. There would be a close resemblance between the two distributions but the estimated distribution would be minus the humps and hollows of the actual distribution which were caused by the corresponding variations in past fertility around the constant average decline.
+There is however another, and in this instance, more important source of variation between the actual age distribution and the one we have estimated-- namely, that the rate of decline of nonwhite fertility was in fact not constant, nor did it fluctuate around some average figure, during the period of decline. Instead, the rate of decline appears to have accelerated.
+A comparison of Negro, and nonwhite, age distributions from 1880 to 1930 leaves no doubt that fertility was declining during this period, although at what rate or rates is not known. A recent publication presents the argument that Negro fertility declined between 1830 and 1860, the average rate of decline between 1830 and 1850 being 0.89 percent (Zelnik, 1966). On a priori grounds it seems safe to assume that fertility fell between 1860 and 1865. The pattern of fertility between 1865 and 1880 is highly uncertain.
+We have estimated what might be regarded as reasonable upper and lower bounds to fertility in 1880 and, therefore, as reasonable upper and lower bounds to the average annual rate of decline of fertility over the 50-year period from 1880 to 1930. The lower bound was established by assuming that the annual decline estimated for the period 1830-1850 persisted until 1880. The resulting esti-
+
+mate of fertility implies an average annual decline of fertility of 1.15 percent between 1880 and 1930. The upper bound was set by assuming that fertility in 1880 was the same as in 1850; this estimate implies an average annual decline of fertility of 1.68 percent between 1880 and 1930.
+These figures suggest, in conjunction with the already cited declines for the periods 1830-1850 and 1920-1930, that the rate of decline of nonwhite fertility between 1830 and 1930 was not constant but was instead an accelerating rate of decline. Where the rate of decline is not in fact constant, the value of k that produces the best fit to the current age distribution is the decline of the immediate past, e.g., over the past 20 or 25 years, rather than over some longer span of years. Thus, although the apparent accelerating decline of nonwhite fertility leads to deviations from the actual distribution, the fit provided by the more recent decline (in this instance between 1920 and 1930) is better than would be the case in using the average decline over a longer period of time.
+REFERENCES
+COALE, A. J., 1955. The Population of the United States classified by age, sex, and color--A revision of census figures. Journal of the American Statistical Association, 50: 16-54. , and P. DEMENY, 1966. Regional Model Life Tables and Stable Populations. Princeton University Press, Princeton, New Jersey. , and M. ZELNIK, 1963. New Estimates of Fertility and Population in the United States. Princeton University Press, Princeton, New Jersey.
+U.S. BUREAU OF THE CENSUS, 1954. Estimates of
+the population of the United States and of the components of change, by age, color, and sex: 1940 to 1950. Current Population Reports, Series P-25, No. 98.
+U.S. NATIONAL OFFICE OF VITAL STATISTICS, 1950.
+Births and birth rates in the entire United States, 1908-1948. Vital Statistics--Special Reports, p. 33. ZELNIK, M., 1966. Fertility of the American negro in 1830 and 1850. Population Studies, 20: 77-83.
+
+

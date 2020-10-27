@@ -1,0 +1,610 @@
+Eugenics Quarterly
+ISSN: 0097-2762 (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi18
+Applications of genetics in psychiatry and neurology
+Lewis A. Hurst
+To cite this article: Lewis A. Hurst (1961) Applications of genetics in psychiatry and neurology, Eugenics Quarterly, 8:2, 61-80, DOI: 10.1080/19485565.1961.9987464 To link to this article: http://dx.doi.org/10.1080/19485565.1961.9987464
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 2
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi18
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:26
+
+vol. s, NO. 2, June, 1961 Eugenics
+
+Quarterly
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+APPLICATIONS OF GENETICS IN PSYCHIATRY AND NEUROLOGY*
+LEWIS A. HURST
+Professor of Psychological Medicine University of Witwatersrand Johannesburg, South Africa
+
+JA.ECENT strides in general genetics, biochemical genetics, and human genetics have yielded a rich harvest in the field of psychiatry.
+Specific genetic mechanisms underlying important psychoses and several forms of mental defect have been elucidated. This definition of the specific genetic basis of each of our major endogenous psychoses, schizophrenia and manicdepressive psychosis, has provided a firm starting point for the exploration of the interaction between physiodynamic and psychodynamic approaches in these conditions. Moreover, scientifically acceptable data from which to evolve eugenic theory and principles in the field of psychiatry have thus been made available. And finally, evidence that has come to us from the field of biochemical genetics,
+
+pointing to enzyme blocks as the process mediating genetically determined pathological processes and states, including those falling within the psychiatric field, gives us a precise vantage point for research and therapeutic attack -- most paradoxically in an area in which the central concept (heredity) was formerly equated with irreversibility and prognostic hopelessness.
+We shall be in a better position to elaborate these our two major themes of research and therapeutic attack on the one hand, and eugenic policy on the other, when we have cleared the ground by means of presentation of methods and data, to which I now address myself.
+METHODS OF INVESTIGATIVE PROCEDURE
+IN HUMAN GENETICS
+The Pedigree or Family History Method
+
+*This article is based on one of similar title appearing in the South African Journal of Laboratory and Clinical Medicine, Vol. 4, No. 3, Sept. 1958. Our thanks are due to the editor for permission to publish material appearing in that article.
+
+This method is mainly of historical interest and of preliminary suggestive significance. Even before the Mendelian era certain traits or disorders were ob-
+
+61
+
+62 Hurst
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+served to "run in families," paving the way for the more effective methods of assessing the fact of heredity and the type of heredity mechanism involved. Sir Ronald Fisher (1956) gave interesting examples of such pedigrees that had pointed the way in his address at a plenary session of the 1956 Congress at Copenhagen. Pedigrees, from the pattern of distribution of affected or unaffected members of the varying degrees of relationship within the family, may provide an indication of whether the trait concerned is transmitted as a Mendelian dominant (transmission in the direct line of descent, a 50% rate of children of one affected parent similarly affected, and descendants of nonaffected members not affected themselves), or as a Mendelian recessive (transmission in the collateral line of descent, a 25% rate of affected children of two overtly normal parents, raised consanguinity rate in parents, and skipping of generations in respect to affected members), or as one of the varieties of sex-linked traits (in the commoner of which, haemophilia, the condition is transmitted by the female and suffered by the male).
+Such pedigrees, however, can at most be regarded as of preliminary value, because the small size of human families does not statistically warrant the drawing of firm conclusions about the genetic mechanisms involved, and the pedigrees that draw attention to themselves often do so in virtue of their unduly heavy loading (not representative of the average family) with cases exhibiting the trait or disease in question.
+From the cue given by pedigrees we are driven on to the more precise and statistically adequate methods which have been called the Contingency Method of Statistical Prediction and the Twin Study Method, the two methods gaining
+
+in effectiveness by combination in the Twin Family Method of Kallmann.
+The Contingency Method of Statistical Prediction
+Before proceeding to the more technical aspect of this method, it should be stressed what effort is made in modern genetic methods to collect a representative, unselected sample. Perusal of Kallmann's (1937) monograph will give an idea of how painstaking such work may be. In the contingency method, large samples of relatives are used, classified by degree of blood relationship to the probands or index cases (carriers of the trait under investigation who form the starting point of enquiry for each family being studied) and considered suitable for comparison with a normal average population group. The technical procedures employed in such an assessment are Weinberg's proband and sibship methods.
+The derivation of expectancy figures from the raw data of a particular investigation involves correcting for statistical inequalities in age distribution and in the process of collecting index cases. The most elementary corrective methods used are those of Weinberg. His methods for correcting bias in the selection of cases have been referred to but cannot be elaborated here. It may be instructive, however, to review his abridged method which corrects for inequalities of age distribution. Let us consider a series of relatives being investigated in respect to disease X, which has been found to have a manifestation period ranging from age 20 to age 40. Table 1 shows that although the divisor in calculating the net or uncorrected figure is 300, the divisor in calculating the corrected or expectancy figure is only 150, yielding a result which is twice the net figure.
+
+Genetics in Psychiatry & Neurology
+
+63
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+TABLE 1
+METHOD TO CORRECT FOR INEQUALITIES OF AGE DISTRIBUTION
+
+Age Group
+
+All con- All cases Corrected sanguin- of Disease rate of eous per- X observed reference sons ob- (net (expectan-
+served figure") cy figure*)
+
+0-20 20-40 Over 40
+
+100 100 10 100 20
+
+50 100
+
+No. of persons 300
+
+~30~
+
+150
+
+·Morbidity Rate: 10% (net or uncorrected): 20% (corrected or expectancy figure).
+
+The reasons for reducing the divisor are as follows: 100 out of 300 cases cannpt be counted at all as they are under 20 years of age and thus cannot have reached the minimal age at which the disease can develop. The 100 on the third line in Table 1, denoting the age group 40 and over, all count because they have passed the manifestation period for the disease. The 100 on the second line, denoting those distributed throughout the age period 20-40, may, on the assumption of even distribution throughout this period, be taken ashaving on the average reached the age of 30, thus having been exposed to only half the risk of developing the condition--so that instead of this figure's contributing a full 100 to the denominator it only contributes 50. Adding our three figures together we arrive at a figure of 150 instead of 300.
+More refined methods have been devised by Bernstein, Use, Stromgren and Lenz which take cognizance of an uneven or irregular distribution through the risk period. The most precise method employs morbidity statistics analogous to the mortality tables used in life insurance statistics.
+The Twin Study Method
+This method is based on the fact that
+
+monozygotic or identical twins originating from the same fertilized ovum have essentially the same genotypes or hereditary equipment, whereas dizygotic or fraternal twins have no greater chance of having a similar combination of hereditary characters than any pair of ordinary siblings. If, therefore, in a series of twins collected on the basis of the fact that one at least of every pair exhibits the trait or disease under consideration the one-egg twins show a higher proportion of cases in which both members of the twin sets manifest the condition (concordance) than do the two-egg twin sets, we have presumptive evidence of the operation of hereditary factors in the determination of the trait.
+With regard to the establishment of the zygosity of twins, i.e., whether the twins are monozygous or dizygous, the Similarity Method (due to Siemens) is now generally used. According to this method twins are classified as monozygotic if they are strikingly similar in general appearance and, in particular, if they are alike in the color of eyes, hair and skin, hair texture, blood groups, facial features, dental irregularities, finger proportions, fingerprints and palm patterns. The presence of reversed asymmetry in handedness, dentition and fingerprints is confirmatory evidence of monozygosity. The foetal-membrane method in its original simplicity is unreliable and is no longer used since monozygotic twins may have separate placentas.
+Certain criticisms of inferences from twin studies on the basis of anomalies of development have been raised by Zlotnikoff, Bronson Price, Newman, Dahlberg, N. F. Walker, Waardenburg, Meyer, Curtius and von Verschuer, but thephenomena are too rare to invalidate the main premise involved in twin studies.
+
+64 Hurst
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+Of more general scope is the contention that one-egg twins share a much more similar socioeconomic psychological environment and that higher concordance figures which may be found in this type of twin, as compared with the two-egg variety, may not be due entirely to the greater similarity in genetic equipment. Eliot Slater's (1953a) formulation is to this effect:
+It is sometimes assumed that any similarities shown by uni-ovular twins can be attributed to heredity, and differences to the environment, but only the latter half of this asumption can safely be held. From this, however, it does not follow that deductions about the importance of heredity in causing some characteristic cannot be based on the examination of a series of uni-ovular twins, provided that there is no biased selection and that controls, i.e. binovular twins, are available.
+Ways of attempting to approach and solve the problem raised are considered in paragraphs numbered 3 and 4 to follow.
+The co-twin control method was used by Gesell and Thompson for the study of variations such as those of intelligence produced in selected pairs of monozygotic twins by prearranged differences in training and other environmental influences. As applied to our special problem this method leads to the investigation of whether the concordance rates for the trait or disease in question differ between one-egg sets reared together and those reared apart under different psychological and socioeconomic circumstances. A significant difference in these figures would- provide a measure of the contribution of environmental factors to the causation of the trait in question.
+The twin-family method of Kallmann includes the combination of the twin aging persons."
+
+and family methods, which permits of the bringing together of certain significant figures and which makes this method a more powerful analytic tool than either of the component methods separately. The main categories of relationship for which morbidity figures are obtained in this method are: oneegg twins, two-egg twins, full siblings, half-siblings, step-siblings, and the general population. This method demonstrates whether or not the individual's chance of developing a given trait increases in direct proportion to the degree of blood-relationship to an index case affected by the trait in question.
+A specific example is the best way of conveying the force of this method. The figures for schizophrenia in Kallmann's American study areas follows:
+
+One-egg twins Two-egg twins Siblings Half-siblings Children General Population
+
+86.2% 14.5% 14.2% 7.1% 16.4% 0.85%
+
+Inferences from these figures are:
+1. The morbidity figures of all degrees of blood-relationship are much higher than in the general population--even in half-siblings the incidence is 8 times greater.
+2. With increasing degree of bloodrelationship there is increasing degree of morbidity -- from 7.1% in half-siblings and 14.2% in full siblings to 86.2% in one-egg twins.
+3. The concordance rate for one-egg twins is very high (86.2%) and is approximately 6 times the figure for twoegg twins. Beside this the finding in another part of the study that the concordance of separated one-egg schizophrenic twins is slightly lower than for nonseparated one-egg twins--65.0% as compared
+
+Genetics in Psychiatry & Neurology
+
+65
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+with 71%--appears to imply relatively insignificant environmental factors in causation of the condition.
+4. The essential similarity of the figure for siblings and two-egg twins (14.2% and 14.5%) is of intrinsic interest because of postulated lack of significant differences in average genetic equipment. There is the further point that there is an obvious analogy here to the greater similarity of the environment shared by one-egg as compared with twoegg twins: in this case there is a presumption that two-egg twins are on the average likely, to share a more common environment than any two siblings taken at random and yet here this environmental factor has exerted no effect on the comparative morbidities.
+GENETIC FINDINGS IN PSYCHIATRY AND
+NEUROLOGY
+This section consists of a condensed description of some of the main findings and recent research in the fields of psychiatry and neurology, concluding with a consideration of the condition phenylpyruvic amentia, where something substantial on the biochemical side is already known.
+Genetic Findings in Psychiatry
+With the review of principles already given, Table 2 should be meaningful. Something may profitably be said in elaboration of the following items.
+1. Manic-Depressive Psychosis. The genetic mechanism is irregularly dominant with a high degree of penetrance, and with a pronounced tendency to a relatively mild symptomatology in the presence of stabilizing constitutional modifiers. The diagnostic classification should be restricted to cases with acute, self-limited mood swings before the fifth decade of life and without progressive or residual personality disintegration
+
+before or after psychotic episodes. So diagnosed, the disease is correlated with a tendency to obesity, cardiovascular disorders, gout and diabetes and high resistance to tuberculosis, and is apparently based on a strictly specific genotype. This condition is genetically unrelated to reactive or neurotic depression, to menopausal and presenile depressions, or to other nonperiodical forms of depressive behavior in the involutional period. The dysfunction may be looked upon as one of regulatory instability, but present information about the biochemical constituent of the underlying genotype, as well as the range of its compensatory adaptiveness, is still far from complete (Kallmann, 1950, 1951, 1953a, 1954).
+2. Schizophrenia. In addition to the figures appearing in Table 2, their implications have been studied in connection with a review of the twin-family method. One additional statistic in relation to the question of dominance or recessiveness of the schizophrenic genotype is that in Kallmann's studies he has found a figure of 16.4% in children with one schizophrenic parent, and 68.1% with both parents schizophrenic. The most cogent view, according to Kallmann, is that the condition is determined by an autosomal and single-recessive unit factor, the penetrance (70%) and phenotypical expressivity of which are limited by polygenic (nonspecific) constitutional modifiers, measurably correlated with the compensatory capacities of the athletic component of physique (Kallmann, 1946).
+A close relationship between constitutional resistance to the schizophrenic genotype and graded resistance to pulmonary tuberculosis has been found. Only homozygous bearers of the specific (predisposing) genotype for schizophrenia are capable of reacting with a
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+Psychiatric condition Investigator
+
+Kallmann
+
+1. Manic-depressive Luxenburger
+
+psychosis
+
+Rosanoff
+
+Stenstedt
+
+2. Schizophrenia 3. Childhood
+schizophrenia
+
+Kallmann
+Slater Kallmann and
+Roth
+
+4. Involutional psychosis
+
+Kallmann
+
+General population
+0.85% 1.0%
+
+TABLE 2
+
+GENETIC FINDINGS IN PSYCHIATRIC CONDITIONS
+
+Two-egg One-egg
+
+Half-sibs
+
+Sibs
+
+twins
+
+twins
+
+16.7%
+
+23% 12.7%
+c. 15%
+
+26-3% 1:16 11:67
+
+95.7% 31:33 16:23
+
+7-1%
+
+H.2%
+
+14.5%
+
+86.2%
+
+14.0%
+
+76.0%
+
+12.2%
+
+17.1%
+
+70.6%
+
+4.5% 6.0% 6.0% 60.9%
+
+5. Senile psychosis Kallmann
+
+Less than 1.0%
+
+6. Suicide
+
+Kallmann et al.
+
+6.5% 8.0% 42.8% 1:28 1:28
+
+7. Adult male homosexuality
+8. Neurosis and psychopathic personality
+
+Kallmann et al.
+Slater Conrad
+
+9. Epilepsy
+
+Alstrom
+Gibbs et al. (EEG)
+
+10. Mental defect (high-grade)
+11. Mongolism
+
+Brugger and Juda
+Lejeune, Gautier and Turpin
+
+M 2.4 F 0.0
+4.0%
+
+42.3%
+M 42.1% F 7.4%
+4.3%
+
+100%
+M 80.0% F 0.0%
+86%
+
+1.5% 25% 100%
+
+23.4%
+
+35.9% 54% 86%
+
+Parents 23.4%
+c. 15% 9.3%
+12.5% 6.4%
+3.4%
+
+Postulated genetic Children mechanism
+
+Oi
+
+24.4%
+c. 15% 16.4%
+
+Autosomal irregular dominant
+Autosomal recessive: 70% penetrance
+Recessive and dominant cases
+
+Similar to adult form
+Heterozygous carriers of schizophrenic genotype
+Gene-specific biochemical factors plus adaptive personality traits
+None demonstrated Genetically disarranged
+balance between male and female maturational tendencies
+
+c
+
+Polygenic
+Polygenic (Kallmann) Not genetic except
+rarely single 1-5% 3.5% dominant
+Single dominant
+Polygenic; special single recessive and single dominant forms
+Trisomic condition demonstrated cytologically
+
+Genetics in Psychiatry & Neurology
+
+67
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+true schizophrenic psychosis. Other features emerging from an analysis of the detailed figures of Kallmann's work are reduced reproductivity rate, increased rate of consanguinity in the parents and transmission in the collateral line of descent. Schizoid personality traits may be found in homozygotes with very high resistance or in heterozygotes with relatively low resistance (homozygotes having a double and heterozygotes a single dose of the gene).
+Of the other serious workers and thinkers in this field none dispute the fact of heredity in schizophrenia and its great importance, but there are those who favor some other type or additional type of genetic mechanism. In Germany during the 1930's a simple dominant mode of inheritance was favored and became the basis for eugenic sterilization laws. Lenz, Koller, Slater and Book still support the dominance theory as covering some or all of the cases.
+Roller's argument cannot be presented here in detail, but it culminates in the contention that if the gene were recessive, the incidence of schizophrenia should be lower in the children than in the sibs, whereas the reverse is the case. Slater (1953&) likes this argument, inclines to the view that dominant as well as recessive forms exist, and adopts a view of genetic heterogeneity to explain the subgroups of schizophrenia, which Kallmann deals with more effectively, in my opinion, in terms of the modifying effect of the polygenic resistance mechanism. Penrose's theory of a multifactorial genetic determination of the disease does not conflict formally with Kallmann's hypothesis of a specific single recessive predisposing mechanism plus a multifactorial constitutional resistance mechanism, for after all one plus many equals many, and Kallmann's theory is
+
+much richer in detailed content and in its fruitfulness as a research hypothesis.
+In bringing together findings in respect to manic-depressive psychosis and schizophrenia, it is interesting to note the cumulative effect of the evidence of the specificity and distinctness of the two genotypes. In reviewing the work of Kallmann's department in 1952, Hurst (1952) was able to report that among a total of 1,232 twin index cases no pair of one-egg twin partners was found whose clinical symptomatology warrants placing the two members of a pair into different diagnostic categories. Recently published observations of three different workers--Elsasser (1952), Slater (1953a) and Stenstedt (1952)--point in the same direction.
+The relative infrequency of manic depressive psychosis in modern populations may be partly due to factors of selection which reduce the reproductive rate of the carriers without affecting the social level of their families (Kallmann, 1946; Stenstedt, 1952). At least there seems to be no tendency towards a social decline of the magnitude typical of schizophrenic family units.
+3. Childhood Schizophrenia. In their paper entitled "Genetic Aspects of PreAdolescent Schizophrenia" Franz J. Kallmann and Bernard Roth (1956) provide the following conclusions from their study of 52 twins and 50 singletons under age 15 (quoted in part):
+(a) These findings indicate an early effect in childhood schizophrenia of the same genotype (gene-specific deficiency state) assumed to be responsible for the basic symptoms of adult schizophrenia. The conclusion is supported by the observation that the psychoses in the co-twins of early schizophrenia cases occur sometimes before and sometimes after adolescence.
+
+68 Hurst
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+(b) While the aetiological mechanism underlying the relatively infrequent activation of a schizophrenic psychosis before adolescence has not yet been adequately identified, it would seem to be connected with variable constellations of secondary factors lowering constitutional resistance.
+(c) Because of a dearth of statistically comparable data, it is difficult to appraise the part played by a poor home with disturbed intra-family relationships in the aetiology of childhood schizophrenia as compared with that of adult schizophrenia.
+4. Involutional Psychosis. According to Kallmann, the implication of comparative data "would seem to be that the principal genetic derivation of involutional psychosis is from an indirect relationship to the entity of schizophrenia, and not from a specific type of predisposition producing a particular impairment of the adjustive plasticity of aging persons."
+5. Senile Psychoses. The severe maladjustment to aging resulting in the symptomatology of a senile psychosis would appear to depend on a combination of aetiological components, including age-susceptible personality traits, declining adaptational plasticity, and socioeconomic security. From their relation to those gene-specific biochemical phenomena which control growth and decline, these may be expected to coexist more frequently in genetically alike persons (one-egg twins) than in persons genetically considerably less alike (twoegg twins). The presensile brain atrophies of Pick and Alzheimer are probably both irregularly dominant.
+The theme of maladjustment, examined from the point of view of the native assets or deficiencies which we bring to coping with our environment, is carried on in our next two topics of suicide and
+
+homosexuality. The former constitutes a total inability to adjust, and the latter, a socially inacceptable way of adjusting to one of our major instinctual drives.
+6. Suicide. In suicide, that final and irrevocable failure to adjust to life, there has been a widespread tendency to assume an inheritable type of unfitness in the general personality structure. This has not been borne out by the investigations of Kallmann and his co-workers (Kallmann and Anastasio, 1946; Kallmann et al., 1949). The first 27 sets of twin subjects were discordant as to suicide. In 1950 this run was broken by a pair of schizophrenic and overtly homosexual World War II veterans, who became concordant as to suicide, albeit at different ages--25 and 29--and by different methods--drowning and gas. A single instance of this type in a sample of this size is clearly within the range of chance expectation. The general conclusion from this study of suicide in twins, as well as from another one by the same group in only children, is that there is no statistically valid support for the notion of hereditary or familial occurrence of suicide.
+7. Adult Male Homosexuality. The twin family method provides a means of contributing to a scientifically validated elucidation of this condition, in which highly speculative psychodynamic theories have long held the field. Kallmann
+(1952) in his study used Kinsey's 6-point scale in rating adult male homosexuality.
+One salient finding (reflected in Table 2) was that in 40 one-egg twin pairs showing a high degree of homosexuality (Kinsey ratings of 3 or more) there was 100% concordance for the trait in question, while for the 45 two-egg pairs the concordance is 11.5% or 42.3%, according to whether the two highest homo-
+
+Genetics in Psychiatry & Neurology
+
+69
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+sexual ratings (5 and 6) or the whole range (1-6) are taken as the criterion. (These figures are only slightly higher than Kinsey's estimates of 10% and 37% of the total population.) A point of further interest is the fact that most of these twin pairs claimed to have developed their sexual deviation independently and far apart from each other, and that all of them denied categorically any history of mutuality in overt sex relations.
+An important conclusion also emerges from a consideration of sex ratios in the sibships of homosexuals (not reflected in Table 2). In the single-born and twin-index samples alike, there is a fairly consistent tendency for this to deviate towards an excess of males. In the sibships studied by Kallmann a ratio of 126 males to 100 females was obtained (as compared with 106 to 100 in the corresponding general population). This is in line with Lang's demonstration of a statistically significant deviation in the direction of a preponderance of males in the sibships of a large sample of some 1,015 German homosexuals, where the ratio for all ages was 121.1 males to 100 females and, for subjects over the age of 25, 128.3 males to 100 females. The inference from this is that adult male homosexuality is a biologically determined phenomenon on a genetic basis-- due to a genetically disarranged balance between male and female maturational tendencies.
+8. Psychoneurotic Traits, Psychosomatic Vulnerabilities, and Psychopathic Personality Traits. As to possible genetic elements at the root of psychoneurotic traits and psychosomatic vulnerabilities, it is regrettable that current information in this important area of psychiatric genetics is least complete. In Eysenck's (1947) opinion many differently
+
+formulated theories of neurosis are on the same descriptive level and are concerned with the same fundamental dimension of personality. In collaboration with Prell (Eysenck and Prell, 1951), he was one of the few investigators of psychoneurotic reaction patterns (outside the field of criminality) to avail himself of the opportunities afforded by the twin-study method. On the basis of their study of 25 one-egg and 25 two-egg pairs, Eysenck and Prell classified "the neurotic personality factor" as a biological and largely gene-specific entity, estimating the genetic contribution to this neurotic unit predisposition at 80%.
+Slater brings together neurotic and psychopathic reactions, viewing them clinically as different grades of maladjustment to stress. Genetically he considers that his figures suggest the hypothesis of nonspecific (polygenic) deficiencies in relation to stress. In the psychoneuroses he found that the form of the symptoms is not as closely related to the form of stress as it is to the basic personality. EEG findings (theta activity) suggest a heredito-constitutional basis for psychopathic personality, especially the aggressive variety, and raise the possibility that it is literally a form of physiological immaturity of the central nervous system. Slater moreover cites a study in which there is a much higher rate of psychopathic personality in the offspring of psychopaths than in the general population.
+9. Epilepsy. In the field of epilepsy the evidence from various sources is conflicting. The presumption is that the tendency to seizures is a graded character (Kallmann and Sander, 1947)--varying from the potentiality of all the human species (and indeed many subhuman organisms) to develop seizures under the influence of unusually potent
+
+70 Hurst
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+stimuli such as that employed in electroconvulsive therapy, through the cases where rather special irritant agencies such as alcohol, fever or trauma are sufficient to elicit seizures, to the clinically recognized epileptics who have their seizures under the range of stimuli provided by the everyday environment. This would suggest the likelihood of a polygenic mechanism for any hereditary basis involved. The figures in Table 2 (Conrad, 1935) provide substantial evidence for a genetic basis and are not incompatible with the polygenic hypothesis which is favored by Kallmann. The figures of E. L. and F. A. Gibbs (Lennox et ah, 1940, 1945), based not on a clinical but on an EEG criterion -- dysrhythmia--are interpreted by them quite unexceptionably as favoring single dominance. The question is further beclouded by Alstrom's (1900) finding of an overall incidence figure for children, parents, and siblings of the same order as that characteristic of the general population concerned. These results would suggest either that in general no genetic factor is discernible or that we have to do with a major dominant gene, of low penetrance owing to powerful modifiers. Detailed scrutiny of the results reveals that in only about 1% of his 897 index cases--11 probands belonging to 8 families--does the epilepsy appear to follow a single dominant course with high penetrance.
+10. Mental Deficiency. Mental deficiency is clearly not a homogeneous disease entity but the end result of a variety of possible factors or entities, genetic and nongenetic. Penrose (1949), in his Colchester study, showed that at least 15% of cases were nongenetic inasmuch as they had resulted from environmental causes such as birth injury or encephalitis.
+
+Of the cases with a substantial genetic basis, the large majority (more particularly of the higher grades over IQ 50) may be regarded as the tail-end of the curve of normal distribution of intelligence, based on a polygenic mechanism. It is not suggested that intelligence is entirely dependent on genetic factors, but rather that insofar as a genetic mechanism is involved it is polygenic. The twin studies of Newman et al. (1937) indicate that genetic constitution contributes twice as much as the environmental factor of cultural stimulation to test intelligence. In lower-grade mental deficiency (IQ of less than 50) special types of mental defect based on single recessive or single dominant mechanisms feature prominently. Examples of single recessive mechanisms are amaurotic idiocy and phenylpyruvic oligophrenia, and of single dominant mechanisms, tuberous sclerosis, neurofibromatosis and Sturge-Weber's disease.
+According to Brugger and Juda even certain types of high-grade defect are single-recessive as an explanation of the morbidity figures appearing in Table 2.
+That pedigree studies can easily be confused by selective factors is nowhere better demonstrated than in the field of mental defect--the classical sagas of the the Jukes and Kallikaks are no exception to this pronouncement.
+11. Mongolism. This condition is worthy of separate mention both because of the very special clinical interest attaching to this class of case, and because it was here that cytological genetics achieved a famous victory in the demonstration by Lejeune, Gautier and Turpin (1959) of a small extra chromosome in tissue cultures from the connective tissue of three cases of mongolism. This was confirmed a little later during the same year in respect to the somatic chro-
+
+Genetics in Psychiatry & Neurology
+
+71
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+mosomes by Jacobs et al. (1959) in six typical mongols, three of each sex.
+12. Huntington's Chorea. The claim of this condition to transmission as a Mendelian dominant is so well known that it will not be elaborated here. The trait is specific, autosomal, and singledominant.
+A General Perspective on Psychiatric Genetics
+The position historically as I see it is as follows:
+In the last century crude hereditarian views were obtained in the field of mental disorders, in which a nonspecific type of heredity, related to the so-called neuropathic diathesis, was supposed to be operative--and which could, it was alleged, bring about in some inexplicable fashion the appearance of mental disorder A (say schizophrenia) in the first generation, mental disorder B (say manicdepressive psychosis) in the second generation, and mental disorder C (say epileptic psychosis) in the next.
+During the present century there was a reaction away from such a crude view which flew in the face of plain logic. The very development of scientific genetics during this period disclosed the untenability of such a view.
+Then there was the environmental bias of special influential schools of thought, notably psychoanalysis and behaviorism. This created an atmosphere inhospitable to genetic ideas which, as then conceived, denoted irreversibility. There was a general human rebellion against the notion of determinism in human behavior, especially of a determinism that stretches from generation to generation.
+With the advent, however, of the more precise studies that we have reviewed, and the new concept of specificity of ge-
+
+netic mechanisms for different diseases with this dynamic biochemical basis and consequent reversibility, the currency of genetic ideas in psychiatry has steadily been gaining ground.
+Perhaps we can give the best expression to the most significant emphases in the orientation of modern psychiatric genetics by quoting excerpts from a paper by Kallmann (1953&).
+Along with the advent of modern psychiatry at the end of the last century, it became necessary to look for genetic components in the aetiology of psychotic behaviour patterns.
+By its very nature, the genetic approach ended those carefree days when mental illness, for want of a better label, was1 called lunacy and ascribed to the disturbing effect of the idle goddess.
+Generally speaking, psychotic behavior disorders seem to follow selective patterns of distribution and cannot be explained either by a universal species vulnerability or by general emotional group experiences. Since these disorders affect only some members of some families, under nearly equal conditions of stress, it follows that the key to persisting obscurities in their aetiology must be sought in certain specific disarrangements of those maturational integrative or regulative functions which determine the adaptive capacities of the human organism. In conclusion, it may be said that in order to understand certain basic principles in the formation of pyschotic behaviour patterns, it is necessary to delve into the substratum of gene action as well as into the subconscious.
+In doing so, genetic studies have in many instances succeeded in conferring the belief, at least theoretically, that mental disorders are both preventable and potentially curable. At the same time, such studies have again focused attention on the importance of a systematic and well balanced approach in any attempt to reach the given goals. It is now clearer than ever that only when attitudes of Optimistic complacency toward the
+
+72 Hurst
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+causes of severe maladjustment give way to a realistic awareness of the incompleteness of knowledge regarding the genetic aspects of psychotic behaviour patterns, will further progress be made.
+Genetic Findings in Neurological and Other Disorders
+1. Neurological. The subjoined list of neurological (and allied) disorders gives some indication of the wide applicability of the genetic theme in this field.
+(a) Usually single-dominant syndromes: Marie's heredocerebellar ataxia; status dysrhaphicus (syringomyelia); hereditary essential tremor; congenital cataract, glaucoma and bilateral ptosis; paralysis agitans; Thomsen's myotonia congenita; familial periodic paralysis and some forms of muscular atrophy (Charcot-Marie).
+(b) Usually single-recessive syndromes; Friedreich's ataxia (spinal form); Wilson-Wesfal's pseudosclerosis (progressive lenticular degeneration); hereditary congenital deafness; most forms of muscular atrophy (DjerineMotta) and muscular dystrophy Duchenne-Erb, and spastic spinal paralysis.
+(c) Usually sex-linked syndromes; Leber's primary optic atrophy; retinitis pigmentosa; haemophilia; familial eunuchoidism associated with anosmia, and color blindness.
+2. Other DisordersDue to Genetically Determined Defects
+(a) Storage diseases (single-recessive); Gaucher's lipoidosis; Niemann-Pick's acute xanthomatosis; Hand-SchiillerChristian's chronic xanthomatosis; Gierke's glycogen disease; congenital porphyria.
+(b) Rh blood incompatibilities causing
+
+erythroblastosis and possibly certain undifferentiated forms of mental defect.
+A General Perspective on Neurological Genetics
+Neurology is richly illumined by the insights provided by genetics. Not only is the basic aetiology of the degenerative and some other neurological conditions laid bare, but clinical insights relating to varying penetrance and expressivity and the disentangling of features of mixed syndromes are made possible. As in psychiatry, the adding of biochemical dimension to genetics bids fair to open vistas to research and therapy in conditions hitherto regarded as incurable. We have had glimpses of this biochemical aspect in the foregoing, but we shall conclude this section with one of the clearest examples of a known enzyme block in a condition which happily falls into the sphere of both neurology and psychiatry, namely phenylketonuria or phenylpyruvic oligophrenia.
+George A. Jervis (1953) gives the following summing up of the biochemical nature of phenylketonuria and the rela-' tionship, if any, of the metabolic error to the clinical symptomatology.
+The Biochemical Nature of Phenylketonuria Several hypotheses have been advanced.
+1. The error consists of a block in the metabolism of phenylalanine at the stage of phenylpyruvic acid;
+2. The error consists of an abnormal racemization of phenylalanine
+3. The error consists of a blockage in the conversion of phenylalanine into tyrosine, the unmetabolized amino acid would then accumulate in the body fluid and be excreted as such or as its deaminated products, phenylpyruvic, phenyllactic and phenylacetic acid.
+Jervis cites the experimental findings
+
+Genetics in Psychiatry & Neurology
+
+73
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+which make him support the last hypothesis.
+He goes on to analyze the question of the relationship, if any, of the metabolic error to the clinical symptomatology and in conclusion stresses the distinct possibility that the relationship is not a casual one, and that the two phenomena, biochemical and mental defect, may be the expression of a genie action pleiotropic in nature.
+With a view to more precise pinpointing of biochemical pathways and their potential interrelationships with the mental deficiency present, Pare, Sandier and Stacey (1959) have conducted an investigation with restricted phenylalanine diet (generally beneficial for this condition) on 7 in-patients at a children's hospital. Serum and urinary 5hydroxytryptamine were observed to rise in all but one case. They have also conducted a 5-hydroxytryptophan tolerance test, in which 4 phenylketonuric children matched with 4 children with simple mental defect, that gave results in accord with the in vitro findings of Davison and Sandier (1958) that certain aromatic acid metabolites of phenylalanine found in excess in phenylketonuria will inhibit 5 HTP decarboxylase: restricted phenylalanine diet by decreasing the production of these metabolites would be expected to correct such an inhibition. Of their failure in a six-month controlled trial of 5-hydroxytrytophan administration to 8 young phenylketonurics to raise the I.Q.'s, Pare et al. remark that "it must be remembered that other enzyme systems may be similarly inhibited by the abnormal metabolites so that a similar decrease in catechol production, for example, may play a part in the pathogenesis of the mental defect."
+
+Implications for Research and Therapy of Model Psychoses and Neuropsychopharmacology Interpreted in the Light of Enzyme Blocks
+We shall now refer to the work on model psychoses, which have become so popular of late, with a view to exploring possible interrelation with biochemical genetics and to tracing the significant enzyme blocks of possible aetiological significance in neuropsychiatric conditions.
+In a previous communication, Experiences with D-Lysergic Acid Diethylamide (Hurst et al., 1956) we have raised certain methodological issues that arise in connection with such work, which we shall now set forth:
+1. A precise characterization of the picture presented in the course of drug-induced psychoses is essential. The history of the earlier work shows that the psychoses induced by LSD and allied agents were uncritically and schematically identified with schizophrenia, whereas careful evaluation of our own cases, as well as the literature, shows that manic-depressive and toxic psychotic reaction components also occurred, either as the predominant feature of an individual case or as only a phase within the reaction of one individual.
+2. These experiments are likely to be most rewarding in the light of full studies of the personalities concerned, which become prepsychotic personalities in relation to drug psychoses. A global description of these personalities in terms of the cyclothyme/cycloid and schizothyme/schizoid scheme is important, as well as in more detailed terms of the independent variables of temperament and personality and in psychodynamic terms.
+3. The more global assessments provide a basis for determining whether schizophreniclike or manic-depressive-like features of the psychosis constitute primarily a drug effect or merely the release of underlying personality tendencies. In the one case a more spe-
+
+74 Hurst
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+cific role for the chemical concerned for one of the psychoses would be implied, while in the other a common chemical involved in aetiology and manifesting differently in persons of differing psychological and physical constitutions could be inferred.
+4. Careful comparisons between the reactions to various drugs such as LSD, mescaline and adrenochrome would be of value in narrowing down the biochemical quest for the hypothetical enzyme block or blocks involved in the model or naturally occurring psychoses.
+Growth of neuropsychopharmacology has been phenomenal since the lastnamed article was written. Of central significance to the elucidation of the alternative formulated in Paragraph 3 above has been the demonstration of the selective action of the mono-amineoxidase inhibitors and imipramine on the depressive phase of manic-depressive psychosis, vis-a-vis schizophrenia. I have developed this issue more fully in a paper read before the Society of Medical Sciences of Lisbon in November 1959 (Hurst, 1959).
+Biochemical work within the sphere of schizophrenia itself, although unsynthesized, is nevertheless substantial. This work, in principle, is in line with the general genetic-biochemical-enzyme aetiological hypothesis that is emerging from the other disciplines of psychiatric genetics and neuropsychopharmacology which we have been considering. It is for research of the future, and it would appear the near future, to discover and forge the significant links between the contributions from these three spheres. Within biochemistry itself, Seymour S. Kety (1959) has done us the service of disentangling central strands in this work in a critical review of biochemical theories of schizophrenia and of the evidence to support them, examining in turn (a) Oxygen, Carbohydrate Metab-
+
+olism and Energetics, (b) Amino Acids and Amines, (c) The Epinephrine Hypothesis and (d) Taraxein and its forerunner Ceruloplasmin. Consideration of details is beyond the scope of the present article, but one may be permitted the observation that the demonstration by Leach and Heath (Heath et al, 1957) and their co-workers of the induction in normal volunteers of transient schizophrenic states, carefully described in terms of Bleuler's primary and secondary symptom categories, by the injection of taraxein-containing schizophrenic blood serum is a finding with a claim to rank among the major dramatic episodes in the history of medical discovery. Wada and Gibson's (1959) work on behavioral changes in cats and monkeys resulting from schizophrenic urine extracts offers an interesting parallel to the human taraxein work.
+New developments in the basic chemistry of chromosomes and genes may at any moment afford coordinating and detailed insights into the field of biochemical genetics. Of particular interest in this connection are current advances in our knowledge of the structure of nucleic acids in relation to gene action, and the Watson-Crick model of DNA (deoxyribose Nucleic Acid) illustrating the pairing of purines and pyramidines along two complementary strands. There are also important implications for Man in microbial genetics and "viral" genes, because the chemical basis of the genes is essentially similar in all living entities down to the simplest viruses.
+Zamenhof (1959), in analyzing the concept of enzyme blocks which occupies so central a position in explaining hereditary defects in Man, points out that failure or lack of an enzyme does not necessarily imply that the molecule of the enzyme (or of the protein in gen-
+
+Genetics in Psychiatry & Neurology
+
+75
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+eral) is missing altogether: it may mean that it is defective, i.e., changed so as to be partially or totally inactive. He goes on to show that all the change necessary in the protein underlying a mutation may be ·the substitution of one amino acid out of hundreds. Thus the haemoglobin modification resulting in the production of sickle cell anaemia involves the change of only one amino acid unit out of 300--glutamic acid is replaced by valine. This, he stresses, is all the mutation had to do to make itself felt, and he is tempted to the speculation that the corresponding change in the hereditary determinant, the DNA molecule, was just as small -- perhaps a change in a single nucleotide.
+THE ROLE OF EUGENICS AND HEREDITY
+CLINICS IN RELATION TO NEURO-
+PSYCHIATRIC CONDITIONS
+Although we find eugenics in Plato's Republic and practical experiments in this direction in Sparta and in the Oneida Community in Vermont dating from 1841, the first exponent of systematic eugenics in modern times was that eclectic genuis Francis Galton (1869, 1874, 1883, 1889, 1908). Inspired by the evolutionary vista provided by the publication in 1859 of the "Origin of Species" by his cousin Charles Darwin, and the striking cases of apparently hereditary genius among Cambridge men who had been at the University at about his time, he first evolved the statistical theory and established the anthropological laboratories necessary to the study of man as a science. Then, feeling very strongly the importance of applying his findings to race improvement, he launched out into the dissemination of eugenic ideas.
+It is clear from his writings that Galton's program included both negative eugenics -- the elimination of stocks af-
+
+flicted with serious hereditary disease-- and positive eugenics--the favoring of propagation of stocks of superior abilities by providing suitable inducements to this end.
+The subjoined formulation of his advocacy of negative eugenics shows his concern for doing so in a democratic setting (Galton, 1908).
+As in most other cases of novel views, the wrongheadedness of objectors to Eugenics has been curious. The most common misrepresentations now are that its methods must be altogether those of compulsory unions, as in breeding animals. It is not so. I think that stern compulsion ought to be exerted to prevent the free propagation of the stock of those who are seriously afflicted by lunacy, feeble-mindedness, habitual criminality and pauperism, but that is quite different from compulsory marriage. A democracy cannot endure unless it be composed of able citizens; therefore it must in self-defence withstand the free introduction of degenerate stock.
+Relative to positive eugenics he says (Galton, 1908):
+I also hope that social recognition of an appropriate kind will be given to healthy, capable and large families, and that social influence will be exerted towards the encouragement of eugenic marriages.
+Galton (1908) repeatedly stresses the importance of eugenic theory and practice. Thus he says:
+I hence conclude that the improvement of the breed of mankind is no insuperable difficulty. If everybody were to agree on the improvement of the race of man being a matter of the very utmost importance and if the theory of hereditary transmission of qualities in men was as thoroughly understood as it is in the case of our domestic animals, I see no absurdity in supposing that in some way or other, the improvement would be carried into effect.
+
+76 Hurst
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+And again (Galton, 1908):
+I take Eugenics very seriously, feeling that its principles ought to become one of the dominant motives in a civilised nation.
+Galton's advocacy of eugenics never degenerated into fanaticism or bigotry, as can be inferred from such statements as the following (Galton, 1908):
+What I desire is that the importance of eugenic marriages should be reckoned at its just value, neither too high nor too low, and that Eugenics should form one of the many considerations by which marriages are promoted or hindered, as they are by social position, adequate fortune, and similarity of creed;
+In his "Enquiries into Human Faculty and Its Development" (Galton, 188S) published in 1883, he emphasizes that:
+The eugenic aim is the amelioration of average human qualities through the observation of heredity, rather than the production of a few exceptional record-breakers.
+It is clear that when we are considering a program of negative eugenics for the elimination of serious hereditary disease (in our case serious hereditary mental disorder or defect or incapacitating neurological disorder), the new vista provided by physiological and biochemical genetics immediately raises an approach which limits or negates negative eugenics--for if genetics points the way to curing a condition by locating the significant enzyme blocks and reversing them, are we justified, or indeed is it logical, to attempt elimination by eugenic means? T h e answer is unequivocally in the negative as I see the matter. We can therefore regard negative eugenics merely as a temporary measure pending the fruition of our more fundamental hope.
+
+With this limitation let us consider
+some features of a program of negative
+eugenics, with special reference to neuro-
+psychiatry.
+1. In the first place action is clearly only indicated where the trait is very seriously disabling and incurable.
+2. Second, negative eugenic action must be based in each individual case on the specific genetic mechanism reflected in the empiric risk figures. In a single dominant condition such as manic-depressive psychosis we are clearly confronted with a different situation from that in schizophrenia, where a single recessive mechanism is postulated. In die first case we have transmission of the disease in the direct line of descent, manifestation in approximately half of the offspring, the other half not carrying the gene and being incapable of transmitting the disease to dieir offspring in turn ("once free forever free"). In the second case, however, most schizophrenics are the children of overtly normal parents, each of whom are carriers of one schizophrenic gene. The manifestation rate in such children is 16% (the 25% expected for full penetrance being reduced by the 70% penetrance of the schizophrenic genotype). Overtly unaffected children, as well as brothers and sisters of the first generation, are a rich source of carriers of "one gene," ready to manifest in the case of marriage with a similarly constituted person. This fact, coupled with the finding that 70% of the children due to be born, on the average, to a schizophrenic are born to him before the disease manifests and he is hospitalized for it, accounts for the low estimate that only 2% to 4% of schizophrenics would be eliminated by insuring that the affected schizophrenic does not reproduce. This figure may well be increased when the mapping of the human chromosome now in progress becomes more complete, enabling us to identify the potential schizophrenic before the condition develops. If, however, we wish to follow the logic of the situation quite ruthlessly, we are compelled to concentrate on the brothers, sisters and children of schizo-
+
+Genetics in Psychiatry & Neurology
+
+77
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+phrenics as the crux of the eugenic situation. Cousin marriage, or marriage into other
+schizophrenic families, or marriage with a markedly introverted individual, is especially undesirable for members of schizophrenic families, as being likely to bring two recessive genes together to produce a proportion of frank schizophrenics.
+Where the type of hereditary mechanism is in dispute, the empiric-risk figures form an objective basis for eugenic procedure.
+3. Third, as regards the procedure of attaining the non-propagation of the scientifically contra-indicated types of person, let us lay the ghost of sterilization at the very outset. Sterilization is so outmoded in the sphere of eugenics that at the 1956 Congress at Copenhagen there was not one reference to itl No, the modern approach in our democratic societies is to advise the afflicted person and/or his spouse (the latter particularly in the case of mental illness where the patient himself may not be capable of understanding the position) what the risk is, in percentage terms, that any contemplated child or children will be affected by the hereditary trait concerned. Kallmann's experience with heritable mental disease is that in the metropolitan communities in which he has worked the application of birth control methods has been quite adequate to the objective envisaged, rendering the consideration of sterilization unnecessary. In cases where religious objections render contraceptive methods unacceptable, abstention from marriage is often recognised as the best course to pursue.
+HEREDITY COUNSELING
+This brings us to the question of heredity counseling services and centres. Helen G. Hammons (1956) lists 15 such centres for the United States and Canada, 1 in Denmark, 5 in England, 1 in France, 1 in Germany, 2 in Holland, 1 in India, 2 in Italy, 1 in Japan, 1 in Norway, 3 in Sweden, and 1 in Switzerland; two of these are primarily concerned with neuropsychiatric cases.
+
+Dr. Lee R. Dice (1952) in a presidential address of the American Society of Human Genetics gave much data about the functions and operations of such clinics, which I now proceed to summarize:
+(a) The problems presented to clinics are diverse, including questions from engaged couples with possibly hereditary disease in one or both families, married couples with one or more children already affected by possibly hereditary disease; and children's placement bureaux regarding chances of the child showing an adverse parental trait.
+(b) Drawing up of kindred pedigrees includes a system of record sheets with data by sibships, graphic pedigrees and sources of information.
+(c) Mode of inheritance is then postulated on the basis of genetic principles.
+(d) First-hand examination of near relatives, by a competent specialist if necessary. This involves financial considerations.
+(e) Records and documents should be detailed and precise to be understandable 10 or 100 years hence. Abbreviations and scientific jargon are to be avoided. Professional persons referring the case should be encouraged to supply detailed written reports, including a formulation of the problem.
+(f) Professional secrecy and confidence. Special care should be taken in this regard concerning the disclosure, even to relatives, of illegitimate births, adoptions, age of elderly women, and the results of clinical examinations not duly authorised by parent or guardian.
+(g) Information and advice to patients (clients). This is limited to the restrained technique of stating the risk (in percentage terms) of the trait under consideration. Under no circumstances should the counsellor tell a couple whether they should or should not have a child. In certain cases he will have to confess that he can make no sort of prediction on the basis of the information available. In many cases he will be in the happier position of being able to reassure the parents and advise them that there is no
+
+78 Hurst
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+risk of the feared hereditary disease manifesting in the children.
+(h) Weight given to positive eugenicsand desirable hereditary traits. Although the heredity clinic focuses its attention on the elimination of undesirable traits, the counsellor does not lose sight of positive eugenics, e.g., in weighing up positive qualities of intelligence and temperament against an only moderately undesirable genetic trait.
+(i) Duty of publication. Inasmuch as each heredity clinic acts as an archives of hereditary disease, there is a duty of publication so that human geneticists the world over may pool their information, especially as regards rare traits.
+(j) Duty of education. Comparatively few medical schools instruct their students in genetics, especially human genetics, and yet, with the conquering of infectious and nutritional disease, heredito-constitutional disease is growing in volume and relative importance. Every heredity clinic should therefore provide lectures for undergraduates and provide facilities to direct the work of postgraduate students.
+(k) Organization of clinic-practical aspects. The minimal staffing is one geneticist, one physician, one laboratory assistant and a secretary. There should be access to various clinical laboratories and a liaison with clinics of a well-equipped hospital. The minimum space is a general office, a waiting room and one office for each member of staff. It is, however, possible to share with other units a medical examination room, laboratories, photographic studio and dark room, library and seminar rooms. Fees should not be asked from patients or clients, except that fees for cooperating specialists should be paid when they can be afforded. The budgeting includes provision for travelling by distant relatives coming for examination and an item for staff transport for field work, as well as for staff salaries.
+Sheldon Reed's (1955) book on hereditary counseling and that edited by Helen G. Hammons (1959) are commended to
+
+those requiring a more detailed picture of heredity clinics.
+POSITIVE EUGENICS
+Little more need be said about positive eugenics. Eugenicists have been alarmed by the apparent trend of persons of lower ability to have on the whole larger families than those of higher ability. Positive eugenics advocates attempting to reverse this trend by devising ways of encouraging persons of above-average ability to marry earlier and to have larger families. It is recognized that such an objective cannot be tackled in an isolated fashion, but takes us deep into problems affecting the structure of society as a whole. Kallmann summarizes positive eugenic measures as follows:
+(a) Securing larger families from eugenically desirable classes: 1. by educational methods 2. by economic support of eugenically desirable families (proper houses at low rentals), and 3. by increasing the income of eugenically desirable families at the birth of each child, by differential taxation in relation to family size, and by lowering the wages of single and childless workers.
+(b) Birth control measures as practiced for sociological reasons.
+Viewing the progress of eugenics historically there have been signs in recent years of sound and vigorous development of a separate science of human genetics, embodied in such concrete ways as the foundation in 1949 of the American Society of Human Genetics, with its own journal, following on the pioneer work of the journal Eugenical News (now Eugenics Quarterly) under the leadership of Frederick Osborn, the formation of the Population Council, Inc., the institution of the heredity clinics
+
+Genetics in Psychiatry & Neurology
+
+79
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+mentioned above, as well as academic signing genetic superiorities to social or
+
+centres like the Galton Laboratory racial groups, and even designating in-
+
+(University ofLondon), and the holding dividuals as superior or inferior. "Let's
+
+of the First International Congress of stop telling anyone that they have a
+
+Human Genetics at Copenhagen in 1956. generally inferior genetic quality, for
+
+Frederick Osborn (1956), in an article they will never agree. Let's base our pro-
+
+entitled "Galton and Midcentury Eu- posals on the desirability of having chil-
+
+genics," gives point and perspective to dren born in homes where they will get
+
+the advance in eugenics that we are con- affectionate and responsible care, and
+
+sidering by attempting to appraisehow perhaps ourproposals will be accepted."
+
+the founder of modern eugenics would react to the situation if he were to return to thepresent-day scene:
+
+This attitude clearly squares with Galton's emphasis that eugenic policies would fail unless geared to "existing conditions of law and sentiment."
+
+Galton, who died in 1911, would have been fascinated with the last half-century's
+
+Osborn concludes: "It seems to me
+
+progress in the science of genetics, which that if it is to progress as it should,eu-
+
+had become a subject of controversy during ·genics must follow new policies and state
+
+the last few years of his life. He would have its case anew, andthat from this rebirth
+
+given his powerful backing to the further we may, even in ourown lifetime, see it
+
+advancement of human genetics. Hewould moving at last towards the high goals
+
+have been present at the
+
+Congressto Galton setfor it."
+
+be held in Copenhagen . . . . He would have
+
+urged exhaustive studies on the identification of carriers of harmful recessive genes. He would have supported heredity clinics.
+While Galton would have been disap-
+
+REFERENCES
+ALSTRÖM, C.H. 1900. Epilepsy. Munksgaard, Copenhagen.
+CONRAD, K. 1935. Dtsch. Z. Nervenheilk., 139: 76.
+
+pointed at the little progress that has been made in the study of the genetic factors which affect the development of personality and intelligence, Osborn feels he would have been pleased with the methodologies of modern psychology, of which he is oneof thepioneers, and with the applications of new measures in personnel selection. He would have been puzzled by the relatively small pure-research appropriations for the social as compared with the physical sciences. Osborn, in elaborating Galton's emphasis on directing "forces under social control," feels that he would not have been skeptical of thepossibility of establishing the differential of larger families for the better endowed. To achieve his aims Osborn feels that eugenics will have to drop the idea of as-
+
+DAVISON, A. N., and M. SANDLER. 1958. Nature,
+181: 186. DICE, L. R. 1952. Amer. J. Hum. Genet., 4 : 1.
+ELSÄSSER, G. 1952. Die Nachkommen geisteskranker Elternpaare. Georg Thieme, Stuttgart.
+EYSENCK, H. J. 1947. Dimensions of Personality. Kegan Paul, London.
+EYSENCK, H. J., and D. B. PRELL. 1951. J. Ment.
+Sci. 9 7 : 441. FISHER, R. A.1956. Blood groups and population
+genetics. Proceedings of the First International Congresson Human Genetics. Copenhagen. GALTON, F. 1869. Hereditary Genius. Macmillan, London. GALTON, F. 1874. English Men and Science. Macmillan, London.
+GALTON, F. 1883. Inquiries into Human Faculty. Macmillan, London.
+GALTON, F. 1889. Natural Inheritance. Macmillan, London.
+GALTON, F. 1908. Memories of My Life. Methuen, London.
+HAMMONS, H. 1956. Heredity Counseling-- Its Services and Centers. The American Eugenics Society, NewYork.
+HAMMONS, H., ed. 1959. Heredity Counseling. By 17 authors. A symposium sponsored by the American Eugenics Society and held at
+
+80 Hurst
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+the New York Academy of Medicine Building. Paul B. Hoeber, Inc., New York.
+HEATH, R. G., ET AL. 1957.Amer. J. Psychiat., 114: 14.
+HURST, L. A. 1952. Eugen. News, 3 7 : 86.
+HURST, L. A. 1959. J. Soc. Ciinc. Med. Lisboa, 123: Supplement 220-223.
+HURST, L. A.,ET AL. 1956. Experiences with Dlysergic Acid Diethylamide. S. Afr. J. Lab. Clin. Med.,2 : 289.
+JACOBS, PATRICIA, ET AL. 1959. The Somatic chromosomes in mongolism. Lancet, 1 (7075): 710.
+JERVIS, G. A. 1953.Proc. Assn. New. Ment.Dis. 3 3 : 259.
+KALLMANN, F. J. 1937. The Genetics of Schizophrenia. J. J. Augustin, New York.
+KALLMANN, F. J. 1946. Amer. J. Psychiat., 1 0 3 : 3.
+KALLMANN, F. J. 1950.Genetics of Psychoses. Hermann, Paris.
+KALLMANN, F. J. 1951. Biological aspects of mental health and disease. In Milbank Fund Symposium. Paul Hoeber, Inc., New York.
+KALLMANN, F. J. 1952. J. Nerv. Ment. Dis., 1 1 5 : 4.
+KALLMANN, F. J. 1953a. Heredity in Health and Mental Disorder, p. 315.W. W. Norton, New York.
+KALLMANN, F. J. 1953b. Proc. Assn. Res. Nerv. Dis., 3 3 : 357.
+KALLMANN, F. J. 1954. In Genetic Principles in Manic-Depressive Psychosis, p. 1. P. Hoch and J. Zubin, eds. Grune and Stratton, New York.
+KALLMANN, F. J., and M. M. ANASTASIO. 1946.
+J. Hered., 3 7 : 6.
+KALLMANN, F. J., and G. SANDER. 1947. In Epi-
+lepsy, Hoch and Knight, eds.Grune and Stratton, New York.
+KALLMANN, F. J., E. DE PORTE, and L. FEINGOLD.
+1949. Amer. J. Hum. Genet., 1: 2.
+
+KALLMANN, F. J., and B. ROTH. 1956. Genetic
+aspects of pre-adolescent schizophrenia. Amer. J. Psychiat., 112:8.
+KETY, SEYMOUR S. 1959. Science, 1 2 9 : 1528, 1590.
+LEJEUNE, L., M. GAUTIER, and R. TURPIN. 1959.
+Les chromosomes humains en culture de tissus. C. A. Acad. Sci., Paris 2 4 3 : 602.
+LENNOX, W. G., E. L. GIBBS, and F. A. GIBBS.
+1940. Arch. Neurol. Psychiat., 4 4 : 1155.
+LENNOX, W. G., E. L. GIBBS, and F. A. GIBBS.
+1945. J. Hered., 3 6 : 233.
+NEWMAN, H. H., F. N. FREEMAN, and K. J.
+HOLZINGER. 1937. Twins: a study of heredity and environment. Univ. of Chicago Press, Chicago.
+OSBORN, F. 1956.Galton and mid-century eugenics. Eugen. Rev.,4 8 : 15.
+PARE, C. M. B., M. SANDLER, and R. STACY. 1959.
+5-Hydroxytryptamine deficiency in phenylketonuria, its relation to the abnormalities of phenylalanine metabolism and to the associated mental defect, pp. 648-651. NeuroPsychopharmacology. Proc. First International Congress of Neuro-Pharmacology (Rome, September 1958). P. B. Bradley, P. Deniker, and C. Radouco-Thomas, eds. Elsevier Publishing Company. PENROSE, L. S. 1949. The Biology of Mental Defect. Grune andStratton, New York. REED, S. 1955. Counseling in Medical Genetics, p. 268. Saunders, Philadelphia.
+SLATER, E. 1953a. Psychotic and Neurotic Illnesses in Twins. H. M. Stationery Office, London.
+SLATER, E. 1953b. In Clinical Genetics, A. Soresby, ed. Butterworth, London.
+STENSTEDT, A. 1952. Acta Psychiat. (Kbh.), suppl. 7 9 : 1.
+WADA, J., and W. C. GIBSON. 1959. Arch Neurol. Psychiat., 8 1 : 747.
+ZAMENHOF, S. 1959. The Chemistry of Heredity, pp. 81-82. Blackwell. Scientific Publications, Oxford.
+
+

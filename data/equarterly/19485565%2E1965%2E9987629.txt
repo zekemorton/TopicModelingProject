@@ -1,0 +1,586 @@
+Eugenics Quarterly
+ISSN: 0097-2762 (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi18
+Random and nonrandom inbreeding
+Gordon Allen
+To cite this article: Gordon Allen (1965) Random and nonrandom inbreeding, Eugenics Quarterly, 12:4, 181-198, DOI: 10.1080/19485565.1965.9987629 To link to this article: http://dx.doi.org/10.1080/19485565.1965.9987629
+Published online: 23 Aug 2010. Submit your article to this journal Article views: 4 View related articles Citing articles: 18 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi18
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:28
+
+RANDOM AND NONRANDOM INBREEDING
+
+GORDON ALLEN
+National Institutes of Health Bethesda, Maryland
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+This paper is an attempt to present and to elucidate some rather neglected problems that arise when inbreeding concepts originally based on the assumption of infinite populations are applied to finite populations and especially to human isolates. I have confined myself chiefly to a verbal exposition, hoping that experts will be able to refute or confirm my statements mathematically.
+1. PROBLEMS OF DEFINITION
+Sewall Wright (1922, p. 334) once defined the coefficient of inbreeding, F, as "the departure from the amount of homozygosis under random mating toward complete homozygosis." In 1951 he commented that "It has been used since as a measure of such departure relative to a specified foundation stock, not necessarily random bred" (Wright, 1951, p. 324). From Wright's method of calculating F in pedigrees, which always yields positive values, it seems that in this context "random mating" denotes complete absence of any consanguinity between mates, so that the two definitions are quite distinct. Malécot (1948) integrated these definitions by using as reference an ancestral population that was arbitrarily assumed to contain no two genes identical by descent.
+Malécot's ideal reference population is, of course, a fiction, but even a good arbitrary reference is not usually available because the history of natural populations is not well enough known. This difficulty is frequently ignored on the
+
+assumption that variations of inbreeding between individuals or populations are due mainly to known inbreeding. But I shall discuss some situations where the unmeasured inbreeding is as important as that which can be measured, or where the needed parameter is the deviation from random mating within the isolate and where this is not usefully represented in the inbreeding coefficient.
+Thus the inbreeding coefficient as historically defined cannot be rigorously applied to all, if to any natural populations. The question arises whether inbreeding ought to be equated with the inbreeding coefficient, and if so, how the several concepts related to inbreeding can be represented in the form of inbreeding coefficients.
+Differentiation of Some Concepts
+In its general use, the term "correlation" or "product-moment correlation" refers to nonrandom association or resemblance between paired objects within a population of objects. In this sense, correlation between marriage partners with respect to some trait means that spouses are more similar than pairs taken at random from the population. When actual partners differ as much as random partners, the correlation is zero and the population, even if small, is mating at random with respect to that trait. There is good precedent for this usage (Wright, 1931).
+Geneticists often use the term "correlation" in a different sense, and it may
+
+181
+
+182
+
+Allen
+
+Eugen. Quart.
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+then have a different value and even an opposite sign from the product-moment correlation of the same mates. In a small population randomly mating pairs may all be closely related by descent. Sharing many identical genes, they are said to have a high "genetic correlation" even if their product-moment correlation within the population is zero. In fact, actual matings may avoid close consanguinity to such an extent that the product-moment correlation between mates with respect to any genetic trait is negative, yet their genetic correlation, as above defined, and the population inbreeding coefficient based on common ancestors of mates, will always be positive. (Instead of differentiating the latter quantity by the customary Greek letter alpha, I shall refer to the "average F" or simply "F" of a population.)
+While the term "random mating" is used somewhat ambiguously, there is general agreement that panmixia, at least, should denote the complete absence of inbreeding at whatever level is significant in a given instance. For this discussion I shall define random mating as a system in which the productmoment correlation between mates with respect to genetic traits is zero, and I shall reserve the term "panmixia" for the limiting case in which the inbreeding coefficient is also zero. The latter implies a population so large that the random frequency of even remote consanguineous unions is vanishingly small. Panmixia, like Malécot's ideal ancestral population, is thus a convenient fiction.
+Some calculations are strictly valid only to the degree that a population satisfies conditions of panmixia, but other formulas that are often thought to assume panmixia actually require only random mating. Such formulas may apply in principle even to small populations with high coefficients of inbreed-
+
+ing. However, mathematical simplicity does require that random mating should refer to individual conceptions and should include the possibility of selffertilization. Hence, both separation of the sexes and monogamy preclude true random mating in human populations. However, I shall attempt to demonstrate that random mating is at least as useful a baseline as panmixia in the study of isolates.
+The baseline or zero-point for Wright's F is either panmixia or some arbitrarily designated ancestral generation. To take random mating within an isolate as a second zero-point appears to introduce unnecessary complications, but the complications are already inherent in the situation. As mentioned above, in a very large population the two zeroes and all measures of inbreeding coincide: the average inbreeding coefficient based on all detectable consanguinity is a reasonably good measure of deviation from random mating within the population, as well as from panmixia. As one considers smaller and smaller populations, the two zero-points move apart; deviation from panmixia becomes greater than deviation from random mating. Therefore, in small isolates the use of the average F (deviation from panmixia) as a measure of deviation from random mating can lead to gross error.
+Concepts Subsumed under Inbreeding
+From the above discussion it would seem not very helpful to explain inbreeding by reference to either random mating or panmixia alone. More relevant are the concepts of heterozygosis and consanguinity, I will define inbreeding as lossof heterozygosity through consanguineous mating. Like the inbreeding coefficient itself, any statement about
+
+Vol. 12, No. 4 Random and Nonrandom Inbreeding
+
+183
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+loss of heterozygosity implies comparison with a historical reference population, known or unknown. However, the conventional inbreeding coefficient, based on genealogy, is incapable of expressing negative quantities, which may arise either as negative product-moment correlation between mates, or as a gain in heterozygosity due to a sudden change in the mating system. These phenomena illustrate the need for greater refinement of inbreeding concepts than is permitted within the scope of the conventional inbreeding coefficient.
+The coefficient of inbreeding can be adapted to the full range of inbreeding phenomena if it is viewed as having two components. First, heterozygosity may be lost through consanguineous matings occurring at random in a finite population. The expected frequency of such matings can be calculated from size of the breeding population (Hajnal, 1963) and is thus closely allied to genetic drift. In terms of the zero-points or baselines mentioned above, the random component of inbreeding is the distance between the two zero-points. For any real isolate or finite population it is a positive quantity and increases with each generation. The second component of inbreeding is the loss or gain of heterozygosity because of deviation from random mating. It is the difference between the second zero-point and the total actual inbreeding. It may be positive or negative, and it can be eliminated or inverted by a change in the mating system.
+In a large population observed inbreeding is chiefly the second, nonrandom component as a result of mating of relatives where this is not expected under random mating. The deviation from randomness is thus always positive.
+In a small population that has been isolated for many generations, the first
+
+or random component of inbreeding will predominate because size of the population enforces much consanguinity between mates. Where self-fertilization is impossible and incest is taboo (Aberle, et al., 1963), the average consanguinity between mates may be less than under random mating. In these cases the actual inbreeding coefficient, if known, would slightly underestimate the random component or genetic drift.
+2. ESTIMATION OF THE COEFFICIENT OF
+INBREEDING
+The importance and appropriateness of the coefficient of inbreeding in theoretical population genetics need not be questioned, and its application to large, real populations is apparently valid. In smaller populations relative importance of the random and nonrandom components changes, and the consequences of inbreeding are correspondingly different. However, even as a measure of total inbreeding, F is rather unsatisfactory in small human isolates. Certain problems of estimation become acute at high levels of inbreeding, while problems of interpretation, to be considered in Section 3, arise from the difficulty of finding a meaningful standard or baseline.
+The Method of Path Coefficients
+Genealogical information permits the estimation of all loss of heterozygosity through consanguineous matings during known generations. Other methods estimate the components separately, as discussed later: size and age of the isolate or gene-frequency data permit inferences about the random component, while deviation from the Hardy-Weinberg proportions reflects nonrandom inbreeding. By Wright's method of path coefficients, individual values of F are calculated from pedigrees, and the average of these
+
+184
+
+Allen
+
+Eugen. Quart.
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+values is an estimate of the total inbreeding in the population over the interval recorded. This was first done in a human population by Spuhler and Kluckhohn (1953).
+The main problem with calculations based on whole human populations is incompleteness of information. This defect is evident in the pedigree of an individual, but the average F calculated for a complete isolate is in danger of being regarded as something like an average physical measurement. Knowledge of consanguinity is bound to be more complete for matings in the most recent generation, so that comparison between generations, or the averaging of several generations, is deceptive. Spuhler and Kluckhohn estimated F as .0178 for the most recent generation of Navaho Indians in the vicinity of Ramah, New Mexico; but .0066, the value found for all generations taken together, is more often quoted. In their report on the Xavante Indians, Neel, et al. (1964) gave figures of .0186 and .0094 for the recent and for all marriages, respectively, and then stated their "impression that the true coefficient of inbreeding is at least four or five times that recorded." If the "impression" is correct, the inbreeding coefficient of the Xavante would be close to that found by Bonne (1963) in the Samaritans, 40% of whose recent marriages were between first cousins. But Bonne's knowledge of Samaritan genealogy is also incomplete. Evidently, the value of F obtained for any isolate is as much a measure of their genealogical self-knowledge as of their mating patterns.
+In his analysis of inbreeding in the Hutterites, Mange (1964) disregarded relationships more remote than fourth cousins; thus he used data concerning six generations not including the subjects. Mange made a correction for in-
+
+complete pedigree information but recognized that he still might have underestimated the coefficients by excluding remote relationships. In fact, the contribution to F from first and second cousin marriages was equaled by that from third and fourth cousin generations, so that extension to two still earlier generations might have increased the obtained value by 50%.1
+A Worked Example: The Ramah Navaho
+Although Mange's Hutterite population is a rather special case, problems of the same sort, if not of the same magnitude, are the rule. This is illustrated with a second example, needed chiefly for the last section of the paper but given here to illustrate the elusiveness of any "true coefficient of inbreeding" of an isolate.
+A copy of the genealogical chart of Spuhler and Kluckhohn (1953) was provided by Professor Spuhler (Department of Anthropology, University of Michigan). Twenty-three individuals in nine sibships were taken from the row referred to by Spuhler and Kluckhohn as the seventh generation, the eighth and most recent being incomplete. Throughout this discussion, "generation," if not further specified, will refer to a horizontal row on the chart. As the chart was drawn up, an individual was assigned to the generation below that of his mother; because the men frequently take young wives, a male in the first row might be only four generations removed from his descendants in Row 7. The sib-
+1Such an increase would be possible if the founding generation was small and there has been very little immigration. However, if cousin marriages had not been consciously avoided, the contribution of first and second cousin marriages would doubtless be higher (Slatis, personal communication); and as pedigrees were investigated, each antecedent generation would contribute less to F.
+
+Vol. 12, No. 4 Random and Nonrandom Inbreeding
+
+185
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+ships were selected to be representative of Row 7 in size and were taken in three clusters, each of three contiguous matings, so as to preserve some resemblance to the total pedigree.
+Table 1 shows the average coefficients of inbreeding for the progeny and the average coefficients of relationships (R) between their parents, weighted by number of offspring. The three columns of figures, proceeding from left to right, give increasingly complete estimates based on additional ancestral generations, all for the same 23 individuals. The figure in parentheses under each coefficient is its ratio to that in the first column. The ratios show that knowledge of the fifth antecedent generation (Row 2 on the chart) added 16% to the first estimate; knowledge of the sixth generation, another 5%. Remote generations contribute a little more to F than to R, as will be explained below.
+By coincidence, the best estimate, .01397, was very close to that obtained by Spuhler and Kluckhohn for all members of this same generation, .0141. It is not likely that other findings with this small sample are equally representative
+TABLE 1
+ESTIMATES OF THE AVERAGE INBREEDING COEFFICIENT, F, AND THE AVERAGE COEFFICIENT OF RELATIONSHIP BETWEEN PARENTS, K , IN A SMALL SAMPLE OF RAMAH NAVAHO (DATA OF SPUHLER AND KLUCKHOHN, 1953).*
+Number of antecedent generations used
+
+F
+
+.0115
+
+.0134
+
+.0140
+
+(1)
+
+(1.162)
+
+(1.210)
+
+R
+
+.0231
+
+.0268
+
+.0279
+
+(1)
+
+(1.161)
+
+(1.209)
+
+* Columns represent increasingly accurate estimates based on data available for ancestral generations including Rows 3, 2, and 1, respectively, from the genealogical chart. The ratio of each estimate to the first is given in parentheses.
+
+of the population, but this point of agreement indicates that the chief limitation on accuracy may not usually be numbers. Spuhler and Kluckhohn's estimate for the most recent generation, .0178, probably reflects better genealogical knowledge rather than an actual increase in inbreeding.
+The 21% discrepancy shown in the table between 4- and 6-generation data would not be very bad if it represented the total loss of information, but the increments in F and in R from more remote generations are underestimated because many ancestors are unknown. Each unknown ancestor might be identical with known or unknown ancestors of a subject's other parent. Table 2 shows that for the earliest recorded generation 77% were unknown.2
+The error in F due to genealogical gaps can be corrected on the basis of the proportion of information that is lacking. Mange did this with a computer for each individual value of F. For an estimate of the average F it appears that almost as good results can be expected from correction of the average. The total contribution to F from shared ancestors in each row on the genealogical chart was divided by the proportion of ancestors known in that row. The last two rows of Table 2 give the contributions of each generation to F before and after this correction.
+Table 3 shows the adjusted estimates of F and of R to be compared with those
+2 In this calculation, known ancestors who were immigrants or outsiders, and unknown ancestors related through them to the subjects, are regarded as known, since they are probably not identical with any other ancestors in the generations considered. Because of cross-generation mating, distribution of known ancestors by distance from the subjects differs from the distribution by row on the genealogical chart: in the fourth, fifth and sixth antecedent generations (not chart rows) the proportions of ancestors known were .64, .32, and .27, respectively. "Known" individuals in the last figure were nearly all ancestors of immigrants.
+
+186
+
+Allen
+
+Eugen. Quart.
+
+TABLE 2
+PROPORTION OF ANCESTORS KNOWN IN EACH OF THE FOUR EARLIEST GENERATIONS OF RAMAH NAVAHO, PARTIAL COEFFICIENTS OF INBREEDING DERIVED FROM EACH GENERATION, AND THE SAME COEFFICIENTS DIVIDED BY PROPORTION OF KNOWN ANCESTORS.
+
+Row on genealogical chart
+
+4 21
+
+Sum o£ possible ancestors of all offspring
+Known ancestors Proportion known Contributions to F Contributions corrected for
+unknown ancestors
+
+125 118
+.94 0
+0
+
+263 195
+.74 .0115
+.0156
+
+526 192
+.37 .0019
+.0051
+
+1052 243
+.23 .0006
+.0024
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+shown in Table 1. The ratios indicate that the oldest two generations, if completely known, might contribute about half as much to the inbreeding coefficient as the more recent generations. This is less than Mange found in the Hutterites, perhaps because the Navaho admit more immigrants, or because the generations do not correspond closely, or because the sample is inadequate.
+3 . LIMITING AND MEANINGFUL VALUES OF F AND R
+The Tendency of F to Increase With Number of Generations
+From the close agreement between values of F for the most recent two generations of Hutterites, Mange (1964)
+TABLE 3
+ESTIMATES OF F AND R FOR THE SAME SAMPLE REPRESENTED IN TABLE 1 AFTER CORRECTION FOR UNKNOWN ANCESTORS *
+Number of antecedent generations used
+
+F
+
+.0156
+
+.0207
+
+.0231
+
+(1)
+
+(1.329)
+
+(1.482)
+
+R
+
+.0312
+
+.0414
+
+.0461
+
+(1)
+
+(1.328)
+
+(1.480)
+
+· Figures in parentheses are, again, ratios of each estimate to that based on four generations.
+
+concluded that inbreeding appeared to have reached an equilibrium in the past century. He compared this finding with the equilibrium populations explored by Wright with mathematical models. This comparison is hardly permissible. Wright's models assumed "a population which can be considered indefinitely large" (Wright, 1921, p. 174), so that there would be no relationships between mates more remote than those specified. Wright and others have shown that under random mating (and this requirement is not rigorous) the average value of F in any finite population increases with succeeding generations and approaches a limit of one. If isolate size and the mating system are constant, calculations limited to the same number of ancestors for each generation studied are expected to reveal a constant increment in F.
+The increasing value of F in successive generations of a finite population must be clearly distinguished from the increasing estimate for one generation (or for one individual) as more remote ancestors are included. In a finite population genetic drift eliminates some heterozygosity in each generation (see Section 4), as long as any heterozygosity remains. This loss is closely matched by consanguineous matings and, hence, by increas-
+
+Vol. 12, No. 4 Random and Nonrandom Inbreeding
+
+187
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+ing values of F, except when a change of the mating system suddenly decreases the nonrandom component of F. In contrast to F itself, the estimate of F for an individual or for one generation increases with information about ascending generations because new discoveries of common ancestors always add positive increments to the estimate. If all information is available, the farther back in time one designates the reference generation or zero-point, the higher will be the value of F calculated for the present generation. This represents no real change in F; each individual has a definite number of heterozygous loci, and this number is, in principle, susceptible to measurement.
+In contrast to F, the estimated coefficient of relationship between two individuals, R, does not increase indefinitely with inclusion of more and more remote ancestors. The coefficient of relationship is calculated with reference to both individuals' coefficients of inbreeding (Li, 1955). Remote consanguinity between two persons will generally be paralleled by remote inbreeding of each. However, the stability of R is hardly greater than that of F over the short span of human generations accessible to study (see Tables 1 and 3), because one less generation is available for the individual's inbreeding history than for history of consanguinity with another individual; hence, the latter, as expressed in F for the mating, is the main determinant of R until the number of generations becomes large.
+Random loss of heterozygosity in successive generations is an unavoidable consequence of the sampling process in each generation. If Ho is the initial amount of heterozygosity, if N is the number of individuals in the population, and if mating is random, the proportion of heterozygosity after any
+
+large number of generations, t, is given approximately by the expression, Ht=Hoe-VTM (Li, 1955, pp. 212 ff.). In that generation the random inbreeding equals Ft=l--Ht/H0. (Since both this formula and the method of path coefficients estimate total inbreeding under random mating, it is evident that, on the average, random consanguineous matings match genetic drift.) From these formulas and their simple dependence on time it is clear that heterozygosity lost under random mating cannot be regained within the same population. It can, however, be replaced by new heterozygosity as a result of mutation and selection. Herein lies the ultimate defect of inbreeding coefficients. An illustration in terms of human evolution will be instructive.
+The principal unknowns in human evolution, from this point of view, are population numbers and generation time. Simons (1963) has argued that ancestral species in the human line may always have been numerous and widespread. Subpopulations can be ignored on the grounds that when isolates merge, most of their lost heterozygosity is restored (see Section 5). To obtain a conservative estimate of long-term inbreeding, let us suppose that the average total human breeding population has been as large as a million. If the average length of a generation has been 15 years, then the present average F would be about 0.4 relative to that of our first hominid ancestors in the late Miocene 15 million years ago. This may or may not be a reasonable estimate of F, but in any case it is meaningless. It implies that heterozygosity in modern man is reduced to about six-tenths of that in the first hominids. Actually it is probably about the same, the level having been maintained by mutation and natural selection.
+
+188
+
+Allen
+
+Eugen. Quart.
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+The Most Meaningful Estimate of F
+If F can increase, even in large populations, until it becomes incredible, which generation should be taken as reference in order to yield a meaningful present value of F?
+Malécot used F to denote either the probability that the two genes at a given locus in an individual were identical by descent, or the proportion of loci at which such identity existed. For any particular gene, inbreeding is relevant to gene-identity only if the common ancestor is more recent than origin of the gene by mutation.3 Even if the time of origin were known, F would not estimate the probability of gene-identity unless survival and reproduction of all alíeles at that locus were equal. For genes subject only to negligible selection pressures or for genes with high population frequencies the likelihood of mutation sets the limit to meaningfulness of F. Accuracy of the estimated probability that a person has identical genes at a given locus should continue to increase as calculation of the inbreeding coefficient is extended over scores of generations. If the population is even slightly inbred, ordinary genealogical information obtained in human genetics will grossly underestimate the probability. This applies, for example, to the normal gene corresponding to any lethal disease, even if there are many normal alíeles (Kimura and Crow, 1964). The same is true of recessive lethal genes for a shorter interval that depends on the average persistence of such genes, if one uses the modified inbreeding coefficient, II, of Slatis (1960). Probably for most
+3In a personal communication H. M. Slatis has pointed out that mutation would not destroy the relevance of F to gene-identity if F were corrected according to known mutation rates, although such correction would be rather complicated in cases of overlapping relationships.
+
+genes natural selection sets the upper limit of accuracy; a selective pressure of 2% against a rare dominant trait would introduce nearly a 20% error in ten generations. Even this inaccuracy need not concern human geneticists, who rarely can assemble a complete pedigree covering eight generations. Morton (1961) is inclined to disregard inbreeding more remote than second cousin marriages (information on four antecedent generations) because even at this level the possibility of erroneous paternity reports may be great.
+Clearly, inbreeding coefficients, however they are estimated, have little relation to identity by descent for the majority of genes. Instead, F is useful as a measure of average reduction in heterozygosity at all loci over a defined interval of time. Specification of the reference generation is therefore both a theoretical and a practical necessity.4 When not determined by historical fact, such as recent origin of an isolate, the number of generations may be based on considerations of available information or on stability of the estimate as the number of generations is increased further. But in the Hutterites (Mange, 1964) the estimate of F looks as if it might increase at a nearly constant rate as information is extended back to the founding generation.5 In such a population the most accurate estimate is undoubtedly the biggest one, but if the founding generation is not in the record, an intermediate
+4 A qualitative test for inbreeding effects can yield a positive conclusion without formal mention of a reference generation, but the reference nevertheless exists, namely, the generation of the earliest ancestor involved in recognized inbreeding. If the test is used to reach a negative or a qualitative conclusion, it implies disregard for all more remote inbreeding, which is equivalent to the assumption that the reference generation contains no related individuals, like Malécot's ideal reference.
+5 Not very likely; see footnote I.
+
+Vol. 12, No. 4 Random and Nonrandom Inbreeding
+
+189
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+estimate may be neither meaningful nor stable.
+
+Problems with an Unstable Estimate of F
+In a small population, generations that are poorly known genealogically are likely to make significant individual contributions to F. This may create serious problems both in comparisons between individuals and in comparisons of one isolate with another.
+Table 4 shows the six inbred sibships among the nine sampled from the Ramah Navaho, arranged in order of increasing F uncorrected for informational gaps. When relationships beyond second cousin are disregarded, two sibships have coefficients of zero, but additional information brings them close to the next two sibships. The more complete estimates might seem preferable, but it must be remembered that for the first column of estimates the most remote generation is 70% known, while for the last column only 20% of the most remote ancestors are known. In a series of sibships it may be expected that remote consanguinity is nearly as common in the families with known close consanguinity as in the other families; Mange (1964) has observed this. Families with F of .06 estimated from remote ancestors
+
+TABLE 4
+
+ESTIMATES OF F IN SIX INBRED NAVAHO SIBSHIPS BASED ON INCREASINGLY REMOTE GENEALOGICAL DATA *
+
+Mating
+
+Fertility
+
+Number of generations used
+456
+
+3311X4518
+4301 X 4050 4039 X 4514 3347 X 4700
+3453 X 4052 4009 X 4516
+
+3
+2
+1 1 1
+5
+
+0 .004 .006
+0 .004 .006 .008 .008 .008 .008 .008 .009 .016 .020 .0?? .047 .051 .051
+
+· Ancestors are ordered by generation of origin, not by remoteness from the subjects.
+
+would probably not show as many inbreeding effects as families with the same F estimated from known first cousin marriage unless pedigrees were fully known to the same ancestral generation in both groups. This problem may exist for consanguinity studies even in large populations.
+It may be noted that comparisons between F's are properly made with a formula of the type (F1--F2)/(l--F2) (Wright, 1951). This depends mainly on the arithmetic difference between F, and F2, not on their ratio. Hence, remote inbreeding that is evenly distributed can be disregarded with little loss of accuracy for the purpose of comparisons within the population. But a shift of the arbitrary cutoff point may alter one's conclusions.
+When F is used to compare residual heterozygosity of one isolate with that of another, the history of both isolates is needed over many generations. The Hutterite population is almost closed to outside genes, and the number of possible ancestors diminishes rapidly in earlier generations. Societies like the Xavante Indians probably admit more immigrants, and their groups sometimes fuse or split, so that the expected contribution to F from unknown generations may be much smaller than in the Hutterites. The actual amount of residual heterozygosity in the two populations probably depends to a large degree on this remote inbreeding, and the difficulty of estimating it illustrates the limited value of inbreeding coefficients of entire isolates.
+4 . THE AMOUNT OF HETEROZYGOSITY IN
+AN ISOLATE
+The total inbreeding of isolates discussed in the two preceding sections consists mainly of the random component,
+
+190
+
+Allen
+
+Eugen. Quart.
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+but the properties of inbreeding seen in large populations are mainly properties of nonrandom inbreeding. The two sets of properties can now be specified and explained. It is to be remembered that both components are defined as, and ideally measured by, changes due to consanguineous mating in heterozygosity relative to some standard. The differences are in the relation of heterozygosity to gene frequencies.
+The Hardy-Weinberg Equilibrium Proportions
+The genotypic proportions given by the binomial expansion are sometimes referred to as equilibrium proportions because Hardy and Weinberg emphasized that they would persist indefinitely. However, the proportions and their constancy are independent phenomena; and it is an error to suppose that conditions incompatible with equilibrium, namely, mutation, selection, or limited population size, necessarily preclude adherence to the Hardy-Weinberg proportions. Confusion has apparently resulted from statements like the following (Wright, 1921, p. 173): "The familiar formula for a Mendelian population in equilibrium, x2AA+ 2xyAa+yzaa, applies strictly only to a population of infinite size." Actually, if sampling error is allowed for, the formula describes the genotype frequencies in a random mating population of any size; and the only difficulty in small populations arises when one attempts to predict the genotype frequencies of one generation from the gene frequencies of a prior generation. The importance of distinguishing the Hardy-Weinberg proportions and the Hardy-Weinberg equilibrium as separate phenomena is in fact a restatement of the main theme of this paper.
+Wahlund (1928) and Haldane (1938)
+
+gave formulas that related heterogeneity and inbreeding, respectively, to deviation from the Hardy-Weinberg proportions, and these formulas are undoubtedly useful in large populations (Morton and Yasuda, 1962). Several attempts to apply the same principle to blood group data within human isolates have failed to find any evidence of inbreeding. This has been ascribed to the relatively low estimated inbreeding coefficients (Spuhler and Kluckhohn, 1953) or to a "remarkable insensitiveness" of this criterion to inbreeding (Neel, et al., 1964). Sanghvi (1955) demonstrated this insensitiveness mathematically. However, all of these authors seem to have assumed that deviation from the HardyWeinberg proportions depends on total inbreeding, in isolates as in large populations. This assumption needs to be examined.
+The Effect of Genetic Drift on Heterozygosity
+Under random mating the proportion of heterozygosity at any one locus, if alíele frequencies are p and q, is equal to 2pq. This proportion is maximal at 50% when p=q=0.5. For all other gene frequencies in a two-allele system the proportion of heterozygosity is less, and the farther p is from 0.5, the smaller is the proportion of hétérozygotes.
+Each generation of a finite population is a sample of the zygotes or gametes produced by the preceding generation, and entails sampling error at every locus where two or more alíeles occur. The resulting drift of gene frequencies leads to net loss of heterozygosity when all loci are considered together. The loss occurs partly because the resultant of drift in both directions, averaged over many loci, is away from the central values that yield maximum heterozygosity; partly
+
+Vol. 12, No. 4 Random and Nonrandom Inbreeding
+
+191
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+because drift toward the center has less effect on genotype frequencies than equal drift away from the center; and partly because genes at some loci become fixed. Note that none of this loss of heterozygosity is because of deviation from Hardy-Weinberg proportions, and such deviation does not occur under random mating if the proportions are calculated from values of p and q found in the generation concerned.
+This loss of heterozygosity through drift generally coincides with random consanguineous matings, as examples will show. If a newly arisen gene increases through drift, all persons carrying it in subsequent generations are related. The increase in related descendants is part of the very sampling phenomenon that determines increase in number of copies of the mutation. When the first instance of homozygosity occurs, it will necessarily result from a consanguineous mating. As another example, consider a gene that is already widespread in a large population through many generations of drift or selection. When an isolate is founded by a small number of individuals, sampling error will immediately alter the gene frequency. However, the proportion of hétérozygotes in this founding generation may be either greater or less than that in the source population, and one generation is necessary to bring genotype frequencies into relation with gene frequencies. Under random mating that includes self-fertilization, loss of heterozygosity in the first generation, relative to the source population, depends on the initial sampling error in gene frequency, and this depends on the number of founders. The number of founders also determines the probability of self-fertilization and hence the inbreeding coefficient of the first-generation offspring.
+Thus in a self-fertilizing species even
+
+the founder effect, a special case of drift, can be identified with random inbreeding. In a new human isolate, if mating is random except for self-fertilization and incest, the first generation will attain Hardy-Weinberg proportions for all but rare genes. Decrease in heterozygosis occurs at once, but consanguineous matings will be delayed to the third generation.6 Thus, at first, the random and nonrandom components of inbreeding are equal and opposite; or in other words, the founder effect and a generation of drift will decrease the population's heterozygosity before the onset of actual inbreeding. This emphasizes the fact that genetic drift and consanguineous matings are independent, though both are direct effects of restricted population size. In their tendency to reduce heterozygosity they eventually work in concert. In the words of Sewall Wright (1931, p. 106), "The decrease in heterozygosis following inbreeding is a well known statistical consequence of such chance variation [in alíele frequencies]."
+The Effect of Assortative Mating
+Positive assortative mating with respect to a simple trait can eventually eliminate nearly all heterozygosity at that locus in a large population with-
+6This statement may require expansion. The founding population would have different gene frequencies from the original population as a result of sampling, and the changes would, on the average, be away from central values. In the first generation offspring this drift, together with that associated with one cycle of reproduction, would result in reduced heterozygosity. Further drift and further reduction in heterozygosity would occur in each succeeding generation according to sample size. Now, by our original assumption, consanguineous matings in the source population were so rare, or relationships were so remote, that they did not appreciably reduce heterozygosity from one generation to the next. In the new isolate, consanguinity of mates would remain at the same low level until mating of first cousins was possible. The resulting offspring, the great-grandchildren of the founders, would be the first detectably inbred descendants.
+
+192
+
+Allen
+
+Eugen. Quart.
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+out change of gene frequencies, but negative assortative mating has very limited effects (Dahlberg, 1948). Nonrandom inbreeding is assortative mating in which the criterion is ancestry. Ancestry is, of course, a guide to genotype, and positive assortative mating by ancestry can theoretically approach complete homozygosity as closely as desired. Furthermore, this homozygosity affects all traits at once, and it represents identity of genes by descent, which can never be assured under other types of assortative mating. But negative assortative mating is particularly ineffective when the only criterion is ancestry. Random mating does not require many matings of close relatives in ordinary isolates, and these are the only matings that are eliminated by negative inbreeding. The result is nevertheless a slight increase of heterozygosity above the proportion expected. Robbins (1918) showed that avoidance of sib-incest alone has this effect if offspring are limited to two in a family.
+Decreases in heterozygosity resulting from genetic drift or positive assortative mating are always gradual; increases resulting from negative assortment may over-shoot the level that is finally approached (Dahlberg, 1948). But both increases and decreases accompanying a return to random mating, are direct and abrupt. To the extent that mating is truly random, they occur in a single generation. This emphasizes the special character of random mating in a finite population and justifies its selection as a natural zero-point distinct from panmixia.
+5. SUBDIVIDED POPULATIONS
+Completely isolated and homogeneous populations are probably rare among most organisms and nonexistent in man.
+
+It has been mentioned above that in a large population the principal component of F is that from nonrandom consanguineous mating, while in a small population most of the inbreeding is random. But the nonrandom inbreeding of a large population may be due to endogamy within subpopulations instead of, or in addition to, close consanguineous matings. As a first approach to reality I will consider a simple model of a large population divided into isolates and then apply the twofold concept of inbreeding to this and to more realistic situations.
+
+Random Mating within Perfect Isolates
+If a large population consists of isolates, random mating within the isolates is equivalent to nonrandom, or preferred consanguineous mating, in the whole population considered as a unit (Li, 1955, p. 299). Table 5 gives gene frequencies and genotype frequencies at one locus in a hypothetical population
+
+TABLE 5
+EFFECT OF GENETIC DRIFT ON GENOTYPE FREQUENCIES IN HYPOTHETICAL ISOLATES WITHIN A LARGE POPULATION.*
+
+Gene frequencies
+
+Genotype frequencies
+
+Isolate
+
+Pi 9 .
+
+2M. 9.a
+
+1 2 3 4 5 6 7
+8
+9 10
+Totals Expected Deviations
+
+.6 .4 .4 .6 .7 .3 .5 .5 .1 .9 .8 .2 1.0 .0 .6 .4
+.7 .3
+.6 .4
+.6 .4 .6 .4 .0 .0
+
+.36 .16 .49 .25 .01
+.64 1.00 .36 .49 .36
+.412 .360 +.052
+
+.48 .48 .42 .50 .18 .32 .00 .48 .42 .48
+.376 .480 -.104
+
+.16 .36 .09 .25 .81 .04 .00 .16 .09 .16
+.212 .160 +.052
+
+· Within isolates, genotype frequencies are computed from local gene frequencies on the assumption of random mating.
+
+Vol. 12, No. 4 Random and Nonrandom Inbreeding
+
+193
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+assumed to have become subdivided into ten equal isolates. The total population is assumed to be large enough that the present gene frequencies for the aggregate, .6 and .4, are not noticeably changed from the initial values. (If the number of isolates were 1,000 instead of 10, this assumption might be realistic.) Mating within the isolates is perfectly random; so, as the gene frequencies have drifted, genotypic proportions have always conformed to the binomial expansion as calculated in each generation from the new gene frequencies in the isolate concerned. The observed drift could equally well have resulted from prolonged isolation of large populations or from brief isolation of small populations. The last three lines of the table give the total genotype frequencies, those expected under random mating within the entire population, and the differences between observed and expected.
+An indirect estimate of inbreeding in the total population could be based on the deviant proportion of hétérozygotes, AH, as follows (Haldane used a more efficient estimate):
+F= - AH/2pq =. 104/.48 = .217.
+It is interesting to note the very large inbreeding coefficient that corresponds to a rather modest deviation in genotypic proportions (Sanghvi, 1955).
+This inbreeding coefficient for the total population, .217, is also a measure of average drift within the isolates provided that there has not been any overall drift and that mating within isolates is quite random. More detailed interpretation of the figure is hazardous. To begin with, this coefficient of inbreeding does not apply to each individual isolate. Although their sizes are now equal for our convenience, past differences in size could have resulted in different rates
+
+of inbreeding. The exact value of F for any one isolate could be found only by complete tracing of genealogies back to that isolate's origin. If several isolates actually did have an F of .217, they would not be alike in their gene frequencies at the locus under study, some having drifted up, some down, some not at all. Perhaps the greatest error would be to assume that in each isolate, as in the aggregate, inbreeding should be represented by some deviation from HardyWeinberg proportions.
+The Reversal of Random Inbreeding
+The point was made in Section 1 (under "Concepts Subsumed under Inbreeding") that only nonrandom inbreeding is reversible; yet, in the example given (Table 5) the same consanguineous matings that constituted random inbreeding in the individual isolates become nonrandom inbreeding when the population is considered all together. As long as the isolates persist, they cannot regain their lost heterozygosity even if by chance a few loci revert to the original gene frequencies; this is consistent with the classification of their inbreeding as random. But if the isolates are reunited in a single population, this population will have the original gene frequencies, and a single generation of random mating can restore Hardy-Weinberg proportions.
+This is, of course, partly a matter of definition. After heterozygosity has reached a low level under random mating in an isolate, it can be raised in several ways. Negative assortative mating has only a small effect compared to moderate or advanced genetic drift. If the population should increase, natural selection might restore the original quantity of heterozygosis, but it is most unlikely to restore the original gene fre-
+
+194
+
+Allen
+
+Eugen. Quart.
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+quencies at all loci. Certainly, rare genes lost by drift cannot be restored except by fresh mutation.
+The effectiveness of breaking a population into inbred lines to preserve potential heterozygosity (Kimura and Crow, 1963) dramatically illustrates the substitution of reversible inbreeding for irreversible inbreeding when inbreeding of some kind is inevitable.
+More Realistic Populations
+One immigrant entering an isolate can restore most of the genes totally lost by random fixation. In this way a little immigration makes a radical difference in the outcome of genetic drift. More commonly, numerous migrants maintain continuity between apparent isolates, and in large modern human populations there are only regional or ethnic subdivisions with some preference for endogamy. In such populations random inbreeding of the whole is negligible, and any drift that occurs within groups can be treated as nonrandom inbreeding in the aggregate. But this portion of the nonrandom inbreeding, which includes genetic differences accumulated since the origin of the racial or ethnic subdivisions, is not ascertained through recognizable consanguineous matings. Thus, in heterogeneous populations the average F based on path coefficients may grossly underestimate even the nonrandom component of inbreeding. When this is the case, deviation from Hardy-Weinberg proportions may be the best measure of nonrandom inbreeding (Morton and Yasuda, 1962), but because of its well-known insensitivity it is useful only in populations that are both large and heterogeneous.
+This article is concerned with populations in which there is some persistence of recognizable isolates. Real isolates are
+
+likely to differ from the model in Table 5 not only by diversity of size and the interchange of immigrants, but also by failure to mate at random within their own limits. In small human populations, where randomness may require much consanguinity, the exclusion of self-fertilization and incest are already significant deviations toward negative inbreeding. Isolates in which first cousin marriages are preferred, like the Samaritans (Bonne, 1963), may still have a positive nonrandom component of inbreeding; but when first cousin marriages are prohibited, even an isolate numbering several hundred breeding individuals is very likely to be on the negative side of random mating (Dahlberg, 1948).
+6. QUANTITATIVE REPRESENTATION OF
+THE MATING SYSTEM
+Despite the relatively low magnitude of nonrandom inbreeding in isolates, it is a quantity of some interest. First, it is one measure of an important parameter of social structure. Second, observed deviation from Hardy-Weinberg proportions in a small population is likely to represent natural selection rather than nonrandom inbreeding, but some estimate of the inbreeding effect is appropriate. Third, since genetic drift is fluenced by the distribution of genotypes, a relevant correction term is sometimes wanted in formulas that estimate past or future drift (Li, 1955; Bonne, 1963). Finally, genetic drift is an important quantity, and in the form of random inbreeding it is estimated with nearly the same accuracy as total inbreeding in the process of quantifying the mating system.
+Estimating the Deviation from Randomness
+Genotypic proportions in an isolate rarely if ever reveal the effects of in-
+
+Vol. 12, No. 4 Random and Nonrandom Inbreeding
+
+195
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+breeding. Some more sensitive criterion of nonrandomness is therefore needed if mating systems are to be specified quantitatively. Many authors, especially Dahlberg (1948) and Barrai, et al. (1962), have compared the frequency of observed and expected close consanguineous matings in real populations, but their results are not expressed in the form of an inbreeding coefficient.
+The nonrandom portion of the inbreeding coefficient should be the difference between total inbreeding and random inbreeding. The latter is approximately that amount of inbreeding that would have occurred in the present generation if all parents had mated randomly instead of as they did. This can be called Fr, and the nonrandom component is then F--Fr. Fr appears to be a proper coefficient of inbreeding because it can be obtained from hypothetical matings in the same manner that F is obtained from actual matings. The nonrandom component, however, is calculated with Fr as a baseline and must be standardized if it is to be used as an inbreeding coefficient in its own right; for example, in predicting deviation from Hardy-Weinberg proportions. The following form, based on Wright's discussion of hierarchical populations (1951) was suggested by J. F. Crow (personal communication):
+F _ F-Fr "~ \-Fr
+This quantity is negative when actual matings show avoidance of inbreeding and positive when average consanguinity between mates is higher than that required by chance. In an infinite population where no consanguinity is expected, Fr is zero and Fn is equal to F. Fn appears to be the proper quantity, rather than F, for use in any formula that involves deviation of genotype frequencies
+
+from those expected under random mating. To give one example, genetic drift depends on "effective size" of the breeding population. One factor that determines effective size (Ne) is inbreeding (Li, 1955, p. 323): N,=N/(1+F). But published formulas seem to say that the potential sampling error at any one locus, if the sampling method is constant, is controlled by the number of offspring, the gene frequencies, and the amount of heterozygosity at that locus. Under random mating within the isolate, the amount of heterozygosity at the locus is implicit in the gene frequencies, and correction for past genetic drift is redundant. Hence, if mating is random, no correction is needed; if it is not random, only the deviation from randomness, corresponding to Fn, is needed in the formula.
+When the deviation from random mating is used as a descriptive parameter rather than as a coefficient, the ratio F/Fr appears to be the simplest form and, in per cent, the most easily comprehended. However, the more contrived expression (1+Fn) gives similar values and is at the same time useful in formulas like the one given above.
+In the calculation of Fn, F can be obtained from path coefficients in the usual way to give the average for the population. Fr should be based on the same genealogical data, employed in hypothetical matings between all possible pairs within each breeding generation. A human breeding generation cannot be precisely defined, but for present purposes almost any natural criterion such as age, taken within arbitrary limits, may suffice. If studies of actual populations should show that results are very sensitive to differences in definition of the breeding population, more realistic definitions would have to be used (Hajnal, 1963). A coefficient that corresponded to
+
+196
+
+Allen
+
+Eugen. Quart.
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+true random mating would include even self-fertilization and same-sex pairing. Same-sex pairs would probably not change the average much, but selffertilization in a small population might make a significant difference (see below).
+
+A Worked Example: The Ramah Navaho
+Table 6 presents values of F, Fr, and F/Fr for the Navaho sample described in Section 2. The last figure of Line 2 allows for self-fertilization as a possible mating type. This adjustment, an increment of .0014, was obtained as follows: In a random-breeding population of size N the probability of self-fertilization is I/AT for each individual. N is estimated here conservatively as the average of generations (chart rows) five and six, from which the parents originated: (415 + 281)/2 = 348. The resulting rare offspring would each have an inbreeding coefficient of about one-half; and if they constituted 1/348 of the new generation, the contribution to the average F would be^x^-g, or .0014.
+The ratios in the third line of Table 6 show that actual consanguinity of mates
+
+TABLE 6
+COMPARISON OF ACTUAL INBREEDING IN A SAMPLE OF THE RAMAH NAVAHO WITH THAT EXPECTED UNDER RANDOM MATING.
+
+Estimates corrected for unknown ancestors
+
+IfselffertilizaCrude Possible tion were estimate matings possible
+
+Actual inbreeding: F .0140
+
+Average coefficient
+
+for all matings at
+
+( random: Fr
+
+.0188
+
+Ratio, F/Fr
+
+.743
+
+.0231
+.0279 .828
+
+.0231
+.0293 .788
+
+as estimated from this small sample is approximately 80% of what it would be under random mating. If sibships had been selected from other areas of the chart, the figure might be very different. In any event, negative inbreeding of this magnitude is not enough to alter the genotypic proportions significantly. The use of Fn in Haldane's formula together with the Ramah gene frequencies, would predict 75.13 MN hétérozygotes as compared with 74.66 under random mating. The number observed by Spuhler and Kluckhohn was 74, an insignificant deviation in the opposite direction.
+Table 7 illustrates the stability of Fn and F/Fr as genealogical information is added from remote generations. The oldest two generations on the genealogical chart increase Fn by only 2% over the estimate obtained without them. The corresponding increase in the ratio F/Fr is 5%. After correction for unknown ancestors the increases are 8% and 7%, respectively, still very small compared with the 48% increases shown for both
+TABLE 7
+STABILITY OF ESTIMATES OF THE DEVIATION FROM RANDOM MATING AS REMOTE GENEALOGICAL DATA ARE ADDED *
+Number of antecedent generations used
+
+Crude estimates
+
+F
+77
+
+-.00481 -.00488 -.00491 (1) (1.015) (1.022)
+.709 .737 .743 (1) (1.039) (1.048)
+
+Estimates
+
+r"
+
+corrected for
+
+unknown F
+
+ancestors ~p~
+
+-.00458 -.00479 -.00494 (1) (1.044) (1.077)
+.776 .816 .828
+(1) (1.052) (1.067)
+
+* Ratio of each estimate to that based on four generations is given in parentheses.
+
+Vol. 12, No. 4 Random and Nonrandom Inbreeding
+
+197
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+the inbreeding coefficient and the coefficient of relationship in Table 3.
+The changes in Fn and in F/Fr with inclusion of more remote ancestors are instructive. F,, is determined mainly by the arithmetic difference between coefficients for random and actual matings, so that its numerical value will increase either positively or negatively if F and Fr increase together. F/Fr, on the other hand, will not change so long as F and Fr remain in the same ratio. The fact that F/Fr does increase in this sample with addition of remote ancestors reflects the fact that the Navaho marriage system avoids close inbreeding but permits random or even positive assortative mating with respect to remote consanguinity. More complete analysis of the Ramah data is required to substantiate this inference.
+SUMMARY
+Inbreeding may be broadly defined as any loss of heterozygosity through consanguineous mating, and it is conveniently divided into two components. Inbreeding as a result of random union of related individuals in a finite population, including self-fertilization, is nearly identical with genetic drift and is irreversible. The other component is a result of nonrandom mating and is wholly expressed in deviation of genotype frequencies from the HardyWeinberg proportions. The second component may be negative in a small population; then the total inbreeding as measured by Wright's coefficient, F, is less than the random component.
+Total inbreeding is ideally calculated in reference to a perfectly panmictic ancestral population. Such a population has never existed; so, with investigation of remote ancestors, estimates of F continue to increase indefinitely. In prac-
+
+tice, F ought to be calculated with reference to some arbitrarily specified recent generation, and random inbreeding is referable to a similar baseline. Nonrandom inbreeding is calculated from a hypothetical baseline of random mating within the defined population.
+In a sample of Navaho Indians the estimate of F was found to be very susceptible to undetectable or remote inbreeding, but the deviation from random mating was estimated reliably. Inbreeding was about 80% of that expected under random mating.
+
+ACKNOWLEDGMENTS
+During the writing of this paper the author profited greatly from discussions with Kenneth S. Brown, C. S. Chung, and J. D. Niswander. Late changes in the text were prompted by helpful communications from ítalo Barrai, Herman M. Slatis, and Arthur G. Steinberg.
+
+REFERENCES
+
+ABERLE, D. F., U. BRONFENBRENNER, E. H. HESS,
+
+D. R. MILLER, D. M. SCHNEIDER, J. N.
+
+SPUHLER, 1963. The incest taboo and the
+
+mating patterns of animals. Amer. Anthro-
+
+pol., 65: 253-265.
+
+BARRAI, I., L. L. CAVALLI-SFORZA, and A. MORONI,
+1962. Frequencies of pedigrees of consanguineous marriages and mating structure of the population. Ann. Hum. Genet., 25: 347-376.
+
+BONNÉ, B., 1963. The Samaritans: A demographic
+
+study. Hum. Biol, 35: 61-89.
+
+DAHLBERG, G., 1948. Mathematical Methods for
+
+Population Genetics. Interscience Publish-
+
+ers, New York.
+
+HAJNAL, J., 1963. Concepts of random mating and the frequency of consanguineous marriages. Proc. Roy. Soc. [Biol.], 159: 125-177.
+
+HALDANE, J. B. S., 1938. Indirect evidence for the mating system in natural populations. Jour.
+
+Genet., 36: 213-220.
+
+KIMURA, M., and J. F. CROW, 1963. On the maxi-
+
+mum avoidance of inbreeding. Genet. Res.,
+
+4: 399-415.
+
+, and
+
+, 1964. The number of alleles
+
+that can be maintained in a finite popula-
+
+tion. Genetics, 49: 725-738.
+
+Li, C. C., 1955. Population Genetics. Univ. of Chicago Press, Chicago.
+
+198
+
+Allen
+
+Eugen. Quart.
+
+MALÉCOT, S., 1948. Les Mathématiques de l'Hérédité. Masson et Cie., Paris.
+MANGE, A. P., 1964. Growth and inbreeding of a human isolate. Hum. Biol., 36: 104-133.
+MORTON, N. E., 1961. Morbidity of children from consanguineous marriages. In A. G. Steinberg, ed., Progress in Medical Genetics, Vol. I. Grune and Stratum, New York and London, pp.261-291.
+, and N. YASUDA, 1962. The genetical structure of human populations. In J. Sutter, ed., Les Déplacements Humains, Entretien de Monaco en Sciences Humaines. I. Hachette, pp.185-203.
+NEEL, J. F., F. M. SALZANO, P. C. JUNQUEIRA, F.
+KEITER, and D. MAYBURY-LEWIS, 1964.
+Studies on the Xavante Indians of the Brazilian Mato Grosso. Amer. J. Hum. Genet., 16: 52-140.
+ROBBINS, R. B., 1918. Random mating with the exception of sister by brother mating. Genetics, 3: 390-396.
+
+SANGHVI, L. D., 1955. Inbreeding, genes and phenotypes. Amer. Nat., 89: 247-248.
+SIMONS, E. L., 1963. Some fallacies in the study of hominid phylogeny. Science, 141: 879889.
+SLATIS, H. M., 1960. An analysis of inbreeding in the European Bison. Genetics, 45: 275-287.
+SPUHLER, J. N., and C. KLUCKHOHN, 1953. In-
+breeding coefficients of the Ramah Navaho population. Hum. Biol., 25: 295-317. WAHLUND, S., 1928. Zusammensetzung von Populationen und Korrelationserscheinungen von Standpunkt der Vererbungslehre aus betrachtet. Hereditas, 11: 65-106.
+WRIGHT, S., 1921. Systems of mating. Genetics, 6: 111-178. , 1922. Coefficients of inbreeding and relationship. Amer. Nat., 56:330-338. , 1931. Evolution in Mendelian populations. Genetics, 16: 97-159. , 1951. The genetical structure of populations. Ann. Eugen., 15:323-354.
+
+Downloaded by [University of Michigan] at 13:28 08 December 2015
+
+

@@ -1,0 +1,176 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Analysis of family resemblance and group differences
+N. E. Morton
+To cite this article: N. E. Morton (1975) Analysis of family resemblance and group differences, Social Biology, 22:2, 111-116, DOI: 10.1080/19485565.1975.9988155 To link to this article: http://dx.doi.org/10.1080/19485565.1975.9988155
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 3
+View related articles Citing articles: 3 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:35
+
+Analysis of Family Resemblance and Group Differences
+N. E. Morton
+Population Genetics Laboratory University of Hawaii Honolulu, Hawaii
+
+MM «£»« SB!
+was
+
+s
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+The traditional concern of human genetics is to isolate major genetic determinants (alleles) with all the properties of Mendel's unit characters. No other approach (except in cytogenetics) has been shown to be productive. Nevertheless, during the last few years interest has turned to constitutional disease, behavior, and other traits which lie beyond the limits of classical genetics. The incentive for this venture is to extend the horizons and biomedical applications of our science. In this hope, we way inadvertently delude ourselves or others, but on a Promethean view the potential gain outweighs the risk.
+Since experience with the new methods is so limited, this summary reflects personal opinions that may soon be modified. I have tried to indicate counterarguments where they have been developed. Five approaches to family resemblance and group differences are discussed. Inevitably the ones which might be useful in complex inheritance are intricate and have not yet seen much use. Great caution is mandatory in drawing conclusions from them.
+SEGREGATION ANALYSIS
+One way to test a genetic hypothesis is to express it as a probability model that
+
+can be fitted to family data; this is called segregation analysis. In its simplest form, each family member is classified as normal or affected, quantitative information is suppressed, the family consists only of parents and children, and affection has a simple relation to a major gene. At this level, the theory was developed by Weinberg, Haldane, Fisher, and Li and Mantel; it requires no difficult computations.
+If such a test disagrees with Mendelian expectation, more elaborate methods must be used to resolve the discrepancy. An early extension allowed for sporadic cases (mutants, diagnostic or parentage errors, and other types of low recurrence risk). Recently, the greater complications due to familial environment and polygenes have been included. By polygenes we mean many genetic loci with such small effects that their segregation must be inferred through changes in mean and variance. Much of the information about polygenes is lost when a quantitative trait is forced into the dichotomy of normal vs. affected. A beginning has been made on segregation analysis of quantitative traits and on multigeneration pedigrees.
+In the present state of segregation analysis, the complexities of half-sibs, twins,
+
+111
+
+112
+
+Morton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+and adopted children are avoided, and many simplifying assumptions are made. Naturally, different investigators prefer different assumptions. On one hand, the major locus may be elaborated to include assortative mating. On the other hand, the major locus and dominance may be omitted. Both extremes neglect family environment, which we consider essential but are forced by practical considerations to limit to siblings. This omission confounds environment common to parents and children with polygenic inheritance and makes it impossible to recognize dominant effects of polygenes. We accept the evidence (which others question) that measurable dominance is restricted to major genes. Since our primary interest in segregation analysis is to test hypotheses about major genes, we must sacrifice some power to resolve polygenes from common environment. We have demonstrated that this approach is cautious. Unlike alternative segregation models, it does not misinterpret such complications as family environment or polygenes as an imaginary major locus. Presumably as a consequence, we tend not to find significant evidence of a major gene where its existence is controversial.
+PATH ANALYSIS OF FAMILY
+RESEMBLANCE
+The complexities of family data can be reduced to pairs of observations and therefore to a matrix of familial correlation coefficients. This reduction loses some information about parent-offspring and sibling pairs, but recovers information about halfsibs, twins, or other relatives reared together or apart, and about adopted children. In addition, indices of family environment, racial composition, and other factors may be introduced. This multiplicity of relationships allows more complete specification of family resemblance, including assortative mating, genotype-en-
+
+vironment covariance, and environment common to parents and children.
+Sociologists are accustomed to causal analysis of correlations on the assumption of additivity, which was introduced by Sewall Wright under the name of path coefficients. Much of his creative work in population genetics used this method, but his successors have tended to prefer probability theory which gives the same results in cases of genetic interest. A wanderer in the desert who stumbles across a lost gold mine could not be more excited than we were when we found that path analysis can solve problems that have baffled other methods. The essential trick is to have more observed correlations than parameters to be estimated under a model, to transform the correlations to give a reliable likelihood function, and to use deviations of the transformed correlations from their expected values as a test of the assumptions. As in any scientific inquiry, the model cannot be proven, but it can be given a chance to be rejected.
+While the logic of path analysis is classical, experience has revealed certain practical limitations. Genotype-environment interaction not expressed as covariance is not usually detected even in a rich body of data, but estimates of genetic and cultural inheritance are never inflated. Major loci cannot be discriminated, nor can dominance be resolved from environment common to sibs in the absence of an unrealistically large sample of identical twins reared apart. By sacrificing the estimate of dominance, an environmental effect can only be exaggerated. As we use path analysis, we do not see how the role of genetic factors could be overestimated.
+So far, I have managed not to use the word heritability, which is the fraction of the phenotypic variance ascribed to genetic factors. There is no impropriety in the term, but it has the ambiguity of any
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+Vol. 22, No. 2 Family Resemblance and Gronp Differences
+
+113
+
+operational definition when the operation is not standardized. Depending on how heritability is estimated, it may or may not include dominance, assortative mating, gene-environment covariance, various interactions, and familial environment. On principle, we prefer a minimum estimate, which excludes all the above factors except assortative mating. Since the phenotypic correlation between mates can be explained in many ways, including postmarital environment, we do not use it. This omission tends to give a low estimate of assortative mating compared with other methods; for example, American IQ data give no evidence of a genetic correlation between mates.
+Table 1 shows how our results on published IQ data compare with other analyses. There is a striking decline of heritability in adults, which is not unexpected since children leave a relatively uniform school environment for the different levels of stimulation provided by professions, manual labor, and housekeeping. No meaningful question about heritability can be . asked without specifying the age group of interest. Family environment (here essentially a measure of social class) is the major variance component for adults, although its standard error is large. Only the genotype-environment covariance is homo-
+
+geneous between children and adults. While only barely significant by a likelihood ratio test, the estimate of that covariance offers modest evidence for a genetic differential among social classes amounting to 12 per cent of the phenotypic variance. I t is easy to criticize these results, which are based on a simple additive model applied to data which may well be heterogeneous. If the model were wrong, we might have been lucky enough to obtain a significantly poor fit. Since we did not, the burden of disproof is on the critics.
+To liberals in America and conservatives in Russia, the report of this result may seem like an irresponsible willingness to entertain the unthinkable hypothesis of a genetic component in class differences. In the absence of any rational application of such an inference, no greater caution seems warranted than for any other scientific hypothesis supported by rather shaky data.
+The implications of path analysis are not limited to class differences within a racial group. If we treat race as an additive polygenic trait estimated from data on genetic polymorphisms and even anthropometries, and if we consider a trait not significantly affected by social discrimination within sibships, then it is possible to separate genetic and environmental aspects of race. The effect of racial discrim-
+
+TABLE 1
+ESTIMATES or VARIANCE COMPONENTS FOR IQ*
+
+SOURCE
+Genotype Genotype-environment
+covariance Common environment Random environment
+Total
+
+CHILDREN
+
+Our Analysis Wright
+
+O.7S2 ± 0.064 0.50
+
+0.120 ±0.054 0.091.± 0.028 0.037 ±0.032
+1
+
+0.12 0.07 0.31
+1
+
+PARENTS
+
+Our Analysis Wright
+
+0.121 ±0.152 0.30
+
+0.117 ±0.032 0.523 ±0.178 0.239 ±0.089
+1
+
+0.14 0.36 0.20
+1
+
+GENERATIONS [ FOOLED
+Jtncks
+0.4S
+0.20 \ -,. I u""
+1
+
+SOURCE: Rao, Morton, and Yee, 1974. * A recent extension of path analysis, while not appreciably changing these estimates, raises doubts about the significance of gene-environment covariance (Rao et al., in preparation).
+
+114
+
+Morton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+ination is not easy to test, but reciprocal crosses and parentage exclusions on genetic evidence may provide an adequate control. Such a test has no practical value and only the theoretical interest which attaches to a novel method not yet validated and perhaps not amenable to validation. However, there are racial differences for traits expressed before school entrance where the assumptions seem plausible. I can see no reason to object to such a test, in a study which respects the rights of the subjects and the limits of inference from nonexperimental data.
+TEMPORAL TRENDS I N FAMILIAL
+CORRELATION
+The most interesting contrasts in family resemblance are between relatives of the same degree reared together or apart. Since the environments may be positively correlated, this fact provides a lower limit to the effect of family environment. The utility of identical twins for this contrast is vitiated by the rarity of twins reared apart. Half-sibs are much commoner, and maternal half-sibs detected by genetic exclusion of paternity provide a valuable contrast with full-sibs reared together, a contrast which is readily available but seldom utilized.
+Even within sets of full sibs, transient family environment can be detected by comparison of twins, adjacent sibs, or with « sibs intervening. For example, we found in Japan that the intraclass correlation for birth weight decreased from 0.65S for unlike-sexed twins to 0.363 for sibs with two sibs intervening, and this finding was part of the evidence which showed that familial correlations for birth weight are largely due to maternal factors, not to the genotype of the child.
+The same logic may be applied to parent-child correlations, stratified by age of the child. The parent-offspring correla-
+
+tion for height in northeastern Brazil is 0.25 at age 2 and rises steadily to 0.44 at age 18. Here the interpretation is not so clear as with sibling correlations. Perhaps heritability increases with age; perhaps the cumulative effect of family environment is increasing. Adult height is significantly less heritable than juvenile height and is less affected by inbreeding. Complexities like this have been ignored in most studies of family resemblance, including Fisher's classical analysis (1918) of height in man. By neglecting environment common to siblings he "detected" a large dominance component and concluded that stature is almost completely heritable. If that were so, social class differences in height would be puzzling, and the increasing stature observed during the last century would be paradoxical. Fisher's paper in 1918 was a milestone for theoretical genetics, showing that inheritance of quantitative traits is consistent with Mendelian principles; but by neglecting family environment, its effect on genetic analysis was mixed.
+PATH ANALYSIS OF GROUP DIFFERENCES
+Since group differences may be environmental, genetic, or any combination of the two, there can be no resolution unless environmental differences are randomized or controlled by study of family resemblance. However, it is possible to test the more general hypothesis of collinearity, rejection of which is a necessary but not sufficient condition for asserting a genetic component in the presence of an environmental one.
+Consider e effects which are aspects of school performance and three groups of causal variables, associated with school characteristics, social class, and racial composition of the student body. The causes are not observable but can be estimated by indices. For example, regression of per-
+
+Vol. 22, No. 2 Family Resemblance and Group Differences
+
+115
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+formance on school characteristics gives a school index. Race is most conveniently handled by criterion scaling, which assigns to each identified ethnic group its mean performance as the racial index.
+If we approach this problem through covariance analysis, we find that the variance assigned to race gets smaller as the number of covariates is increased, while the rank order of the racial groups is substantially conserved. This suggests that race is collinear with class (i.e., has a relation of complete linear dependency on class). If this were so, then a single variable representing race and class simultaneously could in principle be as predictive of all the effects as two different variables for race and class separately. However, because indices are only imperfect estimates of causes, we cannot use covariance analysis to test collinearity directly. To be precise, if the partial regression of performance on race were nonsignificant, we could assert that a genetic difference is nonsignificant; on the contrary, if the partial regression of performance on race were significant, we could not tell whether this finding of significance was due to error in estimating class, and so we could make no conclusion about the apparent racial effect.
+Path analysis gives a more rigorous approach, although permissible inference is severely limited. The null hypothesis of collinearity admits a correlation between race and class but no direct causal path from race to effect. Rejection of the null hypothesis means that race is not subsumed by class, but it permits no inference about whether the effect is genetic or environmental (for example, due to differential treatment of individuals on the basis of their appearance, regardless of class). Thus, the capability of path analysis to make rigorous tests of hypotheses and to assign precise confidence limits to causal paths is not very useful for many ques-
+
+tions of popular interest, but it has more promise in epidemiological investigations. Note that path analysis is always more parsimonious than covariance analysis, in the sense that significant partial regression of an effect on an index does not imply significance of the corresponding cause. At worst, therefore, path analysis makes for greater caution in interpreting group differences.
+INBREEDING A N D OUTCROSSING EFFECTS
+During the last twenty years, many studies of inbreeding effects have been carried out on various aspects of morbidity, mortality, and size. There has been considerable variation in results, partly due to environmental factors associated with consanguineous marriages in some populations. Variation within a racial group is as great as among groups, and so it appears that the total mutational load is much the same in different races, although possibly less in regions like southern India with preferential consanguineous marriage.
+Fewer studies have been made of outcrossing effects, because many populations avoid outcrossing and assign their ethnic groups to such different environments that no genetic study is feasible. Two large investigations in Hawaii and Brazil found no significant effect of outcrossing on morbidity, mortality, or size. The estimated effect in Hawaii corresponds to a reduction of 0.0005 to 0.0009 in the coefficient of inbreeding, so that some decrease in the incidence of rare recessive disease might be anticipated. A special and extreme case is cystic fibrosis, due to a recessive gene common in Caucasians and rare in nonCaucasians. As expected, the incidence in first generation hybrids between Caucasians and other groups is vanishingly small. Since rare recessives are responsible for only a small fraction of disease in man,
+
+116
+
+Morton
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+the overall effect of outcrossing is negligible by comparison with maternal age, complications of pregnancy and labor, child care, and other factors.
+Recently Bresler reported a significant association. between fetal death and outcrossing in Caucasians. This finding is at variance with the much larger material of other investigators. Inconsistencies in Bresler's small study have been considered elsewhere (Freire-Maia et al., 1974).
+DISCUSSION
+Path analysis has one thing in common with experimental design: Both assume additive effects and test this assumption on residual degrees of freedom. Here the similarity ends. In experimental design, the error variance is not known in advance and must be estimated by replication. In path analysis, the variance and covariance of z transforms are known and so replication is not essential. In experimental design, the treatments are known without error, and the objective is to estimate effects and their confidence limits. In path analysis, the causes ("treatments") can only be estimated, and the effect of a particular treatment is not at issue since it must be approached through covariance
+
+with indices. Instead, the significance of a variance component is tested, and the corresponding path is estimated. Interactions not leading to genotype-environment covariance cannot inflate familial correlations since they are confounded with random error, which is the appropriate place for them. Whereas in experimental design these interactions reduce the accuracy of estimated effects, interactions do not affect the reliability of path estimates. The investigator pays a price in reduced power to detect interaction and in a lower level of prediction. He must be content to accept these estimates as characteristics of a particular population at a particular time, with no value for predicting the effect of a novel treatment. We can recognize this state of affairs as true and unfortunate, but we should not confuse it with the different evidence, objectives, and technical problems of experimental design. Limitations of genetic analysis of family resemblance and group differences are severe enough without exaggerating the constraint imposed by interactions.
+ACKNOWLEDGMENTS
+This work was supported by grants GM 17173 and HD06003 from the U.S. National Institutes of Health.
+
+REFERENCES
+
+BRESLER, J. 1970. Outcrossings in Caucasians and fetal loss. Soc. Biol. 17:17-25.
+FISHER, R. A. 1918. The correlation between relatives on the supposition of Mendelian inheritance. Trans. Roy. Soc. Edinburgh 52(II): 399-433.
+FREIRE-MAIA, A., C. STEVENSON, and N. E. MOR-
+TON. Hybridity effects on mortality. Soc. Biol. 21:232-234. MORTON, N. E. 1972. Human behavioral genetics. In L. Ehrman, G. S. Omenn, and E. Caspari (eds.), Genetics, environment, and behavior, pp. 247-271. Academic Press, New York and London.
+MORTON, N. E. 1974. Analysis of family resemblance: I. Introduction. Amer. J. Hum. Genet. 26:318-330.
+
+MORTON, N. E., and C. J. MACLEAN. 1974. Anal-
+ysis of family resemblance: III. Complex segregation of quantitative traits. Amer. J. Hum. Genet. 26:489-503.
+MORTON, N. E., C. S. CHUNG, and M. P. Mi.
+1966. Genetics of interracial crosses in Hawaii. Karger, Basel. RAO, D. C., and N. E. MORTON. 1974. Path analysis of family resemblance in the presence of gene-environment interaction. Amer. J. Hum. Genet. 26:767-772.
+RAO, D. C., N. E. MORTON, and S. YEE. 1974.
+Analysis of family resemblance: II. A linear model for familial correlation. Amer. J. Hum. Genet. 26:331-359.
+
+

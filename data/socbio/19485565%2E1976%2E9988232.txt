@@ -1,0 +1,1524 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Sex of children and ultimate family size by time and class
+Jerome H. Waller
+To cite this article: Jerome H. Waller (1976) Sex of children and ultimate family size by time and class, Social Biology, 23:3, 210-225, DOI: 10.1080/19485565.1976.9988232 To link to this article: http://dx.doi.org/10.1080/19485565.1976.9988232
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 2
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:36
+
+Sex of Children and Ultimate Family Size by Time and Class
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Jerome H. Waller
+Human Genetics Program Departmentof Biostatistics University of Pittsburgh Pittsburgh, Pennsylvania ABSTRACT: Data from this study and five earlier studies are analyzed to determine the magnitude and significance of the influence of sex combinations of prior children upon the ultimate (or completed) number of children in the family. In addition to confirming the observation of earlier investigators that the influence of combinations of sexes in the first two children differs by geographic area, it is shown that a difference has occurred in a single region over time, and the data for the most recent cohort suggest an effect of social class as well. Three measures of association (the corrected odds ratio, the natural logarithm of this ratio, and the fourfold point correlation) point to a small magnitude of the influence studied even when it is present at a statistically significant level. Notes on sample size relative to levels of  and  errors are included, as is discussion of a valid method of combining contingency tables.
+
+Among the factors determining the number of persons to be supported by a finite earth are birth rate, age at reproduction, and mortality. Ultimate (or "complete") family size reflects the interaction of these three variables and can serve as an indicator of the rate at which a population is expanding or contracting in size. Several recent studies have indicated that the combination of sexes among the offspring already present may influence ultimate family size by affecting the decision of parents to limit their reproduction (Loyd and Gray, 1969; Ayala and Falk, 1971; Gray, 1972; Gray and Morrison, 1974).
+Empirical evidence on this point has been found to differ by geographic location and by (inferred) social class of the parents. An investigation of this question some twenty-five years ago (Thomas, 1951), using 470 families related to medical students at the University of Glasgow, found that the frequency of families having more than two children was sig-
+
+nificantly higher when the first two children were of the same sex than when they were of opposite sex. Loyd and Gray (1969) reported similar results when they studied 690 families of college students from central Kentucky.
+On the other hand, Ayala and Falk (1971) examined data for 425 immediate families of college students resident in New England and found no significant difference in these frequencies. In addition, they reanalyzed the data presented by Gray and pointed out that owing to the lack of independence between those families having only two children and those having more than two, Gray's statistical test was of "doubtful validity". Ayala and Falk then concluded that the sex of the first two children had indeed influenced family size in the Glasgow sample, but not in the two American studies.
+Three years after his first study with R. C. Loyd (Loyd and Gray, 1969), Gray
+(1972) collected data for 415 additional
+
+210
+
+Vol. 23, No. 3 Sex of Children and Ultimate Family Size
+
+211
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+families of students with the express pur- to the effect of the sex of the first three and
+
+pose of increasing the total sample size. first four children upon ultimate family
+
+Given the same marginal distributions in size. In each of Populations 1, 2, and 3, a
+
+the two tables, it is possible to force sig- higher percentage of parents increased
+
+nificance in a chi-square test of independ- their number of offspring when only one
+
+ence in a 2 x 2 table solely from the in- sex was represented in three prior off-
+
+crease in total number. When the data in spring. This difference was not statisti-
+
+Gray's 1969 and 1972 samples are com- cally significant in Population 3, but was
+
+pared, a more serious difficulty comes to significant for both Populations 1 and 2.
+
+light. The total proportion of parents hav- The authors suggested that the lack of
+
+ing more than two children is 59 per cent statistical significance in Population 3
+
+in the 1969 data and 75 per cent in the might be attributed to the smaller sample
+
+1972 data. Hence the significant chi- size (283 vs. 666 and 542) in Populations 1
+
+square for the combined data (x2 = 4.28, and 2 for this comparison). In the case of
+
+d.f. = \,p = 0.039) could be an artifact of the first four children being of the same
+
+the increased number and of the improper sex, in each of the populations a higher
+
+combination of two tables (for discussion percentage of parents augmented their
+
+of this point, see Li, 1961, pp. 84-86, and family than did those parents who had
+
+Fleiss, 1973, pp. 123-124). Thus we are children of both sexes among the first four.
+
+left with no significant effect of the combi- In none of the three populations did this
+
+nation of sexes in the first two children difference attain the 0.05 level of statisti-
+
+upon increase in family size from either set cal significance; and again the authors at-
+
+of the Kentucky data taken individually. tributed this lack of significance to small
+
+Gray and Morrison (1974) have reported the same comparison for three additional
+
+sample sizes (498, 360, and 142 in Populations 1, 2, and 3 respectively).
+
+groups. A fourth group was ascertained The general conclusion reached by Gray
+
+only through males in a Job Corps training and Morrison (1974) was that in some
+
+program and did not include any families populations "the desire that parents have
+
+with two girls as first two children. The for children of both sexes influences the
+
+three sets of data that are comparable to decision to have additional children."
+
+previous studies were obtained from They add that "this desire becomes a
+
+families of (1) 784 black college students at measurable force after two children in
+
+Kentucky State University and at Tennes- some populations and after three children
+
+see State University (Population 1); (2) 802 in other populations" (Gray and Morrison,
+
+Appalachian college students at Morehead 1974, p. 173).
+
+State University (Population 2); and (3) Since the samples studied to date have
+
+420 college students at Vanderbilt Univer- been ascertained through students in col-
+
+sity (Population 3). The chi-square values lege or medical school, their results can
+
+for these data (from 2 X 2 tables, using only be generalized to populations of that
+
+Yates' correction for continuity) are as fol- sort and not to the general population of lows: for Population 1, x2 = 0.13 (£ = the region. Whether the families rep0.71); for Population 2, x2 = 0.01 (j> = resented form a cross-section of any gen0.91); and for Population 3, x2 = 14.84(p eral population is unknown from the pub-
+
+< 0.001).
+
+lished data. One would suspect that each
+
+These same authors examined decision is biased to a different degree by this ascer-
+
+points other than that after two children, tainment method and might include more
+
+extending their analysis in each population persons of middle- and upper-class
+
+212
+
+Waller
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+backgrounds. In this connection, Rainwater (1965, p. 131) found that "concern about the sex of children seemed to be at its low point in the upper-middle class and at its high point in the upper-lower class." If this was so in the general population of each of the American studies, the findings of no significant difference between the reproductive behavior of parents having children of the same sex and those having prior children of both sexes would be expected a priori. The one anomalous case from this point of view would be the sample from Vanderbilt University (Gray and Morrison, 1974), and that anomaly might vanish if it were shown that the sample had included relatively more students from lower-class families due to recently broadened admission policies.
+With these studies in mind, the primary objective of the present investigation was to examine the reproductive history of a sample of persons representing a general regional population (the Upper Midwest of the United States or more particularly the state of Minnesota and its neighboring states) for an influence of combinations of sexes of the first two to four offspring upon ultimate (or completed) family size. A secondary objective was to investigate the effect of social status upon concern about the sex of the offspring, insofar as this could be inferred from the sex composition of completed families.
+MATERIALS AND METHODS
+Two earlier publications (Rao et al., 1973, and Waller et al. 1973) have discussed other aspects of a sample of 2,393 unions drawn from those in the pedigrees published by Elizabeth W. and Sheldon C. Reed (1965). Of this total number, 2,247 unions constituted the starting point of the present investigation. The difference (146 couples) is due to incomplete information for one or both spouses or for at least one of their offspring.
+
+TABLE l
+TOTAL NUMBER OF UNIONS IN BEGINNING SAMPLE, NUMBER EXCLUDED BY REASON
+FOR EXCLUSION, AND NUMBER INCLUDED IN STUDY
+
+Sample
+No. of unions in beginning sample
+Exclusions More than one union Only known union illegitimate Order of children unverified Proband parent Proband child or children Twins as first or second birth Year of birth of mother unknown Year of birth of mother outside 1843-1927 Still birth or infant death as first, second, or third Total exclusions
+Net no. of couples in study Zero-child families not otherwise excluded One-child families not otherwise excluded
+Net no. of families with two or more children
+
+No.
+2,247
+503 11 402 4 14 12 323 IS 37 1,356 891 134 139
+618
+
+Table 1 delineates the number of couples excluded from the present study and presents the reasons for their exclusion. The exclusions were done in the order stated and are nonoverlapping. The interval 1843 to 1927 for year of birth of the adult women resulted from two considerations. At first, the upper limit was conservatively established as the year 1917, taking into account that maternal age of 40 years signifies the completion of fertility for 98 per cent of the women in this population (see Waller, 1971) and that the bulk of the field work was completed by the Reed group around 1957. An additional 272 families were available from follow-up work done by the present author, completed in 1967 (see Table 2), and which consisted of the ten-year cohort by birth of mother between 1918 and 1927. Examination of the published data for 73 women from the larger sample born in this latter interval showed that the outcome of those unions did not differ significantly from the cohort more recently reexamined in either sex composition of the
+
+Vol. 23, No. 3
+
+Sex of Children and Ultimate Family Size
+
+213
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+offspring or in mean number of offspring. Hence the upper limit for year of birth of the women was raised to 1927. Since the generation length in human populations is approximately 25 years, it was possible to work backward from the ten-year cohort dates and include women born as early as 1843. The end result was three 25-year cohorts containing 99, 319, and 400 women respectively, and one ten-year cohort containing 375 women.
+Limitation of the present study to persons having two or more children further restricted the sample sizes to 75, 221, 258, and 336 (see Table 3). These data were then analyzed to shed light on the primary question: whether the combination of sexes in the first two to four children influences the decision to enlarge the family. Values of the occupational and educational status of the male parent were available for only 272 of the 336 couples in the 1918-27 cohort. These data were examined in an attempt to meet the second objective of the study, namely, whether concern about the combination of sexes among the children shows any association with socioeconomic status.
+Several nonparametric techniques were employed in addition to the straightforward contingency table analysis of earlier workers. Comparisons were made among the four possible combinations of sex of the first two children, in addition to grouping them as "same" vs. "different." This amounts to partitioning a 4 x 2 contingency table into three orthogonal components, each with a single degree of freedom. This partitioning ultilized adjustment for the variance of the column sums, as described by Li (1961, pp. 9597). Analysis for differences among cohorts, combinations in the first two children, and outcomes (Table 7) employed a three-way multiple chi-square technique. The Fortran program MCHISQ developed by the Learning Research and
+
+Development Center of the University of Pittsburgh was used in this comparison. For certain 2 X 2 tables Fisher's Exact Test was used, owing its use to small numbers in one or more cells. For this test, the Fortran program FEXACT (Sokal and Rohlf, 1969) was modified by the present author for use in time-sharing mode on the PDP-10 computer of the University of Pittsburgh.
+Probabilities of the values of chi-square were calculated using Jaspen's approximation (Jaspen, 1965) where noted; otherwise, they were obtained by use of the Monroe 1770 desk calculator. This last method was possible only where the degrees of freedom equaled one and took advantage of the fact that Xi2 d.f. = Z2. Hence one can take the square root of the chi-square value and use the Monroe 177O's preprogrammed calculation of areas under the unit normal curve to find the probability of the given chi-square value.
+RESULTS
+Taken together, the data of Tables 2 and 3 serve to characterize this sample more specifically. In Table 3, the data show a sharp decline in mean number of offspring for "all families" between the first and second cohort, no significant difference between the second and third, and a rise between the third and fourth. This last cohort includes women whose fertility was completed in the years after World War II. While the number in that cohort of this study is very small, the data at hand are at least consistent with national trends (Campbell, 1973). The distributions of numbers of offspring (Table 2) show that the observed changes in means (Table 3) were produced by a combination of decreasing proportions of childless women and decreasing proportions of families having six or more children. All of these means are higher than would be the na-
+
+214
+
+Waller
+
+Social Biology
+
+TABLE 2
+DISTRIBUTION OF FAMILY SIZE IN FIVE COHORTS OF WOMEN MARRIED ONLY ONCE
+
+NO. OF
+LIVING OFFSPRING
+(*)
+
+1843-1867
+
+' ~~~
+1868-1892
+
+BIRTH YEAR COHORTS*
+1893-1917
+
+1918-1927
+
+1918-1927
+
+0 1 2 3 4 5 6 7 8 9 10 11 12
+Total no. of unions
+
+10 48
+
+75
+
+1
+
+14 SO 67
+
+8
+
+5 76 99 18
+
+12 SI 45 14
+
+17 35 42 15
+
+13 24 26 10
+
+6 19 17
+
+3
+
+6 8 10 0
+
+3 2 92
+
+3 2 31
+
+7 3 40
+
+2 131
+
+1 0 00
+
+70 75 57 42 15 8
+0 0 0 0 0
+
+99 319 400 73 272
+
+* The first four cohorts, from 1843 through 1927, are members of the sample described in Table 1; the fifth cohort, 1918-1927, represents families in which the father's occupation and education were known (from sample of Waller, 1971).
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+tional norm for these cohorts, due to the "All Births," none of the observed propor-
+
+region and time period from which they tions deviates significantly from a popula-
+
+were sampled (see Reed and Reed, 1965, tion expectation of 106/100 for the second-
+
+pp. 50 and 51).
+
+ary sex ratio.
+
+The sex ratio data presented in Table 4 The data presented in Table 5 arecon-
+
+describe the experience of the parents in sistent with the hypothesis that there is no
+
+these four cohorts. Again, due to small significant effect of sex composition upon
+
+sample sizes, the standard errors of the increase in size of family across all four
+
+proportions are large and thus any infer- cohorts and considering the first two,
+
+ence about the effects of birth order upon three, or four children. Proceeding from
+
+sex is precluded. Even for the category the two-child cases to the four-child case
+
+TABLE 3
+MEAN NUMBER OF OFFSPRING IN FIVE COHORTS
+
+BIRTH YEAR COHORTS
+
+FAMILIES
+
+1843-1867*
+
+1868-1892*
+
+1893-1917*
+
+1918-1927*
+
+All Families No X ± s.e
+Families with two or more offspring
+No X ± s.e
+
+99 4.30 ± 0.311
+
+319 2.70 ± 0.119
+
+400 2.61 ± 0.116
+
+73 3.43 + 0.230
+
+75 5.49 ± 0.298
+
+221 3.67 + 0.124
+
+258 3.78 ± 0.130
+
+64 3.78 ± 0.229
+
+* Members of the sample described in Table 1. t Families for whom the father's occupation and education were known (from sample of Waller, 1971).
+
+1918-1927t
+272 3.54 ± 0.081
+
+Vol. 23, No. 3 Sex of Children and Ultimate Family Size
+
+ORDER OF
+BIRTH
+First Sex ratio No
+Second Sex ratio No
+Third Sex ratio No
+All births Sex ratio No
+
+TABLE 4
+OBSERVED SEX RATIOS AND BASE NUMBERS OF OFFSPRING FOR THE FOUR COHORTS BY ORDER OF BIRTHS
+
+BIRTH YEAR COHORTS
+
+1843-1867
+
+1868-1892
+
+1893-1917
+
+97.78/100 89
+87.50/100 75
+141.38/100 70
+92.76/100 426
+
+99.26/100 271
+100.91/100 221
+110.14/100 145
+102.83/100 860
+
+98.17/100 325
+109.76/100 258
+106.49/100 159
+103.52/100 1042
+
+215
+1918-1927
+104.22/100 339
+101.16/100 346
+91.73/100 255
+101.12/100 1261
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+in each cohort, the total number of families increasing should equal the total number of families in the next comparison. That they do not is due to the deliberate omission of cases in which the third or subsequent birth was either a multiple birth, a retarded person, or an infant death. One example may suffice to illustrate this point. Examination of the data for the cohort 1918-27 shows that 247 families had more than two children; yet only 244 were included in the next comparison. Of the 157 having more than three children, only 152 qualified for inclusion in the third comparison. Hence in the first case three were omitted, and in the next case five were omitted.
+By partitioning the total chi-square value for the dichotomy "Stop vs. Increase" by four combinations of sexes among the first two offspring, it is possible to examine three orthogonal comparisons. In addition to testing the "Same vs. Different" dichotomy among combinations, one may test two further hypotheses: (1) that there is no difference in proportion increasing when the first two were both male (BB) as compared with both females (GG); and (2) that in families having both sexes represented in the first two, the
+
+proportion increasing was no different whether the male was the first-born (BG) or the female was the first (GB). The data in Table 6 show a difference under Hypothesis 1 for the second and fourth cohorts, reaching a low level of probability (p = 0.034) only for the most recent (fourth) cohort. In this latter case, the difference could be interpreted as "desire for a girl." We fail to reject Hypothesis 2 for any of the cohorts studied; the inference is that there is no influence of order of the first two upon increasing the number of offspring.
+Omitting the first cohort (Cl) solely because of its small sample size (N = 75) leads to comparisons among the remaining three, which may be thought of as three generations of families. These three are designated C2, C3, and C4 in Table 7, a multiple chi-square analysis. The hypothesis of independence of cohort and outcome is rejected (p = 0.0080). This low probability value for the overall comparison is attributable to the fact that the most recent cohort (C4) is different in the portion increasing across all combinations of the sex of the first two (p = 0.0031). This difference is also reflected in the comparison of mean family size alluded to above
+
+216
+
+Waller
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+TABLE 5
+EFFECT OF SEX COMPOSITION OF THE FIRST TWO, THREE, AND FOUR CHILDREN UPON COMPLETED FAMILY SIZE IN THE FOUR COHORTS
+
+COHORTS AND FAMILY SEX COMPOSITION
+
+Stopped
+
+OUTCOME
+Increased
+
+Total
+
+PROPORTION INCREASING (qt)
+
+Birth years 1843-1867
+
+First two
+
+Same
+
+Different
+
+Totals
+
+First three
+
+Same
+
+Different
+
+Totals ..
+
+....
+
+First four
+
+Same
+
+Different
+
+....
+
+Totals
+
+Birth years 1868-1892
+
+First two
+
+Same
+
+Different
+
+Totals
+
+....
+
+First three
+
+Same
+
+Different . .
+
+....
+
+Totals
+
+First four
+
+Same
+
+... ....
+
+Different .
+
+....
+
+Totals
+
+Birth years 1893-1917 First two Same
+Different
+Totals First three
+Same
+Different
+Totals First four
+Same
+Different . Totals
+
+Birth years 1918-1927
+
+First two
+
+Same
+
+Different .
+
+Totals
+
+First three
+
+Same
+
+.
+
+Different
+
+Totals
+
+First four
+
+Same
+
+Different .
+
+Totals
+
+... ...
+
+* Jaspen's approximation (1965).
+
+2 3 5
+4 8 12
+1 14 15
+33 43 76
+16 35 51
+4 29 33
+48 51 99
+16 29 45
+6 35 41
+43 45 88
+19 68 87
+3 68 71
+
+31 33 39 42 70 75
+17 21 41 49 58 70
+9 10 32 46 41 56
+81 114 64 107 145 221
+29 45 64 99 93 144
+7 11 51 80 58 91
+83 131 76 127 159 258
+27 43 87 116 114 159
+9 15 58 93 67 108
+127 170 117 162 244 332
+37 56 120 188 157 244
+10 13 71 139 81 152
+
+0.939 0.929 0.933
+0.810 0.837 0.829
+0.900 0.696 0.723
+0.711 0.598 0.656
+0.644 0.646 0.646
+0.63636 0.63850 0.637
+0.634 0.598 0.616
+0.628 0.750 0.717
+0.600 0.624 0.620
+0.747 0.722 0 735
+0.661 0.638 0.643
+0.769 0.511 0.533
+
+0.62 0.51 0.18
+0.05 0.56 0.62
+0.33 0.09 0.54
+0.35 0.44 0.07
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+TABLE 6
+SUMMARY OF THE PARTITIONED CONTRASTS (SINGLE DEGREE OF FREEDOM X2) FOR THE 4 X 2 CONTINGENCY TABLE OF SEX COMPOSITION OF THE FIRST T W O BY OUTCOME, FOR THE FOUR COHORTS
+
+1843-1867 Outcome
+
+1868-1892 Outcome
+
+Birth Year Cohort 1893-1917
+Outcome
+
+1918-1927 Outcome
+
+SEX OF FIRST TWO
+
+Stop
+
+Increase
+
+Per Cent Increasing Stop Increase
+
+Per Cent Increasing
+
+BB 0 15
+GG 2 16
+P = 0.290*
+
+BG 2 20 GB 1 19
+P = 0.537*
+
+Same Different . . .
+
+2 31 3 39
+P = 0.615*
+
+100.00 76.19
+90.91 95.00
+93.94 92.86
+
+* Cumulative probability from Fisher's Exact Test t Adjusted for the variance of the column sums (see Li, 1955),
+
+21 38
+
+64.41
+
+12 43
+
+78.18
+
+Adjustedt X2 = 2.394
+
+p = 0.122
+
+22 33
+
+60.00
+
+21 31
+
+59.62
+
+Adjustedt X2 = 0.002
+
+p = 0.964
+
+33 81
+
+71.05
+
+43 64
+
+59.81
+
+Adjustedt x2 = 3.090
+
+* = 0.079 Total x2 = 5.486, d.f. = 3
+
+0.10 < p < 0.20
+
+Stop Increase
+
+Per Cent Increasing
+
+23 42
+
+64.62
+
+25 41
+
+62.12
+
+Adjustedt X2 = 0.086
+
+p = 0.769
+
+24 33
+
+57.89
+
+27 43
+
+61.43
+
+Adjustedt x2 = 0.166
+
+p = 0.684
+
+48 83
+
+63.36
+
+51 76
+
+59.84
+
+Adjustedt x2 = 0.337
+
+P = 0.562 Total x2 = 0.589
+
+0.80 < p < 0.90
+
+Stop Increase
+
+Per Cent Increasing
+
+16 71
+
+81.61
+
+27 56
+
+67.47
+
+Adjustedt x2 = 4.494
+
+p = 0.034
+
+27 57
+
+67.86
+
+18 60
+
+76.92
+
+Adjustedt x2 = 1-657
+
+p = 0.198
+
+43 127
+
+74.41
+
+45 117
+
+72.22
+
+Adjustedt x2 = 0.263
+
+p = 0.608 Total x2 = 6.328
+
+0.05 <p < 0.10
+
+o
+to
+3p
+w
+tx
+H 0 ft
+a
+to
+sI
+s
+(?
+8!
+1
+
+N)
+
+218
+
+Waller
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+TABLE 7
+
+SUMMARY OF TESTS OF INDEPENDENCE IN THE THREE-WAY TABLE OF COHORT (C) BY SEX OF FIRST T W O (S) BY OUTCOME (O)
+
+Hypothesis Tested
+C x O independence C2 vs. C3 C4 vs. others
+C x S independence
+S x O independence BB vs. GG BG vs. GB BB + GG vs. BG + GB
+C x S x O interaction
+C x S x O independence
+* Earliest cohort excluded (see text), t Jaspen's approximation (1965).
+
+d.f. x2
+2 9.696 1 0.861 1 8.835
+6 1.749
+3 3.631 1 0.370 1 0.813 1 2.448
+6 7.838
+17 22.915
+
+0.008 0.337 0.003
+0.88
+0.303 0.55 0.328 0.113
+0.249
+0.151
+
+(see Table 3). Among the remaining comparisons, it is interesting to note that only one even approaches the 0.10 probability level, and that this is in effect the 2 x 2 table of "Stop vs. Increase" by "Same vs. Different," collapsed across cohorts.
+Complete information for calculating the Hollingshead Two-Factor Index of Social Position was available for 272 families (see Table 2); however, five of these
+
+families were omitted from Table 8 because there were twins as first or second births. In the comparison of proportion of families increasing for "Same vs. Different," examination of the data for the middle and lower classes shows a suggestive reversal of preference. Insofar as these proportions indicate a "concern" about the sex composition of the family, it appears that whereas there is no significant effect
+
+TABLE 8
+SUMMARY OF THE PARTITIONED CONTRASTS (SINGLE DEGREE OF FREEDOM X2) FOR THE 4 X 2 CONTINGENCY TABLES OF SEX COMPOSITION BY OUTCOME FOR T H R E E BROAD SOCIAL CLASSES I N 267 FAMILIES
+
+SOCIAL CLASS*
+
+Upper
+
+Middle
+
+Lower
+
+Outcome
+
+Outcome
+
+Outcome
+
+SEX OF FIRST TWO
+
+Stop Increase
+
+Per Cent Increasing
+
+Stop Increase
+
+Per Cent Increasing Stop Increase
+
+Per Cent ]Increasing
+
+BB 3 GG 2
+
+BG. 5 GB 1
+
+Same .. . . . Different
+p = 0.631t
+
+5 6
+
+11 78.57 5 71.43
+p = O.557t
+
+7 24
+
+77.42
+
+16 18
+
+52.94
+
+Adjusted* x2 = 4.422
+
+p = 0.033
+
+7 58.33 12 92.31
+p = 0.063t
+
+15 27
+
+64.29
+
+6 22
+
+78.57
+
+Adjusted* x2 = 1-561
+
+p = 0.209
+
+16
+
+76.19
+
+23
+
+42
+
+64.62
+
+19
+
+76.00
+
+21
+
+49
+
+70.00
+
+Adjusted* x2 = 0.445
+
+P = 0.540
+
+2 16 2 23
+
+88.89 92.00
+
+p = O.562f
+
+5 17 6 15
+
+77.27 71.43
+
+p = 0.464t
+
+4 39 11 32
+
+90.70 74.42
+
+P = 0.043t
+
+* "Upper" represents scores of 11 through 30 on the Hollingshead Two-Factor Index of Social Position (ISP); "Middle," 31 through 47; and "Lower," 48 through 77.
+t Cumulative probability, using Fisher's Exact Test. t Adjusted for the variance of the column sums (see Li, 1955).
+
+Vol. 23, No. 3 Sex of Children and Ultimate Family Size
+
+219
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+TABLE 9
+SUMMARY OF TESTS OF INDEPENDENCE IN THE THREE-WAY CONTINGENCY TABLE OF SOCIAL CLASS (SES) BY SEX OF FIRST TWO (S) BY OUTCOME (O) FOR 272 FAMILIES
+
+Hypothesis Tested
+SES X O independence Middle vs. lower Upper vs. others
+S x O independence BBvs. GG BGvs. GB BB + GG vs. BG + GB
+SES x S independence
+SES X O x S interaction
+SES x O x S independence
+* Jaspen's approximation (196S).
+
+d.f. X !
+
+2 7.150 1 . . . 6.936 1 . . . 0.214
+
+3 4.092
+
+1 ...
+
+1.415
+
+1 . . . 2.515
+
+1 . . . 0.162
+
+6 6.471
+
+6 11.587
+
+17 29.300
+
+P*
+0.03 0.01 0.65
+0.2S 0.23 0.11 0.69
+0.37
+0.07
+0.03
+
+in the data for the middle class, there is a matter of degree of association between
+
+marked tendency for lower-class couples these two. Table 10 summarizes the value
+
+to have additional children beyond two of three of these measures from earlier
+
+after having two of the same sex. Subdivi- studies and for this investigation, namely:
+
+sion of the lower class into SES IV (ISP 1. The odds ratio, co, estimated here by
+
+scores of 48 to 63) and SES V (ISP scores the corrected sample estimate o', which
+
+of 64 to 77) leaves only IS families in the has a value of 1.0 when there is no associa-
+
+lowest group. In SES IV, the 2X2 table of tion. In our application, the two condi-
+
+"Same vs. Different" by "Stop vs. In- tions, same-sex first two and different sex
+
+crease" for 71 families yields a probability first two, are antecedent to the stop-
+
+of 0.055 for Fisher's Exact Test (two- increase dichotomy, and the odds ratio is
+
+tailed). This result is consonant with the quotient of two odds, i.e.,
+
+Rainwater's (1965) suggestion cited above.
+
+Table 9 contains the results of a multipi,e ch, .i-square test of, .ind,ependence among
+
+> (Stop / Same sex) Ip (Increase / SameSex)
+p (Stop / Different) Ip (Increase / Different)
+
+social class, sex of first two children, and and is calculated from the sample values
+
+outcome (decision to increase family size nu:
+
+or stop). From this table it can be seen that
+
+.,,.,..
+
+, ,,
+
+.,
+
+the lack of independence between social
+
+, -v ,
+
+, (n,, + 0.5) (n22 + 0.5)
+
+o =--, "
+
+'-- "
+
+'--.
+
+class and outcome^ = 0.027) is accounted
+
+for by the single degree of freedom con- The standard error of the odds ratio,
+
+trast between the middle and lower which indicates its precision and is not
+
+classes. The interaction term has a low used for significance testing, is:
+
+probability of occurring by chance alone(p
+
+= 0.071), and the overall hypothesis of s.e.(o') =
+
+independence of social class, outcome, and combination of sexes in the first two can be rejected at the 0.05 level.
+Beyond the question of statistical signincance of the association between sex of
+
+, /I
+
++1
+
+' nu + 0.5 nn + 0.5
+
+!j
+
++ M21 + o.5 + w22 + 0.5
+
+the first two offspring and the observed 2. The natural logarithm of the odds
+
+dichotomy "Stopped vs. Increase," is the ratio, which takes on the value V = 0
+
+TABLE 10
+COMPARISON OF STATISTICS OF ASSOCIATION FOR FIVE PREVIOUS STUDIES AND FOR THE PRESENT STUDY*
+
+to
+o
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+REFERENCE
+Thomas (1951)
+Ayala and Falk (1971) "Old" families "Young" families
+Loyd and Gray 1969)...;
+Gray (1972)
+Gray and Morrison (1974) Population 1 Population 2 Population 3
+Present study 1843-1867 cohort 1868-1892 cohort 1893-1917 cohort 1918-1927 cohort
+1918-1927 cohort: SES data known Upper class Middle class Lower class
+* Interpretations in text. t 0.0002. t 0.0013.
+
+NO.
+470
+
+Odds ratio (corrected)
+(s.e.)
+0.50 (0.113)
+
+MEASURES OFASSOCIATION
+
+Ln of o'
+
+(s.e.)
+
+-0.68
+
+(0.225)
+
+Weight
+19.70
+
+0.14
+
+(s.e.) (0.046)
+
+X2 FOR SIGNIFICANCE TESTING
+9.51 0.002
+
+101 1.46 324 0.99
+690 0.78
+415 0.71
+
+(0.611) (0.268)
+(0.121)
+(0.161)
+
+784 1.09 (0.216)
+
+802 0.99 (0.150)
+
+420 0.45
+
+(0.096)
+
+75 0.89 (0.771)
+
+221 0.60 (0.173)
+
+258 0.86
+
+(0.220)
+
+332 0.88 (0.218)
+
+46 1.00 (0.669)
+
+135 1.27 (0.463)
+
+86 0.32
+
+(0.194)
+
+0.38 -0.01
+-0.24 -0.33
+0.09 -0.01 -0.79
+-0.11 -0.49 -0.14 -0.12
+0.00 0.24 -1.13
+
+(0.417) (0.270) (0.154) (0.226)
+(0.197) (0.151) (0.213)
+(0.861) (0.283) (0.255) (0.247)
+(0.669) (0.364) (0.604)
+
+5.73 13.67 41.84 19.53
+25.75 43.70 22.01
+1.34 12.40 15.36 16.30
+2.23 7.53 2.73
+
+0.09 0.00 0.05 0.07
+0.01 0.00 0.18
+0.02 0.11 0.03 0.02
+0.00 0.05 0.21
+
+(0.099) (0.055) (0.038) (0.049)
+(0.035) (0.035) (0.048)
+(0.115) (0.067) (0.062) (0.054)
+(0.147) (0.086) (0.107)
+
+0.84
+o.oot
+2.42 2.23
+0.21
+o.oot
+14.05
+0.03 3.09 0.33 0.26
+o.oot
+0.44 3.95
+
+0.357 0.987 0.119 0.134
+0.641 0.971 0.000
+0.851 0.078 0.561 0.608
+0.988 0.504 0.046
+
+s
+oa
+E
+55?'
+
+Vol. 2 3 , No. 3 Sex of Children and Ultimate Family Size
+
+221
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+when there is no association. Its standard error is estimated by
+s.e.(t') = i ;i
+
+3. What sample size would be required to be relatively certain of recognizing a statistically significant difference, say, of 12 per cent as found by Thomas (1951) at a = 0.05?
+
+n,, + O.S
+
+0.5
+
+With regard to the first question, the
+
+1 1 families ascertained were related to stu-
+
+n21 + O.S
+
+n22 + 0.5
+
+dents in all the studies except the present
+
+3. The familiar phi coefficient which one. This relationship may have biased
+
+takes on values from zero when no associ- the results toward a lack of association, so
+
+ation exists to +1.0 when there is perfect that a conservative evaluation of the re-
+
+association, and which is one means of sults of previous investigations might be
+
+adjusting for the sensitivity of chi-square phrased thus: "There appear to be geo-
+
+values to inflated sample sizes. The values graphic differences in the observed
+
+of chi-square in Table 10 upon which the influence of the sex combinations in the
+
+calculations of <}> are based are not cor-first two offspring upon the ultimate num-
+
+rected for continuity, so that
+
+ber of children produced by families who
+
+had at least one child whose educational
+
+level was at the first year of college or
+
+The standard error of (f> for large N is beyond. Even where a statistically sig-
+
+approximately llJN~.
+
+nificant association was found, the degree
+
+In addition, Table 10 presents the un- of association was not great, as indicated
+
+corrected chi-square values and their as- by calculated values of the odds ratio, the
+
+sociated probabilities.
+
+log of the odds, or the fourfold point corre-
+
+From these summary statistics, it is ap- lation (<j} coefficient)." The present investi-
+
+parent that only three samples have shown gation is in agreement with all the Ameri-
+
+a statistically significant association be- can studies except Population 3 of Gray
+
+tween the sex of the first two offspring and and Morrison (1974) in finding no associa-
+
+the procreation of additional children. tion, but does suggest that the classifica-
+
+These samples are the data of Thomas tion of families by the occupation and edu-
+
+(1951), Population 3 of Gray and Morrison cation of the male parent may reveal a
+
+(1974), and the lower-class sample of the difference associated with class member-
+
+1918-27 cohort of the present investiga- ship.
+
+tion. Secondly, the inflation of chi-square by
+
+DISCUSSION
+
+increasing the sample size through combining two contingency tables (Gray,
+
+There are at least three aspects of the 1972) merely forces significance and is not
+
+question of the influence of the sex of prior valid unless the marginals have nearly
+
+offspring upon the parental decision to equal mean and variance. In the two
+
+augment the number of children that are samples under discussion, the means (Np)
+
+raised by all these investigations (the were different (286 vs. 105) and so were
+
+present study included):
+
+the variances Npq (167.5 vs. 78.4). One
+
+valid method for combining the evidence
+
+1. Was the sample representative of any specific population?
+2. What was the result of combining contingency tables whose marginal frequencies were unequal?
+
+from these two tables is to use the appro-
+priate Li and wt from Table 10 to evaluate the homogeneity of the two data sets (X2homog) a n d if they are not significantly
+
+222
+
+Waller
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+heterogeneous, to evaluate the association hypothetical investigator would accept the present in the two data sets (x2assoc)- Fol- difference observed as a "real" one, given
+
+lowing the procedure outlined in Fleiss the above stipulations. (1973, pp. 115-117), we find that x2homog Given the observed values for Popula-
+
+= 0.12S (d.f. = 1, p = 0.72) and since the tion 3 of Gray and Morrison, and stipulat-
+
+data sets are thus not significantly hetero- ing that a = 0.05 and /3 = 0.20, the regeneous, we calculate x2assoc = 4.S03 quired sample size for the stated difference
+
+(d.f. = 1, p = 0.03)^ The mean log of the of 0.172 is 178 per group. Their numbers
+
+odds for these data (Z-')is 0.2 71, or in more of cases are 213 for families with same sex
+
+familiar terms the mean odds ratio (o') is first two and 207 with different sex first
+
+1.31, with an associated standard error of two. This difference then satisfies all our
+
+0.167. Thus, for the combined sample, criteria, and we can reject the hypothesis
+
+there is significant association between sex of no difference in proportion increasing(p
+
+combination in prior children and the ob- < 0.001, see Table 10).
+
+served increase of number of offspring to more than two, and it appears that parents having two children of the same sex are (approximately) 1.3 times as likely to increase their number of offspring, when compared to parents having one boy and one girl.
+
+The remaining group showing a statistically significant association is the lower class of the 1918-27 cohort of the present study, in which 0.9070 (90.7 per cent) of families with same-sex first two increased, as opposed to 0.7442 (74.4 per cent) of families with different-sex first two. Al-
+
+The third general question also relates though the chi-square value is significant to statistical considerations. Suppose that (X2 = 3.957, d.f. = 1, p = 0.046), the
+
+an investigator wants to detect a differ- sample size is small. This result gives rise
+
+ence in the proportion increasing that is to the question of what risk there is of
+
+equal to 0.12 (approximately that found by accepting the false null hypothesis of no
+
+Thomas). Further, suppose that he will be difference. The value of/3 for these data
+
+satisfied with a Type I error of 0.0S, and lies between 0.50 and 0.55, and if we were
+
+wants to be 80 per cent certain of detecting to hold to our requirement that/? = 0.20,
+
+a difference at that level if one exists. the required sample size for this mag-
+
+What sample size is necessary, given Ap = nitude of difference in proportion is 81
+
+0.12, a = 0.05, and/3 = 0.20? If he spec- families per group. On this basis, the ob-
+
+ifies the two proportions that result in this servation is merely suggestive and by no
+
+difference, he can calculate the number means definitive, even though it is con-
+
+needed from published tables or from sistent with the observation of Rainwater
+
+mathematical formulas. One small table in (1965) that "concern about the sex of chil-
+
+Sokal and Rohlfs text Biometry (1969) en- dren seemed to be . . . at its high point in
+
+ables us to specify the requisite sample size the upper-lower class."
+
+using the proportion of families increasing and having two different-sex prior offspring from Thomas (1951), a value of 0.72. The appropriate sample size is 193 per group.
+
+Examination of the data of the present study presented in Tables 3 and 6 suggests a relationship between ultimate family size (in families having two or more children) and the influence of sex of the first two
+
+Interestingly enough, Thomas observed offspring upon the augmentation of the
+
+259 families whose first two children were number of children. The association in the
+
+of the same sex, and 211 families whose fourfold tables (Same vs. Different by Stop
+
+first two were of different sex. Hence our vs. Increase) for the four cohorts, as indi-
+
+Vol. 23, No. 3 Sex of Children and Ultimate Family Size
+
+223
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+cated by the p levels for these tables, ap- some populations and after three children
+
+pears to be stronger when mean family in other populations" (p. 173). Table 5
+
+size is smaller. In this respect, the samples presents similar data from the families of
+
+of the present study resemble those of this study. The earliest cohort (1843-67)
+
+Gray and Morrison (1974).
+
+shows a marked difference in proportion
+
+The speculation that parents who intend to limit their family size are more concerned about the sex composition of their offspring is invited by this kind of data, but the evidence of studies done to date is contradictory. Ayala and Falk (1971), for example, failed to find any influence of the sex of the two prior children upon increase of family size in a group of families having a mean family size of 3.09 children. In all the above cases, the families studied had two or more children, but as the data of Tables 2 and 3 show, the decline in mean family size for those with two or more children parallels that for the total adult sample in each case. This decline is accompanied by an increase in the proportion of nonreproducing adults from 0.10 (1843-67) through 0.1S (1869-92) to 0.19 (18931917). These factors parallel the general experience of U.S.' women for this time period (Campbell, 1973). The fourth
+
+increasing after four children of the same sex, even though the sample size is too small for the comparison to reach statistical significance. In contrast, the next cohort (1868-92) shows the effect after two children, but not after three or four. The 1893-1917 cohort shows a difference in proportion increasing after three children, but in the opposite direction and only at p = 0.09; this same direction of difference is also seen at this point in the two earlier cohorts. The most recent group, which is probably comparable in span of reproduction to the other American studies, shows a consistent and increasing difference in proportion after the second, third, and fourth. The probabilities stated in this table are all from Fisher's Exact Test and are appropriate for one-tailed tests of hypotheses; their values are consistent with but are not expected to be identical to the chi-square values of Table 6, since chisquare is two-tailed.
+
+cohort shows a rise in mean family size for the 73 families ascertained in the present investigation (Table 3), and this too is similar to the reproductive behavior of the general population. These are the parents who contributed to the "baby boom" after World War II.
+
+Returning to the consideration of the sex of the first two children, the partition of the total chi-square values into single degree-of-freedom contrasts is shown in Table 6. While generalization of these results is limited due to the small number of families observed, these data show some
+
+Gray and Morrison (1974) examined interesting differences that may reflect
+
+their data for an effect of sex composition changes in preference over time. The con-
+
+of the first three and first four children trasts with the lowest probabilities of oc-
+
+upon the increase in family size and found curring by chance alone are: (1) in the
+
+that in Populations 1 and 2 the largest 1843-67 cohort, the contrast between
+
+difference in proportion increasing oc- families with two boys vs. two girls; (2) in
+
+curred after the third child, whereas in the 1868-92 cohort, the contrast between
+
+Population 3 a large difference was appar- families with the first two of the same sex
+
+ent after the second child. Hence they con- (whether male or female) vs. those with
+
+cluded that the desire that parents have children of different sex; (3) in the 1893-
+
+for children of both sexes "becomes a 1917 cohort, the same as in Cohort 2
+
+measurable force after two children in (1868-92), but with much smaller differ-
+
+224
+
+Waller
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+ences in each subdivision; (4) in the total In much the same way that Table 7
+
+1918-27 cohort, the same as in Cohort 1 summarizes Table 6, Table 9 summarizes
+
+(1843-67), and with the lowest probability Table 8. The statistically significant lack
+
+of any of the tabulated contrasts.
+
+of independence between social class
+
+Were these differences to be true in (SES) and outcome seen in Table 9 arises
+
+larger samples from the same time peri- mainly from the difference in direction
+
+ods, one might make the inference that the and magnitude of the last contrast in
+
+strength of preference for a combination of Table 8 across these three broad social
+
+boys and girls among the offspring has classes. It is this contrast in reproductive
+
+varied over time, reaching a high point behavior that has been described above as
+
+among those families in the 1868-92 "suggestive" due to the relatively small
+
+cohort. Considering those families who number of families in each group. This
+
+have two children of the same sex as the difference, and in fact the analysis by so-
+
+first two, there appears to have been a cial class of the effect of the combinations
+
+switch in preference from the second of sexes among offspring upon ultimate
+
+through fourth cohorts, from "desire for a family size, merits replication in other
+
+boy" through no difference to "desire for a places.
+
+girl." In those families who already had a Finally, Table 10 is designed to present
+
+child of each sex, one might infer a similar a summary of the data from five earlier
+
+change in the same time period, from "de- studies and from the present study in sire for another boy" to "desire for another terms of three indices of association and
+
+girl."
+
+shows that on the whole there is little
+
+Analysis of the above data (Table 6) can influence of the combinations of sexes in
+
+be summarized by the statistical technique the first two children. Although three
+
+of a multiple chi-square analysis of the groups give evidence of some influence,
+
+categories. In Table 7 are presented the that influence appears from the association
+
+tests for independence of Cohort and Out- statistics to be relatively small even when
+
+come, with the first cohort excluded be- present. For example, the phi coefficient
+
+cause its small numbers (and one cell with (<£) for the study of Thomas (1951) is only
+
+a value of zero) would lead to inflated 0.142; for Population 3 of Gray and Morri-
+
+values for the chi-square statistic. Here it son (1974), it is 0.183; and for the lower
+
+can be seen that the difference in "prefer- social class in the present study, it is
+
+ence" evident from Table 6 leads to rejec- higher, but still only 0.214. The weights
+
+tion of the hypothesis of independence of («$) given in Table 10 may be used in
+
+Cohort and Outcome at a statistically combining the natural logarithm of the
+
+highly significant level. Within this com- odds ratio (where this is deemed appropri-
+
+parison are two orthogonal contrasts, from ate) to obtain both an average value forZ,'
+
+which it is evident that data for the most and a test of significance of the degree of
+
+recent cohort give rise to this rejection. association. This particular weight, the
+
+Another look at Table 6 shows that this in reciprocal of the squared standard error, turn results from the small difference in equals 5(l/<72) and thus utilizes the fact
+
+percentage of families increasing in the that there is more information in a larger
+
+"same vs. different" contrast, as compared sample. This technique was used above to
+
+with that contrast in the two earlier demonstrate the proper method of com-
+
+cohorts. None of the other components of bining the sample of Loyd and Gray (1969)
+
+the multiple chi-square analysis are statis- with the additional data collected by Gray
+
+tically significant.
+
+(1972).
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 2 3 ,No. 3
+
+Sex of Children and Ultimate Family Size
+
+225
+
+SUMMARY AND CONCLUSIONS
+The observed data from five earlier studies and the present investigation of the influence of the sex combinations ofprior children upon the ultimate (or completed) number ofchildren in the family are presented. Data from all sources are discussed in terms of three measures of association: the corrected odds ratio (o')> the natural logarithm of this ratio (Z,*), and the phi coefficient (<£) or fourfold point correlation.
+
+differs by geographic area, it is shown that a difference has occurred in asingle region over time; and the data for the most recent cohort suggest an effect of social class as well. Taken together, all the statistical techniques used point to a small magnitude ofthe influence studied even when present ata statistically significant level.
+Notes on sample size relative to levels of a and j8 are included, as is a discussion of a valid method ofcombining contingency tables.
+
+The present study draws upon data
+
+from thepedigrees of Reed and Reed
+
+ACKNOWLEDGMENTS
+
+(1965), deleting families with multiparous An earlier verion of this paper was presented
+
+births and families with retarded children at the Behavior Genetics Association Meeting
+
+or parents. The exclusions are outlined in detail and result in a sample of persons
+
+in Minneapolis (1974). The present extensive revision was made possible through the work of Drs. Sheldon and Elizabeth Reed andtheir
+
+claimed to be representative of a general daughter Catherine, whoworked together ver-
+
+Upper Midwest population, broken down by three twenty-five year cohorts and one
+
+ifying the birth order information and recording theyear of birth of each adult. Theauthor wishes to thank them very much for that vital
+
+ten-year cohort by year of birth of the contribution.
+
+female (1843-67, 1868-92, 1918-27).
+
+1893-1917,
+
+This investigation was supported in part by NIEHS grant No. 5TO1ESOO117-O7, and by the General Research Support Grant to the
+
+In addition to the observation of earlier University of Pittsburgh Graduate School of
+
+investigators that the influence ofcombi- Public Health.
+
+nations of sexes in the first two children
+
+REFERENCES
+
+AYALA, F. J., and C. T. FALK. 1971.Sexof children
+and family size. J. Hered. 62:57-59. CAMPBELL, A. A. 1973. Three generations of par-
+ents. Fam. Plan. Persp. 5:106-112. FLEISS, J. L. 1973. Statistical methods for rates and
+proportions. John Wiley and Sons, New York. GRAY, E. 1972. Influence of sex of first two children
+on family size. J. Hered. 63:91-92.
+GRAY, E., and N. M. MORRISON. 1974. Influence of
+combinations ofsexes ofchildren on family size. J. Hered. 65:169-174. JASPEN, N. 1965. The calculation of probabilities corresponding to values ofZ, t, F, and 2. Educ. Psych. Meas. 25:877-880. LI, C. C. 1955. Human genetics: Principles and methods. McGraw-Hill, New York. LOYD, R. C., and E. GRAY. 1969. A statistical study of the human sex ratio. J. Hered. 60:329-331.
+
+RAO, B. R., S. MAZUMDAR, J. H. WALLER, and C.
+C. Li. 1973. Correlation between the numbersof two types of children in a family. Biometrics 29:271-279. RAINWATER, L. 1965. Family design. Aldine, Chicago. REED, E. W., and S. C. REED. 1965. Mental retardation: A family study. Saunders, Philadelphia.
+SOKAL, R. R., and F. J. ROHLF. 1969. Biometry.
+Freeman, San Francisco. THOMAS, M. H. 1951. Sex pattern and size of family.
+Brit. Med. J. 1:733-734. WALLER, J. H. 1971. Differential reproduction: Its
+relation to IQ test score, education, andoccupation. Soc. Biol. 18:122-136.
+WALLER, J. H., B. R. RAO, and C. C. Li. 1973.
+Heterogeneity of childless families. Soc.Biol. 20:133-138.
+
+

@@ -1,0 +1,1593 @@
+Eugenics Quarterly
+ISSN: 0097-2762 (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi18
+Estimation of the direction and intensity of natural selection in relation to human intelligence by means of the intrinsic rate of natural increase
+Carl Jay Bajema
+To cite this article: Carl Jay Bajema (1963) Estimation of the direction and intensity of natural selection in relation to human intelligence by means of the intrinsic rate of natural increase, Eugenics Quarterly, 10:4, 175-187, DOI: 10.1080/19485565.1963.9987564 To link to this article: http://dx.doi.org/10.1080/19485565.1963.9987564
+Published online: 23 Aug 2010.
+Submit your article to this journal
+Article views: 8
+View related articles
+Citing articles: 65 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi18
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:27
+
+ESTIMATION OF THE DIRECTION AND INTENSITY OF NATURAL SELECTION IN RELATION TO HUMAN INTELLIGENCE BY MEANS OF THE INTRINSIC RATE OF NATURAL INCREASE
+
+CARL JAY BAJEMA
+Department of Biology Grand Valley State College
+Allendale, Michigan
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+INTRODUCTION
+The great changes now taking place in the social structure of human societies undoubtedly have an effect on the direction and intensity of natural selection. Whether a given human characteristic, such as intelligence, is favored or discriminated against in terms of reproductive performance may very well be a function of the social practices prevailing at the time. It is desirable, therefore, to investigate reproductive differentials in a variety of human societies at frequent intervals in order to assess the biological consequences of various social practices.
+Cole (1954), in his discussion of the theoretical consequences of life history phenomena, has clearly demonstrated the necessity of taking into account the total life history pattern of the population being studied if an accurate estimation of the direction and intensity of natural selection in relation to a particular trait is to be made. The probability of making an erroneous conclusion concerning the direction and intensity of natural selection in relation to a behavioral trait such as intelligence is greatly increased if subtle differences in such factors as generation length, mortality rates, and the proportion of nonreproductive individuals are ignored. Anastasi (1956), in her review of the literature concerning the relationship between intelligence
+
+and fertility, has pointed to the fact that, since the observed correlations between intelligence and fertility are generally quite low, the operation of a very small selective factor could produce a completely spurious result.
+In the past, investigators have sometimes erred in their estimates of the direction and intensity of natural selection in relation to intelligence because they failed to consider one or more of the variables which affect population growth. Differentials in the following variables must be taken into account when measuring natural selection:
+1. Number of offspring per fertile individual.
+2. Proportion of nonreproductive individuals.
+3. Mortality rates up to the end of the childbearing period.
+4. Generation length. The life table method, which involves computing the intrinsic rate of natural increase, provides the only means currently available whereby all of the biological variables affecting population growth can be taken into account simultaneously. During the early part of this century Lotka (1907a, 1907b, 1911, 1922, 1925) devised a statistic, rm, called the intrinsic rate of natural increase--or the Malthusian parameter--by which differentials in fertility, mortality, and generation length can be taken into account
+
+175
+
+176 Bajema
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+simultaneously when determining the growth rates of various segments of a human population. Although several biologists (Cole, 1954; Crow, 1962; Fisher, 1958) have urged the use of this statistic to estimate the direction and intensity of natural selection in relation to different genotypes, it has yet to be applied to human data for this purpose.
+This investigation proposes to estimate by means of the intrinsic rate of natural increase the direction and intensity of natural selection in relation to human intelligence among a group of native white individuals born in 1916 or 1917.
+METHODS AND MATERIALS
+Type of Population Under Study Terman group intelligence test scores were obtained on 1,144 native white individuals born in 1916 or 1917 and tested in the sixth grade by the Kalamazoo Public School System. The average age at time of testing was 11.6 years. The study was restricted to individuals born in 1916 or 1917 because this was the youngest age group for which completed fertility data were available. It was necessary to choose all individuals born in two successive years in order to obtain a sample of sufficient size.
+Data CollectingProcedures
+The following life history data were collected for 979 of the 1,144 individuals in the population under study: (1) date of birth; (2) number of siblings (excluding stepsiblings) who lived past the age of one; (3) marital status; (4) number of offspring produced who lived past the age of one; (5) date of death if the tested individual was deceased; and (6) place of residence.
+The following sources of information were utilized in locating and obtaining information about the individuals in-
+
+eluded in the study: 1. Relatives and close friends. 2. Telephone directories. 3. City directories. 4. School records--transcripts and census records. 5. Marriage records. 6. Birth records. 7. Death records. 8. Records of funeral directors. 9. College alumni offices. 10. Present and former employers. The individuals included in the study
+were interviewed personally whenever possible. An attempt was made to interview in person all individuals living within a 200 mile radius of Kalamazoo. Questionnaires were sent to 77 individuals whose life histories could not be ascertained personally by the investigator.
+
+Definitions and Formulas
+
+In the present study, the symbol rm always represents the intrinsic rate of natural increase for the total sample of 979 individuals, including both males and females.
+The age-specific rates of survival, lm and fertility, mx, (where x = age in years) are defined as follows:
+
+number of individuals (1) surviving from age of testing . to age x x number of individuals tested
+i/2 times the number of (2) offspring surviving to age one who were born to individuals of age x
+number of individuals tested who survived to age x
+The intrinsic rate of natural increase,
+rm, is the value of r which satisfies the equation:
+
+X = 00
+S lxmxe-"»*=\ x= 0
+
+(3)
+
+Human Intelligence
+
+177
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+The average generation length, T, is obtained from the relation:
+(4)
+The relative fitness, Wt of subgroup is defined as
+ermtT
+Wt=-
+(5)
+where e is the base of the Napierian logarithms, T is the average generation length for the total sample, Ln is the Napierian logarithm, rmi is the intrinsic rate of natural increase for the ith subgroup of the sample, and rmÄ is the intrinsic rate of natural increase for the subgroup of the sample having the fastest growth rate (i.e., the largest value of rm).
+The estimate of the population growth rate per individual, ermT, is derived from the relationship:
+NT = NoermT
+where Nt is the number of individuals alive at time T, No is the number of individuals alive at time O, rm is the intrinsic rate of natural increase calculated by equation (3), and T is the average generation length of the total sample calculated by equation (4). If No is taken as unity, then eTmT is the population growth rate per individual for a period of time equal to the average generation length of the total sample.
+The intensity of phenotypic selection in relation to a trait is defined as
+
+RESULTS
+Characteristicsof the Sample Life histories were compiled on 979 (85.6%) of the 1,144 native-bom white individuals in the population under study. This included 72 individuals who died before reaching the age of 45 as well as 61 individuals out of 77 individuals who were contacted by mail.
+The average test score of the sample was 101.46 IQ points, and the standard deviation of a random observation was 12.66 IQ points. The 979 individuals had 2,189 offspring who lived past the age of one--or an average of 2.24 offspring per individual.
+Possible Biases
+The sample was taken at random from the population under study only insofar as the methods used to locate individuals were unbiased. The sample was compared with the population from -which it was taken to determine the presence and/or the importance of three types of biases: (1) differences in the sex ratio; (2) differences in the distribution of IQ scores; and (3) differences in place of residence (living in Kalamazoo County versus living outside of Kalamazoo County).
+It was thought that females might be underrepresented in this sample because they change their last names at time of marriage. Table 1, which gives the sex ratios of the population under study and the sample, clearly indicates that the sample is not biased in relation to the sex ratio.
+
+7 = 1 -- YL
+(6)
+where W is the fitness of the total population under study and Wo is the fitness of the optimum phenotype.
+
+TABLE 1
+SEX RATIO OF THE POPULATION UNDER STUDY AND OF THE SAMPLE
+
+Population Under Study Sample
+
+Male
+575 493
+
+Female
+569 486
+
+178 Bajema
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+Table 2, giving the per cent of the original population contained in the sample with respect to thefiveIQ groups into which thesample was broken down, shows that the inclusion of an individual in the sample wasnot a function of his intelligence test score.
+
+TABLE 2
+PROPORTION OF INDIVIDUALS IN POPULATION UNDER STUDY INCLUDED IN SAMPLE IN RELATION TO IQ.
+No. included in Sample/ Per Cent IQ Range No. in Population Included
+
+ä=120 105-119 95-104 80-94 69-79
+Total Sample
+
+82/91 282/327 318/377 267/312 30/37 979/1144
+
+90.1 86.2 84.4 85.6 81.1 85.6
+
+The sample is definitely biased with respect to place of residence. Since it can be safely assumed that almost all of the 165 individuals not contacted do not reside in Kalamazoo County, the bias in the average number of offspring per individual dueto place of residence might adversely affect anyconclusions concerning the relationship between intelligence and fertility. A 2 X 5 analysis of variance with disproportionate subclass numbers, as discussed bySnedecor(1956), was used to test the effect on fertility of the two residence categories within the five IQ groups (Table S). This analysis indicated that the effects on fertility due to place of residence and interaction between place of residence and IQ were negligible.
+
+TABLE S
+AVERAGE NUMBER OF OFFSPRING PER INDIVIDUAL SURVTVINC TO AGE 4 5 BY PLACE OF RESIDENCE IN RELATION TO IQ
+
+IQ Range
+Si 120 105-119 95-104 80-94 69-79 Total Sample
+
+Living in Kalamazoo Co.
+Avg. No. of No. Offspring
+
+Not Living fa Kalamazoo Co.
+Avg. No. of No. Offspring
+
+32 256 47 164 2.52 99 200 2.14 92 176 2.49 71 21 157 5
+593 2.55 314
+
+2.66 2.09 2.05 2.73 2.00
+2.31
+
+Thus it can be concluded that the sample of 979individuals does not deviate significantly from the population in terms of sex ratio or test score distribution and that the average number of offspring per surviving individual is not significantly different for place of residence within the five IQ groups.
+Average Number of Offspring in Relation to Intelligence
+The data were subdivided into five groups in relation to test scores: I Q ^ 120; 105-119; 95-104; 80-94; and69-79. These subgroupings were chosen so that (1) one of the groups (IQ 95-104) encompassed theaverage IQ of thesample; (2) thebimodal nature of thedata would be apparent (IQ^120 and 80-94); and (3) to maintain sufficient numbers within each group without including too wide an IQ range.
+The average number of offspring per individual in relation to IQ is given in Table 4. A one-way analysis of variance showed that the average number of offspring per individual for the five IQ groups is significantly heterogeneous at the 1% level of significance (F= 4.136> 3.32).
+Further statistical analyses were performed using the Duncan Multiple Range Test (Duncan, 1955) with corrected tables (Harter, 1960). This test maintains the protection level against making a type II error (asserting that a
+
+TABLE 4
+AVERACE NUMBER OF OFFSPRING PER INDIVIDUAL IN RELATION TO IQ
+No. Offspring IQ Range No. Reporting Per Individual
+
+Ss 120 105-119 95-104 80-94 69-79
+Total Sample
+
+82 282 318 267 30
+979
+
+2598 2538 2.019 2.464 1500
+2.236
+
+Human Intelligence
+
+179
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+mean comes from the same population as another mean when in reality both means come from different populations) at the same level that it is in the Student's t test which protects against the type I error (asserting that the two means come from two different populations when in reality they come from the same population) at the 95 per cent level. The results of the Duncan Multiple Range Test indicate that the average number of offspring per individual for the IQ ^120 group is not significantly greater than that of the IQ 80-94 group, and that the average number of offspring per individual for the highest two reproductive groups ( I Q ^ and IQ 80-94) in the bimodal relationship between IQ and fertility are both significantly greater than the IQ 69-79 group and the average IQ group (95-104) but are not significantly greater than the IQ 105-119 group.
+Table 5 compares the results of this study with those of Higgins et al. (1962) using the IQ subgroupings employed by them in their investigation. While the results of the study by Higgins et al. also indicate a bimodal relationship between IQ and fertility, it is not so pronounced as the bimodal relationship found in this study. Both studies provide strong evidence for the existence of a high reproductive rate for the IQ>130 group which is probably a quite recent devel-
+
+TABLE 5
+COMPARISON OF THE RESULTS OF THIS STUDY WITH THOSE OF HICGINS ET. AL. ( 1 9 6 2 )
+
+Higgins et al (1962) This Study
+
+IQ
+Range
+
+Avg. No.
+
+Avg. No.
+
+No. Offspring No. Offspring
+
+>130
+116-130 101-115 86-100 71-85 56-70
+0-55
+
+25 269 778 583 208
+74
+29
+
+2.96 23
+2.45 107 2.26 344 2.16 427 2.39 75 2.46 3
+1.38
+
+3.00
+2.51 2.08 2.30 2.05 0.00
+
+opment. No other previous studies have reported a bimodal relationship between IQ and fertility, and it is doubtful that the biased techniques employed in the past could have completely obscured a high reproductive rate of the high IQ group.
+Since both studies indicate that a bimodal relationship exists between IQ and fertility, Penrose's equilibrium model (Penrose, 1948, 1950a, 1950b), which assumes a very high reproductive rate among the low-normal IQ groups and a very low reproductive rate among the high IQ groups, cannot be used to explain the current relationship between IQ and fertility nor any changes that could occur in the mean IQ of the population due to this relationship. Penrose assumed that differential fertility in relation to intelligence was a permanent phenomenon. The results of Higgins et al. (1962) and this study contradict Penrose's assumptions and support the position that the relationship between IQ and fertility is a dynamic one.
+Intrinsic Rate of Natural Increase in Relation to Intelligence
+Life tables were compiled for each of the five IQ groups as well as for the total sample (See Appendix). The data were programmed, and the computer facilities at Michigan State University were utilized to find the value of the intrinsic rate of natural increase for each group that satisfied equation (3). The values of the intrinsic rate of natural increase for each of the five IQ groups and for the total sample are given in Table 6. The bimodal nature of the relationship between IQ and total reproductive performance (including the effect of generation length as well as fertility) is indicated by the rm values for the I Q ^ 1 and IQ 80-94 groups.
+
+180 Bajema
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+The value of rm for the total Kalamazoo sample was only -(-0.004. The fact that rm was extremely small for this study can be explained by the characteristics of the population under study which are known to affect fertility in a negative way and thus would reduce rm. The population under study consisted of: (1) white individuals only; (2) nativeborn Americans only; (3) individuals with above-average educational attainments; (4) predominantly Protestant individuals; (5) individuals who spent almost all of their potentially most productive childbearing years during the Great Depression and World War II and (6) individuals who spend most or all of their lives in an urban environment. The urban nature of the population under study is probably the major reason for finding such a small intrinsic rate of natural increase. It is a well known fact that the complete fertility of the total urban population (age 45 and older) of the United States has been below replacement level in the past (Grabill, 1959).
+TABLE 6
+THE INTRINSIC RATE OF NATURAL INCREASE AND
+THE AVERAGE GENERATION LENGTH IN
+RELATION TO IQ
+
+IQ Range
+5i 120 105-119 95-104 80-94 69-79 Total Sample
+
+Intrinsic Rate of
+
+Average
+
+Natural Increase Generation Length
+
+rm T
+
++0.008885 29.42 years
+
++0.003890 +0.000332 +0.007454 --0.010001 +0.003915
+
+28.86 years 28.41 years 28.01 years 28.76 years 28.49 years
+
+Generation Length in Relation to Intelligence
+The almost universally held hypothesis that the generation length of the lower IQ groups is shorter than the generation length of the higher IQ groups has been supported by casual observavtions and by data compiled by Conrad
+
+and Jones (1932), who correlated the intelligence of the parent with the age of the parent at the birth of the first, second, third, and fourth child and found that the age of the parent at the time of birth of his children is positively correlated with IQ (the higher the IQ, the older the parent at the time of birth of his children). However, no exact estimates concerning generation length (given in years) in relation to IQ have been made.
+Table 6 gives the average generation length, T, calculated from equation (4) for the five IQ groups as well as for the total sample. The results indicate a very slight positive relationship between IQ and generation length. The IQ 69-79 group is the only IQ group deviating from this positive relationship. The average generation length for the total sample approximately agrees with the estimated average generation length for the population of the United States (2930 years).
+Relative Fitness in Relation to Intelligence
+Relative fitness is defined in this paper as the ratio of population growth rate per individual of a particular phenotype (IQ group) to the population growth rate per individual of the optimum phenotype (IQ group) for the same trait. The optimum phenotype is that phenotype which has the highest population growth rate per individual (IQ^120 in this study).
+The relative fitness of each of the five groups using the average number of offspring per individual as the measure of population growth is given in Table 7, while Table 8 gives the relative fitness of the five IQ groups using ermT which takes all the variables affecting population growth into account. Note that be-
+
+Human Intelligence
+
+181
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+cause the IQ^120 group has the longest generation length, the relative fitness of each of the other four IQ groups is increased when ermT is used to measure relative fitness instead of the average number of offspring per individual. This indicates the importance of generation length as a variable which can affect the population growth rates of several phenotypic classes of a particular behavioral trait unequally.
+As pointed out by Dobzhansky and Allen (1956), "fitness" is meaningful only in relation to a particular environment. The relative fitness values given in this paper pertain only to the population under study and cannot be assumed to be the same for IQ groups in different environments.
+Intensity of Natural Selection in Relation to Intelligence
+When measuring the effect of natural selection on a trait, it is interesting to determine the population's phenotypic load or the proportion by which the population fitness is decreased in comparison with the optimum phenotype. This reduction in the fitness of the population relative to the optimum phenotype is called the intensity of natural selection (Haldane, 1954; Spiess, 1962). The intensity of natural selection in this study is measured by subtracting the relative fitness of the total sample (where fitness is measured by ermT) from one (equation 6).
+
+TABLE 7
+RELATIVE FITNESS IN RELATION TO IQ USING THE AVERAGE NUMBER OF OFFSPRING PER INDIVIDUAL, AS
+THE MEASURE OF POPULATION CROWTH
+
+IQ Range
+
+Relative Fitness
+
+5ï 120 105-119 95-104 80-94 69-79
+
+1.0000 0.8614 0.7771 0.9484 0.5774
+
+The intensity of natural selection in relation to intelligence in man was found to be 0.13 in this study where the optimum phenotype is the IQ^120 group. The fitness (reproductive performance) of the population under study, therefore, is 0.13 less than what it would be if all the IQ's were in the optimum range (IQ^;120). That is to say, the phenotypic load due to variability in intelligence is 13 per cent.
+Correlation Analyses
+The negative relationship between the IQ of an individual and the size of the family from which the individual comes has been observed many times and is one major evidence used to support the hypothesis that the IQ of the population is declining. The correlation coefficient between the IQ of an individual and the size of the completed family from which he comes is --0.2599 for this study and is significantly different from 0 at the 1 per cent level. This agrees with the results of other studies on samples of a similar nature which have found the negative correlation to be between r== --0.20 and r = --0.30. However, when the IQ of an individual was correlated with his subsequent completed fertility in this study, the correlation coefficient is -f 0.0503, significantly greater than 0 at the 6 per cent level by a one-tailed test. Thus the mean IQ of the population under study has probably increased slightly due to the small positive relationship between IQ and fertility.
+
+TABLE 8
+RELATIVE FITNESS IN RELATION TO IQ USING 0n>1 AS THE MEASURE OF POPULATION CROWTH
+
+IQ Range
+i s 120 105-119 95-104 80-94 69-79
+
+Relative Fitness
+1.0000 0.8674 0.7838 0.9600 0.5839
+
+182 Bajema
+
+The fact that in this study the IQ of an individual is positively correlated with the number of offspring he produces but is negatively correlated with the size of the family from which he comes appears to be paradoxical at first. However, these observed correlations are due to the operation of two factors.
+First, the correlation between the IQ of an individual and the size of the family from which he comes has an inherent defect which makes any estimation concerning the relationship between intelligence and fertility based on it subject to considerable error. That part of the population which leaves no offspring (20.2 per cent in this study) is completely ignored. The results (Table 9) indi-
+
+not childless and the number of offspring they produced was found to be -(-0.0077 --not significantly different from 0 at the 10 per cent level, and a shift in the negative direction from r = -{-0.0503. Thus it can be concluded that the relationship between the intelligence of an individual and the size of the family from which he comes has an inherent bias in the negative direction at the present time.
+Secondly, the relationship between intelligence and fertility is definitely a dynamic one and appears to be changing rapidly. Higgins et al. (1962) and this study have shown that a bimodal relationship exists between IQ and fertility at the present time. It is doubtful that
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+TABLE 9
+PROPORTION OF INDIVIDUALS WHO LEFT NO OFFSPRING IN RELATION TO IQ
+
+IQ Range
+
+Number
+
+Per Cent Leaving No Offspring
+
+Ss 120
+105-119 95-104 80-94 69-79 Total Sample
+
+11/82
+48/282 70/318 60/267 9/30 198/979
+
+18.41
+17.02 22.01 22.47 30.00 20.22
+
+TABLE 10
+PROPORTION OF INDIVIDUALS WHO NEVER MARRIED IN RELATION TO IQ
+
+IQ Range
+
+Number
+
+Per Cent Never Married
+
+^ 120
+105-119 95-104 80-94 69-79 Total Sample
+
+5/82
+14/282 21/318 15/267
+3/30 58/979
+
+6.10
+4.96 6.60 5.62 10.00 5.92
+
+cate that the relationship between the intelligence of an individual and the size family from which he comes is biased in a negative direction due to the fact that as intelligence decreases the probability of leaving no offspring increases. The results of this study show that the probability of leaving no offspring is more than two times as great for the IQ 69-79 group compared with the IQ^120 group. A comparison of Table 9 with Table 10 indicates that this is primarily due to differentials in childbearing as opposed to the differentials in marriage rates, which were found by Higgins et al. (1962) to be the important factor in their study. The correlation coefficient between the IQ of individuals who were
+
+the biased techniques employed by previous studies could have completely obscured a high reproductive rate of the high IQ group. Therefore, it is highly probable that fertility is more positively correlated with intelligence than at any time during the past 75 years. It is a well known fact that a tremendous change has taken place with respect to family size in the United States. There has been a decrease in the proportion of unmarried individuals, childless families, and one-child families in addition to a decrease in the proportion of families having five or more children (Grabill, 1959). In this study the correlation between the size of the family from which an individual comes and the number of
+
+Human Intelligence
+
+183
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+offspring produced is quite low (r = -f-0.07). Thus a positive change in the relationship between intelligence and fertility occurring simultaneously with the great changes taking place with respect to family size could help explain the observed positive correlation of intelligence with the number of offspring produced and the negative correlation of intelligence with the size of the family that the tested individual comes from.
+Estimation of the Change in the Frequency of the Genetic Factors Favoring High Intelligence in the Population Under Study
+It is generally held that a major part of the variation in intelligence is due to genetic factors usually considered to be primarily quantitative in nature. It is highly probable that at least 50 to 60 per cent of the total variation in intelligence is due to hereditary factors. Vandenberg (1962), for instance, has found that approximately 60 per cent of the variation in numerical, verbal, spatial, and word fluency abilities in dizygous twins is due to hereditary factors. While an estimate of the amount of change in the frequency of the genetic factors favoring high intelligence must await further elucidation of the exact genetic factors involved, it is possible to estimate the direction of change in relation to these factors. A positive relationship between intelligence and fertility would indicate that an increase in the frequency of the genetic factors favoring high intelligence is taking place, while a negative relationship would indicate that a decrease in the frequency of these factors is taking place.
+The observed positive relationship between the IQ of an individual and his subsequent completed fertility (r = -j-0.05) would seem to indicate that a
+
+small but positive increase in the genetic factors favoring high intelligence has taken place in the population under study. However, the negative effect of generation length (see Table 6) tends to counterbalance the positive effect due to the number of offspring produced to a certain extent. When generation length is taken into account, it has been shown that there is little difference between the relative fitness of the IQ=ïl20 group and that of the 80-94 group. This bimodal relationship between IQ and total reproductive performance complicates any estimation of the change in the frequency of the genetic factors favoring high intelligence.
+The degree of positive assortative mating in relation to intelligence was not determined for the population under study. While the direction of natural selection in relation to human intelligence is not affected by assortative mating, the rate at which the frequency of the genetic factors favoring high intelligence change is a function of the degree of positive assortative mating.
+In spite of the complications due to generation length, the bimodal nature of the relationship between IQ and fertility, and the lack of assortative mating data, it can be safely concluded that the population under study has been in a state of equilibrium, or, more likely, has actually experienced a very slight increase in the genetic factors favoring high intelligence during the one generation that the population was studied. The equilibrium or slight increase in the frequency of the genetic factors favoring high intelligence is due not to the reproductive success of the average IQ group but to the counterbalancing effects of the high reproductive rates of the high IQ group (^120) and of the low-normal IQ group (80-94).
+
+184 Bajema
+
+SUMMARY
+This is a follow-up study of 979 native white individuals born in 1916 or 1917 and who took the Terman Group Intelligence Test in the sixth grade while attending the Kalamazoo Public School System. It is the first study that has taken into account all of the variables that affect population growth (fertility, mortality, and generation length) by means of the intrinsic rate of natural increase when estimating the direction and intensity of natural selection in relation to human intelligence.
+A bimodal relationship between intelligence and fertility was observed in this
+
+study. The high fertility of the I Q ^ 1 group relative to the other IQ groups is probably a quite recent development brought about by changes in the cultural environment during the last 30 to 40 years.
+The observation that the intelligence of an individual is positively correlated with the number of offspring he produces but negatively correlated with the size of the family from which the individual comes was explained by the facts that (1) the bias inherent in the relationship between the intelligence of an individual and the size of the family from which he comes tends to produce a
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+APPENDIX
+
+Xh
+
+LIFE TABLE FOR THE TOTAL SAMPLE
+
+14
+
+0.99694
+
+0.00051
+
+15
+
+0.99387
+
+0.00051
+
+16
+
+0.99081
+
+0.00052
+
+17
+
+0.98774
+
+0.00879
+
+18
+
+0.98570
+
+0.01295
+
+19
+
+0.98161
+
+0.02862
+
+20
+
+0.98161
+
+0.03538
+
+21
+
+0.97957
+
+0.04588
+
+22
+
+0.97753
+
+0.05277
+
+23
+
+0.97651
+
+0.05753
+
+24
+
+0.97446
+
+0.06342
+
+25
+
+0.97344
+
+0.07870
+
+26
+
+0.96936
+
+0.07271
+
+27
+
+0.96323
+
+0.06734
+
+28
+
+0.95608
+
+0.07265
+
+29
+
+0.95097
+
+0.08002
+
+30
+
+0.94995
+
+0.07581
+
+31
+
+0.94893
+
+0.06297
+
+32
+
+0.94893
+
+0.05544
+
+33
+
+0.94688
+
+0.05124
+
+34
+
+0.94586
+
+0.04104
+
+35
+
+0.94484
+
+0.03946
+
+36
+
+0.94178
+
+0.02983
+
+37
+
+0.93973
+
+0.02283
+
+38
+
+0.93871
+
+0.02394
+
+39
+
+0.93871
+
+0.02503
+
+40
+
+0.93769
+
+0.02288
+
+X m,
+
+LIFE TABLE FOR THE IQ 5ïl20 GROUP
+
+14
+
+1.00000
+
+0.00000
+
+15
+
+1.00000
+
+0.00000
+
+16
+
+1.00000
+
+0.00000
+
+17
+
+1.00000
+
+0.00000
+
+18
+
+1.00000
+
+0.00000
+
+19
+
+1.00000
+
+0.00610
+
+20
+
+1.00000
+
+0.03659
+
+21
+
+1.00000
+
+0.02439
+
+22
+
+1.00000
+
+0.04268
+
+23
+
+1.00000
+
+0.07317
+
+24
+
+1.00000
+
+0.05488
+
+25
+
+1.00000
+
+0.08537
+
+26
+
+0.98780
+
+0.11111
+
+27
+
+0.98780
+
+0.09877
+
+28
+
+0.98780
+
+0.08642
+
+29
+
+0.98780
+
+0.12963
+
+30
+
+0.98780
+
+0.10494
+
+31
+
+0.98780
+
+0.05556
+
+32
+
+0.98780
+
+0.03704
+
+33
+
+0.98780
+
+0.04321
+
+34
+
+0.98780
+
+0.04938
+
+35
+
+0.98780
+
+0.03704
+
+36
+
+0.97561
+
+0.03750
+
+37
+
+0.97561
+
+0.02500
+
+38
+
+0.96341
+
+0.03165
+
+39
+
+0.96341
+
+0.05696
+
+40
+
+0.96341
+
+0.03165
+
+41
+
+0.93667
+
+0.01418
+
+41
+
+0.96341
+
+0.01899
+
+42
+
+0.93258
+
+0.01150
+
+42
+
+0.96341
+
+0.02532
+
+43
+
+0.93156
+
+0.00658
+
+43
+
+0.96341
+
+0.00633
+
+44
+
+0.92850
+
+0.00330
+
+44
+
+0.96341
+
+0.00000
+
+45
+
+0.92646
+
+0.00110
+
+45
+
+0.96341
+
+0.00633
+
+Human Intelligence
+
+185
+
+negative relationship by itself; and that (2) the relationship between intelligence and fertility is a dynamic one. It is highly probable that fertility is more positively correlated with intelligence now than at any time during the past 75 years.
+When all variables affecting population growth have been taken into account, the population under study has probably been in equilibrium with respect to the genetic factors favoring high intelligence or, more likely, has experienced a slight increase in the frequency of the genetic factors favoring high intelligence.
+
+The intensity of natural selection in relation to human intelligence (the phenotypic load due to the variability in human intelligence) was found to be 0.13 in this study where the IQ^120 group was the optimum phenotype.
+The conclusions of this paper pertain only to the population under study. Because of the small size and uniqueness of the sample it is impossible to estimate accurately the direction and intensity of natural selection in relation to human intelligence for the general population. Such an estimation must await the results of future studies which take into account all the variables affecting
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+APPENDIX
+
+LIFE TABLE FOR THE 10, 105-119 CROUP
+
+14
+
+1.00000
+
+0.00178
+
+15
+
+0.99645
+
+0.00000
+
+16
+
+0.99291
+
+0.00000
+
+17
+
+0.98936
+
+0.00717
+
+18
+
+0.98936
+
+0.01075
+
+19
+
+0.98582
+
+0.02518
+
+20
+
+0.98582
+
+0.03777
+
+21
+
+0.97872
+
+0.03080
+
+22
+
+0.97518
+
+0.04182
+
+23
+
+0.97518
+
+0.05273
+
+24
+
+0.97518
+
+0.05818
+
+25
+
+0.97163
+
+0.07482
+
+26
+
+0.96809
+
+0.07509
+
+27
+
+0.96454
+
+0.07169
+
+28
+
+0.95390
+
+0.07993
+
+29
+
+0.94326
+
+0.09023
+
+30
+
+0.94326
+
+0.07519
+
+31
+
+0.93972
+
+0.06981
+
+32
+
+0.93972
+
+0.06038
+
+33
+
+0.93617
+
+0.05114
+
+34
+
+0.93617
+
+0.03788
+
+35
+
+0.93617
+
+0.04924
+
+36
+
+0.93617
+
+0.02841
+
+37
+
+0.93262
+
+0.03612
+
+38
+
+0.93262
+
+0.01711
+
+39
+
+0.93262
+
+0.02471
+
+40
+
+0.93262
+
+0.0S042
+
+41
+
+0.93262
+
+0.01521
+
+42
+
+0.93262
+
+0.00951
+
+43
+
+0.93262
+
+0.00570
+
+44
+
+0.93292
+
+0.00380
+
+45
+
+0.93262
+
+0.00000
+
+LIFE TABLE FOR THE IQ 95-104 CROUP
+
+14
+
+0.99686
+
+0.00000
+
+15
+
+0.99686
+
+0.00158
+
+16
+
+0.99057
+
+0.00159
+
+17
+
+0.98742
+
+0.01433
+
+18
+
+0.98428
+
+0.01438
+
+19
+
+0.97799
+
+0.02733
+
+20
+
+0.97799
+
+0.03215
+
+21
+
+0.97799
+
+0.04662
+
+22
+
+0.97484
+
+0.05806
+
+23
+
+0.97170
+
+0.04045
+
+24
+
+0.97170
+
+0.07282
+
+25
+
+0.97170
+
+0.06958
+
+26
+
+0.96541
+
+0.06026
+
+27
+
+0.95912
+
+0.04918
+
+28
+
+0.94969
+
+0.06623
+
+29
+
+0.94654
+
+0.06478
+
+30
+
+0.94654
+
+0.06146
+
+31
+
+0.94654
+
+0.05648
+
+32
+
+0.94654
+
+0.05814
+
+33
+
+0.94654
+
+0.05150
+
+34
+
+0.94654
+
+0.04319
+
+35
+
+0.94654
+
+0.02492
+
+36
+
+0.94340
+
+0.02667
+
+37
+
+0.94340
+
+0.02000
+
+38
+
+0.94340
+
+0.02667
+
+39
+
+0.94340
+
+0.01500
+
+40
+
+0.94025
+
+0.01171
+
+41
+
+0.93711
+
+0.01510
+
+42
+
+0.93082
+
+0.01520
+
+43
+
+0.92767
+
+O.0O508
+
+44
+
+0.92138
+
+0.00171
+
+45
+
+0.91824
+
+0.00171
+
+186 Bajema
+
+population growth and which are based on larger and different types of samples.
+ACKNOWLEDGMENTS
+The author wishes to express his deep appreciation toDr. Philip J. Clark, Professor of Zoology, Michigan State University, for his interest, direction, and encouragement during the course of this investigation. Special thanks are due Dr. John Cochran, Assistant Superintendent of the Kalamazoo Public School System, and Mr. Anthony Stamm, County Clerk of Kalamazoo County, for their assistance in making available to the author m?jiy of the records upon which this in-
+
+vestigation is based.
+The author is also indebted to the
+American Eugenics Society for itsfinan-
+cial support of this investigation.
+REFERENCES
+ANASTASI, A., 1956, Intelligence and family size. Psychological Bull., 5 3 : 187-209.
+COLE, L. C.,1954. The Population Consequences of Life History Phenomena. Quart. Rev. Biology, 2 9 : 103-137.
+CONRAD, H. S., and H. E. JONES, 1932. A Field
+Study of the Differential Birth Rate. J. Am. Stat. Assoc., 2 7 : 153-159. CROW, J., 1962. Population Genetics: Selection. In W.J. Burdette (ed.), 1962 Methodology in Human Genetics. Holden-Day, San Francisco, pp. 53-75.
+DOBZHANSKY, T., and G. ALLEN, 1956. Does Nat-
+ural Selection Continue to Operate in Mankind? Am. Anthrop., 5 8 : 591-604. DUNCAN, D.B., 1955. Multiple Range and Mul-
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+APPENDIX
+
+X 1, m.
+
+LIFE TABLE FOR THE IQ 80-94 GROUP
+
+14
+
+0.99251
+
+0.00000
+
+15
+
+0.98876
+
+0.00000
+
+16
+
+0.98127
+
+0.00000
+
+17
+
+0.98127
+
+0.00573
+
+18
+
+0.98127
+
+0.01336
+
+19
+
+0.97753
+
+0.04406
+
+20
+
+0.97753
+
+0.04023
+
+21
+
+0.97753
+
+0.06897
+
+22
+
+0.97753
+
+0.06322
+
+23
+
+0.97753
+
+0.07854
+
+24
+
+0.97378
+
+0.06154
+
+25
+
+0.97378
+
+0.09231
+
+26
+
+0.97378
+
+0.08077
+
+27
+
+0.96255
+
+0.07004
+
+28
+
+0.95880
+
+0.07227
+
+29
+
+0.95506
+
+0.07843
+
+30
+
+0.95131
+
+0.08858
+
+31
+
+0.95131
+
+0.06890
+
+32
+
+0.95131
+
+0.05906
+
+33
+
+0.94757
+
+0.05138
+
+34
+
+0.94757
+
+0.03953
+
+35
+
+0.94382
+
+0.04960
+
+36
+
+0.94382
+
+0.03571
+
+37
+
+0.94007
+
+0.00996
+
+38
+
+0.94007
+
+0.02789
+
+39
+
+0.94007
+
+0.02789
+
+40
+
+0.94007
+
+0.02590
+
+41
+
+0.94007
+
+0.00996
+
+42
+
+0.93258
+
+0.00602
+
+43
+
+0.93258
+
+0.01004
+
+44
+
+0.92884
+
+0.00202
+
+45
+
+0.92509
+
+0.00000
+
+X I, m.
+
+LIFE TABLE FOR THE IQ 69-79 CROUP
+
+14
+
+1.00000
+
+0.00000
+
+15
+
+1.00000
+
+0.00000
+
+16
+
+1.00000
+
+0.00000
+
+17
+
+1.00000
+
+0.01667
+
+18
+
+0.96667
+
+0.05172
+
+19
+
+0.96667
+
+0.00000
+
+20
+
+0.96667
+
+0.00000
+
+21
+
+0.96667
+
+0.03448
+
+22
+
+056667
+
+0.03448
+
+23
+
+0.96667
+
+0.05172
+
+24
+
+0.93333
+
+0.05357
+
+25
+
+0.93333
+
+0.07143
+
+26
+
+0.93333
+
+0.00000
+
+27
+
+0.93333
+
+0.10714
+
+28
+
+0.93333
+
+0.03571
+
+29
+
+0.93333
+
+0.01786
+
+30
+
+0.93333
+
+0.03571
+
+31
+
+0.93333
+
+0.03571
+
+32
+
+0.93333
+
+0.00000
+
+33
+
+0.93333
+
+0.07143
+
+34
+
+0.90000
+
+0.03704
+
+35
+
+0.90000
+
+0.01852
+
+36
+
+0.86667
+
+0.00000
+
+37
+
+0.86667
+
+0.03846
+
+38
+
+0.86667
+
+0.00000
+
+39
+
+0.86667
+
+0.01923
+
+40
+
+0.86667
+
+0.01923
+
+41
+
+0.86667
+
+0.01923
+
+42
+
+0.86667
+
+0.00000
+
+43
+
+0.86667
+
+0.00000
+
+44
+
+0.86667
+
+0.03846
+
+45
+
+0.86667
+
+0.00000
+
+Human Intelligence
+
+187
+
+tiple F Tests. Biometrics, 1 1 : 1-41.
+FISHER, R. A., 1958. The Genetical Theory of Natural Selection. Second Revised Edition. Dover Publications, New York.
+GRABILL, W. H., 1959. Fertility and Reproduction. In D. J. Bogue, 1959. The Population of the United States. The Free Press, Glencoe, Illinois, pp. 288-324.
+HALDANE, J. B. S., 1954. The Measurement of Natural Selection. Carylogia, 6 : 480-487.
+HARTER, H., 1960. Critical Values for Duncan's New Multiple Range Test. Biometrics, 1 6 : 671-685.
+HICGINS, J., E. REED, and S. REED, 1962. Intelli-
+gence and Family Size: A Paradox Resolved. Eugenics Quart., 9 : 84-90.
+LOTKA, A. J., 1907a. Relation Between Birth Rates and Death Rates. Science, 2 6 : 21-22.
+. 1907b. Studies on the Mode of Growth of Material Aggregates. Amer. J. Science, 2 4 : 199-216.
+, and F. SHARPE, 1911. A Problem in
+
+Age-Distribution. Philosophical Magazine, 2 1 : 435-438.
+, 1922. The Stability of the Normal Age Distribution. Proc. National Acad. Sciences, 8 : 339-345.
+, 1925. Elements of Physical Biology. Williams and Wilkins, Baltimore.
+PENROSE, L. S., 1948. The Supposed Threat of Declining Intelligence. Am. J. Mental Deficiency, 5 8 : 114-118. , 1950a. Genetical Influences on the Intelligence Level of the Population. Brit. J. Psychology, 40: 128-136. , 1950b. Propagation of the Unfit. Lancet, 2 : 425-427.
+SNEDECOR, G., 1956. Statistical Methods. Fifth Edition, Iowa State College Press, Ames, Iowa.
+SPIESS, E. B. (ed.), 1962. Papers on Animal Genetics. Little, Brown and Co., Boston.
+VANDENBERG, S. G., 1962. The Hereditary Abilities Study: Hereditary Components in a Psychological Test Battery. Am. J. Human Genetics, 14: 220-237.
+
+Downloaded by [University of Michigan] at 13:27 08 December 2015
+
+

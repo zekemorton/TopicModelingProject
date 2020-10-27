@@ -1,0 +1,52 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Book notes
+To cite this article: (1995) Book notes, Social Biology, 42:1-2, 149-150, DOI: 10.1080/19485565.1995.9988895 To link to this article: http://dx.doi.org/10.1080/19485565.1995.9988895
+Published online: 23 Aug 2010. Submit your article to this journal Article views: 2 View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:46
+
+Book Notes
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+NEURODYNAMIX: COMPUTER MODELS
+FOR NEUROPHYSIOLOGY: By W. Otto Friesen and Jonathon A. Friesen. Oxford University Press, New York, 1994. 203 pages and 3.25 inch IBM-compatible computer disk. $29.95.
+The modeling system has two interdependent components--the text and the accompanying software.
+Section I of the text provides overviews of electrical concepts, the properties of ion channels, resting and action potentials, synaptic interactions, and neuronal circuits. Each of these is followed by descriptions of modeling exercises to be carried out with the NeuroDynamix software. Exercises are designed to illustrate the concepts introduced in the didactic overviews. Grid lines for recording data from the computer screen or for producing graphs are included with the text as an aid to the user.
+Section II provides brief descriptions of the six models incorporated into NeuroDynamix and includes glossaries for variables and parameters. Sections III and IV furnish detailed descriptions of the mathematical equations for the models. Finally, the appendix includes detailed instructions for using the windows that are central features of the program. These instructions are also available on-line during execution of the NeuroDynamix program.
+The transmembrane electrical potential is a critical aspect of the function of all living cells. In neurons, the dynamics of this potential are of par-
+
+ticular importance as the basis for cell signaling. Although the electrical properties of cells are addressed in cell biology courses, bioelectricity is usually covered in greatest depth in courses on neurobiology. Due to the difficulty of electrical concepts and the static nature of textbook illustrations, students usually find the topic of bioelectricity both intimidating and inaccessible. The primary objective in developing the NeuroDynamix modeling system was to overcome these twin problems.
+The modeling system provides a means for students to have access to neurophysiological methods and results by carrying out experiments. Such hands-on simulations serve to deepen students' understanding of electrophysiological concepts and to heighten their appreciation of the techniques used to study the electrical properties of cells.
+Based on a user-friendly, graphics interface, the computer models encourage exploration of physiological properties through the manipulation of model parameters while the model experiments are in progress.
+Hardware and software requirement: an IBM or compatible computer with 80286,80386, or 80486DX, or better processor with one megabyte of free RAM and a monochrome or color monitor. Requires MS-Windows Version 3.0 or higher, with EGA, VGA, or SVGA graphics. A hard disk drive with at least two megabytes free disk space and a Microsoft-compatible mouse are also required.
+
+149
+
+150
+
+Book Notes
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+These computer models were developed as a supplement for undergraduate and graduate courses in Cellular and Molecular Neurobiology taught in the Biology Department at the University of Virginia. However, this material also provides an excellent program for self-study, appropriate for advanced undergraduate students or graduate students who wish to master electrophysiology.
+Dr. W. Otto Friesen is Professor of Biology at the University of Virginia. His research interests center on the neuronal control of animal locomotion, and he currently teaches neurophysiology at the undergraduate and graduate levels.
+Jonathon A. Friesen is in his final year of undergraduate education as a Computer Science major at the College of William and Mary. Currently, he is SysOp of the student-run computer system at the College of William and Mary.
+EVOLUTION OF INFECTIOUS DISEASE: By
+Paul W. Ewald. Oxford University Press, New York, 1994. 298 pages. $35, cloth.
+In detailing why the pathogens that cause malaria, smallpox, tuberculosis, and AIDS have their special kinds of deadliness, the book shows how efforts to control such diseases can benefit from evolutionary principles.
+When viewed from a Darwinian perspective, a pathogen is not simply a disease-causing agent. It is a self-
+
+replicating organism driven by evolutionary pressures to pass on as many copies of itself as possible. In this context, so-called "cultural vectors"-- those aspects of human behavior and the human environment that allow spread of disease from immobilized people--become critical.
+Interventions to control diseases not only hinder their spread, but can also cause pathogens to evolve into more benign forms, rather than less benign forms, for human beings. Presenting numerous case studies of pathogens from parasites to viruses, Ewald also hypothesizes scenarios in which the union of health sciences and evolutionary biology could determine the future course of many diseases.
+Both the professional and the general reader interested in science and health will find much to ponder, including whether or not they wish to treat the symptoms of their next "cold." No reader will leave this volume without a vastly altered and more informed view of infectious diseases and of the complementary roles that the health sciences, epidemiology, and evolutionary biology can play in making wise choices about their treatment.
+Paul W. Ewald is an associate professor and Chair of the Biology Department at Amherst College. He has been named the first George E. Burch Fellow of Theoretic Medicine and AffiliatedSciences, a position awarded by the Smithsonian Institution and hosted by the Smithsonian Tropical Research Institute.
+
+

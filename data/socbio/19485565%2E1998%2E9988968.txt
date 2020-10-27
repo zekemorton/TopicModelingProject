@@ -1,0 +1,354 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Behavioral contagion and official delinquency: Epidemic course in adolescence
+Marshall B. Jones
+To cite this article: Marshall B. Jones (1998) Behavioral contagion and official delinquency: Epidemic course in adolescence, Social Biology, 45:1-2, 134-142, DOI: 10.1080/19485565.1998.9988968 To link to this article: http://dx.doi.org/10.1080/19485565.1998.9988968
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 18
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:48
+
+Brief Reports
+Behavioral Contagion and Official Delinquency: Epidemic Course in Adolescence
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+Marshall B. Jones
+Department of Behavioral Science The Pennsylvania State College of Medicine Hershey, Pennsylvania 17033
+ABSTRACT: The cumulative onset curves for smoking, drinking, and sexual intercourse have been tracked through adolescence with reasonable success by recursive equations positing an "epidemic" or contagious process. The gist of these models is that the likelihood of onset in the next time period is proportional to the prevalence of the behavior among an adolescent's peers in the current time period. The present paper extends this approach to official delinquency. The fits to the data (from the Philadelphia cohort studies) are extremely tight. Several conceptual mismatches between the theory underlying the model and the model itself are discussed.
+
+Antisocial behavior is plainly an endemic condition. It has been with us at least since ancient Sumer. If attention is limited to a birth cohort, however, antisocial behavior takes on the appearance of an epidemic-like condition. Few children commit adjudicable offenses in the first decade of life. From close to zero at age 10 the cumulative onset curve rises sharply during middle adolescence and then slows down markedly toward the end of the second decade. It is as if an epidemic were sweeping through the cohort. In the absence of relevant differences among birth cohorts in successive years, the same onset curve would appear in datas collected cross-sectionally at one point in time.
+Rowe and Rodgers have taken advantage of this circumstance to develop what they call Epidemic Modeling of the Onset of Social Activities (EMOSA) and have applied EMOSA to smoking, drinking,
+
+and sexual behaviors (Rodgers and Rowe, 1993; Rowe et al., 1992; Rowe and Rodgers, 1991a, 1991ft; Rowe et al., 1989). The key feature of the RoweRodgers model is that the increment in the onset curve from one year to the next depends on the number of contacts between affected and susceptible but not yet affected persons. Some of these contacts are supposed to be "effective," that is, to result in onset for the previously unaffected person. A nonsmoker becomes a smoker, a nondrinker becomes a drinker, a virgin becomes sexually experienced. The proportion of effective contacts among all contacts is called the "transmission parameter."
+EMOSA involves two major assumptions. The first is that the population is homogeneous with respect to effective contacts; effective contacts are supposed to take place at random between affected and unaffected persons. Rowe and Rodgers
+
+134
+
+Vol. 45, No. 1-2
+
+Brief Reports
+
+135
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+have sought to make this assumption less counterfactual in a variety of ways. One way is to allow for the existence of a nonsusceptible subpopulation. The members of this subpopulation may have contacts with affected persons but not effective contacts. Another way is to carry out separate analyses by race and gender. Still a third way is to allow for a certain amount of homogamy. In their analyses of the onset of sexual intercourse, for example, they have allowed for the possibility that contacts between sexually experienced partners and virgins may be less frequent than would be expected from their proportions in the population.
+The second major assumption is that the population remains "intact" over the study period. Subjects do not move into or out of the study area from one year to the next. Rowe and Rodgers have met this assumption in part by working with national samples. This solution comes, of course, at a price. As Rowe and Rodgers (1991b, p. 213) put it, "the application of the epidemic model to national data involves an assumption that aggregate, national rates are representative of the prevalences in typical communities."
+The EMOSA model is tested by finding out how well it tracks a condition's cumulative onset curve through adolescence. The proportion of nonvirgins, for example, increases regularly through adolescence. Rowe and Rodgers have shown that their model can track this function reasonably well and, therefore, that sexual activity may be prevalence driven; that is, the more commonly other persons are sexually active the greater the likelihood that an asyet-inactive person will become active. The EMOSA model provides an equally good explanation of the proportion of persons through adolescence who have ever
+
+smoked or ever drunk. It should be noted, however, that these demonstrations do not rule out explanations of the same data that do not involve contagion.
+To date, the Rowe-and-Rodgers studies have dealt with what they describe as "mildly deviant" behaviors (sexual activity, smoking, drinking). To what extent, one might ask, does the EMOSA model apply to frankly delinquent behaviors? In addition, most of the Rowe-and-Rodgers studies have been carried out in cross-sectional samples and, hence, must contend with secular differences between successive birth cohorts. Methodologically, it would be much preferable to study the cumulative onset curve in a single birth cohort.
+This paper reports the application of the EMOSA model to official delinquency in two large birth cohorts.
+MATERIALS AND METHODS
+The Philadelphia cohort study is the largest such study ever carried out in the United States (Wolfgang et al., 1972). The subjects were all boys born in Philadelphia in 1945 who were still there when they reached their 18th birthday. The population was, therefore, intact by construction. As for homogeneity, all subjects were at least resident in the same city. In addition, allowance will be made in the analysis for a nonsusceptible subpopulation. The investigators defined "onset" as a boy's first official police contact. This contact might be an arrest leading to subsequent juvenile court processing or it might be a police encounter resulting in informal or "remedial" action by the arresting officer.
+Figure 1 presents the cumulative onset curve for ages 10 through 17 (Tracy et al., 1990, Table 10.5). The predicted
+
+136
+Proportion Ever Arrested
+
+Brief Reports
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+Age
+FIG. 1.--Proportion ever arrested for any offense by age in the 1945 Philadelphia cohort study (W=9,945), observed and predicted.
+
+curve was obtained by fitting the EMOSA model to the data, specifically, the proportion of all susceptible boys who were arrested by age (t+1).
+(1)
+where T is the transmission parameter and At is the proportion of all susceptible boys who have been arrested by age t. The proportion of all boys, whether susceptible or not, who have been arrested by age t
+(2)
+
+A10 (the proportion of susceptible boys who were arrested by age 10, that is, before their 11th birthday), and T (the transmission parameter).1 The least-squares estimates of these parameters were: 5=4,101, A10=0.09, and 7=0.61. Thus, given their family and neighborhood circumstances, less than half of the 9,945 boys were susceptible but of those boys who were susceptible most (3,475) were arrested at some point in their juvenile years. As is clear from Figure 1, the fit is very good.
+The Philadelphia investigators also reported data for "injury offenses," that is, offenses in which bodily harm is done to
+
+where S is the number of susceptible boys and N the number of all boys (9,945).
+These equations were fit to the eight data points (years 10-17) using three parameters: S (the number of susceptible boys),
+
+1If A10 and T are given, the value of S that minimizes the squared differences between observed and predicted proportions can be determined by differentiating with respect to S, setting equal to zero, and solving. That process reduces the problem to a two-dimensional search. The best fitting values were then obtained numerically, using a hill-climbing program written by the author in Pascal.
+
+Vol. 45, No. 1-2
+Proportion Ever Arrested
+
+Brief Reports
+
+137
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+11 12 13 14 IS 1« 17 18
+Age
+FIG. 2.--Proportion ever arrested for an injury offense by age in the 1945 Philadelphia cohort study (N= 9,945), observed and predicted.
+
+another person. Examples include homicide, rape, simple and aggravated assault, and battery. Figure 2 presents the cumulative onset curve for all boys who committed injury offenses (same source as Figure 1, the column headed "injury offenders"). Again there are eight data points (years 10-17). These data were fit using equations (1) and (2) and the same three parameters as before.
+The least squares best estimates appear in Table 1. The transmission parameters are much the same for injury as for all offenders (0.57 and 0.61). However, the number of boys who have the potential to commit injury offenses is much smaller than for all offenses (794 versus 4,101); and the proportion of potential injury offenders whose age at onset is 10 or less is larger than the corresponding proportion of all offenders (19 per cent versus 9 per cent).
+
+Thirteen years later the Philadelphia investigators carried out an exact replication of their first study, following up all boys born in Philadelphia in 1958 (Tracy et al., 1990). This study was larger than the first (13,160 instead of 9,945 boys) and differed markedly from it in a key respect. Severity of offense was much greater in the 1958 than in the 1945 cohort. Observed and predicted results for all offenders are presented in Figure 3 and for injury offenders in Figure 4. The source for the results is the same as for Figures 1 and 2. As is clear from the figures, the EMOSA fits are as good as or better than the fits in Figures 1 and 2.
+The proportion of injury to all offenders in the 1958 cohort is higher than in the 1945 cohort; and the proportion of potential injury offenders, while larger than the corresponding proportion of all offenders, is not as much larger as it was
+
+138
+
+Brief Reports
+
+Social Biology
+
+TABLE 1
+LEAST SQUARES ESTIMATES OF THE THREE PARAMETERS: S, A I O , AND T.
+
+COHORT AND OFFENDERS
+1945 All Iniurv
+1958 All Iniurv
+
+N
+9,945 9,945
+13,160 13,160
+
+5
+4,101 794
+4,687 1,147
+
+PARAMETERS
+1,0
+0.09 0.19
+0.08 0.13
+
+T
+0.61 0.57
+0.70 0.74
+
+Proportion Ever Arrested
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+14
+Age
+
+15
+
+FIG. 3.--Proportion ever arrested for any offense by age in the 1958 Philadelphia cohort study {N= 13,160), observed and predicted.
+
+in the 1945 cohort--perhaps because the level of severity in general was so much higher in the 1958 cohort. Both transmission parameters are somewhat higher in the later than in the earlier cohort.
+The curves in Figures 1-4 are all Sshaped. The curves rise slowly at first, then more rapidly, and finally, toward the end of the juvenile period slow down again. Table 2 presents the number of boys with onset at each age from 10 (or 11) to 17. In all four curves the numbers
+
+are low to begin with and then increase until at least age 14, after which they decrease for injury offenders. For all offenders, they do not decrease until age 16 or 17.
+The slow rate of increase at the beginning of these curves is especially interesting (see Discussion). It is also statistically significant against the hypothesis that increase is constant over time. The slow rate initially is least marked for injury offenders in 1945. Nevertheless, if
+
+Vol. 45, No. 1-2
+Proportion Ever Arrested
+
+Brief Reports
+
+139
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+10 11 12 13 14 15 16 17 18
+Age
+FIG. 4.--Proportion ever arrested for an injury offense by age in the 1958 Philadelphia cohort study (N= 13,160), observed and predicted.
+
+TABLE 2
+ALL AND INJURY OFFENDERS BY AGE AT TIME OF FIRST ARREST IN THE 1945 AND 1958 SAMPLES
+
+ALL OFFENDERS
+
+INJURY OFFENDERS
+
+AGE 1943 1958 1945 1958_
+
+10 179 112 ..." ..."
+
+11 234 179 72 77
+
+12 301 443 89 179
+
+13 412 599 110 197
+
+14 484 658 110 204
+
+15 596 777 109 161
+
+16 718 730 77 126
+
+17
+
+346 527
+
+36 52_
+
+"Tracy, Wolfgang, and Figlio (1990) reported the number of boys with onset at age 10 in the two samples for all offenders (Table 10.1). For injury offenders, however, they reported only the number of boys with onset at or before age 10 (Table 10.5).
+
+the observed numbers for this curve, ages 11 through 14, are compared with those to be expected if the rate of increase were constant, using a likelihood ratio x2> the resulting value (10.97) is significant at the 0.02 level. Much higher significance levels are obtained for the other three curves.
+
+No results are presented for girls because the Philadelphia investigators limited their cohorts to males. "If our primary focus had been on child-rearing practices, or marriage," they write (Wolfgang et al., 1972, p. 29-30), "then obviously females would have been equally relevant. But delinquency is predominantly a male
+
+140
+
+Brief Reports
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+phenomenon. Anywhere from five to ten contacts may plainly be made with older
+
+times more males than females are in- or, less frequently, younger boys. The
+
+volved in delinquency and crime."
+
+EMOSA model is counterfactual in this
+
+respect, just as it is counterfactual with
+
+RESULTS AND DISCUSSION
+
+respect to boys who are not arrested or who were arrested at a younger age but
+
+Although the fits in all four figures no longer commit delinquent acts. It
+
+are very tight, there are several concep- would seem, however, that contacts with
+
+tual mismatches that require comment. nonagemates are proportionate to con-
+
+EMOSA theory specifies contacts be- tacts with agemates, so that their effect
+
+tween affected and unaffected persons. on onsets is absorbed in the transmission
+
+The data, however, concern the propor- parameter. It would be possible to modify
+
+tion of boys to a specified age who have equations (1) and (2) to allow for contacts
+
+ever been arrested. This transition in- with nonagemates. In fact, such modified
+
+volves two mismatches. First, some boys equations have already been advanced in
+
+commit delinquent acts but are not arrested and, second, some boys who were arrested at one point for such an act no longer commit them. These two mismatches work in opposite directions. To the extent that boys commit delinquent acts but are not arrested, the cumulative onset curve underestimates the likelihood that an as-yet-unaffected boy will make effective contact with an affected one. On the other hand, to the extent that boys who were once arrested are no longer delinquent, the cumulative onset curve overestimates the likelihood of effective contact.
+
+the context of sexual behavior (Rowe and Rodgers, 1994). Again, however, the additional parameters required could not depart appreciably from null values.
+The curves in Figures 1-4 merit comment in regard to their shape as well as to conceptual mismatches. Behavioral contagion has been most often contrasted in the sociological literature with simple diffusion through a homogeneous population (Coleman, 1964; Cavalli-Sforza and Feldman, 1981; Burt, 1987). In simple diffusion a constant proportion of notyet-affected susceptibles become affected in unit time. More formally,
+
+It would appear from the results that
+
+these two mismatches cancel each other
+
+(3)
+
+out. It would be possible to modify equa-
+
+tions (1) and (2) to make allowance for Such a process does not depend on the
+
+the possibility that they do not. Doing number of persons who are already af-
+
+so would require at least one more pa- fected. It is not prevalence-driven and,
+
+rameter. This parameter, however, could hardly depart appreciably from null values because the fits are already essentially perfect.
+
+hence, not contagious. The temporal course defined by equa-
+tion (3) is negatively accelerated through. out. It rises sharply at first and then slows
+
+A third conceptual mismatch concerns down gradually. In the late juvenile years
+
+contacts with other than agemates. The simple diffusion looks very like the
+
+model takes explicit account only of curves defined by equations (1) and (2).
+
+other boys the same age, and effective Both curves are decelerating sharply. In
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+Vol. 45, No. 1-2
+
+Brief Reports
+
+141
+
+the early years, however, the two curves differ. The rate of increase in simple diffusion is not slow initially; in fact, rate of increase is steeper initially than at any later time period. The fact, therefore, that Figures 1-4 all show an initial slow rate argues against simple diffusion and for behavioral contagion.
+Unfortunately, this argument is not decisive. If the population is heterogeneous with respect to susceptibility, rather than homogeneous, then Figures 1-4 can be explained without resort to contagion. Suppose that by virtue of genetic endowment and early experience every boy has some tendency toward antisocial behavior and, further, that this tendency is distributed very much as in Table 2. For more than half of the male population the tendency is so weak that a boy is unlikely ever to become antisocial. For some others it is stronger but not greatly so; these boys do not become antisocial until late in their teenage years, 16 or 17. For most others the tendency is moderate, with onset tending to be around 14 or 15. For the remainder it is strong, with onset likely to be in early adolescence, 10 or 11. Such an hypothesis can explain the cumulative onset curves in the Philadelphia cohorts. Fits as good as those obtained with equations (1) and (2) would require six or seven parameters instead of just three and would be, therefore, somewhat arbitrary. Nevertheless, it remains true that the cumulative onset curves in the Philadelphia cohorts can be explained by individual
+
+differences in susceptibility to antisocial behavior as well as by contagion. A decision between the two interpretations must, therefore, depend on other lines of evidence.
+Several lines of evidence exist to suggest that boys do not act independently when committing delinquent acts. Juvenile delinquency is a markedly social activity. Glueck and Glueck (1950) found that 56 per cent of the 500 delinquents they studied were gang members, where a gang was distinguished from other juvenile groupings "by being organized for a definite antisocial purpose and having a specific leadership" (p. 64); only 1 per cent of the Gluecks' 500 control boys were gang members. Gang membership, however, usually has general social effects. It attenuates a boy's relationships with parents and prosocial other adults or peers at the same time that it strengthens his ties to antisocial persons (EcklandOlson, 1982). Delinquent acts are infrequently committed by a solitary individual. In the usual case the same act is carried out by two or more boys acting together (West and Farrington, 1973). A variety of within-family studies also suggests that when a boy becomes antisocial the risk to his brothers is increased (Jones and Jones, 1992, 1994, 1995; Rowe and Gulley, 1992).
+These evidences, while they may not be conclusive, do support an interpretation of the cumulative onset curves for male delinquency in terms of contagion.
+
+REFERENCES
+
+BURT, R. S. 1987. Social contagion and innovation: Cohesion versus structural equivalence. Amer. J. Sociol. 92:1287-1335.
+
+CAVALLI-SFORZA, L. L., and M. W. FELDMAN. 1981.
+Cultural transmission and evolution: A quantitative approach. Princeton Univ. Press, Princeton, NJ.
+
+142
+
+Brief Reports
+
+Social Biology
+
+COLEMAN, J. S. 1964. Introduction to mathematical ROWE, D. C., and J. L. RODGERS. 1991a. Adolescent
+
+sociology. Free Press ofGlencoe, Glencoe, IL.
+
+smoking and drinking: Are they "epidemics"? J.
+
+ECKLAND-OLSON, S. 1982. Deviance, social control,
+
+Stud. Alcohol 52:110-117.
+
+and social networks. Res. Law Deviance Soc. Control 4:271-299.
+GLUECK S., and E. GLUECK. 1950. Unraveling juve-
+
+. 1991b. An "epidemic" model of adolescent sexual intercourse: Applications to national survey data. J. Biosoc. Sci.23:211-219.
+
+nile delinquency. Harvard Univ. Press, Cam-
+
+. 1994. A social contagion model of adoles-
+
+bridge, MA.
+
+cent sexual behavior: Explaining race differ-
+
+JONES, D. R., and M. B. JONES. 1992. Behavioral con-
+
+ences. Soc. Biol. 41:1-18.
+
+tagion insibships. J.Psychiatr. Res. 26: 149-164.
+JONES, M. B., and D. R. JONES. 1994. Testing for
+behavioral contagion in a case-control design. J. Psychiatr. Res. 28:35-55.
+
+ROWE, D. C., J. L. RODGERS, and S. MESECK-
+BUSHEY. 1989. An "epidemic" model of sexual intercourse prevalences for black and whiteadolescents. Soc. Biol. 36:127-145.
+
+. 1995. Preferred pathways of behavioral contagion. J. Psychiatr. Res. 29:193-209.
+RODGERS, J. L., and D. C. ROWE. 1993. Social con-
+tagion and adolescent sexual behavior: A devel-
+
+TRACY, P. E., M. E. WOLFGANG, and R. M. FIGLIO.
+1990. Delinquency careers in two birth cohorts. Plenum Press, New York.
+WEST, D. J., and D. P. FARRINGTON. 1973. Who
+
+opmental EMOSA model. Psychol. Rev. 100: becomes delinquent? Heinemann Educational
+
+479-510.
+
+Books, London.
+
+ROWE, D. C., L. CHASSIN, C. C. PRESSON, D. E D -
+WARDS, and S. J. SHERMAN. 1992. An "epi-
+demic" model of adolescent cigarette smoking. J. Appl. Soc. Psych. 22:261-285.
+
+WOLFGANG, M. E., R. M. FIGLIO, and T. SELLIN.
+1972. Delinquency in a birth cohort. Univ. of Chicago Press, Chicago.
+
+ROWE, D. C., and B. L. GULLEY. 1992. Sibling ef-
+
+fects on substance use and delinquency. Crimi-
+
+nology 30:217-233.
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+

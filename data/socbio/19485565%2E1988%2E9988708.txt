@@ -1,0 +1,747 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Effect of marital dissolution on fertility in Cameroon
+Bun Song Lee & Louis G. Pol
+To cite this article: Bun Song Lee & Louis G. Pol (1988) Effect of marital dissolution on fertility in Cameroon, Social Biology, 35:3-4, 293-306, DOI: 10.1080/19485565.1988.9988708 To link to this article: http://dx.doi.org/10.1080/19485565.1988.9988708
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:42
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+Effect of Marital Dissolution on Fertility in Cameroon
+Bun Song Lee and Louis G. Pol
+Departmentof Economics, University of Nebraska, Omaha, Nebraska; and Roy E. Crummer Graduate School of Business,Rollins College, WinterPark, Florida
+ABSTRACT: There is reason to believe that in the short run marriages are becoming more stable in some Western African countries such as Cameroon. One of the crucial questions facing these countries is whether fertility rates can be expected to increase or decrease due in part to the increased stability of marriages. Analyzing 1978 Cameroon World Fertility Survey data and using a multivariate regression model which compares the fertility rate of women who have had at least one marital disruption with that of continuously married women, westudied the relationship between marital instability and fertility. The results show that fertility rates for women married more than once are significantly lower than those for continuously married women even before the end of their first marriage. Furthermore, marital disruption significantly reduces fertility rates after the dissolution of the first marriage. Finally, even after the length of reproductive time lost is controlled, there is an inverse relationship between the number of marriages and fertility. The results are discussed in the context of economic development, modernization, and urbanization.
+There is reason to believe that in the tal dissolution in Cameroon is probably short run marriages are becoming more the death of a husband. The large differstable in some West African countries ence in age at marriage between men such as Cameroon, although we recog- and women resulting from polygyny in nize that it is far from clear that in the combination with high (male) mortality long run modernization and increased increases the probability of widowhood. urbanization will lead to further stabil- Polygyny also provides an efficient reity. We feel that at least in the short run marriage net for widows and divorcees modernization and increased urbaniza- (see Lesthaeghe et al., 1986). Modernition will lead to an increased stability of zation and increased urbanization remarriage in Cameroon because of the duce the incidence of polygyny and the following reasons. As economic devel- mortality rate. The reduction of polygopment, which accompanies urbaniza- yny, in turn, narrows the spouse age at tion and modernization, goes forward, marriage differential. The reduction in the structure of sociodemographic fac- the age differences, in combination with tors such as infertility, early marriage, the decline in the (male) mortality rate, large age differences between spouses, negatively affects the probability of widhigh incidence of widowhood, and po- owhood and so reduces the likelihood of lygyny are changing in such a way as to marital dissolution. Furthermore, the encourage increased marital stability. declining prevalence of polygyny makes For example, the leading cause of mari- it more difficult for widows and divor-
+293
+
+294
+
+Lee and Pol
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+cees to remarry and contributes to the reduced likelihood of multiple marriages.
+One of the crucial questions facing West African countries is whether fertility rates can be expected to increase or decrease due in part to the increased stability of marriages. The literature focusing on the relationship between marital instability and fertility is mixed in that some studies show a fertility-depressing effect of marital instability while others show a positive effect. At the core of the complexity are the two counteracting forces identified by Downing and Yaukey (1979): the negative impact on fertility of the reproductive time lost while a woman is in between unions, and the pronatalist effect of establishing a new union.
+In general, research on U.S. samples of women shows that marital instability reduces fertility, especially for women who do not remarry (c.f. Lauriat, 1969; Cohen and Sweet, 1974; and Thornton, 1978). For women who remarry, the impact on fertility is most influenced by the time spent between unions and the psychological desire to "cement" new marriages by having children. Lauriat (1969) found that holding age and ageat-first-marriage constant, women in discontinuous marriages have only 79 per cent of the children they would have had if they (hypothetically) had remained continuously married. Increasing the number of controls by including education, type of residence, whether or not the women was premaritally pregnant, religion, and race, as well as current age and age at first marriage, Cohen and Sweet (1974) generated the same basic finding. However, when total months in a married state--excluding periods of time between separation and remarriage--was added to their list
+
+of controls, the fertility difference was minimized. Thornton's (1978) results once again supported the general reduction in fertility finding. However, the pattern of fertility after remarriage showed marked differences by race.
+Studies of women in developing countries have yielded conflicting findings. Utilizing two different data sets, Swee-Hock (1967) and Palmore and Mazurki (1969) found that for Malaysia, divorce without remarriage and divorce followed by remarriage reduced levels of fertility below those of continuously married women. Controlling for age, age at marriage, place of current residence, race, and education, Palmore and Mazurki determined that the effect of being divorced and remarried lowered completed fertility 0.5 births when compared to the fertility of continuously married women. Conversely, Ram and Ebanks (1973), Chen et al. (1974), Ebanks et al. (1974) and Downing and Yaukey (1979) found that marital instability increased fertility in Barbados, Guayquil, Ecuador, and five Latin American cities, respectively, although in two of these studies the results of the net effect of marital instability on fertility were not reported. For example, Chen et al. (1974) standardized children ever born by years of reproductive time lost and determined that people with two unions had fertility 14 per cent higher than people with one union. A third union increased fertility an additional 15 per cent over that of women in a second union. However, the authors did not present results looking at rates without controlling for time lost, so that conclusions about the net effect could not be made.
+Overall, it is not possible to make general cross-cultural statements about the relationship between marital insta-
+
+Vol. 35, No. 3-4
+
+Fertility in Cameroon
+
+295
+
+bility and fertility. The purpose of the present paper is to analyze the relationship between marital instability and fertility in Cameroon utilizing the 1978 Cameroon World Fertility Survey data. To the authors' knowledge, no other study has focused on the relationship between marital instability and fertility in an African nation. Following a brief description of the data set, we discuss the hypotheses, present our basic model, and show regression results.
+MATERIALS AND METHODS
+The present study is based on the data obtained from the 1978 Cameroon
+
+World Fertility Survey (CWFS). Information on full pregnancy history, history of marital status, employment history, and other demographic and socioeconomic characteristics for 8,219 Cameroonian women, aged 15 to 54, is included in the data. The data set is described in more detail elsewhere (Lee et al., 1986).
+Table 1presents descriptive information on major social and demographic characteristics of the total sample of women cross-classified by the number of marriages. As can be seen, there is a strong inverse relationship between the number of marriages and education (wives and husbands). Specifically, the
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+TABLE 1
+MAJOR CHARACTERISTICS OF TOTAL SAMPLE WOMEN ACCORDING TO THE NUMBER OF MARRIAGES
+
+VARIABLES
+Current age
+
+Once Married and Currently
+Married
+(0)
+30.1
+
+Mean years of women's schooling
+
+2.06
+
+Mean years of husband's schooling
+
+3.33
+
+Mean age at first marriage . . . 17.3
+
+NUMBER OFMARRIAGES
+
+Once Married
+but Currently Unmarried (1)
+
+2
+
+38.5 36.4
+
+1.33 0.78
+
+2.54 18.0
+
+2.11 17.2
+
+38.9 0.20
+1.35 15.9
+
+Years since the year of first marriage Marriage gap (in years)
+Fraction of disrupted marriage years
+
+12.8 0.0
+0.0
+
+20.5 7.61
+0.376
+
+19.2 2.96
+
+22.9 4.93
+
+0.160
+
+0.215
+
+Mean number of children ever born
+Percentage of women who ever used any contraceptive method
+
+3.48 0.133
+
+4.21 0.121
+
+3.34 2.67
+
+0.126
+
+0.065
+
+Number of women
+
+4,379
+
+479 641 92
+
+4or5
+38.6 0.17 0.50 14.5
+23.9 4.0 0.156
+1.83
+0.028 36
+
+296
+
+Lee and Pol
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+decline in wives' and husbands' education is 1.89 and 2.83 years, a 92 and 85 per cent reduction, respectively, between those once married/currently married and those married four or five times. A general inverse relationship also exists between number of times married and mean age at first marriage and mean number of children ever born. The decline in the number of children ever born is 1.65 children and the reduction in mean age at first marriage is 2.8 years between the once married/ currently married women and those married four or five times.
+
+Women with marital disruptions might be a negatively selected group in terms of fecundity. The lower fecundity of women (particularly childlessness) might have led to an increase in marital disruption because these women may be viewed as "less desirable" marriage partners. Given the overall cultural norm to have children, problems of subfecundity and infecundity are solved through divorce. In other words, higher fertility favors marital stability while unsatisfactory (low) fertility leads to higher marital turnover resulting from successive attempts to turn around inadequate childbearing.
+
+However, there are other reasons
+
+MAJOR HYPOTHESES
+
+why women with marital disruptions
+
+Four major hypotheses concerning the influence of marital instability on fertility behavior are tested in this study:
+Hypothesis1: The fertility of women with at least one disrupted marriage is significantly lower than the fertility of continuously married women, even before the dissolution of the first marriage.
+
+might have lower fertility even before the dissolution of the first marriage. First, the anticipation of unstable marriages might have resulted in lower fertility. Second, women with more children may be less attractive marriage partners or may be more constrained in the search for a second husband, thus
+
+Hypothesis 2: When the number of making remarriage selective of women
+
+marriages is controlled, the greater the reproductive time lost, the lower the fertility level.
+Hypothesis 3: When the length of the reproductive time lost is controlled, the
+
+with lower fertility.
+These latter two phenomena, which together we call the "simultaneity effect," are quite distinct from the former
+
+greater the number of marriages, the more the fertility rate is reduced after the dissolution of the first marriage.
+Hypothesis 4: The fertility rate of women with disrupted marriages is significantly lower when compared to the fer-
+
+phenomenon which we call the "pure selectivity effect." According to the pure selectivity effect, the fact that women with marital disruptions have lower fertility rates even before the dis-
+
+tility rate of the continuously married solution of the first marriage tells us that
+
+women after the dissolution of the first the observed lower fertility rates for the
+
+marriage.
+
+maritally disrupted women after the dis-
+
+Hypothesis 1 concerns the selection solution of first marriage exaggerate the
+
+effect of marital instability. There are several reasons why women with marital disruptions might show a lower fertility rate than the continuously married women even before the dissolution of the first marriage.
+
+causal effect of marital dissolution on fertility. On the other hand, according to the simultaneity effect, the lower fertility rates of maritally disrupted women before the dissolution of first marriage do not imply that the lower fertility rates
+
+Vol. 35,No. 3-4
+
+Fertility inCameroon
+
+297
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+observed for the disrupted women after Tests of Hypothesis 3 were per-
+
+the dissolution of first marriage exagger- formed in only three previous studies:
+
+ate the causal effect of marital disrup- Ebanks et al. (1974), Chen et al. (1974),
+
+tion. This is because women who hap- and Downing and Yaukey (1979). As
+
+pened to have lower fertility rates by previously noted, all of these used data
+
+coincidence or due to the anticipation of from countries in Latin America. Each
+
+a marriage breakdown would not neces- study concluded that when the years of
+
+sarily maintain their lower fertility rates reproductive time lost between unions is
+
+after the beginning of their second mar- controlled, mean live births per woman
+
+riage. The above discussion implies that increased as the number of marriages in-
+
+the testing of Hypothesis 1for the selec- creased. It was shown that the pronatal-
+
+tion effect is very important, though ist effect of establishing a new union is
+
+caution in interpretation should be exer- strong in Latin American marriages.
+
+cised because of the potential effect of However, there is another factor, the
+
+simultaneity.
+
+negative effect of the number of mar-
+
+Hypothesis 2 has been tested in most other research and not rejected in any study. A serious shortcoming of these previous works, however, is that they did not decompose fertility measures into the fertility level before the dissolution of first marriage and the change in the level after the dissolution. Previous studies have simply investigated the relationship between the weighted reproductive time lost and the number of children ever born. A weight was assigned to eachfive-yearinterval since first marriage based on the relative fertility rates occurring during that interval in the population to which the sample belongs (see Downing and Yaukey, 1979; and Chen et al., 1974). This approach can
+
+riages on fertility, which should be considered. This is the pure form of the disruptive effect of multiple marriages when the length of reproductive time lost is controlled. In other words, marital dissolution and remarriage have a fertility dampening effect which is independent of other effects. In some African countries, such as Cameroon, a third factor which is physiological in nature must also be considered. To the extent that the number of marriages indicates exposure to an increasing number of sexual partners (both husbands and other partners), and thus an increased probability of exposure to sterilizing venereal diseases, fertility reduction is associated with a larger number of unions.
+
+lead to erroneous conclusions for two Hypothesis 4 pertains to the net ef-
+
+reasons. First, fertility levels before the fect of marital instability on fertility be-
+
+dissolution of first marriage cannot be havior. If Hypothesis 3 is not rejected,
+
+influenced by lost reproductive time then Hypothesis 4 will not be rejected.
+
+which occurred later. Second, as dis- However, if Hypothesis 3 is rejected, as
+
+cussed above, because of the selectivity in the case for Latin American coun-
+
+effect the entire differential in fertility tries, then the outcome for Hypothesis 4
+
+rates even after the dissolution of first cannot be predicted a priori. In many
+
+marriage between women who lost a previous studies, particularly those for
+
+great deal of reproductive time and Latin American countries, Hypothesis
+
+those who lost little or none at all should 4, which should have the most impor-
+
+not be considered as the causal effect of tant bearing on the policy decision mak-
+
+longer reproductive time lost.
+
+ing, has been underemphasized. On the
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+298
+
+Lee and Pol
+
+Social Biology
+
+other hand, studies on Malaysian data The dependent variable in the model
+
+by Swee-Hock (1967) and Palmore and is the increase in fertility over the time
+
+Mazurki (1969) report that Hypothesis 4 interval in question, Y,--Y^i, instead of
+
+is not rejected although Hypothesis 3is children ever born. Because theyearsof
+
+not tested.
+
+observation are in five-year intervals,
+
+Y, -- Y,-j is the additional fertility which
+
+BASIC REGRESSIONMODEL
+
+occurred during the previousfive-year period. It is not unreasonable to assume
+
+A multivariate regression model, that the increments to fertility levels,
+
+which compares the fertility rate of Y, -- YHi, areinfluenced more bycurrent
+
+women with marital disruption with that circumstances, say, during the subse-
+
+of continuously married women, was es- quent marriage (reflecting the causal ef-
+
+timated toperform thetests of the above fect of marital disruptions), and less af-
+
+four major hypotheses. A model similar fected by age at marriage or education
+
+to the one used here has been success- levels which are attained earlier in the
+
+fully applied in the investigations of the life-cycle (reflecting the selectivity ef-
+
+influence of rural-urban migration on fect).
+
+migrant's fertility behavior in Korea, The fertility data for ever-married
+
+Mexico, and Cameroon (seeFarber and women for the years prior to the survey
+
+Lee, 1984; Lee and Farber, 1984,1985; year, 1978,were obtained from theindi-
+
+Lee andPol,1985;andLeeet al.,1986). vidual woman's lifetime fertility history.
+
+The model, which compares the fer- In order to account for the entire period
+
+tility rate of women with marital disrup- of awoman's lifetime fertility with a lim-
+
+tion with that of continuously married ited number of dummy variables, we
+
+women, can be expressed as:
+
+chose seven observation years at five-
+
++ aiDYR78 + a2DYR73 + a3DYR68 + a4DYR63 + a5DYR58 + a6DYR53 + a7DYR48 + agAtDYR78 +a9A2,DYR78 +a10A,DYR73 + anA2DYR73 + al2A,DYR68 + auA2,DYR68 + auA,DYR63 + al5A2DYR63 + a16A,DYR58 + anA2,DYR58 + alsA,DYR53 + a19A2DYR53 + a2oA2DYR48 + a21A2DYR48 + frS + $2S2 + foAGEFM
+
++ a.mDGAPo ' DNMRl
+
+^ � DNMRl
+
+DNMRl
+
+� DNMRl
+
+# DNMRl
+
+DNMRl + o.6lDGAPm' DNMRl + a02DGAPo � DNMRl + . . . + a62DGAP30 � DNMR2 + amDGAPo - DNMR3 + . . . + a63DGAP30 � DNMR3 + amDGAPo � DNMR4 + . . . + auDGAPx, � DNMR4 + e,.
+
+Vol. 35,No. 3-4
+
+Fertility inCameroon
+
+299
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+year intervals, 1978, 1973, 1968, 1963, 1958, 1953, and 1948, rather than consecutive years. Whenever the woman had never married by the year of observation, t, this woman was omitted in the regression for that year of observation.
+Concerning our approach which omits women not married by year t, one might suggest that we should use year f-1 rather than year t as a threshold for omitting a woman's observation. Otherwise women married only a few months are treated as if they have been at childbearing risk for the full five years. This criticism might be justified for societies where premarital pregnancies are very rare. In Western African societies, where the practice of entering a consensual union as a first stage in marriage life is widely accepted, our approach seems to be justified. From Table 1, we note that the mean age at first marriage for Cameroonian women ranges from 14.5 to 18 years. Our approach implies that as long as a woman was older than 10 to 13years at year t-\, we treat her as if she has been at risk for the full five years by year t even though she has only been married a few months.
+The independent variables include woman's age at time t (At), the square of the age (A*), woman's years of education (5), the square of the education variable (S2), and the woman's age at first marriage (AGEFM).
+DYR78, DYR73, DYR68, DYR63, DYR58, DYR53, and DYR48 are dummy variables representing the calendar years of observation. For example, the value of DYR78 is 1 when the year of observation is 1978;otherwise, it is zero. The calendar year of observations dummy variables, DYR78, DYR73 . . ., capture the trends in
+
+general fertility behavior over time. The interaction terms between age variables and the year of observation dummy variables reflect the differences in the influence of age variables over the different time periods.
+DGAPo, DGAP!_5, DGAP6-10, DGAPn_15, DGAPi6_2o, DGAP21-25, DGAP30 are dummy variables representing the years of reproductive time lost between marriages by year t, not the survey year 1978. For women who have been married but are currently unmarried, the years of reproductive time lost include the interval between the dissolution of the last marriage and the year t. The value of DGAPO is 1 when the observation is for the woman who dissolved her marriage by the survey year 1978 though had not yet experienced marital disruption by the year t. Otherwise the value is zero. DGAPi_5, DGAP6_io, DGAPii-15, DGAP16_20, DGAP2i_25, DGAP30 have the value of 1 when the observation is for the woman who lost reproductive time of 1to 5,6 to 10,11 to 15,16 to 20,21 to 25, and more than 25years by the year t, respectively.1 The years of reproductive time lost dummy variables, DGAP's, are expected to capture the causal effect of marital disruptions on the fertility rate.
+DNMR1, DNMR2, DNMR3, and DNMR4 are dummy variables reflecting the number of marriages for the women with marital disruption by the survey
+1Marital histories of women in the 1978Cameroon World Fertility Survey include information on the month and year of each marriage up to eight marriages, current status of these marriages, and the month and year of each dissolution of marriage. From this information we computed the cumulative years of the reproductive time lost up to each year of observation, 1948, 1953, 1958,1963, 1968, 1973,and 1978.
+
+300
+
+Lee and Pol
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+year, 1978, not by the year t. DNMR1 is 1 when the woman's first marriage was dissolved, but she has never remarried. Otherwise, the value is zero. DNMR2 and DNMR3 have the value of 1 when the woman married 2 and 3 times, respectively. DNMR4 has the value of 1 when the woman married either 4 or 5 times. The number of marriages (for women with disruption) dummy variables, DNMR's, are expected to reflect the causal effect of the number of marriages on the fertility rate for women with marital disruptions. The interaction terms between the years of reproductive-time-lost dummy variables and the number of marriage dummy variables capture the differences in the influence of the years of reproductive time lost on fertility rates among the women with a different number of marriages.
+The age at time t variables control for four factors, namely, the biological ability to reproduce, life cycle pattern of deliberate birth control, birth cohort effect, and the difference in age distribution between women with marital disruption and continuously married women. We assume that these factors indicate that there is a nonlinear relationship for the age variable. The control for the age at time t variables as the difference in age distribution between women with marital disruption and continuously married women is especially important. The earlier periods of our sample years are increasingly truncated on current age, and age at marriage. Given an age 54 cut off, in 1948 the oldest respondent included in the survey would have to be younger than 25. Therefore, the earlier periods have disproportionally fewer women with a marital disruption because by age 25
+
+very few women would have experienced a disruption.
+This is why our model includes the interaction terms between the age at time t variables and the year of observation dummy variables. They reflect the differences in the influence of age variables over the different time periods. The woman's education variables and the age at first marriage variable control for the (negative) selectivity of women in marital disruptions. Woman's education and age at first marriage are quite unlikely to be influenced by the disruption of a woman's marriage. In most developing countries adult education is not prevalent. That is, education and age at first marriage have the same effects in all periods for women of all ages. Therefore, the inclusion of these variables does not underestimate the causal effect of marital disruption on fertility behavior.
+Overall, our model is unique in two respects. First, we use five-year fertility rates throughout the woman's lifetime history rather than children-ever-born data at the survey year as the measure of fertility. Second, we compare the fiveyear fertility rates at different points in a woman's lifetime against the total reproductive time lost up to that point of time for the same woman.
+However, one might be critical of our model. Suppose we are looking at a 34year-old woman who has ten years between various marriages. Given that we are interested in fertility in the last five years, how is this earlier lack of exposure relevant? If our interest is constrained to the investigation of the influence of the years of reproductive time lost between marriages on the fertility rate on the biological sense, the above criticism is valid. However, our interest
+
+Vol. 35, No. 3-4
+
+Fertility in Cameroon
+
+301
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+is much broader. We are concerned with survey year, 1978, is not significantly
+
+investigating behavioral responses of lower than that of continuously married
+
+women with different numbers of mar- women during the period before the dis-
+
+riages and different durations of marital solution of their first marriage. This im-
+
+disruption in their married life. Does the plies that infecundity and subfecundity
+
+woman with the longer duration of mar- were not major contributors to divorce
+
+ital disruption have a stronger desire to at least for women whose first marriage
+
+cement her new marriage through childbearing? Does the woman with longer marital disruption feel a greater disruptive effect on her fertility behavior? Has the woman with the longer period of disruption experienced sexual activity with more partners, and therefore is she more likely to have sexually transmitted diseases which might cause lower fertility? To answer the above questions, the earlier lack of marital exposure should be relevant to fertility in the last five years.
+
+was dissolved and who did not remarry. The difference in the fertility rates between once-married (currently unmarried) and multiply-married women seen in the table can be interpreted in two ways. First, women with a small number of children are more attractive for remarriage and therefore are more likely to remarry than those with a larger number of children. Secondly, this finding may indicate that once the first marriage is dissolved, women with large numbers of children are less likely to try successive attempts to turn around inadequate
+
+childbearing because they are already
+
+RESULTS
+
+closer to their desired family size. How-
+
+Table 2 shows ordinary least squares estimates of the coefficients for the in-
+
+ever, we do not know which of these two interpretations is predominant.
+
+teraction terms between the number-of- Interpreting the coefficients from
+
+marriages dummy variables and the Row 1 of Table 2 requires some clarify-
+
+years-of-reproductive-time-lost dummy ing discussion. Initially, the fact that the
+
+variables. The regression results were fertility level for once married but cur-
+
+obtained using the continuously married rently unmarried women is not lower
+
+women as the comparison group.
+
+than that for continuously married
+
+The results in the first row of Table 2 women implies that the main cause of
+
+reveal that the fertility rate of women marital dissolution is not divorce but
+
+who married more than once is signi- widowhood. Therefore, both fecund
+
+ficantly lower than that of continuously and infecund women are equally af-
+
+married women, even before the disso- fected. However, the lower fertility of
+
+lution of their first marriage. This should multiply married women (as compared
+
+be due to the selectivity (infecundity) with the once-married/currently-un-
+
+and simultaneity effects of women of married women) indicates that multi-
+
+multiple marriages discussed earlier. ple marriages are more likely to occur
+
+Thefindingindicates that we should not to women who are at least subfecund
+
+reject Hypothesis 1. However, it is im- and are trying to turn around inade-
+
+portant to note that the fertility rate of quate childbearing.
+
+women whose first marriage was dis- Rows 2 through 5 in Table 2 show
+
+solved and who did not remarry by the that the coefficients for most interaction
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+302
+
+Lee and Pol
+
+Social Biology
+
+TABLE2
+COEFFICIENT ESTIMATES FOR THE INTERACTION TERMS BETWEEN THE NUMBER-OF-MARRIAGES DUMMY VARIABLES AND THE YEARS-OF-REPRODUCTIVE-TIME-LOST DUMMY VARIABLES
+
+YEARS OF REPRODUCTIVE TIME LOST BETWEEN MARRIAGES"
+0 years (before the first marriage dissolution)
+(0)
+
+Once Married
+but Currently Unmarried
+-0.0008 (-0.03)
+
+NUMBER OFMARRIAGES
+
+2
+-0.224" (-8.72)
+
+3
+-0.438" (-6.33)
+
+4 or 5
+-0.571* (-5.97)
+
+0<gap�5 (1)
+5 < gap� 10 (2)
+10 < gap�15 (3)
+15 < gap < 20 (4)
+20 < gap =�25 (5)
+25 < gap (6)
+Sum of fertility differentials due to less than 5 years of reproductive time lost
+
+-0.301* (-6.69)
+-0.397" (-6.20)
+-0.440" (-5.25) -0.453* (-3.95)
+-0.387" (-2.43)
+-0.265 (-1.26)
+-0.301
+
+-0.280" (-8.88)
+-0.456" (-6.98)
+-0.420" (-3.70)
+-0.508* (-2.42)
+-0.518 (-1.46)
+-0.383 (-0.58)
+
+-0.476* (-6.91)
+-0.733" (-5.52)
+-0.547" (-2.86)
+-0.323 (-0.77)
+-0.641" (-1.67)
+NA
+
+-0.832" (-7.35)
+-0.441" (-2.00)
+-0.563 (-1.34) -0.631 (-0.67)
+NA
+NA
+
+-0.280
+
+-0.476
+
+-0.832
+
+Sum of fertility differentials due to 10years of reproductive time lost (sum of [1] and [2])
+
+-0.698
+
+-0.736
+
+-1.209
+
+-1.273
+
+Sum of fertility differentials due to 15years of reproductive time lost (sum of [1] through [3])
+
+-1.138
+
+-1.156
+
+-1.756
+
+-1.836
+
+Sum of fertility differentials due to 20 years of reproductive time lost (sum of [1] through [4])
+
+-1.591
+
+-1.664
+
+-2.079
+
+"Including years between the last dissolution and the year, /for currently unmarried women. 'Significant at the 5 per cent levelfor the one-tailed test. Thefiguresin parenthesis are the usualr-values.
+
+-2.467
+
+terms are significantly negative. Thisimplies that the disruption of marriage significantly reduces fertility rates after the dissolution of first marriages and gives us reason not to reject Hypothesis 2. For a given number of marriages,as
+
+reproductive time lost increases, the level of fertility decreases.
+The last four rows of Table 2 show the sums offertility differentials due to years of reproductive time lost of less than 5years, 10 years, 15 years, and 20
+
+Vol. 35, No. 3-4
+
+Fertility in Cameroon
+
+303
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+years. Consistent with Hypothesis 3, the Yaukey (1979). The fact that we did not
+
+comparison of these sums across differ- reject Hypotheses 2 and 3 also means
+
+ent numbers of marriages clearly indi- that we should not reject Hypothesis 4.
+
+cates that even though the length of the Overall, even when selectivity and
+
+reproductive time lost is controlled, the simultaneity are controlled, the physio-
+
+greater the number of marriages, the logical and disruption effects of multiple
+
+lower the fertility rate of women ? There marriages reduce fertility more.
+
+is no significant difference in fertility dif- In sum, the results from Table 2show
+
+ferentials among once-married, cur- that fertility rates for women married
+
+rently unmarried, and twice-married more than once are significantly lower
+
+women. Nevertheless, there is a sub- than those for continuously married
+
+stantial difference in fertility between women even before the dissolution of
+
+twice-married and more-than-twice- their first marriage. Furthermore, mari-
+
+married women. When the number of tal disruption significantly reduces the
+
+marriages exceeds two, the frequency of fertility rate after the dissolution of the
+
+marriage reduces the fertility rate of first marriage. Lastly, even after length
+
+women with disrupted marriage even of reproductive time lost is controlled,
+
+though the length of reproductive time there is an inverse relationship between lost does not increase. As shown in data the number of marriages and fertility.3
+
+from Table 1, the mean years of mar- Before accepting the findings from riage gap for women married more than this analysis, attention should be foonce in the sample had a range of 3 to cused on the issue of data quality. It is 4.9 years. Table 2 shows that the follow- well known that there are serious probing reductions in fertility occur for lems with using marriage and fertility women who lost zero to five years of re- histories from many African fertility productive time: two marriages, -0.28 surveys because of the gross misreportchildren; three marriages, -0.48 chil- ing of birth timing. One concern is the dren; and four and five marriages, possibility that there is a strong correla--0.83 children. These reductions rep- tion between data unreliability and the resent 8, 14, and 24 per cent of mean central variables of this study. Previous number of children ever born to once research shows that unreliability in reand continuously married women, 3.48 porting childbearing histories (espebirths in Table 1. There is no support for cially underreporting) is correlated with the positive relationship between the
+
+number of marriages and the completed
+
+fertility levels found by Ram and Ebanks (1973) and Downing and
+2One might criticize our approach because in Table 2 we look only at the interaction term between these two group dummy variables. It could be suggested that we might need simultaneously to consider the main effect of the number-ofmarriages dummy variable. This is, however, statistically impossible because the number-ofmarriages dummy variables and the interaction terms with the years-of-marriage-gap dummy variables are perfectly collinear.
+
+3The coefficient estimates--data not shown in Table 2--for the education variables, S and S2 in Equation (1) were 0.038 (4.66) and -0.004 (--3.64), where the ( values are in parenthesis. The impact of education on fertility is positive rather than negative and indicates a significant nonlinear effect. One explanation for this relationship could be that increased education reduces the likelihood that a woman is infertile. However, the positive effect is reduced as education reaches the highest levels, exposing the nonlinear relationship. The coefficient estimate for the age at first marriage variable, AGEFM, was --0.0006 (--0.33) which shows an insignificant negative influence.
+
+304
+
+Lee and Pol
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+women's age and education. High age and low education are strongly correlated with multiple marriages as shown in Table 1. Therefore, it is quite plausible that unreliability accounts for the finding reported in Table 2 that unstable marriages depress the fertility rates. However, even if these data are lessreliable than desired, the analysis results in conservative effect estimates.
+As discussed earlier in this paper, multiple marriages (but not the dissolution of the first marriage) mainly result from the subfecundity of women and the successive attempts to turn around inadequate childbearing. It is very unlikely that women with multiple marriages, and who suffer from unsatisfactory fertility, would underreport fertility levels even though their educations are low and their ages are high. On the other hand, higher fertility favors marital stability. Therefore, it is likely that older, less-well-educated continuously married women might underreport their fertility. This fact implies that our fertility depressing effect of multiple marriages is underestimated.
+Furthermore, it is important to note that any systematic effect on the misreporting of childbearing histories of education and ages should be partially captured by the age at time t variables and women's years of education variables in our regression model. Finally, Lesthaeghe et al. (1986) performed a very careful evaluation of the reliability of the current age and the age at first marriage data in the World Fertility Survey data of six sub-Saharan African countries including Cameroon. They found the tendency of the ages of women to shift across the five-year age boundaries according to marital status. Married women younger than 15 tend to be recorded as 15 to 19 years old, and single
+
+women older than 20 tend to be dropped down into the same age group. Similarly, married women 15-19 may be pushed into the 20-24 category when age heaping is particularly prevalent (rounding to 20). This practice can be severely aggravated if literacy levels are low and if the interviewer uses marital status or parity to determine a woman's age. However, they point out that since the degree of literacy among young women in non-Muslim areas was greatly improved in the 1960's and 1970's, the quality of the age data collected after 1970 has been improved. They also indicate that the cross-sectional analyses may prove to be more accurate than the analysis of trends which relies heavily on the changing behavior among different birth cohorts. Our study should suffer much less from the poor quality of data than the notorious concern suggests.
+DISCUSSION
+The major findings from the regression analysis can be summarized as follows. Fertility rates for women married more than once are significantly lower than those for continuously married women, even before the dissolution of their first marriage. This is due to the selectivity and simultaneity effects of women in multiple marriages. Marital disruption significantly reduces fertility after the dissolution of the first marriage. Even after length of reproductive time lost is controlled, an increase in the number of marriages reduces fertility levels.
+The results of this study coupled with the ongoing effect of economic development indicate that delayed marriage and the decreases of infertility, age difference between spouses, adult mortality, and polygyny would reduce the instabil-
+
+Vol. 35, No. 3-4
+
+Fertility inCameroon
+
+305
+
+ity of marriage, over the short run, and in turn could increase rather than decrease the fertility rate in Cameroon. Economic development, which also brings increased education, urbanization, and increased job opportunities for women, may not produce a short-run significant fertility-depressing effect in Cameroon as in the case of other less developed countries. This scenario is consistent with the findings of Bongaarts et al. (1984) which predict the fertility increase rather than fertility decrease in the short run due to the modernization for some sub-Saharan African countries.
+However, we hypothesize that, in the long run, marital stability will provide women with a greater level of confidence in a woman's ability to determine her own family size, provide an in-
+
+centive to use contraceptives, and eventually bring about a decline rather than an increase in fertility. This is also consistent with the assertion made by Frank (1983) who argues that the reduction in infertility will decrease rather than increase African fertility in the long run. This assertion is based upon the declaration that only when infertility is low will women have the requisite confidence to limit fertility.
+ACKNOWLEDGMENTS
+The research reported waspartiallysupported by the U.S. Agency for International Development, Contract No. AID/OTR5412-C. Any opinions, findings, conclusions, or recommendations expressed herein are those of the authors anddo not necessarily reflect the view of the Agency for International Development of the United States.
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+REFERENCES
+
+BONGAARTS, J., O. FRANK, and R. LESTHAEGHE. LAURIAT, P. 1969. The effect ofmarital dissolu-
+
+1984. The proximate determinants of fertil-
+
+tion on fertility. J. Marr. Fam. 31:484-493.
+
+ity in sub-Saharan Africa. Pop. Develop. LEE, B . S.,andS. C .FARBER. 1984. Fertilityad-
+
+Rev. 10:511-537.
+
+aptation of rural-urban migrants in develop-
+
+CHEN K-H., S. M. WISHIK, and S. SCRIMSHAW.
+
+ing countries: The case of Korea. Pop. Stud.
+
+1974. Effects of unstable sexual unions on
+
+38:141-155.
+
+fertility in Guayaquil, Ecuador. Soc. Biol.
+
+. 1985. The influence of rapid rural-
+
+21:353-359.
+
+urban migration onKorean national fertility
+
+COHEN, S. B., and J. A. SWEET. 1974. The im-
+
+levels. J. Develop. Econ. 17:47-71.
+
+pact of marital disruption and remarriage on LEE, B. S.,and L. POL. 1985. A comparisonof
+
+fertility. J. Marr. Fam. 36:87-96.
+
+fertility adaption between Mexican immi-
+
+DOWNING, D. C , and D. YAUKEY. 1979. The
+
+grants to the U.S. and internal migrants in
+
+effects of marital dissolution and re- Mexico. Contemp. Pol.Iss. 3:91-101.
+
+marriage on fertility in urban Latin Amer- LEE, B. S., L. G. POL, and L. S. BONGSUIRU.
+
+ica. Pop. Stud. 33:537-547.
+
+1986. The influence of rural-urban migra-
+
+EBANKS, G. E., P . M . GEORGE, and C. E.
+
+tion on the fertility ofmigrants indevelop-
+
+NOBBE. 1974. Fertility and the number of
+
+ing countries: Analysis of Cameroon data.
+
+partnerships in Barbados. Pop. Stud.
+
+Final Report for Office of Multisectoral
+
+28:449-461.
+
+Development, Agency for International
+
+FARBER, S., and B. S. LEE. 1984. Fertility adap-
+
+Development, Contract No. AID/OTR-
+
+tation of rural-to-urban migrant women: A
+
+5412-C-00-1205-00.
+
+method of estimation applied to Korean LESTHAEGHE, R., G. KAUFMANN, and D. MEEK-
+
+women. Demography 21:339-345.
+
+ERS. 1986. Thenuptiality regimes in sub-
+
+FRANK, O. 1983. Infertility in sub-Saharan Af-
+
+Saharan Africa. IPD-Working Paper,
+
+rica: Estimates and implications. Pop. De- 1986-3, Vrije Universiteit, Brussels, Be-
+
+velop. Rev. 9:137-144.
+
+lgium.
+
+306
+
+Lee and Pol
+
+Social Biology
+
+PALMORE, J. A., and A. MARZUKI. 1969. Mar-
+riage patterns and cumulative fertility in West Malaysia: 1966-1967. Demography 6:383-401.
+RAM, B., and G. E. EBANKS. 1973. Stability of unions and fertility in Barbados. Soc. Biol. 20:143-149.
+
+SWEE-HOCK, S. 1967. Fertility differentials in early postwar Malaysia. Demography 4:641-656.
+THORNTON, A. 1978. Marital dissolution, remarriage and childbearing. Demography 15:361-380.
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+

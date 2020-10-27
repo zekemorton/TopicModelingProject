@@ -1,0 +1,736 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Effects of gender, birth order, and other correlates on childhood mortality in China
+Minja Kim Choe , Hao Hongsheng & Wang Feng
+To cite this article: Minja Kim Choe , Hao Hongsheng & Wang Feng (1995) Effects of gender, birth order, and other correlates on childhood mortality in China, Social Biology, 42:1-2, 50-64, DOI: 10.1080/19485565.1995.9988887 To link to this article: http://dx.doi.org/10.1080/19485565.1995.9988887
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 21
+View related articles
+Citing articles: 4 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:46
+
+Effects of Gender, Birth Order, and Other Correlates on Childhood Mortality in China
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+aMinja Kim Choe, bHao Hongsheng, and cWang Feng
+aEast-West Center Program on Population, Honolulu, Hawaii 96848; bInstitute of Population Research, People's University of China, Beijing, China; and cDepartment of Sociology, University of Hawaii at Manoa, and East-West Center Program on Population, Honolulu, Hawaii 96848
+
+ABSTRACT: Using data from the 1988 Two-Per-Thousand Survey of Fertility and Birth Control, this paper examines the effects of gender, birth order, and other correlates of childhood mortality in China. Controlling for family-level factors, childhood mortality is found to be associated with the child's gender and birth order. Among firstborn children the difference between male and female childhood mortality is not statistically significant, but among others, female children between ages 1 and 5 experience higher mortality than male children. Childhood mortality is slightly higher for children who have older brothers only than for those who have older sisters only, and it is highest for those who have both older brothers and sisters. Other factors affecting childhood mortality in China include mortality of older siblings, birth interval, urban/rural residence, mother's level of education, and mother's occupation. All interactive effects between gender and family-level characteristics are found to be statistically insignificant.
+
+China has experienced rapid mortality decline during the past four decades. Official statistics show that measures of mortality, such as crude death rate, infant mortality rate, and life expectancy, have all changed by more than 50 per cent in the 35 years from 1950-54 to 1985-89. Life expectancy gained by 70 per cent, reflecting an exceptionally rapid mortality decline by international standards. In comparison, Latin America experienced a 29 per cent increase in life expectancy, and Asia as a whole experienced a 49 per cent increase during the same period. Demographers identify the main causes of the rapid mortality decline in China as improved nutrition resulting from a more egalitarian distribution of wealth and the government's ambitious rural health care programs emphasizing preventive care (Banister, 1987; Banister and Preston, 1981; Coale, 1984; Hao, 1994).
+
+While there has been an impressive reduction in mortality, not everyone seems to have enjoyed the benefits equally. Certain segments of the population have been, and still are, subject to higher risks of mortality than others. Estimates of female life expectancy in 1981 varied by local area, from 73.6 years in Beijing Municipality to 61.9 years in Xinjiang Province. Substantial differences were also observed among types of location: from a female life expectancy of 72.7 years in cities and 73.4 years in towns, to 68.6 years in rural counties. These differentials are found to be associated with differences in medical facilities, availability of professionally trained health workers, and levels of development (Hao, 1994;Poston, 1989). Besides the regional differences, one of the most noteworthy characteristics of differential mortality in China is its unusual age-sex pattern, characterized by higher female than
+
+50
+
+Vol. 42, No. 1-2
+
+Childhood Mortality
+
+51
+
+TABLE 1
+MORTALITY DECLINE IN CHINA AND ELSEWHERE: 1950-1989
+
+Mortality Indicator
+China Crude death rate ( x 1,000) Infant mortality (x 1,000) Life expectancy
+Life expectancy Latin America Asia
+SOURCE: Hao, 1994.
+"1985-88.
+
+1950-54
+16.0 138.4 40.8
+51.9 42.0
+
+.985-89
+6.6 37.1" 69.4
+66.7 62.7
+
+Percent Change
+58 73 70
+29 49
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+male mortality during early childhood (Hao and Wang, 1992).
+In most populations with moderate to low mortality, male mortality is higher than female mortality at all ages. According to the Coale and Demeny model life tables, which represent actual experiences of mortality in a variety of populations, the male-tofemale ratio of age-specific conditional probabilities of dying between ages 1 and 5 (4Çj values in life tables) ranges from 1.1 to 1.4. The ratio is higher in populations with lower levels of mortality. A similar pattern has been observed in Japan. During the period 1950-69, when the level of female childhood mortality (conditional probability of dying between exact ages 1 and 5) declined from 35.46 to 3.79 per 1,000 infants, the average male-tofemale ratio of childhood mortality was 1.15 (Nanjo and Kobayashi, 1985). This ratio gradually increased with time.
+Excess female mortality during childhood has been found elsewhere, especially in populations characterized by strong son preference such as those in South Asia (Chen et al., 1981; Das Gupta, 1987; Koenig and D'Souza,
+
+1986; Muhuri and Preston, 1991; Phillips et al., 1987; Simmons et al., 1982; Schultz, 1982) and East Asia (Choe, 1987; Hao and Wang, 1992; Park, 1955; Ware, 1981). In this paper, we examine the patterns and covariates of childhood mortality in China in order to identify the extent of gender differentials and related factors. By doing so, we seek to achieve a better understanding of the links between son preference, family building, and childhood mortality.
+Excess female mortality, when it is observed, is most evident between ages 1 and 5 when a child's health and mortality are most strongly linked to parental care (Hobcraft et al., 1985; Muhuri and Preston, 1991; Waldron, 1987). This is not surprising when we examine the leading causes of death at different ages in childhood. During infancy, most causes of deaths are related to genetic and prenatal conditions, but the leading causes of death between ages 1 and 5 are known to be respiratory infections, other infectious and parasitic diseases, diarrheal diseases, and accidents (Table 2). Whether young children die from these causes depends, to a large extent, on
+
+52
+
+Choe et a!.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+the quality of care provided to them by adults. Higher female childhood mortality, which represents a departure from the usual pattern, suggests the unequal treatment of male and female children within a family in such areas as immunizations, quality of care during illness, exposure to risks, and allocation of resources including food. Studies on childhood mortality in India and Bangladesh have identified some gender-biased parental behaviors that may lead to excess female childhood mortality. Among these are feeding practices (Amin and Pebley, 1991; Caldwell, Reddy, and Caldwell, 1983; Chen, Huq, and D'Souza, 1981) and the use of health care facilities (Amin and Pebley, 1991; Basu, 1989; Das Gupta, 1987).
+The traditional family system in China is based on patrilineal and patriarchal principle, which has developed a culture favoring sons over daughters. In modern China, the Communist revolution and industrialization have brought changes in the government-protected rights of individuals and in social and economic conditions. Nevertheless, evidence of son preference has frequently been documented in behavior related to family formation. Analyses of large-scale survey data have shown that behaviors of married couples--such as contraceptive use, fertility, and use of induced abortions--vary according to whether or not they already have sons (Arnold and Liu, 1986; Choe et al., 1992) and whether a fetus is male or female (Zeng et al., 1993; Coale and Banister, 1994). It is conceivable that son preference, which results in differential fertility behavior, may also affect parental behavior in caring for young children,
+
+which in turn results in differential mortality.
+While we hypothesize that female children experience more exposure to mortality risks than male children as a result of parent's discriminatory behavior, we also hypothesize that the discrimination against female children is not uniform across socioeconomic groups within the population. At the family level, those who are more educated or are engaged in daily activities in more modernized sectors of society may have more egalitarian attitudes toward gender roles and may be less likely to discriminate against female children.
+At the intrafamily level, discrimination against female children may depend on birth order and the gender composition of other children. A crossnational study on the value of children and son preference documents that parents in societies where sons are strongly preferred wish to have daughters as well, but fewer in number than sons (Arnold and Kuo, 1984). Parents are also found to have preferences related to order of sons and daughters. Older daughters are preferred because they often perform housework and provide care for younger siblings. In many East Asian countries, older female children are also found to contribute to family finances, especially by working to help pay for the education of younger male siblings (Greenhalgh, 1985; Mintz, 1977; Lebra, 1984).
+Thus, excess female mortality, originating from parents' discrimination against less desirable children, would depend on birth order and the gender of siblings. Recent studies document that this is often the case. Gender effects on childhood mortality are found
+
+Vol. 42, No. 1-2
+
+Childhood Mortality
+
+53
+
+TABLE 2
+MAJOR CAUSES OF DEATH IN CHILDHOOD BY A G E , IN POPULATIONS WITH LIFE EXPECTANCIES OF 55-65
+
+Age (yrs.)
+
+Direct causes
+
+Indirect causes
+
+Under 1.
+Ito4. 5 to 14.
+
+Genetic and perinatal Respiratory infections Diarrheal diseases Other infectious and parasitic diseases
+Respiratory infections Other infectious and parasitic diseases Diarrheal diseases Accidents
+Cancer Accidents Other infectious and parasitic diseases Respiratory diseases
+
+Maternal health Parents' genetic background Birth environment Neonatal care Environment Breast-feeding
+Environment Parental care Immunization Feeding
+Genetic background Immunization Parental care Environment
+
+SOURCES: Preston, 1976, p. 90-99; Puffer and Serrano, 1973, p. 77-79 and 125-136; Shapiro et al., 1968, Figures 1.7ft, 9.5, and 9.6.
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+to be more pronounced among highorder births in India (Das Gupta, 1987), Bangladesh (Muhuri and Preston, 1991), and South Korea (Choe, 1987). Our analysis examines the gender effects on childhood mortality and its interaction with birth order, gender composition of older siblings, and family-level characteristics in China.
+MATERIALS AND METHODS
+We use the data from China's 1988 Two-Per-Thousand Survey of Fertility and Birth Control. The survey, carried out by China's State Family Planning Commission, collected birth histories from nearly half a million ever-married women aged 15-57, constituting a nationally representative sample excluding Taiwan and Hong Kong (Lavely, 1991). Information is provided on the date of birth and survival status of each child these women have borne, as well as on the date of death of any child who
+
+died before the survey. The survey also collected information on the socioeconomic characteristics of the women and their husbands such as ethnicity, residence type, education, and occupation as well as some characteristics of the family.
+From a 10 per cent sample of the survey data available to us, we analyze records of 89,086 children born during 1965-87 who survived the first year of life. We limit the analysis to births during 1965-87 for two reasons. First, because the survey collected birth histories of women aged 15-57 in 1988, the births available for analysis as we go back in time are limited to women of progressively younger ages. For example, the births in 1978 are limited to women aged 47 and younger, and births in 1965 are limited to women aged 34 and younger. Second, the Chinese population experienced a series of unusually severe famines and political upheavals during the 1958-60 period,
+
+54
+
+Choe et al.
+
+Social Biology
+
+TABLE 3
+CHARACTERISTICS OF FIRST AND LATER BIRTHS INCLUDED IN THE ANALYSIS
+
+CHARACTERISTICS
+Secular trend Year of birth
+Family and community Residence = urban Ethnicity = non-Han Mother has formal education Mother's occupation is nonfarm
+Demographic Gender = female Maternal age Experienced a sibling death Previous birth interval < 18 months. Sex of older siblings Brothers and sisters Brothers only Sisters only
+Number of cases
+
+MEANS OR PERCENTAGES
+
+First Births
+
+Later Births
+
+1977.7 36.2% 10.0% 65.4% 27.1% 48.9% 23.2
+8,710
+
+1974.6
+28.6% 14.2% 41.0% 18.1%
+48.2% 28.5 24.0% 4.2%
+41.7% 28.1% 30.2% 60,376
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+which caused a short-term but drastic increase in mortality. By limiting our analysis to births after 1965, we avoid most of the effects of this unusual mortality change, focusing rather on the usual pattern of differential mortality.
+We also limit our examination to childhood mortality occurring between ages 1 and 5 because our study focuses on the gender differentials of childhood mortality associated with parental discrimination. As discussed earlier, before age one, the most frequent causes of deaths are associated with genetic conditions: the quality of parental care does not have a large impact. Further, Chinese data based on retrospective reports of births and deaths, which are otherwise of exceptionally high quality, are known to suffer from a substantial degree of underreporting of very early infant deaths, especially for females (Coale and Banister, 1994; Smith, 1994; Zeng et al., 1993). The
+
+reporting of deaths after infancy is found to be relatively complete.
+We first compute levels of childhood mortality for four groups, based on gender and birth order. This is done by the life-table method using monthly probabilities of dying. We then examine the effects of gender and other covariates on childhood mortality by fittingproportional hazard models separately for firstborn and later-born children. We fit the hazard models to mortality between ages 1 and 5, estimating the average effects of the covariates.
+Table 3 shows the list of variables we examine as covariates of childhood mortality together with simple descriptive statistics. Some variables are computed from pregnancy histories: birth interval, maternal age, number and gender composition of surviving siblings at the time of each birth, and childhood deaths of older siblings.
+
+Vol. 42, No. 1-2
+
+Childhood Mortality
+
+55
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58
+Age in months
+FIG. la. --Monthly conditional probability of dying for firstborn male children, ages 6-59 months: China, births in 1965-1988.
+
+These variables and the gender of the child are child-specific factors. At the family level, we include mother's education, occupation, ethnicity, and urban/rural residence. To control for the secular trend in mortality, we also include the year of birth and its logarithm in the model. We assume a nonlinear relationship between maternal age and the risk of childhood mortality and include maternal age as well as its logarithm in the estimation model. The descriptive statistics of covariates shown in Table 3 reflect fertility trends and differentials in China. There are fewer births of Order 2 or higher in recent years, and such births are less likely for mothers who are younger, are Han, have formal education, and work in the nonfarm sector.
+
+RESULTS
+Figures la through Id show the monthly probability of dying at ages 6-59 months for the four groups of children classified by gender and birth order (firstborn and others). They reveal a small amount of heaping in the reported ages at death, at 12, 24, 36, and 48 months. The heaping at age 12 months results in a slight underestimate of infant mortality and a slight overestimate of childhood mortality, because infant deaths at just under age one would be reported as deaths at age one. The age heaping, however, is not likely to affect the estimates of gender differentials because there is no evidence that the misreporting of age at death is related to a child's gender.
+
+56
+
+Choe et al.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 Age in months
+FIG. Ib.--Monthly conditional probability of dying for firstborn female children, ages 6-59 months: China, births in 1965-1988.
+
+Table 4 shows the results of the lifetable analysis. For children classified by gender and birth order, the conditional probabilities of dying before age 1 (infant mortality) and between ages 1 and 5 (childhood mortality) were computed based on monthly probabilities of dying. The table also shows corresponding figures for Japan for the period 1953-60 and model life tables by Coale and Demeny (1983) for comparison. Both infant and childhood mortality are lower among firstborn children than among other children. Part of this difference is attributable to spurious associations. Women's characteristics associated with higher fertility are also associated with higher mortality of their children. For example, women with no formal education are more
+
+likely to have children of high birth orders than women with some formal education, and at the same time, children from mothers with no education are likely to experience higher mortality than children from mothers with some formal education. In addition, because the level of fertility has been falling rapidly in recent years, children of higher birth orders are more likely to have been born at an earlier time, when the general level of mortality was much higher (Hao and Wang, 1992).
+The sex ratio of mortality varies by birth order and age of children. Infant mortality is 23 per cent higher for males than for females among firstborn children, but the difference is very small for higher-order births. However, the possibility of underreporting
+
+Vol. 42, No. 1-2
+
+Childhood Mortality
+
+57
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 Age in months
+FIG. lc--Monthly conditional probability of dying for other male children, ages 6-59 months: China, births in 1965-1988.
+
+early infant deaths, which may include sex-selective infanticides (Coale and Banister, 1994; Smith, 1994; Zeng et al., 1993), makes it difficult to interpret the sex ratios of infant mortality.
+Contrary to the Japanese pattern and the model life tables, childhood mortality in China is higher for females than for males among both firstborn and higher-order children, although the difference is greater for higherorder children. We make a tentative conclusion that female children suffer excess mortality at ages 1 through 4, and that this excess female mortality is higher among children who have older siblings.
+We conducted statistical tests of excess female mortality through multivariate analyses. Table 5 shows the
+
+estimated effects of covariates on childhood mortality when proportional hazard models are fitted to the data. Table 6 shows the net effects of the covariates on childhood mortality in terms of the expected probability of dying between ages 1and 5 for children belonging to different groups. These probabilities are computed from the estimated proportional hazard model by substituting specified values for the factors under consideration and mean values for all other factors in the model.
+Tables 5 and 6 show that, after controlling for the secular trend, all of the family-level factors (urban residence, mother's education, and mother's occupation) included in the model are statistically significant in explaining
+
+58
+
+Choe et al.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 Age in months
+FIG. Id.--Monthly conditional probability of dying for other female children, ages 6-59 months: China, births in 1965-1988.
+
+differential childhood mortality. These findings are consistent with results from other studies on childhood mortality in China (Tu, 1989) and elsewhere (e.g., Hobcraft et al., 1984). Also consistent with findings elsewhere, children born to families that have already experienced childhood mortality are much more likely to die during childhood than are children born to other families. Children born after a short birth interval also experience much higher mortality (e.g., Hobcraft et al., 1985) than other children.
+The child's gender is not a statistically significant covariate of childhood mortality among firstborn children. It is statistically significant at the 10 per cent level, however, among higherorder births. A more meaningful test
+
+of significance, however, would be whether the observed gender difference in childhood mortality departs from the usual male-to-female ratio, which ranges between 1.1 and 1.4. The estimated relative risk of childhood mortality in China differs significantly at the 5 per cent level from the lower limit of commonly observed values for later-born children, but not for firstborn children. In other words, the excess female childhood mortality observed in China is statistically significant at the 5 per cent level for children of birth order two or higher but not for firstborn children. Table 5 also shows that none of the interaction terms between gender of the child and socioeconomic covariates is statistically significant, implying that parental
+
+Vol. 42, No. 1-2
+
+Childhood Mortality
+
+59
+
+TABLE 4
+INFANT AND CHILDHOOD MORTALITY RATES" BY GENDER AND BIRTH ORDER IN CHINA (BIRTHS IN 1965-1987), JAPAN (1946-1965), AND ACCORDING TO THECOALE-DEMENY MODEL LIFE TABLES
+
+Age
+
+Country and Birth Order
+
+Males
+
+Females
+
+Ratio (M/F)
+
+Infant...
+
+China first births
+
+42.3 34.4 1.23
+
+(age 0)
+
+China, other births
+
+53.0 51.9 1.02
+
+Japan, all births
+
+48.7 41.3 1.19
+
+Model North, level 20
+
+49.6
+
+40.4
+
+1.23
+
+Model West, level 20
+
+52.3
+
+40.7
+
+1.29
+
+Childhood
+
+China, first births
+
+11.4 11.5 0.99
+
+(ages 1 through China, other births
+
+22.4 23.6 0.95
+
+4)
+
+Japan, all births
+
+23.9 22.4 1.11
+
+Model North, level 20
+
+22.9
+
+20.4
+
+1.13
+
+Model West, level 20
+
+14.9
+
+12.9
+
+1.15
+
+SOURCE: For China, 1988 Two-Per-Thousand Fertility and Birth Control Survey, individual records; for Japan, Nanjo and Kobayashi, 1985, p. 32-33, 38-39; for model life tables, Coale and Demeny, 1983, p. 51, 165.
+The rates for infant mortality are the estimated number of deaths out of 1,000 births; for childhood mortality, they are the estimated number of deaths out of 1,000 survivors at age1.
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+behavior that discriminates against fe- (23.5 vs. 22.4), but is significant for
+
+male children is more or less uniform others (29.6 vs. 25.8 and20.1 vs. 17.9).
+
+across different socioeconomic groups.
+
+The gender composition of older siblings strongly affects the mortality
+
+DISCUSSION
+
+risk of young children. Mortality is Although the survival probabilities
+
+highest among children with both older of young children in China have im-
+
+brothers and sisters: 26 deaths per proved greatly in recent years, dif-
+
+1,000 male children and 30 deaths per ferential mortality continues to exist
+
+1,000 female children. Mortality islow- among various socioeconomic groups.
+
+est among children who have oldersis- As in other populations, children born
+
+ters only: 18 per 1,000for males and 20 to families that have already experi-
+
+per 1,000 forfemales. Thegender com- enced childhood mortality and chil-
+
+position of older siblings also has sta- dren born after a short birth interval
+
+tistically significant interactions with are more likely than other children to a child's own gender.1 Excess female die in early childhood. Children born
+
+mortality is not statistically significant to mothers who are urban residents,
+
+for children who have brothers only have some formal education, or are en-
+
+gaged in nonfarm activities experience
+
+lower levels of mortality.
+
+1This conclusion derives from significance tests of the differences of combined coefficients. For ex-
+
+In addition, in some cases childhood
+
+ample, to see if girls who have sisters only have mortality depends on the child's gen-
+
+higher mortality than boys who have sisters only,we compare the coefficient for sisters only with the sum of coefficients for gender-female, sisters only, and sisters only x gender. The statistical test reduces to test for thesum of coefficients forgender-female and sisters only x gender. The test is done using the covariance matrix of the estimated coefficients.
+
+der. The effect of gender depends on birth order andthegender composition of older siblings. Among firstborn children, gender differences in childhood mortality are not significant. Among
+
+60
+
+Choe et al.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+TABLE 5
+
+ESTIMATED PROPORTIONAL HAZARD COEFFICIENTS OF CHILDHOOD MORTALITY
+
+Covariates
+Secular trend Year of birth Log (year of birth)
+Family and community Residence = urban Ethnicity = non-Han Mother has formal education Mother's occupation is non-farm
+Child-specific Gender = female Maternal age in months Log (maternal age) Experienced a sibling death Previous birth interval < 18 months Gender of older siblings: Brothers and sisters (ref. categ.) .... Brothers only Sisters only
+Interactions Residence x gender Ethnicity x gender Mother's education x gender Mother's occupation x gender
+Sibling death x gender Previous birth interval x gender
+Brothers only x gender Sisters only x gender
+
+FIRST BIRTHS
+
+Coeff.
+
+(Z-score)
+
+-0.1603 10.8014
+-0.4542" 0.5881"
+-0.4289" -0.6187"
+-0.0347 0.0093
+-3.6403
+...
+0.0690 0.0960 0.0315 -0.0627
+...
+
+(-0.63) ( 0.56)
+(-2.13) ( 2.83) (-2.50) (-2.10)
+(-0.20) ( 0.63) (-0.88)
+... ...
+... ... ...
+( 0.23) ( 0.33) (0.13) (-0.15)
+... ... ... ...
+
+LATER BIRTHS
+
+Coeff.
+
+(Z-score)
+
+-0.2350 14.3807
+-0.3280" 0.5846"
+-0.2637" -0.2775"
+0.1962" 0.0057 -2.7883 0.5819" 0.7861°
+... -0.1407 -0.3636"
+-0.0074 -0.1231 -0.0456 -0.3421 -0.0683 -0.0734 -0.0877 -0.0212
+
+(-1.66) ( 1.37)
+(-3.09) ( 6.00) (-2.78) (-2.05)
+(1.69) ( 1.33) (-1.88) ( 6.65) ( 5.47)
+... (-1.38) (-3.35)
+(-0.05) (-0.89) (-0.34) (-1.68) (-0.56) (-0.36) (-0.62) (-0.14)
+
+"Indicates P < 0.05 for the test coefficient = 0. 'The test for coefficient = 0 is not statistically significant. However, the statistical test for whether the implied sex differential is different from the universal pattern (sex ratio of mortality > 1.1) is statistically significant.
+
+later-born children, females experience higher levels of mortality than males. On the assumption that differential childhood mortality is largely due to differential parental care, our findings suggest that female children with older siblings receive less favorable care than their male counterparts. Chinese parents seem to value a firstborn female child nearly as much as a male. This finding is consistent with results from other studies on the status of female children in East Asia. Such studies have found that firstborn female children are likely to contribute
+
+to family welfare, not only by performing household duties and child care, but also by contributing to household income by employment. Parents are thus willing to invest in the eldest female child (see, for example, Greenhalgh, 1985). Another possible explanation for the lack of gender differential in childhood mortality among firstborn children is the simultaneous effect of parent's attitudes on both fertility and childhood mortality. Parents with egalitarian attitudes toward sons and daughters are more likely than others to have only one child.
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Vol. 42, No. 1-2
+
+Childhood Mortality
+
+61
+
+TABLE 6
+ADJUSTED CHILDHOOD MORTALITY C ^ X 1,000) BY CHARACTERISTICS
+
+Characteristics
+All
+Residence Urban Rural
+Ethnicity Han Non-Han
+Mother's formal education Yes No
+Mother's occupation Nonfarm . . Farming
+Experience of older sibling death Yes No
+Previous birth interval < 18 months ^ 18 months
+Gender of older siblings Brothers and sisters Brothers only Sisters only
+
+FIRST BIRTHS
+
+Male
+
+Female
+
+14.4 14.5
+
+11.0 11.5 17.3 16.9
+
+13.6 13.5 24.3 26.6
+
+12.4 12.6 19.0 18.7
+
+9.2 8.8 17.0 17.4
+
+LATER BIRTHS
+
+Male
+
+Female
+
+22.2 25.1
+
+17.8 20.0 24.7 27.9
+
+20.4 23.3 36.7 37.0
+
+19.0 20.1 24.7 28.2
+
+17.7 14.6 23.3 27.2
+
+34.5 36.8 19.3 22.0
+
+47.1 49.6 21.5 24.3
+
+25.8 29.6 22.4 23.5 17.9 20.1
+
+Among children who have older siblings, the level of childhood mortality also depends on whether they have sisters or brothers. In general, childhood mortality is highest in families with both older brothers and sisters and lowest in families with older sisters only. Among families with older sisters only, female children are at a much higher risk of childhood mortality than are male children. This gender differential is smallest for children who are born to families with male children only. In other words, among female children in families with more than one child, girls who have only brothers experience the least discrimination: dis-
+
+crimination against female children seems to start with second daughters.
+What makes female children in China experience higher levels of mortality than male children? As we have seen earlier, the leading causes of death between ages 1 and 5 are preventable to a certain extent and depend on the quality of parental care. Although we do not have direct information on the quality of child care, there are some indirect indicators. One documented indicator is mothers' breastfeeding behavior. In China the length of exclusive breastfeeding does not differ much between male and female children, but the median length
+
+62
+
+Choe et al.
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+of breastfeeding with supplemental food is about two months longer for males (Tu, 1990; Wang, 1991). Although the direct effect of breastfeeding on child survival is not strong after the first year of life (Tu, 1989), we consider breastfeeding to be an indicator of parents' affection and care, especially after the introduction of supplemental food.
+Another measurable behavior is the probability of having additional births. The probability of having another birth, and of having one after a short interval, is much higher in China after the birth of a female (see Choe et al., 1992, for example). A short subsequent birth interval is known to be strongly associated with high childhood mortality in China and elsewhere (Retherford et al., 1989;Tu, 1989). Female children may receive less parental care and allocation of resources than male children because they are more likely to have a younger sibling at a very early age. We do not have information on other possible behaviors such as feeding, immunization, and child care arrangements.
+Our analysis shows that discrimination against females is not evident for firstborn children. This finding may partly be because parents who do not discriminate against children according to their gender may also be more likely to have just one child.
+Parental behavior in China seems to be influenced strongly by a desire to have at least one son combined with a preference for a small family.2 In this
+2The desire for a small family size, however, results from a strong government program as much as from personal preference.
+
+sense, excess female childhood mortality can be viewed as a part of a strategy to build ideal families that are small in size but include sons. Other behaviors related to this strategy include sexselective induced abortions, resulting in high sex ratios at birth, and female infanticides (Coale and Banister, 1994; Zeng et al., 1993).
+Our analysis also found that among those parents who have more than one child the discrimination against female children is more or less uniform across families with different socioeconomic characteristics. This finding suggests that developmental changes that improve the socioeconomic status of families in China will not necessarily improve the status of female children. Eliminating gender-based discriminatory attitudes among parents will depend on fundamental changes in the norms that prevail throughout Chinese society.
+ACKNOWLEDGMENTS
+Part of the research presented in this paper was conducted while Dr. Hao Hongsheng was a Post-doctoral Fellow at the East-West Center from September 1991 to August 1992. An earlier version of this paper was presented at the First General Conference of the Society for the Study of Social Biology, Penn State University, University Park Campus, August 4-6, 1993. We thank the conference participants, and especially Jim Wood, for helpful comments. Robert D. Retherford, Noriko O. Tsuya, and Tu Ping have also provided helpful comments. We would also like to thank Sidney B. Westley and Connie Kawamoto in the East-West Center's Program on Population for editorial assistance.
+
+Vol. 42, No.1-2
+
+Childhood Mortality
+
+63
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+REFERENCES
+
+AMIN, S., and A. PEBLEY. 1991. The impact of a
+
+and other factors onchild survival in China.
+
+public-health intervention on sex differen-
+
+Paper presented at the Annual Meeting of
+
+tials in childhood mortality in rural Punjab,
+
+the Population Association of America,
+
+India. Hlth. Trans. Rev. 1:143-170.
+
+April 30-May 2, Denver, Colorado.
+
+ARNOLD, F., and E. C. Y. Kuo. 1984. The value HOBCRAFT, J., J. W. MCDONALD, and S. O.RUT-
+
+of daughters and sons: A comparative study
+
+STEIN. 1984. Socio-economic factors in infant
+
+of the sexpreferences of parents. J.Com-
+
+and child mortality: A cross-national com-
+
+parat. Farn. Stud. 15:299-318.
+
+parison. Pop. Stud. 38:193-224.
+
+ARNOLD, F., and Z. Liu. 1986. Sex preference, _____. 1985. Demographic determinants of in-
+
+fertility, and family planning in China. Pop.
+
+fant and child mortality. Pop. Stud. 39:363-
+
+Develop. Rev. 12:221-246.
+
+385.
+
+BANISTER, J. 1987. China's changing population. KOENIG, M. A., and S. D'SOUZA. 1986. Sex dif-
+
+Stanford Univ. Press, Stanford, CA.
+
+ferentials in childhood mortality in Bang-
+
+BANISTER, J., and S. H. PRESTON. 1981. Mortal-
+
+ladesh. Soc. Sci. Med.22:15-22.
+
+ity in China. Pop. Develop. Rev. 7:98-110. LAVELY, W. R. 1991.China unveils its monu-
+
+BASU, A. M. 1989. Isdiscrimination infoodre- mental two-per-thousand fertility survey.
+
+ally necessary for explaining sex differentials
+
+Asia Pacif. Pop. Forum 5(4):89-92, 116.
+
+in childhood mortality? Pop. Stud. 43:193- LEBRA, T. S. 1984. Japanese women: Constraint
+
+210. and fulfillment. Univ. of Hawaii Press, Ho-
+
+CALDWELL, J. C., P. H. REDDY, and P. CALD-
+
+nolulu, HI.
+
+WELL. 1983.The social component of mor- MINTZ, B. R.1977. Interviews with young work-
+
+tality decline: Aninvestigation in South India
+
+ing women in Seoul, p. 169-189. In S. Mat-
+
+employing alternative methodologies. Pop. tielli (ed.), Virtues inconflict: Tradition and
+
+Stud. 37:185-205.
+
+the Korean woman today. Royal AsiaticSo-
+
+CHEN, L. C., E. HUQ, and S. D'SOUZA. 1981.
+
+ciety, Seoul.
+
+Sex bias in the family allocation of food and MUHURI, P. K., and S. H. PRESTON. 1991. Effects
+
+health care in rural Bangladesh. Pop. De- of family composition onmortality differen-
+
+velop. Rev. 7:55-70.
+
+tials by sex among children inMatlab, Bang-
+
+CHOE, M. K. 1987. Sex differentials ininfant and
+
+ladesh. Pop. Develop. Rev. 17:415-434.
+
+child mortality in Korea. Soc. Biol. 34:12- NANJO, Z., andK. KOBAYASHI. 1985. Cohort life 25. tables based on annual life tables for the Jap-
+
+CHOE, M. K., F. GUO, J. Wu, and R. ZHANG.
+1992. Progression to second and third births in China: Patterns and covariates in sixprov-
+
+anese nationals covering the years 18911982. NUPRI Research Paper no.23. Nihon University Population Research Institute,
+
+inces. Internat. Fam. Plan. Persp. 18:130-
+
+Tokyo.
+
+136. PARK, C. B. 1955. Statistical observations on the COALE, A. J. 1984. Rapid population change in death rates andcauses of death in Korea.
+
+China, 1952-1982. Committee on Population
+
+Bull. World Hlth. Organ. 13:69-108.
+
+and Demography Report no. 27. National PHILLIPS, J. F., T. K. LEGRAND, M. A. KOENIG,
+
+Academy of Science, Washington, D.C.
+
+and J. CHAKRABORTY. 1987. The effect of a
+
+COALE, A. J., and J. BANISTER. 1994. Five de-
+
+maternal and child health-family planning
+
+cades of missing females in China. Demog-
+
+project on infant and child mortality in Mat-
+
+raphy 31:459-480.
+
+lab, Bangladesh. Paper presented atthe An-
+
+COALE, A. J., and P. DEMENY, with B.
+
+nual Meeting of the Population Association
+
+VAUGHAN. 1983.Regional model life tables
+
+of America, April 30-May 2, Chicago, IL.
+
+and stable population. 2nd ed. Academic POSTON, D. L., JR. 1989. Patterns ofinfant mor-
+
+Press, New York.
+
+tality in China. Population and Development
+
+DAS GUPTA, M. 1987.Sex selective discrimina-
+
+Program Working Paper 2.19. Cornell Uni-
+
+tion against female children inrural Punjab,
+
+versity, Ithaca, NY.
+
+India. Pop.Develop. Rev. 13:77-100.
+
+PRESTON, S. H. 1976. Mortality patterns in na-
+
+GREENHALGH, S. 1985. Sexual stratification: The
+
+tional populations, with special reference to
+
+other side of "growth with equity" in East
+
+recorded causes of death. Academic Press,
+
+Asia. Pop. Develop. Rev. 11:265-314.
+
+New York.
+
+HAO, H. 1994. Mortality levels, trends, and dif- PUFFER, R. R., and C. V. SERRANO. 1973. Pat-
+
+ferentials in China. In Mahadeven, Tuan,
+
+terns of mortality in childhood: Report of the
+
+Yu, and Sumangala (eds.), Developmentand
+
+inter-American investigation of mortality in
+
+demographic dilemma in China and India,
+
+childhood. Scientific Publication 262. Pan
+
+forthcoming.
+
+American Health Organization, Washington,
+
+HAO, H., and F. WANG. 1992. The effect of sex
+
+D.C.
+
+64
+
+Choe et al.
+
+Social Biology
+
+RETHERFORD, R. D., M. K. CHOE, S. THAPA, and
+B. B. GUBHAJU. 1989.To what extent does breast-feeding explain birth-interval effects on early childhood mortality? Demography 26:439-450.
+SCHULTZ, T. P. 1982.Women's work and their status: Rural Indian evidence of labor market and environmental effects on sex differences in childhood mortality, p. 202-236. In R. Anker, M. Buviniv andN. H. Youssef (eds.), Women's roles and population trends inthe third world. Croom Helm, London.
+SHAPIRO, S., E. R. SCHLESSINGER, and E. L. NES-
+BITT, JR. 1968. Infant, perinatal, maternal, and childhood mortality in the United States. Harvard Univ. Press, Cambridge, MA.
+SIMMONS, G. B., C. SMUCKER, S. BERSTEIN, and
+E. JANSEN. 1982.Post-neonatal mortality in rural India: Implication of an economic model. Demography 19:371-390. SMITH, H. L. 1994. Nonreporting of births or nonreporting of pregnancies? Some evidence from four rural counties in North China.Demography 31:481-486.
+
+Tu, P. 1989. The effects of breastfeeding and birth spacing on child survival in China. Stud. Fam. Plan. 20:332-342.
+_____. 1990. Breast-feeding patterns andcorrelates in Shaanxi. Paper presented at the International Seminar on China's In-Depth Fertility Survey, Beijing, February 13-17.
+WALDRON, INGRID. 1987. Patterns and causes of excess female mortality among children in developing countries. World Hlth. Statist. Quart. 40:194-210.
+WANG, S. 1991. Breast-feeding, post-partum amenorrhea, and adoption of family planning in China. Paper presented at the International Seminar on Fertility and Contraception of China, Beijing, August 26September 1.
+WARE, H. 1981. Women, demography anddevelopment. Australian National University, Canberra.
+ZENG, YI, P. TU, B. GU, Y. XU, B. LI, and Y.
+Li. 1993. Causes and implications of the recent increase in the sex ratio at birth in China. Pop.Develop. Rev. 19:283-302.
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+

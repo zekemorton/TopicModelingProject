@@ -1,0 +1,1446 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+An estimate of the natural fecundability ratio curve
+JeanPierre Bendel & Changi Hua
+To cite this article: JeanPierre Bendel & Changi Hua (1978) An estimate of the natural fecundability ratio curve, Social Biology, 25:3, 210-227, DOI: 10.1080/19485565.1978.9988340 To link to this article: http://dx.doi.org/10.1080/19485565.1978.9988340
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 7
+View related articles Citing articles: 4 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:37
+
+An Estimate of the Natural Fecundability Ratio Curve
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+Jean-Pierre Bendel and Chang-i Hua
+Public Administration Program, PennsylvaniaState University, Middletown, Pennsylvania;and Centerfor Population Studies, Harvard University, Cambridge, Massachusetts
+
+ABSTRACT: A curve of age-specific fecundability ratio (to the level at age 20-24) is estimated. The rising part of the curve is estimated from Taiwanese data of the first conception delay according to the harmonic mean method; the declining part, from Hutterite data according to a proposed model of marital fertility rate. Heterogeneous fecundabilities and homogeneous aging effect among women in each age group are assumed. The estimated declining path of fecundability is found to be different from that of the fertility rate.
+
+Fecundability as a fundamental determinant of fertility has been the subject of considerable research in the last two decades. Because of the complexity of the reproduction process and associated data problems, the results of fecundability estimates based on various models have not been very specific. We know only that a woman's fecundability starts from a low level at menarche, increases to a maximum level in the first half of her twenties, and then begins to decline at some point until it reaches zero again some time before menopause. We have not yet seen an empirically estimated age-specific curve representing the whole cycle of this rise and fall of fecundability for any human group. The need for such specific information is increasing, partially because of advances in the area of family planning, particularly in the area of simulation modeling. In this paper, we take a step toward fulfilling this need by estimating and constructing a composite cycle of the age-specific relative change of fecundability.
+THE PROBLEM
+Fecundability is conceptually defined as the probability that a fertile married
+
+woman, using no contraception, will conceive in a menstrual cycle. The time unit is usually replaced by a calendar month in constructing models. The various modeling approaches differ in relating this probability to different reported events: monthly proportion of conception, conception delays,1 intervals between live births, number of children, etc. (for survey and methodological criticisms, see Holmberg, 1970, and Menken, 197S). Since data on an individual woman are hardly adequate for any statistical estimation of her monthly probability of conception, the use of models for learning about the change of fecundability with age has always been by estimating the mean fecundability of a group of women. The key questions are whether the group is age-specific and whether women in the group are assumed to have identical fecundability.
+An assumption of identical fecundability within a group drastically simplifies a model but is not theoretically sound. As will be shown, the bias in an estimate
+1 Conception delay is the time length between the beginning of a susceptible (fecundable, exposure, risk) period and a conception. Measured in discrete months, the conception delay months is one month more than the susceptible months as the first includes the month of conception while the second does not.
+
+210
+
+Vol. 25, No. 3
+
+Natural Fecundability
+
+211
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+based on this assumption is considerable. within an age group, which is always the
+
+Hence, models have been developed case, then it can be shown that the in-
+
+based on a certain distribution of fecun- verse of the sample mean of conception
+
+dability among women. The most elegant delay is an unbiased estimate of the har-
+
+model seems to be the one that explains monic mean of the fecundabilities, not the
+
+the distribution of the first conception arithmetic mean of the fecundabilities in
+
+delay (from marriage to conception) in the group. However, assuming homoge-
+
+terms of a beta distribution of fecundabil- neous aging effect among women, the
+
+ity among women. From a sample mean ratio of age-specific harmonic mean
+
+and a sample variance of the first concep- fecundabilities equals the ratio of arith-
+
+tion delay, the two parameters of beta metic means. Therefore, without a model
+
+distribution can be solved and an empiri- evoking many assumptions about the dis-
+
+cal test of the model follows easily (see tribution of fecundability within each age
+
+Henry, 19616; Potter and Parker, 1964; group, one does know the ratios of mean
+
+Jain, 1969a; Majumdar and Sheps, 1970; fecundability among age-specific groups if
+
+Suchindran and Lachenbuch, 1975). Beta the mean conception delay of each group
+
+function is indeed a very general distribu- is available, even if one does not know
+
+tion function of a random variable taking the absolute level of mean fecundability
+
+value between 0.0 and 1.0 and is there- of age-specific groups. The problem is,
+
+fore suitable for representing the varia- again, that while the data of first concep-
+
+tion of fecundability among women.
+
+tion delay associated with marriage are
+
+The reason that its application is lim- reliable, this type of data is only available ited to the first conception delay is that for a very limited number of age groups, only this period provides reliable data, in since the number of women married after the sense that the marriage month is both age 25 decreases rapidly.
+
+easily identifiable and a natural starting point of a susceptible period if no contraception is practiced. Scenarios after the first conception are complicated. There are many outcomes of a conception (early fetal waste, miscarriage and stillbirth, abortion, live birth) with each one being followed by a different random length of post-partum nonsusceptible period which is difficult to identify.
+
+In short, in constructing a complete curve of the relative changes of fecundability with age, one may first search for data that provide most age-specific means of the first conception delay. After that, a model has to be devised to estimate the relative changes in those age groups not covered by the data of the first conception delay. The model should relate the distribution of fecundability in each age
+
+Our interest is in the relative change of group with certain other observable
+
+fecundability. For an individual woman, events on which data are readily avail-
+
+her expected conception delay is the in- able.
+
+verse of her fecundability. If we have the In the next section we show that the
+
+statistics of the sample mean of concep- age-specific means of the first conception
+
+tion delay for each age-specific group, delay as reported by Jain (1969a) can eas-
+
+what can we infer? It is obvious that if ily be utilized to construct the rising part
+
+within an age group every woman has of a composite curve of age-specific
+
+identical fecundability, then the inverse fecundability ratio. The following section
+
+of the sample mean is an unbiased esti- represents our effort to formulate a model
+
+mate of the fecundability. But when there to estimate the age-specific fecundability
+
+is a variation of individual fecundability ratio based on the age-specific marital fer-
+
+212
+
+Bendel and Hua
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+tility rate (ASMFR). With certain p* Harmonic mean fecundability of
+
+simplifying assumptions, we make the
+
+women of age 20 to 24.
+
+model operative and apply it to Hutterite vti Expected months of . conception
+
+data2 to estimate the declining part of the
+
+delay for a woman i of age t.
+
+composite curve. We present the curve as v*t Expected months of conception
+
+a first approximation of the human
+
+delay for a woman i of age 20 to 24.
+
+fecundability cycle.
+
+vt Mean expected months of concep-
+
+THE RELATIVE CHANGE IN FECUNDABILITY OF YOUNG
+TAIWANESE WOMEN
+The method of estimation can easily be shown with the following notation defined first. The term "woman" in the definitions below always refers to a fertile
+
+tion delay of women of age t.
+v* Mean expected months of conception delay of women of age 20 to 24.
+Mt Sample mean months of conception delay of women of age t.
+M* Sample mean months of conception delay of women of age 20 to 24.
+
+married woman not practicing contracep- The purpose of this paper is to estimate tion. qt for all relevant t. In this section we first
+
+Nt Population of women of age t. Pu Fecundability (monthly probability
+of conception) of a woman i of age t (i = 1,2, . . . Nt). p*( Fecundability of a woman i of age 20 to 24. ßt Mean fecundability of women of age
+
+show that qt can, on the basis of one assumption, be estimated from the data M, and M*, and we then use the published data of Taiwanese women (Jain 1969a) to estimate q, for t = 16, 17, 18, 19. The relation between the sample mean conception delay and the harmonic mean fecundability is well known (Sheps and Men-
+
+ken, 1973, pp. 108-112), but it has not
+
+been empirically utilized, perhaps because p* Mean fecundability of women of age past interest has always been in the abso-
+
+20 to 24. It = Pt/p*.
+
+lute level of fecundability (p,), which cannot be estimated by the harmonic mean
+
+pt Harmonic mean fecundability of method, rather than in the ratio of fecun-
+
+women of age t [ ßt = i / _ Y _ L \. dability (qt). Our assumption is
+
+2 The Hutterites are a Protestant sect living in the Dakotas, Montana, and the adjacent portions of Canada in small agricultural settlements. The sect originated in Switzerland in 1528, and the ancestors of the American Hutterites came to this country in the 1870's. Not only is the practice of contraception condemned by Hutterite religion and custom, but the communal structure of the settlements removes any economic incentive toward family limitation. As a result, their number has increased from 443 in 1880 to more than 8,500 in 1950(Tietze, 1957), which is to say that the sect has increased over 19 times its size in a period of 70 years. The birth rate of the Hutterites is the highest on record, while the death rate corresponds to that of the general population of the United States. Finally, in contrast to other groups where there is little migration, where no birth control measures are used, and where reproduction proceeds without conscious planning, Hutterite vital statistics are unusually reliable (Eaton and Mayer, 1954).
+
+Pti = kt p*u
+
+(1)
+
+that is, each woman has an identical age-specific coefficient kt that represents her fecundability at t as a fraction of her fecundability of age 20 to-24, which varies from woman to woman. From (1) and from the definitions of arithmetic mean and of our qu it follows that qt = kt. Hence, we write
+
+Pti = Qt Pn-
+
+(2)
+
+Substituting (2) into the definition of harmonic mean,
+
+Vol. 25, No. 3
+
+Natural Fecundability
+
+213
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+Pt =
+Nt Y p«
+
+fecundability is assumed to occur at age 20 to 24 years; hence qt, t = 20 . . . , 24 is fixedat 1.00 rather than computed according to (7).
+
+iy
+
+= Qt P*-
+
+(3)
+
+On the other hand, it can be shown that, as the realization of a binomial stochastic process, vt¡ = l/p«. Hence,
+
+(4)
+
+Similarly,
+
+V* = -- .
+
+(S)
+
+p*
+
+Substituting (4) and (5) into (3) gives
+
+v*
+Qt = --r-- ·
+
+(6)
+
+Since the sample means Mt and M * are unbiased estimates of vt and v* respectively, we finally have the unbiased ratio
+estimator:
+
+M*
+Qt =
+
+(7)
+
+The result of applying (7) to the
+Taiwanese data is in Table 1, in which
+both the statistics Mt published by Jain (1969a) and our estimated qt are reported for t = 16, 17, 18, 19. The maximum
+
+TABLE i
+MEAN CONCEPTION DELAY(M) AND ESTIMATED FECUNDABILITY RATIOS (?) OF YOUNG TAIWANESE
+WOMEN*
+
+AGE
+
+VARIABLES
+
+16
+
+17 18 19 (20-24)
+
+M 11.7 10.4 9.2 8.7 (6.57)t 0.56 0.63 0.72 0 .76 (1.00)
+
+* Computed from data reported by Jain (1969a), according to Equation (7).
+t Weighted average mean conception delay with weights equal to the number of women in each age group (20-24 years).
+
+THE RELATIVE CHANGE IN FECUNDABILITY OF HUTTERITE
+WOMEN
+Since the data of vt after the first conception is scarce and unreliable, we abandon the simple ratio method and propose in this section a model for the purpose of estimating qt for t > 24. The formulation of the model starts from relating the expected live births by a woman per year to the expected time interval between her two conceptions. This part, which is similar to the model proposed by Henry (1961a) and Perrin and Sheps (1964), is simple. This micromodel can be aggregated to a macromodel of age-specific marital fertility rate (ASMFR), the data of which is more reliable, by integrating the joint distribution of individual women's reproduction characteristics. To make the integration operative and applicable to Hutterite data, which is still the best published data known to us, we use certain assumptions to limit the distributed characteristics to fecundability and nonsusceptible (unfecundable) time length after a live birth only. Further, we assume Equation (1) and that p*¡ has a beta distribution. Then the remaining task is to solve for qt in the model from all known parameters and variables without knowing the specific distribution of the nonsusceptible time after a live birth. We devise a technique for this task and prove the mathematical inequality that is its basis.
+For clarity of presentation, in this section we only show the model, the procedure of application, and the result of applying the model to the Hutterite data. The mathematical proof, the evaluation of variables and parameters in the model
+
+214
+
+Bendel and Hua
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+from the Hutterite data and other sources, From these definitions, one can see
+
+and the justification of certain assumptions are shown in appendices.
+First, we define additional symbols to be used in this section and in the appendices. Since we are dealing with age-
+
+Ft=U
+
+Qu
+uki
+
+(9)
+
+The denominator is the expected months
+
+specific cross-sectional data, the subscript between two conceptions. If every concep-
+
+t used in the last section will in most cases tion leads to a live birth, then the expected
+
+be suppressed in this section (qt and p,¡, for number of births per month is simply the example, become q and p,). The term inverse of the denominator. This quantity "woman" in the definitions below not only is then adjusted by the probability of live
+
+has the same restrictive meaning as in the birth Qu and multiplied by 12 to yield the definitions in the last section but also re- expected births per year.
+
+fers to the one not inducing abortion. Our Since l/p¡ is the expected months-of-
+
+symbols and definitions are:
+
+conception delay (including the month of
+
+Ft Expected number of births per year conception), V¡ (excluding the month of
+
+for a woman i.
+
+conception) is l/p¡ -- 1. Substituting this
+
+F Age-specific marital fertility rate into (9) gives the fertility model for an
+
+(ASMFR).
+
+individual woman:
+
+k Pregnancy outcome: k = 1, live birth; k = 2, early fetal death (pregnancy terminated less than 28 weeks after
+
+= 12
+
+Qu l/p,- -
+
+(10)
+
+conception by a miscarriage or spontaneous abortion); k = 3, late fetal death (pregnancy terminated 28 weeks or later after conception, including stillbirths).3 4>kiConditional probability of pregnancy
+outcome k for a woman i. Qki Unconditional probability of preg-
+nancy outcome k for a woman i. Notice that
+
+This equation is the same as that in the asymptotic model derived by Perrin and Sheps (1964) who gave more detailed analyses and discussed the assumptions. There are six /-specific parameters in the equation: fa, fa, Uu, U2i, U3i, and p¡. Integrating their joint distribution would yield the aggregate ASMFR. But there is little hope of knowing such a joint distribution.
+
+To make the aggregation still possible,
+
+(8) we assume:
+
+Qat = (1 -
+
+(») Qu = Qù
+
+Uiti Expected nonsusceptible (unfecun- («) Q2iU2i + Q3iU3i = Q2U2 + Q3U3.
+
+dable) months associated with k for a woman i.
+V¡ Expected susceptible months (before the conception month) for a woman i.
+s Age-specific proportion of naturally sterile women.
+3 Fetal deaths are divided between early and late fetal deaths because the distribution of the frequency of fetal deaths by duration of pregnancy is bimodal.
+
+These assumptions are slightly weaker than the assumptions of constancy in each individual variable (i.e., fa = fa, fa = & , U2i = U2, U3i = U3). They are sufficient for us to concentrate on the distributions of p, and Uu only. This is consistent with the large fecundability variance estimates in previous work (Bongaarts, 1975; Holmberg, 1972) and with
+
+Vol. 2 5 , No. 3
+
+Natural Fecundability
+
+215
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+our empirical knowledge about the significant variation in Uu (Appendix B). Furthermore we assume:
+(Hi) p¡ = qpM and p*¡ has a beta distribution among women;
+(iv) Uu and p*¡ are independently distributed among women.
+
+Letg(x) be defined as the following function of a variable x:
+g(x) = (1 - s)
+12 0 i Q,x + Q2U2 + Q3U3 + llqpn - 1
+dh*(pn);
+
+Assumption (Hi) follows (1) in the last section, and that beta distribution is, asmentioned, a very general distribution of probability. Assumption (iv) may be justified by the lack of counter-evidence and by our conjecture that the determinants of p*i and Ult are quite different. (One major determinant of Uu is the extent of breast feeding, a behavioristic variable which can be regarded as independent of biological and social determinants of p*¡-)
+These assumptions allow us to reach the ASMFR from (10) as
+- a - . ) f|
+12 0i QiUu + Q2U2 + Q3U3 + 1/qp» - 1
+dh1(Uu)dh.{pn) (il)
+in which dhi and dh* are density distributions of Uu and p*¡ respectively. Since dh* is a beta distribution, its two parameters can be obtained by the sample mean and the sample variance of the first conception delay for women of age 20 to 24.4 We estimated these two parameters from Taiwanese data provided by Jain (1969a) and apply them to the Hutterites. On the other hand, we have no knowledge about dh1. Because of this, we propose the following method by which q in (11) can be solved for.
+4 As reported by Potter and Parker (1964), among others, estimates a and b of the parameters of the beta distribution of fecundability can be expressed as a function of the sample mean m and variance v of the first conception delay as follows:
+Iv b = (m - l)(o - 1).
+
+and let U^", Î/,TM1, Ü respectively be the minimum, maximum, and mean nonsusceptible period associated with live births in the considered sample. We prove in Appendix A that
+
+Flow = g(Ui)
+
+(12)
+
+= c "1) + (1 - c)
+
+(13)
+
+in which Flow and Fapp denote the lower
+
+and upper bound of F respectively and c is
+
+the solution to the following condition:
+
+c i/rin + (1 -
+
+(14)
+
+The basis for this relation is as follows. Let i b e a continuous variable defined in the interval (A,B) with 0 < A < B < oo. Then it,can be proved (Appendix-A) that the following two inequalities hold for any density distribution dh(x):
+
+1 tB 1 1 1
+_ < ±dh(x)<c J L + ( i - c ) _ L x SA x A B
+with x = x dh(x) and c being the solu-
+1A
+
+tion to cA + (1 - c) B = x. The ASMFR can be equated to a linear
+combination of its lower and upper bounds:
+F =w Flow + (1 - w)FuTM. (IS)
+
+Notice that Flow and Fupp, and therefore F, are a function of q. But for the women in age group 20-24, q has been defined as 1.0. Therefore, the application of Equations (11) through (15) to the data of women in this age group provides the solution for the only known weight w.
+Now with one additional assumption
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+216
+
+Bendel and Hua
+
+Social Biology
+
+that w is constant across age groups, we
+
+TABLE 2
+
+insert the solved w back into Equations ESTIMATED FECUNDABILITY RATIOS OF HUTTERITE
+
+(11) through (15) and are able to solve for WOMEN OF AGE 25 AND OLDER BASED ON q = 1.00
+
+q from each age-specific cross-sectional
+
+AT AGES 20-24
+
+data.
+
+Age q
+
+Applying this technique to the Hutterite data, we obtain q, for t = 25, . . . , 47. The data used and the evaluations of various variables and parameters are detailed in Appendix B. A special method, the smoothed isotonic regression, that is used in evaluating F is explained in Appendix C. The result of our estimation of q, is presented in Table 2.
+We combine our results from Table 1 and Table 2 to construct a composite curve of fecundability ratio in Figure 1. Finally, we also compute the age-specific fertility ratios of Hutterite women (from data in Table B.I, Appendix B, with the average ASMFR of 20-24 years old as the basis5) and plot them in Figure 1for comparison.
+
+25 0.97 26 0.90 27 0.88 28 0.87 29 0.84 30 0.83 31 0.75 32 0.69 33 0.62 34 0.61 35 0.57 36 0.53 37 0.50 38 0.50 39 0.46 40 0.39 41 0.30 42 0.21 43 0.16 44 0.14 45 0.07 46 0.04 47 0.02
+DISCUSSION
+
+The estimated curve of relative change
+
+5 The average ASMFR of Hutterites 20-24 years old is 56.7 per 100 women. It was computed from
+
+in fecundability is composed of two parts,
+
+data reported by Sheps (1965, Table 2, p. 68).
+
+representing two ethnic groups with very
+
+1.0 BBBBHHBBSBJf ·
+
+0.9
+0.8
+·
+0.7
+
+·a
+
+Q
+
+·a D
+
+nD
+
+· Dö
+
+a
+
+Fertility Ratio Of / Hutterite Women
+/
+
+0.6 V
+
+"a a
+
+* \ Fecundability Ratio 0.5 Of Taiwanese Women
+
+_ f BB
+B
+
+·
+
+0.4 Fecundability Ratio /
+
+Of Hutterite Women
+
+·
+
+0.3 · D
+
+0.2 ·
+·BD
+0.1 D
+·· s
+Age 1 5 20 2 5 30 35 40 45
+FIG. 1.--Age-specific fecundability ratio with fecundability at age 20-24 as the basis.
+
+Vol. 25, No. 3
+
+Natural Fecundability
+
+217
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+different sociocultural backgrounds. The Figure 1, the Hutterite ASMFR indeed models are built upon assumptions, and declines in a way different from the the plausibility of some of these assump- straight-line tendency of the fecundability tions is difficult to assess. Considering ratio. From age 24 to age 30, for example, these, one should certainly be careful about ASMFR declines by 8 per cent while the generality and precision of the curve. fecundability has already declined by 17
+On the generality side, however, one per cent. The fast decline of ASMFR does should not be too conservative to accept not occur until somewhere near the age of the cross-cultural composite approach. 38 when fecundability is already half of its Fecundability is the result of the interac- maximum level. tion of a woman's biological capacity to To explain the disparity between the conceive and social factors such as coital two paths of decline, one may examine the frequency. It is true that cultural differ- data used in Appendix B. Since U2, U3, ences will likely cause differences in the i/rin, t/!max, Ü, and the weights are all fecundability level, given the same biolog- assumed to be constant over age i, the ical capacity. But on therelative change of factors that cause the disparity must come fecundability over ages, the effect of such from the changes in pregnancy-outcome social factors is much lessened, unless we probabilities and the change in the proporhave evidence that, for example, the dis- tion of sterile women with age. Indeed, in tribution of marital coital frequency over our estimation, both the early and late ages is different among different ethnic fetal death probability $2 and $3 increase groups. Before we have more comparative with age and so does the proportion of studies, we can tentatively view the curve sterile women 5 (see Table B.3 and Table in Figure 1as a first approximation to the B.7). The reasons for their increase are rise and decline of human fecundability. discussed in the appendix.
+
+The degree of approximation is probably less precise on the declining part of the curve, as the ASMFR model evokes more assumptions than does the simple harmonic mean method. With this qualification, we may nevertheless, in the light of the general trend shown in the curve, take the new view (1) that a woman's fecundability declines immediately after the first half of her twenties and (2) that the decline is approximately linear all the way to the zero level near her menopause. In the past, most researchers believed or assumed that a woman's fecundability stays at a maximum level until she is 30 or still older and that the decline occurs slowly first and then gradually accelerates (Henry 1961ft, Vincent 1961, Henry, 196S; Jacquard, 1967; Ridley and Sheps, 1966; Barrett and Brass, 1974; Holmberg, 1972). This view is probably based on certain observed decline paths of the ASMFR. In
+
+If one views fecundability as the product of a woman's biological capacity to conceive (potential) and her actual coital frequency, then it should be pointed out that a linear decline of her fecundability does not necessarily imply a linear decline of her biological capacity to conceive. It can be shown that the path of the biological capacity decline must be above the path of fecundability decline if marital coital frequency in fact decreases over age. On the other hand, if one views coital frequency and factors other than the biological capacity as only minor determinants of fecundability, then a linear decline of fecundability reflects a linear decline of biological capacity to conceive. In the future, after we become more certain about the relative changes in both fecundability and coital frequency over age as well as the latter's role in determining the former, we may infer more definitively the changes
+
+218
+
+Bendel and Hua
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+in women's purely biological capacity to almost doubled in the short span between
+
+conceive.
+
+age 16 and age 20-24, with each year hav-
+
+Beside the curve of fecundability ratio, ing a distinctly different ratio. Besides
+
+there are two minor points associated with being important information itself, these
+
+our estimate that may be worth mention- ratios may refine our research. If two
+
+ing. Our estimate simultaneously allows samples of young women are known to
+
+heterogeneity of fecundability in each age have different age distributions, then the
+
+group and the aging effect over age group. expected ratio of mean fecundability can
+
+This has not been done before in estimat- now be computed. Without taking this
+
+ing fecundability or testing related hy- portion into account, an estimated differ-
+
+potheses, although the need to do so is ence in mean fecundability between two
+
+reflected in certain simulation models samples may be attributed to another ef-
+
+(e.g., Lachenbruch et al., 1973; Barrett fect improperly or inconclusively.
+
+and Brass, 1974; Bongaarts, 1977). The For example, Jain (1969c) estimated the
+
+need for allowing both variations is illus- mean fecundability at marriage for two
+
+trated next.
+
+groups of Taiwanese women. At the time
+
+of interview, one group used contracep-
+
+tion, and the other did not. He found a
+
+HOMOGENEOUS AND HETEROGENEOUS
+
+higher mean fecundability in the first
+
+FECUNDABILITY
+
+group and therefore supported the hy-
+
+What is the effect of the assumption of pothesis proposed by Freedman and
+
+homogeneous fecundability in each age Takeshita (1969) that contraception users
+
+group--the assumption that allows the in- have higher natural fecundability than
+
+verse of sample (arithmetic) mean of first nonusers. However, considering that the
+
+conception delay to be the estimated use of contraception is positively corre-
+
+fecundability (e.g., Potter, 1972a,b)? As lated with educational level (Taiwan Pro-
+
+an example, let us look at the 20-24 age vincial Health Department, 1972, p. 40)
+
+group of the Taiwanese sample. The sam- and that educational level is positively
+
+ple mean of first conception delay is 6.57 correlated with age at marriage in Taiwan
+
+months (see Table 1). Hence the estimated (Hermalin, 1973, p. 32), one may infer
+
+fecundability would be 1/6.57 = 0.152, that certain portions of the higher mean
+
+according to the homogeneity assumption. fecundability in the first group can be at-
+
+But a beta distribution of fecundability in tributed to the age effect. Hence the hypoth-
+
+this age group has the parameters a = esis cannot be tested unless the age effect is
+
+3.24 and ß = 12.5, as calibrated from the controlled. Jain's data permits one to test
+
+sample mean and sample variance of first the hypothesis for each age group sepa-
+
+conception delay by Jain (1969a). Thus, rately.
+
+the mean fecundability of this age group is, according to the beta distribution model, a/(a + ß) = 0.206. If the model is correct, the estimate according to the homogeneity assumption has a bias of (0.152 - O,2O6)/O.2O6 = -26.2 per cent.
+
+A more efficient test can be done by pooling data into the contraception user group and the nonuser group, as Jain did, but computing the expected ratio of mean fecundability between the two groups as the null hypothesis. The expected ratio is
+
+The need for considering the age- obtainable from weighting the estimated
+
+specific change in fecundability is more age-specific fecundability ratios by the age
+
+obvious. In Figure 1, fecundability has distribution of each group.
+
+Vol. 2 5 , No. 3
+
+Natural Fecundability
+
+219
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+APPENDIXA
+!B 1
+LOWER AND UPPER BOUND OFI -- dF(x)
+
+x dF(x) = x of the original value. Move a of e to Xj and 1 - a of e to x2 so that
+
+The purpose ofthis appendix istoprove the inequality
+
+A^x^B
+
+and 0 < a < 1(A. 1)
+
+a n ( * s o t n a t ^e overall mean is unaffected,
+
+i.e., ex = a ecj + (1 -- a)ex2 which is
+
+1/ a;¿F(x) Li
+<-
+JA X
+
+A
+
+equivalent to
+
+(A.2)
+
+Note that the e/x contribution to (1/x)
+
+1 + (1 ~ c) --.
+
+¿F(x) has been changed to
+
+Definitions of the symbols usedare:
+
+( a e)/xi + Ü ~ ^) e!x2,
+
+x A random variable taking value in ancj w e want to know if the following in-
+
+the interval (A,B) with the density equality holds:
+
+rB
+distribution dF(x), i.e., I dF(x) = 1.
+
+e/x < a i ^ + (1 - a) e/x2, (A.3)
+
+x = \ x dF{x).
+¡A
+
+which implies that: Xi x2 < (a x2 + Xi - a xj x. (A.4)
+
+c A constant satisfying the condition By replacing a; in(A. 4) by its expression in c A + (1 - c) B = x and 0 £ c < 1. (A.2), we get:
+
+(¿) l / f xdF(x) < r J-dF(r).
+
+*i x2 < (a^2
+
+-a
+
+I JA
+
+JA x
+
+This inequality is a special case of Jen-
+
+(a - a
+
+sen's inequality, which has already been which, it can be shown, implies that
+
+proved andis well known (Rao, 1975, p.
+
+g < a ( l - a)(x --x f
+
+58).
+
+B Since 0 < a < 1, theinequality holds.
+
+(ii) -- dF(x) < c ---+ (1-- c) --.
+
+Therefore, aslong asthere exists xx and
+
+00 x2 such thai A < ï , < i < i 2 < B , w e can
+
+(B I
+
+rB
+
+The following is to show that -- strictly increase (l/x)dF(x), and the
+
+JA x
+dF(x) ismaximized by having all mass atA and B, that is, with a portion c atAand the rest onß such thatch + (1- c) B =
+
+¡A,
+d(AisBt)ribcuatinonno tFbewtithhemmaasxsiminumth. e interval Therefore, the maximum has all its
+mass on (4) and(B), Q.E.D.
+
+Consider any distribution F between A and B without all its mass at A andB. Then there is some mass in some interval (x, x + dx) forx within (A,B). Now sup-
+
+APPENDIX B
+D A T A U S E D I N ESTIMATING THE RELATIVE CHANGE IN FECUNDABILITY OF HUTTERITES
+
+posing that this mass is e, we show that by ((a)) Aggep-fispecific marital fertilitfyy rate F.
+
+moving this mass we can increase the T h e b a s i c d a t a a r e age-specific fertility
+
+value of Í -- dF(x) while still keeping rates classified by age at marriage for
+¡A X
+
+220
+
+Bendel and Hua
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+Hutterite women cited in Sheps (1965, p.
+
+TABLE B.i
+
+68). The rates are tabulated by single years
+
+ORIGINAL AND SMOOTHED ASMFR
+
+of age. The women are further divided
+into four age-at-marnage groups: less than 20, 20-24, 25-29, and 30 years or more. ~
+Only the fraction of the year of age 26
+
+Age
+
+Original
+ASMFR«
+~ S3.s
+
+'
+Smoothed
+ASMFR
+S6 Q
+ss.o
+
+when a woman was married was included ^7
+
+;¡5.5 *4°
+
+in calculating these rates. Because of the 29 method used, the rate in the first year of 33°
+each age-at-marri age group was lower 32
+
+54.0 52.7 jj-j ^ 42.5 48.3
+
+than for subsequent years. For example, a ^ ^ *^.o
+
+woman married at 20.5 years contributed 35
+
+46.0 43.9
+
+six months to the denominator for the ^ *°-° ^
+
+twenty-first year, although she was very 38
+
+40.5 40.5
+
+unlikely to contribute a birth, since pre- ^
+
+^°
+
+^
+
+marital conceptions are virtually nonexis- 41
+
+30.0 30.o
+
+tent for the Hutterites. To avoid this prob- ^
+
+^3.5 23.5
+
+lem, only marital fertility rates of women 44
+
+16.s 16.5
+
+who had been married for at least two *5
+
+^
+
+^
+
+years were used.
+
+47 3.0 2.7
+
+Furthermore, the cyclic tendency of an- *These rates ,,,,per 100women ,,^ 2sorless atmarriage andare nual birth rates by year of marriage, pre- computed from data given by Sheps (1965'p-68)
+
+dieted theoretically by Perrin a n d Sheps ability among women of the duration of
+
+(1964, p . 28) has been observed empiri- pregnancy associated with early fetal
+
+cally (Sheps, 1965, p . 69).This cycle effect death and late fetal death, as well as the
+
+will appear in ASMFR classified by age at subsequent post-partum anovulatory pe-
+
+marriage unless the age at marriage is dis- riod, one can assume that women are rela-
+
+tributed uniformly among each age-at- tively homogeneous with respect to a non-
+
+marriage group. This is not the case for susceptibility period associated with an
+
+the Hutterites (Eaton and Mayer, 1954,p . early fetal death of four months (three
+
+16), and indeed two- or three-year cycles months of pregnancy and one month of
+
+can be observed in Sheps's ASMFR data, post-partum anovulatory period), as well
+
+To correct for this cycle effect in Sheps's as to a nonsusceptibility period associated
+
+data and to take into account the with a late fetal death of eleven months
+
+monotonie decrease of natural fecundabil- (eight months of pregnancy and three
+
+ity with age from maximum fecundability months of post-partum anovulatory pe-
+
+to zero at the age of menopause, the riod). The same, however, cannot be said
+
+smoothed isotonic regression is applied to for the nonsusceptible period associated
+
+the reported data of A S M F R to obtain a with alive birth because of the wide varia-
+
+setof corrected value of F. T h e method of tion of breast-feeding behavior among
+
+smoothed isotonic regression is described women, expecially in developing coun-
+
+in Appendix C. The originally reported tries, and its effect on the post-partum
+
+data and the corrected F are listed in nonsusceptibility period (Berman et al.,
+
+Table B.I.
+
+1972; Ginsberg, 1973; Van Ginneken,
+
+(b) Duration of the nonsusceptible pe- 1974).
+
+riod associated with early fetal loss U2 or (c)Minimum and maximum duration of late fetal death U3. Due to the small vari- the nonsusceptible period associated with
+
+Vol. 25, No. 3
+
+Natural Fecundability
+
+221
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+a live birth, U,min and U^3*. The dura- years of age). Thus, q = 1.0 for this sam-
+
+tion of pregnancy resulting in a live birth ple of Hutterite women, and the mean
+
+is nine months. Furthermore, it is rare for duration Üx of the nonsusceptibility assoovulation to occur before day forty after ciated with a live birth for this group of
+
+childbirth (Perez et al., 1971). Therefore, Hutterite women can be estimated from
+
+ten months is a reasonable estimate for the the following equation:
+
+minimum duration of the nonsusceptibility period U¡ associated with a live birth.
+
+18.2 = Ü1 + ¡ 1
+
+Different studies have shown that less
+
+than 4 per cent of women who had weaned where dh* is the density distribution of
+
+their child during the first six months fol- maximum natural fecundability described
+
+lowing birth were still in post-partum previously.
+
+amenorrhea twelve months after delivery Assuming that dh* is a beta distribution
+
+(Jain etal., 1970, p. 261). Combining that and adopting the parameters estimated by
+
+fact with our knowledge that most Hutter- Majumdar and Sheps (1970), we find Ül to
+
+ite mothers wean their infants by six be 13.4 months (which corresponds to 4.4
+
+months of age (Potter, 1963, p. 161), a months of post-partum nonsusceptible pe-
+
+reasonable estimate of the maximum dura- riod).
+
+tion of the nonsusceptibility period asso- (e) Conditional probability of earlyand
+
+ciated with a live birth [/1max is 9 + 12 = latefetal deaths, 4>2 and $3by maternal age
+
+21 months.
+
+at conception. Specific data on pregnancy
+
+id)Mean duration of the nonsusceptibil- termination rates for Hutterites are un-
+
+ity period associated with live birth Ül. available to the authors. However, the When there is no fetal wastage, the inter- health condition of the Hutterites as indi-
+
+val between two live births for a woman i cated by their death rate is comparable to
+
+conceiving at a given age can be estimated that in the United States in general
+
+by the following:
+
+(Eaton and Mayer, 1954, pp. 32-33; Tietze, 1957, pp. 89-90). Thus, the prob-
+
+Ux + \¡q P*¡.
+
+abilities of early fetal death (conditional to
+
+The mean interval between live births without intervening fetal wastage among a group of married women of the same age not using birth control methods is
+
+a pregnancy of 28 weeks or less) will be estimated from other studies on pregnancy termination among populations comparable to that of the United States in the fifties, since Hutterite data on ASMFR re-
+
++ dh*{pH).
+
+late to births, most of which occurred in the fifties (Mange, 1964, p. 104, cited in
+
+The reported mean interval between the first and second child for Hutterite women less than 25 years of age at marriage and without intervening fetal wastage is 18.2 months (Sheps, 1965, p. 74). Since very few of these women married before the age of 20, and less than 10 per cent of these women had not had their first child within two years of marriage (Sheps, 1965), most of the secona children were conceived when fecundability was maximum (20-24
+
+Sheps, 1965, p. 65).
+(1) Early fetal deaths, 4>¿. The best study on the estimation of the probability of early fetal death is that of French and Bierman (1962) called the Kauai Pregnancy Study (KPS). The KPS consists of the follow-up of 3,197 pregnancies on the island of Kauai during the four-year period 1953-56. The study was designed to provide information about early pregnancies from four week's gestation onward,
+
+222
+
+Bendel and Hua
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+that is, reports of pregnancy from the 0.008). Then we canestimate the condiwomen themselves as soon as they sus- tional probability of early fetal deaths of pected they were pregnant. Thepopula- gestational ageof less than 28weeks by tion ofthis Hawaiian island is comparable adding 0.008 to the conditional probability to the white population in the United of early fetal deaths of gestational age of States in terms oflife expectancy at birth, less than 20 weeks.
+
+infant mortality, andbirth rates (French However, Shapiro et al. (1962, p. 13)
+
+and Bierman, 1962, p. 836). Probabilities recognized that the observed probability
+
+of fetal losses by gestational age were of pregnancy termination in the early
+
+computed by thelife-table method (French weeks of gestation was too low, resulting
+
+and Bierman, 1962, p. 840).We computed in underestimating the conditional proba-
+
+the conditional probability of early fetal bility ofearly fetal loss. We assumed that
+
+death (gestational age of less than 28 the true incidence of pregnancy termina-
+
+weeks) to be 0.224. Unfortunately, the tion was equal tothe more complete Kauai
+
+data were not provided for specific mater- Pregnancy Study (in terms of detectionof
+
+nal age atconception. For that reason, we early pregnancy losses), and that the same
+
+have to turn to theother major studyon underestimation occurred forallmaternal
+
+pregnancy outcome, that of Shapiro et al. ages at conception. Therefore, thecondi-
+
+(1962).
+
+tional probability ofearly fetal death com-
+
+Shapiro et al. (1962) investigated 6,844 puted from Shapiro was increased by pregnancy terminations among women 0.011, which isequal tothe difference bewhose last menstrual period prior topreg- tween theconditional probability of early nancy began during theinterval between fetal death in the KPS(0.224) and the March, 1958, and February, 19S9, and conditional probability ofearly fetal death who received care from the Health Insur- in the study byShapiro et al. (0.133), unance Plan of Greater NewYork (HIP) conditional tomaternal age at conception.
+
+obstetricians in medical groups located in After all these adjustments were made,
+
+New York City. Fetal deaths were com- we obtained the conditional probability of
+
+puted by gestational age and maternal age early fetal death forgestational age ofless
+
+at conception per 1,000 pregnancies at risk than 28weeks shown in Table B.2.
+
+(Shapiro etal., 1962,p. 16). From the life table ofpregnancy termination (Shapiroet
+
+TABLE B.2
+
+al., 1962, p. 43), wecomputed the conditional probability ofearly fetal death (ges-
+
+CONDITIONAL PROBABILITIES OF EARLY FETAL Loss BYMATERNAL AGE AT CONCEPTION, N E W YORK CITY, 1959
+
+tational age of less than 28weeks) for all maternal ages as being 0.133. Forgestational ageof less than 20weeks, itis0.125.
+
+VARIABLE
+
+20-24
+
+AGE
+25-29 30-34
+
+35+
+
+The data provided by Shapiro etal. (1962, p. 16)only allow computation ofthe conditional probability of early fetal death by maternal age directly for gestational age of less than 20 weeks. Letus assume
+
+Conditional probability of early fetal loss . . . . 0.180 0.198 0.235 0.289
+While the increase of fetal death rate (also found in Erhardt and Jacolizner, 1956; Yerushalmy etal., 1956;Warburton
+
+the same difference between conditional and Fraser, 1964; Jain, 1969Ö) is typically
+
+probability of early fetal death of gesta- interpreted asresulting from a progressive tional ages of less than 28weeks and of deterioration of the ability of individual less than 20 weeks forallmaternal age at women to bear children successfully (Ficonception (that is, 0.133 - 0.125= schler etal., 1971), Resseguie (1974) offers
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+Vol. 25, No. 3
+
+Natural Fecundability
+
+223
+
+an alternative explanation. He suggests a notes late fetal death in the United States
+
+large fraction of fetal death is experienced per 1,000 pregnancies with gestational age
+
+by a small number of women prone to fetal of either 20 weeks and more or 28 weeks
+
+loss. These women constitute a small frac- and more. Based on these data, Table B.S
+
+tion of those pregnant at ages when most lists the conditional probabilities of late
+
+women in their particular society are bear- fetal death (gestational age of 28 weeks or
+
+ing children, but progressively greater more) by maternal age for application to
+
+fractions in those age classes in which the Hutterite sample. Again, the condi-
+
+.births are less common. A major factor tional probability of late fetal loss is as-
+
+contributing to the sharp increase in loss sumed to increase linearly with age be-
+
+rates during a woman's thirties is the deci- tween each mid-age interval.
+
+sion by most women resistant to fetal loss (/") Distribution of maximum natural to cease bearing children because they fecundability, dh*. The most direct have as many as they desire, while a dis- method of estimating the parameters of proportionate fraction of women prone to the beta distribution of maximum fecunfetal loss continue to become pregnant. dability is through a model based on first
+
+This hypothesis leads to the conclusion pregnancy such as the one proposed by
+
+that a society in which healthy women Potter and Parker (1964). Indeed, the lat-
+
+generally want large numbers of children ter have shown that if M and V are respec-
+
+and do not marry unusually young should tively the mean and variance of elapsed
+
+exhibit a slower rate of increase in fetal time from marriage to first pregnancy
+
+death ratio with age of mother than does among a population of married women,
+
+the general United States population. This then the parameters (a,b) of the beta dis-
+
+hypothesis was successfully tested on the tribution of fecundability among this pop-
+
+Amish by Resseguie (1974), who also sug- ulation can be estimated by
+
+gested that the same findings would hold true for the Hutterites (Resseguie, 1974, p. 637). For this reason, we chose a slower rate of increase with age for the param-
+
+2V
+a = V -M2 +My b = (M - l)(â - 1).
+
+eters of conditional probability of early Thus, the data required to estimate the
+
+fetal loss for Hutterites ($2) than we did parameters of the beta distribution of max-
+
+for the Shapiro sample (Table B.2). Therefore, the parameters used in estimating the ASMFR among Hutterites are those listed in Table B.3. Furthermore, the conditional probability of early fetal death is assumed to increase linearly with age between each mid-age interval.
+
+imum fecundability are the timing of the first pregnancy of women who did not use contraception before the first conception and who were 20-24 years of age at marriage.
+The only such published data available is Jain's sample of Taiwanese women
+
+(2) Late fetal death, <fc: Table B.4 de- (1969a). The Taiwanese sample is a prob-
+
+TABLE B.3
+CONDITIONAL PROBABILITY OF EARLY FETAL DEATH AT MID-AGE INTERVAL {<j>¡) BY MATERNAL A G E AT CONCEPTION AMONG THE HUTTERITES
+
+VARIABLE
+<j>2
+
+20-24
+0.180
+
+25-29
+0.190
+
+AGE
+
+30-34
+0.210
+
+35-39
+0.240
+
+40-44
+0.280
+
+45-49
+0.350
+
+224
+
+Bendel and Hua
+TABLE B.4
+LATE FETAL DEATHS PER 1,000 PREGNANCIES AT RISK
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+LOCATION, YEAS, AND GESTATION
+
+20-24
+
+25-29
+
+30-34
+
+35-39
+
+40 +
+
+New York City, 1959 (gestation 20 weeks and more)* U.S., 1960-61
+(gestation 20 weeks or more)t U.S., 1931-35 (gestation 28 weeks or more)t
+
+15 16 20 29 12 14 19 27 38 30 30 35 46 60
+
+· Shapiro, 1962.
+t U.S. Dept. of Health, Education, and Welfare, 1965. t Yerushalmy, 1939.
+
+abilistic sample of married women, of parameters of the beta distribution of max-
+
+which 3 per cent have been excluded be- imum fecundability. a = 3.24, and j8 =
+
+cause they had not conceived by the time 12.50.
+
+of the survey. According to historical data The parameters of the beta distribution
+
+relating to populations practicing little or of maximum natural fecundability among
+
+no birth control, the sterility rate for fecund married women are assumed to
+
+women aged 20 is also in the vicinity of 3 vary little over time and among cultures.
+
+per cent (Henry, 19616, p. 85). Therefore, Therefore, the estimated (a = 3.24 and ß
+
+the number of fecund women excluded = 12.50) derived previously from
+
+from the sample can be considered negli- Taiwanese data are applied to the Hutter-
+
+gible. If that were not the case, the sample ites.
+
+might have been biased due to the exclu- In empirical applications using a com-
+
+sion of women with presumably low puter, the continuous beta function is re-
+
+fecundability (since they had not con- placed by a discrete frequency distribution
+
+ceived by the time of the interview). Thus, defined for 0.01 increments between 0 and
+
+the Taiwanese sample might be consid- 1. The relative frequency of such variable
+
+ered representative of the fecund married x is computed by the difference I(X +
+
+female population in Taiwan.
+
+0.005, a,ß) - J(X - 0.005, a,ß) where
+
+The data consist of the mean and variance of elapsed time to first pregnancy by
+
+IQC,a,ß) is the incomplete beta distribution (i.e., I(X,a,ß) = \X ba,ß (t)dt).
+
+single year of age at marriage from age 20
+
+Jo
+
+to 24, as well as the sample size in each age (g) Age-specific proportion of natural
+
+group (Jain, 1969a, p. 79). From these sterile women, s.
+
+data, the mean M and variance V of Age-specific data on sterility is not
+
+elapsed time to first conception for women available. As a substitute, the age-specific
+
+married between ages 20 and 24 are com- proportions of naturally sterile women
+
+puted, resulting in M = 6.57 months, and were computed from Treloar's unique
+
+V = 95.44. Thus, we can estimate the study on the age distribution of
+
+TABLE B.5
+CONDITIONAL PROBABILITIES OF LATE FETAL DEATH AT MID-AGE INTERVAL (<f>3) BY MATERNAL AGE
+
+VARIABLE
+«1.
+
+20-24
+.. 0.020
+
+25-29
+0.022
+
+AGE
+
+30-34
+
+35-39
+
+0.025
+
+0.030
+
+40-44
+0.040
+
+45-49
+0.060
+
+Vol. 25, No. 3
+
+Natural Fecundability
+
+225
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+menopause among American women (Treloar, 1974, p. 93) and are listed here in Table B.6.
+
+TABLE B.6
+PERCENTAGE OF WOMEN NATURALLY STERILE BY AGE*
+
+Age % Sterile
+
+36 or less 37
+38
+39 40 41 ' 42 43
+44 45 · 46 47 48
+49
+50 51 52 53 54 55
+56
+57 or more
+
+0.0 0.4
+0.6
+0.6 0.7 1.0 l.S 2.7
+5.4 9.5 14.9 23.15 34.9
+48.6
+61.8 74.5 85.0 91.8 96.1 97.9
+99.2
+100.0
+
+* Computed from Treloar (1974, p. 93, Table 1), using the formula % sterile at age x = Vi (% reaching menopause at age [x ~ 1] + % reaching menopause at age I ) . Assuming uniform distribution of occurrence of menopause during the year, we allow for the fact that the women reaching menopause in a given year are still fertile, on the average, half of the year.
+
+l\g(x)-f(x)]2w(x).
+More simply, g* is the isotonic regression of g.
+In other words, an isotonic regressiong* of a real valued function g is the closest nondecreasing approximation (in terms of sum of squared errors) to the function g. Such isotonic regression can be computed, using the "pool-adjacent violators" algorithm described in Barlow et. al. (1972, pp. 9-18).
+(b) Smoothed isotonic regression. To transform a nondecreasing isotonic regression computed by the pool-adjacentviolator algorithm into a monotonie increasing function, we defined a new function g** which we call smoothed isotonic regression. The values are computed as follows: the value of g** is equal to that of g* for all elements which have not been pooled, and the value of g** associated with an element which has been pooled is equal to the mean of the value of g* associated with the same element and the value of g* associated with the two adjacent elements:
+
+APPENDIX C
+SMOOTHED ISOTONIC REGRESSION
+(a) Isotonic regression over a simply ordered set. The following definition is derived from Barlow et al. (1972, pp. 9-18). LetX be the finite set (xx, . . . , xk) with the simple order xx < x2 < · . . < xk. A real valued function/on X is isotonic iix, y eX and* < y imply/(x) </(y). (The term "nondecreasing" would serve equally well.) Let g be a given function onX andw a given positive function on AT. An isotonic function g* o n X is an isotonic regression of g with weights w with respect to the simple ordering x, < x2 < . · · < xkii it minimizes in the class of isotonic functions / on X the sum
+
+g**i = g*i if element i has not been pooled;
+¡ = 1/3 fe*,_i + g*{ + g*i+i) if element i has been pooled.
+ACKNOWLEDGMENTS We express our gratitude to Professor John Lehoczky of Camegie-Mellon University who so kindly reviewed this work and contributed a major portion of the proof in Appendix A. We are also grateful to an anonymous reviewer of an earlier version of this paper for his comments and contribution to the references. We thank Miss Stephenie McGully and Mrs. Jean Billet who had the difficult task of typing the drafts of this paper.
+
+226
+
+Bendel and Hua
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+REFERENCES
+
+BARLOW, R. E., D. J. BARTHOLOMEW, and H. D. LACHENBRUCH, P. A., M. C. SHEPS, and A. M.
+
+BRUNK. 1972. Statistical inference under order re- SORANT. 1973.Application of POPREP, a mod-
+
+strictions. John Wiley and Sons, London.
+
+ification ofPOPSIM. In B. Dyke andJ. MacClure
+
+BARRETT, J., and W. BRASS. 1974. Systematic and (eds.), Computer simulation inhuman populations.
+
+chance components infertility measurement. Pop. Academic Press, New York.
+
+Stud. 28:473-493.
+
+MAJUMDAR, H., and M. C. SHEPS. 1970. Estimators
+
+BERMAN, M. L., K. HANSON, and I. L. HELLMAN. of a Type I geometric distribution from observa-
+
+1972. Effect of breastfeeding on postpartum tions onconception times. Demography 7(3):349-
+
+menstruation, ovulation, and pregnancy in Alaska 360.
+
+Eskimos. Amer. J. Obstet. Gynecol. 114(4):524- MANGE, A. P. 1964. Growth andinbreeding of a
+
+534. human isolate. Hum. Biol. 36:104.
+
+BONGAARTS, J. 1975. A method for the estimation of MENKEN, J. A. 1975. Biometric models of fertility.
+
+fecundability. Demography 12:668-695.
+
+Soc. Forc. 54(1):52-65.
+
+. 1977. A dynamic model of the reproductive PEREZ, A., P. VELA, R. POTTER, and G. S. MAS-
+
+process. Pop. Stud. 31:59-74.
+
+NICK. 1971. Time and sequence of resuming ovu-
+
+EATON, J. W.,andA. J. MAYER. 1954. Man's capac- lation and menstruation after childbirth. Pop.
+
+ity to reproduce. TheFree Press, Glencoe,Ill.
+
+Stud. 25(3):491-503.
+
+ERHARDT, C. L. 1963. Pregnancy losses in New PERRIN, E., and M. C. SHEPS. 1964. Human
+
+York City, 1960.J. Publ. Hlth. 53:1337-1353.
+
+reproduction--A stochastic process. Biometrics
+
+ERHARDT, C. L., and H. JACOLIZNER. 1956. Ectopic
+
+20:28-45.
+
+pregnancies and spontaneous abortions inNew POTTER, R. B. 1963.Birth intervals: Structure and
+
+York City. Amer. J. Publ. Hlth. 46:828-835.
+
+change. Pop. Stud. 17:155-166.
+
+FISCHLER, B., E. PERITZ, and J. WINGERD. 1971.
+On linear models in the study ofperinatal mortal-
+
+. 1972a. Additional births averted when abortion is added to contraception. Stud. Fam. Plan.
+
+ity. Demography 8:401-410.
+
+3(4):53-59.
+
+FREEDMAN, R., and J. Y. TAKESHITA. 1969. Family
+planning in Taiwan: An experiment in social
+
+. 19726. Births averted by induced abortion: An application of renewal theory. Theor. Pop.
+
+change. Princeton Univ. Press, Princeton.
+
+Biol. 3(1):69-86.
+
+FRENCH, F. E., and J. M. BIERMAN. 1962. Prob- POTTER, R. B., and M. P. PARKER. 1964. Predicting
+abilities of fetal mortality. Publ. Hlth. Rep. the time required to conceive. Pop. Stud. 18:99-
+
+77:835. Government Printing Office, Washing- 116.
+
+ton, D.C.
+
+RAO, C.R. 1975. Linear statistical inference and its
+
+GINSBERG, R.B. 1973. Theeffect oflactation on the applications. John Wiley and Sons, New York.
+
+length of postpartum anovulatory period: An ap- RESSEGUIE, L.J. 1974.Pregnancy wastage and age
+
+plication of a bivariate stochastic model. Theoret. of mother among the Amish. Hum. Biol.
+
+Pop. Biol. 4:276-299.
+
+46(4):633-639.
+
+HENRY, L. 1961a. Fécondité et famille: Modèles RIDLEY, J. C., and M. C. SHEPS. 1966. An analyti-
+
+mathématiques (II). Population 16:24-48 and cal simulation model ofhuman reproduction with
+
+261-282.
+
+demographic and biological components. Pop.
+
+. 19616. La fécondité naturelle. Observa- Stud. 19(3):297-310.
+
+tion-Theorie-Resultats. Population 16(4):625-636. SHAPIRO, S., E. W. JONES, and P. M. DENSEN.
+
+. 1965.French statistical research in natural 1962. Alife-table of pregnancy terminationsand
+
+fertility in public health and population. Univ. of correlates of fetal loss. Milbank Mem. Fund
+
+Pittsburgh Press, Pittsburgh.
+
+Quart. 40:7-45.
+
+HERMALIN, ALBERT L. 1973. Empirical research in SHEPS, M. C. 1965. An analysis ofreproductive patTaiwan on factors underlying differences in fertil- terns inan American isolate. Pop.Stud. 19:65-79.
+
+ity. Taiwan Population Studies, Working Paper SHEPS, M. C., and J. A. MENKEN. 1973. Mathemat-
+
+No. 26.University of Michigan, Ann Arbor.
+
+ical models of conception and birth. Univ. of
+
+HOLMBERG, I. 1970. Fecundity, fertility and family Chicago Press, Chicago.
+
+planning. Demographic Institute, Report No. 10. SUCHINDRAN, C., and P. A. LACHENBRUCH. 1975. University of Gothenburg, Gothenburg, Sweden. Estimates of fecundability from a truncated dis-
+. 1972. Fecundity, fertility and family plan- tribution of conception times. Demography ning. Demographic Institute Report No. 11. Uni- 12(2):291-301.
+
+versity of Gothenburg, Gothenburg, Sweden. JACQUARD, A. 1967. La reproduction humaine en
+régime Malthusien. Un modèle desimulationpar la methode de Monte-Carlo. Population 22:897. JAIN, A. K. 1969a. Fecundability and its relation to age ina sample of Taiwanese women. Population 23(1):69-85.
+. 1969b. Fetal wastage in a sample of Taiwanese women. Milbank Mem. Fund Quart. 47(1):297-306.
+
+TAIWAN PROVINCIAL HEALTH DEPARTMENT. 1972.
+Semi-annual report: July-December 1971. Committee on Family Planning, Taiwan Provincial Health Department, Taiwan. TIETZE, C. 1957. Reproductive span and rate of reproduction among Hutterite women. Fertil. Steril. 8:89-97. TRELOAR, A. E. 1974. Menarche, menopause, and intervening fecundability. Hum. Biol. 46(1):89107.
+
+. 1969c. Relative fecundability of users and nonusers of contraception. Soc. Biol. 16:39-43.
+JAIN, A., T. C. Hsu, R. FREEDMAN, and M. C.
+CHANG. 1970. Demographic aspects of lactation and post-partum amenorrhea. Demography 7(2):255-271.
+
+U.S. DEPARTMENT OF HEALTH, EDUCATION, AND
+WELFARE. 1965. Infant and perinatal mortalityin the United States. National Center for Health Statistics. Government Printing Office, Washington, D.C. VAN GINNEKEN, J. K. 1974.Prolonged breastfeed-
+
+Vol. 2 5 , No. 3
+
+Natural Fecundability
+
+227
+
+ing as a birth spacing method. Stud. Fam. Plan. YERUSHALMY, J. 1939. Age of father and survival of
+
+5(6):201-206.
+
+offspring. Hum. Biol. 11:342-356.
+
+VINCENT, P. 1961. Recherches sur la fécondité-biolo- YERUSHALMY, J., J. M. BIERMAN, D. KEMP, A.
+
+gique. Presses Universitaires de France.
+
+CONNOR, and F. FRENCH. 1956. Longitudinal
+
+WARBURTON, D., and F. C. FRASER. 1964. Spon- studies ofpregnancies on the island ofKauai, Ter-
+
+taneous abortion risks in man. Amer. J. Hum. ritory of Hawaii. Amer. J. Obstet. Gynecol.
+
+Genet. 16(1):1-25.
+
+71(1):80-96.
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+

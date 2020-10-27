@@ -1,0 +1,471 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Mortality differentials by social class and smoking habit
+Samuel H. Preston
+To cite this article: Samuel H. Preston (1969) Mortality differentials by social class and smoking habit, Social Biology, 16:4, 280-289, DOI: 10.1080/19485565.1969.9987831 To link to this article: http://dx.doi.org/10.1080/19485565.1969.9987831
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 4
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:53
+
+Mortality Differentials by Social Class and Smoking Habit
+Samuel H. Preston
+Department of Demography University of California Berkeley, California
+
+J,
+
+ma >
+
+·%lft
+awn
+
+/
+
+fSLs£
+
+f'~. >',
+
+\ J
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+Whenever death rates can be correlated with several personal characteristics considered in isolation, the question arises whether the apparent "causative" nature of any one characteristic results from the fact that another is uncontrolled. We are now in the fortunate position of knowing that mortality rates among U.S. males in middle life, between ages 25 and 64, show a distinct inverse relation with educational attainment (Kitagawa and Hauser, 1968) and a positive relation with amount of cigarette smoking (U.S. Department of Health, Education, and Welfare, 1964)} Moreover, these relations persist for almost every cause of death examined in the studies. This paper addresses the question of whether cigarette smoking differences among the education groups (taken here as a measure of social class) can account for their mortality gradient, or, conversely, whether class differences between smokers and nonsmokers can explain the excessive mortality of smokers. A new
+1 There have been seven large prospective studies of smokers' mortality, five of which examined United States populations. None of the populations sampled was considered representative of the United States population as a whole. A detailed comparison of the studies (together with the appropriate references) may be found in United States Department of Health, Education and Welfare Report of the Advisory Committee to the Surgeon General of the Public Health Service, 1964 (pp. 77-120), hereafter referred to as the "Surgeon General's Report."
+
+method of inquiry into this type of question is suggested, and the results checked against an older method.
+CIGARETTE SMOKING AND SOCIAL CLASS
+The reason for believing results of the two types of studies to be related is the discovery in several surveys of a higher prevalence of cigarette smoking in lower social classes, whether grouped by occupation or education. The only representative sample of the United States male population in this regard was taken in 1955 and examined smoking rates in the different occupational groups (Haenszel, Shimkin and Miller, 1956) in which the percentage of current smokers (males, not age-adjusted) varied from a low of 42.7% in "Professional Technical, and Kindred" to a high of 54.7% among "Craftsmen, Foremen, and Kindred." The figure for "Laborers, excluding Farm and Mine" was 54.0%. Moreover, in the lower occupational groupings there was a slight tendency for those who smoked to consume larger daily amounts.
+We have no representative sample of consumption by groups at different educational levels, but there are indications that a similar gradient exists. A study of male Bell Telephone employees in 1968 found at that age 55 the percentage of men with no college
+
+280
+
+Vol. 16,No. 4
+
+Mortality, Social Class, and Smoking
+
+281
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+background who were smokers was twice as of mortality ratios from many different
+
+high as the percentage of college men causes of death in both types of studies. If
+
+(Hinkle et al., 1968). A special census of Washington County, Maryland, in 1963 showed that 62.3% of white males aged 2544 whohad not attended high school were current cigarette smokers, compared to 49.5% of those who attended college.* A larger study byHammond examined men in 25 states and found a similar differential (Hammond and Garfinkel, 1961). Thelargest disparity was found at ages 4(M9, where
+
+the higher death rates of the lower educational groups result solely from their higher proportion of cigarette smokers, then it is intuitively clear that their disadvantage will be worse for a particular disease the greater the smoking risk for that disease. If such a monotonic relation between social risk and smoking risk emerges, then the dependence
+TABLE 1
+
+43.9% of college graduates were current cigarette smokers compared to 62.1% of those with "some high school." In addition, a smoker who graduated from college
+
+ANNUAL AGE STANDARDIZED DEATH RATES (PER 100,000) OFMALES AGED 40-69, CROSSCLASSIFIED BY EDUCATIONAL ATTAINMENT AND SMOKING STATUS: 1959-63
+
+showed a distinct preference for brands lower in nicotine content, but tended to smoke more heavily.
+
+Educational Attainment
+
+Never Smoked Cigarettes Regularly 20+ a Day
+
+Hammond (1964) also derived death rates Grammar school or less 945 1,703
+
+cross-classified by educational attainment
+
+Some high school High school graduate
+
+and smoking status, which are presented in Some college
+
+864 1,637 766 1,594 755 1,550
+
+Table 1. I t is clear that both heavy smoking College graduate
+
+676 1,439
+
+and low educational attainment are independently associated with high mortality
+
+SOUKCE: Hammond, 1964, p. 1,172.
+
+rates, with mortality approximately dou- of oneset of results upon the other must be
+
+bling over therange of smoking behavior ex- suspected.
+
+amined and increasing by 18 to 40% over More formally, if we let
+
+the range of social class. In this paper we
+
+shall develop a method of analyzing mortal- Pi = relative mortality risk from smoking,
+
+ity differentials that points to thesame con-
+
+Cause i (non-smokers = 1.00);
+
+clusion, but that canbe employed when di- Kij = relative mortality risk of Educational
+
+rect cross-classification of death rates is not
+
+Groupy, Cause i (college-educated =
+
+possible. Themethod that will be proposed
+
+1.00);
+
+has the added advantage of identifying Xj = proportion of smokers in Educational
+
+causes of death whose association with one
+
+Groupj ;
+
+of the "risk factors" is most likely to be then theratio of thedeath rate from Cause i
+
+spurious.
+
+in Educational Group 1 to that which it
+
+A TEST OP THEEFFLUENCE OP SMOKING would be in the absence of smoking is
+
+ON SOCIAL CLASS MORTALITY
+
+Xi(Pi) + (1 - Xi) X 1. For Educational
+
+DIFFERENTIALS
+
+Group 0, it is X0(i\) + (1 - Xo) X 1.
+
+The test of independence of mortality Thus, the ratio of death rates of Group 1to
+
+ratios by smoking status and social class Group 0, assuming that all of the difference that is proposed here relies on the existence results from Xi 9*- Xo,is
+
+2 The data were generously provided by Dr. G. W. Comstock, Johns Hopkins University, School of Hygiene and Public Health.
+
+Xi(Pj) + (1 - Xr) __Kn X0(Pi) + (1 - Xo) Ka'
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+282
+
+Preston
+
+Social Biology
+
+or simply Kn if we let Group 0 be the college educated. Rewriting, we have
+1 + i - 1)
+" l l - 1 + XB(Pi - 1) *
+It is clear from this formula that if X\ > Xo, then Kn will rise as P,- rises (the formal statement of the intuitive notion stated directly above). However, the rise will not be proportional to AP< because of the presence of a constant term. The constant term is eliminated only if Xi = 1 and Xo = 0, in which case Kn = P« because all of Group 1 and none of Group 0 are smokers. These relations between Kn and P,- are illustrated in Figure 1. If Xi = 1 and Xo = 0, the relation between Kn and P< will be the 45° line through the origin (Curve 0). But in the only cases we are likely to encounter in reality, the relation will be curvilinear (Curve A illustrates). We should note finally that if
+
+social differences had caused the excessive mortality of smokers to appear, the curve would be written along the y-axis and all points would lie above the 45° line (Curve B).
+In conclusion, if one set of risks appears only because the groups employed to measure the risk have differential exposure to a second, uncontrolled, mortality factor, the measured disease-specific mortality risks of the two factors should bear a curvilinear relation to one another of the type illustrated by curves A and B of Figure 1. We shall now see whether educational and smoking class mortality differentials bear such a relation to one another.
+The education differentials for United States males aged 25-64 in 1960 are adopted from Kitagawa and Hauser (1968), and the smoking risk essentially from the large Hammond study of men in 25 states (Hammond, 1966). The latter study achieved some geo-
+
+5.00 +
+
+4.00--
+
+3.00- -
+
+2.00- 1.00
+
+Ki _ X,= 0.7 ,X0=0.3
+5.00
+
+FIG. 1.--An illustration of several hypothetical relations between social class risk (Kii) and smoking risk (Pi) under assumed parameter values.
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+Vol. 16, No. 4
+
+Mortality, Social Class, and Smoking
+
+283
+
+graphic diversity and had the added advantage for our purposes of running from 1959 to 1963. Unfortunately, theDorn study (Kahn, 1966) of United States veterans had to be employed at certain ages below 45 since the Hammond data lacked this range. The possible confusions introduced are minimized by the fact that the younger ages contribute relatively little to the size of the age-standardized mortality rate. The relevant data may be found in Table 2.
+Death rates for all groups are first agestandardized to the 1960 United States male population by ten-year age groups, and then ratios computed for the appropriate groups. The mortality ratios for males 25-64 are plotted in Figure 2. Along the y-axis is the ratio of death rates for those who completed less than eight years of school to those of the
+
+college educated for the various causes. Along the #-axis is the ratio of smokers' to nonsmokers' death rates.
+The points in Figure 2 appear at first to be randomly distributed. Evidently no one monotonically-rising curve could succeed in accounting for much of the variation. But upon closer examination it can be seen that almost all points lie near one of the two lines radiating from the origin (1.00). Some curvature of these lines is indicated, but an insufficiency of observations prevents a confident appraisal of their shape. It appears that the diseases which fall near line A are those for which evidence on the physiological risk from smoking is most conclusive --lung cancer, arteriosclerotic and degenerative heart disease, and "other cancers" (which include cancers of the buccal cavity,
+
+KEY
+Tuberculosis Influenza and pneumonia Violence Stomach cancer Other causes
+6 Hypertensive disease 7 Other cardiovascular-renal
+Diabetes
+Rheumatic heart disease Cancer of intestine and rectum Vascular lesions Other cancers Cirrhosis of liver Arteriosclerotic heart disease Lung cancer
+
+LOO 2.00 2.50 3.00 3.50 4.00 4.50
+Death Rate , Smokers Death Rate , Nonsmokers
+FIG. 2.--Disease-specific mortality ratios of U.S. males aged 25-64 with less than 8 years of schooling (College-Educated = 1.00) and those of cigarette smokers (Nonsmokers = 1.00). See Table 3 for data on which above ratios are based.
+
+TABLE 2
+MORTALITY RATIOS OF MALE CIGARETTE SMOKERS AND NONSMOKERS BY EDUCATION
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+CAUSE OF DEATH
+
+<8 YKS.
+SCHOOL/ COLLEGE
+Ages 25-64
+
+ALL MALES
+ACES 25-34 (PEE 1,000)
+
+DEATH RATE or SMOKERS
+
+Ages 35-44
+
+Ages 45-64
+
+Age-Standardized* Rate, 25-64 (per 1,000)
+
+DEATH RATE or NONSMOKERS
+
+Ages 35-44
+
+Ages 45-64
+
+Age-Standardized* Rate, 25-64 (per 1,000)
+
+AOE-STANDABDIZED DEATH
+RATE, SMOKEKS/ AGE-STAN-
+DASDIZED DEATH RATE, NONSMOKEES
+
+Tuberculosis Malignant neoplasms
+Stomach Intestines and rectum Lung, trachea, bronchus Other Diabetes Major cardiovascular-renal Vascular lesions affecting central nervous system Rheumatic fever Arteriosclerotic and degenerative heart disease Hypertensive disease Other cardiovascular-renal Influenza and pneumonia Cirrhosis of the liver All accidents Other causes
+All causes
+
+8.79 1.31 2.23 1.22 1.94 1.05 1.44 1.31
+1.28 1.23
+1.24 1.79 1.72 2.59 1.02 2.27 2.01 1.48
+
+0.023 0.188 0.005 0.022 0.013
+0.027 0.303
+0.045 0.047
+0.120 0.023
+0.051 0.031 0.720
+L88
+
+X O.0035t 0.007
+
+0.20 1.25 0.02 0.11
+
+0.654 0.056
+
+X 0.32
+
+0.145
+
+X 0.11
+
+0.051
+
+· · · · · 0.402*
+
+X 0.10
+
+0.052
+
+0.41 4.22
+
+2.037
+
+0.16 0.53 X 0.19
+
+0.291 0.096
+
+0.20 3.04 X 0.16
+
+Xx'
+
+0.07 0.09
+
+0.65 0.60
+
+.
+
+1.44 7.08
+
+1.413 0.075 1.162*
+0.044 0.047 0.648 0.590*
+4.014
+
+X O.O25f 0.147
+
+0.40 2.670 1.330
+
+0.02 0.160 0.078
+
+0.04 0.33
+
+0.161
+
+0.05 0.87
+
+0.396
+
+, , 0.695*
+
+0.01 1.02
+
+o8.'0.i2i
+
+0.059 3.867
+
+0.08 0.74 0.01 0.19
+
+0.359 0.099
+
+0.78 6.15
+
+0.05 0.23
+
+·
+
+0.01 0.03
+
+0o.!1i9i
+
+0.59 0.72
+
+2.32 13^9
+
+2.934 0.120 0.355*
+0.073 0.100 0.682 0.839*
+6.971
+
+2.10 2.03 1.39 1.11 7.83 1.73 1.14 1.90
+1.23 1.03
+2.08 1.60 2.19 1.66 2.10 1.05 1.42 1.74
+
+SomtCES: Mortality ratio in Col. 1 from Kitagawa and Hauser, 1968; death rate in CoL 2 from U.S. Department of Health, Education, and Welfare, 1963; nonsmokers' death rate in Cols. 3 and 6 from Kahn, 1966; nonsmokers' death rate in Cols. 4 and 7 from Hammond, 1966; and age-standardized death rates in Col. 5 based on the 1960 census for U.S. male population, making these rates analogous to those of Kitagawa and Hauser, 1968.
+· The U.S. death rate at ages 25-34 is adopted for both smokers and nonsmokers, since no data relate to such an early age. The errors introduced are probably minor, since the mortality
+
+ratios generally increase until age 50 and are probably small at 25-34. Moreover, the contribution of death rates at these ages is very small compared to the contribution of the 45-64 year-olds.
+t Data from the Dom study (Kahn, 1966) are employed since Hammond did not obtain information for tuberculosis (see Note 3).
+JThis is a residual category.
+
+Vol. 16, No. 4
+
+Mortality, Social Class, and Smoking
+
+285
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+pharynx, larynx, and esophagus where the mortality ratios for smokers are quite high). Not only do smokers suffer highly elevated risks from these diseases, but clinical studies have thus far suggested numerous reasons why such risks should appear.3 Of all the diseases included in Figure 2 only lung cancer, arteriosclerotic heart disease, and certain "other cancers" can confidently be considered "causally" related to smoking, according to the Surgeon General's Report (1964) and U.S. Department of Health, Education, and Welfare (1968). The points along Curve B are similarly those which one might ordinarily associate most closely with social class, especially as reflected in health conditions: tuberculosis, influenza and pneumonia, accidents, diabetes, rheumatic heart disease, and cancers of the digestive tract (probably related to diet).
+POSSIBLE BIAS IN SMOKERS1 RISKS: THE CASE OF THE BRITISH DOCTORS
+One of the inferences suggested by Figure 2 and the analysis which preceded it is that mortality ratios from cigarette smoking for causes not included in line A may be greater than unity because of a difference in social condition between smokers and nonsmokers. The fact that the smoking risk from these "unrelated" causes generally increases with the "social" risk is wholly consistent with the hypothesis that social factors have created the appearanceof a mortality risk from smoking for these causes. This reasoning implies, of course, that if social class could be controlled the mortality ratio from these causes would be approximately unity. While the appropriate data is not available for the United States a study of the smoking risk among British physicians conducted by Doll and Hill (1966) has implicitly standardized
+3 Such would also be the case for bronchitis and emphysema, for which education data are currentlylacking. For a review of all clinical and pathological evidence, see the Surgeon General's Report and its sequel, The Health Consequences of Smoking (U.S. Department of Health, Education, and Welfare, 1967).
+
+for education and occupation, if not for income. It is worth noting that of the seven prospective studies summarized in the Surgeon General's Report (1964), the DollHill study uncovered the lowest overall mortality ratio of smokers to nonsmokers, 1.44 compared to a median of 1.68. This difference would tend to support the notion that social class has elsewhere contributed to the differential. Among the "unrelated" causes included along line B in Figure 2, the death rate ratio from violence was 1.0; from influenza and pneumonia, 0.7; and the ratio from stomach cancer was reduced to 1.1. On the other hand, the ratio from rheumatic heart disease was still 1.3; from c a n c e r of the rectum and intestines, 1.4.
+No data were published which allowed the comparison of mortality ratios from diabetes or tuberculosis, also included in line B. However, data from the study which appeared after the Surgeon General's Report indicate that cigarette smokers in the DollHill study (1966) did continue to suffer a higher fatality from pulmonary tuberculosis. This implies that tuberculosis may not be a cause unrelated to cigarette smoking, thus removing it from line B. On the other hand, since infection occurs early in life it could also mean that the early social condition of smoking doctors differed from the early social condition of nonsmoking doctors. In any case, the N is very small (only 2 deaths to non-smokers at all ages combined) and would not appreciably alter the conclusions.
+Since the Doll-Hill study was small, random variation could be expected to play a relatively large role in the mortality ratios. The role of random factors is reduced by calculating the excess of actual over expected deaths for all of these "unrelated" causes combined. In the Doll-Hill study the mortality ratio of smokers from all these five causes combined was 1.03. Combining the other six studies cited in the Surgeon General's Report (1964, p. 109-110), the
+
+286
+
+Preston
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+equivalent ratio was 1.20. Thus the standardization of social class achieved by Doll and Hill (1966) succeeded in virtually eliminating the net contribution of these "unrelated" causes to smokers' excessive mortality.
+
+POSSIBLE BIAS IN EDUCATIONAL RISKS: THE CASE OF ELDERLY MALES
+
+The second inference suggested by Figure 2 is that a differential prevalence of cigarette smoking among the social classes may account for the inequality of their mortality risks from arteriosclerotic heart disease, lung cancer, and "other cancers."4 In order for this to be the case, the differences in proportion of smokers among the several classes would have to be quite large. In our example, if the percentage of smokers among the < 8 was 67 and that among the collegeeducated was 33, then in applying the mortality ratios of smokers from each of the three causes found in Table 2, we find that the mortality ratio of the < 8 to college would be 1.71 from lung cancer (vs. 1.94 actual), 1.27 from arteriosclerotic heart disease (vs. 1.24 actual), and 1.20 from "other cancers" (vs. 1.05 actual).5
+
+The requisite distribution of smokers is consistent with that estimated by Hinkle (1968) but more extreme than indicated by Hammond (1961). However, the Hammond
+
+study indicates that an observed difference in proportions of smokers might understate the effect on their relative mortality, since a college-educated smoker tends to smoke brands less harmful to health. Still, the most
+
+likely percentages of smokers in the two groups (on the basis of Hammond [1961] and
+
+4 The disease "cirrhosis of the liver," also appears to be a smoking-related cause of death. However, its incidence is probably related neither to smoking nor to social class but to alcohol consumption. What Figure 2 may show, then, is that alcohol consumption is more closely related to smoking than to social class.
+
+5 The calculation for lung cancer, for example, is
+
+0.67(7.83) + .33(1) 7
+
+0.33(7.83) + .67(1)
+
+"
+
+the representative sample of smoking by occupation) are closer to 55 and 40, which would produce risks of 1.28, 1.10, and 1.08 from lung cancer, arteriosclerotic heart disease, and other cancers among the < 8 group. If we accept these latter figures, then social class must play a role in male mortality from lung cancer and heart disease that is independent of cigarette smoking.
+The Hammond survey (1961) found no consistent educational differences in proportions smoking among males above age 60 or among any of the female age groups. According to our reasoning, class differentials from lung cancer, arteriosclerotic heart disease, and "other cancers" should not appear for these groups. In fact, Kitagawa and Hauser (1968) found that among males 65+, the social-class gradient for the three diseases in question was largely eliminated. The ratio for the < 8 group to the college group for heart disease is 1.01; from "other cancers," 0.82; and from lung cancer, 1.18. The gradient from many "social" causes is similarly reduced, but stomach cancer remains high at 1.87, influenza and pneumonia at 1.32, and accidents at 1.85.
+On the other hand, there also appears to be no tendency for poorer-educated females to smoke more heavily.6 Yet the social class gradient among females 25-64 is 1.36 from lung cancer, 2.06 from arteriosclerotic heart disease, and 1.11 from "other cancers" (not including uterus and breast cancer). Cigarettes can in no way be suspected of having caused these differentials. The relevant question for our group of 25-64-year-old
+6 That is not to say that other demographic, and perhaps class, differences between female smokers and nonsmokers may not exist. Such differences are indicated by mortality rates from breast cancer (0.78 for smokers) and cancer of the uterus and ovary (1.16 for smokers). Both mortality gradients have applied to lower social classes in both the Kitagawa-Hauser study (1968) and in a study of class mortality in England and Wales (Logan, 1954). Both risks are felt to be related to a woman's parity, negatively for breast cancer and positively for uterine and ovarian cancer. It appears that female smokers have bome more children than female nonsmokers, a crude measure of social class.
+
+Vol. 16, No. 4
+
+Mortality, Social Class, and Smoking
+
+287
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+males is whether the social class gradient of their female counterparts provides a more appropriate model than the lack of gradient among the older males.
+Any answer to this question is necessarily speculative, but there are several indications of an increasing dissimilarity between male and female mortality experience in Western countries. First, as Kitagawa and Hauser (1968) show, female and male behavior above age 65 is quite different, with females continuing to display inverse risks with social class and males no gradient whatsoever (the female risk from "all causes combined" is 1.56, while the male risk is 1.01). Second, studies of mortality by social class in England and Wales have found that mortality gradients from the most important cause of death, coronary heart disease, run in opposite directions for males and females aged 20-64 in 1950 (Logan, 1954). Finally, the trend of male and female death rates from heart disease and cancer since 1930 are typically divergent in Western countries. Spiegelman (1954) finds that male death rates at ages 45-64 from circulatory diseases and cancer have increased in 12 and 11 out of 18 Western countries from 1930 to 1950, while female death rates from either of the same causes have increased in only 3 out of 18. Evidently, important factors in the etiology of cancer and heart disease are sexspecific. As a result, the relation between male and female mortality rates from these causes is highly variable and provides an unstable standard of measurement. The lack of gradient among older males may provide the more relevant expectation for males aged 25-64.
+DISCUSSION
+We can estimate the maximum potential bias in mortality differentials from "all causes combined" that has resulted from a failure to control for smoking status or social class in the two types of studies. Equalizing mortality rates among the social classes
+
+from causes along line A reduces the "all cause" ratio from 1.48 to 1.34 for the < 8 group to the college group. Similarly, eliminating differences between smokers' and nonsmokers' death rates from causes along line B reduces the overall risk from smoking from 1.74 to 1.64. In both cases, of course, the figures refer to U.S. males aged 25-64.' The reduction is larger among the social classes because the equalization of death rates is applied to quantitatively more important causes of death. In neither case, obviously, have we succeeded in explaining away a majority of the differential mortality from "all causes combined." This result, then, is consistent with Hammond's data in Table 2 which showed that risks from smoking and in lower social classes persist independently of one another.
+SUMMARY AND CONCLUSION
+This analysis has suggested that social class differences between smokers and nonsmokers can account for the appearance of a mortality risk from smoking in epidemiological studies for causes where no direct physiological link to cigarette smoking is suggested. The most important evidence in
+7 Differentials from arteriosclerotic and degenerative heart disease, lung cancer, and "other cancers" were eliminated from the educational classes; differentials from influenza and pneumonia, accidents, stomach, intestine and rectum cancers, diabetes, and "other causes" from the cigarette ratios. Differentials from vascular lesions, hypertensive heart disease, and "other cardiovascular-renal diseases" were left in both, since both smoking and class may contribute to the risk of dying from these causes. In the cigarette calculation, death rates of nonsmokers were attributed to smokers for all of the causes in question, and a ratio of the resulting conglomerate to nonsmokers' death rate computed. The appropriate data were not available to perform this calculation for the education classes, so the following approximation was used: The eliminated causes of death represented 51.4% of total deaths in the group and had a combined mortality ratio of 1.27. Thus the calculation was
+0.514 (1.27) + 0.486 (X) = 1.48 X X ·· 1.70, 0.514 (1.00) + 0.486 (1.70) = 1.34 .
+That this is an approximation is evident from the fact that if the relevant causes had a ratio of 1.00 instead of 1.27, the weight given to these causes would be less than 0.514.
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+288
+
+Preston
+
+Social Biology
+
+this regard is the tendency for smokers' risks from these "unrelated" causes to rise as the risk differential among the social classes rises. Further support is given bythe Doll-Hill study (1966) of British physicians, where social class is largely controlled, and the risk from these unrelated causes essentially eliminated among smokers.
+This conclusion is somewhat different from the usual explanation of smokers' risks from these unrelated causes--either that smoking increases the "pace of life," thus moving smokers further along a generally rising age curve of mortality from every cause, or that cigarette smokers have different "constitutions" and "personalities" than nonsmokers. In fact, smokers' excessive mortality from so many causes hasled some researchers to conclude that the groups studied are so disparate in personal characteristics that no statement can be made about the mortality effect of smoking (see Yerushalmy, 1962). The analysis presented in this paper suggests that differences in social, rather than personality, characteristics maybe more relevant for smokers' excessive mortality from "unrelated" causes. Social class is undoubtedly related to such health parameters as access to medical care, exposure to infectious disease, and nutritional sufficiency. We need only recognize the different distribution of social classes among smokers and nonsmokers to account for smokers' mortality from "unrelated" causes.
+In particular, it is not necessary to presume that smokers are being selected on a personality variable such as "recklessness," which might tend to cast the association
+
+with all diseases into doubt. Instead, we can merely assume that smokers experience the average mortality of the social class from which they come. This mechanism would seem to provide a more plausible explanation of their excessive mortality from such causes as "diabetes" and "stomach cancer," for which the relevance of personality variables is obscure. At the same time, it affirms the fact that class differences cannot account for smokers' excessive mortality from arteriosclerotic heart diseases, lung cancer, or certain "other cancers," diseases that are considered to be "causally" related to smoking.
+Conversely, studies of mortality differentials by social class are probably affected by thedifferent incidence of smoking among the classes. It is conceivable that all of the social class differences from lung cancer, "other cancers," and heart disease among males 25-64 have resulted from the more frequent resort to smoking among lower social classes. Such a conclusion would require that differences in the proportion of smokers among the classes be somewhat larger than recorded in the Hammond sample (1964) and also that in the absence of smoking differences the mortality gradients of males 25-64 would resemble those of males 6 5 + more than those of females 25-64. The restrictiveness of these assumptions implies that our current "best guess" would attribute to social class an effect on mortality from these causes independent of smoking differences. A more definite answer must await the appearance of a representative national sample of smoking according to educational class.
+
+REFERENCES
+
+DOLL, RICHARD, and AUSTIN BRADFORD HILL. 1966.
+Mortality of British doctors in relation to smoking: Observations on coronary thrombosis, p. 205-268. In William Haenszel (ed.), Epidemiological approaches to the study of cancer and other chronic diseases. National Cancer Institute Monograph 19. U.S. Department of
+
+Health, Education, and Welfare. Government Printing Office, Washington,D.C.
+HAENSZEL, WILLIAM, MICHAEL B. SHIMKIN, and
+HERMAN P. MILLER. 1956. Tobacco smoking patterns in the United States. U.S. Department of Health, Education, and Welfare, Public Health Monograph #45 (P.H.S. Publication No.
+
+Vol. 16,No. 4
+
+Mortality, Social Class, and Smoking
+
+289
+
+463). Government Printing Office, Washington, D.C.
+HAMMOND, E. CUYLER. 1964. Smoking in relation to mortality and morbidity. Findings in first thirtyfour months of follow-up in a prospective study started in 1959.J. Nat.Cancer Inst. 32(5):11611188.
+. 1966. Smoking in relation tothe death rates of one million men andwomen, p. 127-204. In William Haenszel (ed.), Epidemiological approaches to thestudy of cancer andother chronic diseases. National Cancer Institute Monograph 19. U.S.Department of Health, Education, and Welfare. Government Printing Office, Washington, D.C.
+HAMMOND, E. CUYLER, and LAWRENCE GARFINKEL.
+1961. Smoking habits ofmen and women. Journal of the National Cancer Institute, Vol. 27(2), August, 1961, pp.419-453. J. Nat. Cancer Inst. 27(2):419-453.
+HINKLE, LAWRENCE E., et al. 1968. Occupation,
+education, andcoronary heart disease. Science 161:238-246.
+KAHN, HAROLD A. 1966. The Dorn study ofsmoking and mortality among U.S. veterans: Report on eight and one-half years ofobservation, p. 1-126. In William Haenszel (ed.), Epidemiologicalapproaches tothestudy of cancer andother chronic diseases. National Cancer Institute Monograph 19. U.S.Department of Health, Education, and
+
+Welfare. Government Printing Office, Washington, D.C.
+KITAGAWA, EVELYN M., and PHILIP M. HAUSER.
+1968. Education differentials in mortality by cause of death: United States, 1960. Demography 5:318-353. LOGAN, W. P. D. 1954. Social class variations in mortality. Public Health Reports 69(2):12171223.
+SPIEGELMAN, MORTIMER. 1954. An international
+comparison of mortality rates at the older ages, p. 289-309. Proceedings, World Population Conference, Vol.I. Rome.
+U.S. DEPARTMENT OF HEALTH, EDUCATION, AND
+WELFARE. 1964. Smoking and health. Report of the Advisory Committee to the Surgeon General of the Public Health Service, P.H.S. Publication No. 1103.Government Printing Office, Washington, D.C.
+. 1967. The health consequences of smoking. P.H.S. Publication No. 1696. Government Printing Office, Washington, D.C.
+. 1968. The health consequences of smoking, 1968 supplement to the 1967Public Health Service Review. Government Printing Office, Washington, D. C. YERusHALMY, JACOB. 1962. Statistical considerations and evaluation ofepidemiological evidence, p. 208-221. In George James and Theodore Rosenthal (eds.), Tobacco and health. Charles C Thomas, Springfield, Illinois.
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+

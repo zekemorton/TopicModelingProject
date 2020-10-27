@@ -1,0 +1,391 @@
+Eugenics Quarterly
+ISSN: 0097-2762 (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi18
+Inbreeding and maternal effects in the Japanese
+William J. Schull
+To cite this article: William J. Schull (1962) Inbreeding and maternal effects in the Japanese, Eugenics Quarterly, 9:1, 14-22, DOI: 10.1080/19485565.1962.9987496 To link to this article: http://dx.doi.org/10.1080/19485565.1962.9987496
+Published online: 23 Aug 2010. Submit your article to this journal Article views: 3 View related articles Citing articles: 6 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi18
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:26
+
+INBREEDING AND MATERNAL EFFECTS IN THE JAPANESE*
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+WILLIAM J. SCHULL
+Department of Human Genetics University of Michigan Medical School
+Ann Arbor, Michigan
+
+D ESPITE the considerable attention
+currently being paid to the estimation of inbreeding effects in man, two areas of investigation are, as yet, little explored, namely, (1) the effect of inbreeding in the child on continuously variable characteristics, particularly those indicative of physical and mental growth and development, and (2) the effect of parental, and particularly maternal, inbreeding.
+In the former instance, our knowledge is limited, in the main, to preliminary work by Morton (1958), Slatis and Hoene (1961), and our Japanese colleagues. Of these studies, the largest, that of the ABCC reported by Morton, is restricted to measurements obtained in the first year of life. Little is known of the effects of inbreeding on growth and development as measured in childhood. Even less evidence exists bearing on the effects of parental inbreeding We know that in laboratory and farm animals maternal inbreeding frequently complicates the estimation of inbreeding in the litter. We further know that parental inbreeding may take the form of a deterioration in reproductive capacity as inbreeding proceeds, or the occurrence of maternal effects. At the moment, even in the absence of data, we may surmise that the deterioration of reproductive capaci-
+*Presented at the Tenth Pacific Science Congress of the Pacific Science Association, Honolulu, August 21 to September 6,1961.
+
+ty with inbreeding is probably of little consequence in the appraisal of inbreeding effects in man where inbreeding does not attain the levels at which the deterioration appears to become pronounced. Maternal effects, on the other hand, are a different matter. These pre- and postnatal effects of the mother on her young are not, perhaps, a negligible source of bias. Several lines of evidence based upon domestic animals suggest this. Most swine studies, for example, reveal inherited differences in maternal influences. In these animals, an effect of maternal inbreeding on many factors clearly associated with fitness, e.g., suckling ability and weight gain, can be demonstrated, and these effects are, frequently as large as the effects of inbreeding in the young (Dickerson, et al., 1954). In general, we may expect maternal influences to diminish in importance as the influence on survival and growth of egg, uterus, and nursing ability diminish. Maternal influences on size may not, however, disappear completely even at maturity, but they should become, of course, relatively less important. How important these influences may be is as yet unknown.
+Studies conducted in Hiroshima and Nagasaki, Japan, afford a first step toward an evaluation of the effect of maternal inbreeding on child health. It is
+
+14
+
+Inbreeding and Maternal Effects
+
+15
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+the purpose of this paper to present the results of examination on 151 children whose mothers and/or fathers are known to be inbred. Specifically, data will be presented bearing on the correlation between parental inbreeding and certain continuously variable characteristics of childhood measured sometime between the fifth and eleventh year of life.
+The Sample: In the years 1948-1953 as part of a comprehensive attempt to measure the effect of exposure to the atomic bombs on pregnancy terminations, some 4,598 children were examined in Hiroshima or Nagasaki who were born to parents who reported a consanguineous marriage at the time of pregnancy termination. The findings in these children at birth, and, in a subsample, at nine months of age, as contrasted with children whose parents were not related, have already been reported (Schull, 1958; Morton, 1958). These findings were sufficiently provocative to indicate the need for further studies. As a consequence, between 1958 and 1960, comprehensive follow-up studies were undertaken on these children and on a suitable control group. The details of this study, known as the Child Health Survey, have been presented elsewhere (Schull and Neel, 1961). In all, 9,382 children were selected for re-examination; children whose parents received appreciable amounts of radiation were excluded from consideration. Of these children, 6,823 were still alive and residing in one or the other of the cities. On a portion of these children, systematically sampled, data exist which permitted determining whether the parents were inbred. We here report the results of examinations on 151 children one or both of whose parents are known to be inbred. Within this sample, the mean inbreeding values for mother, father,
+
+and offspring are, respectively, 0.0348, 0.0203, and 0.0153. The correlations between maternal and offspring inbreeding, rmo, on the one hand, and paternal and offspring inbreeding, rpo, on the other, were trivially different from zero. These values are rmo = 0.08 and rpo = --0.06. A significant negative correlation does, however, exist between maternal and paternal inbreeding (rmp = --0.73). This latter correlation is, at least in part, spurious and stems from the exclusion from the sample of children neither of whose parents were inbred.
+The Data: The data to be presented fall conveniently into three groups, namely, (1) anthropométrie measures of growth and development, (2) measures of neurological deficit and clinical psychometric performance, and (3) laboratory variables. The specific measures are as follows:
+
+Anthropometrics :
+
+weight height head girth chest girth calf girth
+
+head length head breadth head height sitting height knee height
+
+Clinical psychometrics and measures of neurological deficit:
+Dynamometer pull, right Dynamometer pull, left Color trail performance Tapping rate, right Tapping rate, left Maze performance
+
+Laboratory: hematocrit value
+All measurements were made in a clinical environment on children not acutely ill. Nurses obtained or supervised the anthropométrie measurements and the dynamometer pull. The tapping, color trail, and maze tests were ad-
+
+16 Schull
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+ministered by individuals specifically trained for this task.
+Though the anthropométrie measures require no explanation, other than to assert that they are as defined by Martin (1928), a few comments with respect to some of the other variables seem in order. The tapping test requires the child to tap a telegraphic-type key for a specified interval of time, 10 seconds. This task is repeated five times, and the score is the average number of taps on the five trials. The color trail requires the child to perform a particular function, namely, to connect in a specified manner a number of figures of differing shapes and colors. The score is the time, in seconds, needed to complete the task. The maze test is that associated with the Japanese standardized version of the Wechsler Intelligence Scale for Children (WISC test). All of these variables are to some extent age-dependent.
+Analysis of these data proceeded as follows: the basic model, a multivariate linear regression, asserted that
+
+-F^) b
+
+(FPiJk--FPjj) b 4 1 J w h e r e Y U k , ,xiU bli¡t 81Jb 2 1 j ,
+
+b31j, and b411 are, respectively, vectors of
+
+expected values for the n variâtes on the kth child in the ijth (sex-city) cell, means,
+
+regression coefficients with respect to age (A), offspring (F°), maternal (Fm), and
+
+paternal (FP) inbreeding, and where Aijk, F°ijk. Fmuk. Fpijk are the age, offspring,
+
+maternal and paternal inbreeding coeffi-
+
+cients of the kth child in the ijth cell
+
+having
+
+means
+
+Äy, F0,^
+
+F
+
+m y
+
+,
+
+and
+
+Fpij.
+
+The tests of significance employed
+
+what has been termed, by Kudô, the
+
+Mahalanobis measure. This measure is
+
+defined as
+
+In the present case, we were interested in several hypotheses. Firstly, we were
+
+interested in knowing whether the regressions on F°, Fm, and Fp were common for the four sex-city cells. They are. In the absence of evidence of significant heterogeneity, the vectors of regression coefScients within the sex-city cells were pooled. Secondly, we were interested in knowing whether a specific vector, say /3(1), was significantly different from a vector, /3(2>, whose elements are all zero. Thus,
+D2 _ [^(DJ'S-i^d)], where S-1 is the inverse of the variancecovariance matrix of the b's, the estimates of the ß's. D2 is asymptotically distributed as x2 with degrees of freedom equal to the rank of the variance-covariance matrix (Anderson, 1958).
+We give in Table 1 the mean values for the 17 variables for children 10 years of age adjusted for parental and offspring inbreeding (adjusted to F° = F» = F» = 0). These values reveal males to be generally larger than females, and children in Nagasaki to be smaller than their counterparts in Hiroshima. Neither ot these findings was unexpected, and the specific values given compare favorably with those published for 10-year-old children in the Gakko Eisei Tokei Hokokusho (School Health Statistics, 1956, published by the Japanese Ministry of Education) . The dependence of the various measures on age is illustrated in Table 2 where we give the vectors of regression coefficients of the variables on age, separately for the sexes, as estimated from this sample and from the total Child Health Survey data, some 6,700 children. The similarity of the former estimates to the latter instills confidence in the representativeness of the sample under discussion.
+We turn now to matters of more immediate interest, to the increments and decrements of change as related to pa-
+
+Inbreeding andMaternal Effects
+
+17
+
+TABLE 1
+
+MEAN VALUES FOR CERTAIN CONTINUOUS VARIABLES FOR OUTBRED CHILDREN 1 0 YEARS OF ACE WHOSE PARENTS ARE NOT INBRED. THE NUMBERS OF OBSERVATIONS ON WHICH THESE VALUES ARE BASED ARE INDICATED I N PARENTHESES.
+
+Hiroshima
+
+Nagasaki
+
+ANTHROPOMETRICS
+Weight (hectograms) Height (mm) Head girth (mm) Chest girth (mm) Calf girth (mm) Head length (mm) Head breadth (mm) Head height (mm) Sitting height (mm) Knee height (mm)
+
+N
+
+Males
+264
+1308
+515
+622
+256 170 152 125 717 339 (43)
+
+Females
+249
+1281
+503 600
+253
+163 147 123 705 333 (39)
+
+CLINICAL PSYCHOMETRICS AND MEASURES OF NEUROLOGICAL DEFICIT
+
+Dynamometer pull, right Dynamometer pull, left (kg) Tapping rate, right Tapping rate, left Color trail (seconds) Mazes (pts as in WISC test)
+
+N
+
+12.99
+13.21 29.33 27.10 31.80
+17.31 (40)
+
+11.75 11.26 26.25 24.46 32.78 16.59
+(37)
+
+LABORATORY
+Hematocrit (mm)
+
+N
+
+37.24 (40)
+
+37.18 (37)
+
+Males 251 1261 516 606 249 170 150 125 694 318 (38)
+13.24 12.00 32.73 29.10 31.03 15.19
+(38)
+38.89 (38)
+
+Females
+247
+1247 515 586 252 168 149 124 698 314 (31)
+12.90 1035 31.39 2652 27.53 14.67
+(31)
+37.55 (31)
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+TABLE 2
+
+THE INCREMENT OR DECREMENT OF CHANGE PER MONTH OF AGE FOR CERTAIN CONTINUOUS VARIABLES MEASURED IN CHILDHOOD.
+
+This sample
+
+All CHS data
+
+ANTHROPOMETRICS
+Weight Height Head girth Chest girth Calf girth Head length Head breadth Head height Sitting height Knee height
+
+Males
+1.42 4.24 0.06
+1.20 0.49 --0.03 0.06 0.001
+1.80 1.41
+
+CLINICAL PSYCHOMETRICS AND MEASURES OF NEUROLOGICSAAL DEFFIICCIITT
+
+Dynamometer pull, right Dynamometer pull, left
+
+0.081 0.098
+
+Tapping rate, right Tapping rate, left Color trail Mazes
+
+0.174 0.206 --0.280 0.120
+
+LABORATORY
+Hematocrit
+
+0.017
+
+Females 1.86 4.55 0.35 1.59 0.79 0.10 0.12
+-0.007 2.11 1.56
+0.106 0.105 0.142 0.165 --0.567 0.154
+--0.016
+
+Males
+1.70 4.18 0.20
+1.44 0.65 0.06 0.05 0.03 1.86 1.36
+
+Females
+1.83 4.55 0.33 1.52 0.74
+0.12 0.05 0.01 2.08 1.43
+
+Schull
+
+TABLE 3
+
+THE INCREMENT OR DECREMENT OF CHANGE PER PER CENT F FOR INBRED MOTHERS, FATHERS, AND CHILDREN FOR CERTAIN CONTINUOUS VARIABLES MEASURED I N CHILDHOOD.
+
+ANTHROPOMETRICS
+
+Mothers
+
+Weight Height Head girth Chest girth Calf girth Head length Head breadth Head height Sitting height Knee height
+
+0.590 2.636 0.180 0.642 0.046 0.308 -0.074 0.175 1.674 0.384
+
+CLINICAL PSYCHOMETR1CS AND MEASURES OF NEUROL.OCGICAL DEFICIT
+
+Dynamometer pull, right Dynamometer pull, left Tapping rate, right Tapping rate, le£t Color trail Mazes
+
+-0.020 --0.014
+0.131 0.272 --0.696 0.122
+
+LABORATORY
+Hematocrit
+
+0.013
+
+Inbred Fathers
+0.934 3.697 0.071 1.003 0.065 0.270 -0.150 0.072 1.975 1.592
+--0.040 0.001
+-0.177 0.160
+-0.731 0.251
+0.141
+
+Children
+--1.117 --2.034 --1.294 --0.921 -0.707 --0.883
+0.022 -0.216 -0.924 --0.899
+-0.053 --0.042 -0.343 -0.437
+1.883 --0.360
+--0.102
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+rental and offspring inbreeding (see Table 3). The residual mean squares and cross-products of deviations are given in Tables 4 and 5. Inspection of the anthropométrie data (Table 3) reveals, on the one hand, a general increase in size with maternal or paternal inbreeding, and,on the other hand, a decrease in body measurements with inbreeding in the child. Only the vector for children is, however, significantly different from a vector of zeros (see Table 6). If the regression coefficients are examined singly, two emerge assignificantly different from zero. These are the coefficients relating head girth and head length to inbreeding in the child; neither of these is markedly influenced by age over the age range here studied (see Table 2). The consistent, contrariwise (to inbreeding in the child) effects of inbreeding in the parent, non-significant though these effects may be, are perplexing.
+
+With respect to the clinical psychometrics and the measures of neurological deficit, again, only the child's inbreeding can be shown to play a significant role. Examined singly, the variables which appear to be responding to inbreeding are the tapping tests, the color trail, and maze performances. The effects of inbreeding in the parents are not consistently opposite in sign to those in the child as was true in the anthropometries.
+Some notion of the impact of the child's inbreeding can be gained byexpressing the depression as a percentage of the non-inbred mean per 10 per cent increase of F. As thus expressed, the inbreeding depression, for the anthropométrie measurements, varies from 1-5 per cent. These values are consonant with those known for other animals for measurements such as milk yield, eggproduction, etc. (Falconer, 1960, see Table 14.1). They also appear to be consistent with values reported by Morton (1958)
+
+Inbreeding and Maternal Effects
+
+19
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+Mt (o>qmoo«^
+&í líí OÛ Ö Ö 00 Ö Tti Cl* 00* Ci Ci id CO to C O N ' - i O
+.5.60
+·s-a, ¡S.S
+S g C i Oï C Í CO C> C-; CO ôÖ
+i t-i CO lOCi
+1
+N N 0 O C-00 s í iÇ Cï C^ 00 Oï O^
+ci tî t <d ci o
+S3 --
+3-a
+3
+O Q> CO
+·a co eo
+^i^f
+
+for the decline in livebirth weight with inbreeding. The clinical psychometrics and measures of neurological deficit yield values ranging from 10-30 per cent. These values, 1-5 and 10-30 per cent, may also be viewed as approximate upper limits tothe effects ofparental inbreeding which might obtain. Otherwise stated, thesample should be adequate to detect parental effects of these orders of magnitude if, in fact, such effects existed.
+The effect of inbreeding onthe variances of these variables has not yet been studied, but in view of the sample size, it is unlikely that significant findings will emerge. It is also unlikely that these data will contribute substantially to the question of the existence ofmajor genes affecting thevariables under investigation. We propose, nonetheless, to explore these facets soon.
+Discussion: Two findings with respect to these data require further comment: these are the significant depression in growth with inbreeding in the child, and the apparent contrariwise effect of inbreeding in the parent. We are, of course, assuming that both of thesefindingsare real, and theestimates unbiased. The depression with inbreeding in the child is not unexpected, and is in keeping with data from other mammals. Of principal concern here is the question of whether concomitant variation could produce the effect seen. This seems unlikely aswe shall see. The parental effect can hardly be explicable in terms of a maternal effect forpaternal inbreeding appears to be of equal importance. Several other arguments, some genetic and some not, can be advanced, however, to account for these effects. Firstly, it may be argued that the parental effects may reflect the non-random occurrence of concomitant variables capable of influencing growth.
+
+20 Schull
+
+TABLE 5
+
+MEAN SQUARES AND CROSS-PRODUCTS OF DEVIATIONS FOR THE CLINICAL PSYCHOMETRICS AND MEASURES OF NEUROLOGICAL DEFICIT AFTER REMOVAL OF THE EFFECTS OF CITIES, SEXES, ACE, AND ALL INBREEDINC EFFECTS.
+
+Dynamometer pull, rt.
+Dynamometer pull, It. Tapping rate, rt. Tapping rate, It. Color trail Mazes
+
+Dyn'r rt.
+7.264
+
+Dyn'r It.
+5.911 7.017
+
+Tap'g rt.
+1.416 1.404 24.313
+
+Tap'g It.
+0.780 2.805 17.833 24.244
+
+Color trail
+6.741 7.713 -7.719 2.820 304.367
+
+Mazes
+0.639 1500 2.254 3.245 2.432 12.315
+
+Degrees of freedom = 135
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+TABLE 6
+
+THE RESULTS OF TESTING THE SIGNIFICANCE OF THE VARIOUS VECTORS OF REGRESSION COEFFICIENTS ASSOCIATED WITH INBRED MOTHERS, FATHERS, AND CHILDREN. THE ENTRIES ARE CHI-SQUARES.
+
+Variables
+
+DF Mothers
+
+Inbred Fathers
+
+Children
+
+Anthropometries Clinical psychometrics Laboratory
+
+10 6.716 6 3.760 1 1.422
+
+8.920 8.813 0.017
+
+18.995* 22.818**
+1.884
+
+·Significant at 5% level ··Significant at 1% level
+
+Conspicuous among such would be differences in socio-economic status. This hypothesis, at least as it concerns socioeconomic levels, is testable. Data were obtained which permit an evaluation of the socio-economic standing of the parents of these children. Two indices were obtained, namely, the monthly expenditures on food per person, and the number of mats per person in the household. The mat is the modular unit of Japanese house construction; it is approximately three feet by six feet in size (actually, three shaku by six shaku). Mats per person is, therefore, a measure of population density within the household. We may expect that this measure will correlate well both with economic status and, of equal importance, with exposure to infectious disease. Neither of these indices can be shown to be sig-
+
+nificantly related to offspring, maternal or paternal inbreeding in these data.
+A second possible explanation of the finding with respect to the parents is one predicated on selection in the parental generation. This hypothesis would assert that at each level of inbreeding a portion, proportional to the inbreeding, of individuals fail to reproduce or do so with diminished fertility. If this portion encompassed a progressively larger and larger segment of the smaller individuals, then an effect such as seen here might arise. This hypothesis is testable, but not, unfortunately, with the data at hand.
+A third explanation is rooted in heterosis. Necessary but not sufficient conditions for the occurrence of heterosis are lines differing in gene frequencies, and dominance at some of the loci involved
+
+Inbreeding and Maternal Effects
+
+21
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+in the characteristics under study. That dominance occurs can be argued from the fact that an inbreeding depression occurs with inbreeding in the child. Loci without dominance do not cause inbreeding depression. But can we view the inbred and non-inbred parents as two lines derived from a single base population? This question we cannot answer categorically, but evidence exists that in certain human populations if families are classified by their breeding system over several previous generations, the families may be grossly divided into inbreeders and outbreeders. We know that for some families in Japan a similar assignment would be possible (Sugiyama and Schull, 1960). There is, therefore, at least presumptive evidence that the inbred parents and non-inbred parents may constitute different "lines." Within these lines selection could easily lead to differences in gene frequencies, and the raw material for heterosis would be at hand. I hasten to emphasize that I do not mean to imply that a rigid distinction between inbreeders and outbreeders is or need be possible, but merely that in certain families inbreeding occurs more frequently than one would expect with the prevailing frequency of consanguineous marriages, and, conversely, there are families with fewer related marriages than one would expect. Clearly the line of reasoning just sketched does not constitute proof. We are merely interested in establishing that heterosis could be, not that it necessarily is, the cause of the finding under discussion. Is an hypothesis of heterosis at variance with other data? In swine, in circumstances roughly comparable to the present, Durham, Chapman, and Grummer (1952) in a study of the progeny of inbred boars mated to non-inbred sows as contrasted to the progeny of non-inbred boars
+
+mated to non-inbred sows, find some evidence for heterosis. The results from race crossing in man are contradictory, but it is difficult to know what credence can be placed in some of these studies, for large socio-economic differences are frequently confounded. Clearly, further work remains to be done, but if the effects of inbreeding and crossbreeding are to be fully evaluated, a variety of studies of different design appear in order.
+Summary: Data on 151 children with respect to 17 continuously variable characteristics are presented. The effect on these variables of inbreeding in the father, mother, and child is explored. A significant association can be demonstrated only with respect to the child's inbreeding; without exception the variables are depressed in proportion to the child's coefficient of inbreeding. Of interest, however, is the observation that for 10 anthropométrie measures the effect of both paternal and maternal inbreeding is to increase the measurement. This increase, though not statistically significant, is of the same size as the depression with inbreeding in the child. Several explanations for this finding, assuming that it is real, are entertained. Among these explanations are heterosis, selection in the parental generation, and concomitant variation of a non-genetic nature.
+Acknowledgements: This work is a portion of a Child Health Survey sponsored by the U. S. Atomic Energy Commission, the Rockefeller Foundation, the Association for Aid to Crippled Children, and the U. S. Public Health Service's National Institute for Dental Research. The Atomic Bomb Casualty Commission, a research agency of the National Academy of Sciences- National Research Council and the Japanese Na-
+
+22 Schull
+
+Downloaded by [University of Michigan] at 13:26 08 December 2015
+
+tional Institute of Health, contributed data, facilities, and personnel in Hiroshima and Nagasaki. The unqualified endorsement of the Child Health Survey by the Subcommittee on Consanguinity Effects of the Japan Science Council's Committee on Genetics contributed materially to the success of this Survey. Analysis of thedata was carried out under a grant of theAtomic Energy Commission to the University of Michigan, Contract AT (11-1)-942.
+BIBLIOGRAPHY
+ANDERSON, T. W. 1958.Introduction to Multivaríate Statistical Analysis, pp. xii and 374. John Wiley andSons, New York.
+DICKERSON, G. E. 1954.Hereditary mechanisms in animal growth. Dynamics of Growth Processes (E. J. Boell, Ed.).pp. 242-276. Princeton University Press, Princeton, New Jersey.
+DICKERSON, G. E., C. T. BLUNN, A. B. CHAPMAN, R. M. KOTTMAN, J. L. KRIDER, E. J.WARWICK, AND J. A. WHATLEY, JR. 1954. Evalu-
+
+ation of selection in developing inbred lines of swine. North Central Regional Publ., No. 38, Missouri Research Bull. No. 551, p. 60.
+DURHAM, R. M., A. B. CHAPMAN, AND R. H.
+GRUMMER. 1952.Inbred versus non-inbred boars used in twosire herds on Wisconsin farms. / . Ani. Sei., 1 1 : 134-155. FALCONER, D. S. 1960. Introduction to Quantitative Genetics. Edinburgh and London: Oliver and Boyd, pp. ix and 365.
+MARTIN, R. 1928. Lehrbuch der Anthropologie, I. Jena: Verlag von Gustav Fischer.
+Ministry of Education of Japan. 1956. pp. 186. Gakko Eisei Tokei Hokokusho. Tokyo.
+MORTON, N. E. 1958. Empirical risks in consanguineous marriages: Birthweight, gestation time, and measurement of infants. Am. J. Human Genet., 1 0 :344-349.
+SCHULL, W.J. 1958. Empirical risks in consanguineous marriages: Sex ratio, malformation, and viability. Am. J. Human Genet., 10: 294-343.
+SCHULL, W. J., AND J. V. NEEL. 1961. The Child
+Health Survey; A Genetic Study in Japan. UN/WHO Seminar on the Use of Vitaland Health Statistics for Genetic and Radiation Studies (inpress) .
+SLATIS, H. M., AND R. E. HOENE. 1961. The
+effect of consanguinity on the distribution of continuously variable characteristics. Am. J. Human Genet., 13:28-31.
+SUCIYAMA, S., AND W. J. SCHULL. 1960. Consan-
+guineous marriages in feudal Japan. Monumenta Nipponica, 1 5 : 126-141.
+
+

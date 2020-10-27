@@ -1,0 +1,476 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Gene flow and structure of United States Negro populations
+Kenneth Morgan
+To cite this article: Kenneth Morgan (1970) Gene flow and structure of United States Negro populations, Social Biology, 17:4, 316-323, DOI: 10.1080/19485565.1970.9987889 To link to this article: http://dx.doi.org/10.1080/19485565.1970.9987889
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles Citing articles: 1 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:54
+
+Gene Flow and Structure of United States Negro Populations
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+Kenneth Morgan*
+Department of Biology and Population Research Center
+University of Chicago Chicago, Illinois
+
+Reed (19696) has reviewed studies which attempt to estimate the amount (M) of Caucasian gene flow to American Negro populations. These studies provide information about the genetic heterogeneity among various populations, and M values for different loci may indicate genes which have been subject to the action of natural selection during the past 250 to 350 years (Hertzog and Johnston, 1968; Reed, 19695, 1970; Workman, 1968, 1970; Workman et al., 1963). The basic argument for detection of selection by comparison of M values for different loci is that although selection pressures may be too weak to be detected with data covering only two generations, directional changes in gene frequencies accumulated over 10 generations or so should be detectable.
+Both Reed and Workman as well as Hertzog and Johnston have discussed the problems inherent in the genetic data and in the statistics of estimation. Their discussions should be consulted for details and criticisms (see References at end of article). I will summarize some of the results in order
+* Present address: Department of Anthropology, University of New Mexico, Albuquerque, New Mexico 87106.
+
+to indicate the complexity of population structure which one attempts to describe by the single statistic,
+M = (qn - qa)/(,q, - qa) ,
+where qa represents the frequency of a given gene in the African ancestral population, qc is the frequency in the ancestral Caucasian population, and qn is the frequency in a present-day American Negro population. Thus, M is a measure of total Caucasian admixture for a given gene in a specified hybrid population of biracial origin. Most studies are concerned primarily with static and historical aspects of hybridization (with the exception of studies attempting to detect the operation of natural selection); few admixture studies emphasize the rate of racial intermixture and the establishment of dynamic equilibria (see, for example, Glass and Li, 1953; Roberts, 1955; Roberts and Hiorns, 1962).
+ASSUMPTIONS ABOUT GENETIC STRUCTURE OF HYBRID POPULATIONS
+One of the basic assumptions inherent in any attempt to describe the genetic structure of a hybrid population as the result solely of intermixture or of both intermix-
+
+316
+
+Vol. 17, No. 4
+
+Gene Flow
+
+317
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+ture and selection is that the ethnic compositions of the ancestral populations are known. Basically, the equation for M given above describes the situation wherein only two genetically different populations have contributed to the formation of the hybrid population, and gene flow is in one direction only. In the present case it is assumed that gene flow has been unidirectional from Caucasian to American Negro populations.
+With regard to the probability of triracial origin of United States Negro populations, Herskovits (1930), on the basis of limited information reported in genealogical questionnaires, concluded that a significant proportion of American Negroes had some American Indian ancestry. However, Glass (1955) was unable to demonstrate any significant proportion of American Indian admixture in blood group samples composed predominantly (or exclusively) of urban Negroes. As Glass pointed out, this is not surprising under the assumptions of an originally small contribution of Indian genes and no differential fitness in favor of IndianNegro matings and their descendants. Herskovits (1930, p. 41) recognized that "crossing with the Indians is a matter of some generations ago, and today is an exceptional occurrence." Pollitzer (1958) commented that some physical and verbal evidence for Indian admixture exists in Negro populations surveyed in the sea-island area of South Carolina and Georgia. Furthermore, he noted that serological studies of tribes most likely to have been involved in intermixture with Negroes were not available in the 1950's. In subsequent work, Pollitzer (1964) has described a tri-racial isolate in North Carolina. This group, and probably others of this kind, consider themselves Indian rather than Negro, although estimation of the amount of admixture from the putative contributing populations for this group indicates more Caucasian and Negro ancestry than Indian. Thus, not only would these isolated populations not be considered "Ne-
+
+gro" for most studies, but they are also rare today and quickly dissolving.
+Undoubtedly there was gene flow from Indians as well as Caucasians to some American Negro groups. The fact that the American Indian component is not detectable in any given Negro sample is partly a reflection of true historical differences in the genetic composition of various hybrid populations, of difficulties in detection of a small amount of gene flow, and of difficulties defining and obtaining samples from the correct ancestral components. Furthermore, genetic samples of Caucasians, Indians, and Negroes are rarely, if ever, mutually exclusive with regard to the allelic states at any given locus. Finally, it must be pointed out that almost all of the studies of North American Negro populations tacitly assume the absence of gene flow from American Indians.
+Given the model of bi-racial origin of American Negro populations, Pollitzer (1958) and Reed (19695) have used information on the distribution of slaves from the major slave-trading areas to attempt a reconstruction of the ethnic composition of the African ancestral component. Coupled with the assumption that gene frequencies in present-day African populations in the slaving areas have not changed, mean gene frequencies can be obtained weighted by the proportionate contribution to the slave trade. In order to obtain estimates of the gene frequencies in the ancestral Caucasian component, it must also be assumed that these frequencies are the same as in presentday descendants. It has been pointed out to me by Pollitzer (personal communication) that knowledge about the ethnic composition of slaves imported to the United States is applicable with confidence only to Negro populations with a long history of residence in the Charleston, South Carolina, area. In other words, we know little about the actual ethnic composition of the African component for Negro groups which have had a long
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+318
+
+Morgan
+
+Social Biology
+
+history of residence in other areas of the United States.
+An additional set of assumptions must be met which requires that the samples be drawn from the correct present-day descendants of ancestral Caucasian and African populations, and from the Negro population under study; and that these samples be unbiased and with as small standard errors of gene frequencies as possible. Both Glass (1955) and Reed (196%) have excluded certain series of American Negro blood-group samples on the basis that they were biased by attempts of the investigators to preferentially include individuals of darker skin color and/or exclude individuals with physical traits indicative of white admixture (for examples, see Table 1). Pollitzer (1958) detected an association between some morphological traits indicative of more or less negroidness and the frequency of the genes for hemoglobins S and C, the Duffy blood
+
+groups, and the B allele of the ABO blood group system when he divided the Charleston Negro sample (composed predominantly of Gullah Negroes) into two moieties according to morphological measures. Since even unlinked genes can be correlated in hybrid populations which have not reached equilibrium for gametic phase, and since the approach to gametic phase equilibrium-- although rapid under most conditions, in the absence of selection--is retarded by assortative mating within the population (see Crow and Felsenstein, 1968), it is not entirely unexpected that some Negro isolates have yet to reach equilibrium for all gametic combinations.
+There is evidence that a complex pattern of assortative mating has been practiced in the past within some urban, nonsouthern American Negro populations. From data on the skin color of 174 pairs of husbands and wives from the Harlem district of New York
+
+TABLE 1
+ESTIMATES OF THE TOTAL AMOUNT OF CAUCASIAN ADMIXTURE IN VARIOUS SAMPLES OF UNITED STATES NEGROES CALCULATED FROM F y GENE FREQUENCIES
+
+REGION AND LOCALITY
+Nonsouthem Detroit, Mich Oakland, Calif New York CityJ 1 2
+
+SELECTION OF INDIVIDUALS WITH DARX SKIN COLOB
+
+M VALUES
+«,,=0.000* jo=0.0157t
+
+no
+
+0.260
+
+0.232
+
+no
+
+0.220
+
+0.190
+
+yes
+
+0.326
+
+0.301
+
+yes
+
+0.125
+
+0.091
+
+3
+Southern Claxton Negroes, southern Georgia
+James Island Negroes, Charleston, S.C
+Gullah Negroes, Charleston, S.C
+
+no
+no no no
+
+0.190 0.106
+0.088 0.037
+
+0.159
+0.072 0.054 0.000
+
+REFERENCE
+Gershowitz, reported in Reed,19696
+Reed, 1968 Miller, Rosenfield, and
+Vogel, 1951 Sanger, Race, and Jack,
+1955, reported in Race and Sanger, 1968 Race and Sanger, 1968
+Workman, Blumberg, and Cooper, 1963
+Pollitzer et al., 1964 Pollitzer, 1958
+
+* Some of the 21 values for qa equal to zero were obtained from Reed, 1969b, Table 4. t A maximum qa value was taken to be that observed for qn in the predominantly Gullah Negro sample, t Fy» gene freguendes used for calculation of M values in this table for qn for these samples were the inefficient estimates obtained from the original data.
+
+Vol. 17, No. 4
+
+Gene Flow
+
+319
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+City investigated in 1925-26, Herskovits (1926, 1930) concluded that the darkest women tend to marry men of their own or lighter color while the lighter women marry men decidedly darker than themselves. However, the overall association which I computed by the Spearman rank-order correlation coefficient was r, -- 0.43 (corrected for tied ranks). This positive association for skin color among Harlem couples is significant at the 0.001 level (for a two-tailed test). Herskovits also noted positive correlations for lip thickness (r = 0.22) and width of nose (r = 0.13) among these couples. However, his method used in calculating these latter two correlations may not be entirely valid. Pollitzer (1958) suggests that mate selection in favor of those Negroes with indications of Caucasian admixture may have operated among Negroes in close association with a dominant white society in large numbers, whereas among Negroes long isolated in the coastal counties of lower South Carolina, and of distinctly more negroid appearance, mate selection was against those showing signs of Caucasian admixture. This latter process may have been strong enough to impede Caucasian gene flow to or to lead to differential migration of hybrids from Negro isolates of the coastal area.
+As Reed (1970) has reiterated in his reply to comments by Workman (1970), both ethnically correct as well as statistically accurate gene frequencies are needed for proper estimation of the amount of genetic admixture in any defined population. Glass and Li (1953) first pointed out that one should choose genes which exhibit the maximum divergence in frequency between the two putative ancestral populations in order to reduce the standard error of the estimate M. Furthermore, since the exact ethnic composition of the African component cannot be known, the chosen gene should be uniformly distributed over the entire slave-trade area. Ideally, one would like to have a gene, selectively neutral, which can be shown to be
+
+absent or rare in the ancestral African populations which contributed slaves to the New World, but common in Caucasians. The Gm alleles Gm1, Gm1'*, and Gm6 may be of this type (Reed, 1969a). An even stronger case has been made for the Fya gene of the Duffy blood group system (Reed, 1969J). Workman (1968, 1970) has argued that it is mainly the consistency of the magnitude of M values among different Negro samples which indicates those genes which may have been subject to stronger or weaker selection. Furthermore, there is corroboration from other lines of evidence to suggest that some of the genes detected by this method are under the action of natural selection.
+It is curious, however, that although effort and discussion have been devoted to obtaining reliable African and American Negro gene frequencies little has been said about the accuracy of gene frequencies used in representing the ancestral Caucasian component. Surely most of the gene flow must have occurred early in the history of rural Negro populations. Nevertheless, inspection of early censuses of the United States by state and by country of origin suggests a large degree of variation in European origin of nineteenth-century residents of the United States. To what extent this heterogeneity extended further into the past and to what extent it represents effective genetic heterogeneity with respect to admixture with African slaves and American Negroes probably cannot be determined (see Roberts, 1955).
+It is necessary to consider, then, that the genetic heterogeneity as revealed by estimates of gene flow among various United States Negro populations represents different histories of amounts of admixture with a Caucasian gene pool as well as the operation of other evolutionary factors which have modified the genetic composition of the hybrid populations. With regard to the last point, one must recognize the possibility of founder effects occasioned by the extreme
+
+320
+
+Morgan
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+mortality suffered by slaves prior to their arrival in the United States and by their segregation into more or less isolated populations on large plantations in the South.
+GENETIC HETEROGENEITY AMONG HYBRID POPULATIONS
+Estimates of the total amount of Caucasian admixture in different American Negro samples reviewed by Reed (1969J) are not strictly comparable with regard to sample size, chosen gene, and estimated ancestral gene frequencies. Nevertheless, two patterns of consistency emerge which have biological significance. First of all, some authors have suggested that higher than average M values, of the order of 0.34 to 0.70, indicate the operation of natural selection on the gene in question. Thus, Workman (1968; Workman et al., 1963) was able to conclude that there is evidence for selection acting against the T, TfD1, Hb^, Hbc, Hp1, and G6-PD deficiency genes and the Ai allele (of the ABO system) in United States Negro populations. In addition, M values indicate that selection has acted in favor of the A2 allele of the ABO blood groups and against the Gc*gene in American Negro groups, and that it is the haptoglobin subtype Hp1F which is under strong selective pressures. Hertzog and Johnston (1968) using a similar approach conclude that there is evidence for strong selection favoring the Rh-negative gene, r, which is more than enough to offset the effects of incompatibility selection.
+The second pattern, which is most obvious among the series of genes other than those just mentioned, is the smaller average M values (0.04 to 0.12) for various southern samples as compared to higher M values (0.13 to 0.31) for nonsouthern, urban samples. Estimates of the maximum M derived from the frequency of the Fya gene in three nonsouthern samples, presumably unbiased, yield values in the range of 0.189-0.260; while the predominantly Gullah Negro sample from Charleston, South Carolina, pro-
+
+vided M = 0.037 and another, less isolated, group sampled from this area yielded M = 0.106 (Table 1). The same Caucasian frequency of the Fya gene--that of Oakland Whites provided by Reed (1968) and equal to 0.4286--was used in all of these estimates. Furthermore, since the ancestral African gene frequency was assumed to be zero, the formula for M reduces to M -- qn/qc
+The low estimates of Caucasian admixture for both series from the Charleston, South Carolina, area accord well with comparisons based on anthropometric data. Furthermore, the Gullah isolate also evinces a linguistic distinctiveness akin to languages of West Africa. Pollitzer (1958) has also noted the survival of magic and other practices from West Africa among the coastal Negroes. The predominantly Gullah sample from Charleston is not only closer biologically to African populations but is also qualitatively different from other American Negro samples from outside of the Charleston area. Pollitzer concludes that differences in ancestral components as well as in the degree of Caucasian admixture are responsible for the divergence of Charleston from other American Negroes. It is also probable that genetic drift has played a role in contributing to the variation of gene frequencies among various Negro populations in the Charleston area (Pollitzer et al., 1964).
+FACTORS CONTRIBUTING TO GENETIC VARIATION
+Differences in the amount of Caucasian admixture must be the major factor responsible for the regional variation in M values demonstrated for United States Negroes. However, it was also suggested that various American Negro populations may well have differed in the genetic composition of the ancestral African and Caucasian components. For example, with respect to African mean gene frequencies for alleles of the ABO blood group system which is polymorphic in
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+Vol. 17, No. 4
+
+Gene Flow
+
+321
+
+the seven major slaving areas, Reed (1969J) into a single measure, <j>, for a given multiple
+
+concludes that there is an overall uniform- allelic locus according to the relation
+
+ity. It is possible that considerable variation
+
+existed at the tribal or intratribal level with-
+
+in each of these regions and that this hetero- Additional weighted or unweighted mea-
+
+geneity of subpopulations would not be ap- sures have been given by Li (1969), and
+
+parent at the level of inter-regional compari- Workman (1969) has given some valuable
+
+sons. In order to illustrate these points, the comments basic to the construction and in-
+
+amount of differentiation of tribal samples terpretation of such measures (see also
+
+for certain loci was computed and the re- Morton, 1969).
+
+sults are presented in Table 2.
+
+Data on tribal differentiation for different
+
+Variation in gene frequencies in a large African regions and for certain loci given in
+
+population which is subdivided can be mea- Table 2 refer to groups which are either
+
+sured by the relation
+
+within or outside of the major slave trade
+
+areas. The Liberian and Nigerian tribes did
+
+fctt-W
+
+contribute significantly to the slave trade. By comparison, the <£ABO value calculated
+
+for the £-th allele at a given polymorphic from seven surveys of the major slaving
+
+locus where Wiis the contribution of the t-th areas is 0.002 and therefore considerably
+
+isolate to the total population. Nei (1965) smaller than the intertribal values. The ap-
+
+shows that for the case of a di-allelic locus, parent uniformity over the larger regions
+
+<j>k is identical with Wright's (1951) inbreed-may be a spurious result of combining het-
+
+ing coefficient, FST, which measures the erogeneous samples into larger categories
+
+amount of differentiation of subpopulations. and obscures the variation which exists at
+
+Yasuda (1968) suggested combining the fa the level of local populations. Morton (1969,
+
+TABLE 2
+ESTIMATES OF INTERTRIBAL DIFFERENTIATION WITHIN VARIOUS REGIONS OF AFRICA AND FOR DIFFERENT POLYMORPHIC LOCI
+
+Region
+
+Locus
+
+No. of Alleles in Estimate
+
+No. of Tribes in Estimate
+
+<t> Values
+
+Reference
+
+Liberia
+
+ABO
+
+Rh
+
+MN
+
+Hb*
+
+Nigeriaf
+
+ABO
+
+RhJ
+
+Rh
+
+MNSs
+
+Portugese Guinea
+
+ABO
+
+Rh
+
+Hb*
+
+Ruanda-Urundi and the Eastern
+
+Belgian Congo
+
+ABO
+
+Rh
+
+MN
+
+Hb*
+
+3 4 2 2 4 6 6 4 3 2 2
+3 4 2 2
+
+16 0.011 16 0.012 Livingstone et al., 1960 16 0.014 16 0.030 6 0.007 Blumberg, Bun, and 5 0.013 Mourant, 1961; and 6 0.026 Chalmers, Erin, and 6 0.011 Mourant, 1953 12 0.009 13 0.004 Livingstone et al., 1960 15 0.036
+13 0.008 6 0.003 Livingstone et al., 1960 13 0.006 18 0.052
+
+* For the contrast HbS (sickle cell hemoglobin) versus all other alleles. t These are actually inter-regional comparisons within Nigeria rather than strict tribal comparisons. } Excluding the Fulani and Pastoral Fulatii group.
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+322
+
+Morgan
+
+Social Biology
+
+p. 69) has concluded from studies On two amount of Caucasian admixture in various
+
+different major hybrid populations and the populations of United States Negroes and
+
+descendants of their ancestral populations for different genes illustrates a large degree
+
+that "polymorphisms are more sensitive to of genetic heterogeneity among the various
+
+local selection, and therefore on the average samples. Most of this variation can be at-
+
+over a large area or long period of time tributed to differences in the degree of Cau-
+
+closer to neutrality, than are idiomorphs." casian admixture where the studies have
+
+Clearly, the larger <j> values for the HbS genesatisfied certain criteria of historical, ethnic,
+
+reflect the ecological heterogeneity of the primary selective agent, malaria and its vector, and the dynamics of gene flow for this balanced polymorphism in West Africa (see Allison, 1964).
+
+and statistical nature. Also, there is evidence to suggest that sufficient variation of gene frequencies existed among African tribal units to contribute to variation among ancestral components for the formation of
+
+I t is doubtful that the procurement of different hybrid populations.
+
+Africans for the slave trade was operated on the basis of random sampling of individuals within a very large major region. Probably sampling was closer to the level of the tribe with entire villages or subtribes being captured. Additionally, related individuals and
+
+Intertribal differentiation for a strongly selected gene like that for sickle-cell hemoglobin in African samples is shown to be greater than that for some blood group genes. Founder effects and other types of
+
+groups suffered together the same dire cir- sampling biases may have played important
+
+cumstances of transportation to the New roles in the sampling of polymorphic loci
+
+World and high mortality. Thus, from all of subject to strong local selective pressures
+
+these causes combined, a sufficient amount in Old World populations. Thus, although
+
+of variation in gene frequencies was already not conclusive, comparisons of the magni-
+
+available among the Africans arriving at tudes of the estimates of Caucasian gene
+
+different times for the formation of different flow for different genes suggest that the fol-
+
+Negro populations. The slave trade had a lowing genes have been selected against in long history, on the order of two hundred United States Negro populations: T, TfD1,
+
+years. It is doubtful that the slave owners in Hbs, Hb°, Hp», G-6-PD-, A,, and possibly
+
+the United States were able to effect the Gc2. Similar evidence exists for strong selec-
+
+formation of various Negro populations tion in favor of the Rh-negative gene, r.
+
+which were not biased genetically by the
+
+method of procurement of slaves and temporal heterogeneity of ethnic composition.
+SUMMARY
+A review of basic assumptions and results of studies designed to estimate the total
+
+ACKNOWLEDGMENTS
+The author acknowledges the National Science Foundation for postdoctoral support under Training Program NSF-GZ-418.1 would like to thank Prof. R. C. Lewontin for his suggestions and encouragement in the early stages of work.
+
+REFERENCES
+
+ALLISON, A. C. 1964. Polymorphism and natural selection in human populations. Cold Spring Harbor Symp. Quant. Biol. 29:137-149.
+BLUMBERG, B. S., E. W. IKIN, and A. E. MOURANT.
+1961. The blood groups of the pastoral Fulani of northern Nigeria and the Yoruba of western Nigeria. Amer. J. Phys. Anthrop. 19:195-201.
+CHALMERS, J. N. M., E. W. IKIN, and A. E. Mou-
+
+RANT. 1953.The ABO, MNS and Rh blood groups of the Nigerians. Ann. Eugen. 17:168-176.
+CROW, J. F., and J. FELSENSTEIN. 1968. The effect
+of assortative mating on the genetic composition of a population. Eugen. Quart. 15:85-97. GLASS, B. 1955. On the unlikelihood of significant admixture of genes from the North American Indians in the present composition of the Negroes
+
+Vol. 17, No. 4
+
+Gene Flow
+
+323
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+of the United States. Amer. J. Hum. Genet. 7: RACE, R. R., and R. SANGER. 1968. Blood groups in
+
+368-385.
+
+man. 5th ed. Blackwell, Oxford.
+
+GLASS, B., and C. C. Li. 1953. The dynamics of REED, T. E. 1968. Distributions and tests of inde-
+
+racial intermixture and analysis based on the pendence of seven blood group systems in a large
+
+American Negro. Amer. J. Hum. Genet. 5:1-20. multiracial sample from California. Amer. J.
+
+HERSKOVITS, M.J. 1926. Social selection in a mixed Hum. Genet. 20:142-150.
+
+population. Proc. Nat Acad. Sci. 12:587-593. REED, T. E. 1969a. Critical tests of hypotheses of
+
+. 1930. The anthropometry of the American race mixture using Gm data on American Cauca-
+
+Negro. Columbia University Press, NewYork.
+
+sians and Negroes. Amer. J. Hum. Genet. 21:
+
+HERTZOG, K. P., and F. E. JOHNSTON. 1968. Selection
+
+71-83.
+
+and the Rh polymorphism. Human Biol. 40:
+
+. 1969b. Caucasian genes in American Ne-
+
+86-97.
+
+groes. Science 165:762-778.
+
+Li, C. C. 1969. Population subdivision with respect
+
+. 1970. Intermixture and selection. Science
+
+to multiple alleles. Ann. Hum. Genet. 33:23-30. 167:1389.
+
+LIVINGSTONE, F. B., H. GERSHOWITZ, J. V. NEEL, ROBERTS, D. F. 1955. The dynamics of racial inter-
+
+W. W. ZUELZER, and M. D. SOLOMON. 1960. The
+
+mixture in the American Negro--some anthro-
+
+distribution of several blood group genes in pological considerations. Amer. J. Hum. Genet.
+
+Liberia, theIvory Coast andUpper Volta. Amer. 7:361-367.
+
+J. Phys. Anthrop. 18:161-178.
+
+ROBERTS, D. F., and R. W. HIORNS. 1962. The
+
+MILLER, E. B., R. E. ROSENFIELD, and P. VOGEL.
+
+dynamics of racial intermixture. Amer. J.Hum.
+
+1951. On the incidence of some of the newblood Genet. 14:261-277.
+
+agglutinogens in Chinese and Negroes. Amer. J. WORKMAN, P. L. 1968. Gene flow and the search for
+
+Phys. Anthrop. 9:115-126.
+
+natural selection in man. Human Biol. 40:260-
+
+MORTON, N. E. 1969. Human population structure. 279.
+
+Ann. Rev. Genet. 3:53-74.
+
+. 1969. F statistics and the description of
+
+NEI, M. 1965.Variation and covariation of gene polymorphic loci. Amer. J. Hum. Genet. 21:99-
+
+frequencies in subdivided populations. Evolution
+
+100.
+
+19:256-258.
+
+. 1970. Intermixture and selection. Science
+
+POLLITZER, W. S. 1958. TheNegroes of Charleston; 167:1388-89.
+
+a study of hemoglobin types, serology, and mor- WORKMAN, P. L., B. S. BLUMBERG, and A. J. COOP-
+
+phology. Amer. J. Phys. Anthrop. 16:241-263.
+
+ER. 1963. Selection, gene migration and poly-
+
+.1964. Analysis of a tri-racial isolate. Human morphic stability in a U.S. White and Negro
+
+Biol. 36:362-373.
+
+population. Amer. J. Hum. Genet. 15:429-437.
+
+POLLITZER, W. S., R. M. MENEGAZ-BOCK, R. CEP- WRIGHT, S. 1951.Thegenetical structure of popula-
+
+PELLINI, and L. C. DUNN. 1964. Blood factors
+
+tions. Ann. Eugen. 15:323-354.
+
+and morphology of the Negroes of James Island, YASUDA, N. 1968. An extension of Wahlund's prin-
+
+Charleston, S.C. Amer. J. Phys. Anthrop. 22: ciple to evaluate mating type frequency. Amer.
+
+393-398.
+
+J. Hum. Genet. 20:1-23.
+
+

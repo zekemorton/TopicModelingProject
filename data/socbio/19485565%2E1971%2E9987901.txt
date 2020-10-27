@@ -1,0 +1,418 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Discriminant analysis for detection of phenylketonuric heterozygotes
+Barbara G. Christian
+To cite this article: Barbara G. Christian (1971) Discriminant analysis for detection of phenylketonuric heterozygotes, Social Biology, 18:1, 64-72, DOI: 10.1080/19485565.1971.9987901 To link to this article: http://dx.doi.org/10.1080/19485565.1971.9987901
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 1
+View related articles
+Citing articles: 2 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:54
+
+Discriminant Analysis for Detection of Phenylketonuric Heterozygotes
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+Barbara G. Christian
+Bureau of Maternal and Child Health California State Department of Public Health Berkeley, California
+
+Genetic counselors, researchers concerned with phenylketonuria, and other medical specialists are well aware of the need to differentiate heterozygote siblings from normal siblings of phenylketonuric children as well as to detect heterozygotes in the general population.
+One method used to identify these two groups has been the phenylalanine tolerance test, first described by Hsia, Driscoll, and Knox (1956). In an attempt to increase the reliability of differentiating carriers of phenylketonuria from noncarriers, Wang, Morton, and Waisman (1961) applied the method of discriminant analysis (Rao, 1952) to phenylalanine tolerance data and produced a discriminant function which gave an overall classification error of less than 4%. Their study compared blood constituents of 17 parents of known phenylketonuric cases with 19 university students who had no known family history of genetic disease. Other studies (Rampini et al., 1969; Woolf, Cranston, and Goodwin, 1967; Anderson et al., 1962) also used the discriminant function to analyze phenylalanine tolerance test data. The number of heterozygotes tested in these studies were 19, 31, and 14 respectively.
+This paper derives a discriminant func-
+
+tion by comparing 217 heterozygotes (parents of known phenylketonuric infants) with a control group of 29 medical students and laboratory technologists. Since this study includes greater numbers of heterozygotes than any previous ones, the reliability of separating a population into carriers and noncarriers for phenylketonuria using the results of mathematical analysis of a phenylalanine tolerance test is more accurately tested.
+MATERIALS AND METHODS
+In conjunction with the National Phenylketonuria Collaborative Study, some preliminary data of interest to those involved with interpretation of phenylalanine levels and tolerance tests was published in two papers, Berman et al. (1969) and Cunningham et al. (1969). These reports did not include a mathematical analysis of the data collected on blood phenylalanine (PA) and blood tyrosine (TY) tolerance tests. This paper analyzes the tolerance data they collected.
+The data included in the analysis were obtained from all parents of infants with persistent PA levels of 6 mg/100 ml or higher and TY levels of less than 5 mg/ 100 ml seen during 1964-66, and in a few
+
+64
+
+Vol. 18, No. 1
+
+Phenylketonuric Heterozygotes
+
+65
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+instances during the first quarter of 1967, at one of the eleven phenylketonuria centers located in seven states (California, Colorado, Illinois, New York, Oregon, Pennsylvania, and Wisconsin). The control group consisted of medical students and laboratory technologists who volunteered for the experiment.
+For each individual a 0-hour, 1-hour, 2-hour, and 4-hour PA and TY blood level were recorded following a loading dose of 100 mg of L-phenylalanine per kilogram of body weight. Tolerance data for fasting periods of greater than 4 hours were difficult to obtain since increasing patient resistance was encountered. The dose was administered in a polysaccharide gel1 and following each blood sample the plasma was separated within thirty minutes and stored frozen until analyzed. All determinations were performed in the same laboratory. Blood PA and TY levels were determined by the fluorometric method of Wong et al. (1964) based on the procedure described by McCaman and Robins (1962).
+The day-to-day reproducibility of PA calculated from 40 pairs of duplicates run on separate days and expressed as a coefficient of variation was 7% and the mean difference between duplicates was 0.35 mg per 100 ml. The daily coefficient of variation for TY calculated on the same basis from 38 pairs of duplicates was found to be 17.6% and the mean difference duplicates was 0.33 mg per 100 ml.
+The heterozygotes were arranged into -two groups: parents of phenylketonuric infants and parents of hyperphenylalanemic infants. This classification was founded on an arbitrary division of an apparently continuous variable, blood PA. An infant was classified hyperphenylalanemic if it exhibited soon after birth a blood serum PA level of at least 6 mg/100 ml but less than 20 mg/100 ml and a blood TY of less than 5 mg/100 ml; while an infant was classified
+1 Jel-Quik, Loma Linda, California 92354.
+
+phenylketonuric if it had a blood serum PA level greater than 20 mg/100 ml and a blood TY of less than 5 mg/100 ml. A complete series of data was acquired for 177 parents of phenylketonuric infants, 40 parents of hyperphenylalanemic infants, and 29 controls. For a more detailed discussion of the loading methods and of the classification of cases, see the recent publications of Berman et al. (1969) and Cunningham et al. (1969).
+Linear discriminant functions were used to analyze the data because this analysis provides a means of assigning an individual to one of two populations. The multivariate observation concerning the individual are reduced to a single score, which is a weighted combination of the variables observed, and this may be used to assign the individual to one of the populations, either heterozygotes or normals.
+The model for the discriminant score, $, is as follows:
+
+where
+
+i-1
+
+X = Coefficients (or weights) based on sam-
+
+ples from the two populations,
+
+X = variable observed, and
+
+k = number of variables observed.
+
+In this study k equals eight. The eight variables, xi, X2, � � � Xs, used in the analysis are the natural logarithms of the 0-hour, 1-hour, 2-hour, and 4-hour PA and TY levels. Logarithms were used in order to better approximate a normal distribution of each variable.
+The "perfect discriminant" as described by Kendall (1957) and Kenny and Keeping (1951) was used because it allows the use of standard regression techniques in computation. Using this perfect discriminant, the BMD O2R Stepwise Multiple Regression Program (Dixon, 1965) was converted into a stepwise discriminant function program and then applied to the loading data
+
+66
+
+Christian
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+of the three groups. Because the BMD O2R program could only be performed on two groups at a time, the first test was run between the parents of hyperphenylalanemic infants and parents of phenylketonuric infants to see if these groups could be pooled. The stepwise multiple regression program was converted into a stepwise discriminant analysis program by using the perfect discriminant process of weighting each individual in each of the two groups in the following manner:
+Let Ni be the number of parents of phenylketonurics and Nz be the number of parents of hyperphenylalanemics. Score each parent of a phenylketonuric child with
+
+In this instance the scores Y\ and F2 were used as the ninth (the dependent) variable in the multiple regression, and at each step the program gave the coefficients for the discriminant function comparing the parents of phenylketonurics with the parents of hyperphenylalanemics.
+RESULTS
+In the discriminant function analysis comparing parents of phenylketonurics with parents of hyperphenylalanemics, it was found that the single best discriminant was the 2-hour PA value and the second best discriminant the 2-hour TY value. The entire discriminant function was:
+
+40 = 0.1843
++ 217
+and score each parent of a hyperphenyl-
+alanemic child with
+
+$ = -0.105 (1-hour PA) +0.315 (2-hour PA) -0.061 (4-hour PA) +0.029 (0-hour TY) +0.329 (1-hour TY) -0.718 (2-hour TY) +0.309 (4-hour TY).
+
++ iV2
+
+-177 217
+
+=
+
+-0.8156 .
+
+These scores were used in setting up the equations to be solved for the X. The problem was then analyzed as a regression analysis of these scores on the eight independent variables. This required calculation of the sums of squares and products matrix and solution of the resulting equations for the coefficients, X. The X (which can be thought of as partial regression coefficients) are estimates of the change in the discriminant, $, resulting from a unit change in the variable x when all other variables are held constant. If X is not significantly different from zero, then X is not contributing significantly to the discriminant. However, it is often the case that many of the x correlated with others, and the test of significance of the individual partial regression coefficient in this situation is not a test of the complete contribution of the variable. A more detailed discussion of the mathematical model used in discriminant analysis can be found in Brown (1947).
+
+The program stopped after seven steps leaving out the least important discriminant, the 0-hour PA, since deletion of this variable did not lower the significance of the function.
+Using this method it was impossible to discriminate between parents of phenylketonurics and parents of hyperphenylalanemics. Figure 1shows the complete overlap of the two groups when the values of the discriminant equation were plotted for each individual. These findings indicated that the similarities between the groups were great and that it was futile to attempt to distinguish between them.
+The second analytic procedure used was to pool the two parental groups and compare them to the controls. The data were then arranged into a group of 217 parents (heterozygotes) and 29 controls and analyzed by multiple regression techniques. Again, the stepwise multiple regression program was converted into a stepwise discriminant analysis program by weighting each individual with a score. In this case,
+
+FREQUENCY HISTOGRAMS OF DISCRIMINANT FUNCTION SCORES
+20
+� PARENTS OF PHENYLKETONURIC INFANTS N = 177 � PARENTS OF HYPERPENYLALANEMIC INFANTS N-40
+10
+EIGHT-STEP DISCRIMINANT FUNCTION
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+10 O
+g 20
+
+0.00 .05 .10
+
+.15 .20
+
+.25 .30
+
+.35
+
+.40
+
+� "PARENTS* N = 2I7
+� CONTROLS N=29
+10
+FOUR-STEP DISCRIMINANT FUNCTION
+CUTTING POINT
+0 fli-H n FI nn n
+20 .05 .10 .15 .20 .25 .30 .35 .40 .45 .50 .55 .60 .65 .70 .75 .80 .85 .90 .95 1.00
+
+� 'PARENTS" N-217
+D CONTROLS N-Z9
+10
+EIGHT-STEP DISCRIMINANT FUNCTION CUTTING POINT
+
+.15 .20 .25 .30 .35 .40 .45 .50 .55 .60 .65 .70 .75 .80 .85 .90 DISCRIMINANT FUNCTION SCORE
+FIG. 1--Frequency histograms of discriminant function scores
+
+.95 1.00 1.05 1.10 1.15
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+68
+
+Christian
+
+Social Biology-
+
+let Ni be the number of parents and N2 be the number of controls. Then score each heterozygote parent with
+
++ 29 246
+
+=
+
+0.1179
+
+and score each control with
+
+-Ni - 2 1 7 = -0.8221 . N2 246
+
+The scores became the dependent variable in the multiple regression equation and at each step the program printed the discriminant function coefficients. Using these two groups, the best single discriminant was the 4-hour PA, and the second best discriminant the 2-hour TY. The full discriminant equation was:
+
+* = -0.295 (0-hour PA) +0.131 (1-hour PA) +0.081 (2-hour PA) +0.538 (4-hour PA) +0.415 (0-hour TY) -0.472 (1-hour TY) -0.429 (2-hour TY) +0.138 (4-hour TY) ,
+
+which had a 0.9% false negative classification error (2 true hetoerozygotes whom the analysis classified normal) and a 27.6% false positive classification error (8 true normals whom the analysis classified heterozygotes).
+
+The distribution had a cutting point of 0.366. That is, if the equation when evaluated for a set of blood constituent levels yielded a number greater than 0.366 then the individual was classified normal; if the result was less than 0.366 then the individual was classified heterozygote.
+The mean and standard deviation for the 8 variables in each of the 4 groups are given in Table 1. Table 2 gives the variable entered at each step, the discriminant function at that step, the cutting point minimizing misclassification error, the multiple correlation coefficient, B?, indicating the fraction of all variation that is accounted for by the variables included at that step, and the per cent error at that level. In this table several entries deserve comment. In theory, the classification error should continuously decrease as more variables are added to the equation. That this does not happen is due to random sampling error. The cutting point should be the same throughout all steps, and although the points are all contiguous, they are not identical. This, again, is due to sampling error. Along with the frequency histogram for parents of phenylketonurics and parents of hyperphenylalanemics, Figure 1 also shows two frequency histograms of the dis-
+
+TABLE 1
+MEAN AND STANDARD DEVIATION FOR LOGARITHMS OF THE EIGHT BLOOD PHENYLALANINE AND TYROSINE TESTS FOR EACH STUDY GROUP
+
+NATURAL LOGARITHM*
+T,71 of 0-Hour PA T,n of 1-Hour PA . . I,n of 2-Hour PA Ln of 4-Hour PA Ln of 0-Hour TY Ln of 1-Hour TY Ln of 2-Hour TY Ln of 4-Hour TY
+
+PARENTS OF PHENYLKETONTRICS
+(JV-177)
+
+XI S.D.}
+
+0.286 1.061 1.107
+0.933 0.115 0.214 0.276
+0.346
+
+0.147 0.152 0.130
+0.161 0.147 0.137 0.127
+0.126
+
+*Ln indicates natural logarithm, t X indicates arithmetic mean.
+
+PARENTS OF HYPER-
+PHENYLALANEMICS
+(If* = 40)
+
+X
+0.283 1.057 1.079 0.909 0.116 0.219 0.298 0.343
+
+S.D.
+0.162 0.153 0.155 0.186 0.163 0.193 0.183 0.165
+
+TOTAL PARENTS
+(JV-217)
+
+X
+0.286 1.060 1.102 0.929 0.115 0.215 0.280 0.345
+
+S.D.
+0.149 0.152 0.135 0.166 0.149 0.148 0.139 0.133
+
+CONTROLS
+(iV== 29)
+
+X
+0.088 0.906 0.881 0.592 0.106 0.373 0.433 0.434
+
+S.D.
+0.150 0.199 0.162 0.153 0.105 0.104 0.122 0.136
+
+XS.D. indicates standard deviation of the mean.
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+TABLE 2
+VARIABLE ENTERED, CUTTING POINT, CASES MISCLASSIFIED, R SQUARED AND DISCRIMINANT FUNCTION AT EACH STEP
+
+VARIABLE ENTERED BY STEP NUMBERS
+1. 1st var. ent.* 2. 2nd var. ent 3. 3rd var. ent 4. 4th var. ent. 5. 5th var. ent 6. 6th var. ent 7. 7th var. ent. 8. 8th var. ent
+
+DISCRIMINANT FUNCTION AT EACH STEP AND COEFFICIENT FOR EACH VARIABLE AT EACH STEP
+
+0-Hour PA
++0.363 +0.319 +0.304 +0.282 +0.297 +0.295
+
+1-Hour PA
++0.152 +0.157 +0.131
+
+2-Hour PA
++6!o8i
+
+4-Hour PA
++0.906 +0.822 +0.706 +0.677 +0.649 +0.595 +0.577 +0.538
+
+0-Hour TY
++6^295 +0.425 +0.419 +0.409 +0.415
+
+1-Hour TY
+-0.459 -0.483 -0.472
+
+2-Hour TY
+
+4-Hour CUTTING TY POINT
+
+RSQ
+
+-0.503 -0.470 -0.646 -0.302 -0.338 -0.421 +o!l44 -0.529 +0.134
+
+0.554 0.309 0.292 0.255 0.223 0.310 0.323 0.366
+
+0.3049 0.3537 0.3812 0.3924 0.4026 0.4072 0.4084 0.4088
+
+CASES MISCLASSIFIED BV THE DZSCEIMOTANT FUNCTION
+
+False Positives
+
+False Negatives
+
+Total
+
+# %t%f %
+
+13 44.8 4 1.8 17 6.9
+
+10 34.5 10 34.5
+
+5
+
+2.3 1.4
+
+15 13
+
+6.1 5.3
+
+9 31.0 1 0.5 10 4.1
+
+8 27.6 2 0.9 10 4.1
+
+9 31.0 2 0.9 11 4.5
+
+8 27.6 3 1.4 11 4.5
+
+8 27.6 2 0.9 10 4.1
+
+* Variable entered.
+
+70
+
+Christian
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+tribution of discriminant scores for the total parental group and the control group, one using all 8 variables and another using only the 4 most important variables.
+DISCUSSION
+When the discriminant function derived in our study is compared to the one derived in a similar study by Wang et al. (1961) several differences are found. Their single most important discriminant, the 0-hour PA, is third ranking in importance in our equation; whereas, the 4-hour PA and the 2-hour TY, ranking first and second in our equation, were dropped in theirs. In our equation, the 4-hour PA is more than two and one-half times as powerful as the next best discriminant, and an equation using this one variable alone has a 1.8% false negative classification error with a 44.8% false positive classification error (see Table 2). While they dismissed all TY values as insignificant, our study shows that the 2-hour TY is the second most powerful variable. There are several possible explanations for these differences: (1) a larger sample was used in our study which probably produced a more reliable factor estimator; (2) in each study different methods of loading were used and slightly different amounts of phenylalanine were ingested by the subjects; (3) 1.5 and 3-hour blood level determinants were included in their analysis, which were unavailable in ours. One particular finding stands out in both studies, namely that the area under the tolerance curve is not a good discriminant because several of the variables are weighted with a negative coefficient. Care was taken in both studies to use only adult controls.
+Statistically, it is possible that there are a number of different discriminant equations, each of which is capable of classifying a population into two groups, carriers and normals with only a small percentage of error. In order to have this effect, the most powerful variables in each equation would
+
+have to be highly correlated. For example, again comparing our equation to that of Wang et al. (1961), if the 4-hour PA in our study were correlated with their 0-hour PA and our 2-hour TY were correlated to their 3-hour PA then both equations would give similar results, even though they appear quite different. We could not test this hypothesis since we do not have both sets of data, but within our series the correlation of 4-hour PA with 0-hour PA was only 0.407.
+Another explanation of the different results is that Wang et al. (1961) may have had too few heterozygotes to compute a stable discriminant function, particularly since the variability of each factor studied is rather high (see Table 1).
+Rampini et al. (1969) also used similar methodology to that used in this study when he analyzed the tolerance data from 19 heterozygote parents and 26 controls after orally administering 100 mg of PA per kilogram of body weight. The age of controls is not given. He recorded the 0, 1, 2, 3, and 4 hour PA and TY values of these 45 individuals and performed the discriminant analysis procedures on this data. He does not list a stepwise function or explain the power of the various parts of his equation, and thus we do not know whether or not his 4-hour PA weighed heavily in the overall discriminant power. Woolf et al. (1967), and Anderson et al. (1962) have also used discriminant analysis, but their methods were quite disparate and the results varied considerably.
+Other investigators have used PA tolerance tests to detect phenylketonuric carriers, but did not analyze their data with the discriminant analysis technique. In two of these studies, Renwick, Lawler, and Cowie, (1960) who compared 18 carriers with 20 controls and Hsia et al. (1956,1957) who compared 19 carriers with 19 controls, the 4-hour PA was found to be the best classifier.
+
+Vol. 18, No. 1
+
+Phenylketonuric Heterozygotes
+
+71
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+The calculation of this complex mathematical model yields the rather high false positive classification of 8 out of 29 controls (27.6%). This error rate should be compared with that of other studies using the discriminant analysis technique. Rampini et al. (1969) had 1 false positive out of 26 controls (3.8%), and Wang et al. (1961) had no false positives among his 19 controls. Woolf et al. (1967) correctly classified 92% of normals and heterozygotes, but does not indicate how much of this classification error is due to false positives, Anderson et al. (1962) correctly identified 95% of normals and controls, but he also did not indicate how much of the classification error is due to false positive identification.
+One explanation of the false positive identifications in our study as well as the others is that a number of the false positives were unknown heterozygotes. It is also possible that if a larger number of controls were available for this study a smaller classification error would have resulted. A third explanation is that tolerance tests may perform quite well in reconfirming known heterozygotes but less well in classifying large unknown populations. Rampini et al. (1969) report higher variability among their heterozygotes than in controls and suggest that this indicates a genetic heterogeneity of the alleles on the phenylketonuria locus or the presence of other modifying genes.
+Practical usefulness of the discriminant function approach is limited due to a number of problems. For those investigators who wish to use the discriminant function model demonstrated in this analysis it is stressed that only adults should be tested. There is evidence that blood PA and TY levels may not be constant over age (Renwick et al., 1960; Hsia et al.. 1957). That is, an individual as a child may have a higher blood PA and TY level than he will as an adult. For this reason, all of the
+
+individuals in our study were adults. There also is evidence that slight changes in the loading procedure, such as dose, vehicle, timing, method of collection, handling and analysis of blood samples, may lead to significantly different PA and TY values (Cunningham et al., 1969), and for this reason it is necessary that each investigator derive his own equation. If this is impossible, any investigator wishing to apply the function derived in this study must take care to follow the exact procedures given above. Any borderline values should be vigorously analyzed bearing in mind the high false positive rate yielded by this function.
+The use of the discriminant analysis function represents an attempt to extend the basic biochemical data obtained in tolerance tests, but obviously cannot improve the results if the groups tested are not affected by a homogeneous biochemical disorder. Since loading tests involve a variety of metabolic functions such as absorption, intermediary metabolism, and excretion, the process consists of several steps each of which may vary in a quite different manner. Our data tend to confirm the opinion of Cunningham et al. (1969) that although the tolerance test gives quite good results in reconfirming known heterozygotes, it has a relatively limited usefulness in classifying normal controls or suspected heterozygotes, even when the results are subjected to rather sophisticated mathematical analysis.
+SUMMARY
+A stepwise discriminant analysis program was used in an attempt to distinguish parents of phenylketonuric infants (infants with blood serum phenylalanine higher than 20 mg/100 ml) from parents of hyperphenylalanemic infants (infants with blood serum phenylalanine between 6 and 20 mg/100 ml) on the basis of serum PA and TY levels. Using the results of this analysis it was im-
+
+72
+
+Christian
+
+Social Biology
+
+possible to distinguish between the two sets of parents.
+When data from both parental groups were pooled and the discriminant analysis was applied to this heterozygote groupand to a group of controls, the test results accurately differentiated the two groups. A simple discriminant function giving approximately 96% accuracy of classification between parents (parents of both phenylketonuric and hyperphenylalanemic infants) and controls was obtained as follows:
+$ = 0.319 (0-hour PA) +0.677 (4-hour PA) +0.295 (0-hour TY) -0.646 (2-hour TY)
+where a value of less than 0.255 indicated a control. The one step equation
+$ = 0.906 (4-hour PA) ,
+using 0.554 as a cutting point gave a 6.9%
+
+overall classification error. The most powerful single discriminant was the 4-hour PA value and the second most powerful, the 2-hour TY.
+As stated above theoverall classification error in the complete equation is about 4%, but false positive classification was much greater, approximately 25%. For this reason, the PA tolerance test is not a totally reliable device for distinguishing heterozygotes from normals in a population, with or without mathematical analysis.
+ACKNOWLEDGMENTS
+The data used in this study were collected by Drs. G. C. Cunningham, R. W. Day,J. L. Berman and D. Y. Y.Hsia, whose assistance is gratefully acknowledged.
+This study was supported in part bythe Children's Bureau Project on Services and Studies in theDetection of Heritable Diseases in the Newborn.
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+REFERENCES
+
+ANDERSON, J. A., H. GRAVEN, R. ERTEL, and R. KENNY, J. F., and E. S. KEEPING. 1951. Mathemat-
+
+FISCH. 1962. Identification ofheterozygotes with ics ofstatistics. (Part 2,2nd ed.) Van Nostrand,
+
+phenylketonuria on basis of blood tyrosine re- New York, New York.
+
+sponses. J. Pediat. 61:603-609.
+
+MCCAMAN, M. W., and E. ROBINS. 1962. Fluoro-
+
+BERMAN, J. L., G. C. CUNNINGHAM, R. W. DAY,
+R. FORD, and D. Y. Y. HSIA. 1969. Causes for
+high phenylalanine with normal tyrosine. Am. J.
+
+metric method for thedetermination of phenylalanine in serum. J. Lab. and Clin. Med. 59: 885-890.
+
+Dis. Child. 117:54-65.
+
+RAMPINI, S., P. W. ANDERS, H. D. CURTIS, and
+
+BROWN, G. W.1947. Discriminant functions. Ann. Math. Statist. XVIII:514-528.
+CUNNINGHAM, G. C., R. W. DAY, J. L. BERMAN, and
+D. Y. Y. HSIA. 1969. Phenylalanine tolerance tests infamilies with phenylketonuria and hyperphenylalanemia. Am. J. Dis. Child. 117:626-635.
+
+T. MARTHALER. 1969. Detection ofheterozygotes for phenylketonuria by column chromatography and discriminatory analysis. Pediat. Res. 3:287297. RAO, C. R. 1952. Advanced statistical methods in biometric research. Wiley and Sons, New York.
+
+DIXON, W. G. 1968.BMD biomedical computer programs. University of California Press, Los Angeles.
+
+RENWICK, J. H., S. D. LAWLER, and V. A. COWIE.
+1960. Phenylketonuria: A linkage study using phenylalanine tolerance tests. Am. J. Human Genetics. 12:287-322.
+
+HSIA, D. Y. Y., K. W. DRISCOLL, and W. E. KNOX.
+1956. Detection byphenylalanine tolerance tests
+
+WANG, H. L., N. E. MORTON, and H. A. WAISMAN.
+1961. Increased reliability for the determination
+
+of heterozygous carriers of phenylketonuria. Na-
+
+of the carrier state in phenylketonuria. Am. J.
+
+ture 178:1239-1240.
+
+Human Genetics. 13:255-261.
+
+HSIA, D. Y. Y., R. S. PRICE, and K. W. DRISCOLL. WONG, H. L., M. E. O'FLYNN, and F. INOUGE. 1964.
+
+1957. Phenylketonuria: Detection of the hetero- Micromethods for measuring phenylalanineand
+
+zygous carrier. J. Ment. Defic. Res. 1:53-65.
+
+tyrosine in serum. Clin. Chem. 12:1098-1104.
+
+KENDALL, M. G. 1957. A course in multiyariate WOOLF, L. I., W. I. CRANSTON, and B. L. GOODWIN.
+
+analysis. Charles Griffin and Company Limited,
+
+1967. Genetics of phenylketonuria. Nature 189:
+
+London, England.
+
+882-883.
+
+

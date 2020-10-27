@@ -1,0 +1,350 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Relative fecundability of users and nonusers of contraception
+Anrudh Kumar Jain
+To cite this article: Anrudh Kumar Jain (1969) Relative fecundability of users and nonusers of contraception, Social Biology, 16:1, 39-43, DOI: 10.1080/19485565.1969.9987798 To link to this article: http://dx.doi.org/10.1080/19485565.1969.9987798
+Published online: 23 Aug 2010.
+Submit your article to this journal Article views: 3
+View related articles Citing articles: 3 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:53
+
+Relative Fecundability of Users and Nonusers of Contraception
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+Anrudh Kumar Jain
+Population Studies Center University of Michigan Ann Arbor, Michigan
+
+To evaluate the impact of family-planning programs, it is important to know whether or not women who voluntarily accept sterilization or contraceptive methods have higher fecundability than those who do not accept them.1 If the acceptors do have higher monthly probabilities of conceiving than other women of their age class, then the program is likely to avert more future births. Measuring the fecundability differentials for older women is especially important since they make up the bulk of the acceptors in the early stages of a program.
+Questions regarding the fecundability differences between users of contraception and nonusers have been raised by demographers interested in family-planning programs. Freedman and Takeshita (1969), have concluded that acceptors probably have higher fecundability than nonacceptors. Their conclusion was based on indirect evidence, such as the fact that the acceptors in their study had higher fertility than nonacceptors for as long as ten years prior to interview, suggesting high fecundability.
+1 In demographic literature, fecundity is used to denote the physiological capacity of women to produce a live birth, fertility is a measure based on the actual number of live births, and fecundability refers to the monthly probability of conceiving.
+
+In the present analysis it will be shown that the users of birth control techniques had higher fecundability at marriage than nonusers and that women with higher initial fecundability became acceptors in the family-planning program studied. This is an independent test of the conclusion reached by Freedman and Takeshita, although both analyses are based on data taken from an intensive fertility survey (for details, see Jain, 1968; Freedmen and Takeshita, 1969) conducted in Taichung City of Taiwan at the end of 1962 prior to a year-long familyplanning program (see Berelson and Freedman, 1964). These women were then reinterviewed at the end of 1963 after the completion of the program. The data are based on a probability sample of 2,443 married women aged 20-39 living with their husbands at the time of interview. From a later survey, we also know whether or not these women became acceptors by July 1, 1965. Of the 17% of women accepting contraception, about 78% accepted IUCD's and the rest chose traditional methods.
+METHOD
+Fecundability is denned as the monthly probability of conception in the absence of contraception, outside the gestation period
+
+39
+
+40 Jain Social Biology
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+and period following the termination of a pregnancy. Average fecundability for a group of heterogeneous women can be estimated on the basis of a Type I geometric model (Jain, 1968,1969; Potter and Parker, 1964) which is based on the following four assumptions:
+1. Conception is a random event. 2. Fecundability "p" of each couple remains constant from month to month until conception. 3. Fecundability among couples is distributed according to a Pearsonian Type I distribution. 4. The number of couples is adequate.
+
+Under these assumptions, the average and
+
+variance of fecundability for a group of
+
+women are given by the following expres-
+
+sions:
+
+p = a/a+l
+
+(1)
+
+and
+
+V(p) = ab/{a + bY{a + b + 1) , (2)
+
+where a and b are two parameters in Pearson's Type I distribution, and their values are estimated from the observed frequency distribution of first pregnancy interval--the period between the onset of marriage and the beginning of first conception. For this purpose, women who were definitely premaritally pregnant (158) or had used contraception during the first pregnancy interval (29) or did not conceive even once prior to first interview (66) are excluded.
+The Type I geometric model has been tested elsewhere (Jain, 1968, 1969) for the remaining 2,190 women taken together, and after controlling their age at marriage. For this purpose, the observed number of women conceiving during each successive month after marriage was compared with the corresponding theoretical values obtained on the assumption of the Type I geometric model. The statistically insignificant values of chi-square at the 5% level of significance showed that the differences between the observed and theoretical number of women
+
+conceiving during each successive month following marriage could have arisen due to random fluctuation. On this basis it was concluded that the Type I geometric model fits all women in the sample quite well as well as subgroups, and that the values of p and V(p) can be used as reliable estimates of the average and variance of fecundability at marriage for women in this sample.
+In the present analysis we have estimated the averages and variances of fecundabilities for different subgroups on the assumption that the Type I geometric model fits these subgroups as well. This assumption has not been tested empirically for the subgroups used here. For simplicity, the estimated averages and variances of fecundabilities are shown in terms of 1,000 women instead of per woman.
+RESULTS
+Table 1 shows the average fecundabilities with their standard errors for acceptors and nonacceptors as of July 1, 1965. Those couples sterilized by the second interview (end of 1963) are shown separately. The acceptors are subclassified by whether or not they had used contraception and/or induced abortion after the first pregnancy but prior to first interview (1962). Nonacceptors are also subclassified into two groups according to their contraceptive status prior to first interview. In all, we have divided the couples into five categories.
+In Table 1, the average fecundabilities are shown in absolute terms as well as indices relative to the fecundability level for all women. It has been shown elsewhere (Jain, 1968, 1969) that the estimated average fecundability for all women is deflated as a result of memory biases in reporting the early pregnancy losses and in misreporting the dates of marriage and that it is inflated as a consequence of truncation bias resulting from the fact that the interview date curtailed the childbearing period of women included in the sample. Both these
+
+Vol. 16, No. 1
+
+Fecundabillty and Contraception
+
+41
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+biases were found to be associated with the who had not conceived even once prior to
+
+length of marriage duration; the truncation the first interview. The upper limits are
+
+bias was found to be operating mainly shown in Table 1, and the lower limits are
+
+during the first three years of marriage, shown in Table 2.
+
+whereas the effect of memory bias was found Since we have assumed an average of zero
+
+to be increasing with ascending marriage for estimating the lower limits, and since
+
+duration. Since the marriage duration is individual women cannot have negative
+
+closely associated with the age of women at fecundability, the variance of fecundabilities
+
+the first interview, we can roughly control for these 66 women can also be assumed to
+
+for the effects of these biases by dividing be zero. Assuming that all these primarily
+
+women into two broad age groups, 20-29 sterile women will fall into the fifth category
+
+and 30-39. For this reason, the results in as they do in this sample, the overall stand-
+
+Table 1 are shown for all ages as well as for ard errors are computed by pooling the data
+
+these two broad age groups.
+
+of the two groups. The standard errors thus
+
+The average fecundability of those accep- estimated are quite close to those shown in
+
+tors who had previously used contraception Table 1 and hence are not shown again in
+
+is about 9% higher than for all women and Table 2.
+
+about 19% higher than the average for Those acceptors who had previously
+
+those nonacceptors who had not used con- used contraception had an initial fecunda-
+
+traception prior to the first interview. This bility about 12% higher than the average,
+
+table understates the fecundability differen- whereas those nonacceptors who had not
+
+tials because women without any pregnan- used contraception prior to the first inter-
+
+cies have been excluded. These women view had an initial fecundability about 9%
+
+undoubtedly had lower fecundability, and lower than the average for all women (see
+
+that is why they did not conceive even once Table 2). The average fecundabilities of the
+
+prior to the first interview. All these 66 other three groups of women are between
+
+women belong to the fifth category. Inclu- these two extremes. The trend is consistent
+
+sion of these women would substantially whether we consider women aged 20-29 or
+
+lower the average fecundability estimates 30-39. The absolute values of average fecun-
+
+for this group as well as for all women.
+
+dabilities for younger women are higher than
+
+The fecundability of women who had not for older women, probably mainly because
+
+conceived cannot be estimated directly. of the memory bias, but partly due to the
+
+We estimate it indirectly in two different truncation bias.
+
+ways: (1) by assuming that their average
+
+fecundability is equal to the average fecun-
+
+DISCUSSION
+
+dability of all women who conceived at least once prior to interview, and (2) by assuming that these women are primarily sterile and hence their average fecundability is zero. Their actual average fecunda-
+
+The above analysis shows that those acceptors who had previously used contraception had an initial fecundability about 25% higher than those nonacceptors who had not used contraception prior to inter-
+
+bility probably is between these two ex- view. This result, along with Freedman and
+
+tremes. However, it will be closer to the Takeshita's finding (1969) that acceptors
+
+lower limit than to the upper limit since had higher recent fertility than nonaccep-
+
+more than 50% of these women had not tors, indicates that acceptors not only had
+
+conceived during five years of marriage. higher fecundability at marriage, but they
+
+We can now obtain the weighted average also had higher fecundability at the time of
+
+fecundabilities of all women, including those interview. Two important practical implica-
+
+TABLE 1
+AVERAGE FECUNDABILITIES AND STANDARD ERRORS FOR WOMEN WITH AT LEAST ONE PREGNANCY BY WOMEN'S AGES ATFIRST INTERVIEW (1962)*
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+AGES 20-29
+
+ACCEPTANCE STATUS AND PRIOR Absolute
+
+"Relative Number of
+
+USE OP CONTRACEPTION
+
+Fecundability Fecundability Women
+
+Allwomen Sterilized bysecond inter-
+view(1963) Acceptors by July, 1965:
+Group 1 Group2 Nonacceptors byJuly, 1965: Group 1 Group2
+
+211+ 3
+217±14
+241+ 12 215+7
+219± 7 203+ 4
+
+100 1,020
+103 40
+114 51 102 128
+104 173 96 628
+
+AGES 30-39
+
+Absolute
+
+Relative Number of
+
+Fecundability Fecundability Women
+
+132 + 2
+
+100 1,170
+
+140+4 106 193
+
+151±5 118 + 2
+
+114 89
+
+99 102
+
+147±3 103±2
+
+111 336 78 440
+
+AGES 20-39
+
+Absolute
+
+Relative Number of
+
+Fecundability Fecundability Women
+
+163±2
+
+100 2,190
+
+151±4 93 233
+
+177±5 163±3
+
+109 150 100 230
+
+168+4 152±2
+
+103 509 93 1,068
+
+* Averages and standard errors are shown in units of 1,000 women. Women who were pre-
+
+f For both acceptors and nonacceptors, thewomen in Group 1had used contraception or
+
+maritally pregnant (158 cases), orused contraception during first pregnancy interval (29 cases), abortion after first pregnancy, but prior to first interview in 1962.The women in Group 2 had not.
+
+or did not have any pregnancy prior to first interview (66 cases) are excluded.
+
+TABLE 2
+AVERAGE FECUNDABILITIES FOR ALL WOMEN, INCLUDING THOSE WITHOUT ANY PREGNANCY PRIOR TO INTERVIEW, BY WOMEN'S AGES AT FIRST INTERVIEW (1962) *
+
+AGES 20-29
+
+ACCEPTANCE STATUS AND PRIOR Absolute
+
+Relative
+
+USE OF CONTRACEPTIONt Fecundability Fecundability
+
+Allwomen Sterilized by second inter-
+view (1963) Acceptors by July, 1965:
+Group 1 Group 2 Nonacceptors by July,1965: Group 1 Group 2
+
+202 217 241 215 219 189
+
+100 108 120 107 109 94
+
+Number of Women
+1,066 40 51 128 173 674
+
+AGES 30-39
+
+Absolute
+
+Relative
+
+Fecundability Fecundability
+
+130 100
+
+Number of Women
+1,190
+
+140 108
+
+193
+
+151 116 118 91
+
+99 102
+
+147 113 99 76
+
+336 460
+
+AGES 20-39
+
+Absolute
+
+Relative
+
+Fecundability Fecundability
+
+158 100
+
+151 96
+
+177 112 163 103
+
+168 106 143 91
+
+Number of Women
+2,256 233 150 230 509 1,134
+
+·Averages are shown in units of 1,000 women. Women who were premaritally pregnant (158
+
+t For both acceptors and nonacceptors, the women in Group 1had used contraception or
+
+cases) or used contraception during first pregnancy interval (29 cases) are excluded.
+
+abortion after first pregnancy, but prior to first interview in 1962. The women in Group 2 had not.
+
+Vol. 16, No. 1
+
+Fecundability and Contraception
+
+43
+
+tions of this result are: (1) Theimpact of the program is greater than would be expected on the assumption that acceptors have the same fecundability as nonacceptors; the acceptors have a greater potential for producing births than the other women with lower fecundability. (2) Even if older women with higher parity are more likely to accept the IUCD or other contraceptive methods in a family-planning program, it is worthwhile to invest resources in such a program because these women have the potential to produce substantially more births than the average women of their age class. This does not imply that these acceptors would not have adopted some method of birth control
+
+in the absence of an organized family-planning program. I t is probable, however, that a greater proportion of them will adopt contraception and adopt it earlier in an organized program. Even small gains in proportion and timing may represent a significant number of births averted in a group with such high fecundability.
+ACKNOWLEDGMENTS
+Grants from the Ford Foundation, theNational Institutes of Child Health and Human Development, and the Population Council provided thefinancial support for this research. The author acknowledges helpful suggestions from Doctors L. P. Chow, Ronald Freedman, Robert G. Potter, and Mr. Albert I. Hermalin.
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+REFERENCES
+
+BERELSON, B., and R. FREEDMAN. 1964. A study in
+fertility control. Sci. Amer. 210(5) :3-11.
+FREEDMAN, R., and J. Y. TAKESHITA. Family planning in Taiwan: Tradition and change (in press). Princeton Univ. Press, NewJersey.
+JAIN, A. K. 1968. Fecundity components in Taiwan: Application of a stochastic model of human
+
+reproduction. Ph.D. dissertation on microfilm, University of Michigan, Ann Arbor.
+. 1969. Fecundability and its relation toage in a sample of Taiwanese women. Pop. Stud. (in press).
+POTTER, R. G., and M. P. PARKER. 1964. Predicting
+the time required to conceive. Pop. Stud. 18:99116.
+
+

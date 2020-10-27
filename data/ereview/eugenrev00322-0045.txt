@@ -1,0 +1,48 @@
+BAYES' THEOREM AND THE
+FOURFOLD TABLE.
+BY R. A. FISHER. Sc.D.
+In a recent issue of Biometrika (XVII, parts 3 and 4), E. S. Pearson attempts the interesting task of examining into the truth of "Bayes' Theorem" experimentally. The point is one of some histor-
+ical interest. A number of mathematicians, and notably Laplace,
+have considered that although, if we know nothing about the causes of an event its probability of occurrence is certainly unknown, yet since it must have some probability between the limits of zero and unity, it may rightly be assumed that for events in general the probability occurs with equal frequency in all parts of this range. The assumption would be an important one theoretically, for if it could rightly be assumed, it would be possible to bring a number of difficult questions of uncertain inference within the domain of the mathematical
+theory of probability. In the language of. modern statistics, infer-
+ences respecting samples of known populations may be made with confidence on the basis of the theory of probability, but inferences respecting unknown populations based upon observed samples of them, can only be expressed in terms of probability if some such assumption can be made.
+The common sense difficulty, which lies at the root of the matter, is the difficulty of defining the population of "events in general." Mr. Pearson has chosen no less than 12,448 different events, and observed the frequency of occurrence of each in two samples of 20 and 15 respectively. The result shows that the probabilities of the events chosen by Mr. Pearson are not equally distributed between 0 and 1, but this result will scarcely daunt the supporters of "Bayes' Theorem" who could easily supplement Mr.. Pearson's collection by a number of suitably chosen new events, and so rectify the inequality, while it will cause no undue elation to those who deny that the assumpt ion is justified, for they claim that the distribution is bound to depend upon the choice made, and that the population of events in general has no definable objective reality.
+The pairs of samples observed by Mr. Pearson have, however, another interest. They constitute the large number of 12,448 fourfold tables observed under approximately random sampling conditions Now for some years it has been disputed in what manner a certain quantity, X2, calculable from a fourfold table, is distributed by the chances of random sampling. Professor Pearson originally took the view, which more recently he has stoutly defended, that the distribution was such that the average value must be 3, while the writer in 1922 (J.R.S.S., LXXFV, pp. 87-94) put forward what he regarded as a corrected distribution, having an average of only 1. Although the writer considers that the point can be settled rigorously by purely-
+
+BAYES' THEOREM AND THE FOUIR-POLD TABLE. 88
+
+mathematical methods, and although Mr. Yule has carried out extensive experiments, which completely confirm his results, yet as the point is still disputed, it is worth while to see what the actual
+average value of X2 is in the large group of fourfold tables here presented.
+Divided according to the number of successes in the two samples combined (for in the 780 cases where neither samples scored a success the value of X2 is indeterminate) we find
+
+INumber of successes 1 2 3 4 5 6 7 8
+
+9
+
+Number of 768 tables
+
+821
+
+779
+
+792
+
+769 739 727 694
+
+630
+
+Total X2 782'10 834C08 768*82 77286 807*92775'74740'8569721 562*88
+
+Average 1*018411-0159 '9869 *9758 1'0506.1-0497,1*0190 l0046 *8926
+
+Number of successes 10 11 12 13 14 15 16 17 Total.
+
+Number of tables 643 670 682 668 616 568 524 | 578 11668
+Total X2 598*09 39'87 -706634B -06 603'26 61811526-52599- 24 11668'12
+
+Average '9302 '9550 1 - 0368 '9492 '97931'0*9882 1 - 0048 1 0867 1' 00001
+
+In every case the average value is near to 1, in no case is it near to 3. The general average of nearly 12,000 values is embarrassingly close to unity. This extremely close agreement must be due to chance, for in a sample of only 12,000 we should expect to be inexact in the second decimal place of the average. Moreover, the problem was discussed both by Prof. Pearson and myself from the point of view of tables containing a large number of entries; in these cases the tables only contained 35 entries, and an exact discussion would show that the average value of X2 should exceed unity by one part in 34. The mean to be expected is thus 1.02941 with a standard error of only .01276. The mean value from E. S. Pearson's sample is thus lower than expectation by a very small, but statistically significant amount; showing that the conditions of independent random sampling, though very nearly, were not exactly realised.
+It is hoped that this example will remove all doubts as to the correct treatment of the fourfold table, and of other applications of the X2 test.
+
+

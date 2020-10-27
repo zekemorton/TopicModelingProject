@@ -1,0 +1,916 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Family networks in prenatal and postnatal health
+Lynne M. Casper & Dennis P. Hogan
+To cite this article: Lynne M. Casper & Dennis P. Hogan (1990) Family networks in prenatal and postnatal health, Social Biology, 37:1-2, 84-101, DOI: 10.1080/19485565.1990.9988749 To link to this article: http://dx.doi.org/10.1080/19485565.1990.9988749
+Published online: 23 Aug 2010. Submit your article to this journal Article views: 9 View related articles Citing articles: 2 View citing articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:43
+
+Family Networks in Prenatal and Postnatal Health
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Lynne M. Casper and Dennis P. Hogan
+Department of Sociology and Population Issues and Research Center Institute for Policy Research and Evaluation Pennsylvania State University University Park, Pennsylvania
+
+ABSTRACT This paper examines the effects of kin access on prenatal health practices, birth outcome, and postnatal health practice for infants born to black and white mothers ages 21 to 28 in the U.S. during 1984-86. The data used for this research were compiled from three sources: (1) The National Longitudinal Survey of Youth; (2) The Children of the National Longitudinal Survey of Youth; (3) special kin access data files, which were created specifically for this study. Logistic regression procedures are used to assess the effects of kin proximity, maternal grandmother proximity, and presence of the child's father on health practices (N = 1,030) and birth outcome (N = 1,385), controlling for the mother's educational attainment, work experience, poverty, presence of the child's father, and birth order of the child. We find no evidence supporting the notion that kin access positively affects the prenatal and postnatal health practices of young mothers. The results suggest that young mothers who reside with their mothers or other adult kin, and those who are in close proximity to them, are no more likely to seek prenatal care during the first trimester, or to avoid smoking or drinking during pregnancy. Mothers who live with a sexual partner or husband are, however, somewhat more likely to seek prenatal care and to avoid alcohol use during pregnancy. Closer kin access is associated with a lower probability of breastfeeding. These results suggest that it will not be adequate to rely on kin networks or kin assistance to improve the prospect of healthy birth outcomes.
+
+Prior studies investigating the effects of kin support and other family factors on healthy birth outcomes have concentrated largely on prenatal care. There are, however, many prenatal and postnatal indicators which relate to healthy birth outcomes. These indicators include cigarette smoking and alcohol consumption during the pregnancy, the timing of prenatal health care, birthweight, and breastfeeding. In this paper we examine the influence of kin access and other family factors on these different indicators of healthy birth outcomes.
+A substantial literature suggests that timely prenatal care and the changes in health practices it may induce are im-
+
+portant for healthy birth outcomes (Shadish and Reis, 1984; Institute of Medicine, 1985; Singh et al., 1985). In fact, for those women most likely to experience high-risk pregnancies, the quantity and quality of care may be critical in promoting a healthy birth outcome (Smiley et al., 1972; Habicht et al., 1974). High-risk mothers include those who are poorly educated, unmarried, young at the time of conception, and those of lower income backgrounds. Such high-risk mothers are disproportionately black. It has been shown that complications of pregnancy are more likely to occur after women receive late prenatal care (the third trimester of pregnancy) or no prenatal
+
+84
+
+Vol. 37, No. 1-2
+
+Family Networks
+
+85
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+care at all (Kessel et al., 1984). Also, Gortmaker (1979) found that prenatal care is associated with higher birthweight which in turn is related to a lower risk of infant death.
+In light of these researchfindings,the Surgeon General has called for an increase to 90 per cent by 1990 in the proportion of women receiving care within their first trimester (Golden et al., 1984). Also, the American College of Obstetricians and Gynecologists has recommended a total of 15 prenatal visits over the course of a pregnancy (American College of Obstetricians and Gynecologists, 1982).
+Although the proportion of minority women and adolescents seeking prenatal care increased during the past decade, it remains substantially lower than the national average. In 1986, only 76 per cent of all women experiencing live births received prenatal care during their first trimester (National Center for Health Statistics, 1988). This figure was even lower for blacks, of whom about 60 per cent received such care.
+In addition, using the guidelines established by the American College of Obstetricians and Gynecologists, we find that in 1986 only 14 per cent of all women experiencing live births made 15 or more visits for prenatal care. For blacks, only 11 per cent made the recommended number of visits. Adolescents are also less likely to receive adequate care. For those under 19 years of age, only 10per cent of white girls and 8 per cent of black girls made the recommended number of prenatal visits (National Center for Health Statistics, 1988). Other 'research has shown that young women, those of low income backgrounds, minorities, those who are unmarried, and those having completed less than a high-school education are at
+
+significantly increased risk of obtaining inadequate prenatal care (Singh et al., 1985). Thus, those groups of women at the greatest risk of experiencing complicated pregnancies are exactly the ones least likely to receive adequate prenatal care.
+Two causes have been hypothesized as contributing to the unequal distribution of prenatal care. Gortmaker (1979) suggests that inadequacies of the medical and welfare systems may be in large part responsible. Other evidence suggests that women of these particular backgrounds are less well integrated into society, as indicated by their sparse interactions with organizations, institutions, and agencies. Thus, they may possess fewer skills and less knowledge in seeking prenatal care services. Regardless of the explanation one chooses, the end result is that these women are not receiving adequate prenatal care.
+There is research, however, which suggests that kin and friends may be able to provide advice and support to these women. It is thought that these support networks may at least partially compensate for the lack of effective social integration and the inadequacies of the welfare and medical systems. In general, kinship and friendship networks have been found to affect an individual's definition of, and response to, illnesses or life crises (Zola, 1964; Suchman, 1965). More specifically, it has been shown that people involved in strong social networks are more likely to engage in preventive health behavior and to receive more direct psychological support (see summaries and critiques of this literature in Levin and Idler, 1981; Alcalay, 1983; and Berkman, 1984).
+Kin support may be especially critical for prenatal and postnatal care among young, unmarried, and black women
+
+86
+
+Casper andHogan
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+having a child. Although no research has specifically studied the relationship between kin support and prenatal health practices such as smoking and alcohol consumption, some studies have examined the effects of kin support on the use of professional prenatal care and on the likelihood of breastfeeding. It has been shown that mothers neglect such care not only when they are poor and less well educated, but also when they are socially isolated from spouses, parents, and friends (Morris, 1966a,6). Causes range from the simple inability to find time to go to a clinicwhen forced to tend house by oneself (Smiley et al., 1972), to the greater emotional support pregnant mothers receive when others are at hand (Berkman, 1984).
+In another study, McKinlay (1973) has shown that given the existence of kin networks, the degree of social integration determines, in part, the form of the kin network and whether or not a woman seeks prenatal care. The study shows that those women who are relatively independent and well-integrated into society tend to be utilizers of prenatal care; they also have networks which are more heavily constructed around friendships, but need not rely on these for health care advice. Women who are not well integrated into society tend not to be utilizers of prenatal care; they are more likely to structure their networks around relatives. These women tend to rely on relatives as lay health care consultants.
+Such advice from friends and relatives may not, however, adequately replace professional care. Although McKinlay (1973) found that those women who were less effectively integrated into society via institutions were more likely to rely on kin for advice, he also found that this advice did not necessarily lead
+
+to better prenatal and postnatal health practices. He reasoned that this was because consulting with friends and kin may substitute for professional care rather than complement it.
+Evidence regarding how kin support affects breastfeeding is mixed (see review of this literature in McCann et al., 1981). Several studies have shown that when adult relatives are present, mothers are more likely to breastfeed. Many explanations have been offered in support of this finding. Some studies have shown that women kin who have breastfed provide advice and guidance to the new mother, thereby alleviating possible anxieties associated with breastfeeding. Some studies suggest that adult members of the household, by taking responsibility for domestic chores, free the new mother to breastfeed.
+Other studies have shown that to the contrary, kin presence in the household can reduce the likelihood of breastfeeding (McCann et al., 1981). Here it is argued that the presence of other kin provides the new mother with an additional incentive to forego breastfeeding because there are others available to feed the baby.
+Although no studies have been done regarding the effects of kin support on the smoking and drinking behaviors of pregnant women, Berkman (1984) suggests that individuals in a network frequently feel constrained to behave like other network members. In the case of pregnant women, this could be interpreted to mean that if someone in the woman's network smokes cigarettes or drinks alcohol, the woman may engage in like behavior simply to maintain her group identity. Alternatively, kin who do not smoke or drink alcohol may be more successful at imposing those be-
+
+Vol. 37,No. 1-2
+
+Family Networks
+
+87
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+haviors on young women during pregnancy, where such behaviors are viewed as especially hazardous.
+Other studies point to the overall importance of birthweight in assessing the health of a newborn. Cigarette smoking, alcohol consumption, use of prenatal care, and nutrition have all been linked to infant birthweight. Although no studies have specifically studied this relationship, in as much as kin networks influence these habits, they will have an impact on infant birthweight.
+Thus, while some studies have found kin support to be positively related to prenatal health practices and breastfeeding, others have found the opposite to be true. Many of the studies of the effects of kin support networks on prenatal care and breastfeeding have been based on small and possibly unrepresentative population samples. Often these studies are limited to investigating effects as they pertain to one ethnic group or to single mothers. Many times, comparisons are made to an "idealized" intact white family, rather than to families as they actually exist.
+Most of these studies did attempt to take into account the effects of some of the background and control factors, either by matching comparison groups on key socioeconomic and race attributes or by statistical manipulations. But none of these studies adequately specified all of the socioeconomic and sociodemographic factors which are considered to be important, such as race, educational attainment, income, household structure, birth order, labor force participation and age of mother at birth, even though these factors are known to be related to prenatal care and preventive health behaviors.
+In addition, there is no one study which has been concerned with the rela-
+
+tionship between kin and the wide spectrum of prenatal and postnatal behaviors that relate to healthy birth outcomes. Although professional prenatal care and breastfeeding are indeed important, they are not the only practices which significantly affect birth outcomes and the subsequent health of the child. Other factors of importance include alcohol use and smoking behavior. In addition, although the child's birthweight is not a prenatal or postnatal health practice per se, it is an important indicator of a healthy birth outcome, and as such, we include it in this study.
+MATERIALS AND METHODS
+STUDY DESIGN
+The study design we employ to examine the effects of kin support on prenatal health care, and on prenatal and postnatal health practices, is constructed to eliminate many of the problematic aspects of previous research. First, we use longitudinal data from a nationally representative sample, with oversamples of young women in critical population subgroups. These sampling characteristics provide for generalizable results and permit the examination of the subgroups in which we are most interested. In addition, the longitudinal aspects of the data make it possible to specify the correct timing of the independent variables. Second, the survey data provide much more extensive information on education, income, and prenatal and postnatal health practices than were available in previous studies. The availability of such data enables us to specify models which adequately control for the relevant background variables and which examine the various aspects of prenatal and postnatal health practices and child's birthweight that relate to a
+
+88
+
+Casper and Hogan
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+healthy birth outcome. Finally, the longitudinal design of the study lets us examine prenatal behaviors surrounding individual pregnancies as they occur, as opposed to examining them retrospectively.
+HYPOTHESES
+Findings in the majority of studies we reviewed suggest a positive relationship between kin support, prenatal care, and positive health practices in general. We will also incorporate prenatal and postnatal health practices and will postulate that kin support will have a positive impact on these factors.
+Furthermore, we expect that the probability of a child's mother practicing healthy behavior while pregnant will be affected by many socioeconomic and sociodemographic factors. It is likely that such behavior will be affected by the child's race, the economic status of the household in which the child resides, maternal educational attainment, maternal labor force participation, the birth order of the child, the presence of a spouse or partner of the mother in the household, and the age of the mother at birth of the child. Specifically, we expect to find the probability of risky prenatal behavior to be highest among mothers who are less highly educated, younger, and who do not have a partner or spouse in their household. Similarly, we expect that children who are black, reside in low income households, and are first born will have a mother who was more likely to exhibit risky behavior while pregnant.
+Finally, we expect the mother's labor force participation to have an impact on prenatal health practices. It may be that working mothers, because they have more contact with individuals who can influence their behavior, or because
+
+they are more likely to have health insurance and thus to get prenatal care, are more likely to have healthy prenatal and postnatal practices. However, it could also be that these women associate with others who encourage risky behavior. We therefore wish to control for this variable without providing any specific hypothesis. When examining breastfeeding, however, we expect maternal labor force participation to have a negative effect because working women are less likely to have the flexible time that breastfeeding requires.
+DATA
+For our research we compiled a data set from three sources: (1) the National Longitudinal Survey of Youth (hereafter, NLSY); (2) the Children of the National Longitudinal Survey of Youth (hereafter, the Children of NLSY); and (3) special kin-access data files, which were created specifically for this study. Data from the three sources are matched across mothers to provide social and demographic background information and characteristics of the women during their pregnancies, on the birth outcome and postnatal care, and on access of the mother to kin.
+The NLSY data is based on a nationally representative sample of young women aged 14-21 in 1979 in the United States. The study design provided for oversamples of blacks and economically disadvantaged women who typically have higher rates of premarital parenthood and mother-headed families. These women were interviewed annually from 1979 to the present. Approximately 5,500 women, or 92 per cent of the original sample, ranging in age from 21 to 28 remained in the sample as of 1986. Of these women, 2,922 had given birth to a total of 5,876 children.
+
+Vol. 37, No. 1-2
+
+Family Networks
+
+89
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+In 1986, each child of the NLSY women respondents was studied, with information about each child provided by its mother and obtained from observation of the child by trained interviewers. The child data were merged with selected information collected about the mothers in the 1979-86 NLSY. The resulting Children-of-NLSY data file includes about 3,000 variables with information on each child's mother's marital and fertility history, family background, family employment history, household composition, prenatal and postnatal care, and assessments of cognitive, emotional, and physical development.
+These data, when weighted, can be thought of as representing a crosssection of the birth experiences of a nationally representative sample of women who were between the ages of 21 and 28 on January 1, 1986. It may be said that the childbearing experiences in the sample typify the first 40 per cent of average childbearing to a contemporary cohort of American women (Center for Human Resource Research, 1988).
+Although the Children-of-NLSY file includes data on the household composition of children during infancy, it does not provide information on access to kin who are not coresident. Therefore, we constructed our own data file which provides the necessary information on the geographic location of the coresident and the closest non-coresident adult kin of the mother and her child.
+The "kin-access" file was created from previously unused machine readable data, gathered in 1983, 1984, and 1985, that permit the indirect reconstruction of residential proximity data. Each year the NLSY interviewers asked a series of questions (found in the survey locator sheets) designed to enable NORC (the survey organization collect-
+
+ing the NLSY data) to find respondents who moved between interview rounds. The interviewer first ascertained the correctness of the respondent's name, address, and telephone number, the permanent address of respondents living in dormitories, hospitals, or other temporary quarters, and the name and address of a spouse who lived apart. The interviewer then asked for the name, address, and phone number of other people likely to know where the respondent could be reached. These included both parents, two other relatives with whom they were in close touch, and two friends with whom they were in touch frequently. This information is provided in eight datafields.
+Since the data are alphanumeric and involve confidential respondent information, they cannot be directly used for research purposes. Working with the NORC survey staff and computer programmers, we developed procedures for coding these data into usable information on kin and friend access. For each of the eight datafields,we obtained four variables: (a)the relationship of the person comparing the respondent and the person named in regard to (b) city and state, (c) zip code, and (d) telephone number. We used this information in conjunction with the data on coresidential living arrangements from the household-roster component of the survey to develop measures of access to kin.
+The resultant data set contains information on social and demographic situations of women during their pregnancies and at the birth of their children, the access of the mother to key kin during these critical periods, and on prenatal and postnatal health for the 5,876 births that had occurred to the 2,922 mothers interviewed in the 1986 NLSY.
+
+90
+
+Casper and Hogan
+
+SocialBiology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+STUDY POPULATION
+Our research focuses on black and on nonblack non-Hispanic children (hereafter referred to as "whites") who were born in 1984,1985, and 1986. We select only those children born subsequent to the 1984 interview because kin access information for the prenatal period was available for these births. Because one of our dependent variables (breastfeeding) requires the mother and child to be in the same household after the birth of the child, we elected to focus only on the births in which the children resided with their mothers at least during the year after they were bom. The subsamples on which our analyses are based include 1,030 children born to 971 mothers for those models referring to prenatal health practices and 1,385 children born to 1,226 mothers for the model examining breastfeeding. Because it was necessary to insure the temporal appropriateness of the kin proximity variables, these samples resulted in the inclusion of different cases. In addition, it should be noted that this sample of births includes some siblings, resulting in the slightly larger number of births than mothers. Therefore, caution should be exercised in generalizing these results.
+OUTCOME VARIABLES
+We measure prenatal and postnatal health practices in a variety of ways. The literature suggests that professional prenatal care is important for healthy birth outcomes (Shadish and Reis, 1984). Other literature indicates that for prenatal care to be the most effective in promoting healthy birth outcomes, it should be initiated within the first trimester. (American College of Obstetricians and Gynecologists, 1982). Therefore, we use a dichotomous variable to
+
+indicate whether prenatal care was obtained in the first trimester.
+Research also shows that risky behavior during pregnancy can have adverse effects on the development of the fetus. The Surgeon General has warned that smoking slows fetal growth, doubles the chance of having a lowbirthweight baby, and increases the risk of stillbirth. Studies also indicate that babies of mothers who drink large quantities of alcohol may suffer from low birthweight, birth defects, mental retardation, and patterns of abnormalities called fetal alcohol syndrome (Office of the Assistant Secretary for Health and the Surgeon General, 1979). Based on the questions asked, the coding of the data collected, and the distribution of responses, dichotomous variables were constructed for these two indicators. Risky drinking behavior is defined as the consumption of alcohol more than three days a month; any amount of regular cigarette smoking is defined as risky behavior.
+Research suggests that low birthweight is associated with, and may be a causal factor for, neonatal mortality, postneonatal mortality, hospitalizations during infancy, and serious illnesses (Jackel et al., 1975; Institute of Medicine, 1985). Babies who weigh less than 5.5 pounds at birth are considered to be of low birthweight. In this study, a dichotomous variable is used to indicate whether the child was a low-birthweight infant.
+The last health practice we will consider is breastfeeding. Studies have shown that breastfeeding is the best form of nutrition for an infant (McCann et al., 1981). In addition, breast milk provides immunological protection against diarrhea and respiratory disease. Here, we use a dichotomous varia-
+
+Vol. 37,No. 1-2
+
+FamilyNetworks
+
+91
+
+ble to indicate whether a child was ever breastfed,
+,. v .
+MEASURES OF KIN ACCESS
+Ethnographic research has shown that kin access isan essentialcomponent of kin support networks. It has been shown that nearby kin may provide daily support and advice to pregnant
+
+mothers insofar as distance is a key determinant of certain types of support which require personal interaction (Klatzky, 1972; Wilkening et al., 1972;
+>,, , : ' ~ ' , . __ ° T ' . n '
+Clark and Gordon, 1979; Lee, 1980; Litwak, 1981). We therefore use two measures of kin proximity and a third measure which indicatesfatherproximity (see Table 1 for the coding of variables and their means).
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE 1
+CODING AND MEANS OF VARIABLES USED IN LOGISTIC REGRESSIONS'1
+
+VARIABLES
+Dependent variables Prenatal outcomes Early prenatal care sought Early prenatal care not sought
+Did not smoke during pregnancy . . . . Smoked during pregnancy
+Alcohol not used during pregnancy .. Alcohol used during pregnancy Postnatal outcomes Birthweight of child greater than or
+equal to 5.5 pounds Birthweight of child less than 5.5
+pounds
+Child breastfed Child not breastfed
+
+=1 =0 =1 =0 =1 =0
+=1
+=0 =1 =0
+
+PRENATAL MODELS
+
+Mean
+
+N
+
+QWfà '
+,, -., '
+,, ,,.. '
+
+77<* 194
+656 360
+931 .88
+
+nQ1···
+
+918
+87 ... ...
+
+POSTNATAL MODELS
+
+Mean
+
+N
+
+'-' ' '·'
+n .._
+U-W
+
+... ... ... ... ...
+...
+... 610 754
+
+Independent variables
+
+Grandmother proximity (4 dummy variables)
+
+Grandmother in household
+
+=1
+
+Grandmother not in household
+
+=0
+
+Grandmother in neighborhood
+
+=1
+
+Grandmother not in neighborhood . . = 0
+
+Grandmother within 50 miles
+
+=1
+
+Grandmother not within 50 miles . . . = 0
+
+Missing data on grandmother proximity
+No missing data on grandmother proximity
+
+=1 =0
+
+Grandmother further away Kin proximity (4 dummy variables)
+Kin in same household Kin not in same household
+
+= ref.
+=1 =0
+
+Kin in same neighborhood Kin not in same neighborhood
+
+=1 =0
+
+,, ,.. v' 3 n 7,n U-Z:SU n -,. U-ZJ4
+021g
+...
+n,1Q
+uzly
+,, ,..
+UMl
+
+159 871 237 793 241 789
+225
+805 ...
+226 804 351 679
+
+n -.,
+0 -,U'/JZ
+,, _,_ U"Z:)Z
+
+202 1,183
+322 1,063
+322 1,063
+
+Q232
+
+321
+
+1,064 ... ...
+
+,,-,,,, ft... u""1
+
+288 1,097
+486 899
+(continued)
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+92
+
+Casper and Hogan
+
+Social Biology
+
+TABLE 1 (continued)
+CODING AND MEANS OF VARIABLES USED IN LOGISTIC REGRESSIONS"
+
+VARIABLES
+
+Kin within 50 miles Kin not within 50 miles
+
+Missing data on kin proximity No missing data on kin proximity . . .
+
+Kinfurther away
+
+,
+
+=1 =0
+=1 =0
+=ief.
+
+PRENATAL MODELS
+
+Mean
+
+N
+
+,,..,
+,, 1fU
+UUH
+...
+
+250 780
+107 923
+...
+
+POSTNATAL MODELS
+
+Mean
+
+N
+
+n .,,
+ft . ,, , u'lu ...
+
+322 1,063
+147 1,238
+...
+
+Spouse proximity
+
+Spouse or partner of mother present
+
+in household
+
+=1 ,, ,,..
+
+578
+
+Q~«Q
+
+416
+
+Spouse or partner of mother not
+
+present in household
+
+=0
+
+452
+
+969
+
+Control variables Mother graduated from high school . . . Mother did not graduate from high school
+
+=1 =0
+
+Mother worked during/after pregnancy Mother did not work during/after
+pregnancy
+
+=1 =0
+
+Race of child: black
+
+=1
+
+Race of child: nonblack, non-Hispanic . =1
+
+Birth order: 1st Birth order: 2nd or higher
+
+=1 =0
+
+Not in poverty/missing In poverty
+
+=1 =0
+
+Age of mother at birth of child
+
+= cont.
+
+"Standard deviations for continuous variables in parentheses.
+
+Q794
+QfâS)
+n ,,. u"^ n.17 u'41/
+24.190 (2.357)
+
+8**
+209 6^7
+351 334 696 429 601 669 361 1,030
+
+0 782
+0 488
+,, ,,,'^
+n M, ^ ,,m
+23.632 (2.344
+
+1>07^
+299 ^
+701 464 921 617 768 969 416 385
+
+The first measure is a set of dummy variables which indicates the geographic location of the child's maternal grandmother. For this measure, we have constructed four dummy variables for five categories: grandmother in the household, grandmother in the neighborhood, grandmother within 50 miles, missing data on grandmother proximity, and grandmother farther than 50 miles away (omitted reference category). The second measure of kin access indicates the closest geographic access to any of the child's adult kin including the maternal grandmother. The construction of
+
+this variable parallels that of the grandmother proximity measure, but takes into account other adult kin as well. Father's proximity is measured by a dichotomous variable indicating the presence or absence of the spouse or partner of the mother (whom we infer to be the father of the infant) in the same household.
+CONTROL VARIABLES
+There are several factors which have been shown to relate to the likelihood of practicing healthy prenatal and postnatal behavior. They include race of the
+
+Vol. 37, No. 1-2
+
+Family Networks
+
+93
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+child, mother's educational attainment, birth order of the child, mother's labor force participation, the mother's age at the birth of the child, and household income. Most of these variables have been coded as dichotomous with the exception of the mother's age at the birth of the child, which is a continuous variable measuring the mother's age in years. Mother's educational attainment is measured by whether or not she graduated from high school. Her labor force participation is measured, for the prenatal outcomes, by whether or not she worked when she was pregnant, or, for the postnatal outcome (breastfeeding), by whether or not she worked in the nine months following the birth of her child. Race of the child is indicated by whether the child is black or white. Birth order is defined as whether the child is the first born or a higher order birth. Although we could have used household income as a continuous variable we chose to clearly distinguish the most severely disadvantaged households, that is, those which fall below the federallydefined poverty line. We use a dichotomous variable to indicate whether or not a household is in poverty.
+
+both during their pregnancies and directly after the birth of their children. In about 40per cent of the cases, the child's grandmother resided in either the same household as the child's mother or within the same neighborhood. In over half of the cases, a child's mother was either living with an adult relative (other than her spouse), or was residing in the same neighborhood.
+In general, the results corresponding to access to the father are not so favorable. Table 1shows that only a little over one-half of the mothers had a spouse or partner living with them while they were pregnant. However, over two-thirds of these women were living with a partner or spouse after the birth of the child.
+Table 1 shows that a majority of the women in the sample were practicing healthy prenatal behaviors. Eighty per cent of the women sought early prenatal care. Two-thirds did not smoke and 91 per cent did not drink while they were pregnant. Ninety-one per cent of these women gave birth to a child who weighed over 5.5 pounds. However, only 45 per cent of the infants were breastfed.
+
+Special precaution was taken to ensure that the timing of the independent variables corresponded to that of the dependent variables. We measured spouse or partner's presence in the household, kin and grandmother proximity, and poverty status during the mother's pregnancy, for the prenatal health variables. For breastfeeding, the only postnatal health indicator, these variables were measured after the birth of the child, corresponding to the time the child would be most likely to be breastfeeding.
+As can be seen in Table 1, most of the women had easy access to their mothers
+
+METHODS
+This research investigates the effects of kin access on the prenatal and postnatal health practices described in the previous section while simultaneously controlling for the various socioeconomic and sociodemographic factors known to be related to these behaviors. Due to the dichotomous nature of the dependent variables, we employ logistic regression as our method of analysis. For each dependent variable, we will have two models, one for each of the measures of kin access. The first model incorporates the measure of kin access which indi-
+
+94
+
+Casper and Hogan
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE2
+LOGISTIC REGRESSION RESULTS DESCRIBING THE EFFECTS OF KIN ACCESS ON SEEKING PRENATAL CARE IN FIRST TRIMESTER"
+
+VARIABLES
+Constant Grandmother Proximity
+Grandmother in same household Grandmother in same neighborhood Grandmother within 50miles Missing data on grandmother proximity .. Grandmother further away Kin proximity Kin in same household Kin in same neighborhood Kin within 50 miles Missing data on kin proximity Kin further away Spouse or partner of mother in household Age of mother at birth of child Mother's education Mother worked during pregnancy Race of child Birth order of child Poverty status Missing data on poverty status
+Degrees of freedom . - 2 (log likelihood X2) (-21ogL.R.)P
+«N = 952. Standard errors in parentheses. bP < 0.05. CP < 0.01.
+
+MODEL 1
+Grandmother Proximity
+-0.261 (0.967)
+0.292 (0.312) 0.105 (0.271) 0.449 (0.283) 0.071 (0.274)
+
+MODEL 2
+Kin Proximity
+-0.303 (1.002)
+
+0.631 (0.202)c 0.019 (0.038) 0.670 (0.213)i -0.139 (0.197) 0.064 (0.213) 0.004 (0.194) 0.125 (0.220) -0.184 (0.325)
+13 42.28 0.000
+
+0.448 (0.336) 0.364 (0.302) 0.776 (0.329)4 0.302 (0.373)
+
+0.610 0.012 0.665 -0.160 0.064 0.018 0.167 -0.216
+
+(0.202)' (0.039) (0.212)c (0.197) (0.216) (0.195) (0.220) (0.327)
+
+13 45.10 0.000
+
+cates geographic proximity of the child's maternal grandmother. The other model examines the effects of the closest proximity to any kin on prenatal and postnatal health practices. '
+RESULTS
+PRENATAL CARE
+Net of all other effects, grandmother proximity does not affect the likelihood that a pregnant woman will seek prenatal care within the first trimester of her pregnancy (see Model 1, Table 2). This relationship holds true regardless of the geographic location of the grandmother
+
+relative to the child. Anomalously, having the closest kin live outside of the mother's neighborhood, but withinfifty miles, is associated with a higher likelihood that the mother obtained prenatal care, relative to those mothers whose closest kin live farther away (p < 0.05). While statistically significant, this may be a chance outcome; closer kin access is not associated with improved use of prenatal care.
+The presence of a spouse or partner of the mother in the household is significantly related to the probability that a woman will seek prenatal care. Specifically, if there is a father in the household, a child's mother is much more
+
+Vol. 37, No. 1-2
+
+Family Networks
+
+95
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+likely to have received prenatal care within the first trimester (p < 0.01).
+There is but one other factor which is related to the use of prenatal care. As was hypothesized, mother's education is positively related to the probability of obtaining adequate prenatal care (see Models 1 and 2 of Table 2); that is, women who are more adequately educated are more likely to receive prenatal care within the first trimester of their pregnancy.
+ALCOHOL USE AND CIGARETTE SMOKING
+The results of the logistic regression models relating the effects of kin proximity to alcohol consumption and smoking are displayed in Table 3. Neither kin access nor grandmother proximity appear to have an influence on smoking or drinking during pregnancy.
+Our third measure of kin access, whether or not the father is present in the household, is significantly related to the probability that a woman will not use alcohol while pregnant (p < 0.05). Controlling for the effects of the other variables in the model, the presence of a spouse or partner of the mother in the household of the child is positively related to the probability that the mother did not consume alcohol while pregnant. The models in Panel A also indicate that the mothers of those children who are not in poverty are also significantly less likely to drink during their pregnancies (p < 0.05).
+The geographic proximity of the grandmother to the child has no significant influence on the probability that the mother did not smoke while she was pregnant. Kin access and father proximity are similarly irrelevant to the mother's smoking practices during pregnancy (see Panel B).
+
+Controlling for the other variables in the model, mothers of black children and better-educated mothers are more likely to abstain from smoking while pregnant. Women in poverty were much more likely to smoke during their pregnancies than were mothers with adequate incomes.
+CHILD'S BIRTHWEIGHT
+Factors affecting birthweight outcomes have not been well specified as evidenced by the poor fit of the models (p =0.221) (see Table 4). Whether an infant is born at an adequate birthweight is not affected by grandmother, kin, or father proximity. Children born to mothers who are not in poverty are much more likely to have normal birthweights than children of poor mothers. No other social or demographic variables in these models affect the likelihood of an adequate birthweight.
+BREASTFEEDING
+Breastfeeding is the only outcome variable for which grandmother and kin proximity have any consistent effect. Contrary to our hypotheses, however, the closer the grandmother or other relative is to the child, the less likely the mother is to breastfeed (Table 5). The father's presence in the household does not appear to change the probability that a mother will breastfeed.
+As predicted, net of all other effects, older mothers are more likely to breastfeed. Mothers who have graduated from high school are more likely to breastfeed, but breastfeeding does not differ between mothers in poverty and mothers with adequate incomes. White children are more likely to be breastfed than are black children, net of all other effects. Finally, those children who are the
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE3
+LOGISTIC REGRESSION RESULTS DESCRIBING THE EFFECTS OF KIN ACCESS ON HEALTH PRACTICES DURING PREGNANCY
+
+VARIABLES
+Constant Grandmother proximity
+Grandmother in same household Grandmother in same neighborhood Grandmother within 50 miles Missing data on grandmother proximity Grandmother further away Kin proximity Kin in same household Kin in same neighborhood Kin within 50 miles Missing data on kin proximity Kin further away Spouse or partner of mother in household Age of mother at birth of child Mother's education Mother worked during pregnancy Race of child Birth order of child Poverty status Missing data on poverty status
+Degrees of freedom - 2 (log likelihood X2) (-21ogL.R.)P
+"N = 1,001. Standard errors in parentheses. bN = 998. Standard errors in parentheses. CP < 0.05. dP < 0.01. 'P < 0.001
+
+No ALCOHOL USE"
+
+Modell
+
+Model 2
+
+Grandmother Proximity
+
+Kin Proximity
+
+Ü 9 7 (1.331)
+
+2.602 (1.381)
+
+0.707 (0.401) 0.653 (0.352 0.336 (0.332)
+1.161 lo.4O8Y ...
+
+... ... ... ... ... 0.665 (0.280)c -0.060 (0.053) -0.185 (0.313) --0.045 (0.267)
+0.021 (0.296) 0.152 (0.268) 0.621 (0.295)c 1.787 (1.032)
+
+0.617 (0.441) 0.628 (0.397) 0.315 (0.397) 1.685 (0.685)'
+
+0.670
+-0.063 -0.205 -0.056 0.090 0.192 0.669
+1.667
+
+(0.282)c (0.054) (0.314) (0.264) (0.298) (0.269)
+(0.297)'
+(1.032)
+
+13 34.91
+0.000
+
+13 33.71 0.001
+
+No CIGARETTE SMOKING*
+
+Model 1
+
+Model 2
+
+Grandmother Proximity
+
+Kin Proximity
+
+-0.925 (0.810)
+
+-0.838 (0.838)
+
+-0.082 -0.032
+0.257 0.035
+
+(0.275) (0.225) (0.226) (0.228)
+
+0.289 -0.004 0.753 -0.071
+1.138 0.191 0.618 -0.239
+
+(0.172) (0.032) (0.183)' (0.162) (0.194)'
+(0.160) (0.184)' (0.288)
+
+13 89.07
+0.000
+
+-0.023 0.085
+0.318 0.118
+
+(0.294) (0.259)
+(0.271) (0.322)
+
+0.281 -0.010 0.743
+-0.080 1.139 0.192
+0.650 -0.240
+
+(0.171) (0.033) (0.183)' (0.162) (0.195)' (0.160) (0.185)' (0.289)
+
+13
+89.08 0.000
+
+a. X
+
+Vol. 37, No. 1-2
+
+Family Networks
+
+97
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE4
+LOGISTIC REGRESSION RESULTS DESCRIBING THE EFFECTS OF KIN ACCESS ON CHILD'S BIRTHWEIGHT"
+
+VARIABLES
+Constant Grandmother Proximity
+Grandmother in same household Grandmother in same neighborhood Grandmother within 50 miles Missing data on grandmother proximity .. Grandmother further away Kin proximity Kin in same household Kin in same neighborhood Kin within 50 miles Missing data on kin proximity Kin further away Spouse or partner of mother in household Age of mother at birth of child Mother's education Mother worked during pregnancy Race of child Birth order of child Poverty status Missing data on poverty status
+
+MODEL 1
+Grandmother Proximity
+2.070 (1.336)
+-0.177 (0.415) 0.405 (0.374) 0.177 (0.360) 0.432 (0.383)
+
+MODEL 2
+Kin Proximity
+2.121 (1.390)
+
+-0.472 (0.291) -0.013 (0.053) 0.213 (0.294) 0.011 (0.263) -0.047 (0.291) -0.230 (0.261) 0.727 (0.294)" 0.099 (0.557)
+
+0.022 (0.445) 0.460 (0.404) 0.361 (0.418) 0.967 (0.585)
+-0.454 (0.289) -0.023 (0.054) 0.216 (0.294) 0.023 (0.263) -0.018 (0.292) -0.222 (0.262) 0.794 (0.298)c 0.065 (0.560)
+
+Degrees of freedom .. - 2 (log likelihood X2) (-21ogL.R.)P
+"N = 988. Standard errors inparentheses. bP < 0.05. CP < 0.01.
+
+13 16.55 0.221
+
+13 17.84 0.164
+
+first born are less likely to be breastfed than those of higher order births.
+OTHER MODELS
+We were puzzled by the seeming irrelevance of kin and grandmother proximity for prenatal and postnatal health practices and the contrary finding regarding breastfeeding. We reasoned that these results might possibly be masking some interactions among the key independent variables and the grandmother, kin, and father proximity variables. That is, we hypothesized that kin access might be most important for mothers with few socioeconomic resources. We therefore stratified the
+
+sample to examine the possible effects of kin support during pregnancy and after the child's birth within particular groups: (1) mothers whose households are in poverty versus those whose are not; (2) mothers who are single versus those who are married; and (3) mothers who are black and heads of households in poverty versus other black women giving birth. We then ran logisticregression models of the same form for these subsamples for all five of the prenatal and postnatal health practice variables. Results obtained were very similar to those found in the full models, however, and we do not present these resultshere.
+In addition, we reasoned that kin ac-
+
+98
+
+Casper and Hogan
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE5
+LOGISTIC REGRESSION RESULTS DESCRIBING THE EFFECTS OF KIN ACCESS ON BREASTFEEDING"
+
+VARIABLES
+Constant Grandmother Proximity
+Grandmother in same household Grandmother in same neighborhood Grandmother within 50 miles Missing data on grandmother proximity .. Grandmother further away Kin proximity Kin in same household Kin in same neighborhood Kin within 50 miles Missing data on kin proximity Kin further away Spouse or partner of mother in household Age of mother at birth of child Mother's education Mother worked dafter child's birth Race of child Birth order of child Poverty status Missing data on poverty status
+Degrees of freedom ., - 2 (log likelihood X2) (-21ogL.R.)P
+"N = 1,336. Standard errors in parentheses. bP < 0.05. 'P <0.01. 'P < 0.001.
+
+MODEL 1
+Grandmother Proximity
+-2.804 (0.707)'
+-0.699 (0.264)c -0.660 (0.198)'' -0.131 (0.193)
+0.007 (0.195)
+
+MODEL 2
+Kin Proximity -2.353 (0.734)c
+
+0.209 0.090 0.410 -0.008 -1.122 0.642 0.286 -0.306
+
+(0.179) (0.029)c
+(0.169)" (0.129)
+(0.166)'' (0.133)''
+(0.160) (0.272)
+
+13 273.47
+0.000
+
+-0.745 -0.755 0.024 -0.082
+
+(0.260)c (0.215)'' (0.226) (0.267)
+
+0.237 0.077 0.405 0.020 -1.146 0.602 0.281 -0.284
+
+(0.176) (0.029)c (0.170)» (0.131) (0.168)'' (0.134)'' (0.161) (0.274)
+
+13 285.80
+0.000
+
+cess might prove more beneficial to working mothers than to nonworking mothers with regard to breastfeeding. We therefore stratified our sample to examine the effects of kin access on breastfeeding for working mothers versus nonworking mothers. Our results were not unlike those obtained in the full sample: for both working and nonworking mothers, having kin in the household or in the neighborhood significantly decreases the likelihood of breastfeeding.
+In addition, we used the household composition data for years prior to 1983 to estimate the same set of models for births occurring to these women when they were younger (including their teen-
+
+age years), replacing the kin and grandmother access variables with measures indicating the presence or absence of adult males and females in the household (discounting, of course, the child's mother and her partner or spouse). We found no effect of kin and grandmother coresidence on the likelihood that a teenage mother will practice healthy prenatal and postnatal behaviors.
+CONCLUSIONS
+None of our investigations produced any evidence to lend credence to the notion that kin and grandmother networks, as indicated by geographic prox-
+
+Vol. 37,No. 1-2
+
+Family Networks
+
+99
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+imity, positively affect the prenatal and we specified a model which included the
+
+postnatal health practices of young effects of smoking, alcohol consump-
+
+mothers. In support of McKinlay'sfind- tion, and prenatal care on the birth-
+
+ings, our results suggest that pregnant weight of the child. Inclusion of these
+
+women who reside with their mothers or variables did not significantly alter the
+
+other adult kin, and those who are in findings, however, and the resultant
+
+close proximity to their kin, are no more model actually yielded a worse fit to the
+
+likely than other women to seek medical data. There still remains a remote possi-
+
+care during the first trimester of preg- bility that testing for the results of nutri-
+
+nancy, nor are they less likely to smoke tional intake might alter thesefindings
+
+or drink while pregnant. Contrary to our somewhat.
+
+hypothesis, better kin access is not associated with an adequate child birthweight. In fact, the only significant relationship between kin access and health practice was a negative one-- women with closer kin access are less likely to breastfeed their infants.
+
+The results pertaining to smoking and drinking behaviors can also be reinterpreted. Although we found no evidence of kin influence on these behaviors among pregnant women, it could be that these influences are dependent on the kin's own smoking and drinking
+
+Although these results were unexpected, we may speculate on some plausible explanations. In general, one may question the adequacy of the proximity
+
+habits as was suggested by Berkman (1984). To ascertain this relationship, one would need information pertaining to the smoking and drinking behaviors
+
+of geographic residence as an indicator of the kin in question. We have no such of kin support. The presence of kin in data and cannot, therefore, draw any the same house or neighborhood as the specific conclusions.
+
+pregnant woman or new mother does There may be various reasons for the
+
+not necessarily mean that there is inter- contrary findings regarding breastfeed-
+
+action between the woman and her kin. ing. It might be that a grandmother's
+
+Also, although there may be some form presence in the household is not posi-
+
+of interaction, there may be no support tively associated with breastfeeding be-
+
+offered in the areas of prenatal and post- cause she did not breastfeed and there-
+
+natal behaviors we have examined.
+
+fore, is unsupportive of her daughter
+
+Likewise, one may suggest alterna- doing so. This interpretation is similar to
+
+tive explanations for thefindingsregard- that offered by McCann et al. (1981).
+
+ing birthweight and smoking and drink- However, given that the same pattern is
+
+ing behaviors. As was mentioned, the present when examining proximity of
+
+model predicting birthweight was kin and persists even when stratifying by
+
+poorly specified. To maintain a parallel employment status, a more likely expla-
+
+between this model and the others in the nation is that the social taboo associated
+
+analysis, several of the factors known to with breastfeeding inhibits new mothers
+
+be related to birthweight such as smok- from doing so. A new mother may sim-
+
+ing, alcohol consumption, prenatal ply be too shy to breastfeed her infant in
+
+care, and nutritional intake were ex- the presence of other family members.
+
+cluded from the model. Although there Our results do, however, lend some was no information available pertaining credence to the idea that the presence of to the nutritional intake of the mother, the father can be beneficial for the pre-
+
+100
+
+Casper and Hogan
+
+Social Biology
+
+natal and postnatal health practices of mothers. Women with residential partners are more likely to obtain early prenatal care. They also are more likely to abstain from drinking alcoholic beverages during pregnancy.
+Such socioeconomic factors as maternal education and poverty are more salient for prenatal and postnatal health than kin access as measured here. Young mothers and those having their first babies seemingly lack the knowledge and experience that lead to healthy prenatal and postnatal behaviors. The effects of these factors persist net of a young mother's access to her relatives. Kin access does not compensate for inexperience, ignorance, and poverty.
+
+Our findings indicate that leaving prena-
+tal care to family advice is not likely to
+result in the amelioration of unhealthy
+prenatal and postnatal behaviors or in
+better birth outcomes.
+ACKNOWLEDGMENTS
+This research was supported by NICHD Grant No. 5 ROI HD23125-03, "Support Networks and Mother-Headed Families," Dennis P. Hogan, Principal Investigator, and William L. Parish, Co-Investigator. Lynne M. Casper was supported in this research by an assistantship award from the Department of Sociology at The Pennsylvania State University. We acknowledge with thanks the computer programming assistance of Dr. Diana Chang, supported by the Institute for Policy Research and Evaluation.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+REFERENCES
+
+ALCALAY, RINA. 1983. Health and social sup- HABICHT, J. P., C. YARBROUGH, A. LECHTIG,
+
+port networks. Soc. Net.5:71-88.
+
+and R. E. KLEIN. 1974. Maternal nutrition,
+
+AMERICAN COLLEGE OF OBSTETRICIANS AND
+
+birthweight and infant mortality. In Size at
+
+GYNECOLOGISTS. 1982. Standards for
+
+birth. Ciba Found. Symp. 27:3-19. Associ-
+
+obstetrical-gynecological services. 5th ed. ated Scientific Publishers, New York.
+
+American College of Obstetricians and INSTITUTE OF MEDICINE. 1985. Preventing low
+
+Gynecologists, Washington,D.C.
+
+birthweight, Committee to Study the Pre-
+
+BERKMAN, LISA F. 1984. Assessing the physical
+
+vention of LowBirthweight, Division of
+
+health ofsocial networks and social support.
+
+Health Promotion andDisease Prevention,
+
+Ann. Rev. Publ. Hlth. 5:413-432.
+
+National Academy Press, Washington,
+
+CENTER FOR HUMAN RESOURCE RESEARCH.
+
+D.C.
+
+1988. NLSY merged child-mother file, JEKEL, J. F., J. T. HARRISON, D. R. E. BAN-
+
+CHRR 1986Public Release. The Ohio
+
+CROFT, et al. 1975. A comparison of the
+
+State University, Columbus,OH.
+
+health ofindex and subsequent babies born
+
+CLARK, W. E., and M. GORDON. 1979. Dis-
+
+to school age mothers. Amer. J. Publ. Hlth.
+
+tance, closeness, andrecency ofkin contact
+
+65:370-374.
+
+in urban Ireland. J. Comp. Fam. Stud. KESSEL, S., V. HUTCHINS, P. PLACER, and T.
+
+10:271-275.
+
+Liss. 1984. Trends in underlying medical
+
+DUTTON, D. 1978.Explaining the low useof
+
+conditions, complications of pregnancy,
+
+health services by thepoor: Cost, attitudes,
+
+and complications of labor to mothers of in-
+
+or delivery system. Amer. Sociol. Rev.
+
+wedlock live hospital births: United States,
+
+43:348.
+
+1972 and1980. Paper presented at the an-
+
+GOLDEN, P. M., R. W. WILSON, and J. KANET.
+1984. Prevention profile. Health: United
+
+nual meeting of the Southern RegionalDemographic Group, Orlando,Fla.
+
+States, 1983. National Center for Health KLATZKY, S. 1972. Patterns ofcontact withrel-
+
+Statistics, Hyattsville, MD.
+
+atives. Amer. Sociol. Assoc., Washington,
+
+GORTMAKER, S. 1979.Theeffects of prenatal
+
+D.C.
+
+care upon the health of the newborn. Amer. LEE, G. R. 1980. Kinship in the seventies: A
+
+J. Publ. Hlth. 69(7):653-660.
+
+decade review of research and theory. J.
+
+Marr. Fam. 42:923-924.
+
+Vol. 37,No. 1-2
+
+Family Networks
+
+101
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+LEVIN, LOWELL S., and ELLEN L. IDLER. 1981.
+The hidden health care system. Ballinger, Cambridge. LITWAK, E.,et al. 1981. The modified extended family structure and social networks. In George Maddox and Elizabeth Auld (eds.), Proceedings in seminars, 1976-1980. Center for the Study of Aging and Human Development, Duke University Medical Center, Durham,NC.
+MCCANN, M. F., L. S. LISKIN, P. T. PIOTROW,
+W. RINEHART, and G. Fox. 1981. Breastfeeding, fertility, andfamily planning.Pop. Rep. Ser.J, No.24. MCKINLAY, J. B. 1973. Social networks, lay consultation, and help-seeking behavior. Soc. Forc. 51:275-292.
+MORRIS, NAOMI, et al. 1966a. Alienation as a deterrent to well-child supervision. Amer. J. Publ.Hlth. 56:1874-1882. . 1966b. Deterrents to well-child supervision. Amer. J. Publ. Hlth. 56:1232-1241.
+NATIONAL CENTER FOR HEALTH STATISTICS.
+1988. Vital statistics of the United States, 1986, Vol. 1, natality. United States Department of Health and Human Services, Hyattsville,MD.
+OFFICE OF THE ASSISTANT SECRETARY FOR
+HEALTH AND THE SURGEON GENERAL. 1979.
+Healthy people, the Surgeon General's re-
+
+port on health promotion and disease prevention. Publication No. (PHS) 79-55071. DHEW, Washington,D.C.
+PRAGER, K., H. MALIN, D. SPIEGLER, P. VAN
+NATTA, and P. PLACER. 1984. Smoking and
+drinking behavior before and during pregnancy of married mothers of live-born infants andstillborn infants. Publ. Hlth.Rep. 99:117-127.
+SHADISH, W. R., JR., and J. REIS. 1984. A re-
+view of studies of the effectiveness ofprograms to improve pregnancy outcomes. Eval. Rev. 8:747-757.
+SINGH, S., A. TORRES, and J. D. FORREST. 1985.
+The need for prenatal care in the United States: Evidence from the 1985 national natality survey. Fam. Plan. Persp. 17:118-124.
+SMILEY, J., S. EYRES, and D. E. ROBERTS. 1972.
+Maternal andinfant health andtheir associated factors in an inner city population. Amer. J. Publ. Hlth. 62:476-482.
+SUCHMAN, E. A., S. GUERRERO, and S. GINS-
+BURG. 1972. Distance and intergenerational ties of farm families. Sociol. Quart. 13:383396.
+ZOLA, I. K. 1964. Illness behavior of the working class. In Arthur E. Shostak andWilliam Gomberg (eds.), Blue collar world: Studies of the American Worker. Prentice-Hall, Englewood Cliffs.
+
+

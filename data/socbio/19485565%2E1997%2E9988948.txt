@@ -1,0 +1,352 @@
+Social Biology
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+Reexamination of interpregnancy intervals and subsequent birth outcomes: Evidence from U.S. linked birth/infant death records
+Jeffrey E. Kalian
+To cite this article: Jeffrey E. Kalian (1997) Reexamination of interpregnancy intervals and subsequent birth outcomes: Evidence from U.S. linked birth/infant death records, Social Biology, 44:3-4, 205-212, DOI: 10.1080/19485565.1997.9988948 To link to this article: http://dx.doi.org/10.1080/19485565.1997.9988948
+Published online: 23 Aug 2010.
+Submit your article to this journal
+Article views: 30
+View related articles
+
+Full Terms & Conditions of access and use can be found at http://tandfonline.com/action/journalInformation?journalCode=hsbi19
+
+Download by: [University of Michigan]
+
+Date: 08 December 2015, At: 13:47
+
+Reexamination of Interpregnancy Intervals and Subsequent Birth Outcomes: Evidence from U.S. Linked Birth/Infant Death Records
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Jeffrey E. Kalian
+206 Gibson Street, #70 Falls Church, Virginia 22046
+
+ABSTRACT: This study examines the net effects of the interpregnancy interval (time period from one birth to the next pregnancy) on the risks of preterm birth, intrauterine growth retardation, and infant mortality, for blacks and whites separately, using data from 1991 U.S. Linked Birth-Infant Death files. Results show that short (less than 7 months) and long (61+ months) intervals between pregnancies raise the risk of preterm birth and intrauterine growth retardation for both race groups, though the increase in risk is generally less than 30 per cent. Short intervals also raise (slightly) the risk of infant mortality after controlling for birthweight and gestational age.
+
+A short interval between pregnancies (interpregnancy interval, or IPI) is associated with an increased risk of low birthweight of the subsequent (index) birth in several studies that have looked at this question. Studies that have looked at the association of short IPI with the components of low birthweight--preterm birth and/or intrauterine growth retardation-- usually find that a short IPI raises the risk of intrauterine growth retardation, though results have been less consistent for preterm birth (Ferraz 1988; Kalian 1992; Lang et al. 1990; Lieberman 1989; Mavalankar 1992; Miller 1991; Rawlings et al. 1995).1 Preterm births, in general
+1Preterm is usually defined as less than 37 weeks gestation (although sometimes with the added condition of less than 2500 grams at birth). IUGR is usually defined as below the tenth percentile of birthweight for a given gestational age at birth based on a standard distribution (though sometimes a proxy measure is used: less than 2500 grams but 37 or more weeks gestation). The previously cited studies vary in their definitions of PRETERM and IUGR. Regarding PRETERM, some used "preterm low birthweight" (i.e., less than 37 weeks and less than 2500g) as the dependent variable, while others (including the present
+
+remain largely unexplained (Kiely and Susser, 1992), though the rate of preterm birth among blacks has been increasing, with a corresponding increase in the black/white gap in infant mortality (Singh andYu, 1995).
+The main objective of this paper is to examine the effects of IPI (both short and long) on the risks of preterm birth (PRETERM), intrauterine growth retardation (IUGR), and infant mortality, for blacks and whites separately. In the one previous study of black/white differences in the effects of IPI, Rawlings et al. (1995) concluded that "Among the black women in our study population, intervals of less than nine months between consecutive pregnancies were strongly associated with a higher prevalence of preterm
+one) used "less than 37 weeks" without regard to birthweight. No relationship seems to exist between the definition of PRETERM used in these studies and their detection of an IPI effect; but there are numerous differences across studies with respect to population under study, control of confounding variables, etc., that make comparisons difficult.
+
+205
+
+206
+
+Kalian
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+delivery and low birthweight; this association largely accounts for the greater frequency of these outcomes among black infants" (p.73). The above study was based on a small sample of U.S. military personnel and their dependents, a group whose "demographic differences are greatly attenuated" and whose members had free access to quality health care. It would be useful to examine the effects of IPI on a few different adverse outcomes, by race, using a larger, more representative U.S. dataset. I also explore the extent to which IPI can account statistically for the black/white gap in birth outcomes, given the conclusion of Rawlings et al., whose stepwise regression analysis did not directly address that question (nor has it been addressed in prior research).
+MATERIALS AND METHODS
+The analysis is based on data from the 1991 U.S. Linked Birth-Infant Death files from the National Center for Health Statistics (NCHS). Overall, 97.7 per cent of the birth and death records were successfully linked by NCHS, though this per cent varies by state. I use the "denominator-plus file" of the linked dataset, which is essentially the live-birth file for 1991 with infant death data attached. I use births for all U.S. states (and D.C.) for which data were collected on the variables of interest. Four states did not collect data on smoking (CA, NY, IN, SD); one state (WA) did not collect data on mother's education. My analysis file is limited to singleton births of parity two or higher, born to black and white (non-Hispanic) women ages 18 and over. I further selected births of gestational age 22 to 44 weeks in order to use Brenner's definition of IUGR (Brenner et al., 1976) and be-
+
+cause gestational data within this range are more likely to be of higher quality (Alexander et al., 1990). The minimum age was set at 18 to help minimize the truncation of the education variable's distribution. After exclusion of cases with missing data, the analysis file consists of 1,045,393 births (201,907 black; 843,486 white).
+In the initial dataset 1.2 per cent of the cases were of unknown race/ethnicity, and 0.5 per cent were missing data on parity. In the further-selected dataset of non-Hispanic black and white singleton births of parity two and higher, 16.9 per cent of blacks and 11.5 per cent of whites had imputed or missing gestational age data; these cases were excluded. The percentage of missing data for other variables was low and was similar for blacks and whites.
+PRETERM is defined as gestational age of less than 37 weeks. Gestational age is based primarily on the mother's report of last normal menstrual period (LNMP). A clinical estimate is used when the mother's report is missing (relatively few cases). IUGR is based on Brenner's definition and standard distribution: below the 10th percentile of birthweight for a given gestational age. Infant mortality is defined as death within one year of birth.
+While gestational age measurement on birth-certificate records has improved in recent years (especially beginning with 1989 data), measurement error no doubt exists, and its extent may vary by state, by sociodemographic subgroup, and by outcome (Alexander et al., 1995; Kirby, 1995). Moreover, clinical estimates do not always agree with LNMP-based (selfreport) estimates, though the relative validity of the two measures is unknown
+
+Vol. 44, No. 3-4
+
+Birth Spacing
+
+207
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+(Alexander et al,, 1995). As a sensitivity test, I re-ran all analyses after excluding (the relatively few) cases where clinical estimates of gestation were used (Alexander et al., 1995); there was very little change in parameter estimates. As mentioned, I excluded very short and very long gestations to try to maximize the quality of the gestational age data used in this analysis.
+Interpregnancy interval (IPI) is defined as the interval between the previous livebirth date and the current pregnancy (conception) date, in months. This figure was derived by converting the variable BIRTH INTERVAL from months (as measured on the birth certificate) to weeks and subtracting gestational age (in weeks) from it. I grouped IPI into 8 categories: <7 months, 7-12, 13-18, 19-24, 2536, 3 7 ^ 8 , 49-60, 61+ months. Seven dummy variables are used in multivariate analysis, with 25-36 as the reference category. Fetal loss occurring with the IPI cannot be measured with these data.
+Sociodemographic variables, referring to the mother, consist of black/white race, age, education, and marital status. Other independent variables, which I refer to as the "health/pregnancy variables" (and treated as a set in multivariate analysis) include: parity, chronic hypertension, pregnancy-induced hypertension, weight gain during pregnancy, smoking during pregnancy, and adequacy of prenatal care (a modified Kessner index constructed by NCHS and based on number and timing of visits by gestational age).
+In the multivariate analysis, I assume that the sociodemographic variables as a set are causally and temporally antecedent to the health/pregnancy variables as a set (within each set, no assumptions are made about causal ordering of the
+
+variables). IPI, however, is the one independent variable whose causal/temporal placement is ambiguous with respect to the other two sets of independent variables. My selection of regression models, and the order in which I run them, reflect these assumptions and ambiguities.
+RESULTS
+Table 1 shows descriptive statistics for the study population. Blacks are twice as likely as whites to have short IPFs (7 or less months), but are fairly similar to whites in the frequency of most IPI categories beyond 7 months. The other variables show levels that are consistent with other research, with the exception of "previous PRETERM or IUGR birth," where rates and race differences are suspiciously low. Due to the questionable reliability of this variable, it is not used in multivariate analysis.2
+A series of logistic regression models is used to estimate the effects of IPI on birth outcomes by race. In Tables 2 and 3, for blacks and whites separately, IPI effects are estimated with no controls
+2When the variable was included in multivariate models, it did not change the results in any way, but the variable did have a strong "effect" on PRETERM and IUGR of the index birth. It should also be recognized that the data do not allow separate analysis of cases whose previous pregnancy ended in live birth versus those ending in fetal loss, or inclusion in the mode] of a variable indicating the prior pregnancy's live/loss status. Other data suggest that the adverse effects of short IPI are greater when the prior pregnancy ended in a live birth, where IPI is defined as the interval between the last pregnancy's termination (regardless of live/loss outcome) and the current pregnancy (Kalian, 1992). It is possible that the adverse effects of short IPI would be stronger if the analysis were limited to cases where the previous pregnancy ended in a live birth.
+
+208
+
+Kalian
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 1
+DESCRIPTIVE STATISTICS FOR THE STUDY POPULATION
+
+PRETERM(%)
+
+Descriptive Statistics
+
+White (n=843,486)
+6.7
+
+IUGR(%)
+
+3.1
+
+INFANT MORTALITY (%)
+
+0.5
+
+INTERPREGNANCY INTERVAL (%) (in months) 0-6 7-12 13-18 19-24 25-36 37-48
+49-60
+61 +
+AGE (%) 18-24 25-29 30-34 35+
+EDUCATION (%) 0-11 years 12 years 13+ years
+MARRIED (%)
+PARITY (MEAN)
+CHRONIC HYPERTENSION (%)
+PREGNANCY HYPERTENSION (%)
+SMOKED DURING PREGNANCY (%)
+PRENATAL CARE (%) Adequate Marginal Inadequate
+WEIGHT GAIN (MEAN POUNDS)
+PREVIOUS PRETERM OR IUGR BIRTH (%)
+
+6.1 13.0 14.4 12.7 18.6 11.3 7.1 16.9 100.0
+23.1 33.6 30.1 13.1 100.0
+14.2 40.1 45.7
+100.0
+88.6
+2.6
+0.6
+1.9
+21.9
+77.4 18.5 4.1
+100.0
+29.6
+2.1
+
+Black (n=201,907)
+17.1
+7.2
+1.1
+12.2 15.3 12.4 9.3 13.6 9.3 6.8 21.1 100.0
+44.8 28.6 18.4
+8.2 100.0
+26.3 47.4 26.2
+100.0
+38.9
+2.9
+1.2
+2.0
+18.7
+52.1 33.1 14.8
+100.0
+27.5
+2.3
+
+("gross effect" in Model 1), with sociode- health /pregnancy variables controlled mographic variables controlled (Model (Model 3, yielding direct or net effects of 2), and with sociodemographic and IPI). Varying the level of control variables
+
+Vol. 44, No. 3-4
+
+Birth Spacing
+
+209
+
+TABLE 2
+IPI ODDS RATIOS FOR WHITES, ACROSS A SERIES OF LOGISTIC REGRESSION MODELS'1
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+IPI (months)
+0-6 7-12 13-18 19-24 25-36 (ref.). 37-48 49-60 61+
+Model X2.. DF
+
+1.61* 1.27* 1.13* 1.02 1.00 1.05* 1.11* 1.36*
+
+PRETERM as the Dependent Variable
+1.39* 1.18* 1.10* 1.01 1.00 1.04c 1.09* 1.28*
+
+1.23* 1.11* 1.06* 1.01 1.00 1.03 1.07* 1.26*
+
+1095.8 7.0
+
+4765.2 13.0
+
+12306.7 20.0
+
+IPI (months)
+0-6 7-12 13-18 19-24 25-36 (ref.). 37-48 49-60 61+
+
+1.73* 1.24* 1.02 0.98 1.00 1.11* 1.23* 1.61*
+
+IUGR as the Dependen! Variable
+1.34* 1.10* 0.97 0.97 1.00 1.08* 1.17* 1.47*
+
+1.16*
+1.03 0.95c 0.97
+1.00 1.05c 1.11*
+1.31*
+
+Model X2.. DF
+
+1067.1 7.0
+
+6898.2 13.0
+
+18388.0 20.0
+
+"Model 1 contains only IPI as an independent variable. Model 2 contains sociodemographic variables and IPI. Model 3 contains sociodemographic variables, health/pregnancy variables, and IPI.
+V<0.01. ·><0.05.
+
+in this way yields a range of IPI's "effects" (gross to net), which is useful given the ambiguous causal ordering of IPI with respect to the other independent variables, as discussed earlier.
+According to these tables, the effects of short IPI (less than 7 months) on both PRETERM and IUGR are generally similar for blacks and whites, especially in terms of net effects (compare Model 3 of both tables). Short IPI for blacks shows an odds ratio (OR) of 1.25 for PRETERM (relative to 25-36 months), while for whites the figure is 1.23. For blacks, short IPI shows an OR of 1.24 for IUGR (relative to 25-36 months), while for whites the figure is 1.16. (These race dif-
+
+ferences are not significant at p < 0.05, based on interaction tests in combinedrace models.) For all race groups and outcomes, as IPI gets longer the risk decreases and then rises at the longer IPI's, especially in the case of IUGR. Long IPI (61+ months) actually has stronger adverse "effects" for whites than for blacks. For blacks, long IPI shows an OR for PRETERM of 1.07, while for whites the OR is 1.26. For blacks, long IPI shows an OR for IUGR of 1.14, while for whites the figure is 1.31. (These differences are significant at p < 0.05.) Thus, the effects of IPI on both outcomes are generally more U-shaped among whites than among blacks.
+
+210
+
+Kalian
+
+Social Biology
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+TABLE 3
+IPI ODDS RATIOS FOR BLACKS, ACROSS A SERIES OF LOGISTIC REGRESSION MODELS"
+
+IPI (months)
+0-6 7-12 13-18 19-24 25-36 (réf.) 37-48 49-60 61+
+Model X2 DF
+
+IPI
+
+MODEL
+
+12
+
+PRETERM as the DependentVariable
+
+1.54*
+1.38* 1.23* 1.12* 1.00 0.92* 0.92* 1.05e
+
+1.45*
+1.32* 1.20* 1.10* 1.00 0.93* 0.92* 1.01
+
+3
+1.25* 1.20* 1.14* 1.08* 1.00 0.96 0.96 1.07*
+
+839.3 7.0
+
+2070.0 13.0
+
+6020.3 20.0
+
+IPI (months)
+0-6 7-12 13-18 19-24 25-36 (ref.) 37-48 49-60 61+
+
+1.47* 1.06 1.04 0.96 1.00 1.03 1.06 1.19*
+
+IUGR as the DependentVariable
+1.36* 1.01 1.01 0.95 1.00 1.04 1.06 1.13*
+
+1.24* 0.95 0.98 0.93 1.00 1.06 1.08 1.14*
+
+Model X2
+DF
+
+228.6
+7£
+
+1136.6
+m)
+
+4469.8
+20.0
+
+"Model I contains only IPI as an independent variable. Model 2 contains sociodemographicvariables andIPI. Model 3 contains sociodemographic variables, health/pregnancy variables, and IPI.
+V<0.01. ·><O.05.
+
+Additional patterns worth noting inelude the larger gross effects of IPI (short and long) on both outcomes for whites relative to blacks (Model 1 of both tables), mainly because IPI has a stronger association with the sociodemographic variables among whites. Secondly, IPI odds ratios are not affected by the exclusion or inclusion of the weight gain variable (for either race group or outcome).
+
+and gestational age do not explain all of the effect of short IPI on infant mortality in these models, the effects of short and long IPI on infant mortality are considerably larger before controlling for birthweight and gestational age (notshown),
+To summarize, the net effects of short IPI on PRETERM, IUGR, and infant mortality are similar for blacks and whites in this analysis, while long IPI
+
+Table 4 shows the effects of IPI on infant mortality after controlling for all previous independent variables as well as for gestation and birthweight. The models show a small but significant net effect of short IPI for both blacks and whites, and no effect of long IPI. While birthweight
+
+shows stronger net effects for whites.The net effects of IPI (short or long) on all outcomes are generally small for both race groups.
+In light of the Rawlings' et al. (1995) conclusion that short IPI plays a role in accounting for the poorer birth outcomes
+
+Vol. 44, No. 3-4
+
+Birth Spacing
+
+211
+
+TABLE 4
+MULTIVARIATE ODDS RATIOS (NET EFFECTS) FOR I P I , WITH INFANT MORTALITY AS DEPENDENT VARIABLE"
+
+IPI
+
+Whites
+
+Blacks
+
+Combined-race
+
+IPI (months) 0-6 7-12 13-18 19-24 25-36 (ref.)
+49-60 61+
+
+1.20* 1.22* 1.08 0.98 1.00 1.02 0.97 0.86*
+
+1.25*
+1.22C 1.09 1.00 0.98 1.06 0.96
+
+1.20* 1.21*
+1.01 1.00 1.01 1.00 0.91
+
+"Logistic regression model controls simultaneously for sociodemographic variables, health/pregnancy variables, gestational age, and birth-
+weight. bp<0.0l.
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+among blacks relative to whites, I ran an additional series of regression models to explore this question. My results indicate that IPI explains little, if any, of the black/white gap in PRETERM and IUGR in the general population, which is not surprising given the results presented thus far. The methodology is briefly described below.
+I estimated a series of six logistic regression models for PRETERM and six for IUGR. Because of the ambiguous causal order of IPI in relation to the other sets of independent variables ("sociodemographic" and "health/pregnancy" sets), I started with three models which do not include IPI at all: one containing only race, yielding baseline bivariate odds ratios; a second one which adds the other sociodemographic variables (age, education, marital status) to the first; and a third, which adds the health/pregnancy variables (but not IPI) to the previous model. In three additional models, IPI was added to each of the above three models, giving some idea of the extent to which IPI explains the race gap in outcomes over and above the other sets of variables. I found that adding IPI to each of the 3 models hardly reduced the race gap
+
+(odds ratio) in outcomes in any model (though IPI did significantly improve the model fits). The race odds ratio for PRETERM was always more than 2.0. Moreover, the race odds ratios (main effects) barely changed when the interaction terms (race X IPI) were added to the equations, reinforcing the conclusion that IPI accounts for little if any of the black/white gap in PRETERM and IUGR in the general population. It's worth mentioning that the largest reductions in the race odds ratios resulted from the addition of the sociodemographic variables (the second model described above), though only about one-half of the race difference in IUGR, and substantially less than that in the case of PRETERM, could be accounted for by these sociodemographic variables.
+DISCUSSION
+The net effects of IPI on PRETERM, IUGR, and infant mortality in this analysis are generally similar in size for blacks and whites, according to this analysis of vital statistics data for the U.S. general population. In one previous study of race
+
+212
+
+Kalian
+
+Social Biology
+
+differences in the prevalence and effects of IPI, Rawlings et al. (1995) reported stronger adverse effects of short IPI on PRETERM for blacks than for whites in a select population of military personnel. (They did not look at the effects of long IPI, or infant mortality as an outcome).
+Short IPI, although displaying fairly weak net effects in this study, is nevertheless a risk factor that should be taken into account in preventive health programs. Most explanations for the effects of short IPI involve depletion of maternal nutritional resources (Winkvist et al., 1992). Reducing the prevalence of short IPI, however, would probably not have much impact on black/white differentials in birth outcomes according to this analysis.
+
+Research on the causes of race/ethnic differences in birth outcomes should continue to focus on linkages between socioeconomic, institutional, behavioral, health care, and medical risk factors.
+Long IPI (greater than 60 months) was also associated with adverse birth outcomes in this analysis, consistent with the findings of other studies that have looked at long IPI (Kalian, 1992; Lieberman et al., 1989; Mavalankar et al., 1992). The associations may reflect, in part, impaired fecundity as well as fetal loss intervening between the previous live birth and the current index birth. Intervening fetal loss might increase the length of the interpregnancy interval as well as raise the risk of an adverse outcome.
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+REFERENCES
+
+ALEXANDER, G., M. TOMPKINS, and D. CORNELY.
+1990. Gestational age reporting and preterm delivery. Publ. Hlth. Rep.105:267.
+ALEXANDER, G., M. TOMPKINS, D. PETERSEN, T.
+HULSEY, and J. MOR. 1995. Discordance between LMP-based and clinically estimated gestational age: Implications for research, programs, and policy. Publ. Hlth. Rep. 110:395.
+BRENNER, W., D. EDELMAN, and C. HENDRICKS.
+1976. A standard of fetal growth for the U.S.A. Amer. J. Obstet. Gynecol. 126:555.
+FERRAZ, E., R. GRAY, P. FLEMING, and T. MAIA.
+1988. Interpregnancy interval and low birthweight: Findings from a case-control study. Amer. J. Epidemiol. 128:1111. KALLAN, J. 1992. Effects of interpregnancy intervals on preterm birth, intrauterine growth retardation, and fetal loss. Soc. Biol. 39:231.
+KIELY, J. and M. SUSSER. 1992. Preterm birth, intrauterine growth retardation, and perinatal mortality. Amer. J. Publ. Hlth. 82:343.
+KIRBY, R. 1995. A warning on gestational age atdelivery (letter to editor). Publ. Hlth. Rep. 110:649.
+
+LANG, J., E. LIEBERMAN, K. RYAN, and R. MONSON.
+1990. Interpregnancy intervals and risk of preterm labor. Amer. J. Epidemiol. 132:304.
+MAVALANKAR, D., R. GRAY, and C. TRIVEDI. 1992.
+Risk factors for preterm and term low birthweight in Ahmedabad, India. Intl. J. Epidemiol. 21:263. MILLER, J. 1991. Birth intervals and prenatal health: An investigation of three hypotheses. Fam.Plan. Persp. 23:262.
+RAWLINGS, J., V. RAWLINGS, and J. READ. 1995. Inci-
+dence of low birthweight and preterm delivery in relation to interval between pregnancies among white and black women. New Engl. J. Med. 322:69. SINGH, G. K., and S. M. Yu. 1996. Infant mortality in the United States: Trends, differentials, and projections. Amer. J. Publ. Hlth. 85:957.
+WINKVIST, K., K. RASMUSSEN, and J. HABICHT.
+1992. A new definition of maternal depletion syndrome. Amer. J. Publ. Hlth. 82:691.
+
+
