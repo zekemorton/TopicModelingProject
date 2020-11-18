@@ -2,70 +2,413 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64cc04d6-b1b6-4b28-a6c9-6f944f177a46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-1_16.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-1_21.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-1_28.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-1_4.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-1_44.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-1_53.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-1_58.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-1_64.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-1_67.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-2_1.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-2_10.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-2_16.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-2_27.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-2_3.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-2_32.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-2_39.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-2_47.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-2_52.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-3_148.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-3_155.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-3_161.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-3_166.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-3_171.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-3_176.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-3_182.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-3_191.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-3_193.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-4_215.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-4_221.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-4_225.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-4_230.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-4_235.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-4_240.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-4_244.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-4_248.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-4_252.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-4_254.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1954_1-4_261.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-1_18.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-1_26.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-1_31.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-1_33.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-1_40.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-1_46.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-1_51.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-1_53.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-1_7.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-1_9.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-2_103.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-2_110.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-2_65.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-2_68.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-2_78.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-2_83.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-2_90.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-2_98.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-3_129.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-3_133.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-3_140.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-3_152.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-3_162.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-3_174.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-4_193.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-4_198.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-4_205.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-4_212.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-4_224.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-4_229.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-4_234.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-1_16.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-1_2.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-1_22.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-1_32.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-1_38.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-1_45.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-1_9.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-2_100.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-2_104.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-2_106.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-2_67.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-2_69.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-2_75.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-2_82.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-2_88.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-2_94.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-3_131.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-3_139.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-3_143.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-3_148.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-3_152.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-3_157.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-3_161.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-4_195.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-4_201.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-4_209.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-4_213.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-4_219.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_00-00_00.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-1_17.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-1_24.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-1_3.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-1_30.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-1_36.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-2_67.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-2_81.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-2_92.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-2_99.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-3_127.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-3_139.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-3_148.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-3_153.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-3_157.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-3_162.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-4_187.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-4_197.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-4_202.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-4_206.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-4_208.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-4_214.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-4_219.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_15.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_23.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_3.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_30.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_37.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_38.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_4.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_41.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_43.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_46.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_48.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_51.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_9.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-2_105.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-2_67.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-2_73.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-2_86.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-2_95.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-3_131.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-3_137.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-3_145.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-3_154.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-3_162.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-3_185.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-4_195.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-4_200.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-4_212.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-4_216.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-4_221.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-4_243.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-4_246.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-1_14.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-1_23.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-1_26.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-1_3.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-1_32.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-1_36.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-1_8.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-2_102.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-2_112.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-2_113.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-2_117.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-2_130.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-2_142.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-2_65.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-2_84.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-2_94.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-3_155.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-3_167.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-3_171.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-3_180.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-3_187.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-4_219.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-4_225.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-4_240.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-4_249.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-4_254.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1960_7-1_23.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1960_7-1_31.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1960_7-1_9.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1960_7-2_69.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1960_7-2_77.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1960_7-2_86.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1960_7-2_96.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1960_7-3_133.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1960_7-3_148.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1960_7-3_157.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1960_7-4_193.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1960_7-4_204.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1960_7-4_212.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1960_7-4_217.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1960_7-4_231.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-1_12.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-1_23.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-1_34.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-1_42.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-1_9.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-2_108.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-2_61.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-2_81.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-2_92.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-2_97.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-2_98.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-3_123.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-3_135.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-3_142.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-3_154.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-3_157.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-3_171.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-4_181.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-4_185.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-4_198.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-4_218.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-4_221.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-4_223.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-4_226.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1961_8-4_239.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-1_1.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-1_14.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-1_23.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-1_25.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-1_36.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-1_44.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-1_45.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-1_49.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-1_5.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-1_54.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-1_59.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-1_69.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-2_100.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-2_112.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-2_75.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-2_84.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-2_91.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-2_95.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-2_98.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-3_131.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-3_147.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-3_151.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-3_161.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-3_166.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-3_172.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-4_189.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-4_213.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-4_223.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-4_228.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-4_231.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-4_237.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1962_9-4_247.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-1_1.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-1_12.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-1_22.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-1_33.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-1_36.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-2_53.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-2_59.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-2_73.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-2_79.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-2_81.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-2_84.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-3_103.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-3_110.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-3_119.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-3_131.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-3_135.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-3_139.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-4_151.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-4_161.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-4_175.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-4_188.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-4_202.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-1_1.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-1_11.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-1_30.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-1_46.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-2_112.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-2_65.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-2_82.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-2_90.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-2_96.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-3_125.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-3_127.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-3_141.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-3_148.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-3_154.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-3_168.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-3_170.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-4_189.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-4_216.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-4_222.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-4_234.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-4_249.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-1_1.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-1_11.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-1_19.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-1_28.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-1_7.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-2_102.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-2_112.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-2_41.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-2_72.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-2_85.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-2_90.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-3_123.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-3_124.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-3_132.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-3_137.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-3_146.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-3_154.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-3_162.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-3_165.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-4_181.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-4_199.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-4_204.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-4_209.pickle" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-4_227.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spell_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unpickler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-4_233.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-4_251.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-1_1.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-1_30.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-1_34.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-1_40.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-1_48.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-1_62.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-1_64.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-1_67.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-2_101.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-2_113.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-2_122.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-2_128.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-2_133.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-2_141.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-2_147.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-2_152.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-2_155.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-2_165.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-2_81.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-2_92.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-3_179.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-3_186.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-3_205.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-3_209.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-3_214.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-3_223.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-3_231.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-3_240.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-3_258.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-3_270.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-3_282.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-4_285.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-4_291.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-4_302.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-4_306.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-4_316.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-4_326.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-4_341.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-4_353.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-4_355.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-4_357.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1966_13-4_363.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-1_1.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-1_14.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-1_27.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-1_45.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-1_54.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-1_60.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-1_7.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-1_75.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-1_77.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-1_78.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-2_103.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-2_112.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-2_121.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-2_127.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-2_132.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-2_143.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-2_155.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-2_157.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-2_158.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-2_160.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-2_162.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-2_89.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-3_171.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-3_181.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-3_185.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-3_199.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-3_205.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-3_238.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-3_241.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-3_243.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-4_255.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-4_265.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-4_271.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-4_274.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-4_282.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-4_291.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-4_296.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-4_299.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-4_300.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1967_14-4_302.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_APN_13-1_63.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_APN_13-3_268.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_APN_13-3_269.pickle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1954%2E9987170.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1954%2E9987170.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1954%2E9987205.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1954%2E9987205.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1955%2E9987222.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1955%2E9987222.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1955%2E9987226.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1955%2E9987226.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1956%2E9987257.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1956%2E9987257.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1957%2E9987303.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1957%2E9987303.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1958%2E9987370.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1958%2E9987370.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1958%2E9987380.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1958%2E9987380.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1958%2E9987381.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1958%2E9987381.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1959%2E9987389.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1959%2E9987389.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1959%2E9987417.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1959%2E9987417.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1960%2E9987436.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1960%2E9987436.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1963%2E9987568.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1963%2E9987568.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1966%2E9987646.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1966%2E9987646.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/get_data_equarterly.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_data_equarterly.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1966%2E9987645.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1966%2E9987645.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1966%2E9987675.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1966%2E9987675.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1966%2E9987676.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1966%2E9987676.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
