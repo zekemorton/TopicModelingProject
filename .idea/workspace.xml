@@ -2,9 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64cc04d6-b1b6-4b28-a6c9-6f944f177a46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data_gathering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/socbio.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/socbio/socbio.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-3_152.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-3_174.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1955_2-4_234.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-3_131.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-3_148.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-3_152.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-3_157.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1956_3-4_209.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_00-00_00.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-1_17.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-1_3.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-2_99.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-4_187.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1957_4-4_197.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_15.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_23.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_4.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_48.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-1_9.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-2_67.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-2_73.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-2_86.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-2_95.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1958_5-4_243.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-1_36.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-2_102.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-2_112.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-2_113.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-2_130.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-3_167.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1959_6-4_219.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1960_7-1_31.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-3_139.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-4_175.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1963_10-4_188.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-1_11.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-2_65.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1964_11-3_170.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-3_124.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-3_132.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-3_162.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-3_165.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-4_199.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-4_204.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-4_209.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equarterly_clean_articles/equarterly_1965_12-4_227.pickle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spell_checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpickler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1954%2E9987170.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1954%2E9987170.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1954%2E9987205.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1954%2E9987205.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1955%2E9987222.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1955%2E9987222.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1955%2E9987226.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1955%2E9987226.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1956%2E9987257.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1956%2E9987257.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1957%2E9987303.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1957%2E9987303.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1958%2E9987370.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1958%2E9987370.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1958%2E9987380.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1958%2E9987380.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1958%2E9987381.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1958%2E9987381.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1959%2E9987389.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1959%2E9987389.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1959%2E9987417.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1959%2E9987417.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1960%2E9987436.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1960%2E9987436.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1963%2E9987568.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1963%2E9987568.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/equarterly/19485565%2E1966%2E9987646.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/equarterly/19485565%2E1966%2E9987646.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_data_equarterly.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_data_equarterly.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +98,15 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/data/socbio" />
+      <recent name="$PROJECT_DIR$/data/ereview" />
+      <recent name="$PROJECT_DIR$/data/equarterly" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,7 +120,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.get_data_equarterly">
+    <configuration name="data_gathering" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TopicModelingProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_gathering.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="equarterly" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TopicModelingProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,8 +163,75 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="get_data_equarterly" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TopicModelingProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_data_equarterly.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spellchecker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TopicModelingProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spell_checker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unpickler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TopicModelingProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unpickler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.get_data_equarterly" />
+        <item itemvalue="Python.unpickler" />
+        <item itemvalue="Python.data_gathering" />
+        <item itemvalue="Python.spellchecker" />
         <item itemvalue="Python.equarterly" />
       </list>
     </recent_temporary>
@@ -107,5 +264,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data_gathering.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
