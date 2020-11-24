@@ -1,0 +1,1521 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ 
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+An “epidemic” model of sexual intercourse
+prevalences for black and white adolescents
+
+David C. Rowe , Joseph Lee Rodgers & Sylvia Meseck-Bushey
+
+To cite this article: David C. Rowe , Joseph Lee Rodgers & Sylvia Meseck#Bushey (1989) An
+“epidemic” model of sexual intercourse prevalences for black and white adolescents, Social
+Biology, 36:3-4, 127-145, DOI: 10.1080/19485565.1989.9988728
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1989.9988728
+
+ 
+
+fa Published online: 23 Aug 2010.
+
+ee
+(g Submit your article to this journal @
+lil Article views: 1
+»
+Q View related articles 4
+
+(7) Citing articles: 3 View citing articles G
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:43
+
+ 
+ 
+
+An “Epidemic” Model
+of Sexual Intercourse Prevalences
+for Black and White Adolescents
+
+ 
+
+"David C. Rowe, 'Joseph Lee Rodgers, and °Sylvia Meseck-Bushey
+
+“School of Family and Consumer Resources, University of Arizona, Tucson, Arizona;
+’Department of Psychology, University of Oklahoma, Norman, Oklahoma
+
+ABSTRACT: In adolescence (12-16 years), the prevalence of sexual intercourse increases each
+year. To explain the increasing yearly prevalences, we propose a recursive equation model of
+onset of adolescent sexual intercourse. The model allows for an “epidemic” process (the
+transmission of sexuality from a nonvirgin to a virgin) and a nonepidemic process (two virgins
+progressing to sexual intercourse). The model also requires that virgin females be pubertally
+mature before they will progress to sexual intercourse. Adequate fits were obtained to the
+intercourse prevalences for both black and white respondents. Comparisons of alternative
+models established that the full model was superior to models that omitted either the
+nonepidemic process or the requirement of females’ pubertal maturation. The model was able
+to fit both white and blacks simultaneously, assuming equal transition probabilities in both
+races. Hence, we propose the hypothesis that race differences in sexual intercourse prevalences
+may be strongly influenced by the age of initiation of the “epidemic” process and by race
+difference in females’ rates of pubertal maturation. The results suggested that most new cases of
+sexual intercourse arose from the epidemic process and that males were more prone to progress
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+to intercourse, given an opportunity.
+
+A theoretical understanding of the
+prevalences of sexual intercourse is an
+important goal for the behavioral sciences. Early sexual activity carries the
+health risk of contracting sexually transmitted diseases and infertility, and teenage pregnancy places a burden on young
+mothers and their families that can endure across generations (Furstenberg et
+al., 1987; Hayes, 1987). A theoretical
+understanding of early sexual activity,
+then, may provide a guide to public policy formation. From a purely scientific
+point of view, this arena is a challenging
+one for testing alternative behavioral
+theories.
+
+In this paper, we advance a new
+quantitative theory of adolescent sexu
+ality. This theory proposes that adolescent sexuality is partly transmitted by an
+“epidemic” process analogous to the epidemic transmission of infectious diseases. Our theory makes explicit assumptions about the causal antecedents
+of sexuality—including a greater emphasis on biology than most theories of
+sexual behavior—and produces quantitative predictions for sexual intercourse
+prevalences.
+
+Our theory is designed to explain the
+cumulative prevalences of sexual intercourse, that is, the proportion of individuals of a given age who have ever had
+sexual intercourse. Not surprisingly, the
+prevalence of sexual intercourse increases rapidly with age during adoles
+127
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+128 Rowe et al.
+
+cence until about half of adolescents in
+the late teenage years report sexual intercourse (Zelnik et al., 1981). Two demographic differences are consistent
+throughout the literature on teenage
+sexuality. The male prevalence of sexual
+intercourse is higher than the female,
+and blacks’ prevalence is higher than
+whites. The race difference is of scientific and practical interest because of its
+historical persistence and magnitude,
+especially in the early teenage years. In
+Zelnik and Kantner’s (1980) national
+survey, 65 per cent of never-married
+black women 15-19 years reported having had sexual intercourse, compared to
+only 42 per cent of white women. The
+racial difference was greater at younger
+ages. At age 15, 41 per cent of female
+blacks had initiated intercourse, versus
+18 per cent of female whites. Similarly,
+during adolescence, prevalences of
+pregnancy have been greater for black
+than white women. This ratio was about
+2:1 black to white births from years 15 to
+19 years, but about 7:1 for black and
+white women 14 years and below
+(Washington, 1982). Some surveys report social class differences in sexual intercourse prevalences, with higher rates
+among lower-class individuals, but these
+differences are typically not as large as
+those of sex and race.
+
+Several types of theory attempt to explain the demographic facts of sexual intercourse prevalences. One type focuses
+on socioeconomic variation in the opportunity costs of sexuality (Furstenberg, 1976). Opportunity costs refer to
+the loss of future benefits entailed by a
+particular behavioral decision. Applied
+to adolescent sexual intercourse, lower
+social class individuals may regard opportunity costs low because they perceive the chances of success from deferring for long-term goals (e.g.,
+
+ 
+
+Social Biology
+
+education) as minimal. In this case, factors such as educational aspirations,
+school grades, school attendance, and
+so on, should relate to sexual intercourse prevalences as individual difference variables and also explain social
+class variation. Other indicators of social disadvantage (e.g., single parent
+families) may also bear an association
+with the opportunity costs of sexual intercourse.
+
+A second type of theory uses variation in social norms to explain variation
+in adolescent sexuality. Social norms are
+the values regarding the appropriateness of sexual intercourse held by peers,
+family members, and the teenagers
+themselves. Individuals in peer groups
+that approve more of sexual behavior
+should themselves, according to this
+view, be more likely to initiate early sexual activity.
+
+Both types of theory explain some
+variation in sexual intercourse among
+teenagers; yet they have limitations.
+Race differences are a particularly difficult problem for these theories. Furstenberg et al. (19875) tried to reduce
+racial differences by statistically controlling variables tied to socioeconomic differences. Poor grades, school attendance, educational aspirations, and
+related variables barely dented the 3.7
+odds ratio of black:white sexual intercourse odds. Normative variables, however, were more successful. For example, respondents’ reports of friends’
+intercourse reduced the odds ratio from
+3.7 to 1.8; it was one of the few variables
+to make a substantive difference.
+
+Despite its empirical successes, normative theory does not necessarily give
+theoretical insight, because the mechanisms that cause differences in community norms were left unspecified. Furstenberg et al. (1987) recognized that
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+Vol. 36, No. 3-4
+
+the normative explanation appears circular “in claiming that blacks have early
+intercourse because other blacks (peers)
+have early intercourse (p. 515).” The
+unanswered, but essential, question is
+what sustains different social norms in
+different communities. Such a question
+naturally promotes a search for “third
+variables” that would explain both high
+prevalences of sexual intercourse and
+approving community norms. Although
+one explanation might be historical—
+communities receive different social traditions which they then maintain (Washington, 1982)}—it would be more satisfying to find some functional reason
+for the persistence of disparate norms.
+
+Biology has been relatively neglected
+in discussions of the determinants of
+sexual intercourse in adolescence; yet
+pubertal development takes place during this period. In both sexes, with males
+lagging behind females by about two
+years, pubertal development produces
+changes in appearance as adolescents
+acquire secondary sexual characteristics. In the body, these changes are promoted by an order-of-magnitude
+change of testosterone levels in males
+and by substantial changes in estrogen
+and androgen levels (of adrenal origin)
+in females. A biological theory of adolescent sexuality postulates that the concomitant increase in sexual activity during this age period is a consequence of
+pubertal influence on sexual libido;
+physical changes may cause adolescents
+to desire sexual activity. Later, opportunities will come.
+
+Udry’s Adolescent Sexuality Project
+provides the first strong evidence for
+such biological theorizing (Smith et al.,
+1985). This research has involved studies of Tanner’s stage levels—the level of
+breast and genital development in females and genital development in
+
+An “Epidemic”’ Model
+
+129
+
+males—and studies of hormones. In
+their study of pubertal] maturation, both
+girls’ and boys’ level of puberty were related to sexual behavior (intercourse
+and sexual experience) independent of
+age (Smith et al., 1985). In girls, growth
+affected most by androgenic hormones
+(pubic hair) correlated more highly with
+sexual behavior than growth affected
+most by estrogens (breast development). This result suggested that the effect of physical development was a direct one on sexual behavior, rather than
+an indirect one mediated by adolescent
+peers’ perception of a women’s level of
+pubertal development. In girls, the relationship between pubertal maturation
+and sexuality also interacted with the influence of same-sex friends. Women
+with low levels of pubertal maturity
+were unlikely to engage in sexual behaviors, regardless of their friends‘ sexual
+experience level, but women who were
+pubertally mature were affected by
+same-sex friends’ sexuality. Those with
+more sexually active friends were themselves more likely to be sexually active.
+In these two studies, the samples consisted of white respondents only; but
+two research projects indicate a relationship between pubertal maturation
+events and initiation of sexual activity in
+blacks (Presser, 1978; Zabin et al.,
+1986).
+
+Hormone levels in blood appear to
+affect sexual behavior (Udry et al.,
+1985, 1986). Males’ level of free testosterone predicted sexual intercourse,
+sexual experience (petting behaviors
+short of intercourse), and sexual arousability. Hormones appeared to work
+through a biologically-based change in
+sexual motivation, as neither age nor
+pubertal appearance changes could account statistically for the hormonesexuality relationship. In females, a
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+130 Rowe et al.
+
+number of sexual interest and activity
+variables, except for intercourse itself,
+were predicted from adrenal origin androgenic hormones. Estrogenic hormones, which affect visible secondary
+sexual traits in females, were unassociated with sexual behavior. The lack of
+prediction of sexual intercourse may be
+partly a problem of statistical power; 11
+in a sample of 78 white females reported
+intercourse. As in males, neither age
+nor secondary sexual traits mediated the
+relationships. Both studies counter the
+prevailing view that sexual activity is
+merely the result of social norms or adolescents’ reactions to physical changes in
+others. Instead, hormonal changes appeared to produce a sexual libido responsible for sexuality. No evidence exists for the reverse causation that sexual
+activity affects hormonal levels in females.
+
+Because blacks mature pubertally
+earlier than whites, a biological model
+can be applied to race differences. Nationally, blacks attain menarche earlier
+than whites (Harlan et al., 1980). Age of
+menarche, however, may be less important than the overall level of pubertal
+maturation. For example, increases in
+pubertal hormones considerably antedate menarche in girls (Udry et al.,
+1986). Black girls progress through
+Tanner’s stages of pubertal growth considerably earlier than white girls
+(Harlan et al., 1980). According to the
+National Health Examination Survey,
+this racial difference is independent of
+age at menarche and social class, suggesting that it is a biologically based racial difference. There is also a suggestion of differences in follicle stimulating
+hormone levels in black and white girls
+(Nankin et al., 1974), with black girls
+having higher levels. In contrast, the
+data for males are conflicting. The Na
+Social Biology
+
+tional Health Survey suggests equal
+rates of pubertal maturation in black
+and white males down to age 12 years,
+but two other studies, also employing
+observer ratings of pubertal maturation,
+indicate black males were ahead of
+white males under age 14 years (Nankin
+et al., 1974; Foster et al., 1977). Although the maturational difference between whites and blacks may be partly
+responsible for their different prevalences of sexual intercourse, a test of
+maturational effects requires an explicit
+model of the social processes determining the spread of intercourse among
+adolescents, as we discuss next.
+
+MATERIALS AND METHODS
+STATEMENT OF THE MODEL
+
+In this paper, we describe a theoretical model of the initiation of sexual intercourse. This model takes as data the
+cumulative prevalences of sexual intercourse, namely, the proportion of adolescents of a given race or sex who have
+ever had sexual intercourse with a partner. The model will contain two terms,
+one representing an “epidemic” process
+of the transmission of sexual intercourse
+and the other representing a nonepidemic process of two virgin partners
+having sexual intercourse together. In
+both processes, we assume that for a female to participate in sexual intercourse, she must be pubertally mature.
+We also assume that a single probability
+exists that describes the chance that an
+individual will initiate intercourse, given
+an encounter with a nonvirgin partner.
+This probability may differ for males
+and females, but is assumed to be constant over the period 12-16 years.
+
+In the theory of infectious disease,
+epidemics are spread by face-to-face en
+ 
+
+ 
+
+ 
+ 
+
+Vol. 36, No. 3-4
+
+counters between an infected individual
+and a susceptible individual. These theories also assume “homogeneous” mixing, that is, that encounters between infected and susceptible individuals are at
+random. Given these simplifying assumptions, the rate of spread depends
+only on the proportion of the population
+already infected. This transmission
+process can be described by differential
+or difference equations (see CavalliSforza and Feldman, 1981 for applications of such models to social phenomena).
+In our analogy, nonvirgins are the
+“carriers” of sexual intercourse and virgins are the susceptible individuals. We
+begin by assuming that encounters between individuals occur randomly.
+Later, we will examine the consequences of relaxing this assumption.
+Under random assortment, in a population with proportions Pm of male nonvirgins and Pf of female nonvirgins, the
+probabilities of two opposite-sexed individuals encountering one another are
+Pm (1- Pf), Pf (1- Pm), and (1 - Pf) (1Pm), for an encounter between non= virgin males and virgin females, non‘y virgin females and virgin males, and vir3 gin females and virgin males,
+< respectively. Because we assume that
+= only pubertally mature females will iniQ tiate sexual activity, we reduce the number of pairs by the proportion of mature
+females of a given age (M,, where tis an
+age from 12 to 16 years). Finally, not all
+encounters of partners lead to sexual intercourse. The following two recursive
+equations include this restriction using
+the parameters T and k and define our
+model:
+
+(1) Pm,.1= Pm,+Tm
+
+Pf, +
+kM, (1 - Pm,) (1 - Pf)
+
+Sea of er at 13:43 08 December 2015
+
+a
+
+(1 - Pm,)
+
+An “Epidemic” Model 131
+
+(2) Pfrii = Pf, + TfM,
+Pm, +
+kM, (1- Pm,) (1- Pf),
+
+where fis the age period (i.e., 12 years,
+13 years, etc.); Pm is the proportion of
+male nonvirgins; Pfis the proportion of
+female nonvirgins; M, is the proportion
+of pubertally mature females at age t;
+Tm is the transition probability (per encounter) that a male virgin will engage in
+sexual intercourse, given an encounter
+with a nonvirgin female; Tf is the transition probability (per encounter) that a
+female virgin will engage in sexual intercourse, given an encounter with a nonvirgin male; and k is the probability that
+two nonvirgins will engage in intercourse per encounter (a nonepidemic
+process).!
+
+(1 - Pf)
+
+ASSUMPTIONS OF THE MODEL
+
+We limited the spread of sexual intercourse to pubertally mature females for
+empirical reasons. As reviewed earlier,
+Udry’s research found that pubertal
+maturation was associated with females’
+initiation of sexual behavior. Although
+the same association was found for
+males, males will initiate intercourse
+earlier in pubertal development than females. In particular, some black males
+initiate coitus very early, even prior to
+puberty (Clark et al., 1984; Finkel and
+
+1The parameters 7 and k can be given another
+interpretation. Our interpretation is that they refer
+to the probability of a virgin making the transition
+to nonvirginity, given a single encounter per year.
+However, T also can represent the number of “effective” encounters per person per year. An “effective” encounter is one between a virgin and
+nonvirgin (or two virgins) leading to sexual intercourse. Effective encounters are the product of the
+probability of transmission per encounter times tota] number of encounters. The latter interpretation
+is the standard “mass action’’ principle of transmission in epidemic theory (Anderson, 1982, p. 154).
+
+ 
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+132 Rowe et al.
+
+Finkel, 1975). Thus, although male sexual activity varies with puberty and with
+hormonal levels, a lack of pubertal development is not as restrictive on male
+sexual behavior as it is on female behavior. Data on this issue will be presented
+later.
+
+The random assortment assumption,
+on the surface, appears to counter
+
+' friendship homogamy and influence
+
+theories. Studies in the behavioral sciences indicate friendship homogamy for
+different social attitudes and behaviors
+(Kandel, 1978). Certainly, the virginity
+status of opposite-sex friends might be
+correlated, because of social and influence or social selection processes.
+Billy and Udry (1985) have investigated
+the effect of best same-sex and oppositesex friends’ intercourse behavior on the
+likelihood that virgin respondents will
+make the transition to sexual intercourse. In agreement with our random
+assortment assumption, they found no
+influence of either friends on the likelihood that white males or blacks make
+the transition. On the other hand, white
+females were influenced somewhat by
+the intercourse behavior of their best
+friends.
+
+Because the “random assortment”
+assumption may be unrealistic, we will
+investigate the effects of relaxing it.
+Thus, we will permit a correlation between the intercourse statuses of
+opposite-sex friends to account for
+friendship similarity. In fact, this correlation will over-adjust to the extent that
+opposite-sex best friends are correlated
+because they have had intercourse together. That process is dynamically accounted for by the model. The part of
+the correlation reflecting “non-random
+encounters” is what we wish to adjust
+for. As we cannot empirically separate
+these two components of resemblance,
+
+Social Biology
+
+we will use a range of possible values of
+nonrandom assortment. In addition, we
+have data directly bearing on this issue,
+as we shall see later.
+
+We also assume that the transition
+probabilities, Tm for males and Tf for
+females, remain constant across individuals and across the age 12-16 period.
+This assumption is sufficient to fit the
+kind of aggregate data we have available, but it is undoubtedly a simplification. Itis more likely that a range of individual differences in transition
+proneness exist, depending on differences in personality and experience. Tm
+and 7f, then, represent something like
+the mean value on the 7m and Tf distributions across individuals. The average
+proneness may remain fairly constant
+across these years; and enough individuals may have Tm and Tf values close to
+the mean so that the approximation will
+suffice. It is important to note that a constant 7m and 7f allows for changes in
+the conditional probability of engaging
+in intercourse, given age. This probability is greater for older than younger adolescents. However, this change in conditional probability accords with the
+model because (1) among older adolescents, the prevalence of females’ pubertal maturity has increased, and (2)
+among older adolescents, the risk of encountering a nonvirgin who can “transmit” sexual intercourse is greater. Tm
+and 7f are themselves probabilities conditioned on encountering a nonvirgin individual, and for any person, they can
+remain relatively constant during the
+age 12-16 period.
+
+EVALUATION OF THE MODEL
+
+To evaluate our hypotheses, we
+
+adopt the strategy of comparing the ade
+quacy of competing models. The raw
+data will consist of sexual intercourse
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+Vol. 36, No. 3-4
+
+prevalences, grouped by sex and race,
+for adolescents 12~16 years old. We will
+test the fit of models to the data from
+each race separately, and then to data
+from the combined races of blacks and
+whites. We will sequentially test
+models, comparing purely epidemic
+models (i.e., without the virgin-virgin
+term) with mixed models combining
+both nonvirgin-virgin and virgin-virgin
+terms. Within each category, we will
+compare models that include the females’ pubertal maturation restriction
+with models that do not impose this restriction.
+
+METHOD
+
+Data set—The “epidemic” model
+was fit to data on sexual intercourse
+prevalences from the Adolescent Sexuality (ADSEX) data set collected by the
+Carolina Population Center between
+1978 and 1982. The ADSEX project
+surveyed complete intact schools in two
+metropolitan areas: Raleigh, North
+Carolina, and Tallahassee, Florida. The
+school setting is especially powerful for
+testing the epidemic model because the
+face-to-face transmission process is directly reflected in the data. National
+samples of adolescents would be more
+statistically representative of the population but would involve noninteracting
+youths. Subjects were interviewed and
+administered questionnaires in their
+homes. The original response rate was
+above 80 per cent in both Raleigh and
+Tallahassee. In Raleigh, there were
+three rounds of data collection; in Tallahassee, two rounds. The rate of retention was above 80 per cent throughout
+the longitudinal rounds. We combined
+the different rounds and locations of the
+ADSEX study to maximize our sample
+size at each age point. Hence, somewhat
+different youths were included in the
+
+An “Epidemic” Model
+
+133
+
+sample at different age points, although
+high proportions of the sample were
+represented in the full longitudinal
+process.
+
+Separate data sets were constructed
+in the following way. The 12- and 13year-old groups consisted of two rounds
+of data: Round 1 at Raleigh and Round
+1 at Tallahassee. The 14-year-old group
+consisted of four rounds, the first two
+rounds at both locations. Each of the 15and 16-year-old data sets incorporated
+three rounds: Raleigh, Rounds 2 and 3;
+and Tallahassee, Round 2.
+
+RESULTS
+DATA TABLES
+
+Our analyses focused on sexual intercourse. Each respondent was asked
+twice in the questionnaire whether they
+had had sexual intercourse. One question was simply a yes/no response to a
+single item asking whether the respondent had ever had sexual intercourse.
+This item included a definition of intercourse and equivalent slang terms. The
+other item was a question concerned
+with the frequency of sexual intercourse. A minority of youths (<5 per
+cent) contradicted themselves by giving
+conflicting answers to the two questions
+(see Rodgers et al., 1982, for a discussion of this problem). These individuals
+were recorded as virgins.
+
+Table 1 presents the intercourse
+prevalences by race and sex. The prevalences, as expected, differed widely
+among these groups. At age 12, 4-6
+times the percentage of blacks had initiated sexual intercourse as whites.
+Within race, about four times the percentage of males as females were sexually active. Although racial and sexual
+disparities diminished with age, they did
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+134 Rowe et al. Social Biology
+TABLE 1
+SEXUAL INTERCOURSE PREVALENCES BY AGE?
+AGE
+Group 12 13 14 15 16
+Whites
+BOYS ........ cece eee eaee 11.5 19.6 27.4 41.7 50.3
+(113) (204) (314) (199) (169)
+Girls 2.0... cc cee ee eee eee 2.1 4.1 11.2 24.5 34.3
+(207) (196) (347) (184) (216)
+Blacks
+BOYS ssesseaus gaug pe canes 40.0 57.6 61.0 79.1 78.4
+(35) (59) (146) (67) (97)
+Girls 2.0... cece ee eee 11.5 22.2 27.8 52.0 $9.5
+(61) (63) (144) (77) (84)
+
+*Sample size in parentheses.
+
+not converge. At 16 years, prevalences
+were about 20-30 per cent greater in
+males than in females, and in blacks
+than in whites.
+
+We next examined the relationship
+between sexual intercourse and pubertal maturation. Each questionnaire contained black and white line drawings to
+represent pubertal growth stages,
+adapted from Tanner’s (1978) photographs of pubertal maturation stages.
+Respondents made two self ratings:
+girls, breast and pubic hair stage; boys,
+penis and pubic hair stage. Scores on
+each self-rating ranged from 1 to 5 and
+were averaged. Table 2 presents the relationship between pubertal level and
+sexual intercourse status. In calculating
+the tabled values, we combined intermediate pubertal levels (1.5, 2.5, etc.)
+with the next lowest stage level. The table presents together several immature
+levels with relatively small sample sizes
+(Levels 1-3) and compares them to two
+mature levels (Level 4, and adult maturity, Level 5, combined).
+
+In both black and white males, individuals with low pubertal statuses reported sexual intercourse. In particular,
+
+black males (63 per cent, intercourse)
+clearly violated the assumption that pubertal maturation was a prerequisite for
+sexual intercourse.
+
+On the other hand, in the two female
+groups, sexual intercourse status was
+positively associated with pubertal
+growth (in whites, an increase from 7
+per cent to 29 per cent; in blacks, an increase from 32 per cent to 49 per cent).
+Hence, these data were somewhat inconsistent with our assumption that im
+TABLE 2
+
+RELATIONSHIP BETWEEN PUBERTAL
+MATURATION AND NONVIRGINITY STATUS
+
+ 
+
+TANNER’S STAGES
+Group 1-3 4-5
+Females
+Black ..........6- 32% 49%
+(63) (278)
+White ...........6.- 71% 29%
+(132) (546)
+Males
+Black ...........2.. 63% 71%
+(70) (343)
+White ..sccccecsnss 20% 46%
+(148) (716)
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+An “Epidemic” Model
+
+135
+
+TABLE 3
+FEMALE PREVALENCES OF PUBERTAL MATURITY
+
+Vol. 36, No. 34
+Group 12
+Females
+Whites .............200ee 36%
+Blacks ...... cc. c cece eee 53%
+
+mature individuals do not report intercourse. The lack of a perfect association
+of pubertal status with coitus must,
+therefore, introduce some error into our
+model—namely, the 29 (20 black and 9
+white) females in Stages 1-3 who reported coitus. However, if some of these
+females had intercourse through situations outside the model, for instance,
+because they were victims of rape or
+child molestation, then our behavioral
+data may be closer to no (voluntary) sexual intercourse for pubertally immature
+females than they suggest on the surface. We took advantage of the positive
+association of pubertal status and females’ coitus by incorporating females’
+pubertal level into our recursive equation model.
+
+Table 3 indicates the proportion of
+fernales who were pubertally mature at
+each age. A significant racial difference
+showing earlier maturation in black girls
+occurred at age 12 years (17 per cent,
+z= 2.3, p <0.05). In the National
+Health Examination Survey (Harlan et
+al., 1980), racial differences in pubertal
+growth remained statistically significant
+through 17 years, although the magnitude of the difference was quite small after age 14 years.
+
+MOobDEL FITTING
+
+The model-fitting routine accepted
+the age-12 sexual] intercourse prevalences as starting values and then calcu
+62%
+67%
+
+AGE
+
+13 14 15 16
+80% 95% 93%
+82% 88% 93%
+
+lated sexual intercourse prevalences for
+ages 13-16 years using recursive equations 1 and 2. An optimization routine
+(Loehlin, 1987, p. 229-231) was used
+that selected parameter values to minimize a chi-square calculated from the
+difference of the observed minus expected frequencies of sexual intercourse
+divided by the expected frequencies.
+This routine started with trial values of
+Tm; the male transition probability, 7f,;
+the female transition probability; and k
+(except in models where k = 0). Because the routine found local minimums, it was modified so that separate
+searches were carried out for different
+values of k in which a bisecting search
+pattern selected new trial values of k until the true minimum was located. for
+models containing the female maturation component, the percentage of mature females given in Table 3 were entered into Equation 2. For models
+omitting the maturation component, the
+percentage mature was set equal to 1.0.
+When fit to one racial group, the
+model had eight independent observations, which were used to estimate three
+parameters (7m, Tf, k). Hence, there
+were five degrees of freedom with which
+to test this model statistically. The minimized chi square was for the males and
+females combined. When the nonepidemic term was omitted (i.e., when
+k = 0), the model estimated two parameters, yielding six degrees of freedom.
+
+ 
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+136 Rowe et al.
+
+When fit to voth racial groups, Tm
+was constrained to equality for black
+and white males; 7f to equality for black
+and white females; and k to equality for
+both races. The minimized chi square
+was the chi square for all groups combined. In this condition, sixteen observations were available, and three parameters were estimated. Hence, the
+model had thirteen degrees of freedom.
+Omitting the nonepidemic term (k = 0)
+increased the degrees of freedom by one
+(df = 14). In all cases, asmall chi square
+value was desirable because it indicated
+small discrepancies among predicted
+and actual sexual intercourse prevalences.
+
+Table 4 displays the results of comparing the statistical adequacy of purely
+epidemic models (k = 0) and mixed
+
+Social Biology
+
+models (k>0). A purely epidemic
+model without maturation was statistically rejected (chi square p value
+<0.05) for whites and whites plus
+blacks, but it was accepted for blacks
+(x? = 5.0, p > 0.05). Surprisingly, the
+purely epidemic model with maturation
+of females was rejected in two of the
+three statistical tests. Moreover, this
+model required high transition probabilities for males (Tm = 1) and females
+(Tf > 0.46). Given the lack of fit of these
+models, the addition of the virgin-virgin
+nonepidemic term was deemed necessary (i.e., kK > 0).
+
+The first set of three models contained the virgin-virgin term but omitted
+the female maturation parameter (™,).
+This model, although not rejected at the
+0.05 level, gave a weaker fit for whites
+
+TABLE 4
+MODEL FirtinG FOR WHITES, BLACKS, AND RACES COMBINED
+
+Model xt df
+Pure epidemic
+No maturation
+| 27.690 6
+I opeeeees G5 Fae 4.649 6
+W+B......... 46.106 14
+Maturation
+| 37.687 6
+Ty pees #ua6 ea 4.174 6
+W+B......... 62.780 14
+Mixed Model
+No maturation
+W ..ceececaees 9.554 5
+Bocce cee ce eee 4.332 5
+W+B°........ 14.048 13
+Maturation
+W ccc c cece eens 5.690 5
+B uganen5aads » 3.316 5
+W+B......... 10.275 3813
+
+*;R = reject, p < 0.05; A = accept, p > 0.05,
+
+>: Females, X? = 9.832 (df = 5),p < 0.1.
+
+Statistical
+
+Tu TF k Adequacy?
+
+1.0 0.50 0
+
+1.0 0.308 0 A
+
+1.0 0.48 0
+
+1.0 0.90 0 R
+
+1.0 0.46 0 R
+
+1.0 0.70 0 R
+
+1.0 0.231 0.038 p<0.1
+0.961 0.259 0.037 A
+
+1.0 0.250 0.036 A
+0.899 0.221 0.100 A
+0.779 0.306 0.137 A
+
+1.0 0.329 0.080 A
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+ 
+
+Vol. 36, No. 3-4
+
+(x? = 9.554, df = 5, p<0.1). In the
+combined group, the overall chi square
+was nonsignificant (x? = 14.048,
+df = 13, p>0.05). However, this chi
+square consisted of two independent chi
+squares, one from the male prevalences
+(4.216) and the other from the female
+prevalences (9.832). The fit to these female prevalences was weaker, as the chi
+square was nearly significant (p <0.1)
+with five degrees of freedom (eight female observations and three estimated
+parameters, 7m, Tf, and k).
+
+Adding female maturation to the
+equations improved the model fits in
+each case. The chi square values were
+nonsignificant for whites (5.7), blacks
+(3.3), and the races together (10.3).
+The transition probabilities were
+greater for males than females (7m
+whites = 0.899, 7m blacks = 0.779; Tf
+whites = 0.221; Tf blacks = 0.306).
+All probabilities were fairly similar for
+the two races, including nonepidemic
+
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+
+Prevalences
+
+11 12 13 14
+
+Age
+
+ 
+
+An “Epidemic” Model 137
+
+transition probability (k whites
+= 0.100; & blacks = 0.137). Figures 1
+and 2 graph the predicted versus obtained sexual intercourse prevalences
+using the model fits done for blacks and
+whites, respectively.
+
+The comparison of the combined
+group (whites plus blacks) with the sum
+of the races fit separately can test for the
+equality of 7m, Tf, and k for black and
+white racial groups, This test has three
+degrees of freedom (the difference of 10
+degrees of freedom for the races fit separately and 13 dfs for the races combined). This chi square failed to reach
+significance (x?= 1.269, df = 3,
+p > 0.05). That similar values of Tm, Tf,
+and k could satisfy the prevalences from
+the races combined was understandable
+given the fairly similar values obtained
+when the races were fit separately. In
+the combined solution, however, 7m
+had the somewhat undesirable property
+of attaining an upper bound
+
+<< Black Males
+© Black Females
+
+Observed
+
++ Black Males
+x Black Females
+
+15 16 17
+
+Fic, 1.—Best-fitting sexual intercourse prevalences in blacks.
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+138 Rowe et al. Social Biology
+Whites
+100
+90 .
+Predicted
+80 -* White Males
+g 70 ~~ White Females
+A 60
+2 50 + Observed
+40 + White Males
+i x White Females
+30
+20 +
+10
+0
+11 12 13 14 15 16 17
+
+Age
+
+Fic. 2.—Best-fitting sexual intercourse prevalences in whites.
+
+(Tm = 1.0). The transition probability
+also increased for females (7f = 0.329).
+
+Because 7m > Tf, given an encounter with a nonvirgin, males would be
+more likely to have coitus with the partner than females. This result, of course,
+reflects the greater prevalence of intercourse in males than females. These values of 7m and 7f assume that just one
+pairing has occurred in the year; hence,
+they are unrealistically high. The probability per encounter is certainly lower;
+for example, if an average of five encounters with opposite-sex friends who
+could potentially participate in intercourse per year occurred, then 7m
+would equal 0.2 and Tf would equal
+0.066 for the solution using all four
+groups (whites + blacks).
+
+To test whether the model was
+merely a general mathematical expression of developmental growth, we also
+fit the mixed model with maturation on
+artificial four-group data and on fourgroup ADSEX smoking prevalence
+
+data. The model statistically rejected
+the smoking prevalences, a number of
+combinations of purely linear increases
+in prevalences, and logistic increases
+that differed by race but not by sex.
+These fésults suggest that the mixed
+model was relatively specific to the type
+of process postulated; for example, it
+was superior to any purely epidemic
+model of sexual intercotirse transmission.
+
+THE ASSUMPTION OF RANDOM
+ASSORTMENT
+
+Thus far, the mixed model has required the assumption that opposite-sex
+partners meet at random with regard to
+their prior sexual activity. The ADSEX
+data set included information on the
+person named by each respondent as his
+or her best opposite-sex friend. Hence,
+we can calculate the Phi coefficient (the
+correlation for dichotomous data) for
+the coital status of opposite-sex friends.
+These correlations at least give a rough
+
+ 
+a aaa a a
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 36, No. 3—4 An “Epidemic’’ Model 139
+TABLE 5
+EFFECT OF CORRELATION OF PARTNER’S SEXUAL STATUS ON MODEL Fits
+Phi and Group Tu Tr k x?
+
+Phi 0.00
+
+Whites ............ 0.899 0.221 0.100 5.690
+
+Blacks ............-. 0.779 0.306 0.137 3.316
+Phi 0.05
+
+Whites ............ 0.932 0.212 0.104 5.840
+
+Blacks ...........24. 0.756 0.293 0.156 3.376
+Phi 0.10
+
+Whites ............ 0.985 0.205 0.106 6.011
+
+Blacks ............. 0.902 0.293 0.157 3.399
+Phi 0.15
+
+Whites ............ 1.00 0.185 0.113 6.222
+
+Blacks .........-.4. 0.928 0.282 0.172 3.447
+Phi 0.20
+
+Whites ............ 1.00 0.159 0.12 6.486
+
+BIACKS cake vs 0a ees 0.910 0.259 0.197 3.524
+Phi 0.25
+
+Whites ............ 1.00 0.13 0.127 6.797
+
+Blacks ............. 0.759 0.20 0.25 3.69
+Phi 0.30
+
+Whites ............ 1.00 0.102 0.134 7.174
+
+Blacks ............. 0.884 0,197 0.250 3.735
+
+idea of the possible violation of the random assortment assumption. They
+place an upper bound on the violation of
+the assumption, because a part of
+friends’ resemblance may be due to the
+initiation of sexual activity subsequent
+to the encounter of the two individuals.
+
+Phi coefficients were calculated for
+white males with best female friend
+(Phi = 0.15); white females with best
+male friend (Phi = 0.11); black males
+with best female friend (Phi = -0.08);
+and black females with best male friend
+(Phi = -0.12). These correlations were
+unexpectedly small. The negative Phi
+coefficients for blacks were totally unanticipated; they reflected a high prevalence of intercourse in this population,
+such that even considerable (about 30
+
+per cent of all pairings) nonvirginnonvirgin pairings failed to produce a
+- positive association. Although we cannot be sure that the opposite-sex friend
+was always the sexual partner of the respondent, these low values support our
+random assortment assumption.
+Nonetheless, we decided to explore
+the effect of one possible violation of
+this assumption—a positive assortment
+for sexual intercourse status—on the
+performance of the mixed model with
+maturation. The recursive equations
+were modified to replace the random assortment probabilities with probabilities
+based on a given value of the Phi assortment coefficient. Table 5 fits the model
+using Pm and Pf as marginal values from
+which the probability of virgin males
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+140 Rowe et al.
+
+paired with nonvirgin females, virgin females paired with nonvirgin males, and
+virgins paired together was calculated,
+given Phi. Hence, at each cycle of calculation, nonrandom assortment probabilities were substituted for the random
+ones, assuming that the value of the assortment correlation remained constant
+at ages 12-16 years.
+
+The main conclusion from Table 5,
+showing the parameter estimates and
+chi square values for different assumed
+correlations, is that violations of the assumption in this range have surprisingly
+little effect. The models including a correlation fit worse than the random assortment model, but this deterioration
+occurred relatively slowly. Transition
+probabilities for males gradually increased, transition probabilities for females gradually decreased, as did the k
+transition probability. These changes
+reflected the effect of correlated intercourse status, which was to increase
+both the numbers of nonvirginnonvirgin and virgin-virgin pairings; the
+latter, but not the former, appeared in
+the model. Hence, we saw an increase in
+k’s value, as more virgin-virgin pairs
+were present to contribute to the transition process. Why were the changes in
+parameter values relatively small ones?
+Partly, because the marginal distributions limited consequences of any correlation. There were few nonvirginnonvirgin pairings to begin with.
+Correlations under 0.20 changed the
+proportions in different pairings, but by
+only a few per cent; hence, the similarity
+of random assortment and low correlation models. Given that we do not know
+what actual correlation males and females have for their coitus status, a random assortment assumption will remain
+a practical way to obtain fairly accurate
+parameter estimates.
+
+ 
+
+Social Biology
+
+DISCUSSION
+SUMMARY OF MODEL PROPERTIES
+
+Sexual intercourse prevalences increase rapidly during adolescence. We
+have provided a theoretical model, derived from the theory of epidemic infectious disease, to describe the spread of
+onset of coitus among adolescents. Our
+model assumed that intercourse is
+spread by the contact of individuals and
+that virgins and nonvirgins of both sexes
+come into contact randomly. Under
+these conditions, the probability that a
+youth will engage in intercourse depends on the proportion of nonvirgin
+youths. The greater the fraction of sexually active youths, the greater the possibility of spread. The model included an
+“epidemic” process whereby a virgin experienced first intercourse with a nonvirgin (the “carrier” of sexual intercourse). Our model also included a
+nonepidemic process whereby virgin
+males and females encounter one another and progress to sexual intercourse. In both processes, pubertally
+immature females were excluded from
+initiating sexual intercourse. Starting
+with coitus prevalences at age 12, our
+mixed model, combining the epidemic
+term of nonvirgin-virgin encounters and
+the nonepidemic term of virgin encounters, successfully predicted intercourse
+prevalences for ages 13-16 years.
+
+We explored the validity of the assumptions of the mixed model by comparing it to alternative models. Some of
+these models were “‘nested” within the
+mixed model and so could be tested with
+fewer degrees of freedom. Thus, we established empirically that the virginvirgin encounter term was necessary,
+because omitting it led to a statistical rejection of the model. A purely “epidemic” model, involving the “‘transmisDownloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 36, No. 3—4
+
+sion” of sexual intercourse only from
+nonvirgins to virgins, was unable to fit
+the data. Nevertheless, the “epidemic”
+component of the model does contribute the most to the spread of coitus, because the probability, k, that two virgins
+progress to coitus (per encounter) was
+only about 0.1.
+
+Model comparisons were also used to
+evaluate the maturational hypothesis.
+Based on empirical data showing that females’ prevalences of coitus increased
+substantially with pubertal maturation,
+a limitation was imposed that only pubertally mature females could progress
+to sexual intercourse. Although these
+models were not nested hierarchically,
+the mixed model with a maturation component provided a better fit than the
+mixed model omitting a maturation
+component. Moreover, the maturation
+component improved the fit when the
+model was applied to both black and
+white respondents in a single analysis.
+The earlier sexual maturation of black
+girls than white girls absorbed some of
+the racial difference in coitus prevalences.
+
+The model required an assumption
+that encounters between sexual partners
+occurred at random with regard to sexual intercourse status. This assumption,
+although on the surface seemingly implausible, was supported by the empirical correlations of best opposite-sex
+friends’ sexual intercourse statuses.
+These correlations were quite weak. A
+second analysis examined the consequences of relaxing the random assortment assumption. For correlations less
+than 0.3, the fit of the model was gradually worsened, but slowly enough to suggest that it was quite robust to minor violations of the random assortment
+assumption. Hence, although this was a
+simplifying assumption, random assort
+An “Epidemic” Model 141
+
+ment will produce, under a range of conditions, reasonable parameter estimates
+and close approximations to observed
+coitus prevalences.
+
+THEORETICAL IMPLICATIONS
+
+This model differs from other explanations of adolescent sexual intercourse
+in several ways. First, it places a heavy
+emphasis on biological maturation as
+the proximal determinant of sexual intercourse. Puberty is a genetically timed
+biological event that itself increases sexual libido and drive. Research by Udry
+and his colleagues demonstrates that
+libido—indexed by hormonal levels—
+has a direct effect on sexual arousal and
+drive, independent of physical appearance factors that might mediate social
+reactions to individuals, and independent of age. The model included this biological component in its restriction that
+pubertally immature females would not
+progress to sexual intercourse. We assume that they lack sexual motivation
+and desire because of their hormonal
+immaturity.
+
+Second, it attributes new cases of sexual intercourse directly to social interactions among adolescents. In the analogy
+to infectious disease, intercourse can
+only occur after an encounter of two individuals, and it spreads in only one direction (it makes no sense to say that virgins “give” virginity to a nonvirgin).
+The parameter values tn the model were
+estimated assuming that only one social
+encounter leading to intercourse occurs
+in a year, Such an assumption was
+clearly unrealistic because more than a
+single opportunity is likely to occur in a
+year’s time. Tm and Tf, the probabilities
+that a nonvirgin “transmits” intercourse
+to a virgin, given an encounter, therefore must exceed their true values.
+Nonetheless, this model draws attention
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+142 Rowe et al.
+
+to the proportion of nonvirgins and the
+frequency of social interactions as themselves factors serving to increase transitions to nonvirginity.
+
+From this perspective, several puzzling findings about sexual intercourse
+prevalences can be given new interpretations. We hypothesize that the racial
+difference in coitus prevalence may
+result from an earlier “initiation” of the
+“epidemic” process in the black than in
+the white community. In our results, females were the main source of restraint
+on the spread of sexual intercourse, because pubertally immature females were
+seen as unlikely to engage in coitus and
+because the female transition probability (7f, the probability of a virgin’s progressing to intercourse, given an encounter with a nonvirgin), about 0.3,
+was lower than that of males, about 0.8.
+Our model could fit the sexual intercourse prevalences at age 13-16 for
+blacks and whites simultaneously, with
+equal transition probabilities and allowing for the differential maturation rates
+of black and white girls. The model cannot itself demonstrate that the epidemic
+process was initiated earlier in the black
+sample. However, the higher prevalences for blacks than whites at age 12
+suggests earlier initiation among blacks.
+At age 12, 17 per cent more black than
+white females were mature, and this relative difference would only increase if
+the maturation curves were extrapolated to younger ages. Given that the
+conditions exist in the black sample for
+early initiation—namely, a larger pool
+of sexually receptive females, we can
+speculate that the racial difference may
+be the result of a difference in the timing
+of the “‘epidemic”’ process.
+
+Furstenberg et al., (1987) found that
+blacks’ coitus prevalences were lower in
+integrated high schools than in all black
+
+ 
+
+Social Biology
+
+high schools. In light of our model, this
+result might be interpreted in terms of
+the frequencies of opposite-sex social
+encounters. Assuming most individuals
+experience their first coitus with someone of the same race, cross-race social
+encounters would not lead to intercourse. However, if these encounters
+require time and effort, then they
+should reduce the rate at which withinrace social encounters occur, and hence
+they should also reduce rate of spread of
+sexual intercourse from nonvirgins to
+virgins.
+
+The model does not deal directly with
+social norms regarding sexual intercourse. In our model, Tm and Tf may
+partly reflect social norms favorable or
+unfavorable toward sexual intercourse.
+Yet, race differences were lacking. That
+is, given an opportunity for sexual intercourse, blacks were no more likely to
+engage in sexual intercourse than
+whites. Some social norms might be regarded as consequences rather than
+causes of coitus. For example, if, in the
+black community, adolescents hold
+norms that are more favorable to early
+parenthood and early coitus, these relative normative differences may simply
+reflect the reality of these actual differences and not constitute their determinants. It is difficult to apply normative
+pressure against a behavior that is engaged in by half or more of 15-year-old
+boys and girls. Hence, the ‘“‘epidemic’”’
+spread of coitus may be a factor in the
+weakening of normative pressures
+against coitus.
+
+CAVEATS AND LIMITATIONS
+
+Although we believe that considerable potential exists for new applications
+and extensions of this basic model, it
+does possess several limitations. The
+model dealt with aggregate data and
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 36, No. 3-4
+
+therefore neglected individual-difference factors. The opportunity-cost
+model is consistent with individual differences in proneness toward coitus.
+Adolescents who perceive that the delay
+of coitus will bring few future rewards,
+such as security and income, will more
+likely engage in intercourse than those
+perceiving higher opportunity costs.
+Such reasoning leads to the implication
+that the values of 7m and Tf will differ
+widely among individuals; that is, given
+a virgin’s encounter with a nonvirgin,
+there should be a range of transition
+probabilities to nonvirginity. Earlier,
+we suggested that Tm and 7f be regarded as the means of a distribution of
+transition probabilities. To test such
+ideas, prevalence data would be needed
+for subgroups of the populations varying
+in Opportunity costs. Presumably, the
+basic mixed model would apply to all
+subgroups, but 7m and Tf would be unequal among them. We see much to gain
+from modeling the probabilities of individuals of different types making transitions, instead of modeling aggregate
+data.
+
+The model also does not deal directly
+with questions of selection or influence.
+At an individual level, a virgin boy or
+virgin girl might want intercourse and so
+actively look for someone similarly predisposed. Conversely, a nonvirgin might
+actively pressure a virgin into sexual intercourse; survey data suggest that
+“date rape” has a surprisingly high prevalence. Finally, opportunities for intercourse may come by happenstance, and
+the reaction of an individual to the opportunity might depend on proneness
+and on temporary situational factors.
+The model we have proposed is really
+moot on the exact social process leading
+to coitus in individual cases, and a mixture of selection, influence, and happen
+An “Epidemic” Model 143
+
+stance processes would be invisible to
+the model as we have proposed it.
+Nonetheless, the nature of this process
+is a Separate research topic of considerable importance.
+
+In closing, we caution that our analogy between epidemic infectious disease
+and coitus is neither literal comparison
+nor a moral prescription. The infectious
+disease model was chosen simply because it provides a tractable mathematical description of a transmission process
+between well-defined statuses; moreover, our best fitting model was not even
+purely “epidemic,” since it contained a
+nonepidemic term within it. Our analogy should not be misinterpreted as implying a moral position regarding premarital coitus among teenagers. It is
+rather a useful, plausible, and empirically defensible deScription of what
+might be occurring in adolescent
+groups.
+
+CONCLUSIONS
+
+The mixed model successfully predicted the prevalences of sexual intercourse for adolescents 13-16 years old.
+Although the model is (by definition) a
+simplification of social life, its assumptions of maturationally influenced female “risk,” randomly pairing sexual
+partners, and occasional transition of
+virgin pairs to nonvirginity received empirical support. The intercourse prevalences at age 12 were high in all groups,
+except white females; hence, considerable “epidemic” spread may have occurred at younger ages. Although undoubtedly difficult to collect, data are
+much needed on the sexual behavior of
+children under 12 years old.
+
+The “epidemic” process provided a
+new hypothesis for racial differences.
+This hypothesis is that racial differences
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+144
+
+in pubertal maturation rates, with earlier maturation among blacks than white
+girls, may lead to an earlier initiation of
+the social transmission of coitus among
+blacks, with a consequent snowballing
+effect on coitus prevalences at later
+ages. Although cultural factors may
+contribute to race differences in sexual
+behavior, this maturationally based interpretation can avoid moral implications (e.g., undesirable social norms,
+parental neglect) concerning the black
+community, as implied by other theories
+of these race differences. Whatever
+their race, parents of pubertally mature
+teenagers face a different challenge than
+others.
+
+Rowe et al.
+
+Social Biology
+
+Finally, this model can be extended
+to investigate other dependent variables. We have already begun to investigate the use of the model with other adolescent problem behaviors (e.g.,
+smoking and drinking), and the model
+will eventually be useful as a description
+of HIV (AIDS) virus transmission
+among adolescents and as a description
+of aetiologies of adolescent pregnancy.
+
+ACKNOWLEDGMENTS
+
+This research was supported by a grant
+from the National Institute of Child Health
+and Development (R01 HD21973).
+
+REFERENCES
+
+ANDERSON, R.M. 1982. Transmission dynamics and control of infectious disease
+agents, p. 149-176. In R. M. Anderson and
+R. M. May (eds.), Population biology of infectious diseases. Springer-Verlag, New
+York.
+
+Briy, J.O.G., and J.R. Upry. 1985. Patterns of adolescent friendship and effects on
+sexual behavior. Soc. Psychol. Quart.
+48:27-41.
+
+CAvALut-Srorza, L. L., and M. W. FELDMAN.
+1981. Cultural transmission and evolution:
+A quantitative approach. Princeton Univ.
+Press, Princeton, NJ.
+
+CrarK, S., L. ZABIN, and J. Harpy. 1984. Sex,
+contraception and parenthood: Experience
+and attitudes among urban black young
+men. Fam. Plan. Persp. 16:77-82.
+
+FInkEL, M., and D. FINKEL. 1975. Sexual and
+contraceptive knowledge, attitudes and behaviors of male adolescents. Fam. Plan.
+Persp. 7:256—260.
+
+Foster, T. A., A. W. Voors, L.S. WEBBER,
+R. R. Frericus, and G. S. Berenson. 1977.
+Anthropometric and maturation measurements of children, ages 5 to 14 years, in a biracial community: The Bogalusa Heart
+Study. Amer. J. Clin. Nutr. 30:582-591.
+
+FURSTENBERG, F. F. 1976. Unplanned parenthood: The social consequences of teenage
+childbearing. Free Press, New York.
+
+ 
+
+FURSTENBERG, F. F., J. BRooKs-GuNN, and
+S. P. Morcan. 1987. Adolescent mothers in
+later life. Cambridge Univ. Press, Cambridge.
+
+FURSTENBERG, F.F., S. P. Moraan, F. A.
+Moore, and J. L. PETERSON. 1987. Race differences in the timing of adolescent intercourse. Amer. Sociol. Rev. 52:511-518.
+
+Haran, W.R., E. A. Haran, and G. P.
+GRILLo. 1980. Secondary sex characteristics
+of girls 12 to 17 years of age: The U.S.
+Health Examination Survey. J. Pediat.
+96:1074-1078.
+
+Hayss, C, D. 1987. Risking the future: Adolescent sexuality, pregnancy, and childbearing, Vol. I. National Academy Press, Washington, D.C.
+
+KANDEL, D. B. 1978. Homophily, selection,
+ane socialization. Amer. J. Sociol. 84:427436.
+
+LoEHLIN, J. C. 1987. Latent variable models:
+An introduction to factor, path, and structural analysis. Lawrence Erlbaum, Hillsdale, New Jersey.
+
+Nankin, H. R., M. SPERLING, F. M. KENNy,
+A. L. Drasu, and P. TRoEN. 1974. Correlation between sexual maturation and serum
+gonadotropins: Comparison of black and
+white youngsters. Amer. J. Med. Sci.
+266:139-147.
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 36, No. 34
+
+PRESSER, H. B. 1978. Age at menarche, sociosexual behavior, and fertility. Soc. Bio.
+25:94 -101.
+
+Ropcers, J. L.,J. D. G. Bitty andJ. R. Upry.
+1982. The rescission of behaviors: Inconsistent responses in adolescent sexuality data.
+Soc. Sci. Res, 11:280-296.
+
+SMITH, E. A., J. R. Upry, and N. M. Morris.
+1985. Pubertal development and friends: A
+biosocial explanation of adolescent sexual
+behavior. J. Hith. Soc. Behav. 26:183-192.
+
+TANNER, J. M. 1978. Foetus into man: Physical
+growth from conception to maturity. Harvard Univ. Press, Cambridge, MA.
+
+Upry, J. R., J.O. G. Brrry, N. M. Morris,
+T. R. Grorr, and M. H. Rays. 1985. Serum
+androgenic hormones motivate sexual behavior in adolescent boys. Fertil. Steril.
+43:90-99.
+
+An “Epidemic” Model 145
+
+Upry, J. R., L. M. TALBERT, and N. M. MorRIS. 1986. Biosocial foundations for adolescent female sexuality. Demography 23:217231.
+
+WASHINGTON, A. C, 1982. A cultural and historical perspective on pregnancy-related activity among U.S. teenagers. J. Black Psychol. 9:1-28.
+
+ZaABIN, L. S., E. A. Smrtru, M. B. Hirscu, and
+J.B. Harpy. 1986. Ages of physical maturation and first intercourse in black teenage
+males and females. Demography 23:595—
+605.
+
+ZELNIK, M., and J. KANTNER. 1980. Sexual activity, contraceptive use and pregnancy
+among metropolitan-area teenagers: 1971-~
+1979, Fam. Plan. Persp. 12:230-—237.
+
+ZELNIK, M., J. KANTNER, and K. Forp. 1981.
+Sex and pregnancy in adolescence. Sage,
+Beverley Hills, CA.
+

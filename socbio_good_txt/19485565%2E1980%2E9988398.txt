@@ -1,0 +1,937 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+ 
+
+The effects of variable age-of-onset and diagnostic
+criteria on the estimates of linkage: An example
+using manic-depressive illness and color blindness
+
+Lois A. Morton & Kenneth K. Kidd
+
+To cite this article: Lois A. Morton & Kenneth K. Kidd (1980) The effects of variable
+age#of#onset and diagnostic criteria on the estimates of linkage: An example
+using manic#depressive illness and color blindness, Social Biology, 27:1, 1-10, DOI:
+10.1080/19485565.1980.9988398
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1980.9988398
+
+ 
+
+fn Published online: 23 Aug 2010.
+(FB ann | 7
+Submit your article to this journal @
+lil Article views: 4
+N
+iQ View related articles 4
+
+(7) Citing articles: 20 View citing articles @
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:38
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+ 
+
+The Effects of Variable Age-of-onset
+and Diagnostic Criteria on the Estimates of Linkage:
+An Example Using Manic-depressive Illness and
+
+Color Blindness
+
+Lois A. Morton and Kenneth K. Kidd
+
+Department of Human Genetics
+School of Medicine
+
+Yale University
+
+New Haven, Connecticut
+
+ 
+
+ABSTRACT: Three pedigrees were selected from the literature for their compatibility with the hypothesis of linkage between the X-chromosome marker color blindness and bipolar affective disorder. We compared the results of linkage analyses of these pedigrees when both penetrance function
+and diagnostic classification were varied. The analyses show that the incorporation of age-of-onset
+information into a penetrance function significantly increased the evidence for linkage. In addition,
+assumptions about diagnostic classification affected the lod scores. These results demonstrate the
+need for careful consideration of diagnostic criteria and variable age-of-onset when pursuing
+
+linkage analysis of complex traits.
+
+The use of linkage analysis in manicdepressive illness (MDI) and in other psychiatric disorders has become widespread
+in recent years. Because linkage analysis is
+a potential means of identifying a genetic
+vulnerability or predisposition and of
+defining subtypes of illness, it has been applied to many families in which manicdepressive illness has been diagnosed in
+several members.
+
+However, the specific method generally used makes several assumptions
+which are not met by MDI. Most available
+algorithms assume etiologic homogeneity,
+complete and constant penetrance (the
+probability of observing the phenotype,
+given a specific genotype), a single affected phenotype, and unbiased ascertainment of pedigrees. The methods have not
+been tested for robustness, so that the effects of violating these assumptions are
+unknown. These problems make interpretation of many early studies of genetic
+linkage in MDI impossible.
+
+More recently, studies using methods
+which permit one or more of these restrictive assumptions to be removed have been
+
+published (Mendlewicz et al., 1979;
+Gershon et al., 1979). But the results of
+these two groups are contradictory, and
+neither group tested the effect of incorporating their more flexible assumptions
+into the methods.
+
+It is our intent to assess the importance
+of incorporating age-dependent penetrance and variable diagnostic criteria into
+a linkage analysis using a subset of the
+published pedigrees which have been cited as evidence for X-linkage of MDI.
+
+GENETIC LINKAGE ANALYSIS
+
+Genetic linkage is the nonrandom assortment in meiosis of alleles at different
+loci because the loci involved are located
+on the same chromosome. During meiosis
+the two chromosomes of a pair—the one
+of paternal origin and the one of maternal
+origin—can exchange blocks of corresponding genetic material through a
+process called recombination. Except for
+this process, the gametes produced by an
+individual would contain for each chromo
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+4 Morton and Kidd
+
+some pair either an intact chromosome of
+paternal origin or an intact chromosome
+of maternal origin. When the specific alleles at two loci differ in the maternal and
+paternal chromosomes, gametes produced can contain either a parental combination of alleles (maternal or paternal!)
+or a recombinant arrangement. The
+process of recombination occurs independently in each separate cell undergoing
+meiosis and the crossover position is randomly distributed among different meiotic
+events. The frequency with which recombination will occur between two loci is a
+function of the physical distance along the
+chromosome between those two loci.
+Genetic linkage is measured as the recombination frequency, 8, which can be zero
+for loci immediately adjacent to each
+other or any value up to 0.5, the frequency
+of recombinant gametes when the two loci
+segregate completely independently.
+Maximum likelihood estimation of 0
+requires the calculation of the probability
+that the phenotypic patterns found in a
+particular family would occur given a
+specific hypothesis that incorporates the
+parameter 0. Ina strict sense this probability is proportional to, but can conveniently
+be considered equal to, the likelihood of
+that specific hypothesis given the data.
+These likelihoods are computed for
+several different values of 0, including
+@=0.5, i.e., independent segregation.
+The statistic employed to assess the
+significance of likelihood differences is the
+lod score. This is the logarithm (to the
+base 10) of the ratio of the likelihood at a
+specific estimate of @ to the likelihood at
+§=0.5, i.e., the null hypothesis of independent assortment. The lod scores of all
+informative families are summed for each
+hypothesis (i.e., value of 8) in arriving ata
+total lod score. A total lod score of + 3.00
+is considered to be significant evidence in
+favor of linkage at that value of 6, and a
+total lod score of —2.00 is considered
+
+Social Biology
+
+significant evidence against linkage at that
+value of 6.
+
+Of course, there are many other parameters in a given genetic hypothesis,
+specifically the gene frequencies and
+genotype penetrances for each of the loci.
+But this method was originally developed
+(Morton, 1955) and implemented for loci
+with known modes of inheritance; thus the
+only unknown parameter was 8. Obviously the problem of parameter estimation becomes much more complicated as
+the number of unknown parameters increases.
+
+X-LINKAGE IN DEPRESSION
+
+Although patterns consistent with Xlinked transmission of depression were
+observed several decades ago (Rosanoff et
+al., 1935), reports of linkage to specific Xchromosome markers are much more recent. These studies have both benefited
+from and affirmed the validity of the unipolar-bipolar diagnostic distinction. Unipolar affective disorder is characterized by
+episodes of extremely depressed mood
+which result in a specific pattern of symptomatology and impaired functioning. Bipolar affective disorder is characterized by
+alternating episodes of depressed and
+manic moods.
+
+Most of the pedigrees studied for Xlinkage of MDI were ascertained through
+a proband with bipolar affective disorder,
+although both diagnoses were present in
+relatives. Reich et al. (1969) first reported
+linkage of bipolar MDI with color blindness (protan and deutan) in two large
+families. Mendlewicz and Fleiss (1974),
+Winokur and Tanna (1969), and Mendlewicz et at. (1972) reported other pedigrees
+informative for linkage analysis between
+bipolar affective disorder and several X
+chromosome markers (protan, deutan,
+and Xg).
+
+The findings of these studies can be
+summarized as follows: Alleles at each of
+
+ 
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Vol. 27, No. 1
+
+the three marker loci cosegregated with
+the depressive phenotype in a fashion consistent with linkage. When summed over
+all families, the lod scores reported by
+Mendlewicz and Fleiss (1974) were above
+3.00 for protanopia (with the estimate
+6=0.10) and for deuteranopia (6 = 0.07).
+However, many investigators have
+published documented cases of father-toson transmission, a finding which is not
+consistent with X-linkage.
+
+COMPLICATIONS IN LINKAGE ANALYSIS
+
+The contradictory findings of male-tomale transmission and linkage to X chromosome markers have led to the postulation of genetic heterogeneity in the
+etiology of MDI. Many investigators favor
+the hypothesis that two predominant
+genetic forms exist, one X-linked and one
+autosomal, although these forms have not
+been separable on the basis of any criteria
+other than transmission patterns. The possibility of genetic heterogeneity substantially complicates the use of linkage analysis. If one sums lod scores over all
+available pedigrees, it is quite probable
+that significant linkage in one of the
+genetic forms would be masked by the
+finding of independent segregation of
+marker and illness in pedigrees of the
+other form. Yet it 1s certainly invalid to
+sum lod scores over only those pedigrees
+which show cosegregation. Even the selection of pedigrees on the basis of transmission patterns alone may be introducing
+a bias, which is difficult to quantify,
+toward a finding of linkage with an appropriate marker.
+
+Incomplete penetrance of the phenotype, i.e., a less than perfect correspondence between susceptible genotype and
+illness phenotype, presents several additional problems for linkage analysis. In
+simple terms, unaffected individuals fall
+into two classes: those who possess the abnormal allele but fail to express it, and
+
+Estimates of Linkage 3
+
+those who do not possess an abnormal allele. In the case of depression, which has a
+variable age of onset extending throughout much of adolescence and adulthood,
+unaffected individuals may be of yet
+another type: those who are genetically
+vulnerable and will express the phenotype
+later. Thus, penetrance increases with
+age. For MDI, penetrance is probably
+both age-dependent and incomplete, 1.e.,
+even susceptible individuals surviving
+through the age of risk probably have a
+less than 100% chance of expressing the
+phenotype. In linkage analysis, penetrance is important in determining the
+probability that an individual is a recombinant. Correction for age-dependent penetrance requires estimation of the age-ofonset distribution, a task which is
+frequently difficult with the available data
+(Heimbuch et al., 1980).
+
+Another question which arises when
+conducting a linkage analysis of depression is that of diagnosis. Currently, it is
+thought that unipolar illness is an alternate expression of the bipolar susceptibility when it is encountered in the families of
+bipolar patients. However, unipolar illness is so prévalent (Silverman, 1968) that
+some unipolar relatives of bipolar probands may be manifesting an etiologically
+distinct disorder. In these cases,
+classification of the unipolar relative as affected may lead to incorrect assignment of
+recombinant status. In addition, opinions
+vary as to whether such diagnoses as questionable affective disorder, cyclothymic
+personality, and alcoholism should be
+considered expressions of the same
+genetic susceptibility in the families of bipolar probands.
+
+REEVALUATIONS OF X-LINKAGE FOR MDI
+
+The failure of early linkage studies to
+consider these questions and others led
+Gershon and Bunney (1976) to reanalyze
+the pedigree data for X-linkage of MDI.
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+4 Morton and Kidd
+
+Their analysis of the data took an extremely conservative approach, excluding
+those families in which the parental source
+of a gene could not be determined unambiguously or in which male-to-male transmission could not be excluded. They also
+eliminated those individuals who were
+well but less than 25 years of age. Using
+these strict exclusion criteria, no evidence
+was found for linkage between MDI and
+the loci for protan-deutan color blindness
+or the Xg locus. Gershon and Matthysse
+(1977) also noted problems introduced by
+nonrandom ascertainment of families segregating for both the illness and a genetic
+marker.
+
+The new studies by Mendlewicz et al.
+(1979) and Gershon et al. (1979) have attempted to resolve the uncertainty by collecting additional families using more
+defined ascertainment criteria and analyzing the data using more appropriate
+methods. Both studies incorporated variable age of onset into penetrance functions
+and Gershon et al. (1979) addressed the
+question of variable expressivity by computing lod scores using two alternative
+diagnostic schemes. The eight families
+studied by Mendlewicz et al. (1979) were
+consistent with linkage of MDI and color
+blindness, although the highest lod score
+of 1.55 (at 6=0.15) did not permit
+definitive acceptance of the hypothesis. In
+addition, they reported significant heterogeneity of lod scores. Gershon et al.
+(1979) reported six families for which total
+lod scores did not support linkage, although a hypothesis of linkage could not
+be rejected in the range for which Mendlewicz et al. reported a maximum value. In
+addition, Gershon et al. observed that in
+two of the six families lod scores were
+slightly in favor of linkage.
+
+Though recognizing the need for more
+sophisticated analyses, neither of these recent papers systematically explored the
+
+ 
+
+Social Biology
+
+effects of the new variables introduced
+into the analysis. Mendlewicz et al. (1979)
+did not even specify the age-of-onset distribution actually used. It seems entirely
+possible that use of ‘‘correct” age-of-onset
+distribution, degree of incomplete penetrance, and range of variable expressivity
+would allow detection of genetic linkage
+that was not detected using “incorrect”’
+values.
+
+To examine this question we have been
+exploring the effects of age-dependent
+penetrance and variable diagnosis on the
+results of linkage analysis for an X-linked
+trait. The results of our analyses ilfuminate the problems of genetic linkage
+studies and provide some indication of the
+robustness of linkage analyses to variations both in the age-of-onset distribution
+used and in the diagnostic criteria. These
+results do not address the question of Xlinkage for MDI, but rather demonstrate
+the importance of using the proper versions of the currently used methods of
+linkage analysis when studying psychiatric
+disorders. Our conclusions also apply to
+studies of other complex disorders with
+variable age of onset and variable expressivity.
+
+MATERIALS AND METHODS
+
+We selected three large published pedigrees, the Calvert and Alger families
+(Reich et al., 1969) and the family of a
+lithium-responsive schizoaffective proband, hereafter referred to as the Baron
+family (Baron, 1977). It should be noted
+that we did not attempt an unbiased ascertainment; we specifically chose these pedigrees for their compatibility with hypotheses of X-linkage for MDI.
+
+We have modified LIPED Version 3
+(Ott, 1976) to permit calculation of the
+probability that an individual would ex
+: press his/her phenotype, given each possi
+ble genotype, as a function of age and/or
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+ 
+
+Vol. 27, No. 1
+
+sex (Hodge et al., 1979). The agedependent penetrance function to be used
+in a particular analysis is specified by a
+subroutine that is called from the main
+program. The subroutine calculates a set
+of penetrances for each individual using
+the individual’s age and/or sex according
+to a function and parameters that must be
+specified. These individualized penetrances are then used in evaluating the
+likelihood.
+
+We chose to compare three different
+penetrance functions. The first assumed
+that penetrance does not vary with age
+and is equal to 0.00, 0.75, and 0.85 for normal homozygotes and hemizygotes, heterozygotes, and abnormal homozygotes
+and hemizygotes, respectively. The second function, in which penetrance for heterozygotes and for abnormal homozygotes and hemizygotes is 0.00 up to age 14
+and increases exponentially to a value of
+0.94 at age 100, was suggested by Crowe
+and Smouse (1977) after analyzing the
+age-of-onset data collected by Winokur et
+al. (1969). Finally, we tested a dominant
+linear function in which penetrance is 0.00
+to age 14 and then increases linearly to
+0.94 at age 65 and above. Both the linear
+and exponential functions were used in
+conjunction with an age-dependent linear
+function for phenocopies, in which penetrance is 0.00 to age 14 and then increases
+linearly to 0.03 for 65 and older. We did
+not consider sex-specific penetrances, but
+considered the hemizygote values equal to
+those of the respective homozygotes. In
+all cases, the gene frequencies for the “‘depressive’ allele and for the colorblindness allele were both assumed to be
+0.02.
+
+We considered separately the question
+of whether a single genotype may develop
+more than one affected phenotype. In order to assess the effects of assuming that
+several diagnoses were variable expres
+Estimates of Linkage 5
+
+sions of a single genotype, we classified
+the individuals in the families as affected
+vs. unaffected according to four different
+rules: (1) bipolar depression alone was
+considered affected; (2) bipolar and unipolar disorder were classified as affected;
+(3) bipolar, unipolar, and questionable affective disorder were considered affected;
+and (4) bipolar, unipolar, questionable
+affective disorder, and alcoholism were labeled affected. In the Alger family, individuals receiving all four diagnoses were
+present, resulting in four possible patterns
+of illness for that pedigree. The Calvert
+family had no one diagnosed as questionable; therefore, only three classifications
+were possible. All members of the Baron
+family were bipolar, unipolar, or well, resulting in only two possible classifications.
+For each penetrance model and each
+possible diagnostic classification of the
+three families, we computed the likelihood of linkage at ten estimates of 0, the
+recombination fraction (0.00, 0.03, 0.06,
+0.10, 0.13, 0.16, 0.20, 0.30, 0.40 and 0.50).
+This represents a total of 27 sets of likelihoods. In the case of the Alger and
+Calvert families, published pedigrees
+were modified to eliminate those sections
+which were not informative for linkage.
+
+RESULTS
+
+Since we have not addressed the issue
+of whether MDI is X-linked, but rather
+have looked at the effects of agedependent penetrance and diagnosis on
+linkage analyses, we will present here only
+illustrative results and not a full lod-score
+analysis. First, in most cases we found that
+incorporation of a penetrance function
+which increases with age yielded results
+very different from those obtained under
+the assumption of constant penetrance.
+Interestingly, we often found that, as in
+the case of the Baron pedigree with only
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+6 Morton and Kidd
+
+bipolars considered affected (Figure 1),
+results obtained using a linear agedependent penetrance function differed
+very little from those using an exponential
+age-dependent penetrance function, although both were quite different from results using a constant value. Second, even
+when the linear and exponential models
+yielded quite different numerical results,
+qualitative results were the same. For example, in the case of the Alger family with
+all four diagnoses considered affected
+(Figure 2), the linear and exponential
+models gave different results, but our conclusions about the most likely recombination fraction and the general shape of the
+likelihood surface are the same. The constant penetrance function, however,
+yielded a different curve and a different estimate of 6. Finally, the Calvert family
+with both bipolar and unipolar considered
+
+BARON / BP = AF
+
+     
+
+Log (L)
+
+LINEAR
+
+-10.0 INCREASING
+
+EXPONENTIAL
+INCREASING
+
+-t1.0
+
+-12.0
+
+Fig. 1.—Log)o likelihoods for the Baron pedigree
+as a function of @, the recombination fraction, using
+penetrance functions of three types: one which increases linearly with age, one which increases exponentially with age, and one which is constant for
+
+-allages. Only the diagnosis bipolar affective disorder
+(BP) was considered affected.
+
+Social Biology
+
+-200 ALGER / BP, UP, QD, ALC = AF
+
+      
+  
+
+-2t.0 EXPONENTIAL
+
+INCREASING
+
+    
+   
+ 
+
+Log (L)
+-22.0
+LINEAR
+INCREASING
+-23.0
+CONSTANT
+-24.0
+10 20 30 .40 50
+g
+
+Fig. 2.—Logio likelihoods for the Alger pedigree
+as a function of 0, the recombination fraction, using
+penetrance functions of three types: one which increases linearly with age, one which increases exponentially with age, and one which is constant for
+all ages. The diagnoses bipolar affective disorder
+(BP), unipolar affective disorder (UP), questionable
+affective disorder (QD), and alcoholism (ALC) were
+all considered affected.
+
+affected (Figure 3), illustrates another important result. The lod score log,,—
+(likelihood at 6 =6 — log ,, (likelihood at
+6=0.5)—is greatest for a constant penetrance function, yet the absolute likelihoods of the age-dependent functions are
+greater than those of the constant function. This finding illustrates the point that,
+when parameters other than 6 are varied,
+lod scores obscure the true likelihood
+differences for the other parameters.
+With respect to variation in diagnostic
+classifications, the results are fairly consistent regardless of the penetrance function
+employed. For each individual family as
+well as for.the total, the inclusion of unipolar affective disorder as affected increased the lod score (see Table 1). For
+the Alger family, the addition of individuals with a diagnosis of questionable
+affective disorder further increased the
+ 
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Vol. 27, No. 1
+
+-9.0 CALVERT / BP, UP = AF
+
+   
+
+-(0.0
+
+EXPONENTIAL
+INCREASING
+
+    
+ 
+
+LINEAR
+
+“11.0 INCREASING
+Log (L)
+-t2.0
+CONSTANT
+-13.0
+AO .20 30 40 50
+8
+
+Fig. 3.—Logio likelihoods for the Calvert pedigree as a function of @, the recombination fraction,
+using penetrance functions of three types: one which
+increases linearly with age, one which increases exponentially with age, and one which is constant for
+all ages. The diagnoses bipolar affective disorder
+(BP) and unipolar affective disorder (UP) were both
+considered affected.
+
+Estimates of Linkage 7
+
+log,, likelihoods for all three penetrance
+functions. The extension of the affected
+classification to alcoholism resulted in a
+decrease in lod scores for both the Calvert
+and Alger families. The magnitude of this
+decrease varied depending on the penetrance function.
+
+DISCUSSION
+
+Perhaps the simplest conclusion is that
+the results of linkage analyses are dramatically affected by assumptions made in the
+handling of the data. Specifically, choice
+of a penetrance (or age-of-onset) function
+and choice of a diagnostic spectrum can
+affect conclusions concerning linkage.
+This finding argues strongly both for channeling research efforts into studies which
+will improve our knowledge in these areas
+and for careful consideration of the sensitivity of our methodologies to the approximations currently used.
+
+Our results demonstrate the importance of incorporating an age-dependent
+
+TABLE 1
+
+Loc LIKELIHOODS OBSERVED WITH VARIABLE DIAGNOSTIC CLASSIFICATION ASSUMING AN
+EXPONENTIAL AGE-DEPENDENT PENETRANCE FUNCTION™*
+
+PEDIGREE AND DIAGNOSES
+
+0.1
+
+Alger
+
+BP... cc cc ccc cece ee eae —10.60
+
+BP, UP.... cece cee eee — 18.20
+
+BP, UP,QD................... —18.28
+
+BP, UP, QD, ALCT............. —21.05
+Calvert
+
+|) —8,22
+
+BP, UP7'................2200005 — 10.24
+
+BP, UP, ALC.................. —12,29
+Baron
+
+BPH... ccc ee cence eens —10.11
+
+BP, UP...... 0... cece eee —9,39
+
+0.3 0.5 6
+—10.60 — 10.60 0.00
+—18.75 — 19.30 0.00
+—19.06 —19.74 0.00
+—21.65 —22.03 0.00
+
+—8.22 —§8.22 0.50
+—10.93 —11.55 0.00
+—12.94 —13.46 0.00
+—10.72 . —11.39 0.00
+—10.25 —11.28 0.00
+
+*Logio likelihoods computed using different classification schemes are not directly comparable because the data change as
+diagnostic criteria change. Note, however, that the observed evidence for linkage, based on likelihoods at various values of 6, changes
+depending on the diagnostic classification assumed. BP is bipolar affective disorder; UP is unipolar affective disorder; QD is questionable affective disorder; ALC is alcoholism; and 6 is the value of @ which corresponds to the maximum log ig likelihood.
+
+tLogio likelihoods observed for these pedigrees employing different penetrance functions are presented in Figures 1-3.
+ 
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+8 Morton and Kidd
+
+penetrance function into analyses ofa trait
+such as MDI for which risk is known to
+vary with age. However, in this small
+number of families the choice of a specific
+age-dependent function, as long as it
+roughly approximated age-of-onset data,
+was less important than the decision to
+employ some reasonable function. This
+finding for an X-linked trait is in general
+agreement with the report on autosomal
+linkage analyses of Huntington’s disease
+with three informative genetic markers
+(Hodge et al., ms.). These authors also
+found that the precise shape of the agecorrection curve had little effect on the lod
+scores, while failure to employ any age
+correction at all yielded significantly
+different lod scores.
+
+In general, our knowledge of agedependent penetrance is still quite limited. There are serious theoretical problems encountered in the estimation of
+penetrance and age-of-onset curves from
+data on patients (Heimbuch et al.,
+1980). For example, although age-ofonset distributions are available for primary affective disorder, many agedependent penetrance functions derived
+from these data do not consider population demograhics or genotype- and phenotype-specific morbidities. Some data do
+not distinguish between bipolar and unipolar disorder; yet we expect that the distributions for these two diagnoses may be
+quite different. For the present, however,
+Our results argue that while some function
+must be used, an approximate function is
+acceptable, although the best available
+function is preferable. Ignoring the age
+effect for disorders with variable age of
+onset may lead to errors both in the numerical results of linkage analyses and in
+the conclusions drawn from those results.
+
+The question of which diagnostic categories are part of a single spectrum is also
+pertinent in linkage analyses with complex
+traits. In many linkage analyses of MDI,
+
+Social Biology
+
+unipolar depression as well as several
+other depression-like diagnoses are assumed to be variable expressions of the
+“bipolar genotype” when present in the
+families of bipolar probands. However,
+studies attempting to determine which
+diagnostic entities are genetically related
+to bipolar affective disorder are quite rare.
+The demonstration of increased incidence
+of a specific diagnosis among relatives of
+bipolar probands would argue for the hypothesis that the two are genetically related, but only evidence of linkage to a
+single marker within families or of a single
+inherited biochemical defect would constitute proof of genetic identity. It is absolutely critical for the assignment of recombinant/nonrecombinant status’ to
+individuals in a pedigree that we know
+which of the diagnoses present are likely
+to represent alternate manifestations of
+the ‘‘depressive genotype” and which are
+likely to represent other genetic or nongenetic entities. This question is especially
+important because of the high lifetime
+prevalence for some form of depression.
+Other diagnoses are quite likely to occur
+sporadically in large pedigrees by chance
+alone.
+
+Not surprisingly, this example has demonstrated that assumptions concerning the
+extent of the bipolar spectrum do affect
+lod scores and their interpretation. The inclusion of both unipolar depression and
+questionable affective disorder and the exclusion of alcoholism from the diagnostic
+spectrum consistently gave the highest lod
+scores. However, it is inappropriate to
+draw any conclusions about the true extent of the spectrum from such a limited
+number of families without confirmatory
+evidence from independently collected
+family prevalence data.
+
+Our results also raise more general concerns about the use of linkage analysis in
+complex disorders for which the mode of
+inheritance is not known. The likelihoods
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Vol. 27, No. 1
+
+computed are functions of the parameters
+of the genetic hypothesis as well as the recombination fraction and should thus be
+maximized over all those parameters. In
+the MDI example presented in this paper,
+uncertainty about age-dependent penetrance and the extent of the diagnostic
+spectrum suggests additional parameters
+over which the likelihood must be maximized. The result graphed in Figure 2
+illustrates one possible consequence of
+this complication: The hypothesis which
+gives the greatest lod score for linkage is
+not the most likely one.
+
+It is important to remember that lod
+scores represent only relative likelihoods
+useful for comparing different estimates
+for a single parameter. They imply nothing about the relative likelihoods of the estimates of other parameters. Therefore,
+looking at lod scores alone can be misleading. A linkage problem now has more than
+just one parameter because there is uncertainty about the mode of inheritance, the
+diagnostic spectrum, and age-of-onset distribution. In theory, the likelihood should
+be maximized over all variables, including
+not just 6, but also the onset function and
+the parameters of the genetic model which
+include the relationships between symptoms and genotypes.
+
+Genetic linkage promises to be one of
+the most important techniques in clarifying the genetics of complex disorders. For
+example, Kravitz et al. (1979) have demonstrated the value of genetic linkage in
+
+ 
+
+Estimates of Linkage 9
+
+elucidating the genetics of hemochromatosis. For psychiatric disorders, genetic
+linkage provides the best proof of genetic
+involvement. Though only a small part of
+the genome is currently close to a highly
+polymorphic marker, recombinant DNA
+techniques should add a large number of
+new markers in the next few years,
+thereby increasing the feasibility of
+linkage studies. However, a word of caution is in order: We have shown that the
+situations in which linkage can be most
+helpful—the complex disorders—are also
+the ones in which the precise assumptions
+and methods used can have a great effect
+on the results.
+
+Finally, it should be reemphasized that
+these results in no way address the question of X-linkage for MDI. However, they
+serve to demonstrate the necessity of considering both variable age of onset and
+variable expressivity in subsequent
+linkage analyses of bipolar affective disorder and many other traits. Our results suggest that, in practice, any reasonable onset
+distribution will suffice and that conservative diagnostic criteria will lead to conservative results.
+
+ACKNOWLEDGMENTS
+
+We would like to thank Dr. Peter Smouse
+for lengthy and helpful discussions concerning
+this research and the writing of this manuscript.
+
+This work was supported in part by USPHS
+Grants NS 11786 and MH 28274.
+
+REFERENCES
+
+Baron, M. 1977. Linkage between an Xchromosome marker (deutan color-blindness)
+and bipolar affective illness. Arch. Gen.
+Psych. 24:721-727.
+
+Crowe, R. R., and P. E. SmMouse. 1977. The
+genetic implications of age-dependent penetrance in manic-depressive illness. J. Psych.
+Res. 13:273-285.
+
+GERSHON, E. S., and W. E. BuNNEY, JR. 1976.
+
+The question of X-linkage in bipolar manicdepressive illness. J. Psych. Res. 13:99-117.
+GERSHON, E. S., and S. MatTruysse. 1977. Xlinkage: Ascertainment through doubly ill
+probands. J. Psych. Res. 13:161-168.
+
+GERSHON, E. S., S. D. Tarcum, S. MATTHYSSE,
+and W. E. Bunney. 1979. Color blindness not
+closely linked to bipolar illness. Arch. Gen.
+Psych. 36:1423-1430.
+
+ 
+—|
+=
+©
+N
+~
+oO
+=
+oO
+oO
+oO
+A
+Co
+©
+Co
+mn
+oN
+=
+—
+S
+‘=
+ws
+oN
+—
+oo
+O
+S
+Ce
+©
+>>
+—
+oo
+N
+Some
+oO
+>
+os
+c
+~.
+va)
+Oo
+cv
+oO
+co
+so
+©
+—
+c
+S
+©
+A
+
+10 Morton and Kidd
+
+HEIMBucH, R. C., S. MATTHYSSE, and K. K.
+Kipp. 1980. Estimating age-of-onset distributions for disorders with variable onset. Amer.
+J. Hum. GENET, 32: 564—574.
+
+HopcE, S. E., L. A. Morton, S. TIDEMAN, K. K.
+Kipp, and M. A. Spence. 1979. Age-of-onset
+correction available for linkage analysis
+(LIPED). Amer. J. Hum. Genet. 31:761-762.
+
+Hodge, S. E., M. A. Spence, B. F. Crandall, R.
+S. Sparkes, M. C. Sparkes, M. Crist, and S.
+Tideman. Huntington’s disease: Linkage
+analysis with age-of-onset corrections. Amer.
+J. Med. Genet. 5:247-254.
+
+Kravitz, K., M. SkoLnick, C. CANNINGS, D. CarMELLI, B. Baty, B. Amos, A. JoHNSON, N.
+MENDELL, C. Epwarps, and G. CARTWRIGHT.
+1979. Genetic linkage between hereditary hemochromatosis and HLA. Amer. J. Hum.
+Genet. 31:601-619.
+
+MENDLEWICzZ, J., and J. L. Fietss. 1974. Linkage
+studies with X-chromosome markers in bipolar (manic-depressive) and unipolar (depressive) illness. Biol. Psych. 9:261-294.
+
+MENDLEWICczZ, J., J. L. Fieiss, and R. R. Fieve.
+1972. Evidence for X-linkage in the transmission of manic-depressive illness. J. Amer.
+Med. Assoc, 222:1624-1627.
+
+Social Biology
+
+MENDLEwiIcz, J., P. LinKowski, J. J. GuRorFF,
+and H. M. Van Praaa. 1979. Color blindness
+linkage to bipolar manic-depressive illness.
+New evidence. Arch. Gen. Psych.
+36:1442-1447.
+
+Morton, N. E. 1955. Sequential tests for the detection of linkage. Amer. J. Hum. Genet.
+7:277-318.
+
+Ott, J. 1976. A computer program for linkage
+analysis of general human pedigrees. Amer. J.
+Hum. Genet. 28:528-529.
+
+Reicu, T., P. Clayton, and G. WINoxkur. 1969.
+Family history studies: V. The genetics of mania. Amer. J. Psych. 125:1358-1369.
+
+RosanorF, A. J., L. M. Hanpy, I. R. PLEsserT.
+1935. The etiology of manic-depressive syndromes with special reference to their occurrence in twins. Amer. J. Psychiat. 91:725-762.
+
+SILVERMAN, C. 1968. The epidemiology of depression. The Johns Hopkins Univ. Press,
+Baltimore.
+
+WINoKuR, G., P. J. CLayTon, and T. REIcH.
+1969. Manic depressive illness. C. V. Mosby,
+St. Louis.
+
+Winokur, G., and V. L. TANNA. 1969. Possible
+role of an X-linked dominant factor in manicdepressive disease. Dis. Nerv. Syst. 30:80-94.
+
+ 
+

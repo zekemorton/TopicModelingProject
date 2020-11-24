@@ -10,6 +10,7 @@ if not os.path.exists(save_path):
 # go through all text files in equarterly directory
 file_path = 'data/equarterly'
 files = os.listdir(file_path)
+
 for f in files:
     with open(file_path + '/' + f, encoding='ISO-8859-1') as file:
         data = file.read()

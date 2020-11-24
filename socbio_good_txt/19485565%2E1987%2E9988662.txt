@@ -1,0 +1,1325 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Breast-feeding, social variables, and infant
+mortality: A hazards model analysis of the case of
+Malaysia
+
+Bart Holland
+
+To cite this article: Bart Holland (1987) Breast#feeding, social variables, and infant mortality:
+A hazards model analysis of the case of Malaysia, Social Biology, 34:1-2, 78-93, DOI:
+10.1080/19485565.1987.9988662
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1987.9988662
+
+fn Published online: 23 Aug 2010.
+(FB crs | 7
+Submit your article to this journal @
+lil Article views: 4
+N
+Q View related articles 4
+
+(7) Citing articles: 1 View citing articles G
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:41
+
+ 
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+Breast-feeding, Social Variables,
+and [nfant Mortality:
+
+A Hazards Model Analysis
+
+of the Case of Malaysia
+
+ 
+
+Bart Holland
+
+Office of Population Research
+Princeton University
+Princeton, New Jersey
+
+ABSTRACT: This study is an attempt to use a hazards model to estimate the relative risks of
+mortality experienced at different periods during the first year of life among Malaysian infants
+breast-fed for various durations. Data on mortality, breast-feeding, and social variables were
+obtained from the retrospective Malaysian Family Life Survey and were used after checking for
+quality and consistency. Using LOGLIN to calculate hazards models, essentially multidimensional life-tables, we found that breast-feeding had an effect on mortality independent of socioeconomic variables and birth cohort. There was a monotonic relationship between breastfeeding duration and lower infant mortality during each of four subdivisions of the first year of
+life. Breast-feeding was a statistically significant predictor of mortality in the first six months.
+The results are compared with those from the Rand study, which employed regression rather
+than hazards models.
+
+Dietary risk factors in infancy have iable and provides a comparison with
+recently been the subject of much re- the work of Butz, DaVanzo, and Hasearch and heated discussion. In 1980, _ bicht of the Rand Corporation (1982),
+controversial action was taken when the who used linear probability regression
+World Health Organization adoptedthe equations to study mortality determivoluntary International Code of Mar- nants in subperiods of the first year of
+keting of Breastmilk Substitutes, life, using the same data set.
+against the opposition of the infant for- Of course, much of what is known
+mula industry (World Health Organiza- about mother’s milk does lend credence
+tion, 1980; Clarkson, 1981). This paper to the hypothesis that breast-feeding in
+presents a case study of the importance infancy increases a baby’s survival
+of breast-feeding in one Third'Worlden- chances. Mother’s milk contains antivironment and shows how the protect- infective cells and chemicals (Jelliffe
+ive effect of breast-feeding varies in dif- and Jelliffe, 1979). The nutrition literaferent settings and at different intervals ture shows that mother’s milk is the optiduring the first year of life. It also mummix of nutrients for the developing
+serves as a worked example ofahazards infant (Thomson and Black, 1975). Fimodel analysis of a time-dependent var- _ nally, several studies attest to the dan————_——— oo. gerous levels of bacterial contamination
+
+Author’s present address: Division of Biosta-~ found in containers and utensils with
+tistics and Epidemiology, Department of Preventive Medicine and Community Health, University which alternative foods are prepared
+of Medicine and Dentistry of New Jersey, New (Laditan and Reeds, 1976; Phillips et
+
+Jersey Medical School, 100 Bergen Street, Newark, New Jersey 07103 al., 1969; Rowland et al., 1978). But the
+
+78
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+ 
+
+Vol. 34, No. 1-2
+
+extent to which breast-feeding in infancy actually confers a survival advantage 1n specific environments cannot be
+deduced a priori. Analysis of the empirical effects of breast-feeding on infant
+mortality must be carried out in diverse
+settings and must take into account the
+effects of other variables likely to have
+an effect on feeding practices, infant
+mortality, or both.
+
+In European nations during the closing decades of the nineteenth century,
+there apparently were large mortality
+differentials between infants exclusively
+bottle-fed and those exclusively breastfed. For example, in Berlin in 1895-96
+the death rate in the former group was
+376 per thousand, while in the latter it
+was 57 (Knodel, 1977). The early studies
+reviewed by Knodel ignore the possibility of confounding socioeconomic variables, but the consistent finding of the
+protective effects of mother’s milk is of
+interest. Recent research on breastfeeding in Western nations provides
+equivocal evidence of breast-feeding’s
+protective effects. Some studies have
+found morbidity differentials (Douglas,
+1950; Cunningham, 1977), while others
+have not (Stevenson, 1947; RCGP,
+1972; Adebonojo, 1972). Diet-related
+mortality differentials have decreased
+substantially since the late nineteenth
+century, probably due to general improvements in the sanitary condition of
+food and water supplies (McKeown,
+1979).
+
+Given the presumed importance of
+sanitary improvements, and the association of such improvements with economic development, the impact of feeding practices on infant death rates
+should be most important today in the
+least developed nations. In fact, relatively few thorough studies of the relation of diet to infant mortality have been
+
+Breast Feeding
+
+79
+
+carried out in such nations, and even
+good morbidity studies are surprisingly
+uncommon. Plank and Milanesi (1973)
+found that in fifteen communities in
+Chile the relative risk of post-neonatal
+death among those solely bottle-fed was
+three times that among babies who were
+solely breast-fed. In one study of three
+Arab villages, infants who had been
+solely bottle-fed were hospitalized with
+diarrhea almost fifty times as frequently
+as those who were solely breast-fed (Kanaaneh, 1972). Much other work has
+been flawed by small, biased, or unrepresentative samples. For example,
+Dugdale (1971) found that breast-feeding had no relationship to morbidity in a
+sample of 250 Malaysian infants, while
+Manderson (1981, p. 175), on the contrary, ‘““. . . established a significant relationship between artificial feeding and
+the incidence of gastroenteritis” in infancy and childhood among 244 patients
+in a Malaysian hospital. However,
+Dugdale used a sample from a clinic
+population, perhaps consisting of mothers unusually knowledgeable and concerned about infant care, while Manderson based her conclusions upon proportions breast-fed among those hospitalized, without examining the corresponding proportion in any control
+group.
+
+An understanding of the health impact of breast-feeding in different social
+and environmental circumstances is of
+enormous value for policy-making, particularly in developing nations. The
+present work is an attempt to estimate
+diet-related mortality differentials from
+multidimensional life tables, for a large
+and representative sample of a welldefined population, while taking into account the effects of socioeconomic variables. A hazards models analysis is
+particularly appropriate for the study of
+
+ 
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+80 Holland
+
+breast-feeding and infant mortality.
+Over the course of the first year of life,
+the risk of dying usually exhibits a striking monotonic decline and endogenous
+causes of mortality are supplanted by
+exogenous ones. Therefore, the effects
+of breast-feeding duration on infant
+mortality should be modelled in a way
+which permits the risks and causes of
+dying to vary with time. Hazards model
+analysis can be used to assess the significance of influences on the risks of dying
+in various time intervals, taking into account the effects of a number of covariates (Trussell and Hammerslough,
+1983). Many such studies, carried out in
+varied settings, will be needed if policy
+decisions concerning infant feeding
+practice are to be established upon a
+broad base of empirical evidence.
+
+HAZARDS MODEL
+METHODOLOGY
+
+Following theoretical work by Laird
+and Olivier (1981), Trussell and Hammerslough (1983) have illustrated how
+life tables with covariates can be estimated and tested by fitting log-linear
+multidimensional contingency table
+models with LOGLIN, a computer program developed at the Harvard School
+of Public Health. For the purposes of
+mortality analysis, covariates are variables which are expected to be predictors
+of death rates. LOGLIN calculates expected numbers of deaths for the cells of
+a table of discrete categories, based
+upon hierarchically specified models of
+main effects and their interactions (Olivier and Neff, 1978). Maximum likelihood estimates of elementary cells are
+computed by iterative proportional
+fitting. Log-likelihood statistics show
+the goodness-of-fit when comparing expected tables of deaths with the ob
+Social Biology
+
+served figures. This permits the identification of preferred models and
+consequently of significant independent
+variables and interactions. The dependent variable is the log of the death rate,
+given as the sum of additive effects estimates. The ratio of exponentiated effects estimates provides a measure of
+relative risk when comparing the different categories of a given variable, while
+simultaneously controlling the effects of
+the other variables.
+
+Differences in log-likelihood statistics between two nested models, a pair
+in which variables included in one model
+are a Subset of those in the other, are distributed asymptotically as a chi-square
+distribution and are tested with degrees
+of freedom equal to the difference between the numbers of parameters in the
+two models. The associated p-values
+show how likely it is that the simpler
+model is just as good at explaining the
+observed distribution of deaths as the
+more complex model, so when the pvalue is large we accept the model with
+fewer variables or interactions.
+
+MATERIALS AND METHODS
+
+The Malaysian Family Life Survey
+was carried out in 1976 among 1,262
+households representative of the regions of Peninsular Malaysia (Butz and
+DaVanzo, 1978). The Rand Corporation, Survey Research Malaysia, and the
+Malaysian Government Department of
+Statistics all participated. The part of
+the survey used for this work was a retrospective questionnaire concerning
+pregnancy histories, feeding practice,
+and socioeconomic variables, answered
+by ever-married women under 50 years
+of age. In all, information on 5,593
+births was available. Births were used as
+
+ 
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+ 
+
+ 
+
+Vol. 34, No. 1-2
+
+Breast Feeding
+
+ 
+
+81
+
+TABLE 1
+CATEGORIES OF VARIABLES USED IN ANALYSIS?
+
+1. Breast feeding:
+0-1 months: never/ever
+2-3 months: never/< 1/1+
+4-6 months: never/< 1/1/2-3
+7~12 months: never/1-—3/4-6
+
+2. Other food, by end of interval: yes/no
+
+This variable used only in first interval (see text).
+
+3. Birthweight: <2500g/2500g +
+
+4. Birth order and preceding inter-pregnancy interval:
+
+First Birth
+
+Second or third, up to 2 yrs.
+Second or third, >2 yrs.?
+Fourth and higher, up to 2 yrs.
+Fourth and higher, >2 yrs.
+
+Birth cohort: < 1960/1960-69/1970 +
+Piped water: yes/no
+
+Sex: male/female
+
+Formal schooling: some/none
+Ethnic group: Malay/Chinese/Indian
+
+~ SR Se
+
+—
+
+Mother’s age at birth of child: < 20/20-34/35 +
+
+*Categones are the same in each analysis interval except for Variables 1,2, and 4
+°No deaths in this category in age group 4-6 months, all second and third births were combined in the interval
+
+the unit of analysis. A group of possible
+mortality determinants was selected for
+study on the basis of frequent mention
+in the literature.
+
+Table 1 displays the categories of
+each of the hypothesized predictors of
+infant mortality. In some cases variable
+codes were collapsed due to small numbers. The variables used in the analysis
+were breast-feeding history, use of other
+food, birthweight, time period of birth,
+sex, availability of piped water, and
+birth order together with the length of
+the prior closed birth interval. The age
+of the mother at the time of the birth,
+and her ethnic group and formal schooling, were included also.
+
+Whenever possible, the representativeness of the sample was tested by
+comparing the reported patterns of the
+selected variables to national figures or
+plausible limits. Survey distributions of
+maternal age, ethnic group, piped water
+availability, birth cohort, and schooling
+were comparable to national distribu
+tions (Chander et al., 1977; Fernandez
+et al., 1975; Malaysia Dept. of Statistics,
+1970; Ooi, 1976). The sex ratio at birth
+was not significantly different from 105.
+Reported parities by age and by ethnic
+group were similar to WES figures
+(Chander et al., 1977). Birthweights
+were statistically shown to be normally
+distributed in every cohort and ethnicity
+subgroup, as is expected. Within each
+subgroup, distributions of durations
+breast-fed were heaped on multiples of
+six months, but nonetheless did not differ significantly from the model breastfeeding distribution developed by Lesthaeghe and Page (1980). The infant
+mortality rates showed some sampling
+fluctuations when examined by birth cohort and ethnic group, but overall rates
+by cohort were comparable to those in
+Malaysian vital statistics reports (Sidhu
+and Jones, 1981), and Haaga (1986) has
+shown that the trends in time by ethnic
+group in the Rand study are not generally different from national figures if
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+82 Holland
+
+three-year moving averages are used to
+smooth the curves.
+
+The income variable seemed not to
+be a good measure of socioeconomic
+status. Fully half the women reported an
+income of zero. While some of these
+may be engaged exclusively in child care
+in the home, others may be doing labor
+on family-owned farms, while still others
+may be employed on plantations or elsewhere outside the home for payment in
+goods. Reported income was not correlated with the other measures known to
+be good indicators of social standing in
+Malaysia, such as ethnic group and
+mother’s education. In view of the uncertainty of what the income variable
+was measuring, it was not used.
+
+Another variable also proved to be of
+only limited use: the age at which “‘baby
+first received food or drink regularly
+other than breast milk’? (Fain and
+Kheong, 1978). For 54 per cent of babies born in the sample, that age was reported as two months or Jess. No deaths
+were reported after the start of the third
+month among those receiving ‘“‘no other
+foods,’”’ because of low rates and small
+numbers. In the public use data tape, dietary alternatives to breast-feeding are
+not specified, further limiting the utility
+of the variable for this analysis.
+
+STATISTICAL MODELLING
+
+In fitting the hazards models to these
+data, we made two critical decisions
+about modelling. First, to provide adequate samples in subperiods of the first
+year of life, analysis intervals were constructed starting at ages 0, 2, 4, and 7
+months, and including up to 13 months
+of exposure. All models are estimated
+separately for each of the four intervals,
+so that the changing importance of the
+factors contributing to infant mortality
+can be seen. Second, a breast-feeding
+
+Social Biology
+
+variable had to be created for each interval which would reflect each baby’s
+feeding history as of the start of that
+time period. The breast-feeding status
+in the current interval, the interval for
+which effects estimates were being calculated, was not included, because if a
+child stopped breast-feeding in the interval in which it died, it would not be
+clear whether cessation of nursing
+caused the death or vice versa. An inherently biased variable could result.
+For the first interval, the variable was dichotomous: the ever/never breast-fed
+question was used.
+
+For each interval, a main effects
+model was fitted first. In each case a
+highly significant fit compared to a fully
+saturated model was obtained using the
+chosen predictors, as shown in Table 2.
+In order to fit a more parsimonious
+model, and to test the relative importance of variables during different intervals, each variable was to be dropped
+one at a time, and the loss of goodnessof-fit measured. However, it was important to test first for interactions in the
+main effects model, lest variables be
+dropped which have important effects
+only in combination with others.
+
+Several such interactions were subjected to testing, because of prior hypotheses. Ethnic group and cohort
+might show a significant interaction if
+the health conditions of the different
+ethnic groups in Malaysia were improving at different rates. Ethnic differences
+in mean birthweight were observed in
+the data set and led to the testing of a
+model with an ethnic group/birthweight
+interaction term. It seemed reasonable
+to expect an interaction between birthweight and breast-feeding because of
+the presumed susceptibility of lowbirthweight infants to infection. If alternative foods were prepared with con
+ 
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+ 
+
+Vol. 34, No. 1-2
+
+Breast Feeding 83
+
+TABLE 2
+
+DIFFERENCE BETWEEN MAIN EFFECTS MODELS AND FULLY SATURATED MODELS:
+CHI-SQUARE VALUES, DEGREES OF FREEDOM, AND SIGNIFICANCE?
+
+Age in Months
+
+0-1 2-3
+x? (df) p x? (df) p
+834.62 (1569) 10 21018 (1351) 10
+
+*P-values of 1 0 due to computer rounding
+
+4-6
+Xx? (df) p xX?
+17705 (1464) 10
+
++12
+(df) p
+242 80 (1545) 10
+
+TABLE 3
+
+CHI-SQUARE VALUES, DEGREES OF FREEDOM, AND SIGNIFICANCE LEVELS FOR THE ADDITION OF
+INTERACTIONS TO MODEL WITH ALL MAIN EFFECTS?
+
+AGE IN MONTHS
+
+0-1 2-3 4-6 7-12
+ADDITION OF INTERACTION xX? (df) p xX? (df) p X? (df) p X? (df) p
+Ethnicgp X cohort . . 3: 18(4)0 53 5 08(4)0 28 3.13(4)0 54 5 71(4)0 22
+Bwght x other food 0 36(1)0 55 na na na
+Bwght x bf . 2 39(1)0 12 2.54(2)0 28 2 97(3)0 40 3 40(2)0 18
+Piped Water x bf . 0 01(1)0 93 2 72(2)0 26 0 27(3)0 97 2 70)2)0 26
+Ethnic gp X bwght 9 62(2)0 0081 1 11(2)0 57 2 57(2)0 28 4 28(2)0 12
+Education X bf . 0 003(1)0 99 3 93(2)0 15 1 68(3)0 67 0 68(2)0 71
+
+“na = not applicable
+
+taminated water, we might expect an interaction between piped water and
+breast-feeding. Finally, the interaction
+between education and breast-feeding
+was also tested. Table 3 compares the
+model with all main effects with models
+obtained when adding interactions to
+them. Chi-square values and the applicable degrees of freedom are shown, together with the associated probability
+levels. Remember that a small p-value
+indicates a gain in fit with a more complex model. The only clearly significant
+interaction occurs in the first interval,
+where the joint effect of ethnic group
+and birthweight is significant.
+
+The set of runs in which variables
+were dropped from the main effects
+model one at a time is summarized in
+Table 4. The numbers of persons and of
+person-months of exposure in each interval, together with the number of
+deaths, are also displayed.
+
+To obtain parsimonious main effects
+models, deaths in each analysis interval
+were fitted using only the variables
+which had caused a significant loss of fit
+at the 10 per cent level when dropped individually from the complete main effects model for that interval. If the resulting model showed a significant loss
+of fit at the 10 per cent level compared to
+the complete main effects model, the
+omitted variables were added back, in
+decreasing order of significance, until a
+model was obtained which did not provide a significantly poorer fit than the
+model with ali main effects. The variables which are omitted from the parsimonious main effects model obtained
+by this procedure are marked in Table 4.
+
+The addition of selected interaction
+terms to main effects models with nine
+or ten variables had already been tested
+for statistical significance. Could these
+interactions significantly improve the fit
+ 
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+84 Holland Social Biology
+
+TABLE 4
+
+SUMMARY OF MODELS EXCLUDING VARIABLES, FOR FOUR INTERVALS‘ NUMBERS, CHI-SQUARE
+VALUES, DEGREES OF FREEDOM, AND SIGNIFICANCE LEVELS FOR Loss OF Fir COMPARED TO
+MObDEL WITH ALL MAIN EFFECTS
+
+AGE (IN MonTHS
+
+0-1 2-3 4-6 7-12
+N (deaths) 181 33 29 50
+N (persons) 5,501 5,320 5,287 5,258
+N (exposures) 10,658 10,581 15,722 31,120
+X? (df) p X* (df) p X? (df) p X?(df) p
+Model excluding
+Breastfeeding 16 99(1)<0001 4 37(2)0 11 16 81(3)<0001 259(2)0 274
+Other food 16 82(1) <0 001 na na na
+Bwght 76 41(1)<0001 1 84(1)0 17 1 66(1)0 20 6 98(1)0 008
+Birth order and PII 16 55(4)0 002 0 94(4)0 922 3 96(3)0 272 10 62(4)0 03
+Birth cohort 7 79(2)0 02 5 06(2)0 08 3 16(2)0 21 2 90(2)0 232
+Piped water 0 65(1)0 42° 0 05(1)0 822 0 33(1)0 572 2 39(1)0 122
+Sex 9 37(1)0 002 6 23(1)0 013 8 10(1)0 004 1 46(1)0 23¢
+Schooling 0 28(1)0 59° 1 18(1)0 28° 0 08(1)0 78? 17 29(1) <0 001
+Ethnic gp 44 49(2)<0 001 7 87(2)0 02 16 49(2)<0001 5 96(2)0 05
+Mother’s age 3 64(2)0 16 2 73(2)0 254 1 65(2)0 442 0 86(2)0 652
+All vanables
+with a 4 77(4)0 314 5 36(8)0 722 7 04(7)0 42¢ 9 32(8)0 322
+“No loss of fit compared to model with all main effects
+TABLE 5
+
+CHI-SQUARE VALUES, DEGREES OF FREEDOM, AND SIGNIFICANCE LEVELS FOR THE ADDITION OF
+INTERACTIONS TO PARSIMONIOUS MOobELs?
+
+AGE IN MontuHs
+
+0-1 2-3 4-6 7-12
+INTERACTION X? (df) p X? (df) p X?* (df) p X? (df) p
+Ethnic gp X cohort 2 52(4)0 64 5 05(4)0 28 3 14(4)0 53 na
+Bweight X other food 0 37(1)0 54 na na na
+Bweight x bf 2 14(1)0 14 2 58(2)0 27 3 07(3)0 38 na
+Ethnic gp X bwght 8 54(2)0 014° 1 24(2)0 54 2 47(2)0 29 3 43(2)0 18
+
+*na = not applicable because vanables are no longer in model
+’Shows sigmificant gain of fit compared to parsimonious model with main effects only Interaction 1s kept
+
+value shows that the deaths matrix is
+fitted equally well whether or not interaction is included. The joint effect of
+ethnic group and birthweight in the first
+interval is again the only significant interaction.
+
+Table 6 presents the effects estimates
+from each of what may be called the
+“preferred” LOGLIN models of mor
+of the parsimonious main effects
+models? It still seemed reasonable to expect an interaction between ethnic
+group and birthweight, and further evidence of the absence of the other interactions was desired. Table 5 shows the
+result of adding certain interactions to
+the parsimonious main effects model for
+each analysis. As with Table 3, a large pDownloaded by [University of Michigan] at 13:42 08 December 2015
+
+ 
+
+ 
+
+Vol. 34, No. 1-2 Breast Feeding 85
+TABLE 6
+LOGLIN Errects ESTIMATES FOR PREFERRED MODELS FOR EACH INTERVAL?
+AGE IN MontTHS
+EFFECT 0-1 2-3 46 7-12
+Grand mean ............000008: —4.814 —5,608 —§.559 —6.900
+Breast-feeding,
+months
+Never ..........0ccceeeceeee 1.248 0.339 0.730 ne
+Ever woe. ccc ec eee cece een eee — 1,248 na na ne
+a na 0.224 0.240 ne
+| na -0.563 0.285 ne
+0 na na —1.255 ne
+0 na na na ne
+Other food
+Never ....... cece cece ee enee ~0.917 ne ne ne
+Ever ... cc. cece cece eee naes 0.917 ne ne ne
+Birthweight
+SOMO a.m oc no.am ue oe iesws ou x 0.863 0.333 0.305 0.499
+CG conan vas oo os agen i ee —0.863 —0.333 ~0.305 —0.499
+Birth order and
+PI
+First 0... 0... cee ee eee cece ees 0.237 ne ne 0.079
+2-3, le2yrs ..... ce cee eee eee 0.688 ne ne 0.304
+2-3, Qt2 Ts voces s eevee eens —-0.780 ne ne —0,509
+At EL YTS i gscacaans «ba tEeS 0.091 ne ne 0.642
+At BtCY0S sasuseanse ws cause —0.236 ne ne -0.516
+Birth cohort
+<1960 .o oc cece eee eee 0.431 0.593 0.506 ne
+1960-69 wo... ccc cc eee ee eee —0.182 ~0.023 0.235 ne
+00901 0 —0.249 ~—0.570 —0.742 ne
+Sex
+Male ....... 0c cece eee eee 0.227 0.461 0.549 ne
+Female .............e. cee cee —0.227 ~0.461 —0.549 ne
+Formal schooling
+None ...... cece eee ce eee ne ne ne 0.855
+SOME 2... ccc eee eee ce eee ees ne ne ne —0,855
+Ethnic group
+Malay .......... cece eee eees 0.777 0.217 1.268 0.150
+Chinese ........- cc cece eee ~0.979 —0.870 —1.457 ~0.527
+Indian ...... 0... cece ee eens 0.201 0.653 0.189 0.377
+Interaction
+Malay
+<2500 8 oe cece cece eee ee ~0.274 na na ne
+CUO BY ccs na tanta sad i pes 0.274 na na na
+Chinese
+<2500 8... . cess eee ee eee —0.126 na na na
+ZOO B+ Lecce cece eee e neces 0.126 na na na
+Indian
+< 2500 oc cee ecceececeeee 0.400 na na na
+DOO G+ Lecce ceeee eee eaee —0.400 na na na
+
+ 
+
+*na = category not applicable; ne = no estimate for variable in this interval; PII = preceding inter-pregnancy interval.
+ 
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+86 Holland
+
+tality. The standard errors of the estimates are presented in Table 7. For the
+first interval the preferred model is the
+parsimonious main effects model with
+the addition of the ethnic group/birthweight intersection term; for later intervals it is simply the parsimonious main
+effects model. These models are preferred to those with more variables and to
+fully saturated models on the grounds
+that they explain observed distributions
+of hazard rates quite well with relatively
+few variables. At the same time, relatively liberal procedures have been used
+to determine which variables should be
+included. Tipping the balance in favor of
+inclusion of variables seems justified in
+view of the difficulty of detecting determinants of infant mortality differentials.
+
+THE PRESENT WORK AND THE RAND
+STUDY
+
+The directions and general patterns
+of effects estimates from the preferred
+models provide useful information
+about mortality determinants, even
+though the inclusion of variables is
+sometimes not statistically significant in
+accordance with the strictest criteria. In
+that sense this paper is an exploratory
+analysis rather than a formal test of hypotheses. The results of this analysis will
+be compared with the work of Butz,
+DaVanzo, and Habicht of the Rand
+Corporation (1982), who studied mortality determinants with the MFLS data
+using linear probability regression equations. The findings of the two studies are
+largely consistent. However, the Rand
+study became available after the completion of this analysis, and a number of
+differences make comparison difficult.
+
+The dependent variable used in the
+Rand study is a dichotomous dummy:
+An individual either dies (coded as 1) or
+
+Social Biology
+
+does not (coded as 0). A linear relationship is assumed to exist between infant
+mortality and its determinants. Problems of heteroscedasticity render estimation of a dummy-dependent variable
+inefficient, and predicted values are not
+necessarily between zero and one in linear probability regression. In the hazards model the dependent variable is the
+logarithm of the death rate, related linearly to the covariates. Such models are
+not direct transforms of one another.
+Furthermore, in the Rand study, four
+age intervals were used to subdivide the
+first year of life, beginning at exact ages
+0, 8 days, 1 month, and 6 months. As
+discussed earlier, hazard models were
+fitted for intervals beginning at 0, 2, 4,
+and 7 months.
+
+The Rand study also differs from the
+present work in that stepwise procedures were not used to decide on the inclusion or exclusion of variables. Instead, Butz et al. (1982) calculated
+regression equations separately for
+three groups of variables and then for all
+variables together. The three groups
+were called biological attributes at birth,
+postnatal biological influences, and indirect family influences. A set of variables
+specified a priori was entered into each
+linear regression equation for each interval. The findings from hazards
+models are compared here only with
+that regression equation which includes
+all three classes of factors, except when
+otherwise specified, because the variables in the hazards models fall into all
+three categories.!
+
+The coding schemes used for crucial
+variables differ in the two studies. For
+
+‘Butz et al. also calculated logit regression
+equations including all three classes of factors, but
+for that analysis all their intervals were combined.
+We do not have a similar analysis for comparison.
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+ 
+
+Vol. 34, No. 1-2 Breast Feeding 87
+TABLE 7
+STANDARD Errors OF LOGLIN Errects ESTIMATES FOR PREFERRED MODELS FOR EACH
+INTERVAL?
+AGE IN MoNnTHS
+Errect 0-1 2-3 4-6 7-12
+Grand mean 0 074 0 174 0 186 0 141
+Breast-feeding,
+Months
+Never 0 085 0 366 0 383 ne
+Ever 0 085 na na ne
+<1 na 0 423 0 421 ne
+1 na 0 282 0 415 ne
+2-3 na na 0 292 ne
+4-4 na na na ne
+Other food
+Never 0 294 ne ne ne
+Ever 0 294 ne ne ne
+Birthweight
+<2500g 0 104 0 197 0 211 0 168
+2500g + 0 104 0 197 0 211 0 168
+Birth order and
+PI
+First 0 157 ne ne 0 338
+2-3, le 2 yrs 0 169 ne ne 0 399
+2-3, gt 2 yrs 0 334 ne ne 0 583
+4+ ,le2 yrs 0 148 ne ne 0 254
+4+,gt2 yrs 0 162 ne ne 0 316
+Birth cohort
+< 1960 0 108 0 253 0 285 ne
+1960-69 0 109 0 259 0 269 ne
+1970 + 0 119 0 332 0 368 ne
+Sex
+Male 0 077 0 196 0 218 ne
+Female 0 077 0 196 0 218 ne
+Formal schooling
+None ne ne ne 0 209
+Some ne ne ne 0 209
+Ethnic group
+Malay 0 134 0 282 0 375 0 212
+Chinese 0 156 0 349 0 $29 0 263
+Indian 0 160 0 290 0 459 0 258
+Interaction
+Malay
+< 2500 g 0 125 na na na
+2500 g + 0 125 na na na
+Chinese
+<2500 g 0151 na na na
+2500 g+ 0 151 na na na
+Indian
+< 2500 g 0 160 na na na
+2500 g+ 0 160 na na na
+
+ 
+
+*na = category not applicable ne = no estimate for variable mn this interval PII = preceding inter pregnancy interval
+ 
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+88 Holland
+
+dietary variables in particular the situation is confusing, owing to the possibility
+of feeding both mother’s milk and other
+food to an infant in a given period. In the
+hazards models, a single variable represented the duration of breast-feeding
+prior to the interval under study,
+whether such breast-feeding was supplemented or not. As explained earlier,
+only breast-feeding prior to the analysis
+interval was considered, because if a
+child died and stopped breast-feeding in
+the same interval the direction of causality would be uncertain. A separate variable, “other food,” was a dummy variable indicating whether or not any solid
+or liquid other than mother’s milk was
+consumed by the infant.” This variable
+was included in the first interval to allow
+for the effects of early supplementation
+or the complete failure to breast-feed.
+Consumption of “other food” could not
+be included in subsequent intervals, because after the first two months of life no
+deaths occurred among those few babies
+who had never received “other food.”
+In the Rand study, durations of unsupplemented and supplemented
+breast-feeding prior to the start of the
+interval in question were entered as two
+separate variables in each analysis, except that no variable reflecting feeding
+practice was used in the first interval
+(i.e., the first week of hfe). Breast
+*Unlike the breast-feeding variable, ‘‘other
+food” was dichatomous and referred to whether or
+not other food than mother’s milk had been consumed by the end of the interval under study. Inclusion of experience in the analysis interval does
+not introduce a truncation bias with this variable,
+because the beginning rather than the end of a
+feeding practice is in question. Since the sudden
+exposure of the infant to new sources of infection
+might be expected to have a large and immediate
+impact, it was decided to forego the comparability
+of the reference periods of the breast-feeding and
+“other food” variables in favor of measuring the
+mortality effect of ‘other food” in the interval of
+maximum impact.
+
+Social Biology
+
+feeding durations were divided into onemonth categories for the last two intervals; for the second interval, information on days of breast-feeding in the first
+week of life was apparently employed
+(Butz et al., 1982, p. 12). The Rand coding scheme implicitly allows for three
+possible dietary combinations in a given
+interval: solely breast-fed, breast-fed
+with supplementation, and never
+breast-fed (those with a value of zero for
+both variables). These regimens cannot
+be fully differentiated in the hazards
+analysis. However, the distribution of
+Rand’s unsupplemented breast-feeding
+variable is necessarily affected by the
+same problem of sample size which
+caused us to drop the “other food” variable, that is, only 16 per cent of babies
+still recerved unsupplemented breastfeeding after the first two months of life,
+and no deaths occurred among them.
+
+In summary, there may be several
+reasons for the differences observed between the findings of Butz et al. (1982)
+and the hazards model analysis. First,
+the statistical assumptions underlying
+the models are different. Second, the
+procedures used to determine which
+variables to include in a model were different. Third, the narrow age intervals
+used in analysis are different in the two
+studies, exacerbating problems of sampling variability. Finally, the coding of
+the variables in the two models may
+have a most important effect on the findings. Nonetheless, the two studies show
+results which are similar in substantively
+important ways.
+
+RESULTS
+
+The preferred models for the first
+three analysis intervals include breastfeeding as a predictor of infant mortality. It is a particularly significant deter
+ 
+ 
+
+Vol. 34, No. 1-2
+
+minant in the first and third intervals.
+Consumption of mother’s milk is an especially great advantage in the first two
+months of life, while consumption of
+“other food” adds appreciably to risk,
+according to the ratio of exponentiated
+effects estimates. The relative risk of
+dying among those who received food
+other than mother’s milk is 6.26 compared to those who do not, and the in,, fant who was never breast-fed is twelve
+= = Himes as likely to die as the infant who
+‘‘ was breast-fed at some time. Several
+3 factors probably account for these high
+® relative risks. Early in life, the protectA ive effects of colostrum are at the maxico mum. Some babies might have special
+cq problems leading to early cessation of
+co breast-feeding, for example. Some in= fants may receive supplementary food in
+"= an attempt to compensate for low birthE,weisht. The high risks of death among
+S these classes of infants may be responsi= ble for the heavy mortality among those
+i © who subsist in whole or in part on “other
+2 = food. ”
+For the next two intervals, in which
+‘= breast-feeding adds significantly to the
+= ~ fit of the model, the estimates of the rels ative risks of mortality among those who
+2 had been breast-fed longest compared
+& to the never breast-fed were 2.46 and
+€ 7.28. These figures are less reliable than
+A that for the first interval; the standard
+O errors are much larger because later intervals have fewer deaths.
+
+When breast-feeding is dropped
+from the main effects model for the
+fourth interval, the loss of fit is not statistically significant according to the preset criterion, so the factor is not included
+in the preferred model for that interval.
+However, Table 8 shows estimates for
+the model with all main effects for that
+interval, together with the corresponding standard errors. Note that even here
+
+versi
+
+Breast Feeding 89
+
+TABLE 8
+
+LOGLIN ErFrects EsTIMATES FOR COMPLETE
+MopDEL wWiTH ALL Main Errects, INTERVAL
+7-12 MoNnTHS?
+
+AGE IN MONTHS
+
+EFFECT
+7-12
+
+Grand mean ............. —-6.785 (0.141)
+Breast-feeding,
+months
+
+Never ... 0.02 ceeceue 0.255 (0.308)
+
+| 0.114 (0.245)
+
+0 -0.368 (0.223)
+Birthweight
+
+< 2500 Loe eee 0.441 (0.173)
+
+200 B+ .eee eee eee ees —0.441 (0.173)
+Birth order, PII
+
+PUSE o554 868% Ge caendus —0.082 (0.374)
+
+2-3,le2yrs .........-. 0.241 (0.413)
+
+2B, PUZ YS sovasaaas ss -0.508 (0.585)
+
+4+,le2yrs ........... 0.712 (0.277)
+
+4+, gt2yrs ........... -0.364 (0.355)
+Birth cohort
+
+1960 sa ccctanngerace 0.358 (0.239)
+
+1960-69 .............. 0.110 (0.216)
+
+WD7O0+ wl. eee eee ee —0.468 (0.309)
+Piped water
+
+C6 0.310 (0.203)
+
+YES Lecce cece cece eee ~0.310 (0.203)
+Sex
+
+Male sac ns ced pees <0 ee 0.172 (0.144)
+
+Female vcswc cu nc og tgs ~0.172 (0.144)
+Formal schooling
+
+None ...........2 eu 0.778 (0.214)
+
+SOME oo... cee eee eee 0.778 (0.214)
+Ethnic group
+
+Malay ............0... 0.069 (0.240)
+
+Chinese .............. —0.645 = (0.278)
+
+Indian ..............4. 0.576 (0.291)
+Mother’s age
+
+<20 Leelee eee eee 0.069 (0.353)
+
+20-34 Loe eee eee —-0.223 (0.238)
+
+BOT sin ted iene emcees 0.153 (0.407)
+
+*Standard errors in parentheses.
+
+the effects estimates imply lower mortality risks when breast-feeding has been
+longer. This pattern of effects estimates
+is additional evidence in support of the
+hypothesis that the relation between
+breast-feeding duration and infant survival is positive and monotonic. The
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+90 Holland
+
+present study does not find statistical
+support for the hypothesis in this interval, but it does provide evidence that the
+chances of surviving the first half year of
+life are probably better for infants receiving some mother’s milk than for
+those who receive none.
+
+Note that in the models for the last
+three analysis intervals, it is possible to
+distinguish between various breastfeeding duration criteria. In each of
+these analyses, mortality is far higher
+among infants never breast-fed than
+among those breast-fed for the longest
+duration. It is of great interest that those
+breast-fed for intermediate durations
+have intermediate effects estimates.
+This implies that the effect of breastfeeding persists after breast-feeding has
+stopped. For example, in Table 8 we see
+that at ages 7-12 months those weaned
+at 4 to 6 months enjoy lower mortality
+than those weaned at 1 to 3 months.
+
+In the Rand study, the regression
+coefficients for unsupplemented breastfeeding indicate a statistically significant
+negative effect on death rates in the second through fourth intervals (i.e., after
+the first week of life), while duration of
+supplemented breast-feeding was significantly associated with lower mortality in
+the third and fourth intervals (i.e., after
+the first month of life).
+
+In each analysis interval, the regression coefficient for unsupplemented
+breast-feeding was of larger magnitude
+than that for supplemented breastfeeding, implying that supplementation
+was always relatively harmful. Since
+both coefficients were negative in each
+interval, individuals never breast-fed at
+all implicitly always had higher mortality than those receiving any combination
+of mother’s milk and supplementary
+foods. Interestingly, although the
+breast-feeding variables were statisti
+Social Biology
+
+cally significant in the fourth interval,
+the effects were quite small in the second six months of life. Mortality rates
+diminished by just two per thousand and
+three per thousand for each month of
+supplemented and unsupplemented
+breast-feeding respectively. This is generally consistent with the finding from
+hazards models that diet had a relatively
+weak effect on mortality in a roughly
+similar age category. In short, both studies provide valuable evidence for an important positive relationship between
+infant survival and duration of breastfeeding, particularly in the first half-year
+of life. The consistency of the two studies is especially noteworthy in view of
+the many differences between the investigations.
+
+The availability of piped water to
+each infant was coded as a dummy variable in both studies. Piped water did not
+significantly determine infant mortality
+in any of the four intervals used in the
+hazards model. Butz et. al. found that
+the linear regression coefficient of piped
+water was significant and positive in the
+last three weeks of the first month of life
+(t = 2.46), but far from significant at any
+other time in the first year. The very narrow interval in which water supply was
+significant may provide especially unstable estimates of the regression coefficients.
+
+In Malaysia, ethnic group is intimately connected with nearly every socioeconomic variable, especially including typical occupation, financial
+wellbeing, and type of housing (Ooi,
+1976). Thus, it is not surprising that the
+data show that the ethnic group of an infant has a consistently powerful effect
+on its survival chances in every interval.
+In each interval, the Chinese, a high status group in Malaysia, have the lowest
+mortality. The highest mortality is expe
+ 
+ 
+
+ 
+
+Vol. 34, No. 1-2
+
+rienced in some intervals by the Indians,
+who work mostly on rubber plantations,
+and in other intervals by the predominantly rural, agrarian Malays. The Rand
+study, too, found Chinese ethnicity to
+be associated with lower risk of mortality, throughout most of the year.
+Mother’s education is, like ethnic
+group, a variable which is to some degree a measure of social status. We exi, pected maternal education to affect inofant survival indirectly through
+‘child-rearing skills. Indeed, mothers
+2 with some formal schooling seem to be
+2 able to reduce the effects of some of the
+A exogenous causes of mortality. The vari& able can be dropped from the first three
+Glintervals, but is highly significant after
+co the first six months. In the Rand study,
+3 the number of years of maternal educa"e tion has no statistically significant effect
+on infant mortality at any subperiod of
+‘Othe first year of life. The difference in
+2 the results is probably due to the differ° ence in coding.
+
+While maternal education is expected to reduce exogenous causes of
+mortality, sex differentials in death rates
+are usually attributed to endogenous
+causes, except where treatment of in8 fants differs markedly by sex. Such dif& ferentials should be most readily observF able early in life. In this analysis, sex was
+& a highly significant predictor of mortal
+ity during the first three intervals and
+
+was omitted from the model from 7-12
+
+months of age. Butz et al. found in their
+analysis that the sex of the child was a
+significant determinant of mortality at
+every age, except during the second
+through fourth weeks of life. In both
+studies, femaie infants of every age had
+higher survival rates, even at ages where
+the effect was not statistically significant.
+
+Some variables do not exhibit a con
+iversity
+
+Un
+
+ 
+
+Breast Feeding 91
+
+sistent pattern of significance levels over
+the age intervals in question. It would be
+unwise in view of the small numbers of
+deaths to judge the importance of variables solely on the basis of formal tests of
+significance.
+
+CONCLUSIONS
+
+This study shows that breast-feeding
+is an important determinant of infant
+mortality in Malaysia. The protective effect of breast-feeding is statistically significant up to six months, although it
+may well continue to be clinically significant at higher ages. The relationship between longer breast-feeding duration
+and lower relative risk of mortality persists at every period in the first year of
+life. The consumption of any food or
+drink other than mother’s milk portends
+a substantially increased risk of dying in
+at least the first two months of life. The
+protective effect of breast-feeding
+seems to persist even after breastfeeding has stopped. Diet is an important predictor of mortality even though
+other variables closely related both to
+feeding practice and to mortality conditions are included and implicitly controlled in our models.
+
+This is clearly a preliminary study and
+a great deal of further research will be
+necessary for a fuller understanding of
+the effects of diet on infant mortality.
+The precision of parameter estimates
+for short analysis intervals could be substantially increased by studies with
+Jarger samples, and it might then be possible to confirm our hypothesis of a
+monotonic relationship between breastfeeding duration and lower infant mortality risk.
+
+Butz et al. (1982) found that infant
+feeding was an important determinant
+ 
+
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+92 Holland
+
+of infant mortality in the MFLS sample.
+The variables,, mathematical assumptions, and findings of that study and the
+present work differ substantially, but an
+argument can be made for the importance of breast-feeding in Malaysia on
+the grounds that two quite different approaches to the same survey provide evidence for its effects. Much research on
+mortality has been flawed by the use of
+inherently biased breast-feeding variables which to not allow for the possibility
+that infant death may sometimes precede and cause the cessation of nursing.
+Both the Rand study and this one are
+free from such a defect.
+
+Further research on the effects of
+breast-feeding should include a wider
+array of variables, particularly dietary
+variables, in the analysis of the effects of
+breast-feeding. The harmful effect of receiving foods other than mother’s milk
+may vary according to the types of food
+received, when they are received, and
+their relative proportions in the diet.
+Proxy variables, such as those which
+represent the quality of water supply,
+
+Social Biology
+
+should be carefully tested to ensure that
+they accurately reflect the mortality determinants they are intended to measure. Finally, research on breast-feeding
+and infant mortality should be carried
+out in diverse settings to see how the effects of diet and other mortality determinants vary under differing socioeconomic and environmental conditions. In
+the meantime, hazards model analysis of
+the MFLS data suggests that breastfeeding for longer rather shorter durations has important health benefits in
+less-developed countries, particularly
+where environmental conditions are
+poor. In addition, the analysis demonstrates the utility of hazards model
+methodology asa powerful tool for calculating plausible relative risk estimates
+when samples are relatively small and
+covariates are numerous.
+
+ACKNOWLEDGMENTS
+
+The author is indebted to James Trussell,
+Jane Menken, and Anne Pebley for their invaluable teaching, guidance, and advice.
+
+REFERENCES
+
+ADENOBOIO, F. O. 1972. Artificial versus breast
+feeding: Relation to infant health in a middle class American community. Clin. Peds.
+11:25-29,
+
+Butz, W., and J. DAVaANzo. 1978. The Malaysian family life survey: Summary report
+(Rand Report R-2351-AID). Rand Corporation, Santa Monica, California.
+
+Butz, W., J. DAVANzo, and J-P. Hasicnrt.
+1982. Biological and behavioral influences
+on the mortality of Malaysian infants (Rand
+Note N-1638-AID). Rand Corporation,
+Santa Monica, California.
+
+CHANDER, R., and V. T. PELAN. 1977. Malaysian fertility and family survey—1974: First
+country report. Malaysia Department of
+Statistics, Kuala Lumpur.
+
+CLARKSON, F. 1981. Infant formula code: A
+vote due at WHO. Nation’s Health 11:13.
+
+CUNNINGHAM, A. S. 1977. Morbidity in breast
+fed and artificially fed infants. J. Peds.
+90:726-729.
+
+Douctas, J. W. B. 1950. The extent of breastfeeding in Great Britain in 1946, with special reference to the health and survival of
+children. J. Obstet. Gynaec. Brit. Emp.
+57:335-361.
+
+DuapaALg, A. E. 1971. The effect of the type of
+feeding on weight gain and illnesses in infants. Brit. J. Nutr. 26:423—432.
+
+FAIN, T., and T. P. KHEONG. 1978. The Malaysian family life survey: Appendix B, round
+one codebook (Rand Report R-2351/2AID). Rand Corporation, Santa Monica,
+California.
+
+FERNANDEZ, D., A.H. Hawsy, and S. PriDAzA. 1975. The Population of Malaysia.
+Committee for International Cooperation
+in Research and Education in Demography.
+
+HaaGa, J. 1986. The accuracy of retrospective
+Downloaded by [University of Michigan] at 13:42 08 December 2015
+
+Vol. 34, No. 1-2
+
+data from the Malaysian family life survey
+(Rand Note N-2157-AID). Rand Corporation, Santa Monica, California.
+
+HoLianp, B. 1983. Breast-feeding and infant
+mortality: A hazards model analysis of the
+case of Malaysia. Ph.D. dissertation, Princeton University. Available from University Microfilms, Ann Arbor.
+
+JeLLirFe, D.B., and E. F. P. JELLIFFE. 1979.
+Human milk in the modern world. Oxford
+University Press, New York.
+
+KANAANEH, H. 1972. The relationship of bottle
+feeding to malnutrition and gastro-enteritis
+in a pre-industrial setting. J. Trop. Peds.
+Env. Chid. Hlth. 18:302~306.
+
+KNODEL, J. 1977. Breast-feeding and population growth. Science 198:1111-1115.
+
+Lapitan, A. A. C., and P. J. REEps. 1976. A
+study of the age of onset, diet, and the importance of infection in the pattern of severe
+protein-energy malnutrition in Ibadan, Nigeria. Brit. J. Nutr. 36:411-419.
+
+Lairp, N., and D. OLIvier. 1981. Covariance
+analysis of censored survival data using loglinear analysis techniques. J.A.S.A.
+76:231-—240.
+
+LESTHAEGHE, R. J., and H. J. Pace. 1980. The
+post-partum non-susceptible period: Development and application of model schedules.
+Pop. Stud. 34:143-169.
+
+MALAYSIA DEPARTMENT OF STATISTICS. 1970.
+Population and housing census of Malaysia,
+Volume I, General housing tables. Kuala
+Lumpur, Malaysia.
+
+MANDERSON L, 1981. Socioeconomic and cultural correlates of gastro-enteritis amongst
+infants and small children in Malaysia. J.
+Trop. Peds. 27:166-176.
+
+McKeown, T. 1979. The role of medicine.
+Princeton Univ. Press, Princeton.
+
+Ouivier, D.C., and R. K. NEFF. 1976. Loglin
+
+Breast Feeding 93
+
+1.0 user’s guide. Harvard School of Public
+Health, Cambridge.
+
+Oo1, J. 1976. Peninsular Malaysia. Longman,
+New York.
+
+Puiturps, 1., S. K. Lwanca, W. Lore, and D.
+Wasswa. 1969. Methods and hygiene of infant feeding in an urban area of Uganda. J.
+Trop. Peds. 15:167-171.
+
+PLANK, S. J., and M. L. MILanesr. 1973. Infant
+feeding and infant mortality in rural Chile.
+Bull. W.H. O. 48:203~210.
+
+RoyYaAL COLLEGE OF GENERAL PRACTITIONERS.
+1972. The influence of breast feeding on the
+incidence of infectious illness during the first
+year of life. The Practitioner 209:356~-362.
+
+Row anp, M. G. M., R. A. B. BaRRELL, and
+R. G. Whitehead. 1978. Bacterial contamination in traditional Gambian weaning
+foods. Lancet i, 136-138.
+
+SAS InstiTuTE, Inc. 1979. SAS user’s guide
+1979 edition. SAS Institute, Cary, North
+Carolina.
+
+Sipnu, M., and G. Jones. 1981. Population dynamics in a plural society: Peninsular Malaysia. University of Malaysia Cooperative
+Bookshop, Kuala Lumpur.
+
+STEVENSON, S.S. 1947. The adequacy of artificial feeding in infancy. J. Peds. 31:616630.
+
+THomson, A. M., and A. E. Brack. 1975. Nutritional aspects of human lactation. Bull.
+W.H. O. 52:163-177.
+
+TRUSSELL, J., and C. HAMMERSLOUGH. 1983. A
+hazards model analysis of the covariates of
+infant and child mortality in Sri Lanka. Demography 20:1-26.
+
+Wor_b HEALTH ORGANIZATION. 1980. Infant
+and young child feeding: Draft international
+code of marketing of breastmilk substitutes:
+Report of the Director-General (EB67/20).
+World Health Organization, Geneva.
+

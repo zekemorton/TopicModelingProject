@@ -1,0 +1,1444 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ 
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Correlates of fertility and mortality in
+low-migration standard metropolitan statistical
+areas
+
+James B. Pick
+
+To cite this article: James B. Pick (1977) Correlates of fertility and mortality in
+low#migration standard metropolitan statistical areas, Social Biology, 24:1, 69-83, DOI:
+10.1080/19485565.1977.9988264
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1977.9988264
+
+fn Published online: 23 Aug 2010.
+(FB crs | 7
+Submit your article to this journal @
+alil Article views: 1
+N
+Q View related articles 4
+
+(7) Citing articles: 3 View citing articles G
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:36
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+ 
+
+Correlates of Fertility and Mortality in
+Low-migration Standard Metropolitan
+Statistical Areas
+
+ 
+
+James B. Pick
+
+Graduate School of Administration
+University of California
+Riverside, California
+
+ABSTRACT: Socioeconomic determinants of fertility and mortality were estimated by regression
+analysis for 29 low-migration SMSA’s located in the eastern part of the U. S. A low-migration
+sample was chosen to maximize length of life history within the regions. Independent variables
+included per cent nonwhite, gross and net migration, population, density, medical care, welfare,
+per cent Catholic, education, income, and labor force participation. Density was measured by an
+index based on the census inventory of urban land. Mortality results include effects of migration
+on older nonwhite life expectancy, an inverse effect of density on life expectancy for older whites,
+specific income and educational effects on older life expectancies, different causative factors for
+e(50) and e(1,50), lack of influence of medical care (except for the nonwhite male), and significant
+infant mortality multiple correlations only for the nonwhite female. For nonwhite fertility, the
+inverse influences of per cent nonwhite and net migration 1960—70 were of greatest importance.
+White fertility showed a negative relationship with medical care and a positive one with nonwhite
+
+male e(0).
+
+The present study looks at regional,
+ethnic, and socioeconomic differences in
+1970 mortality and period fertility for 29
+U.S. Standard Metropolitan Statistical
+Areas characterized by low in-migration
+and net migration from 1960-70. No prior
+work has coincided with this research in
+all aspects of design, although a relatively
+small number of past investigations have
+partially overlapped it.
+
+An early regional fertility study was
+Keyfitz’ comparison (1952 and 1953) of
+fertility and distance from the city for
+French Catholic families in Quebec and
+English Protestant families in Ontario.
+For each cultural group, a small sample of
+individual families was studied by a compartmental analysis of variance technique.
+
+Collver and Langlois (1962) concluded
+that among a varied group of nations fertility was inversely correlated with female
+labor force participation. A similar nega
+tive result was shown by Collver (1968) for
+all ages of mother and for both whites and
+nonwhites in a sample of 65 SMSA’s
+in 1960. The negative correlation was
+stronger for whites and in younger
+childbearing ages.
+
+Biggar and Butler (1969) did a multiple
+correlation and regression analysis of fertility for all North Carolina counties in
+1960. White fertility was shown to be
+primarily related to population characteristics (positively to population change,
+1950-60, and to per cent white women of
+ages 15~44) whereas nonwhite 1960 fertility was strongly linked to population and
+socioeconomic factors (negatively to nonwhite per capita income and positively to
+per cent nonwhite farm workers).
+
+Heer and Turner (1965) performed regressions of fertility, measured by the
+child-woman ratio, against eight population, labor force, and literacy variables for
+
+69
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+70
+
+local administrative units in eighteen
+Latin American nations. Closer to the
+present investigation was a later study by
+Heer and Boynton (1970) of differences in
+fertility in 591 U.S. counties in 1960. Fertility was measured as the ratio of actual to
+expected births. Variables found to have
+the greatest contribution to r? were per
+cent Roman Catholic (positive factor), a
+density index (negative), and proportion
+nonwhite (positive).
+
+In a study of the effect of ten demographic and socioeconomic characteristics
+on the total fertility rate in 1961 for 29
+regions of the Italian province of Venezia
+(De Sandre, 1971), the independent variables of most importance for regression (in
+order of size of standardized coefficients)
+were per cent of voters Christian Democrat (positive), amount of urban centralization (negative), persons per room
+(positive), per cent with secondary
+education (positive), and female employment (negative).
+
+In a nonregional research project on
+ethnic and age differences in fertility (children ever born) for the entire United
+States in 1960 and 1970, Pohlmann (unpublished) attributed the greatest importance to age at first marriage. However,
+the use of a cohort measure would appear
+to account for much of the explanatory
+power of this variable. For whites in 1970,
+female income was clearly second in
+influence, but for Blacks several variables
+were of secondary significance, particularly female education and housing adequacy.
+
+Regional studies of mortality are even
+fewer in number than those of fertility. In
+England, Melvin-Howe’s investigation
+(1968) of geographic differences in
+mortality used the excellent data of the
+British National Health Service. The
+mortality measure chosen was death rate
+standardized against the age distribution
+of the whole British population. The areas
+
+Pick
+
+Social Biology
+
+picked were not uniform, but a mixture of
+geographical units, such as towns, counties, etc. A regional trend towaru higher
+mortality in the northwest of England and
+Wales was noted. Using the census tracts
+of Houston for areas, Roberts et al. (1970)
+correlated the variables of social class, per
+cent Black, and per cent Spanish surname
+against mortality for six disease categories
+and total death rate. Both social class and
+ethnicity were concluded to be factors
+influencing mortality levels of various
+diseases.
+
+The major differences of the present research from the past studies just reviewed
+are the mode of sample selection (low
+in-migration areas), the inclusion of both
+mortality and fertility as dependent variables, the division of mortality indices into
+various portions of the life span, and the
+introduction of a density index standardized for land use. The present research
+determines the relationships of white and
+nonwhite life expectancy and period fertility to each other and to seventeen population and socioeconomic variables for selected metropolitan areas in 1970. The criteria for choice of SMSA’s in the sample
+was low gross and net in-migration 1960—
+70. It was reasoned that in metropolitan
+areas with higher levels of in-migration,
+local vital rates do not reflect adequately
+the area’s own social and _ health
+conditions, but are altered by a large
+component in the population of recent
+in-migrants who are heavily affected in
+their present vital rates by previous fertility and mortality factors from other regions. These migrants are assumed to take
+varying periods for assimilation. This
+past-history determinant has _ been
+documented for fertility (Matras, 1973),
+socioeconomic characteristics in Argentina
+(Germani, 1966), and in the United States
+among Blacks (Beale, 1971).
+
+The exact criteria for selection of
+SMSA’s were the following: (1) less than
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+ 
+
+Vol. 24, No. 1
+
+15 per cent net in-migration 1960-70 for
+the white and nonwhite populations taken
+separately; and (2) less than 16.1 per cent
+gross in-migration 1965-70 for whites and
+less than 10.6 per cent gross in-migration
+1965-70 for Blacks (in both cases, excluding annexation). The following additional
+criterion was also imposed: (3) The nonwhite population must exceed 13,500.
+This allows sufficient size to compute fertility and mortality rates for five-year age
+groups. Thirty-one SMSA’s were selected,
+and all happened to be located in the eastern half of the United States. However,
+the New Haven and Bridgeport SMSA’s
+did not have proper age-specific birth
+statistics due to their complicated township composition and were excluded. In
+Table 1, in-migration levels for the sample
+are compared with those of 73 other
+SMSA’s not included in the sample.
+
+MATERIALS AND METHODS
+
+Eighteen dependent and 17 independent
+variables were chosen. The variables and
+their values are shown in Table 2.
+Dependent variables 1-4, 17, and 18 were
+also included as independent variables in
+two or more of the regressions. The mode
+of calculation and justification of choice of
+these factors are given below. For
+dependent variables:
+
+Y1 Life expectancy from age 0, e(0),
+for white males in the SMSA.
+e(0) for white females in the
+
+SMSA.
+
+Y3 e(0) for nonwhite males in the
+SMSA.
+Y4 e(0) for nonwhite females in the
+
+SMSA.
+
+Infant mortality rate for white
+males in the SMSA.
+
+Infant mortality rate for nonwhite
+males in the SMSA.
+
+Infant mortality rate for white females in the SMSA.
+
+Y2
+
+Y5
+
+Y6
+
+Y7
+
+Fertility and Mortality 71
+
+Y8 Infant mortality rate for nonwhite
+females in the SMSA.
+
+Y9 Life expectancy from age 1 to age
+50, e(1,50), for white males in
+
+the SMSA.
+
+Y10 e(1,50) for nonwhite males in the
+SMSA.
+
+Y11 e(1,50) for white females in the
+SMSA.
+
+Y12 e(1,50) for nonwhite females in the
+SMSA.
+
+Y13 Life expectancy from age 50, e(50),
+
+for white males in the SMSA.
+Y14 e(50) for nonwhite males in the
+
+SMSA.
+
+Y15 e(50) for white females in the
+SMSA.
+
+Y16 e(50) for nonwhite females in the
+SMSA.
+
+Y17 Gross reproduction rate (GRR) of
+the white population.
+
+Y18 GRR of the nonwhite population.
+
+The above were calculated using standard demographic computer programs
+(Keyfitz and Flieger, 1971) from five-year
+population data (U.S. Bureau of the Census, 1973), and from five-year fertility data
+and five- and ten-year mortality statistics
+(National Center for Health Statistics,
+1974). The ten-year data were divided into
+five-year periods by linear interpolation of
+the national five-year white and nonwhite,
+male and female, age distributions in
+1970. Life expectancy was considered the
+best general standardized measure of
+mortality at a single time point.
+
+Prior studies used as indices of fertility:
+period measures (crude birth rate, total
+fertility rate, child-woman ratio), cohort
+measures (children ever born), and a
+period index including birth expectation
+(ratio of actual to expected births). A
+cohort measure was not chosen because
+this study intended to look at the immediate effect of 1970 socioeconomic factors on the fertility of the entire age range
+of women associated with a region. Cohort
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+ 
+
+TABLE 1
+CHARACTERISTICS OF SMSA’s
+
+GL
+
+ 
+
+ 
+
+Rank Per cent of White In- Negro In- Net Natural Exp
+in Total Per cent Nonwhite Migration Migration Migration Increase (Density Density
+SMSA Size Population Nonwhite Non-Negro (1965-70)* (1965-70) (1960-70) (1960-70) Index)t Index
+Pilate] PhS os iiss ccna can cesiaa ces 4 4,817,914 18.1 3.3 7.3 4.2 1.0 9.9 3,556 8.18
+Pitts tir bite «iw cases 0 ass sores aon ee rors we 9 2,401,245 6.3 3.3 5.9 3.6 -7.0 6.8 2,240 7.71
+St, LOWS: ics is pees isd caus jaa wes mes emi 10 2,363,017 16.4 2.3 9.0 4.4 0.8 11.5 3,463 8.15
+Baltimore ..........:ccccsceeeeeeeees 11 2,070,670 26.2 2.3 9.4 3.9 2.9 11.9 2,824 7.95
+Cleveland ...........cccccceeeneenees 12 2,064,194 16.1 3.0 8.2 5.7 -2.4 10.5 2,985 8.00
+Cincinnati...........cccsceeeeeeeeees 21 1,384,851 11.3 2.3 9.1 4.7 —2.9 12.0 2,262 7.72
+Buffalo ........cccecccecees cen eeenees 24 1,349,211 8.1 8.9 5.4 6.0 —6.4 9.6 3,288 8.10
+Kansas City ...........cceeseeeeeees 26 1,253,916 12.6 4.4 13.6 5.8 2.5 12.3 1,977 7.59
+New Orleans.,........:c.0cceceneees 31 1,048,809 31.3 1.3 10.9 3.5 0.8 15.3 6,277 8.74
+Columbus (Ohio).............2006 35 916,228 12.0 3.5 16.0 8.7 6.7 14.7 2,678 7.89
+Louisville ............ccceeseeeeeeees 40 826,553 12,2 1.7 10.3 4.7 2.0 11.9 3,131 8.05
+Birmingham (Ala.).............06- 44 739,274 29.6 0.5 10.8 3.0 —7.3 9.8 1,825 7.51
+Toledo ......cccccccceccesseveeseeeees 46 692,571 8.2 4.8 9.9 6.8 —1,1 11.0 1,982 7.59
+AKrOM .... ccc cceceeeceeeeceseueeeees 48 679,239 8.2 3.3 11.7 6.3 0.3 11.9 1,904 7.55
+GAT os snes nese Ed ve pres pnb bE Fd die 52 633,367 17.7 2.3 10.2 6.9 -4.4 14.9 2,671 7.89
+GreensSbOt 4 6s sis tas sgqany see sescwn 56 603,895 19.9 0.3 12.8 7.3 2.8 13.3 1,564 7.36
+Nashville..........:ccsesceeeeereeees 60 541,108 18.1 1.5 14.2 8.5 4.8 11.9 1,269 7.15
+Youngstown.......ccccssecseseeeers 62 536,003 9.7 3.0 11.4 5.2 —3.8 9.1 2,118 7.66
+Richmond.,.........cccseeeceeeeeeees 65 §18,319 25.1 1.3 15.6 7.7 7.7 11.2 2,103 7.65
+Wilmington (Del.)................. 66 499,493 12.2 3.6 13,1 6.5 6.8 13.7 2,161 7.68
+Harrisburg........cccesceceeeeeeees 72 410,626 7.1 3.1 11.7 7.3 2.0 8.5 1,835 7.51
+Knoxville............cccsceeeeeeeeees 74 400,337 Ps2 5.1 12.0 6.1 -2.0 10.7 1,309 7.18
+Mobile ..... 00.0... eee cece eee ee ees 78 376,690 30.0 0.9 12.1 3.5 —11.6 15.3 1,296 7.17
+ey se 55 area wins pag pags ee cn we 8g 80 372,210 6.0 3.5 9.8 8.6 —0.6 10.0 2,013 7.61
+Beaumont...........cccseeceseeeeees 95 315,943 21.6 1.1 10.8 4.6 —9.9 13.1 1,703 7.44
+Chattanooga. ssc iis isasses pine ccassse 97 304,927 16.4 1.0 12.7 2.8 —3,5 11.2 1,462 7.29
+Greenville. .......ccccsccscvesecscens 101 299,502 15.1 1.2 15.1 4.2 2s 13.9 1,443 7.27
+South Bend............ccccceeceeees 113 280,031 6.7 0.5 11.9 10.6 —6.5 9.8 2,007 7.60
+Evansville ...........ccccceeeeesenes 132 232,775 6.0 2.7 9.1 4.1 -4.3 8.7 2,056 7.63
+AVOVAQE ci. cssses sas sans gamensmece ws . 997,234 14.9 2.8 11.0 5.7 -1.0 11.5 2,324 7.68
+Migration averages
+for 73 other SMSA’s¢......... 17.7 11.8 9.9
+
+Wid
+
+ 
+
+SourRCcEs: Given in text.
+
+* Actually for non-Blacks.
+
++ This is simply the quotient of the density index.
+
++ SMSA’s larger than Evansville and processing complete migration statistics.
+
+ABZopoirg, [BIOs
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 24, No. 1 Fertility and Mortality 73
+TABLE 2
+VALUES OF SMSA VARIABLES
+Standard Coefficient
+
+Variable and Name Mean Deviation of Variation
+Yi €(0) Malle (W)...........,.ccseccsssceccrsscees 67.524 0.808 0.0120
+Y2 e(0) Male (NW)..........cccceessceeesceecenes 60.264 1.486 0.0247
+Y3 = e(0) Female (W) 0.0... cece cece cence sees 75.459 0.684 0.0091
+Y4 = e(0) Female (NW)...............ccceeeeeeeees 68.865 1.902 0.0276
+Y5 e(50) Male (W)............c.ccceceeeeeenceeees 22.866 0.629 0.0275
+Y6 e(50) Male (NW).............cceceeeeeeeeeeees 20.939 1.153 0.0550
+Y7 e(50) Female (W)................cceceeee ences 29.013 0.654 0.0225
+Y8 e(50) Female (NW)............cceseeenceeees 26.033 1.642 0.0630
+Y9 €(1,50) Male (W)..........ccceceeeeeeaseeenes 47.473 0.182 0.0038
+Y10 (1,50) Male (NW)........... ccc ccc ce cece nes 45.736 0.410 0.0090
+Yil- = e(1,50) Female (W)...............0.cccceenee 48.230 0.078 0.0016
+Y12~ = e(1,50) Female (NW)...............00cceeees 47.407 0.374 0.0079
+Y13 Infant mortality, male (W)................ 20.479 2.379 0.1161
+Y14 Infant mortality, male (NW).............. 42.041 9.810 0.2333
+Y15 Infant mortality, female (W).............. 15.403 2.109 0.1369
+Yi6 Infant mortality, female (NW) ........... 32.345 10.245 0.3167
+VY17- GRR (W) oa. ccc cece cceeeeeeenereneees 1.117 0.077 0.0689
+Y18 GRR (NW)..............cccceececee ee eeeeeees 1.487 0.145 0.0977
+X19 Per cent nonwhite ...................cceee ees 14.945 7.634 0.5108
+X20 Net migration ..............ccccceceeeeseeeees — 1.043 4.934 0.4707
+X21 In-migration (W)...........cccsceceeseseeenes 10.900 2.693 0.2470
+X22 In-migration (NW) .............cceeceeee eens 5.697 1.960 0.3440
+X23 Total population.................ccc cee eee ee 997 233.625 973,921.563 0.9766
+X24 Density index ...........ccccseeceeeceeeeeneens 7.683 0.357 0.0464
+X25 Medical care index.............ccecccseeeees 0.879 0.156 0.1770
+X26 Welfare.........cccccccscccesseceeeeeneeeenseees 208.966 103.800 0.4967
+X27 Male (W) labor force partic............... 0.786 0.040 0.0509
+X28 Male (NW) labor force partic............. 0.701 0.036 0.0512
+X29 Female (W) labor force partic............ 0.405 0.039 0.0957
+X30 Female (NW) labor force partic.......... 0.478 0.049 0.1033
+X31 Per cent Catholic ..............cccceeseeeeees 19.456 13.452 0.6914
+X32 Education (W)...........c.cccceeeeceeseeenees 52.771 4.238 0.0803
+X33 Education (NW) ............cceseeceuveceeees 31.091 4.592 0.1477
+X34 Income (W)......... ccc ccc ceceseccseeveccenvers 9,941.516 855.810 0.0861
+X35 Income (NW).............c cece eneeeeeeeeeeene 5,949.824 886.648 0.1490
+
+Sources: Given in text.
+
+indices for older women record responses X21 In-migration rate for whites
+to the metropolitan area at a mixture of (1965-70).
+past time points. Also, in the past, some of X22 In-migration rate for nonwhites
+the women were living elsewhere. The (1965-70).
+
+GRR was considered superior to other
+measures because it averages five-year
+rates for the whole childbearing period.
+
+The independent variables were:
+
+X19 Per cent of population nonwhite
+(nonwhite population divided
+by total population).
+
+X20 Net migration rate (1960-70).
+
+The latter is calculated by the vital rate
+
+method of subtraction of natural increase
+1960—70 from total increase 1960-70 (U.S.
+Bureau of the Census, 1971).
+
+The latter was for the non-Negro
+portion of the population (U.S. Bureau of
+the Census, 1973), which is considered
+sufficiently close to the white segment due
+to the tiny percentage of other nonwhite
+minorities in the metropolitan areas
+chosen (see Table 1). The reason for including both net and gross in-migration,
+each for a different time span, is that these
+are the only sets of SMSA migration data
+available for 1960-70, and they measure
+somewhat different groups of migrants.
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+74.
+
+X23 Population size (total population
+of the SMSA in 1970).
+
+X24 Population density index.
+
+Many previous studies using land density have calculated density as persons per
+square mile for the SMSA. It was felt that
+this ratio is inadequate for some comparisons because of the irregular pattern of
+land use within these urban areas. One
+SMSA, such as Nashville, might be mostly
+or entirely within city limits, whereas another might include large amounts of agricultural land, preserve, governmentowned forest or park, or other undeveloped government lands (e.g., Baltimore, Buffalo, Bakersfield, Evansville). A
+new density index was constructed which
+takes the urbanized area as the basic city
+unit. The urbanized area (population
+within the city limits plus contiguous incorporated or unincorporated suburban
+units of 2,500 population or more per mile
+plus certain contiguous suburban areas of
+lower density) is a more logical metropolitan unit than population inside city limits,
+since it includes the suburban population
+found to be of large magnitude in the 1970
+census (Hauser, 1971) and to be highly
+variable in SMSA’s. The density index is
+defined as follows:
+
+Population of urbanized
+area plus population of
+towns and cities of 2,500
+population or more outside
+the urbanized area (within
+the SMSA) plus the population of the remainder of the
+SMSA population (= total
+SMSA population).
+X24 = loge —————_—_—__——___——_
+Land area of the urbanized
+area plus land area of towns
+and cities of 2,500 population or more outside the urbanized area (within the
+SMSA) plus the “land area”
+
+ 
+
+Pick
+
+Social Biology
+
+of the remainder of the
+SMSA population (calculated at 1 square mile per
+1,000 population).
+
+Data for the index are available (U.S.
+Bureau of the Census, 1973). The density
+estimate of 1,000/square mile for the population outside the urbanized area and
+outside other towns or cities was obtained
+by averaging census estimates of land
+areas of the smallest towns. It is considered that this estimate for rural population
+offers greater accuracy than averaging
+arbitrary amounts of nonurbanized land
+as is done in conventional calculation of
+SMSA densities.
+
+X25 Medical care index.
+
+This index is computed as 3.31 X hospital beds per capita plus nonfederal physiclans per capita (American Hospital Association, 1972; Haug et al., 1971). The
+weighting factor of 3.31 was calculated to
+equalize the separate variances of the two
+terms above. These two factors were
+chosen over others, such as hospital admissions and hospital daily census,
+because it was felt that the latter partially
+measure admissions policies and the proportions of inpatient versus outpatient care.
+An error introduced into this index is the
+lack of standardization for percentage of
+persons in the metropolitan area with
+substandard health, but no comparative
+data exist for such a standardization. The
+health care available to nonwhites is less
+accurately measured by the above index
+than for whites, because it does not show
+areas that are particularly strong in
+minority group physicians, hospitals, and
+medical training (e.g., Nashville) or areas
+that are weak.
+
+X26 Welfare (nonwhite).
+
+This variable is estimated as average
+public assistance or public welfare income
+(for nonwhite families receiving this
+income) X per cent of the nonwhite fami
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 24, No. 1
+
+lies receiving this income (U.S. Bureau of
+the Census, 1973). A similar variable is
+not introduced for the white population,
+since the average value of the measure for
+whites is so much lower than that for
+nonwhite and hence of little demographic
+importance.
+
+X27 Per cent in the labor force for the
+white male population 16+ in
+the SMSA.
+
+X28 Per cent in the labor force for the
+white female population 16+ in
+the SMSA.
+
+X29 Per cent in the labor force for the
+Black male population 16+ in
+the SMSA.
+
+X30 Per cent in the labor force for the
+Black female population 16+ in
+the SMSA.
+
+Data were from the U.S. Bureau of the
+Census (1973). Labor force includes unemployed workers, but excludes persons
+in school. Again, the statistical error in
+substituting Black for nonwhite population is very small.
+
+X31 Per cent Catholic in the SMSA
+(compiled from archdiocese records, Glenmary Research
+Center, 1976).
+
+X32 Per cent high-school graduates for
+whites, 25+ in the SMSA.
+
+X33 Per cent high-school graduates for
+Blacks, 25+ in the SMSA.
+
+Data for the above were from the U.S.
+Bureau of the Census (1973). The white
+population was approximated by subtraction of the Black population from the
+total.
+
+X34 Income for whites in the SMSA.
+
+X35 Income for Blacks in the SMSA.
+
+The average income of all families and
+unrelated individuals for the total and
+Black population (U.S. Bureau of the
+Census, 1973) was used to estimate average income of whites by subtracting the
+Black total payroll from the SMSA total
+payroll and averaging the remainder.
+
+Fertility and Mortality
+
+75
+
+Some error was introduced by miscounting of nonwhites other than Blacks.
+
+RESULTS
+
+Simple correlations appear in Table 3.
+For calculation of fertility and mortality
+measures, a computer program was written to sort and interpolate vital statistics
+into five-year age groups for input into a
+standard Keyfitz and Flieger LIFE and
+LOTKA routine. For the independent
+variables, software was created to convert
+raw census and other data into the
+measures employed. All the secondary
+data were then analyzed using a
+correlation program designed for this
+study and the UCLA Biomed step-wise
+multiple regression program (Dixon,
+1973). Age distributions were studied by
+PYRAMID graphics (Pick, 1974) and a
+sex—age gap routine.
+
+Before proceeding to the correlations,
+results of a separate age structure analysis
+should be mentioned. Age structures for
+one ethnic group showed little variation
+among metropolitan regions. Instead, different features occurred consistently between the white and nonwhite structures
+with the most notable differences as follows: (1) the nonwhite age distribution in
+each SMSA was more tapered than the
+white; (2) the depression age gap is present
+for white distributions, with the exception
+of Nashville, but is generally flattened or
+nonexistent (in one-third of the cases) for
+nonwhite distributions; (3) the sex ratio for
+age groups 75+ is on the average 29 per
+cent larger for nonwhites (Table 4).
+
+In an attempt to understand (3), the
+sex—age gap differences in life expectancies
+were compared in Table 5. The larger
+sex-age gap in e(50) for whites would
+partly account for (3), but only complete
+historical life expectancy and migration
+records could fully explain this effect.
+
+There are a number of important
+Social Biology
+
+Pick
+
+76
+
+ 
+
+(ALYIVLUOW LNVAN] GNV (0)? DNIGN19xq)
+SATAVIAVA YOU XINLVIY NOILVITNAOD ATAWIS
+
+¢ ATAVL
+
+STO Foquiaseq] 80 9¢7E] Ie [URSTYSTIA JO AyssoAtUE] Aq popeopumog
+
+ 
+
+“x "= TT a — =e an — — — — a a —
+oex . . wa vee . _ ve . ve . ves a fey . i _ Le a . . _ ves , ve
+ae _ , , ve a a _ bes ve a ox a . , . bes - _ ves a ,
+ax . _ , ; a - a a ve a , , _
+ee (GGT . , wes bes . a . _ _ . , .
+Tee GED a oe . vee a a _ . _ i
+Ozx 9£0 425°0 00°! me mo vv vo ‘
+61X  O0F'0- ¥2'0 £0'0- 00°! vt vt vo mo
+BIA 721°0 L-0- 670-  — $79'0- 00'T uo a uo mt
+LIX ITO r£'0- Z¢'0— 67°0- = §09°0 00°! mt a mt "
+ZIA = LT'0 Il‘0— f1'0- Il‘0- St0 610 00°t uo vt mt .
+IIA  80°0- *2'0— €0'0- ¢7'0— 87°0 ot'o- €2°0 00'T mt ve a
+OIA +80 60°0 60°0 x6>'0— of’0 82'0 82'0 z0°0 00°! a a aa
+6X 210 «lv O— ST‘0 Ir'0— S00 STO 1Z'0 9£°0 £Z°0 00°! eo a
+BA §6S'0 Z1'0— 80°0- £2°0— 90°0 82'0 80°0 p1‘0- €1'0 $2°0 00°! a 1
+LX = 200 8f°0 81'0- 20°0 so'0- 92'0- €l'0— 61'0- 20°0 +19°0- 00°0 00"! =
+9X £20 8Z°0- Or'0- ¢Z7°0-— 87°0 er'0 LO STO s0'0 €1'0 t$9°0 S0°0 00'T
+Sk SO so’0— 97°0- Lv'o- ze°0 2Z°0 92°0 0z'0 $2'0 ST'O 4$s°0 £r'0 x60
+
+o3xX Tex 0ex 61X SIA LIA 6IA WA OIA 64 8A LA 9A
+
+ 
+
+ 
+
+ 
+77
+
+TOO O ‘eauBIYIUaIS Jo [asa]
+$000 O ‘aduBdYIUaIS Jo jaar] Ff
+SOO O ‘aouUB YUaIs Jo [aaa] 4
+10 O ‘sduBIYIUIS JO [2AaT
+
+ 
+
+ 
+
+ 
+
+PEX t¢e2°0 00'T ee one eee . « ene a ee oe a an) one see v2
+EX §£5'0 ££'0 00'T ene ove eae ee te one ae . soe eee
+cEX = +L¢°0 seo F190 00°T , . * us ‘
+tex +0 495°0 LTO ¥2'0 00°T .* ‘ ° ™ ° . “ .
+O€X 91°0 £0°0 €TO c0'0 6£°0- 00°T - a i ‘ “ ‘
+6cX £00 z0°O-— 9T°O ¥0'O0—- #Lb'O— ts3°0 00°T us ‘ uo “ uv 7
+82X 59°0 Sbv'O 9T°0 LTO ITO *#L¥'0 ¥2°0 00'T “ us ‘ a
+> Lex Or'0 Le'0 £0°0 ¥0'0 8T'O 80°0 £0°0 ¥8>°0 00°T —_ * 7 ,
+- 9GX f£Fr'0 8t°0 Z£"0 ¥c'0 #020 'z'0- TZ°0- LTO- ¥0'0 00°T ue a ,
+a Sex L20- ¥0'0 cO'0- to"0- £00 oro— 90°0 Pr'O- 9f°0- 8T'0 00'T * ut
+by Pox vr'0 §09°0 810 éc'0 $920 vt'o-— sT"O-— é2'0 $¢"o Sv'0 92°0 00'T ve
+= €ZX Pf 0 1¢S°0 62°0 £10 425°0 so'o- 90°0-— ¥0°0 60°0 4s$'0 82'0 4ss'0 00°T
+4 Zb'0 0) Ee) 80 ae) LT'0- 8r'O 8¢°0 sto L£T0- so’0- 8t'O- £TO0- of'0—
+3 Tx or0- 9f°0- Tro- 80°0 $$2°0- 4£5°0 86S°0 £0°0 £t'O- 4£9°0- ct'o- syo- = 4zs°0~
+a OZX TZ 0 z2'0 €2'0 020 ¢z0— 469°O $#Z72°0 92Z°0 To‘o- 90°0— 02°0 9T'O 80°0
+6IxX 9f0- Il‘0 $¢O- 6z2°0- stO- 9T°0- z70°0— LT‘O- ¥0'0 Tb O— Te"0 IO 80°0
+Pe ST OT'O 61°0- £T'O TZ'0 éz'0 00°0 91 'O- 90°0 810 zT'0 er o- 600 0z7°0~
+g ZITA z2b0 ¥Z°0 60°0 1Z°0 s¢"o @z'0- 6£°0— 62°0 82°0 TT'O *67'O— 8t'O so-o~
+L GIA TZ'0 0¢'0 eo ve'O 9Z°0 £0°0- 20'0-— 80°0 80'0 O1'O 80°0 TZ'0 90°0
+© TTA £0°0 £0°0- +0'0 80°0 8t'O et'o- 10'0- ITO 9f°0 02°0 T0'0 02°0 40°0
+Fa OITA c1°0 8l°O-— cTO 8T°O 60°0- 910 ¢0'0— {Tt’o 1Z°0- £0°0 00°0-— bzZ-0- ¥e'O~
+6A +£9°0 +S'°0 8¢°0 *Zb°O *TS°O 80°0-— vI'O- £70 8e°0 +89°0 £00 ér0 tro
+BA x0S°0 0f°0 1Z°0 82'0 Zt‘0 ¢0°0 70'0- 610 to"o- $20 9T'0- co'o- 10 O~
+LA f¢I90- §6S°0- 9T'0- 62°0- #1Z'0—- ¥0°0 £T'O 8Z°0- t¢°o- §6S°0- £0'0 $1Z'0- 8f°O~
+9X 8t°0 £T'O £0'0 sto Tz’0 6T0- 9Z7°0-— ce°0 IO ¥0'0 s¢"O-— 10°0 £o'OSA 02°0 £0°0- 8¢°0 8f°O 8T'O- 90'0-— 80°0-— 80°0 £0'0- £0°0— 8z7°0- tyo- Il‘O~
+sx PEX efx cex Tex Otx 62X STA £eéx 9X gx vex fx
+=
+- (panutjuo)) €§ ATAVL
+Zz,
+~~
+N
+a
+e
+>
+
+OE eS a SS ii ss—s—“—Ss—sSSSCSCS
+
+STO Foquiaseq] 80 9¢7E] Ie [URSTYSTIA JO AyssoAtUE] Aq popeopumog
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+78 Pick Social Biology
+TABLE 4
+SEX RaTIOS AT DIFFERENT AGES FOR SMSA’s
+NONWHITE WHITE
+VALUES 1-49 50-74 75+ 1-49 50—74 75+
+AVCLAZE..... cc cece cece ccnceeesseteenseceesnssensenece 90 85 75 98 85 58
+Standard deviation ...............scceceseceeeeeees 2.0 5.6 10.2 1.5 3.6 6.0
+
+relationships within and between the sets
+of dependent variables. For ¢(50), malefemale correlations are significant for
+nonwhites but insignificant for whites.
+White, nonwhite correlations for ¢(0) and
+e(50) are significant only for males. These
+results will be explained by the later regressions in which dissimilarity of
+explanatory factors between male and female is greater for whites than for nonwhites, and dissimilarity of factors between whites and nonwhites is greater for
+females than for males. The lack of any
+correlations within the set of e(1,50)’s is
+due to greater differences among categories in susceptibilities to suicide, homicide,
+accidents, and other common causes of
+deaths for ages 1 to 50. The correlation
+between GRR(NW) and GRR(W) is quite
+high (ry = 0.60). However, it will be shown
+below that explanations are quite different
+for the two GRR’s.
+
+The only significant correlation between
+fertility and mortality occurs between e(0)
+(white female) and white GRR (r = 0.53).
+Since these relationships are not important
+in regression, they are probably caused by
+a mutual strong correlation to some third
+
+factor. Correlations between life expectancy variables and the independent variables are consistent with the results of the
+regressions and will be taken up below.
+The only significant correlation within the
+group of infant mortality variables is between infant mortality of nonwhite males
+and white females (ry = 0.63). There is no
+apparent reason.
+
+A number of important relationships
+hold between the independent variables.
+Net migration (1960-70) is linked to inmigration of whites (1965~70). Inmigration to these SMSA’s is inversely
+related to population size in a feedback
+relationship noted by Hauser (1971). As
+expected, total population and density are
+positively correlated. Labor force participation variables show strong intercorrelations except between males and females
+for whites. Income and education variables are also strongly intercorrelated. For
+females, there are significant positive
+relationships of labor force with net
+migration and in-migration. Possibly with
+greater influx of migrants, there is more
+expansion in business hiring of women.
+There is a logical positive relationship be
+TABLE 5
+
+Erunic DIFFERENCES IN THE SEX-AGE GAP IN LIFE EXPECTANCY
+
+ 
+
+ 
+
+Ste gers cron cageemras eens see Sees aa ee wx
+Standard deviation ................-.5
+* G(1,50) = e(1,50) female — a an male.
+t G(50) = e(50) female — e(50)
+
+G(1,50)* G(S0jt
+Nonwhite White Nonwhite White
+1.7 0.8 §.1 6.1
+
+0.47 0.17 1.26 0.68
+
+¢ For average values: (G(t, saw — ref SAONWYG(L SON W =— 0.55; (GSQW-GSOVWVGS0.VW=0.21.
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 24, No. 1
+
+tween per cent Catholic and size, density,
+and welfare.
+
+RESULTS OF THE REGRESSION ANALYSIS
+
+Table 6 summarizes the results of linear
+regression analysis. For infant mortality,
+the only significant multiple correlation
+was for nonwhite females. White income
+is the most important contributing factor.
+Since infant health care comprises a nexus
+of private and public economic-medical
+factors, higher white income may tend to
+lower relative health benefits for the
+nonwhite infant female. The negative
+influence of density possibly reflects an
+environmental health effect.
+
+As expected from the shape of the mortality curve, there are strong similarities
+between e(0) and e(50). The following
+analysis for e(0) will apply also to e(50)
+unless otherwise noted. Total] life expectancy of white males is most heavily linked
+inversely to density and white  inmigration. This density effect is not apparent at younger ages (note results for
+e(1,50)). At older ages, density is the
+largest factor for whites of both sexes.
+That such an effect is negative is possibly
+due to a current medical theory that many
+health benefits of dense locations are offset
+by the resultant environmental pollution,
+congestion, stress, noise, etc. (Hexter and
+Goldsmith, 1971; Lave and Seskin, 1970;
+Selikoff et al., 1968). The negative effect
+of white in-migration may be due to competitive stresses from an increasing labor
+pool. Similarly, benefits of greater education may ease such competitive factors.
+
+For the older portion of the white male
+life span, density dominates in importance, displacing white in-migration and
+education. A possible explanation is that
+occupational causes of mortality differences, dependent on in-migration and
+educational level, become less important
+at older ages due to increasing retirement.
+Also, perhaps the older white male’s un
+Fertility and Mortality 79
+
+usual sensitivity to density is due to his
+suburban location, where intracity differences in such environmental effects are
+greater than between central cities.
+
+For the white female, a negative effect
+of density is again noted, with an explanation similar to that for white males.
+There is not the increase in density’s importance above age 50, probably because
+of less change in competitive forces at retirement.
+
+For nonwhites, greater similarity in central city environment may reduce the density’s importance. Also, perhaps under the
+same density stress healthy nonwhites are
+less inclined to leave an SMSA than are
+healthy whites.
+
+The negative effect on older white female life expectancy of nonwhite income
+may be due to a series of medicaleconomic factors, where relative economic
+access to health care may be marginally
+lowered with increasing nonwhite income.
+The positive influence of nonwhite education may reflect health benefits of higher
+educational level in the metropolitan region.
+
+An important variable in accounting for
+nonwhite male e(0) is white female labor
+force participation. The cause responsible
+may be marginal stress increase to the
+nonwhite male of job competition from the
+white female. The positive effect of white
+male labor force participation lacks explanation. Although the positive relation to
+GRR(W) is not readily understood, the
+linkage to medical care is obvious. It
+should be mentioned that for the study in
+general, medical care appears in only 3 out
+of 12 life expectancy regressions and is of
+dominant importance only once. The
+remaining factors are interpreted similarly
+to those for white males. Markedly different factors account for e(0) and e(50) for
+the nonwhite male, a negative relation
+with net migration being the most significant for e(50).
+08
+
+TABLE 6
+
+BETA COEFFICIENTS, MULTIPLE CORRELATION COEFFICIENTS, AND PER CENT OF VARIANCE EXPLAINED
+BY SELECTED SMSA CHARACTERISTICS FOR LIFE EXPECTANCY AND GROSS REPRODUCTION RATE
+
+ 
+
+ 
+
+SMSA CHARACTERISTICS
+
+Gross reproduction rate (whate)t
+Gross reproduction rate(nonwhite)t
+Per cent nonwhite
+
+Net migration 1960-70
+
+Gross in-mg white 1965-70
+Gross 1n mg nonwhite 1965~70
+Total population i
+Density index
+
+Medical care index
+
+Welfare
+
+Labor force part white male
+Labor force part nonwhite male
+Labor force part white female
+Labor force part nonwhite female
+Per cent Cathohc
+
+Education white
+
+Education nonwhite
+
+Income white
+
+Income nonwhite
+
+e(0) nonwhite male #
+
+Multiple correlation coefficrent
+
+~007
+
+~0 45
+0 34
+
+~041
+
+0 37
+
+0 23
+
+0 80t
+
+Per cent of vanance explained (KR?) 065
+
+029
+
+~0 33 ~0 44§
+
+0 47
+041
+
+-050
+
+037
+
+—0 55§
+
+0 76% 0 74t
+058 055
+
+NWF
+
+—-937
+
+0 49"
+
+0 43§
+
+0 73t
+054
+
+¢($0)
+
+WM NWM
+-001
+007
+—0 588
+~0 58"
+0 40 027
+
+—-0 73}
+
+0 47¢
+
+0 40"
+
+0 82t 0 66§
+067 0 44
+
+BETA COEFFICIENTS*
+
+-0 43!
+
+—0 30
+
+027
+
+—0 45§
+
+0 84}
+070
+
+ 
+
+-0 38
+0 73¢
+
+0 69t
+047
+
+0 68}
+
+0 34
+
+024
+
+0 82
+0 67
+
+0 33
+
+-039
+
+027
+
+0 33
+
+0 42
+
+072"
+0 52
+
+-~065
+0 44
+024
+
+0514
+
+0 698
+0 48
+
+ 
+
+NWF
+
+0 64
+041
+
+0 23
+
+0 43
+
+058
+0 34
+
+Infant
+Mortality
+
+NWF
+
+—0 38
+
+—0 43
+
+0 69"
+
+0 628
+0 38
+
+ 
+
+ 
+
+GRR
+
+—0 24
+
+0 35
+~0 sor
+
+0 39"
+
+0 78t
+0 62
+
+ 
+
+~0 99
+-0 71¢
+0 67"
+
+0 654
+
+Wid
+
+0 18
+
+-0 26
+
+0 86}
+074
+
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+* Abbreviations WM, white male, NWM, nonwhite male, WF, white fernale, NWF, nonwhite female
+t Excluded as independent variables for fertility regressions
+
+t Level of significance, 0 0005
+
+§ Level of significance, 0 01
+
+"Level of significance, 0 005
+
+# For fertility regressions, all hfe expectancy variables were included as independent variables
+
+Adojorg [Byoog
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 24, No. 1
+
+For the nonwhite female, the life span is
+related strongly to nonwhite in-migration.
+Possibly the in-migration stream allows
+greater expansion of access to female preventative health and medical care. The
+opposite tendency with white in-migration
+and net migration might involve employment competition or less access to health
+care services. The advantages of higher
+income level on nonwhite female e(0) are
+obvious. Higher per cent of high-school
+graduation appears to contribute its health
+benefits prior to age 50. However, the percentage of 1970 high-school graduation for
+persons 25+ is composed to a large extent
+of persons under age 50. For all females,
+results for e(50) are highly similar to those
+for e(0).
+
+Regression analysis of e(1,50) differs extremely from that of e(50). This difference
+is attributed to causative factors of death
+specific to the two portions of life. Unlike
+older ages, from ages 1 to 50 accidents and
+violence are of major importance (accounting for 37 per cent of the life table 1(x)
+column for males and 20 per cent for females in the U.S. in 1964). For the white
+male, the positive relationship of e(1,50) to
+welfare and to nonwhite male employment
+may be due in turn to less violence by
+nonwhites. Higher education levels for
+whites may raise e(1,50) because of job
+health benefits. For the white female
+
+— e(1,50), the inverse effect of white GRR
+
+may only be hypothesized as stress from
+greater childbearing leading to increased
+cancer or heart disease. Again, higher
+employment rates for the husband would
+lead to more income and job-related
+health care. The positive effect from nonwhite GRR is without an apparent reason.
+In general, e(1,50) has much less influence
+from the structural forces of migration and
+density than at ages over 50. For the nonwhite male, e(1,50) is positively related to
+medical care and population size, which
+likely also reflects better health care. The
+
+Fertility and Mortality
+
+81
+
+negative link with per cent nonwhite is
+unexplained.
+
+For GRR of whites, an inverse relation
+with level of medical care is of greatest
+import. The reason may be greater availability and exposure to birth control
+information and wider use of contraception. The second factor in importance, e(0)
+of nonwhite males, is perhaps due to
+greater life expectancy in the entire male
+population, as white e(0) is highly
+correlated with nonwhite e(0). Longer life
+expectancy reflects a healthier male population and thus a greater tendency to favor
+childbearing. Density’s positive effect on
+the fertility of both ethnic groups has no
+ready explanation. The result is similar to
+that of De Sandre (1971) for density
+measured by persons per room, but opposite to the findings of Heer (1970) for density caleulated as distance from other
+cities. The apparent lack of importance of
+per cent Catholic contrasts with Heer’s results for 1960 counties.
+
+Different influences account for nonwhite fertility, the most significant being a
+negative relationship with per cent nonwhite. Perhaps there is a desire in small
+nonwhite populations in areas with low
+past migration to reproduce more in order
+to retain or increase their size to a level
+they consider adequate. The inverse
+influence of net migration may be linked to
+the above explanation, in that a larger rate
+of net in-migration 1960-—70 was a factor
+which generally increased the percentage
+nonwhite in the period 1960-70. A higher
+level of white in-migration also may be
+causative in increasing nonwhite fertility.
+The positive influence of density is again
+unexplained.
+
+The lesser contributors to nonwhite
+GRR are nonwhite income (negative) and
+white male labor participation (positive).
+The first is interpreted as convergence
+toward family-size norms typical of
+greater income, while the second can be
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+82 Pick
+
+explained as indirect competition leading
+to less availability of jobs for nonwhite
+males and a consequent increase in fertility. Higher net migration, creating a more
+expansive job market for nonwhites, may
+lower fertility because employment would
+tend to reduce emphasis on childbearing.
+
+SUMMARY AND CONCLUSIONS
+
+Regional, ethnic, and sex variations in
+period fertility, life expectancy, infant
+mortality, and age structure were examined for 29 SMSA’s in the eastern half of
+the United States in 1970. The SMSA’s
+were chosen on the basis of low inmigration and ranged in size from 232,000
+to 4,800,000. The age structures revealed
+ethnic variation with a more tapered nonwhite distribution and with greater proportionate numbers of nonwhite males at
+older ages. There was an increase with age
+in the proportionate size of sex—age gap in
+life expectancy of whites relative to nonwhites; but these differences were not
+large enough to account for the larger sex
+ratios for nonwhites at older ages.
+
+Consistent geographical trends in fertility or life expectancy were not apparent.
+These vital indices were explained in
+terms of seventeen population and socioeconomic characteristics, including size,
+density, medical care, welfare, migration,
+labor force, ethnic composition, religion,
+income, and education. Density was
+measured by an index which excludes land
+
+Social Biology
+
+to which persons are not likely to relate.
+Important regression results obtained are
+dissimilarity between ¢(50) and e(1,50),
+negative effects of density on older white
+life expectancy, enhancement of total life
+expectancy by income and education (except for the white female), specific effects
+of migration on older hfe expectancies,
+explanation of white period fertility by
+medical care (negative) and density (positive) and of nonwhite period fertility by
+per cent nonwhite (negative), migration,
+and density (positive). Except for the
+nonwhite male, there is surprisingly small
+simple or multiple correlation of life expectancy to the medical care index. Infant
+mortality is correlated with the
+independent variables only for the nonwhite female.
+
+ACKNOWLEDGMENTS
+
+This article is a revision of a paper presented
+at the American Statistical Association meetings in Atlanta, August, 1975, and published in
+Proceedings of the American Statistical Association 1975, Social Statistics Section, pp.
+588-595, from which material presented again
+here is reprinted with permission.
+
+The author would like to thank Arthur
+Boughey, Edgar Butler, William Fellner,
+Charles Federspiel, Thomas Frey, Omer Galle,
+Nathan Keyfitz, James Landers, William
+Nesser, Christopher Robertson, and an anonymous referee for helpful advice and criticism.
+He gratefully acknowledges the aid of the National Center for Health Statistics, particularly
+Robert Armstrong, Frank Godley, and Mabel
+Smith in obtaining vital statistics data, and
+Father Quinn and Richard Ley for religious
+data. He thanks the University of California,
+Irvine, for computer funding.
+
+REFERENCES
+
+AMERICAN HOSPITAL ASSOCIATION. 1972. Hospital
+statistics, 1971. American Hospital Association,
+Chicago.
+
+BEALE, C. L. 1971. Rural-urban migration of
+Blacks: Past and future. Amer. J. Ag. Econ.
+93:302-307.
+
+BicGarR, J. C., and E. W. BuTLER. 1969. Fertility
+and its interrelationships with population size in a
+Southern state. Rural Soc. 34:528-536.
+
+COLLVER, O. A. 1968. Women's work participation
+and fertility in metropolitan areas. Demography
+5:55-60.
+
+CoLLver, O. A., and E. LANGLOIS. 1962. The fe
+male labor force in metropolitan areas: An
+international comparison. Econ. Dev. Cult.
+Change 10(4):367-385.
+
+DE SANDRE, P. 1971. Recherce par micro-zones sur
+les relations entre fécondité et certaines caractéristiques du milieu économique et social dan une
+région italienne. Genus 27:1-27.
+
+Dixon, W. J. (ed.). 1973. Biomedical computer programs. Univ. of California Press, Berkeley and
+Los Angeles.
+
+GERMANI, G. 1966. Mass immigration and modernization in Argentina. Stud. Comp. Intern. Dev. 2.
+
+GLENMARY RESEARCH CENTER. 1976. Archdiocese
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 24, No. 1
+
+data on Catholic composition of SMSA’s in 1970
+(furnished to the author on request). Washington,
+D
+
+.C,
+
+Hauc, J. N., G. A. RoBACH, and B. C. MARTIN.
+1971. Distribution of physicians in the United
+States, 1970. Center for Health Services, Research, and Development, Chicago.
+
+HAusER, P. M. 1971. The census of 1970. Scien.
+Amer. 225:17-25.
+
+HEER, D. M., and J. W. BoyNTon. 1970. A multivariate regression analysis of differences in fertility in United States counties. Soc. Biol. 17:180194,
+
+HEER, D. M., and E. S. TURNER. 1965. Areal differences in Latin American fertility. Pop. Stud.
+18:279-292.
+
+HEXTER, A. C., and J. R. GOLDSMITH. 1971. Carbon monoxide: Association of community air pollution with mortality. Science 172:265-267.
+
+KEYFITZ, N. K. 1952. Differential fertility in Ontario. An application of factorial design to a demographic problem. Pop. Stud. 6:123-134.
+
+. 1953. A factorial arrangement of comparisons of family size. Amer. J. Sociol. 58:470-480.
+
+KEYFITZ, N. K., and W. FLIEGER. 1971. Population: Facts and methods of demography. Freeman,
+San Francisco.
+
+LAVE, L. B., and E. P, SESKIN. 1970. Air pollution
+and human health. Science 169:723-733.
+
+ 
+
+Fertility and Mortality
+
+83
+
+MAtTrAS, J. 1973. Populations and societies.
+Prentice-Hall, Englewood Cliffs.
+
+MELVIN-HOoWE, G. 1968. The geography of death.
+New Sci. 40:612-614.
+
+NATIONAL CENTER FOR HEALTH STATISTICS. 1974.
+Final 1970 age-specific birth and death rates (furpushed to the author on request), Rockville, Maryand.
+
+PICK, J. B. 1974. Computer display of population
+age structure. Demography 11:673-682.
+
+POHLMANN, V. C. Longitudina] study of demographic variables associated with differential fertility of whites and nonwhites in the United States,
+1960-1970. Manuscript.
+
+Rogerts, R. T., G. W. McBEE, and E. J. MacDONALD. 1970. Social status, ethnic status and
+urban mortality: An ecological analysis. Tex. Rep.
+Biol. Med. 28:13-28.
+
+SELIKOFF, I. J., E. C. HAMMOND, and J. CHUNG.
+1968. Asbestos exposure, smoking and neoplasia.
+J. Amer. Med. Assoc. 204:106-112.
+
+U. S. BUREAU OF THE CENSUS. 1971. General
+demographic trends for metropolitan areas,
+1960-1970. Subject reports. Series PHC(2}-1.
+Government Printing Office, Washington, D.C.
+
+. 1973. U.S. census of population, 1970. Gen
+eral population characteristics. Final report
+
+PC(1}+B. Various volumes. Government Printing
+
+Office, Washington, D.C.
+
+ 
+

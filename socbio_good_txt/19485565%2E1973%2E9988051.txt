@@ -1,0 +1,1041 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ 
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+An analysis of the genetics of schizophrenia
+
+K. K. Kidd & L.L. Cavalli-Sforza
+
+To cite this article: K. K. Kidd & L.L. Cavalli#Sforza (1973) An analysis of the genetics of
+schizophrenia, Social Biology, 20:3, 254-264, DOI: 10.1080/19485565.1973.9988051
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1973.9988051
+
+fe Published online: 23 Aug 2010.
+
+ee
+(g Submit your article to this journal @
+all Article views: 7
+
+»
+Q View related articles @
+
+wa Citing articles: 30 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:34
+
+ 
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+An Analysis of the
+Genetics of Schizophrenia
+
+K. K. Kidd* and L. L. Cavalli-Sforza
+
+Department of Genetics
+Stanford University School of Medicine
+Stanford, California
+
+Hypotheses put forward to explain the
+inheritance of schizophrenia include at
+least: (1) a one dominant gene, (2) a one
+recessive gene, (3) a two gene, and (4) a
+polygenic theory (see Rosenthal, 1970, for
+a summary). Uncertainties in the diagnosis
+and variability of expression of the disease
+lead to difficulties in attempting to decide
+among these hypotheses and have led many
+to consider schizophrenia as a heterogeneous
+disease. The main complicating factor
+seems, however, to be the existence of important environmental contributions whose
+presence is clearly documented, but whose
+nature remains largely uncertain.
+
+The magnitude of environmental effects
+is such that disbelief or minimization of the
+role of inheritance in schizophrenia is not
+uncommon. Evidence in favor of a genetic
+component comes from two sources: (1)
+the concordance in monozygotic twins,
+which ranges from 14% to 79% in eleven
+different studies (see Rosenthal, 1970), but
+is practically always higher than that in
+dizygotic twins (ranging from 2% to
+15%); and (2) by corroborating adoption
+studies of the progeny of a schizophrenia
+parent (Heston, 1966; Kety et al., 1968),
+
+* Present address: Department of Human Genetics, Yale University School of Medicine, New
+Haven, Connecticut,
+
+ 
+
+and a small number of MZ twins brought
+up apart. The evidence thus speaks in favor
+of an important genetic contribution; on
+the other hand, the relatively low concordance of MZ twins clearly points out
+that the role of environmental differences is
+also important. The relative contribution of
+genetic and environmental factors remains
+to be assessed.
+
+In spite of a confusing situation, the test
+of genetic hypotheses may be useful, provided the importance of the environment is
+duly considered. We have been interested
+in retesting the two extreme hypotheses, the
+one gene and the polygenic models, using
+in both cases the threshold approach. One
+assumes that every genotype has a given
+expectation (i.e., mean) of liability to manifest the disease with a distribution of liability around the mean which is entirely of
+environmental origin. In either model, the
+environmental variation is assumed to be
+independent of the genotype; thus, we ignore genotype-environment interaction.
+Only those individuals whose liability, resulting from the joint effects of genetic and
+environmental factors, is above a certain
+threshold value will express the disease.
+
+In the case of the polygenic model, the
+overall distribution of the liability is assumed to be normal, resulting from the
+
+254
+
+ 
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+Vol. 20, No. 3
+
+addition of genetic and environmental components (both normally distributed; see
+Figure 1). This model was applied to
+
+—» Lia bility
+
+Genetics of Schizophrenia
+
+ 
+
+255
+by Zerbin-Riidin (1967), which collect a
+
+great number of studies and exclude only
+a few of the more recent ones which do not
+
+f
+
+Threshold
+
+[|] Schizophrenic individuals
+
+Fic. 1—Polygenic threshold model (after Falconer, 1965)
+
+schizophrenia by Gottesman and Shields
+(1967) using the approach of Falconer
+(1965). The same threshold approach can
+be applied to the single gene model (see
+Figure 2). A figure similar to Figure 1 is
+given by Motulsky (1970) to explain some
+congenital malformations on the basis of a
+single locus with multiple alleles. We have
+simplified the approach by using only two
+alleles with which there are already four
+parameters to be fitted to the data. These
+parameters are the environmental variance,
+e*, which is assumed to be the same for all
+genotypes and is responsible for the three
+normal distributions of Figure 2; the gene
+frequency, g; the position of the threshold
+on the scale of the trait, 7; and the position
+of the heterozygote relative to that of two
+homozygotes, “’.
+
+THE SINGLE GENE MODEL
+
+We have chosen to use the data in Rosenthal (1970), taken from tables presented
+
+seem, however, to alter substantially the
+means. Table 1 gives a simple statistical
+analysis of these data. The high heterogeneity of available studies is immediately
+apparent. Most x? values between studies
+are significant, even though some x? are
+underestimated by the use of the number
+of probands instead of the number of
+children.
+
+In view of the significance of most heterogeneity y”, standard errors of the observed
+percentages were computed from the bi
+nomial values, multiplied times \/y?/df if
+y? were significant. This corresponds to
+using an ordinary weighted standard error
+for cases of significant heterogeneity. This
+heterogeneity at once makes the analysis
+difficult and throws doubt on the possibility
+of using more exact methods of segregation
+analysis, without selecting from the body of
+data. Some sources of heterogeneity—the
+variation in severity of the disease and that
+of the diagnostic criteria employed by dif
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+256
+
+    
+
+AA
+— Liability
+
+Kidd and Cavalli-Sforza
+
+Social Biology
+
+  
+
+mR
+SX
+
+CY
+RK
+RS
+SS RR
+ORD
+SIORKY
+
+AT ESSEKY>
+Ra f/
+
+fe f 2
+
+    
+
+Threshold
+
+|] Schizophrenic AA individuals
+
+WS
+
+Aa
+aa "
+
+Fic. 2.—Single gene threshold model
+
+ferent authors—are clearly recognizable and
+are discussed by Rosenthal (1970) in some
+detail. In the tabulation of MZ and DZ
+twins, for instance, the outcome of studies
+is given by a low and a high figure, usually
+depending on the severity of the criterion
+employed. The same is true of the S&S
+data. We have therefore computed two
+means—one from the low values and one
+from the high values—whenever a choice of
+values is indicated in the tables by Rosenthal. The two figures are indicated by the
+subscripts / and # respectively.
+
+Further uncertainties arise from the large
+and significant discrepancy between the frequency of schizophrenia in parents of
+schizophrenic offspring, ascertained through
+the offspring (P/O = 4.4%), and the frequency of the disorder in offspring of one
+schizophrenic parent (N X S= 12.8%).
+Many explanations have been offered in the
+
+ 
+
+literature. We have used these two estimates, however, as low and high limits in
+Table 2, although clearly the explanation is
+likely to be different from that of low and
+high values in other cases. The expectations
+for the two types (P/O and N XS) are,
+under a one gene model, very close, and if
+anything that for N X S is smaller.
+
+Still a third source of heterogeneity both
+within classes and between classes is the
+inclusion of some risk values that have not
+been age corrected and others that have
+been age corrected. In particular, the values
+for S < S computed for the Rosenthal table
+are not age corrected, while those for N X
+S are. Erlenmeyer-Kimling (1968) gives
+age corrected values for S XS which are
+higher and are included in Table 2 for
+comparison.
+
+The high heterogeneity observed throws
+doubt on the usefulness in this case of the
+
+ 
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+Vol. 20, No. 3
+
+Genetics of Schizophrenia
+
+297
+
+TABLE 1
+
+An ANALYSIS OF DATA ON THE INHERITANCE OF SCHIZOPHRENIA TABULATED BY ROSENTHAL (1970)
+
+ 
+
+ 
+
+ 
+
+HETEROGENEITY
+RELATIONSHIP No. Ay. Freq. % or —_—_
+TO PropaNp SYMBOL* No. Oss.t STUDIES Scuizo. + S.E. x? df
+Parent-offspring ..........4 P/O 4,132 14 4.4 + 16% 110,58 13
+Bis scan tamgnug peawngs ou-eNS 0/0 4,132 14 8.6 + 0.9% 55.88 13
+Children of
+N XS matings ........... NxsS 756 5 12.8 + 0.7% 3.7 4
+SxS matings
+LOW ..c cece eee c eee e eee SX 58; 195} 5 25.14+3.1% 7.3 4
+High .... cee eee e ee eee SX 58, 195f 5 31.8 + 5.5% 11.0** 4
+Uncles-aunts <
+nieces-nephews .......+. UXN 1,213 9 2.420.5% 4.5 8
+MZ co-twins
+LOW ..ceccceeceeeveveeeee MZ, 522 11 45.0 + 7.2% 110.78 10
+PEGE saeeed on be oes a5 aed .. MZ, 522 11 58.8 + 8.5% 155.38 10
+DZ co-twins
+LOY cess ogaqes oa ewway ony DZ, 1,227 11 8.6 + 08% 9.9 10
+High Jo... ccc ce cee eee eee DZ, 1,227 11 11.5+1.3% 20.5** 10
+
+*] refers to low percentages, A to high ones. See text.
+
+¢ Probands, or children accordingly. In the case of probands, this probably underestimates the x? values.
+tIn Rosenthal’s tables the total is 198; but on a suggestion by Dr. Erlenmeyer-Kimling three individuals of Elsasser’s
+
+study who were below the age of risk were eliminated.
+§ Significant at 1% level.
+** Significant at 5% level.
+
+usual tests of goodness of fit. However, a
+crude analysis can be made by considering
+both the high and low values calculated in
+Table 1 and comparing them with expectations. The relevant observed frequencies
+taken from Table 1 are given again in the
+first two lines of data in Table 2. The expected frequencies for the one gene model
+are computed for a test range of values of
+the four parameters, e, J, g, and hk’. Expectations were computed on the basis of the
+conditional probability matrices of Li and
+Sacks (1954).
+
+We have preferred to explore a large fraction of the whole parameter space by fairly
+gross increments of the parameter values so
+as to search for possible local maxima of the
+goodness of fit, rather than exploring more
+accurately a smaller fraction of the parameter space but leaving a large fraction of it
+unexplored (see Cavalli-Sforza and Kidd,
+1972), since the heterogeneity of the data
+
+raises doubts about the validity of any test
+of goodness of fit. Specifically, we considered the full range of dominance from completely recessive through no dominance to
+completely dominant.
+
+This model therefore encompasses most
+of the previously proposed single gene
+models, including the recessive model of
+Kallmann (1938) and the partially dominant model of Slater (1958). Our results
+are closest to those of Garrone (1962). The
+main criterion we have used in selecting the
+sample of four sets of parameter values
+given in Table 2 is that the expectations
+computed on their basis are all within two
+S.E. from the high or low observed values.
+Two minor exceptions are the U/N value
+which in two cases deviates by almost three
+S.E., but is probably of no great relevance,
+and the DZ value which deviates by slightly
+over two S.E. in one case. A further restriction on the computation that we have im 
+
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+ 
+
+TABLE 2
+
+COMPARISON OF OBSERVATIONS AND EXPECTATIONS ON THE One Gene Mover INDICATED IN FIGURE 2
+
+VALUES IN
+PER CENT MZ
+Observed
+Low ........ in bamie we he Sams ieB paden ». 45.0% 7.2
+BIO gicaaaen ga os exeames owes osname ae. 58.8% 8.5
+Expectedt for
+q e~ T h’
+(A) 0.14 049 20 O00 ....... or 41.2
+(B) 0.10 0.36 16 0.25 crrccucccees ; 44.0
+(C) 0.12 049 2.0 0.25 .c.cercccaeee 35.5
+(D) 0.09 0.36 1.8 0.5 ....200. sence 37.5
+
+ 
+
+* Age corrected, according to Erlenmeyer-Kimling (1968).
+
+tq is the gene frequency of the schizophrenogenic allele and ~=1—q; e? is the environmental variance around the mean of each genotype; T is the value of the threshold
+on the liability scale; 4’ is the mean value of the heterozygotes on the liability scale. The scale has been arbitrarily set such that the mean for the AA homozygotes is at 0
+
+and the mean for the aa homozygotes is at 2.
+
+DZ or 0/O
+
+8.5 + 0.8
+115+ 1.3
+
+13.7
+14.3
+11.7
+12.2
+
+SxS
+P/O or Not Age
+NxXS§S U/N Corrected
+44+1.6 24.7 + 3.1
++
+12.8 + 0.7 240.5 { 31.3 + 5.6
+6.1 3.6 35.8
+5.9 3.6 34.2
+5.1 3.1 30.1
+5.2 3.0 34.1
+
+Age
+Corrected*
+
+35%
+44%
+
+GENERAL
+INCIDENCE
+
+1.2
+1.3
+1.0
+0.9
+
+SSG
+
+BZIOJSHIEABY Pue Ppy
+
+ASojoig [epes
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+Vol. 20, No. 3
+
+posed is that the general incidence, computed on the basis of the parameter values,
+had to lie between 0.8 and 2%. The examples in Table 2 are not exhaustive, but are
+representative of many sets satisfying these
+criteria.
+
+Without attempting a more precise fit,
+which may be a useless exercise for a variety
+of considerations already mentioned, the
+sets of parameters satisfying the imposed
+restrictions all indicate an essentially recessive gene: h’, the expected liability of the
+heterozygote is less than the mean of the
+expected liability values for the two homozygous types. The gene frequency is around
+10% or higher. The threshold is such that
+50% or more of the homozygous recessives
+would manifest the disease. Table 3 gives
+
+Genetics of Schizophrenia
+
+259
+
+expected while those for DZ co-twins or
+sibs are smaller; (2) expected values for
+S>S lie between the age-corrected and
+non-age-corrected values; and (3) expected
+values for P/O-N & §S are closer to the incidences ascertained through affected children. All these deviations are in agreement
+with a schizophrenic effect of a schizophrenic close relative, a factor not included in
+the model. One other possible factor is the
+greater similarity in environments of MZ
+twins.
+
+It is interesting that Elston and Campbell (1970) have analyzed a model which,
+although formally different, can be considered equivalent to the above one. They also
+have four parameters, the gene frequency
+and a penetrance for each genotype, that
+
+TABLE 3
+
+% or EAcnH GENOTYPIC
+Crass AFFECTED
+
+PARAMETER SET
+
+IN TABLE 2 AA Aa
+A cccccccnccccccecccccece 0.2 0.2
+Bowe ccc cece cee ecees 0.4 1.2
+GF ox reene us muwee names Ke we 0.2 0.6
+D wives ccc cee ccceecteees 0.1 1.5
+
+the penetrance of each genotype for each
+set of parameters and the proportions of all
+schizophrenics that would belong to each
+genotypic class. Schizophrenics would be
+mostly, but not entirely, homozygous recessives according to this model. In particular,
+between 13% and 25% of all schizophrenics would have the homozygous normal
+genotype and manifest the disease only because of environmental factors; they might
+be called phenocopies. Thus, a single-gene
+threshold model predicts a heterogeneous
+etiology for schizophrenia.
+
+It may be noted that the differences between the data and the expectations seem
+consistent over the four sets: (1) observed
+values for MZ co-twins are larger than the
+
+% OF ALL AFFECTED THAT BELONG
+To Eaco Genotypic Crass
+
+aa AA Aa aa
+50.0 13.3 4.3 82.4
+74.8 24.3 V2 58.5
+50.0 16.3 12.9 70.8
+63.1 12.8 28.5 58.7
+
+can be converted into the parameters used
+by us. Although they have used a smaller
+and selected body of data (by only one
+author), so that the data they use differ
+from ours, our conclusions are in agreement
+with theirs, and the estimates they obtain
+are not excessively different from ours.
+
+Heritability can be computed for a set of
+parameter values by first calculating the
+genetic variance from the formula:
+
+Va = 2pq[h(1 — 26q) — 4h’?
++ 29(1+ 9)]
+
+which is easily derived from the value scale
+used for #’ and the genotypes given in
+Table 2. Heritability in the broad sense is
+then calculated as H = Vg/(Ve -+- ce). The
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+260
+
+heritability estimates for the four sets of
+parameter values are 13.6%, 11.6%, 11.6%,
+and 15.0%.
+
+Finally, a recessive gene 1s in agreement
+with a higher incidence in the progeny of
+consanguineous matings as observed in a
+few sets of data (see Rosenthal, 1970). It
+should be noted, however, that a recessive
+gene with such a high frequency is expected
+to show, even if fully penetrant, a rather
+modest increase in the frequency of consanguineous parentage.
+
+Before considering the polygenic model,
+we should emphasize the simplifying assumptions in the single gene threshold
+mode]. We assumed the environmental variation to have the same variance for each
+genotype and to be normally distributed;
+we assumed only two alleles in HardyWeinberg equilibrium; we have considered
+only presence versus absence of schizophrenia. As will be discussed later, this latter
+simplification applies also to the polygenic
+model. These assumptions are useful in
+simplifying the treatment of the data, but
+are recognized as limiting the validity of
+the description thus obtained. It does not
+incorporate all potential variables, but at
+least considers those that are likely to be of
+greatest importance.
+
+THE POLYGENIC MODEL
+
+Even greater difficulties are encountered
+in attempting an exact fit of the polygenic
+model. As already mentioned, Gottesman
+and Shields (1967), who first used it in
+schizophrenia, employed the approach introduced by Falconer (1965) to explain diabetes and other diseases on a polygenic
+basis. This approach (see Cavalli-Sforza
+and Bodmer, 1971) is highly approximate,
+and the suggestion by J. Edwards (1969)
+to employ tetrachoric correlation coefficients
+seems far more satisfactory. The latter is
+exact as long as the underlying distributions
+are normal. Edwards gave a graph for esti
+Kidd and Cavalli-Sforza
+
+Social Biology
+
+mating the tetrachoric correlations from
+observed data and also an empirical formula to approximate the values obtainable
+from the exact tetrachoric correlation.
+Heritabilities (or more precisely correlations) above 80%, in the range indicated
+by some of the most informative data in
+schizophrenia, are not given in Edwards’s
+graph.
+
+Rather than using the approximation,
+especially in this higher range, we have
+computed the true tetrachoric correlation
+from the series expansion originally employed by Everitt (1910). We find these
+correlations to be substantially higher than
+those obtainable by Edwards’s empirical
+formula, which appears to be a valid and
+good approximation only within the range
+in which his graph was drawn (see also
+Mendell and Elston, 1971; Smith, 1970).
+From these correlations we have computed
+the heritabilities given in Table 4 from
+
+TABLE 4
+
+HERITABILITY FROM INCIDENCE IN MZ anp DZ
+Co-Twins (UsInc DaTa GIVEN IN TABLE 1) UNDER
+THE POLYGENIC HYPOTHESIS, CALCULATED
+DIRECTLY FROM TETRACHORIC
+CORRELATIONS
+
+GENERAL INCIDENCE
+
+Co-rwiIns 1% 2%
+MZ
+Low value ............. 84% 82%
+High value ............ 92% 90%
+DZ or 0/0
+Low value ............. 80% 61%
+High value ............ 93% 77%
+
+various values of incidence in relatives given
+in Table 1. Because of the uncertainty of
+the source of the discrepancy between N *
+S, and P X O, these values were not used.
+
+The tetrachoric correlation, 7, is computed from the incidence in relatives versus
+that in the general population, respectively
+equal to b/(b-++-c) and (b+ c)/N in the
+symmetric tetrachoric (= 2 > 2) table
+shown in Figure 3.
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+ 
+
+Vol. 20, No. 3 Genetics of Schizophrenia 2061
+Relatives
+N S
+N a b a+b
+S b c b+c
+a+b b+e N
+
+Fic. 3.—Symmetric tetrachoric table
+
+It is then divided by the genetic correlation, p, expected for the same type of relationship, to obtain the heritability. For MZ
+twins, p is 1 (i.e., the heritability is equal
+to the tetrachoric correlation). For DZ
+twins, one has to make further assumptions
+on dominance. Assuming no dominance,
+p — ¥%, and the heritability is twice the
+tetrachoric correlation. Values obtained are
+given in Table 3, assuming, as Gottesman
+and Shields (1967) did, two possible levels
+of incidence of schizophrenia in the genera]
+population.
+
+The heritabilities obtained do not differ
+much in the two sets of data. If the higher
+incidence figures are correct, this fact may
+reflect greater differences in environment of
+DZ twins than of MZ twins. Further tests
+of agreement can be made for the other
+crosses. In particular, S * S seems interesting, but the computation of expectations
+in this or other crosses, under the polygenic
+model, raises new computational problems.
+We have used in this case a Monte Carlo
+approach which is described in detail elsewhere (Cavalli-Sforza and Kidd, 1972).
+The outcome of the computations is given
+in Table 5.
+
+The incidence observed in S & S matings
+seems somewhat lower than expected, suggesting a heritability below 80%, while data
+in Table 4 suggest a higher heritability.
+This difference is not large and may be
+mostly due to the simplicity of our simulation. We make no allowance for correlations
+
+ 
+
+TABLE 5
+
+EXPECTED SEGREGATION OF S (SCHIZOPHRENIA) IN
+THE OFFSPRING OF $8 XS UNDER THE POLYGENIC
+Mover (in Per Cent)*
+
+GENERAL INCIDENCE
+
+HERITABILITY 1% 2%
+T09o cag pags va wean ee 21-29 25-33
+7500 400 cansd wa aemsas 28-33 31-36
+Cg oeeen op nemeaee © 35-39 41-44
+7, 42-45 45-47
+0 53-54 54-59
+
+&
+* Computations based on Monte Carlo estimates. The
+limits given are the values obtained by including or
+
+omitting a genetic variance among the ofispring (see
+Cavalli-Sforza and Kidd, 1972).
+
+between environment and genotype or for
+interactions between the two. Matthysse
+and Shortliffe (1972) have considered two
+possible explanations: assortative mating
+among schizophrenics and a positive correlation between the total liability (environmental and genetic) of the parents and the
+environmental contribution to the liability
+of the offspring. They have shown that including such factors in the simulation
+results in much better agreement with the
+observed levels of incidence. Thus, it would
+seem that a polygenic model also cannot be
+ruled out.
+
+DISCUSSION
+
+The sources of heterogeneity discussed
+make it unlikely, but not impossible, that
+more precise methods of segregation analysis, employing individual family data, may
+reach more substantial conclusions. At any
+
+ 
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+ 
+
+262 Kidd and Cavalli-Sforza
+
+rate, it seems difficult on the basis of the
+present analysis to discard either the one
+gene model or the polygenic model or both.
+We are thus in agreement with the supporters of either theory. Elston and Campbell (1970) did not fit a two-gene version
+of their model to the data, but we think
+that a two-gene threshold model could fit
+the data. In fact, since either extreme version, single gene or polygene, can account
+for the observed data, it seems intuitively
+likely that any intermediate version, in particular, the two-gene model, would also give
+a satisfactory fit to the present data. The
+same can be said for any model of genetic
+heterogeneity, since an increase in the number of parameters can only improve the fit.
+
+Both of these threshold models, single
+gene and polygene, consider schizophrenia
+as an all or nothing disease; this is a great
+oversimplification. Heston (1970) has considered the possibility that there is essentially a continuum from normal to schizophrenic. There is, in addition, a gradient in
+severity among schizophrenics, and the concordance rate among twins has been shown
+to be positively correlated with the severity
+of the index cases (see Gottesman and
+Shields, 1967; Rosenthal, 1970). However,
+both models are based on an underlying
+continuous variable. Thus, there is no conceptual difficulty involved in subdividing
+this continuum into many segments corresponding to the types and degrees of severity in a schizoid spectrum, but the quality
+of the data do not seem to warrant the
+estimation of many separate thresholds at
+this time.
+
+The correlation between concordance and
+severity has been used to support the polygenic model (Gottesman and Shields,
+1967), but, in itself, it cannot discriminate
+between the two threshold models. Elston
+and Campbell (1970), relying on the large
+environmental effect, suggested the shared
+environment of twins was a plausible explanation. For threshold models, as here for
+Social Biology
+
+mulated, it is mot necessary to invoke
+environmental correlations to account for
+this observation. It is only necessary to
+postulate that the more severely affected
+individuals are higher on the liability scale
+to see that, by either model, these individuals thereby have a higher probability of
+being schizophrenic because of a schizophrenic genotype than the more mildly affected individuals. Concordance rates would
+thus be correlated with severity on either
+model.
+
+The severity-concordance correlation already mentioned points out a possibly significant source of heterogeneity among
+studies. Thus, twin studies based on resident hospital patients have higher concordance rates than those based on general
+population surveys (Rosenthal, 1961;
+Gottesman and Shields, 1966). Future work
+on the single gene model presented here
+should include an attempt to fit the data
+separately for each type of study, thereby
+eliminating this source of heterogeneity.
+Should we find that only the threshold need
+be varied to account for the differences between the types of studies, it would be
+strong support for the threshold model but
+would not necessarily favor the single gene
+or polygenic versions.
+
+There are three other considerations
+which emerge from this analysis which may
+be worth further comment. The first is that,
+if we cannot at this stage discard either a
+one gene hypothesis or a polygenic hypothesis, the former is more attractive, both because it is favored from the application of
+Occam’s razor and also because it gives
+more hope of resolution in simple biochemical terms. Eventually, the answer to such
+complex cases of inheritance will be in the
+hands of biochemical researchers. Whichever the answer, it is more gratifying at this
+stage to think that there is no real evidence
+yet, against the hope that the answer may
+be relatively simple (i.e., that there is one
+major locus, though greatly complicated by
+
+ 
+Downloaded by [University of Michigan] at 13:34 08 December 2015
+
+Vol. 20, No. 3
+
+environmental effects). If the data force us
+to accept a truly polygenic hypothesis, the
+explanation in physiological or biochemical
+terms is unlikely to be as simple. Naturally,
+a great number of alternatives to the simple
+one-recessive-allele or the simple polygenic
+hypothesis remain available. The multiplication of parameters would improve the fit,
+but the acceptability of any of these more
+complex hypotheses would remain, at the
+moment, scarcely greater than that of any
+other explanation.
+
+Another consideration refers to the values
+of heritability thus computed. The same set
+of data analyzed as a polygenic system
+yields a heritability of 80% or higher, but
+as a one gene system, it yields values that
+vary from 10% to 15%. Thus, on one
+hypothesis, the role of genetics (as defined
+by the heritability concept) is more important. The two theories fit almost equally
+well—or equally poorly—the data, but well
+enough that both theories have been accepted by competent, though different, research workers. Should one attach much
+meaning to a quantity such as heritability
+which may fluctuate so widely depending
+on the genetic hypotheses employed, and
+among which, at this stage, it seems to be
+difficult to make a firm choice?
+
+Finally, it may be mentioned that if the
+one gene hypothesis is correct, then the gene
+predisposing toward schizophrenia should
+be considered an essentially recessive gene
+of relatively high frequency (of the order of
+10% or higher) although there may be
+some affected persons who are of the heterozygote type, and some of the homozygotes
+for it may be normal. Schizophrenics would
+be in fact of all possible genotypes, though
+predominantly (about 70%) of the homozygous recessive type.
+
+Genetics of Schizophrenia
+
+263
+
+SUMMARY
+
+Data on the inheritance of schizophrenia
+indicate that both genetics and environment contribute in an important way to the
+manifestation of the disease. However,
+heterogeneity of the data makes an accurate
+analysis very difficult. For this reason, the
+solution is unlikely to come from statistical
+techniques alone. Future advances in physiological, toxicological, and biochemical research are more likely to supply a firmer
+basis to the understanding of the genetic
+component of this disorder. A crude analysis of a threshold model, using a polygenic
+or a single gene hypothesis, shows that both
+are in approximate agreement with the data.
+
+Though argument about genetic models
+seems futile when virtually any model can
+account for the data, the single gene hypothesis is unavoidably more attractive at
+this stage. If a single gene is involved, the
+allele predisposing toward schizophrenia
+should be considered as essentially, though
+not entirely, recessive; all genotypes would
+be strongly affected by unknown environmental factors; and even some genetically
+normal individuals would manifest the disorder,
+
+ACKNOWLEDGMENTS
+
+We wish to thank Drs. S. Kessler and L.
+Erlenmeyer-Kimling for their critical reading
+of the manuscript and their many helpful comments and suggestions.
+
+This research was sponsored in part by
+funds awarded by N.I.H. (grant number
+GM10452—09) and by funds from the Provost
+Fund of Stanford University. Computer support for this research was obtained from the
+Advanced Computer for Medical Research
+Facility at the Stanford Medical Center.
+ACME is supported by the Biotechnology Resources Branch of N.I.H. (grant number
+RROO311).
+
+REFERENCES
+
+CAVALLI-Srorza, L. L., and W. F. Bopmer. 1971.
+The genetics of human populations. Freeman,
+
+San Francisco.
+Cavattt-Srorza, L. L., and K. K. Kipp. 1972.
+Considerations on genetic models for schizo
+phrenia. Neurosciences Research Program Work
+Session on Schizophrenia, 10(4) :406-419.
+Epwarps, J. 1969. Familial predisposition in man.
+Brit. Med. Bull. 25:58-64.
+Eston, R. C., and M. A, CAMPBELL. 1970. SchizoDownloaded by [University of Michigan] at 13:34 08 December 2015
+
+264.
+
+phrenia: Evidence for the major gene hypothesis. Behav. Genet. 1:3-10.
+
+ERLENMEYER-KIMLING, L. 1968. Studies in the
+offspring of two schizophrenic parents, In D.
+Rosenthal and S. Kety (eds.), The transmission
+of schizophrenia. Pergamon, Oxford.
+
+Everitt, P. F. 1910. Tables of the tetrachoric
+functions for fourfold correlation tables. Biometrika 7:437-451.
+
+Fatconer, D. S. 1965. The inheritance of liability
+to certain diseases estimated from the incidence
+among relatives, Ann. Hum. Genet., Lond. 29:
+51-71.
+
+Garrone, G. 1962. Etude statistique et génétique
+de la schizophrenie &4 Genéve de 1901 4 1950.
+J. Genet. Humaine 11:89-219.
+
+Gottesman, I. L, and J. Suretps. 1966. Contributions of twin studies to perspective on schizophrenia, In B. A. Maher (ed.), Progress in
+experimental personality research, Vol. 3. Academic Press, New York.
+
+. 1967. A polygenic theory of schizophrenia.
+PNAS 58:199-205.
+
+Heston, L. L. 1966. Psychiatric disorders in foster
+home reared children of schizophrenic mothers.
+Brit. J. Psychiat. 112:819-825.
+
+. 1970. The genetics of schizophrenic and
+schizoid disease. Science 167:249-250,
+
+Katrmann, F. J. 1938. The genetics of schizophrenia. J. J. Augustin, Publisher, Locust Valley,
+New York.
+
+Kery, S., DB. Rosentnar, F, ScHuLsincer, and
+P. WENDER. 1968. The types and prevalence of
+mental illness in the biological and adoptive
+families of adopted schizophrenics. In D. Rosen
+ 
+
+ 
+
+Kidd and Cavalli-Sforza
+
+Social Biology
+
+thal and S. Kety (eds.), The transmission of
+schizophrenia, Pergamon, Oxford.
+
+Li, C. C., and L. Sacks, 1954. The derivation of
+joint distribution and correlation between relatives by the use of stochastic matrices. Biometrics 10:347-360.
+
+Matruysse, S., and L. SHorTLIFFE. 1972. Some
+additional predictions of the polygenic model.
+Neurosciences Research Program Bulletin, in
+press.
+
+MENDELL, N., and R. C, Exston, 1971. Use of the
+tetrachoric correlation coefficient in the estimation of heritability of quasi-continuous traits.
+Biometrics 27:483-484 (abstract).
+
+Mortutsky, A. 1970. Biochemical genetics of
+hemoglobins and enzymes as a model for birth
+defects research. In F. Clarke Fraser, V. A.
+McKusick and R. Robinson (eds.), Congenital
+malformations: Proceedings of the Third International Conference, The Hague, the NetherJands. Excerpta Medica Foundation Publishers,
+Amsterdam.
+
+ROSENTHAL, D. 1961. Sex distribution and the .
+severity of illness among samples of schizophrenic twins. J. Psychiat. Res. 1:26-36,
+
+. 1970. Genetic theory and abnormal behavior. McGraw Hill, New York.
+
+StaTer, E. 1958, The monogenic theory of schizophrenia. Acta Genet. (Basel) 8:50-56.
+
+Situ, C. 1970, Heritability of liability and concordance in monozygous twins. Ann. Hum.
+Genet. 34:85-91.
+
+ZERBIN-RUDIN, E. 1967. Endogene psychosen. In
+P. E. Becker (ed.), Humangenetik. Thieme,
+Stuttgart.
+
+ 
+
+Addenda
+
+Since this paper was written, some articles
+that relate to this topic have appeared or are
+in press now and have been brought to our
+attention. James (1971) has shown that in the
+one gene model with one threshold, the correlations between relatives depend only on three
+parameters. Both the single gene model studied
+by Elston and Campbell (1970) and the model
+we used require four parameters for complete
+specification. This leaves a range of equally
+valid solutions, among which general incidence
+and incidence among various types of relatives
+are identical. The range is, however, restricted
+by the fact that gene frequencies and penetrances outside the range 0-1 are unacceptable.
+
+In the case of schizophrenia, the restriction
+thus imposed limits the range of possible solutions to gene frequencies between approximately 0.06 and 0.15. In this range all solutions are equally acceptable. Thus, a single
+gene two allele model can fit the data. If a
+single locus is involved, the gene frequency
+must be in the neighborhood of g=0.10 (with
+range 0.06-0.15 by James’ approach). A very
+similar range of solutions was found with our
+search procedure and is indicated in Tables 2
+and 3 of this paper.
+
+Two aspects of some interest resulted from
+the comparison of these approaches. The first
+is that, while James used only the parentoffspring correlation, his conclusions can be
+extended to the case in which specific types of
+matings are considered, eg., N XN, N XS,
+and S X S as we have done. The second is that
+the two formulations of the single gene model
+(ours based on liability distribution and James’
+using scores of O for normal and 1 for disease)
+give rise to different heritability estimates. Our
+formulation allows direct calculation of the
+additive and dominance components of variance for the underlying liability for each acceptable solution. Over the range of these
+solutions the variance components vary, and
+consequently the heritability estimates vary.
+The A? (narrow) values range from less than
+4% to slightly over 15%, while the A? (wide)
+values range only from approximately 11% to
+approximately 17%. In contrast, the invariant
+heritability estimates based on application of
+Kempthorne’s formulae (see James, 1971) are
+near 8% for h? (narrow) and near 40% for
+h? (wide).
+
+Reich, James, and Morris (1972) have developed a two threshold method that may
+

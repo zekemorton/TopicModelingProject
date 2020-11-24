@@ -1,0 +1,630 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ 
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Heterogeneity of childless families
+
+Jerome H. Waller , B. Raja Rao & C. C. Li
+
+To cite this article: Jerome H. Waller , B. Raja Rao & C. C. Li (1973) Heterogeneity of childless
+families, Social Biology, 20:2, 133-138, DOI: 10.1080/19485565.1973.9988033
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1973.9988033
+
+fe Published online: 23 Aug 2010.
+
+ee
+(g Submit your article to this journal @
+all Article views: 6
+
+»
+Q View related articles @
+
+wa Citing articles: 12 View citing articles G
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:33
+
+ 
+Downloaded by [University of Michigan] at 13:33 08 December 2015
+
+ 
+
+Heterogeneity of Childless Families
+
+ 
+
+Jerome H. Waller, B. Raja Rao, and C. C. Li
+
+Graduate School of Public Health
+University of Pittsburgh
+Pittsburgh, Pennsylvania
+
+The distribution of completed family size
+(or sibship size) has recently been a subject of interest for human biologists, geneticists, demographers, and social scientists;
+but a satisfactory fit of the observed data
+to any simple distribution has yet to be
+found. Since the variance of the family size
+distribution is much larger than its mean, a
+Poisson distribution is unlikely to fit. However, there is good empirical evidence that
+the distribution is nearly that of a negative
+binomial (Kojima and Kelleher, 1962).
+Certain theoretical considerations based on
+a birth process (discussed below) also lead
+to a negative binomial distribution.
+
+In the process of fitting a negative binomial distribution to observed frequencies
+of completed family size from various
+sources, we have noticed that the number
+of childless families is invariably greater,
+usually much greater, than the fitted or
+expected number, although the fitting is
+generally good for the rest of the distribution. In fact, the observed number of childless families is inconsistent with the general
+form of a negative binomial distribution
+based on certain values of the parameters
+involved. This seems to suggest that the
+childless families may be a mixture of two
+types of families: (1) One is biologically
+fertile and could have children but did not;
+
+13
+
+ 
+
+this type of family should be a part of the
+general negative binomial distribution of
+family size. (2) Another type is either biologically or electively not fertile and thus
+has no children. The proportion of completed families belonging to this second
+type might be expected to vary among
+populations studied, due to sociocultural
+factors influencing the deliberate choice to
+have no children. The sterile families do
+not belong to the general distribution of
+completed family size. This communication
+reports the methods and results of fitting a
+negative binomial distribution to observed
+frequencies of family size and separating
+the two types of childless families so that
+we may obtain a finer estimate of the proportion of sterile families in the population.
+The theoretical considerations justifying a
+negative binomial distribution are discussed
+below.
+
+A BIRTH PROCESS LEADING TO A
+NEGATIVE BINOMIAL DISTRIBUTION
+
+The assumption that the size of a family
+follows a negative binomial distribution
+may possibly be justified from the following
+considerations of a pure birth process. The
+term “birth” is used in a broad sense here.
+In a family, it refers to the birth of a new
+offspring; in the theory of epidemics, it
+
+3
+
+ 
+Downloaded by [University of Michigan] at 13:33 08 December 2015
+
+ 
+
+134
+
+may refer to a new case of infection; in the
+theory of waiting lines, it may refer to the
+arrival of a new customer to the queue. By
+a pure birth process we mean we consider
+births only, assuming no deaths during the
+process, so that the size of the population
+cannot decrease at any time.
+
+Let ¢ denote time and X(#) denote the
+size of the population at time ¢>0. For
+simplicity, let us assume that the population initially has only one individual; that
+is, X(0) = 1. The population size X(t) is
+an integer-valued random variable although
+time ¢ is continuous. The family {X(¢)}
+then represents a birth process. The basic
+postulate about this process is that {X(t)}
+is a Markov process, thereby meaning that
+the probability distribution of the future
+size X(¢-+-), for a small time interval
+h > 0, depends only on that of the present
+size X(t) and not on that of the size in the
+past. In the following, we shall consider a
+comparatively simple type of pure birth
+process known as the Yule process.
+
+Let the “birth rate” of the process be a
+positive number A, This means that if at
+time ¢ there are & individuals in the population, the probability that one birth takes
+place in the small time interval (¢, ¢ + 2)
+is kX-+ o(k), where o(#) is a negligibly
+small quantity compared with the length of
+the interval 4. Also, the probability of having more than one birth in the same small
+time interval is taken to be o(%). These
+two assumptions may be written as follows:
+
+P{X(¢ +h) =k+1/X(t)
+=k} = ki -t o(h);
+
+P{X(t-+h) >k+1/X(t)
+
+—k}=—o(hk).
+
+Under these assumptions, it may be shown
+
+that the probability that the population size
+
+at time # will be WV is
+
+P(t,N) =P {X(t) =N}
+
+(A)
+
+ 
+
+Waller, Rao, and Li
+
+ 
+
+Social Biology
+
+where N > 1. In other words, this is the
+probability that the population will grow
+from one individual to N individuals in the
+time interval (0, ¢). It is noted from (A)
+that the process X(¢) has a geometric distribution and that
+
+S* pc,n) = I.
+
+N=1
+
+In any finite time interval (i.e., for a fixed
+t), the population cannot explode to infinity, although that can occur in infinite time.
+Also, we note that when the population
+grows from one individual to N individuals,
+the number of births or new individuals
+added to the population is N — 1 in the
+time interval (0, ¢).
+
+More generally, if the initial population
+size is X(0) =r individuals, it may be
+shown (Chiang, 1968, p. 53) that the probability that the population size will be NV at
+time ¢ is
+
+P{X(t) =N} =
+N—1
+(° _ ‘) (e—*)r (1 — e—Mt)N—r (B)
+
+where N > r. The number of new individuals added to the population is N — 7, in
+the time interval (0, ¢).
+
+Now, we define a new process Y(?),
+where Y(¢) = X(t) —7 is the number of
+births that occurred in the time interval
+(0, #), starting with a population of size r.
+The probability distribution of Y(#) may
+be obtained from (B) as
+
+P{V(t) =k} =P (X(t) =r+ b}
+
+(re
+k
+
+ed
+—
+
+) (e-*) (1 — et) (C)
+which is a negative binomial distribution
+with parameters r and p = e—*, Thus, in a
+pure birth process, the number of births
+during a certain time period from a fixed
+number of initial individuals follows a neg
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:33 08 December 2015
+
+Vol. 20, No. 2
+
+ative binomial distribution. In the specific
+case at hand, the size of a family is the
+number of births, and the time period is a
+complete reproductive period.
+
+THE NEGATIVE BINOMIAL
+DISTRIBUTION
+
+Let & be the size of a sibship (i.e., family
+size, colloquially). The probability that the
+sibship size be & is given by
+
+k—1
+P, = P(k;7,~) = on ) pra (1)
+
+where & = 0,1, 2,..., and 7 is a constant
+positive quantity but not necessarily an integer, where -+ g = 1. In this distribution, 7 and p are the two parameters and k
+is the variable. This distribution is called
+the negative binomial distribution, also
+known as the Pascal distribution. The mean
+and variance of the distribution are:
+M=1q/p; (2)
+V=1q/?". (3)
+These standard results may be found in
+textbooks on probability (eg., Feller,
+1957). Note that the variance is always
+greater than the mean, as O< p< 1. Of
+particular interest to the problem under
+consideration is the first term of the distribution. For childless families, & = 0, and
+P o— Pp.
+
+In fitting the distribution to observed
+data, we shall not delve into maximum likelihood estimates of the parameters but, for
+the sake of simplicity, will use directly the
+following relationships for estimates:
+
+v=—M/V, (4)
+Y= M?/(V—M), (5)
+
+where M and V are now the observed mean
+and variance of the frequency data.
+
+mean,
+
+variance,
+
+DATA
+
+From the extensive pedigrees published
+by E. W. and S. C. Reed (1965), we se
+Heterogeneity of Childless Families
+
+ 
+
+135
+
+lected all husband-wife pairs belonging to
+generations III and IV in the two categories “Probably Genetic” and “Primarily
+Environmental” (causes of mental retardation). This gave us 2,393 pairs, and a total
+of 6,862 children. Table 1 (first two col
+TABLE 1
+
+OBSERVED AND FITTED NUMBER OF FAMILIES
+or VARIOUS SIZES
+
+Fitted Number
+
+Observed II
+Family Number I (Rider, III
+Size (k) (f,) (Complete) 1955) (Present)
+O cava cuucus 514 417.9 171.5 251.8
+L ciuianeesia 394 376.2 313.9 374.7
+2 exnsaiannt 391 414.8 361.6 379.5
+3 cccceecuce 294 324.2 335.0 324.4
+a 241 238.9 272.4 251.5
+SD wsnemewewe 174 169.6 203.1 183.1
+6 wecccvcees 123 117.4 142.3 127.5
+7 cccvcccces 95 79.8 95.0 85.9
+S sswisiaiar 58 53.4 61.2 56.4
+ND keeceaeean 47 35.4 38.2 36.3
+TO sauavawsae 29 2300 23.3 23.0
+Il ssasasssas 16 15.1 13.9 14.3
+Te eseneaaace 8 9.8 8.2 8.8
+13 wee ee eens 8 6.3 4.7 5.4
+14 ccc cece eee 1 40 2.7 3.3
+IS+ + coc eeeee 0 7.0 3.5 48
+Distribution
+total ...... 2,393 2,393.0 2,050.5 2,130.7
+Estimated
+sterile .... 0 0 342.5 262.3
+Grand
+total ...... 2,393 2,393.0 2,393.0 2,393.0
+
+Source: Data from Reed and Reed, 1965.
+
+umns) gives the observed numbers of families for each stated family size: 514 of
+these couples are childless and 2,393 — 514
+= 1,879 had produced offspring. The remaining columns (I, II, III) of Table 1
+giving the fitted numbers of families will be
+explained in the following section.
+
+METHODS OF FITTING
+
+Three methods of fitting the negative
+binomial distribution to the observed data
+have been employed. Method I consisted
+of calculating the mean (24) and variance
+(V) directly from the observed distribu
+ 
+Downloaded by [University of Michigan] at 13:33 08 December 2015
+
+136 Waller, Rao, and Li
+
+tion: for this calculation, the terminal category of the data was k = 14. The parameters # and 7 for the negative binomial
+distribution are estimated by formulas (4)
+and (5) above. The numerical values are
+given in Table 2.
+
+TABLE 2
+
+ESTIMATES OF PARAMETERS OF THE NEGATIVE
+BrnosrtaAL DISTRIBUTION FOR DATA FROM
+REED AND REED (1965) BY
+DIFFERENT METHOpDS*
+
+ 
+
+I II IlI
+Parameters (Complete) (Truncated) (Iteration)
+
+Mean, M ........ 2.86753 (3.3473) 3.22048
+Variance, V ...... 7.21730 (6.8189) 6.96898
+pro=M/V ....... 0.39731 0.52559 0.46212
+r’ = M2/(V-M) .. 1.89038 3.85752 2.76683
+DP cscewswsevewss 0.17466 0.08364 0.11815
+Estimated total
+
+1879
+
+N= .-- 2,393¢ 2,050.5 2,130.7
+1— ~r
+
+* See text for description of methods.
+t Observed total.
+
+Method II involved regarding the zero
+class as missing and using the method of
+Rider (1955) to estimate the parameters
+on the basis of the incomplete (or truncated) distribution. For this computation
+one needs the following quantities:
+
+Tom 2 fas Ty =Xfxk, T2= =f, *,
+
+and T3;= Df, (6)
+where all summations range from k = 1 to
+the maximum class value. Our p is equivalent to Rider’s 1/(1-+ #*) and our r is
+Rider’s r*, The estimates of the parameters
+
+for the negative binomial distribution in
+our notation are
+
+27? —T,T,—T,T,
+
+"FP UTP aPop \)
+1-3. “1 ai 1 “2
+T,T,— Ty
+
+2=—=— (8)
+
+T,T,—T;
+
+Vol. 20, No. 2
+
+The numerical values of these estimates are
+also given in Table 2.
+
+Our contribution, Method II, consisted
+of iteration from the sets of initial trial
+values of p and r obtained from Methods I
+and II. In iterating from either set of
+values, we calculated the new total number
+for the distribution, 7, and the estimated
+number for the zero class Np. These numbers are given by:
+
+N = T)/(1 — 2”) (9)
+and
+No=pNn (10)
+
+where Tp = 1,879. We then replaced the
+observed total number with the calculated
+values of NW and calculated new values of
+p and r by use of formulas (4) and (5).
+Since the Z’s (formulas 6) do not vary, it
+is not necessary to calculate estimated
+values for all & classes until the end of the
+iteration. The endpoint of our iterative
+process was reached when successive values
+of N and No from formulas (9) and (10)
+did not change at the fourth decimal place.
+This required about 35 iterations from
+either Method I or II. The initial values
+from Method I and II are given in Table 2,
+from which it can be seen that Method, I
+gives values of the parameters that are “‘too
+low” and Method II gives values that are
+“too high.” The iterative process thus produced convergence from these two sets of
+values upon the values for Method III that
+are given in the last column of Table 2.
+
+RESULTS
+
+The three methods produced three sets
+of estimates of » and r. For each set of
+estimates, the theoretical frequency P;, of
+(1) is calculated. Multiplying these P,
+values by the appropriate total number of
+families (observed total for Method I, and
+calculated totals for Methods II and III),
+we obtain the three sets of fitted numbers
+shown in Table 1.
+Downloaded by [University of Michigan] at 13:33 08 December 2015
+
+Vol. 20, No. 2 Ileterogeneity of
+The various estimates have been summarized in Table 2. The number
+
+14
+Lo = ») fe = 1,879
+1
+
+is the total number of families having one
+or more children. The values of mean (J)
+and variance (V) for Rider’s method
+(1955) of fitting an incomplete negative
+binomial distribution are given in parentheses since they are not used directly in
+calculating the stated values of p and 7, but
+were calculated from the fitted numbers of
+the family size distribution.
+
+It is seen from Table 1 that, excluding
+the zero-class, the fit by Method IIT is considerably better than that by Methods I
+and II. This is true especially for the
+smaller families. As family size increases,
+the three sets of fitted numbers do not
+differ too much.
+
+Chi-square goodness-of-fit tests applied
+to the observed and expected values show
+the increasing accuracy of estimation proceeding from Method I to Method III.
+Since in Method I we are comparing entire
+distributions of observed and estimated
+numbers, the degrees of freedom after combining the last three classes are 11; the
+value of chi-square is 53.78, so the observed
+distribution does not fit this expectation
+(%70.01111] = 24.73). In testing Methods II
+and III we are interested only in the goodness of fit for = 1 to 14, hence the d.f.
+are 10 after combining the last three
+classes. The values of y? for Methods II
+and III are 42.50 and 12.74, respectively.
+Since ¥7o.01(10] = 23.21, the distribution
+with parameters from Rider’s method does
+not fit, but the x? for the distribution of
+Method III fits very well.
+
+Method I, treating the entire zero class
+as part of the negative binomial distribution, yields 418 childless families, 96 short
+of the observed 514. When the zero class is
+
+Childless Families
+
+137
+
+omitted, Rider’s method yields only 171.5
+childless families belonging to the negative
+binomial distribution, leaving 514 — 171.5
+= 342.5 biologically sterile families. Our
+present iteration method does not ignore
+the zero class completely, but tries to find
+the number of childless families that is consistent with the rest of the observed family
+size distribution. It is found that 252 (49%
+of 514) childless families belong to the
+negative binomial distribution, leaving 262
+(51% of 514) as biologically sterile families. This number (262) is about 11% of
+the total number of couples in our sample
+(2,393).
+
+DISCUSSION
+
+In fitting the distribution of human
+family size as reported by census data to a
+negative binomial, Kojima and Kelleher
+(1962) employed the approximations mean
+M =3 and variance V = 7, and obtained
+fairly good fitting. In the present investigation we obtained results of the same order;
+for the entire observed distribution of 2,393
+families, 14 = 2.87 and V = 7.22. When
+the zero class is regarded as a mixture of
+two different types of families, our iteration
+method yields M = 3.22 and V = 6.97 for
+the negative binomial distribution of 2,131
+families, excluding the 262 biologically
+sterile families. The inclusion of such sterile
+families has of course decreased the mean
+and increased the variance.
+
+The distribution of human family size is
+obviously influenced by many factors, both
+biological and social. It would be too much
+to claim that it follows a certain simple
+mathematical law of distribution. Our present aim is to find a good general approximation. The distribution of family size as
+reported by certain census data may have
+other characteristics (in addition to the
+excess of childless families). For instance,
+there is some indication that the number
+of two-child families is also in excess (U.S.
+
+ 
+Downloaded by [University of Michigan] at 13:33 08 December 2015
+
+138 Waller, Rao, and Li
+
+Bureau of the Census, 1964). With the
+advent of family planning programs, we
+expect the distribution of family size to be
+increasingly influenced by social factors.
+
+CONCLUSIONS
+
+The observed distribution of family size
+as reported in Table 1 is constructed from
+data collected before the advent of family
+planning programs and the general use of
+contraceptives. The present analysis permits us to draw the following conclusions.
+
+1, The distribution of completed family
+size is nearly that of a negative binomial.
+
+2. The excess of childless families may be
+explained by assuming that it is a mixture of two types of families. One type
+is biologically fertile but has produced
+no children and belongs to the general
+distribution: the other type is sterile
+biologically or by deliberate choice and
+does not belong to the general distribution of completed families.
+
+3. It appears that about half of the child
+Social Biology
+
+less completed families are of the fertile
+type and about half are of the sterile
+type. Of our total sample, about 11% are
+of the latter type.
+
+SUMMARY
+
+In attempting to fit a theoretical distribution numbers of families with a given
+number (%) of children, a close approximation was given by the negative binomial.
+Expected numbers calculated from an iterative procedure showed a good fit of the
+theoretical and observed distributions for
+k=1 to 14 and a marked excess of observed over expected numbers for & = 0,
+the childless families. Our interpretation is
+that there is heterogeneity among the families of this class; some have no children
+by chance alone and belong to the underlying distribution, while some (11% of the
+2,393 couples in our total sample) are estimated to be sterile and have no offspring
+for other reasons.
+
+REFERENCES
+
+CuHranc, C. L. 1968. Introduction to stochastic
+processes in biostatistics. Wiley, New York.
+
+Fetter, W. 1957. An introduction to probability
+theory and its applications, Vol. I. 2nd ed.
+Wiley, New York.
+
+Kojrma, K. I., and I, M. Ketteser. 1962. Survival of mutant genes. Amer. Nat. 96:329-346.
+
+Reep, E. W., and S. C. Reep. 1965. Mental retardation: A family study. Saunders, Philadelphia,
+
+Rmer, P. R. 1955, Truncated binomial and negative binomial distribution, Amer. J. Statist.
+Assoc, 50:877-883.
+
+U. S. Bureau oF THE Census. 1964. U. S. census
+of population: 1960. Subject reports. Women
+by number of children ever born. Final report
+PC(2)-3A. Government Printing Office, Washing, D.C.
+
+ 
+

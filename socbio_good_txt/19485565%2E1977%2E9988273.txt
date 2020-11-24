@@ -1,0 +1,921 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ 
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+An economic model of contraceptive choice:
+Analysis of family planning acceptors in bogota
+
+William J. Kahley & Ronald T. Gillaspy
+
+To cite this article: William J. Kahley & Ronald T. Gillaspy (1977) An economic model of
+contraceptive choice: Analysis of family planning acceptors in bogota, Social Biology, 24:2,
+135-143, DOI: 10.1080/19485565.1977.9988273
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1977.9988273
+
+ 
+
+fa Published online: 23 Aug 2010.
+
+ee
+(g Submit your article to this journal @
+lil Article views: 1
+»
+Q View related articles 4
+
+(7) Citing articles: 1 View citing articles G
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:36
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+An Economic Model of Contraceptive Choice:
+Analysis of Family Planning Acceptors
+
+in Bogota
+
+ 
+
+ 
+
+William J. Kahley and Ronald T. Gillaspy
+
+Department of Economics, Lafayette College, Easton, Pennsylvania, and Population Issues Research Office
+and Department of Economics, The Pennsylvania State University, University Park, Pennsylvania
+
+ABSTRACT: This paper reports on the decision-making process leading to the choice of a particular
+contraceptive method. Specifically, a model was developed and tested which determines the
+choice between the IUD and the pill using data obtained from the 1969 Profamilia family
+planning program adopter’s questionnaires in Bogota, Colombia. A linear probability model was
+employed to estimate the effects of the independent variables on the probability of adopting the
+IUD over the pill. Briefly, income, education, parity level, and age were found to be significant
+while a spacing/limiting variable was not significant.
+
+In matters concerning family size, a
+family unit may be said to be confronted
+with from one to three basic decisions.
+First, the family must decide whether or
+not to space and/or limit children.
+Secondly, if it decides to space and/or
+limit, the family must then decide what
+method will be employed to achieve this
+end. Finally, the family must decide, ona
+periodic basis, whether or not it will continue with the method chosen.
+
+The purpose of this paper is to report on
+research which focuses on the decision regarding which method or combination of
+methods will be employed by the family
+unit in its attempt to effectively constrain
+fertility outcomes to desired levels and
+birth intervals. Specifically, when a family
+decides to plan its fertility, it is confronted
+with a number of possible methods, including the IUD, oral pill, rhythm, withdrawal, condoms, foams, diaphragms,
+douche, jelly, sterilization, injections, etc.
+Thus, there are a number of methods from
+which to choose, and different families
+will, if unconstrained, choose among these
+methods. The relevant question is: What
+
+criteria go into the process of deciding
+which method to use? Certainly, physiological considerations may limit certain
+individuals to particular methods. For example, young nonparous women may not
+be able to tolerate an IUD (Medawar and
+Pyke, 1971). However, there does appear
+to be a decision-making process in this
+regard over and above the effect of physiological constraints. In this paper we focus
+on this contraceptive choice, using data
+from Bogota, Colombia.
+
+PREVIOUS RESEARCH
+
+There has been little previous work
+done in the area of modeling of contraceptive choice, even though such eminent
+demographers as Berelson and Campbell
+(1971) have noted the desirability of such
+work, There have been some studies of the
+characteristics of users of various methods; but these works concentrated on the
+broad characteristics of adopters of various methods and little attempt was made
+to develop a theory of contraceptive choice
+(see, for example, Freedman et al., 1959;
+
+135
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+136
+
+Whelpton et al., 1966; Ryder and Westoff,
+1971; Rainwater, 1965).
+
+Beyond these descriptive studies, a few
+attempts have been made to study a behavioral relationship in contraceptive
+choice, including studies by Cochrane
+(1975), Bauman and Varavej (1972), and
+Ballweg (1972). Cochrane employed a
+multivariate discriminant analysis in an
+attempt to analyze the characteristics
+which maximize the prediction of a
+woman as an IUD versus pill user. The
+sample was composed of 450 OEOsponsored Planned Parenthood clinic participants in Columbia, South Carolina,
+including 130 IUD acceptors and 292 pill
+acceptors. Briefly, it was found that race,
+previous type of contraceptive used, and
+number of children lost were the most
+significant variables. Cochrane also found
+that income and education were not important variables. This latter finding perhaps resulted from the nature of the
+sample.
+
+The study by Bauman and Varavej
+(1972) examined the choice between the
+IUD and the pill and the implications of
+the nature of this choice on continuation
+rates. Their sample consisted of 5,669
+women who had adopted either the pill or
+the IUD in a hospital in Bangkok and 179
+women from Soongnern Clinic in northeastern Thailand. Their central hypothesis
+was that spacers would choose the pill and
+limiters the IUD and that this process
+tends to artificially lower the continuation
+rate for the pill. Their actual data analysis
+was limited, including simple two-way
+contingency tables and resulting § chisquare statistics. However, their hypothesis was supported by their tests in each of
+the two samples. Of central interest here,
+though, is not the results of their data
+analysis but rather their underlying thesis
+that women do not randomly choose
+among available contraceptive methods
+but rather base choice on “selected vari
+Kahley and Gillaspy
+
+Social Biology
+
+ables” and that the process of this choice
+has implications for continuation rates.
+Ballweg (1972) studied 3,445 national
+family planning program subjects in the
+Philippines who had adopted the pill,
+IUD, rhythm, or other method. Basically,
+this study was an attempt to examine
+sources of information on family planning,
+status, education of the wife, husband’s
+occupation, actual fertility, and desired
+fertility as they affect contraceptive
+method choice. Ballweg found that
+women near the end of childbearing years
+were more likely to select one of the more
+effective methods as also were women
+with large families who desire no more
+children. In addition, two measures of
+status, education and occupation of the
+husband, failed to reveal significant
+relationships with choice of method.
+Simple analysis of variance was used to
+test the hypotheses, although it appears
+that a more powerful statistical procedure
+would have been preferable in this case.
+
+MATERIALS AND METHODS
+
+MODEL SPECIFICATION
+
+Contraception can be thought of as a
+consumer good with both quantitative and
+qualitative dimensions. Further, there are
+two dimensions to the qualitative nature
+of contraceptives. First, there is an effectiveness dimension. Even assuming all
+methods are used with maximum efficiency, different methods will still yield
+different levels of protection from
+conception. Second, there is a demand
+dimension. Budgets and tastes are not
+constant among different individuals. In
+order to minimize complications posed by
+the first of these two dimensions (differences in effectiveness), this study focuses
+on the choice between the IUD and the
+oral pill, since both of these methods have
+high effectiveness ratings.
+
+It should be emphasized that it is possi
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 24, No. 2 Contraceptive
+ble to specify a demand function even
+where the dependent variable is the choice
+of one method over another rather than
+more or less of one good. In the case of
+such a dichotomous dependent variable,
+however, the estimate of the dependent
+variable is expressed in terms of the probability of selecting one option over another
+(see for example, Goldberger, 1964, p.
+249; de Janosi, 1956).
+
+Generally, four determinants of individual demand for contraceptive method
+choice can be listed. First, is the price of
+the commodity. While in most markets
+this is an important determinant of demand, in this study neither the price of the
+pill nor the price of the IUD changed over
+the period in which the interviews were
+conducted. However, this is not to say
+that the prices do not have an effect. We
+hypothesize that the relationship between
+the two prices determines the intercept
+constant and that this constant reflects the
+exchange ratio between the two methods
+in terms of their respective costs (prices) in
+the first year of use.
+
+Let x1 = proportion adopting the pill;
+x2 = proportion adopting the IUD; »p
+= price of the pill; and i = price of the
+IUD. By definition, x1 + x2 = 1.0 and
+x1 = 1.0 — x2.
+
+In exchange equilibrium, holding all
+other effects constant,
+
+ 
+
+xl i
+x2 po
+So,
+x1 = 42
+ca p
+Substituting,
+1 = - x2 + 22.
+Thus,
+i
+{= (=) + 1 x2.
+Gb
+
+Therefore, x2 = 1/[1 + (i/p)], is the expected intercept value.
+
+This formulation assumes that all other
+effects are held constant and that ex
+ 
+
+Choice Model 137
+change equilibrium is actually attained.
+Further, as the prices of the IUD and the
+pill were constant during the period under
+examination, the computation of price
+elasticity is impossible. Clearly, analysis of
+variable prices would be superior to this
+fixed type of specification. However, due
+to the nature of the data utilized in this
+research, this type of analysis was impossible.
+
+After the initial registration in the program, the only cost to the individual using
+the IUD was a revisit fee of 5 pesos per
+visit. Since the IUD users average 2.5 visits per year, the average cost of maintenance of the IUD was 12.5 pesos per year.
+For the pill users, however, each month’s
+supply cost 6 pesos, and these users averaged one revisit per year, giving a total
+average yearly cost of 77 pesos (Kahley,
+1972). Employing the first-year cost as the
+effective prices, the exchange formula may
+be calculated as follows:
+
+x1 = 1/1 + (12.5/77.)] = 0.86.
+
+Therefore, 0.86 is the hypothesized intercept constant.
+
+The second determinant of demand is
+the budget constraint, measured by
+monthly income. We hypothesize that a
+family with a large income will be more
+able to afford the higher cost method than
+will a family with a relatively low income.
+Thus, the probability of adopting the [UD
+should fall as income increases. The relevant measure in this case is expected or
+permanent income rather than current
+income, since contraception is consumed
+over time with recurring costs (Friedman,
+1957). Current measured income can be
+thought of as including a permanent
+component and a transitory component.
+The permanent component is determined
+by characteristics such as age, education,
+and occupation of the husband and the
+labor-force participation of the wife.
+
+To derive permanent income, the in
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+138
+
+strumental variable technique is appropriate (for a discussion of this technique,
+see Dutta, 1975). This technique involves
+estimating a regression equation where
+measured income is the dependent variable and the relevant characteristics are
+the independent variable. The results obtained will yield for each observation an
+estimated value for income (Y) which can
+be taken as the estimate of permanent or
+expected income.
+
+The third class of determinants of demand may be called “setting variables.”
+These vanables can be subdivided as follows: (1) social status identification; (2)
+information availability; and (3) family
+life-cycle situation. It is well established
+that individuals tend to identify with the
+values of those in their social peer group.
+In reference to the distinction between the
+IUD and the pill, many Latin Americans
+feel that the pill is viewed as less objectionable to the church than is the IUD,
+since the [UD is thought of as an abortifacient, while the case against the pill is less
+clear on this issue (Grisez, 1970, p. 109).
+However, as the sample is effectively
+monoreligious, a less direct variable than
+simply “religion” was necessary. Thus,
+since higher status or more highly
+educated women in Latin America tend to
+be more sensitive to the church viewpoint
+than are their less educated counterparts
+(Zatuchni, 1970, p. 226), itis hypothesized
+that the psychic cost of using the IUD
+should increase as wife’s education rises.
+
+It is also clear that the information
+available to a woman affects her choice.
+While all women receive the same
+information on the various methods at the
+clinic, there is a differential in the
+information received prior to the original
+visit to the clinic. This information may
+include problems and complications encountered previously by other women.
+Complications caused by the IUD are
+more obvious and immediate than those
+
+Kahley and Gillaspy
+
+Social Biology
+
+caused by the pill. Hence we expect that as
+chances for receiving preclinic contraceptive information increase, as measured by
+wife’s education, the probability of choosing the IUD decreases.
+
+Family life-cycle variables influence
+choice by affecting the purpose that the
+contraceptive must perform. On the one
+hand, those women whose main purpose
+for using a contraceptive is to space
+childbirth will probably opt for a method
+that is reversible. On the other hand, those
+whose main objective is to prevent births
+will choose that method which is the least
+trouble to use, the least expensive, and
+offers the greatest sustained protection. In
+general, the pill is more expensive and
+more trouble to use but is perceived as
+being more easily reversible than the IUD
+(Zatuchni, 1970, p. 16). We thus expect
+that spacers will choose the pill and limiters will choose the IUD.
+
+Another aspect of the life-cycle variables is the proportional effect of high fertility which at a younger age may be
+stronger than high fertility among older
+women due to the effect of what may be
+called a “family crisis” situation resulting
+from successive pregnancies at a younger
+age. The effect may also result from the
+positive cohort effect on fertility. Assuming that older cohorts demand larger
+numbers of children, we posit that a
+“crisis” may more likely occur at a lower
+parity level among younger women as
+compared to older women. Since we argue
+that there is an interaction between wife’s
+age and fertility, we include age, fertility,
+and a product term of age and fertility to
+estimate the strength of the effect.
+
+Finally, in addition to the determinants
+of demand just discussed, certain other
+variables almost certainly exert influences
+upon contraceptive choice, including especially the physiological complications
+which prevent some women from adopting one of the methods. While it would be
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 24, No. 2
+
+clearly beneficial to include this type of
+effect as a vanable, data limitations
+precluded their inclusion. However, in an
+attempt to control for this effect as much
+as possible, childless women were omitted
+from the sample.
+
+DATA
+
+The data used in the present study were
+obtained from the 1969 Profamilia family
+planning adopters’ questionnaire in Colombia. In an attempt to control for possible differences in relative prices across
+space and other possible rural-urban differences, only those observations from
+three clinics in Bogota were selected, so
+that al] observations used in this study are
+urban. Additionally, a number of observations from these clinics were dropped
+due to mispunches, nonresponses, and illegitimate codes. After all such eliminations, 4,239 observations remained. Of
+these, 3,880 adopted the IUD while 359
+adopted the pill.
+
+There are several advantages of using
+this sample to estimate the model
+specified. First, race and religion, in
+addition to the already mentioned location
+of residence are not variables in the particular sample, as Colombia in general,
+and Bogota specifically, are basically
+monoreligious and monoracial so that
+these characteristics are not variable.
+Second, income is distributed over a large
+enough range that a valid analysis can be
+performed using this variable. However,
+there was a problem with using income as
+a variable. The third advantage is that the
+questionnaire appears to have been well
+administered, and the quality of data is
+reasonably good. Fourth, and most important, the “clinic” and “physician” effects
+noted earlier have been minimized by including only those clinics characterized by
+relatively free client choice in their operation (as opposed, for example, to post
+ 
+
+Contraceptive Choice Model
+
+ 
+
+139
+
+partum clinics in which the IUD was the
+only method offered).
+
+Table 1 provides summary statistics for
+variables employed in the estimation of
+the model. Definitions of the variables are:
+
+H Age = Husband’s age, in years.
+
+W LFP = 1 if wife is employed in market
+activity; otherwise, = 0.
+
+W Age = Wife’s age, in years.
+
+W Ed = Wife’s education; coded by threeyear intervals.
+
+Y = Monthly family income, in pesos;
+coded by variable intervals.
+
+F = Number of living children.
+
+SP = 1 if desire more children; otherwise = 0.
+
+IUD = 1 if method chosen is IUD; pill
+= 0.
+
+HP = 1 if husband’s occupation is professional.
+
+HW = 1if husband’s occupation is white
+collar,
+
+HSW =1 if husband’s occupation is
+skilled worker.
+
+HSK = 1 if husband’s occupation is other
+(street vendor, etc.).
+
+Table 2 reproduces the zero-order
+
+correlation matrix among the variables.
+
+RESULTS
+
+For this analysis, an appropriate technique is the linear probability function.
+However, since the dependent variable,
+(characterized as O or 1 representing the
+two groups) is limited, use of ordinary
+
+TABLE 1
+
+MEANS, STANDARD DEVIATIONS, AND DEFINITIONS
+FOR RELEVANT VARIABLES*
+
+Standard
+
+Variable Mean Deviation
+
+H Age..........02 eee 32.44 7.51
+W LFP =1.......... 0.08 0.28
+W Age ....... eee ee 27.46 6.03
+W Ed in bein ice te aee 1.90 1.03
+re 895.90 589.65
+| 3.81 2.26
+i) 0.20 0.40
+IUD =1 ............ 0.92 0.28
+HP = 1 ........eeeee 0.01 0.10
+HW = 1............. 0.03 0.16
+HSW =1 ........0-. 0.29 0.45
+HSK = 1............ 0.28 0.45
+
+*N = 4,239.
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+140
+
+TABLE 2
+ZERO ORDER CORRELATION MATRIX OF INDEPENDENT VARIABLES
+
+Variables
+
+Kahley and Gillaspy
+
+* = = & @ 8 © #8 8 0
+
+Cr
+
+* 8 © * # e@ © # @
+
+= © * @ «© # ©
+= 8 8 ee Ree
+
+2 8 8 © wm we
+
+. © 8 © 8 #
+
+es Fe 8 & e 8 ye Me Ne ee
+
++ ss «
++ Fe es 8 0 8 @ @
+
+. * * @ © 8  @
+
+= «© 8 # 8» @ © «@
+
+«= 8 © © «© © 8 a «
+
+¢ * © # #© © © 2% 8 “¢
+
+» 2 © 8 & © © 8 8 8 Oa
+
+ee © © © © © © © & 6
+» © © © @© «© © © #€ # @
+- © © =» =» © © 8 © # ©
+» 2 © © © &@2@ 8 8 © 8
+. 8 =» © 2» © © #@ © # @
+* «= © © © «© & se © # «6
+
+*- &© © 9» @ © © @ @
+
+* © e@ a8 8 8 &
+
+begs: wy to
+2i<e : 1 lB
+meebo Amini
+
+Social Biology
+
+least squares (OLS) violates the assumption of constant variance (homoskedasticity). We therefore employ a two-stage procedure in which the model is first estimated using OLS, thus obtaining estimated values of the dependent variable. A
+weight is then calculated based on the estimated values of the dependent variable
+which is used multiplicably to transform
+all of the variables included in the original
+model as described by Goldberger (Goldberger, 1964) p. 249; see also McGillivary,
+OID) Tr the carand ctoaa the noramntars
+were recalculated based on _ the
+transformed variables which yielded generalized least squares (GLS) estimates for
+the parameters and corrected for the
+heteroskedasticity problem.
+
+Other methods of estimation are possible for this type of problem, none of which
+are without problems. The method used
+here can only be relied upon asymptotically. That is, the results would not be
+reliable for small samples though it is generally reliable for large sample cases such
+as this one (Nerlove and Press, 1975, pp.
+50-55). Furthermore, the multiple R* and
+the subsequent Snedecor F-test have no
+meaning in this case (Nerlove and Press,
+1975, p. 54). However, the multiple R? ~
+resulting from OLS estimation in the presence of heteroskedasticity also has no
+meaning (Hu, 1971). Thus, these summary statistics from regression are not
+reported so as to avoid confusion.
+
+Table 3 presents the estimated equation
+for the model, after estimating permanent
+income (the instrument variable mentioned earlier) and after correcting for the
+problem of heteroskedasticity. The results
+of the estimation of the instrumental variable, income, are:
+
+Y = ~—1.557 + 0.185 W Age
+(2.67) (10.09)
+
++ 2.508 W Ed + 24.613 HP
+
+(22.09) (23.34)
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 24, No. 2
+
+Contraceptive Choice Model
+
+TABLE 3
+
+REGRESSION RESULTS FOR CHOICE MODEL. DEPENDENT VARIABLE: IUD = 1; PILL = 0.
+
+REGRESSION COEFFICIENTS
+
+EXPLANATORY
+
+VARIABLES OLS GLS
+W Age.......... 0.0049 0.0056
+WEd .......... —0.0143 —-0.0129
+F woe. cece eee eee 0.0417 0.0422
+i) —0.0085 —0.0098
+VY wee eee eee —0.000046 —0.00006
+F-WaAge...... —0.0011 —0.0012
+Constant........ 0.8230 0.8205
+
+141
+STUDENT-? VALUES
+OLS GLS OLS GLS
+3.57 3.96
+2.56 2.85
+4.29 5.88 SEE = 0.275 0.99
+0.71 0.80 SEE as a per cent of the
+3.18 3.76 mean of the dependent
+
+variable*
+
+3.97 5.07 = 29,9 20.8
+19.93 20.13
+
+* The difference in the means of the dependent variable is due to the weighting procedure in GLS.
+
++ 11.787 HW + 3.783 HSW
+
+(17.77) (13.82)
++ 3.097 HSK + 4.493 LFP.
+(11.03) (12.15)
+R2=0.411. R?2 = 0.410.
+F =: 300.54. S = 6.39.
+
+Table 3 also shows the results from the
+first-stage, or uncorrected, model. The estimated equations are essentially the same,
+with only a slight change in coefficient
+values. It is also seen in Table 3 that all of
+the variables display the expected signs,
+and alj but one are significant at the 5 per
+cent level, two-tailed test. In terms of relative importance, the standardized regression coefficients indicate that the interaction variables (number of living children, wife’s age, and number of children
+times wife’s age) are the “best” regressors.
+
+Turning to an interpretation of the
+equation, notice the overall predominance
+of the IUD as reflected in the high values
+for the constant term. The other coefficients, such as that attaching to W
+Ed, are interpreted as follows: A woman
+who has completed secondary school has a
+5 per cent greater probability of choosing
+the pill over the IUD as compared to an
+illiterate, holding all else constant (found
+by multiplying 4, which is equivalent to a
+secondary school graduate, by _ the
+coefficient on wife’s education).
+
+Income is also a significant explanatory
+
+variable for choice. However, it should be
+noted that the coefficient is rather small.
+In the case of this variable, increasing
+income from 500 pesos to 1,000 pesos will
+decrease the probability of opting for the
+IUD, as opposed to the pill, by 3.0 per
+cent.
+
+Concerning the intercept constant, it
+was hypothesized that this coefficient
+should equal 0.86, whereas the results
+yield an intercept of 0.8205 with a standard error of 0.0408. To determine
+whether or not the hypothesis is supported
+by the results, a Student-t statistic can be
+calculated as follows:
+
+_ 0.86 — 0.8205
+
+0.0408 = 0,968.
+
+This value is not significant at the 20 per
+cent level; therefore, the null hypothesis
+that the estimated constant is effectively
+the same as the hypothesized constant
+cannot be rejected. Rephrasing this in a
+positive manner, the results support the
+hypothesis that the intercept constant is
+basically determined by the relative
+prices.
+
+To examine the effect of the important
+interaction variables more closely, a table
+was constructed of the expected probabilities of choosing the IUD, holding all
+other variables constant at their means,
+and allowing wife’ age and number of
+
+living children to vary over a relevant
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+142 Kahley and Gillaspy
+
+Social Biology
+
+TABLE 4
+
+EFFECTS OF WIFE’s AGE AND PARITY HOLDING OTHER VARIABLES
+CONSTANT AT THEIR MEANS*
+
+No. or LivING CHILDREN
+
+AGE 1 2 3
+20 ......4.. 0.870 0.889 0.907
+ES a nweneees 0.892 0.904 0.917
+30 ......... 0.914 0.920 0.927
+kh 0.936 0.936 0.937
+BO onea tia tas «oi ‘us Se
+
+4 5 6 7
+
+0.925 Bak aps
+
+0.929 0.941 0.953 wat
+0.933 0.939 0.945 0.952
+0.937 0.936 0.937 0.937
+0.941 0.935 0.929 0.924
+
+* Empty cells are due to insufficient number of observations for statistical inference.
+
+range of values. Referring to Table 4, observe that as wife’s age and number of
+children increase, the probability of choosing the IUD increases, as expected. In
+addition, the proportional increase in the
+probability of opting for the IUD for
+younger women as number of children is
+increased is greater than it is for older
+women, indicating a crisis orientation for
+younger women with three or more children. That is, they are highly motivated to
+reduce fertility and the IUD is perceived
+as the best means to accomplish this end.
+
+Finally, note that while the sign of the
+coefficient attaching to the  limiting/
+spacing variable is consistent with our hypothesis, the estimated partial effect of
+this variable turns out to be not significantly different from no effect at all.
+This finding may be attributed to multicollinearity or to a lack of systematic
+relationship between this variable and
+type of method chosen.
+
+CONCLUSION
+
+This study has had the aim of examining the choice process between only two
+contraceptive techniques in a restricted
+environment. From the results it appears
+that people make decisions concerning
+which contraceptive technique to adopt at
+least partially on the basis of income,
+status-determined values, information,
+and relevant life-cycle characteristics of
+
+the adopter. The relationship between the
+prices of the two methods also appears to
+have an influence. This influence of the
+relationship between the prices of the
+methods suggests that the relative prices
+are a policy variable which family planning clinics may employ if they wish to
+change the proportions of people adopting
+the various methods, though a strong
+conclusion on this point should await an
+experiment of such a change.
+
+In terms of usefulness, a model of this
+type may be employed by family planning
+clinics as an aid to channeling potential
+adopters into the methods they might
+adopt. In addition, this type of analysis
+may be useful as a basis for marketing
+strategies for contraceptives. Before implementation for such uses, however, the
+analysis should be expanded to include
+more types of contraceptives and should
+be tested on additional samples.
+
+ACKNOWLEDGMENTS
+
+The authors wish to acknowledge financial
+support for this research plan from the Ford
+and Rockefeller Foundations Program in Support for Social Science and Legal Research on
+Population Policy. The authors are indebted to
+the Colombian Association for the Well-Being
+of the Family, Dr. Fernando Tamago, President, for their cooperation in providing the
+basic data. Appreciation is also extended to
+Gordon DeJong and Warren Robinson for their
+many helpful comments. Finally, the authors
+wish to acknowledge the Population Issues Research Office, The Pennsylvania State University, for use of their facilities.
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 24, No. 2
+
+Contraceptive Choice Model
+
+143
+
+REFERENCES
+
+BALLWEG, J. A, 1972. Selection of a family planning
+method: A Philippine example. J. Biosoc. Sci.
+4:411-425.
+
+BAUMAN, K. E., and P. VARAVEJ. 1972. Reasons for
+contracepting and choice between J.U.D. and pill:
+Implications for the difference in continuation
+rates. Soc. Biol. 19:292-296.
+
+BERELSON, B., and A. A. CAMPBELL. 1971. Contracepting specifications: Report on a workshop.
+Stud, Fam. Plan. 2:14~-19.
+
+COCHRANE, S. H. 1975. Factors affecting the choice
+of contraceptive method by a group of O.E.O.
+patients. Soc. Biol. 22:173-180.
+
+DE JANOSI, P. E. 1956. Factors influencing the demand for new automobiles: A cross-section analysis. Ph.D. thesis, Dept. of Economics. University
+of Michigan, Ann Arbor.
+
+Dutra, M. 1975. Econometric methods. SouthWestern Publishing, Cincinnati.
+
+FREEDMAN, R., P. K. WHELPTON, and A. A.
+CAMPBELL. 1959. Family planning, sterility and
+population growth. McGraw-Hill, New York.
+
+FRIEDMAN, M. 1957. A theory of the consumption
+function. Natl. Bureau of Economic Research.
+Princeton Univ. Press, Princeton.
+
+GOLDBERGER, A. S, 1964. Econometric theory. John
+Wiley, New York.
+
+GrisEz, G. G. 1970. Abortion: The myths, the
+realities, and the arguments. Corpus, New York.
+
+Hu, T. 1971. A note on the properties of the generalized least squares hyperplane. Unpublished note,
+
+Dept. of Economics. Pennsylvania State University, University Park.
+
+KAHLEY, W. J. 1972. Family planning in Colombia:
+An analysis of cost and achievement. Ph.D. thesis,
+Dept. of Economics. Pennsylvania State University, University Park.
+
+McGi.ivary, R. G. 1970. Estimating the linear
+probability function. Econometric 38:775-776.
+MEDAWAR, J., and D. PYKE (eds.). 1971. Family
+
+planning. Penguin, Baltimore.
+
+NERLOVE, M., and S. J. Press. 1975. Theory of
+log-linear and logistic models for the analysis of
+qualitative judgments of technological advancement. In S. J. Press and A. J. Harman (eds.).
+Methodology for subjective assessment of
+technological advancement. Rand, Santa Monica,
+California.
+
+RAINWATER, L. 1965. Family design: Marital sexuality, family size, and contraception. Aldine Press,
+Chicago.
+
+RypEerR, N. B., and C. F. WestTorr. 1971.
+Reproduction in the United States: 1965. Princeton
+Univ. Press, Princeton.
+
+WHELPTON, P. K., A. A. CAMPBELL, and J. E.
+PATTERSON. 1966. Fertility and family planning in
+the United States. Princeton Univ. Press, Princeton.
+
+ZATUCHNI, G. I. (ed.). 1970. Post-partum family
+planning. A Population Council book.
+McGraw-Hill, New York.
+

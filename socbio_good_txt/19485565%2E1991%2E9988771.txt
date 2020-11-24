@@ -1,0 +1,1883 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ 
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Japanese migration in contemporary Japan:
+Economic segmentation and interprefectural
+migration
+
+Hiroshi Fukurai
+
+To cite this article: Hiroshi Fukurai (1991) Japanese migration in contemporary Japan:
+Economic segmentation and interprefectural migration, Social Biology, 38:1-2, 28-50, DOI:
+10.1080/19485565.1991.9988771
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1991.9988771
+
+ 
+
+fn Published online: 23 Aug 2010.
+(FB crs | ei
+Submit your article to this journal @
+ail Article views: 8
+N
+Q View related articles 4
+
+(7) Citing articles: 1 View citing articles G
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:43
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+Japanese Migration in Contemporary Japan: t
+Economic Segmentation and Interprefectural |
+
+Migration ce
+
+Hiroshi Fukurai
+
+Board of Studies in Sociology
+University of California
+Santa Cruz, California
+
+ABSTRACT: This paper examines the economic segmentation model in explaining 1985-86
+Japanese interregional migration. The analysis takes advantage of statistical graphic
+techniques to illustrate the following substantive issues of interregional migration: (1) to
+examine whether economic segmentation significantly influences Japanese regional migration
+and (2) to explain socioeconomic characteristics of prefectures for both in- and out-migration.
+Analytic techniques include a latent structural equation (LISREL) methodology and statistical
+residual mapping. The residual dispersion patterns, for instance, suggest the extent to which
+socioeconomic and geopolitical variables explain migration differences by showing unique
+clusters of unexplained residuals. The analysis further points out that extraneous factors such
+as high residential land values, significant commuting populations, and regional-specific
+cultures and traditions need to be incorporated in the economic segmentation model in order to
+assess the extent of the model’s reliability in explaining the pattern of interprefectural
+migration.
+
+This paper examines two theories of migration is held to be an important way
+regional migration patternsin Japan: (1) by which workers respond to changing
+the economic opportunity thesis and (2) | economic opportunities and thereby rethe economic segmentation model. The _ direct the spatial allocation of labor toeconomic opportunity thesis arguesthat ward an optimal pattern (Kono and
+factors such as employment opportuni- Shio, 1965; Kuroda, 1977; Lowry, 1966,
+ties and salaries are major determinants Ogawa and Hodge, 1986; Rogers,
+of migration. The economicopportunity 1968). The economic opportunity thesis
+explanation of interregional migration — thus shifts the analytical scope onto pull
+further argues that human capital fac- factors and assumes that rural-urban mitors such as socioeconomic origins,edu- gration is primarily caused by higher
+cational investments, and employment paying jobs and greater economic opopportunities of residents generate dif- portunities in urban sectors.
+ferences in migration patterns (Fukurai The economic segmentation thesis,
+et al., 1987; Hill et al., 1985; Mundlak, on the other hand, contains two compo1979; Newman, 1985) and that human nents. First, microsocial factors (i.e.,
+capital factors intertwined with eco- opportunities, salaries, and human capinomic opportunities in receiving regions _ tal factors) do not determine the pattern
+or destinations are the major determi- _ of internal migration but, rather, a dual
+nants of regional mobility (Clark, 1986; | economy based on differential organizaDennis, 1984; Featherman and Hauser, _ tional development is the major deter1978; O’Reilly, 1981). Thus, internal minant of migration. By creating both
+
+28
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+Vol. 38, No. 1-2
+
+the labor market and economic opportunities, laborers are spatially allocated
+to meet the changing economic organizational structure (Baron and Bielby,
+1980; Fukurai et al., 1987; Holden,
+1973; White, 1982). Second, the model
+points out the importance of analyzing
+structural factors that affect urban exodus as well, i.e., organizational development, job availability, and the distribution of occupational reward structures.
+In general, the explanation of regional
+migration patterns analyzes how the intrusion and penetration of modern economic relations into the countryside
+triggers waves of rural migrants to receiving states in spite of the fact that
+there may be few opportunities in urban
+areas (such as jobs and housing) (Castells, 1975, 1983; Danesh, 1987; Henderson and Castells, 1987).! The theoretical tenets of the economic
+opportunity and economic segmentation theses are explored more fully in
+the next sections.
+
+BACKGROUND
+Economic OPpporRTUNITY THESIS
+
+The economic opportunity thesis emphasizes the gap in wage incentives between sending and receiving regions and
+assumes an unlimited supply of labor
+which ts based on the existence of a permanent, large differential in favor of
+
+1The economic segmentation model is theoretically advanced to explicate social mobility and the
+stratification system from the perspective of organizational structures and the dual economic sector
+thesis (Kalleberg and Griffin, 1980; Kalleberg et
+al., 1981; Tolbert et al., 1980; Weakliem, 1990;
+Zucker and Rosenstein, 1981). For example, Kalleberg et al. (1981) incorporate the dual economic
+theory (core and periphery sectors of different organizations) and dual labor-market theory (primary and secondary labor markets) in order to explain mobility patterns in the United States.
+
+ 
+
+Japanese Migration 29
+
+destination. The existence of an unlimited labor supply suggests that the initiation of migration flows depends almost
+exclusively on labor demand in receiving states. For example, Lowry’s (1964)
+analysis of migration flows used a logtransformed regression model with the
+number of migrants from / to j as the dependent variable. As independent variables, Lowry used airline distance from i
+(an origin state) to j (a destination
+state), for both origin and destination,
+percentage of population in the nonagricultural labor force, and manufacturing
+wage rate. Rogers (1968) modified the
+Lowry model by altering the labor force,
+unemployment, and distance variables.
+The results for migration flows between
+SMSA’s in California showed that migration is particularly related to a high
+wage ratio at destination and a large civilian labor force at either origin or destination and negatively related to high
+wages at origin and distance between i
+and j.
+
+Those early studies paved the way for
+migration analysis of many geographical
+units utilizing a variety of techniques.
+Out of a large body of research, four
+studies on Japan are relevant to the
+present research (Hanley and Yamamura, 1977; Mosk, 1983; Taeuber,
+1958; Vogel, 1967).
+
+Although he did not specifically employ the economic opportunity thesis,
+Taeuber (1958) set the groundwork for
+research on interprefectural migration
+by analyzing Japanese census information between 1920 and 1957. He argued
+that the major determinant of rural exodus is “the economic opportunities in
+the industrial areas” (Taeuber, 1958, p.
+132). For instance, in 1930, fifteen predominantly agricultural prefectures
+“had lost more than one-fifth of their
+native-born men. These prefectures of
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+30 Fukurai
+
+major emigration were intermediate in
+industrial structures” (p. 132). Taeuber
+further observed that after World War
+II, as Japanese industries were restored
+and cities reconstructed, the internal migratory movements normal to other industrializing societies reappeared—net
+exodus from agricultural areas and net
+influx into industrial regions. His analysis showed that internal migration from
+1947 to 1957 was much greater than the
+migratory move by Japanese settlers
+into Manchuria at the beginning of the
+war in China. Again, the main force behind the rural exodus and urban influx
+was economic opportunities in industrial prefectures (pp. 144-47).
+
+Vogel (1967) also presented similar
+perspectives on the explanation of Japanese interprefectural migration. He
+pointed out that prior to 1950, in addition to economic opportunities in urban
+cities, the landlord in rural regions
+played an important role in spatially allocating Japanese rural migrants. Vogel
+argued that the success of placing young
+workers in cities depended on the assistance from the landlords and their close
+relationship to potential employers in
+cities who were expected to give on-thejob training to young men with good
+general intelligence, reliable character,
+and most importantly, a special connection with the employer’s friends or relatives so the employer could be assured
+of the employee’s willingness to work
+long hours without high wages (p. 95).
+Vogel argued that the land ownership,
+close kinship networks among peasants
+in rural areas, and increased employment opportunities in urban cities
+played a crucial role in influencing Japanese rural exodus.”
+
+2Connections established prior to migration
+enabled new urbanites to find jobs and lodging
+with only minimal! hardship or contact with strange
+
+Social Biology
+
+The economic opportunity thesis is
+also used to explain interregional migration in preindustrial Japan, specifically
+between 1600 and 1868. Hanley and
+Yamamura (1977) argued that economic opportunities were the major determinant of interregional migration before the Meiji Restoration (1868), the
+dawn of Japan’s modern industrialization. For instance, while migration between different, politically-defined regions was difficult, migration was a
+significant method of shifting population, and political boundaries did not
+constitute a real obstacle for persons
+who wished to migrate (p. 252). Hanley
+and Yamamura’s (1977) analytical contribution on Japanese interregional migration came from the conceptual distinction between permanent and
+temporary migration. Temporary migration took the form of individual emigration in that unmarried men and
+women typically left their villages to
+work in nearby areas. The modal age
+groups of hokonin (apprentices) of both
+sexes were in the 15-30 age group (p.
+254). Also, it was not unusual for heads
+of families to leave home by themselves
+to work outside their villages in the form
+of dekasegi (working away from home).
+Permanent migration of families, however, tended to be limited to moves to
+areas being claimed or to larger towns
+and cities, where some families worked
+in samurai households and/or where it
+was easier for illegal migrants to escape
+detection. Theoretically, for a village
+resident to move to a city, two require
+persons and customs (Dore, 1967a, pp. 126-27).
+Thus, migration was actually controlled by soctal
+groups in villages: Those who want urban jobs
+must use traditional mediating agencies and the
+continuing responsibility of rural sponsors for new
+employees’ behaviors and continuous heavy inmigration even into demographic net-loss prefectures indicated the persistence of powerful ties to
+the countryside (Vogel, 1963, p. 258).
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 38, No. 1-2
+
+ments had to be met: The person had to
+be poor and without land; and he had to
+be unable to undertake hard farm labor
+(p. 253). The research pointed out that
+because of different levels of economic
+prosperity and increased opportunities
+among villages, reverse migration from
+cities to rural villages was not unusual
+(p. 254). For instance, when opportunities existed in noncommercial, rural areas, large cities like Osaka experienced
+a decline in the population as the economic fortunes of Osaka began to ebb.
+Hanley and Yamamura noted that
+“while Osaka’s population grew from
+279,000 to 501,000 between 1625 and
+1743, it began to fall... . A steady decline in population continued from the
+mid-eighteenth century” (p. 106).
+
+Most (1983) examined Japanese migration patterns in the post-industrial
+era, specifically between 1880 and 1960.
+High fertility ratios and patriarchal and
+extended family structures in rural areas
+created the structural condition for
+greater rural exodus, and the industrial
+expansion and increased economic opportunities in urban regions helped absorb unskilled laborers from the predominantly agricultural rural regions.
+Mosk’s analysis also pointed out that the
+rural exodus was due to a large manufacturing wage differential. The wage
+gap played a significant role in determining the overall level of daily remuneration in industrial prefectures where the
+contraction of the female-male wage differential was observed (pp. 208-9). He
+contended that economic and employment opportunities in industrial prefectures were major factors in promoting
+tural-to-urban interprefectural migration.
+
+Past research thus suggests that interregional migration depends substantially upon labor demands and economic opportunities in receiving and
+
+Japanese Migration 31
+
+urban regions. When such demand exists, migration takes place. Thus, the economic opportunity thesis deemphasizes push factors to focus on the
+pull exerted by receiving economies.
+
+Economic SEGMENTATION THESIS
+
+There has been a paucity of research
+examining the relationship between organizational growth and interregional
+migration. One of the problems lies in
+the prevalent trend in which studies
+limit themselves to the influence of economic infrastructures on migration
+rather than systematically examining
+other pertinent factors.
+
+The economic segmentation theory
+rejects the general assumption of an economic opportunity thesis that ruralurban migration is caused primarily by
+higher paying jobs and employment opportunities in urban sectors or in destinations. It argues that the impact of differential income between rural and
+urban sectors on migration is minimal
+because, despite higher per capita income in the cities, rural migrants are
+faced with a higher cost of production
+and reproduction. The significantly
+higher cost of consumption in urban areas than in rural areas is mainly caused
+by the demands of the urban economy
+(Finkelman, 1989; Henderson and Castells, 1987; Portes and Bach, 1985). For
+instance, in rural areas where there is no
+spatial segregation between the place of
+residence and place of work, there is no
+need for public or private transportation. But in cities one has to add the cost
+of transportation to the overall domestic
+budget (Danesh, 1987).
+
+The analysis of interregional migration from an economic segmentation
+perspective suggests that the organizational growth and changes in the structure of industry and agriculture lead to
+the development of service and tertiary
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+32 Fukurai
+
+sectors in urban regions. The growth of
+service sectors then affects the structure
+of the occupational reward system and
+creates interregional income inequality
+(Baron and Bielby, 1980; Fukurai et
+al., 1987). The observed disorganization
+and breakdown of agrarian society is
+primarily due to (1) population growth
+as a consequence of the rise in life expectancy, (2) lack of accessibility to
+income-generating lands and their distribution, and (3) the interplay between
+those two exponents (Castells, 1983;
+Portes and Bach, 1985). Thus, the
+greater exchange between rural and urban regions under the condition of high
+population growth and unproductive
+land tenure leads to a high rural exodus
+(Connell et al., 1976; Danesh, 1987).
+Also the greater differential productivity between rural and urban areas leads
+to a greater level of migration from less
+productive to more productive sectors
+and vice versa.
+
+A meaningful analysis of interregional migration, according to the economic segmentation perspective, arises
+when organizational structures and labor market characteristics have simultaneously been taken into consideration.
+Since an economic opportunity thesis
+focuses primarily on urban economic
+factors (or pull) and income inequality
+between urban and rural regions affecting interregional migration, it is of great
+importance that both organizational and
+labor market characteristics in relation
+to socioeconomic conditions are systematically examined.
+
+DvuAL LABOR MARKETS
+
+The theoretical tenet of the economic
+segmentation thesis is based on the assumption of a dual labor market. That
+is, the generation of an oligapolistic segment by which advanced economies
+control different facets of production
+
+Social Biology
+
+and commercialization. This control is
+far more extensive among postindustrial firms, i.e., the emergence of
+oligapolies into primary and secondary
+economies (Krooth and Fukurai, 1990).
+The primary sector of the economy is
+formed by large monopolistic enterprises characterized by bureaucratization of the production process and the
+creation of an internal market in that oligapolistic corporations are able to administer an internal labor market because of their size advantage, higher
+wages, greater fringe benefits, and more
+desirable working conditions (Baron
+and Bielby, 1980; Fukurai et al., 1987;
+Krooth and Fukurai, 1990; Portes and
+Bach, 1985; Smith, 1983). A secondary
+sector of the economy comprises smaller
+competitive firms and resembles structural conditions during the early phase
+of industrial capitalism. Such firms operate in an environment of considerable
+economic uncertainty (Baron and
+Bielby, 1980; Magnum et al., 1985). Enterprises in this economic sector do not
+have an internal labor market. Wages
+are lower than in the primary sector and
+interregional migrants are considered as
+a preferred labor force used against the
+organizational efforts of the domesticminority work force to accept present
+conditions and to discourage workers’
+efforts to improve them (Donoghue,
+1978; Wagatsuma and De Vos, 1984).°
+
+3The internal labor market in Japan assumes
+that the technique employed by the firm is such
+that employees’ skills are formed and transmitted
+on the job and in a team context. For instance, in
+order to motivate employers and employees to
+share the costs of investment in such teamoriented human capital, seniority-related benefits
+to employees in the form of seniority wages, retirement compensation, and the like have been developed as devices to retain highly trained workers in
+the firms. Without such contrivances, employees
+might quit in the middle of their careers, causing
+the value of the human capital accumulated within
+the firm to be lost permanently (Yamamura and
+Yasuba, 1987).
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 38, No. 1-2
+
+In Japan, the firms in the secondary
+economic sector often rely on the labor
+supply from minority groups. For example, the Burakumin, Okinawans, Koreans, and Chinese are still discriminated
+against in housing and employment.
+There are 1.2 million Burakumin, 1.2
+million Okinawans, 678,000 Koreans,
+and 84,000 Chinese currently living in
+Japan (Buraku Liberation Research Institute, 1988; Statistics Bureau, 1990).*
+Their chances of employment in the
+firms in primary economic sectors are
+virtually nonexistent because of the
+strong ideological emphasis on ethnic
+homogeneity and cultural conformity
+(Buraku Liberation Research Institute,
+1988; Cho, 1987; De Vos and Wagatsuma, 1966; Krooth and Fukurai, 1990;
+Wagatsuma and De Vos, 1984). For example, the major enterprises in primary
+economic sectors do not hire the Burakumin as permanent lifetime employees. The Burakumin are therefore
+blocked from achieving economic security and occupational mobility. As an
+example of the social discrimination
+against the Burakumin, prospective employers often hire detectives to trace the
+lineage of potential employees to ensure
+that they are not Burakumin (De Vos,
+1973; Donoghue, 1978).
+
+In addition to the Burakumin and
+ethnic minorities, there are different
+groups, such as the Filipinos, who migrated to Japan and found their primary
+employment in secondary economic
+sectors. For example, between 1980 and
+1986, the number of Filipino migrant
+workers tripled, rising from 5,547 to
+18,897 workers, and their numbers are
+
+‘The majority of the residents of Korean descent are not Japanese citizens, even though more
+than 80 per cent of the current total Korean minority population was born in Japan. The majority of
+these born-in-Japan Koreans are second, third,
+and fourth generations (Cho, 1987).
+
+Japanese Migration 33
+
+still increasing today. The majority of
+the migratory workers are, however,
+employed in politically weak and less organized secondary economic sectors and
+these foreign migrants are used to undercut domestic workers who are themselves politically weak, frequently unorganized, and employed by the most
+backward corporations (Krooth and Fukurai, 1990; Statistics Bureau, 1990).>
+
+The development of a dual economy
+is also closely related to the proliferation
+of service/tertiary occupations. These
+low level “‘jobs” are most likely to be
+filled by interregional migrants because
+of the competitive nature of secondary
+segments of economy and a lack of labor
+skills by the migrants. As demonstrated
+by Japanese minority groups and foreign workers, migrant laborers have little collective bargaining power and the
+availability of a potential labor replacement encourages exploitation of unskilled and cheap labor.
+
+Meanwhile, the primary oligapolistic
+corporation further develops the complex structure of internal labor markets
+in which migrant labor is not crucial for
+operation. Oligapolistic labor in a primary Sector is invulnerable to the competition of new migrant workers and
+may actually profit from their existence.
+Competitive labor, on the other hand, is
+pitted against new workers and is frequently replaced by them (Gordon et
+al., 1982; Smith, 1983; Weakliem,
+1990).
+
+Job opening ratios for firms in both
+primary and secondary economic sectors between 1985 and 1987 further accentuate the growing polarization of a
+dual economy in Japan. The statistics
+
+SDuring the same period, the increase of other
+foreign groups was lower than that of Filipinos.
+For example, there were 22,401 U.S. nationals in
+1980 and 30,695 in 1986, an increase of 37 per cent
+(Statistics Bureau, 1986).
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+34 Fukurai
+
+show that the primary economic sector
+only employs a small portion of Japanese workers (less than 3 per cent) and
+there are unequal distributions of organizational resources among different
+prefectures.° The growing polarization
+of a dual economy then intensifies structural differences between the primary
+and secondary segments of the economy
+and perpetuates income inequality between oligapolistic economic laborers
+and secondary migrant laborers in the
+prefecture. Once the dual economy is
+well established, income inequality then
+prevails, not only at the destination, but
+also at the origin of migrant workers, especially in rural areas. Unequal distribution of the monetary reward structure
+then further promotes interregional migration.
+
+The economic segmentation theory
+thus provides a different set of theoretical explanations. Economic sectors pave
+the path by which migratory labors are
+spatially allocated to meet the changing
+organizational structure at destination
+or urban regions. Once interprefectural
+migration prevails, a growing polarization between the two economic segments 1s observed, not only at receiving,
+urban areas, but also at origin or rural
+regions. A similar trend is expected in
+labor market segmentation. Once interprefectural migration has taken
+place, the gap between primary and secondary labor markets widens at urban
+
+‘Their prospective employees are mostly unversity graduates and comprised of the ethnic majority (Krooth and Fukurai, 1990; Small and Medium Enterprises Agency, 1988). It is also
+important to note that the actual polarization of a
+dual economy could have been much greater than
+what was reported by the Statistics Bureau in 1990.
+This is due to the fact that part-time job openings
+and the extent of underemployment conditions in
+the Japanese labor force were not included in the
+analysis.
+
+ 
+
+Social Biology
+
+regions in which the tertiary sector is primarily unorganized and mainly consists
+of small and petty commerce and unskilled and temporary labor—a disguised form of unemployment and underemployment.
+
+The main thrust of the remainder of
+this paper is two-fold: (1) to provide a
+causal model of Japanese interregional
+migration based on the economic segmentation thesis, and (2) to examine
+critically the empirical model of the economic segmentation thesis in explaining
+Japanese interprefectural migration.
+
+MATERIALS AND METHODS
+
+Japanese census data for 1985-86 are
+utilized to examine the relationship
+among the development of economic
+segmentation, labor markets, and income inequality, and how the latter affect interprefectural migration. The unit
+of analysis is a prefecture. Japan has 47
+prefectures and nine regions over four
+different major islands: Hokkaido,
+Honshu, Shikoku, and Kyushu.
+
+A problem in studying regional or intranational variations in migration and
+economic opportunities in the United
+States or other industrialized nations is
+the question of the extent to which such
+rates are influenced by legal rather than
+socioeconomic variables. That is, the
+employment opportunities, reward systems, and migratory movements in a geographic area may be influenced by its
+legal system as well as its social conditions. For example, in the United
+States, regional and state variations in
+interstate migration may be influenced
+by the fact that some states have less
+stringent tax laws than others.
+
+Japan, however, provides a uniquely
+advantageous setting for the analysis of
+migration. Prefectures, equivalent to
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 38, No. 1-2
+
+state units in the United States or provinces in Canada, enjoy social and economic diversity, while the legal system
+dealing with tax laws is relatively uniform. While the legal system in Japan is
+centralized and uniform, prefectural
+units continue to maintain a high degree
+of social and economic heterogeneity.
+We can therefore eliminate the possibility that the different legal systems and
+their enforcement cause variability in interregional migration patterns.
+
+In assessing the application of the economic segmentation model to analyze
+Japanese interprefectural migration, we
+take advantage of the recent development of covariance structures and
+LISREL maximum-likelihood estimations and examine the overall goodnessof-fit test of the segmentation model. By
+fitting the model to actual observed data
+we systematically examine the economic
+segmentation thesis.
+
+The likelihood-ratio, chi-square statistic, and the likelihood-ratio indices
+(delta and rho), are employed in comparing fits in order to control for sample
+size (Bentler and Bonett, 1980; Bollen,
+1989, pp. 271-76). While failure to reject the null hypothesis may be taken as
+an indication that the model is consistent with the data, it is important to bear
+in mind that alternative models may also
+be consistent with the data (Joreskog
+and Sorbom, 1985). Moreover, because
+the chi-square test is affected by sample
+size, it follows that (1) given a sufficiently large sample, an over-identified
+model may be rejected even when it fits
+the data well; and (2) when the sample
+size is small, one may fail to reject the
+null hypothesis even when the model fits
+the data poorly (Long, 1983; Matsueda
+and Bielby, 1986). Therefore, a general
+null model based on modified independence among variables is also proposed
+
+Japanese Migration
+
+35
+
+to provide an additional reference point
+for the evaluation of the economic segmentation model.’
+
+A hierarchical model-testing strategy
+(Bentler and Bonett, 1980) is also used
+to derive a final model that not only fits
+the data well but fits the data better than
+do alternative models. The models specified using this procedure should be
+nested, signifying that a more restricted
+model contains parameters to be estimated that are a subset of those contained in a less restricted model. Such a
+strategy is designed to derive a final
+model that adequately reproduces the
+covariance matrix with a minimum
+number of parameter estimates. Thus,
+chi-square difference tests are used in a
+hierarchical evaluation strategy to examine the difference in fit of models estimated using the maximum-likelihood
+estimation method (Bollen, 1989, p.
+263). A significant chi-square difference
+test value indicates that a less restricted
+model explains a significantly greater
+amount of covariation among measures
+than does a more restricted model.
+
+VARIABLES
+
+The migration pattern is represented
+by the two variables, in- and out
+7Two indices, delta and rho, are calculated in
+the following equations.
+
+Chi-square (null) - Chi-square (model)
+
+delta = ; ,
+Chi-square (null)
+Chi-square Chi-square
+(null) _ (model)
+df (null) df (model)
+rho =
+Chi-square (null) 1.0
+df (null)
+
+For further reference, see Bentler and Bonett
+(1980).
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+36 Fukurai
+
+migrants at a prefectural level (see Figure 1 for spatial distributions of Japanese interprefectural migration). These
+two variables represent overall migration activities in the region and are measured by the percentage of both in- and
+out-migrants to the total population.
+Past research often relied on the analysis
+of net migration patterns, the metric difference between in- and out-migration,
+to show the intensity of interregional migration. However, recent studies show
+that different regions have varying levels of in- and out-migration and the different clustering patterns for in- and
+out-migration streams (Fukurai and Alston, 1990; Fukurai et al., 1988). Research further points out that the use of
+net-migration can be misleading since
+such an analysis pays little attention to
+the difference between in-migration and
+out-migration patterns and becomes less
+sensitive to unique reciprocal migration
+activities among neighboring regions.
+Thus, in our analysis, both in- and outmigration streams are utilized to capture
+the overall intensity of migration patterns in the region. The variables are
+based on 47 prefectures.’
+Organizational characteristics are
+represented by the average number of
+employees in the following three different organizations: (1) wholesale/retail
+outlets, (2) finance/insurance companies, and (3) service-related firms. The
+service/support organization in tertiary
+economic sectors reflects the extent of
+regional organizational activities that
+
+8The inflow/outflow 47 x 46 matrix of interprefectural streams was not used in the present
+analysis. For the complete analyses of the full inand out-interprefectural migration flow, see Fukurai et al. (1987) in which the generalized leastsquare estimation method was used to account for
+the effect of structural variables on vectorized interstate migration streams.
+
+Social Biology
+
+are closely related to interprefectural
+migration. The largest employee size for
+both wholesale/retail outlets and financial/insurance firms is found in the
+Kanto region, where Tokyo is located.
+
+Indicators of labor-market characteristics are designed to reflect employment opportunities and regional labor
+force participation. The selected variables include: (1) the per cent of economically active male laborers in the labor
+force, (2) the percentage of labor force
+in tertiary sectors (i.e., service and support industries), and (3) job opening ratio, i.e., the number of available jobs in
+the prefecture divided by the economically active population.
+
+Regional income inequality is also included in the model and assumed to
+have a positive relation with interregional migration. That is, the higher the
+level of regional income inequality, the
+greater the activity of interprefectural
+migration. Regional income inequality
+is measured by: (1) prefectural income
+per capita and (2) per cent Gross Domestic Products (GDP) in tertiary industries. High income per capita is
+found in the metropolitan regions such
+as Kanto (Tokyo) and Kinki (Osaka).
+
+A number of additional independent
+variables are also included in the model
+in order to control for extraneous effects: education, residential ownership,
+and a number of cities in the prefecture.
+Educational levels affect migration activities since they represent the proxy
+for labor skills and influence the spatial
+distribution of labor force. Educational
+levels are measured by: (1) per cent
+junior-high-school graduates who advanced to high school and (2) per cent
+high-school graduates who advanced to
+college. High college admission rates
+are found in the southern regions such as
+Kinki, Chugoku, and Shikoku. Resi
+ 
+ 
+
+ 
+
+Vol. 38, No. 1-2 Japanese Migration 37
+
+TOTAL IN-MIGRANTS FROM OTHER PREFECTURES —-- 1985 --
+\ Hokkaido
+
+Okinawa ——> ?
+
+ 
+ 
+
+enn
+
+Tokyo
+
+migration C_____} less enep 2c QL TCI a8 and =e
+TOTAL OUT—MIGRANTS TO OTHER PREFECTURES —-—— 1985 —-~-—
+
+\
+
+Okinawa ———__—_p»
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+Tokyo
+migration C] less than 2% ASNT TITY 2-3%
+| 3-4% as % and more
+
+Fic. 1.—Japanese interprefectural in- and out-migration.
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+38 Fukurai
+
+dential ownership also impacts interregional migration, since owners of residential household units are less likely to
+move than nonowners. Residential
+ownership is represented by: (1) dwelling units occupied (%) and (2) owned
+household units (%). Research suggests
+that household ownership is relatively
+low in the Kanto region because of high
+residential land values in Tokyo and its
+adjacent cities (Alston and Fukurai,
+1990). The absolute number of prefectural cities are also included in the
+model in order to account for the extent
+of economic opportunities and spatial
+allocation of regional migrants. The
+
+ 
+
+Social Biology
+
+number of cites may not accurately
+reflect the extent of economic opportunities, if cities vary in size between prefectures. However, the 1988 Japanese
+census indicates that 553 out of 652 total
+Japanese cities (84.8 per cent) had population of 100,000 or less, showing a
+small variation in the city populations
+(Statistics Bureau, 1990). The largest
+number of cities are found in Japan’s
+metropolitan regions such as Kanto and
+Kinki and significantly influence the
+magnitude of Japanese interprefectural
+migration. The descriptive statistics for
+the structural variables are reported in
+Table 1.
+
+TABLE 1
+DESCRIPTIVE STATISTICS FOR STRUCTURAL VARIABLES
+Vanables N Mean STD? Minunum Maximum
+Structural variables
+
+Organization
+
+Wholesale/retail................. 47 4.43 56 3.36 6.67
+
+Finance/insurance ............0005 47 17.70 3.93 11.16 34 62
+
+SErvice 2.0... cvcccccvcccccucuce 47 6.71 .67 5.66 9.56
+Labor market
+
+Male labor force (%) ............ 47 80.85 1.40 77.30 83.90
+
+L.F. in tertiary industries (%) ..... 47 54.61 5.75 45.00 69.00
+
+Job opening ratio................ 47 0.67 0.31 0.18 1.31
+Income inequality
+
+Prefectural income per capita’..... 47 1.86 0.26 1.47 3.01
+
+G.D.P. in tertiary sectors ......... 47 0.62 0.07 0.44 0.76
+Migration
+
+Total in-migrants (%)° ........... 47 2.68 0.70 1.42 4.74
+
+Total out-migrants (%)........... 47 2.85 0.54 2.05 4.71
+
+Control variables
+
+Education
+
+Junior H.S. graduates (%)
+
+advanced to high school ........ 47 94.63 1.38 90.60 98.00
+H.S. graduates (%)
+advanced to college............ 47 29.64 6.12 18.10 40.80
+
+Residential ownership
+
+Occupied dwelling units (%) ...... 47 90.59 1.74 86.77 93.69
+
+Owned household units (%) ...... 47 69.03 8.59 43.86 84.53
+City
+
+A number of cities............... 47 13.91 8.16 4.00 40.00
+
+“Standard deviation
+In 1 million yen
+
+‘Per cent total in-migrants to the total population
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 38, No. 1-2
+
+In sum, the structural model for Japanese interregional migration from an economic segmentation perspective is indicated by the following seven structural
+variables: (1) interprefectural migration, (2) organizational structures, (3)
+labor market characteristics, (4) income
+inequality, (5) education, (6) residential
+ownership, and (7) a number of cities in
+a given prefecture. The basic theoretical
+tenet of the economic segmentation
+model is depicted in Figure 2.
+
+RESULTS
+
+The economic segmentation model
+of interprefectural migration in Japan is
+examined in Table 2. As the chi-square
+value indicates, the original model
+shown in Figure 2 does not fit the ob
+Structural Constructs
+
+ORGANIZATION. 
+  
+  
+
+" ANCOME
+INEQUALITY, ; 
+se
+eo
+
+- » LABOR ,
+’ pe °
+MARKET.
+2 *
+te
+
+,
+
+     
+
+Exogenous Factors
+Cc) Endogenous Factor
+a Extraneous Factor
+
+    
+ 
+ 
+
+Japanese Migration 39
+
+served relationship among structural
+variables (280.51 X* with 72 degrees of
+freedom and p < 0.05). One way to improve the original model and to fit better
+the observed covariance matrix is to respecify the measurement model (Bollen, 1989; Joreskog and Sorbom, 1985).
+The original model in Figure 2 is respecified by allowing unique factor loadings
+of observed indicators to be correlated.
+Respecification of the measurement
+model by allowing correlations among
+unique factors is important because the
+unique factor correlation allows the statistical control over possible unreliabilities of observed indicators (Joreskog
+and Sorbom, 1985). It thus enhances the
+better fit of the model by providing
+more feasible relationships between observed indicators and their structural
+
+Control Constructs
+
+EDUCATION
+
+RESIDENTIAL
+OWNERSHIP
+
+ 
+
+CITIES
+
+Fic. 2.—The economic segmentation model of Japanese interprefectural migration.
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+40 Fukurai
+
+constructs in the measurement model
+(Model 1b). Respecification of the
+model further suggests the potential
+linkage between one of the indicators
+for organizations (i.e., the average number of employees for service-related
+firms) and the latent construct of Japanese labor markets (Model 1c). Thus,
+Model 1d is generated and significantly
+reduces the disparity between reproduced (expected) and observed covariance matrices. That is, Model 1d explains 80.9 per cent of chi-square values
+and 75.4 per cent after the degrees of
+freedom are taken into consideration.
+Looking for a parsimonious model
+with conceptual clarity, we compare and
+examine different respecified models in
+
+Social Biology
+
+Table 3. Using hierarchical model testing procedures, we generate differences
+in both chi-squares and degrees of freedom to examine if the respecified model
+is acceptable. While all the chi-square
+values appear to be statistically significant, the differences in two indices,
+delta and rho, show the largest values
+when compared with Model 1d. This
+finding suggests that respecified models
+significantly improve when compared
+with Model 1d. Thus, Model 1d is selected as the best empirical model and
+the structural relationship among the latent constructs as well as the measurement relation between the latent factors
+and observed indicators is critically examined.
+
+ 
+
+TABLE 2
+GOopNEss-OF-FiT INDICES FOR STRUCTURAL MODELS
+Degrees of ChiModel Freedom Square Probability Rho (%) Delta (%)
+
+PMU IGGEL es saa wee cewawge os 105 668.55 0.000
+1a (original model specified in
+
+Figure 1) ............ 00.2 eee 72 280.51 0.000 46.08 58.04
+1b (1a with covariances among
+
+unique factors) ............66. 66 180.76 0.000 67.72 72.96
+1c (16 with factor loadings between
+
+AS and Ksi2y’ y 44 cases ewes gave 65 170.32 0.000 69.77 74,52
+1d (1c with ten covariances among
+
+unique factors. ............005 55 127.92 0.000 75.37 80.86
+
+*X3 represents the average number of employees per Service-related firms. Ksi2 represents the latent labor market variable.
+
+Probability
+
+0.000
+0.000
+0.000
+0.001
+0.000
+
+Rho (%)
+
+21.64
+23.69
+29.29
+2.05
+7.65
+
+Delta (%)
+
+14.92
+16.48
+22.82
+1.56
+7.90
+
+TABLE 3
+COMPARISONS BETWEEN NESTED MODELs: HIERARCHICAL MODEL TESTINGS
+Degrees of ChiModel Freedom Square
+
+Tavs. 1b... ccc ce ee 6 99.75
+TAVS. IC. cc ce cee eee 7 110.19
+Tavs. 1d... ccc cece cee eee eee 17 152.59
+LB VS. ACs os oe ence ta 84 64 BG eM 1 10.44
+Tvs. ld... . ccc ee cee eee eee 11 52.84
+Tevs. ld... ccc ce cee eee 10 42.40
+
+0.000
+
+5.60
+
+6.34
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 38, No. 1-2
+
+Reliability coefficients for observed
+indicators, regression weights of latent
+constructs, and their inter-factor correlation coefficients are reported in Tables
+4 and 5. There are several notable findings from the measurement model in
+Table 4. First, a positive factor loading
+for in-migration (0.831) suggests that
+prefectures with high in-migration are
+also characterized by high outmigration, i.e., significant reciprocal migration patterns among Japanese prefectures.” Reciprocal interprefectural
+migration indicates that rural-to-urban
+migration no longer characterizes today’s Japanese migration patterns. For
+example, in 1988, less than 1 per cent of
+the population lived in communities of
+fewer than 5,000 persons, suggesting
+that little rural population was left to
+move out (Statistics Bureau, 1990).
+
+Research points out that rural-tourban migration was the predominant
+form of population distribution only until the 1970’s. For instance, after the
+war, the changes in both legal and political factors contributed to the significant
+migratory flow to urban regions. The
+power of landlords was substantially reduced, and they were totally eliminated
+as a class in the late 1940’s, freeing numerous tenants tied to the land by debt.
+The official anti-urban ideology of the
+wartime regime was also discredited.
+The growth of labor unions in the 1950’s
+
+°The factor loading for male in-migration was
+set to 1.0 in order to eliminate scale indeterminacy
+and to obtain unique solutions for the empirical
+model of Japanese economic segmentation (Long,
+1983). However, the standardized solution for
+some observed indicators became larger than the
+unity because of the poor fit of the theoreticallyderived expected covariance matrix to the observed covariance matrix (0.753 and 0.808 for
+delta and rho, respectively). This finding suggests
+that important potential extraneous factors for interprefectural migration might not have been included in the segmentation model.
+
+Japanese Migration 41
+
+and 1960’s promised better conditions
+for workers and promoted interprefectural migration to urban industrial regions (Ishida, 1966; White, 1982). In addition, a substantial difference between
+agricultural and nonagricultural wages
+and the concentration of Japan’s revived
+industries in urban areas led to a postwar migratory flood from rural to urban
+areas (Kurasawa, 1967).
+
+In the 1970’s, however, net inmigration to urban regions began to decline. At the same time, neighboring
+prefectures to the urban regions became
+the fastest-growing areas (White, 1982).
+The so-called J-turn migration movement into the urban centers and thence
+out to neighboring prefectures became
+the successor to earlier rural-to-urban
+migration (Glickman, 1979). In addition, the economic growth of tertiary
+sectors was observed not only in the metropolis such as Tokyo and Osaka, but
+in the neighboring regions as well
+(Krooth and Fukurai, 1990; White,
+1982). Thus, the direction of today’s
+Japanese interprefectural migration is
+no longer from rural to urban regions.
+
+As the analysis suggests, the migration pattern is becoming more and more
+reciprocal, reflecting both interdependency of prefectural economic sectors
+and the overall development of the secondary segment of the economy in Japan. For example, between 1985 and
+1986, migrants from outside prefectures
+constituted 4.11 per cent of the total
+population in Tokyo. During the same
+period, almost the same number of people emigrated from Tokyo to outer prefectures (4.14 per cent). Similar patterns
+were observed in other prefectures as
+well (for instance, a Pearson correlation
+coefficient between 1985 and 1986 inand out-migration patterns is 0.795 and
+p<0.05). The growth of service/
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+42 Fukurai
+
+support firms in the tertiary sector, thus
+significantly relies on interregional migrants as a primary source of unskilled
+labor. In addition, both economic and
+geographical barriers between prefectures no longer represent the major obstacle for migration. For instance, Japanese interprefectural migration was
+further facilitated by highly developed,
+efficient transportation networks and
+significant urbanization processes since
+the end of World War II (Krooth and
+Fukurai, 1990).
+
+Table 5 shows the structural relationship among the latent constructs in the
+economic segmentation model. Organizational characteristics are examined in
+relation to different economic sectors.
+The labor market ts also examined in relation to different labor-force characteristics. The structural relationship among
+the latent constructs shows mixed
+results. First, the organizational growth
+in tertiary sectors significantly increases
+the regional economic activity (0.228),
+suggesting that the growth of economic
+sectors in financial, commercial, and
+service industries leads to the high level
+of economic wealth and prosperity. Second, labor-market characteristics are
+found to show the significant direct impact on interprefectural migration. That
+is, the greater the proportion of males in
+the labor force and the higher the laborforce participation in tertiary segments
+of the economy, the greater the intensity
+of interprefectural migration (0.254).
+This finding further substantiates that
+tertiary economic sectors significantly
+rely on interregional migratory workers
+as the primary source of unskilled labor.
+
+Education is also found to influence
+interprefectural migration. The effect
+on migration is negative (—0.331), suggesting that the greater the proportion
+of students advancing to high schools for
+
+Social Biology
+
+a given prefecture, the less the activity
+of interprefectural migration. This relationship also implies that prefectures
+with a small proportion of high-school
+graduates are more likely to require the
+large inflow of regional migrants as potential employees in the tertiary sector
+of the economy.!° For example, in
+March, 1987, out of 458,000 jobs available, employment opportunities in the
+primary economic sector only represented 8,000 jobs (.e., 2 per cent of the
+entire job openings), and the secondary
+economic sector accounted for the rest
+of employment opportunities (Small
+and Medium Enterprises Agency,
+1988). Thus, for people of lower education, unstable secondary labor markets
+and economic shifts in production location are conducive to a high level of interprefectural mobility as these people
+search for steady employment (Krooth
+and Fukurai, 1990). White (1982)
+pointed out that migrants to Tokyo
+comprised roughly two-thirds of bluecollar occupational categories in manufacturing and service sectors. He also
+observed that migrants accounted for 43
+per cent of white-collar office personnel
+in both the private and public sectors
+and 54 per cent of the managerial executive and technical/semiprofessional oc
+10An important concern in using aggregate information in explaining interprefectural migration
+is that of the ecological fallacy. The explanation of
+behavioral variations such as divorce, using the aggregate information, requires certain assumptions
+of the linkage between behavioral and areal phenomena. Many theoretical assumptions of the economic opportunity thesis, for instance, deal with
+behavioral aspects of migration, while the economic segmentation model is concerned with the
+areal and/or spatial variations of migration. However, the use of aggregate information is more useful in explaining regional variations of migration
+since the economic segmentation model takes into
+consideration the socioeconomic and demographic factors that pre-exist before migration.
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 38, No. 1-2
+
+cupational groups. His analysis further
+substantiated that 71 per cent of the migrants surveyed had nine years of education or less (p. 78). The important notion here is that today’s Japanese
+interprefectural migration plays an important role in supplying unskilled labor
+to the secondary segment of the economy.
+
+With regard to other control factors,
+residential characteristics and number
+of cities for a given prefecture are not
+found to be significant predictors of interprefectural migration after the structural factors of economic segmentation
+are taken into consideration.
+
+Japanese Migration 43
+
+RESIDUAL ANALYSIS
+
+While Japanese economic segmentation explains interprefectural migration,
+several shortcomings of the current
+model need to be examined. First, our
+unit of analysis is the individual prefecture, while migration can be examined
+at either regional levels (e.g., Tohoku or
+Kanto regions where Tokyo and other
+metropolitan prefectures are assumed
+to form a single geographic region) or
+intra-prefectural levels (e.g., counties of
+respective prefectures). The analysis at
+the county level might be ideal; however, such detailed information has not
+
+TABLE 4
+STANDARDIZED PARAMETER ESTIMATES: A MEASUREMENT MODEL
+
+Vaniables
+
+Structural variables
+Organization
+
+Wholesale/retail .. 0.0.0.0... ccc ee eee ees
+
+Labor market
+
+Male labor force 14 cscs sc esessensavaseaus on
+L.F. in tertiary industries .............00e0ee
+Job opening ratio . 6... cece eee eee ee eee
+
+Education
+
+Junior H.S. graduates advanced to high school .
+H.S. graduates advanced to college ..........
+
+Residential ownership
+
+Occupied dwelling units....... 0.0.0... ec eee
+Owned household units .................05.
+
+City
+
+A number of cities in prefecture .............
+
+Income inequality
+
+Prefectual income per capita? ...............
+G.D.P. in tertiary sectors......... 2... cceeee
+
+Migration®
+
+Total in-migrants.......... 0... cee ee eee eees
+Total out-migrants .......... 0. cece eee eee
+
+Factor Standard Cnitical
+Loadings Errors Ratio
+0.848 as wt wae
+0.673 0.125 5.384
+0.838 0.089 9.415
+0.695 oT —
+0.685 0.181 3.784
+0.872 0.215 4.055
+0.766 wae wee
+—0.156 0.183 —0.852
+0.312 Lee wee
+1.212 2.165 0.559
+0.688
+1.008 oe Te
+0.189 0.117 1.615
+1.058 Te es
+0.831 0.110 7.554
+
+“Fixed to 1 6 to eliminate scale indeterminacy and obtain unique sofutions to the empuinicaf model
+
+’In 1 milion yen.
+
+©x? = 127 92, df = 55, GFI ratio (X2/df) = 2 325, delta = 0 809, rho = 0 754
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+44 Fukurai Social Biology
+TABLE 5
+STANDARDIZED PARAMETER ESTIMATES: A STRUCTURAL MODEL?
+Standardized Factor Standard Cnitical
+Parameters Loadings Errors Ratio
+Factor correlations
+ORG—LM .... ec cee cece eee eee eees 0.168 0.114 1.473
+ORG-EDU...... ccc ccc cece ce eee es —0.460 0.133 3.458
+ORG—RES 1... 0... ccc ce ccc eee cece cece ~-0.673 0.118 5.703
+ORG—CITY 2... cece cc cc cece cece eens 1.049% 0.165 6.357
+LM—-EDU ....... cece cece cee cecceecneeees —0.974 0.150 6.493
+LM-RES 2.0. ccc cer ec ee eee eees 0.268 0 045 $.955
+LM—CITY ...... cc cece eee cece cece eee eeeeas 0.242 0.120 2.016
+ED—RES 2.0... ccc cc cc cece cece eee eveees —0.059 0.037 1.594
+FU CITY ng chee 4 84 a4 Fa Be Se wd Fe oe BoE —0.449 0.130 3.453
+RES—CITY 2.0... cc ccc ccc ccc ce cee ee tees —0.652 0.094 7.361
+Regression weights
+ORG—INC.... ce ccc cece ee ences 0.228 0.130 1.753
+ORG=-MIG 2... cece ccc cece eee eevee —0.010 0.066 0.151
+EM AIG, i nds nn 04 be 8 ES ha ome hnwee £4 Bee —0.136 0.144 0.944
+LM— MIG... ccc cc cece ce tence totes 0.254 0 029 8.758
+INC=MIG ... ccc eee eee ee eees —0.042 0.037 1.135
+EDU —MIG 2... occ cc cece eee eee —0.331 0.147 2.251
+RES—MIG ..... 0... ccc cee cee ence eee —0.015 0.028 0.535
+CITY — MIG... ccc ccc ccc eee eee ees —0.045 0.034 1.323
+Standardized Residuals
+Variances
+Income Inequality ................ 0.882
+Migration, os os csmscsaccgy as sean 0.420
+
+"ORG = Organization, LM = Labor Market; INC = Income Inequality, MIG = Migration, EDU = Education,
+RES = Residential Ownership, CITY = A Number of Cities
+>Greater than unity because of terated estimations
+
+been made available by the Japanese
+Census Bureau.
+
+A second problem is the relative lack
+of fit of the economic segmentation
+model to the observed covariance matrix. Our original model did not fit the
+observed relationship among structural
+variables (280.51X? with 72 degrees of
+freedom and p < 0.05). Respecification
+of the measurement model was performed by allowing unique factor correlations which improved the goodnessof-fit of the original model. However,
+the model still needs further respecification to improve the fit of expected covariance matrices to an observed covariance matrix. This lack of fit with
+unexplained chi-square values suggests
+that all the causal variables of interpre
+fectural migration were not included in
+our theoretical model.
+
+One of the most effective ways to examine possible effects of other extraneous variables is to spatially display the
+residual of interprefectural migrants by
+controlling for the structural variables in
+the model, that is, unique Japanese migration patterns can be observed by examining the spatial distribution of unexplained residuals for migrants in each
+prefecture.
+
+Figure 3 shows the residual distribution of interprefectural migration and
+suggests two key findings. The first finding is the effect of different regional
+characteristics on migration activities
+and the model’s over- and underestimation of interprefectural migraDownloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 38, No. 1-2
+
+tion. Table 6 gives the model’s residual
+values for interprefectural migration in
+47 prefectures and nine regions. Not
+only is there variation between different
+regions, but there are migration differences within the regions as well. For example, the economic segmentation
+model overestimated the migrants in
+three prefectures with the largest negative residuals (Hokkaido, Toyama, and
+Okinawa for both in- and outmigration). The economic segmentation
+model also underestimated the migrants
+in three prefectures with the largest positive residuals (Saitama, Chiba, and
+Kanagawa for in-migration and
+Saitama, Chiba, Kanagawa for outmigration). The interesting finding here
+is that those underestimated migration
+activities are observed in the Kanto re
+(1) In- Migrants from Other Prefectures
+
+   
+
+Okimawa
+
+™~, a Saitama
+ne,
+Kagoshima
+os
+
+Osaka Toyama
+
+(2} Out-Migrants to Other Prefectures
+
+  
+
+~
+
+Yamaguchi
+~~
+“~s
+
+FF vu
+
+Osaka
+
+Okinawa \/ wn Aomori
+Saitam
+
+Japanese Migration 45
+
+gion (0.59 and 0.55 for standardized residuals for in- and out-migration) and
+prefectures with underestimated migration are all adjacent to the most economically active prefecture in Japan,
+i.e., Tokyo.
+
+There are two reasons for the significant underestimation of migratory patterns in metropolitan regions. First,
+high residential land prices in metropolitan regions pushed the large number of
+the prefectural population to outer regions. For example, Tokyo has the highest average residential land price, i.e.,
+$6,795 per square meter in 1988. Similarly, Osaka is characterized by the second highest residential land price
+($1,615 per square meter) (Statistics Bureau, 1990). As a result, significant population decrease in some urban centers
+
+Hokkaido
+
+ 
+    
+
+Hokkaido
+
+  
+  
+
+oa Chiba
+
+Tokyo
+
+“™ Positive Residual
+NY” Negative Residual
+
+Fic, 3.—-Standardized residuals from the economic segmentation model.
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+46 Fukurai Social Biology
+
+TABLE 6
+TOTAL IN-MIGRANTS AND OUT-MIGRANTS IN 1985: PREDICTED VALUES, RESIDUALS,
+STANDARDIZED RESIDUALS
+Tota IN-MIGRANTS TOoTAL OUT-MIGRANTS
+PREFECTURE Predicted Standardized Predicted Standardized
+From NE to SW Value? Residual Residual Value Residual Residual
+Hokkaido Island
+1 Hokkaido ......... 2.923 ~— 1.496 —3.387 3.234 ~— 1.087 —3.220
+Honshu Island
+2 Aomori........... 2.178 0.367 0.784 2.889 0.617 1.722
+3 Iwate ............. 2.080 0.150 0.305 2.679 0.248 0.658
+4 Miyagi............ 2.990 0.192 0.401 3.296 —0.075 —0.205
+§ Akita............. 2.169 —0.282 —0.568 2.697 —0.052 —0.137
+6 Yamagata......... 2.004 —0.191 —0.388 2.539 —0.310 —0.822
+7 Fukushima ........ 2.031 0.066 0.140 2.632 —0.213 —0.591
+8 Ibaragi............ 3.083 —0.446 —0.987 2.577 —0.201 —0.583
+9 Tochigi ........... 2.659 —0.185 —0.372 2.427 —0.129 —0.339
+10 Gunma ........... 2.684 —0.570 —1.142 2.511 —0.461 —1.207
+11 Saitama........... 2.959 1.062 2.508 2.369 0.695 2.148
+12 Chiba............. 3.217 1.085 2.313 2.870 0.636 1.773
+13 TOKYO « 22 se cow xans 4.736 0.011 0.036 4,291 0.423 1.753
+14 Kanagawa......... 3.847 0.825 1.779 3.506 0.118 0.334
+15 Niigata............ 2.144 —0.472 —0.974 2.416 —0.335 ~—0.907
+16 Toyama........... 2.831 —0.928 —2.087 2.688 —0.575 ~—1.692
+17 Ishikawa .......... 2.820 —0.378 ~0.793 3.047 —0.348 —0.957
+18 Fukui............. 1.968 —0.007 —0.016 2.435 —0.156 —0.440
+19 Yamanashi........ 2.503 0.419 1.005 2.428 0.262 0.823
+20 Nagano ........... 2.044 0.056 0.123 2.123 —0.039 —0.114
+21 Gifu... ... 2... eee. 2.163 0.031 0.060 2.234 0.014 0.036
+22 Shizuoka.......... 2.405 0.208 0.419 2.271 0.256 0.675
+23 Aichi............. 2.751 —0.226 —0.620 2.417 —0.105 —0.379
+24 Mie .............. 2.744 —0.134 -0.273 2.527 —0.031 —0.084
+25 Shiga............. 2.919 0.169 0.417 2.607 0.129 0.417
+26 Kyoto ............ 3.171 —0.087 —0.168 3.386 —0.160 —-0.407
+27 Osaka ..........4.. 3.145 —0.380 —0.837 3.190 —0.268 —-0.771
+28 Hyogo............ 3.124 —0.433 —0.892 3.001 —0.197 —0.533
+29 Nara ........0000- 3.377 0.172 0.413 3.090 —0.119 —0.375
+30 Wakayama........ 2.469 —0.578 —1.321 2.607 0.133 —0.400
+31 Tottori. ca seas cxwe 2.249 0.255 0.525 2.782 —0.003 —0.009
+32 Shimane .......... 1.908 0.518 1.019 2.465 0.362 0.932
+33 Okayama ......... 2.873 —0.304 —0.626 3.006 —0.310 —0.835
+34 Hiroshima......... 2.750 0.388 0.823 3.177 0.153 0.426
+35 Yamaguchi........ 2.790 0.143 0.301 2.998 0.546 1.502
+Shikoku Island
+36 Tokushima ........ 2.443 —0.243 ~0.491 2.782 —0.220 —0.582
+37 Kagawa........... 2.704 0.404 0.863 2.832 0.422 1.180
+36 ENIME 4444 sy auwwae 2.511 —0.237 ~—0.474 2.759 —0.028 —0.075
+39 Kochi............. 2.297 —0.078 —0.213 2.880 ~—0.218 —0.772
+Kyushu Island
+40 Fukuoka .......... 3.117 —0.091 —0.197 3.594 —0.312 —0.882
+4) Sapa. oes esas cwess 2.659 0.197 0.392 3.146 0.219 0.570
+42 Nagasaki.......... 2.664 0.275 0.552 3.300 0.434 1.139
+43 Kumamoto........ 2.643 0.080 0.169 3.234 —0.194 ~0.535
+44 Oita..........2e 2.748 —0.052 —0.100 3.098 0.086 0.219
+45 Miyazaki.......... 2.248 0.565 1.065 2.946 0.572 1.410
+46 Kagoshima ........ 2.312 0.600 1.224 2.884 0.492 1.314
+Okinawa Island
+
+47 Okinawa.......... 3.037 —0.440 —1.501 3.158 —0.401 -1.791
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 38, No. 1-2
+
+Japanese Migration 47
+
+TABLE 6 (continued)
+
+Tora IN-MIGRANTS
+
+PREFECTURE Predicted
+From NE to SW Value* Residual
+Regions
+Hokkaido (1)......... 2.923 —1.496
+Tohoku (6)........... 2.242 0.050
+Kanto (7) ......-..06. 3.312 0.254
+Chubu (9).......2005. 2.403 —0.144
+Kinki (7)............. 2.993 —0.181
+Chugoku (5).......... 2.514 0.200
+Shikoku (4) .......... 2.489 —0.038
+Kyushu (7)......0.06. 2.627 0.225
+Okinawa (1).......... 3.037 —0.440
+"In percentage.
+
+and population increase in the adjacent
+prefectures was observed. For instance,
+while Tokyo has experienced moderate
+population increase between 1980 and
+1985 (1.8 per cent), the neighboring prefectures showed a significant population
+increase (5 per cent or more).
+
+A second factor in the underestimation of migration patterns in metropolitan regions is the significant number of
+commuting populations going from urban centers to neighboring regions. For
+instance, in 1985, two prefectures,
+Saitama and Kanagawa, sent approximately one million daily commuters to
+neighboring prefectures, mostly to Tokyo (Statistics Bureau, 1990). While
+high land prices in Tokyo and other metropolitan regions forced many workers
+to live in the neighboring prefectures,
+the metropolis is still able to retain its labor force through the efficient commuting facilities and transportation networks (Glickman, 1979; Norbeck, 1978;
+Umesao et al., 1986; White, 1973).
+
+Another notable finding is the interprefectural variation among and
+within islands such as Hokkaido and
+Okinawa. Inter-island migration variations suggest that extraneous variables
+other than dual economic sectors or
+
+TOTAL OUT-MIGRANTS
+
+Standardized Predicted Standardized
+Residual Value Residual! Residual
+—3.387 3.234 — 1.087 —3.220
+0.112 2.789 0.035 0.104
+0.590 2.936 0.154 0.554
+—0.320 2.451 —0.114 —0.328
+—0.380 2.951 —0.111 —0.307
+0.408 2.886 0.149 0.403
+—0.078 2.813 —0.011 —0.062
+0.443 3.172 0.185 0.462
+—1.501 3.158 —0.401 —1.791
+
+labor-market characteristics need to be
+incorporated in the model to explain the
+larger variance of the unexplained interprefectural migration pattern. For
+example, Kepart (1966) and Leslie
+(1976) suggest that the existence of a
+frontier tradition in the American West
+characterized by rootlessness and nonconformity is partly responsible for
+unique migration and behavioral patterns in the West compared to the East.
+We concur with this hypothesis, except
+that in Japan, the ‘“‘frontier” seems to be
+found in its rural areas rather than elsewhere, especially in its northern
+(Hokkaido) and southern islands
+(Okinawa). Thus, our empirical model
+needed to incorporate the extraneous
+variables such as residential land values,
+commuting populations, and regionalspecific cultures and different traditions
+in order to enhance the explanatory
+power of the economic segmentation
+model. :
+
+CONCLUSIONS
+
+This paper examined the economic
+segmentation model in explaining interregional migration in Japan. The analyses suggested that the growth of a labor
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+48 Fukurai
+
+market played an important role in influencing the magnitude of interprefectural migration. The findings also suggested that the migration pattern was
+becoming more and more reciprocal,
+and rural-to-urban migration no longer
+characterized today’s Japanese migration patterns. Education was also found
+to influence interprefectural migration
+in that prefectures with a small proportion of high-school graduates were more
+likely to rely on the large inflow of regional migrants, and the migratory
+workers became important potential
+employees for the secondary segment of
+the economy. Furthermore, the residual
+analysis of the economic segmentation
+model identified the prefectures with
+the largest residual dispersions and suggested that high residential land values,
+significant commuting populations, and
+regional-specific cultures and traditions
+need to be incorporated in the model in
+order to assess the extent of the model’s
+
+Social Biology
+
+reliability in explaining the pattern of
+Japanese interregional migration.
+
+ACKNOWLEDGMENTS
+
+The author wishes to thank the College of
+Liberal Arts, the Center for Urban Affairs,
+and the Institute of Pacific Asia of Texas
+A&M University for supporting the research
+reported in this paper. The author is especially appreciative to Harlow Landphair, Director of the Center for Urban Affairs, Jon
+Alston and Letitia Alston in the Department
+of Sociology, and Minjeong Park and
+Yeongi Son in the Pacific Rim Nations Projects at Texas A&M University for data
+preparation and the development of the Geographic Information System (GIS) of Japan. Appreciation is also extended to Richard Krooth in the Department of
+Interdisciplinary Studies at San Francisco
+State University, John I. Kitsuse in the
+Board of Studies in Sociology at the University of California, Santa Cruz, Edgar W.
+Butler in the Department of Sociology at the
+University of California, Riverside, and Social Biology reviewers who read the earlier
+draft and made valuable suggestions.
+
+REFERENCES
+
+ALsTon, J. P., H. Fuxurar, Y. Son, and M.
+Park. 1990. A heuristic for locating a retail
+business in Japan. J. Glob. Bus., 1:46-52.
+
+Baron, J.N., and W. BieLsy. 1980. Bringing
+the firms back in: Stratification, segmentation, and the organization of work. Amer.
+Sociol. Rev. 45:737-765.
+
+BenTLER, P.M., and D.G. Bonetr. 1980.
+Significance tests and goodness of fit in the
+analysis of covariances structure. Psychol.
+Bull. 88:588-606.
+
+Botten, K. A. 1989. Structural equations with
+latent variables. John Wiley & Sons, New
+York.
+
+Buraku LIBERATION RESEARCH INSTITUTE.
+1988. Buraku mondai: Shiryo to kaisetsu.
+Kaiho Shuppan Sha, Osaka, Japan.
+
+Ciark, W. A. V. 1986. Human migration.
+Sage Publications, Beverly Hills.
+
+CasTELLs, M. 1975. Immigrant workers and
+class struggles in advanced capitalism: The
+Western European experience. Politics Soc.
+§:33-66.
+
+. 1983. The city and the grassroots: A
+
+cross-cultural theory of urban social move
+ 
+
+ments. Univ. of California Press, Berkeley.
+
+Cuo, C. K. 1987. Ethnic identity and political
+movement: A history of the Korean minority in Japan. JPRN Working Paper Series,
+Berkeley.
+
+CONNELL, J., B. DasGupta, R. LAISHLEY, and
+M. Lipton. 1976. Migration from rural areas: The evidence from village studies. Oxford Univ. Press, Delhi, India.
+
+DanesH, A. H. 1987. Rural exodus and squatter settlements in the Third World: Case of
+Iran. Univ. Press of America, New York.
+
+DENNIS, S. J. 1984. Black exodus and white integration, 1950 to 1970: a comparative analysis of population movements and their relations to labor and race relations. Ph.D.
+thesis, Dept. of Sociology, American Univ.
+
+De Vos, G. 1973. Socialization for achievement. Univ. of California Press, Berkeley.
+
+DE Vos, G., and H. Waacatsuma. 1966. Japan’s
+invisible race: Caste in culture and personality. Univ. of California Press, Berkeley.
+
+DonocuueE, J. D. 1978. Pariah persistence in
+changing Japan. Univ. Press of America,
+Washington, D.C.
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+Vol. 38, No. 1-2
+
+Dore, R. P. 1967a. Aspects of social change in
+modern Japan. Princeton Univ. Press.
+
+. 1967b. City life in Japan. Univ. of California Press, Berkeley.
+
+FEATHERMAN, D, L., and R. Hauser. 1978. Opportunity and change. Academic Press,
+New York.
+
+FINKELMAN, P. 1989. Economics, industrialization, urbanization, and slavery. Garland,
+New York.
+
+FuKuRAI, H., and J. P. ALsTon. 1990. Divorce
+in contemporary Japan. J. Biosoc. Sci.
+22:453-464.
+
+Fuxkural, H., J. B. Pick, and E. W. BuTLer.
+1990. The determinants of regional income
+inequality in the U.S.-Mexico borderlands.
+Assoc. Borderland Scholars, Tijuana.
+
+Fuxkural, H., J. B. Pick, E. W. BuTLer, and S.
+Nac. 1987. An analysis of interstate migration in Mexico: Impact of origin and destination states on migration patterns. Mexican Stud. 3:365-396.
+
+Fuxural, H.,J. B. Pick, E. W. But.er, andG.
+TELLIs. 1988. An examination of regional
+migration patterns in Mexico: New and old
+regions. Genus 44:225-243.
+
+ 
+
+> GiicxmaNn, N. J. 1979. The growth and man
+agement of the Japanese urban system. Academic Press, New York.
+
+Gorpon, D. M., R. Epwarps, and M. REIcH.
+1982. Segmented work, divided workers.
+Cambridge Univ. Press, Cambridge.
+
+HAan_LeEy, S. B., and K. YAMAMURA. 1977. Economic and demographic change in preindustrial Japan 1600-1868. Princeton Univ.
+Press, Princeton.
+
+HENDERSON, J., and M. CasTELts. 1987. Global
+restructuring and territorial development.
+Sage, London.
+
+Hirr, M. S., et al. 1985. Motivation and economic activities. Survey Research Center,
+Institute for Social Research, Univ. of
+Michigan, Ann Arbor.
+
+Hotpen, K. C. 1973. A comprehensive study
+of labor force change: Japan, 1920-69, and
+United States, 1890-1955. Ph.D. thesis.
+Univ. of Pennsylvania, Philadelphia.
+
+IsHipa, T. 1966. Nihon ni okeru toshika to seiji.
+Shiso. 510:1069.
+
+Joreskoc, K.G., and D. Sorsom. 1985.
+LISREL VI: Analysis of linear structural relationships by the method of maximum likelihood. National Educational Resources,
+Chicago.
+
+KALLEBERG, A., and L. GRIFFIN. 1980. Class,
+occupation, and inequality in job rewards.
+Amer. J. Sociol. 85:731—768.
+
+KALLEBERG, A., M. WALLACE, and R. ALTHAUSER. 1981. Economic segmentation,
+worker power, and income inequality.
+Amer. J. Sociol. 87:651-681.
+
+Japanese Migration 49
+
+Kepart, W. 1966. The family, society and the
+individual. Houghton-Mufflin, Boston.
+
+Kono, S., and M. Suro. 1965. Inter-prefectural
+migration in Japan, 1956 and 1961: Migration stream analysis. Asia Publishing
+House, New York.
+
+KrootHu, R., and H. Fuxural. 1990. Common
+destiny: Japan and the United States in the
+global age. MacFarland Publishing Inc.,
+Jefferson.
+
+Kurasawa, S. 1967. Danchi jumin to jimoto
+jumin. Toshi Mondai 58:55.
+
+Kuropa, T. 1977. The role of migration and
+population distribution in Japan’s demographic transition. East-West Center,
+Honolulu.
+
+Leste, G. R. 1976. The family in social context. Oxford Univ. Press, New York.
+
+Lona, J. S. 1983. Covariance structure models:
+An introduction to LISREL. Sage Publications, Beverly Hills.
+
+Lowry, I. S. 1966. Migration and metropolitan
+growth: Two analytical models. Chandler,
+San Francisco.
+
+MacnuMm, G., D. MAYALL, and K. NELSON.
+1985. The temporary help industry: A response to the dual internal labor market. Industrial and Labor Relations Rev. 38:599611.
+
+MATSUEDA, R., and W. T. BIELBY. 1986. Statistical power in covariance structure models.
+Sociol. Methodol. pp. 120-158.
+
+MINISTRY OF TRANSPORT. 1988. White paper on
+Japanese transportation. Ministry of Finance, Tokyo, Japan.
+
+Mosk, C. 1983. Patriarchy and fertility: Japan
+and Sweden, 1880-1960. Academic Press,
+New York.
+
+MUNDLAK, Y. 1979. Intersectoral factor mobility and agricultural growth. Research Report 6. International Food Policy Research
+Institute, Washington, D.C.
+
+Newman, S.J. 1985. Federal policy and the
+mobility of older homeowners: The effects
+of the one-time capital gains exclusion. Survey Research Center, Institute for Social
+Research, Univ. of Michigan, Ann Arbor.
+
+Norseck, E. 1978. Country to city: The urbanization of a Japanese hamlet. Univ. of Utah
+Press, Salt Lake City.
+
+Ocawa, N., and R. HopceE. 1986. Urbanization, migration and fertility in contemporary Japan. Population Research Institute,
+Nihon Univ., Tokyo, Japan.
+
+O’REILLY, J. M. 1981. Race, crime and residential mobility: A demographic analysis of
+white “flight” and avoidance of integrated
+neighborhoods in metropolitan America,
+1973~1977. Ph.D. thesis. Duke University,
+Durham.
+
+Portes, A., and R. L. Bacu. 1985. Latin jour
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+50 Fukurai
+
+ney: Cuban and Mexican immigrants in the
+United States. Univ. of California Press,
+Berkeley.
+
+Rocers, A. 1968. Matrix analysis of interregional population growth and distribution.
+Univ. of California Press, Berkeley.
+
+SMALL AND MEDIUM ENTERPRISES AGENCY,
+1988. White paper on small and medium enterprises. Ministry of Finance, Tokyo, Japan.
+
+SMITH, D. R. 1983. Mobility in professional
+occupational-interna] labor market: Stratification, segmentation, and vacancy chains.
+Amer. Sociol. Rev. 48:283-305.
+
+STATISTICS BUREAU. 1990. Statistics handbook
+of Japan. Management and Coordination
+Agency, Tokyo, Japan.
+
+TAEUBER, I. B. 1958. The population of Japan.
+Princeton Univ. Press, Princeton.
+
+To.serT, C. M., II, et al. 1980. The structure of
+economic segmentation: A dual economy
+approach. Amer. J. Sociol. 85:1095-1116.
+
+UmMEsao, T., et al. 1986. Japanese civilization in
+the modern world. National Museum of
+
+Social Biology
+
+Ethnology, Osaka, Japan.
+
+VocEL, E. 1963. Japan’s new middle class.
+Univ. of California Press, Berkeley.
+
+. 1967. Kinship structure, migration to
+the city, and modernization. In R. Dore
+(ed.), Aspects of social change in modern
+Japan. Princeton Univ. Press, Princeton.
+
+WaGaTsuMA, H., and G.A. DE Vos. 1984.
+Heritage of endurance. Univ. of California
+Press, Berkeley.
+
+WEAKLIEM, D,. 1990. Relative wage and the
+radical theory of economic segmentation.
+Amer. Sociol. Rev. 55:574-590.
+
+WHITE, J. W. 1982. Migration in metropolitan
+Japan: Social change and political behavior.
+Institute of East Asian Studies. Univ. of
+California, Berkeley.
+
+YAMAMURA, K., and Y. YASUBA. 1987. The political economy of Japan. Stanford Univ.
+Press, Stanford.
+
+ZUCKER, L. G., and C. ROSENSTEIN. 1981. Taxonomies of institutional structure: Dual
+economy reconsidered. Amer. Sociol. Rev.
+6:869-883.
+
+ 
+
+ 
+

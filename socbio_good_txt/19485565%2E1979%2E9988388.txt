@@ -1,0 +1,1098 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+ 
+
+Predictors of family-size preferences, 1945-1977: A
+multivariate analysis
+
+Judith Blake & Jorge H. Del Pinal
+
+To cite this article: Judith Blake & Jorge H. Del Pinal (1979) Predictors of family#size
+preferences, 1945-1977: A multivariate analysis, Social Biology, 26:4, 302-313, DOI:
+10.1080/19485565.1979.9988388
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1979.9988388
+
+ 
+
+fa Published online: 23 Aug 2010.
+
+&
+(g Submit your article to this journal @
+
+all Article views: 1
+
+»
+Q View related articles 4
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:38
+
+ 
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Predictors of Family-size Preferences, 1945-1977:
+A Multivariate Analysis
+
+ 
+
+Judith Blake and Jorge H. Del Pinal
+
+School of Public Health and Department of Sociology, University of California, Los Angeles,
+California: and School of Public Health, University of California, Los Angeles, California
+
+ABSTRACT: This paper focuses on a set of substantive and methodological problems in the study of
+family-size preferences. Substantively, we ask whether traditional social-demographic variables explain proportionately more or less variance in family-size preferences during the mid-1970’s than
+during the period following World War II. Additionally, we inquire whether individual variables,
+such as race, religion, education, and community size, perform differently in recent years than they
+did in the postwar period. Methodologically, we question whether analogous trends emerge from
+including diverse indicators of family-size preferences. Using Multiple Classification Analysis, we
+find no diminution over the time period in the proportion of variance explained by the socialdemographic predictors considered. In fact, these variables appear to increase in predictive power
+over time. However, some variables have clearly changed in marginal importance since World War
+II. Religious affiliation and community size have declined, and race has increased. Educational
+level has maintained a major position throughout. Finally, the differentials in reproductive preferences are very congruent regardiess of the dependent variable used—family-size ideals, prefer
+ences, intentions, or ideals for the average American family.
+
+Over the past thirty-five years demographers have tried to show that social and
+demographic variables are powerful predictors of family-size preferences. On the
+whole, this effort has been disappointing.
+Although religious, racial, educational,
+occupational, and residential divisions
+have produced some differences in familysize desires, the amount of variance explained has typically been small and 1s believed to be diminishing. As long age as
+1962, Ronald Freedman remarked on the
+declining role of the “‘traditional’’ differentials in family-size preferences (Freedman, 1962). It is now commonplace to assume that social and demographic
+predictors of reproductive variation have
+continued to lose importance (Westoff
+and Westoff, 1971). Indeed, one of the
+most frequent justifications for new approaches to studying fertility is that the
+traditional variables have lost most of
+
+their explanatory power (e.g., Turchi,
+1975). For example, stimulated by microeconomic theory concerning fertility,
+demographers have increasingly evoked
+as predictors various measures of income
+and other economic indicators (Freedman, 1963; Mincer, 1963; Easterlin, 1969;
+Cain and Weininger, 1973).
+
+However, no systematic trend analysis
+of predictors of family-size desires, using
+modern multivariate techniques, exists.
+Hence, it is unclear whether the explanatory power of social and demographic variables actually has diminished over time.
+Do traditional predictors in fact explain
+less variance in reproductive preferences
+today than they did, say, during the post—
+World War II period? Which predictors
+are the most promising? Do their effects
+on family-size preferences remain constant over time? The preseni paper is designed to address these questions. It is
+
+302
+
+ 
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Vol. 26, No. 4
+
+stimulated by the conviction that we need
+to reassess, quantitatively, which types of
+fertility predictors are important today as
+against the past—in this case, the period
+following World War II. It is our suspicion
+that the study of population is accumulating a great deal of “‘theory”’ about some
+predictors that may have little explanatory
+power, while at the same time it is neglecting others whose track record may be
+more impressive. In this report we have
+confined ourselves to a consideration of
+trends in the importance of selected predictors over time. An analysis of trends in
+the nature of these relationships will be
+forthcoming.
+
+We have utilized a series of Gallup surveys on ideal family size between 1945 and
+1977—17 surveys in all—to analyze possible changes in the socioeconomic predictors of family-size preferences. This series
+on family-size preferences is the longest
+available for national samples of the U.S.
+population of both sexes and voting age.
+Additionally, we wished to validate our
+findings by analyzing other measures of
+family-size preferences from five national
+fertility surveys conducted in the United
+States between 1955 and 1973. These surveys are described in the following section. All of the data sets have been analyzed using AID (Automatic Interaction
+Detector) and MCA (Multiple Classification Analysis).
+
+MATERIALS AND METHODS
+
+The rational Gallup surveys used here
+all contained the same question on family
+size preferences: ‘“‘What do you consider
+the ideal size of a family—a husband,
+wife, and how many children?”’ Most of
+the studies also included comparable data
+on selected predictor variables—trace, religion, education, occupation, family income, and community size in addition to
+age and sex. Hence, taking account of
+
+Family-size Preferences
+
+303
+
+some possibly confounding demographic
+factors such as age and sex, we can study
+major social and demographic differentials in family-size preferences over
+time. We can also examine the importance
+of income in view of the theoretical interest in this variable. Occupation of the
+chief wage earner as a predictor was
+dropped from the regressions because a
+high proportion of older respondents were
+retired (and no occupational data were
+available for them), and the marginal importance of occupation was very slight for
+all of the surveys. The marginal importance of marital status was also so slight
+that it was not worth including in the regressions. Because some of the surveys,
+dating from the 1940’s and 1950’s, did not
+include one or more predictor variables,
+we have also presented a time series based
+on those data that were available from the
+earlier period through 1977.
+
+The five fertility surveys were stratified
+national samples of women in the reproductive ages (15-49). The 1955 and 1960
+Growth of American Families studies and
+the 1965 National Fertility Study were
+based on surveys of currently married women. The 1970 National Fertility Study included ever-married women and the 1973
+National Survey of Family Growth was
+based on single and ever-married women.
+In order to insure comparability among
+the fertility surveys, we analyzed only currently married women.
+
+The fertility surveys contained a variety
+of questions concerning the dependent
+variable, family-size preference. These
+questions will be discussed in detail in a later section. The predictor variables were
+similar to those in the Gallup surveys, except that the fertility studies allow us to
+use husband’s income rather than family
+income. The latter is believed by some to
+confound income effects (Mincer, 1963;
+Easterlin, 1969; Cain and Weininger,
+1973).
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+304 Blake and Del Pinal
+
+The research questions we have posed
+are answered most efficiently through the
+use of multiple-regression techniques. We
+have employed Multiple Classifcation
+Analysis (MCA), an elaboration of
+“dummy variable” multiple-regression
+analysis (Andrews et al., 1973), which allows for categorical variables as well as numerical values. The method makes no assumptions about linearity and can
+demonstrate possible nonlinearities as a
+normal feature of its operation. However,
+since MCA assumes a high degree of additivity, it is not appropriate to analyze
+data in which there are major interactions
+unless it 1s possible to construct interaction variables. In order to detect interactions and other anomalies, we first analyzed all of the surveys with AID
+(Automatic Interaction Detector) (Sonquist et al., 1973; Sonquist, 1970). The
+AID analyses, plus MCA tabulations,
+showed some of the Gallup studies to be
+interactive and some clearly additive. For
+each of the interactive surveys, the anomalies were taken into account through interaction terms. In all, ten Gallup studies
+emerged that were either additive or
+nearly so.
+
+In the presentations that follow, the R?
+(adjusted for degrees of freedom) is given
+for all of the studies, including those
+where interaction terms have been used.
+The remaining analyses assess the importance of particular predictors. Unfortunately, the importance is difficult to evaluate when a variable in question is part of
+an interaction term. Indeed, if a true interaction exists, then the variables interacting do not have separate identities,
+and their effects should not be assessed independently. Consequently, for assessing
+unique effects, we used the ten Gallup
+polls where the additivity assumption was
+justified and, hence, no complex interaction terms were required. The same procedure was used to analyze the fertility
+studies. Only one was deemed interactive.
+
+Social Biology
+
+We are concerned here with the proportion of the variance in family-size preferences (R?) we can “‘explain’”’ by socialdemographic variables and how this
+changes over time. However, a change in
+R? may occur for a number of reasons. For
+example, there may be a shift in the variance of the dependent variable. A great
+deal of dispersion in the dependent variable will, other things being equal, increase
+the probability that a given set of predictors will be able to explain a high proportion of this variance, whereas a diminution
+in the dispersion of this variable may require a very fine explanatory net in order
+to generate much power. Conversely, a
+change in the variability of the predictors
+can alter their ability to explain variance.
+By the same token, a change in the intercorrelation among predictors may also
+change the proportionate level of explanation. Finally, an overall change in R? can
+come about because the importance of individual predictors (the zero-order correlation with the dependent variable) shifts
+over time. In the course of the discussion
+that follows, we shall see that R? has
+differed because particular variables have
+changed in unique importance.
+
+RESULTS
+THE GALLUP SURVEYS
+
+Compared with the early post-WorldWar-II period, what proportion of the variance in family-size preferences can be explained thirty years later by traditional social-demographic variables—age, sex,
+race, religion, education, and community
+size? What is the independent contribution of each of these predictors to explained variance? Has their marginal importance changed over time? And, finally,
+what is gained in explanatory power by
+adding an economic variable such as family income?
+
+Table 1 presents the amount of ex
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+ 
+
+ 
+
+ 
+
+Vol. 26, No. 4
+
+ 
+
+Family-size Preferences 305
+
+TABLE 1
+
+VARIANCE IN FAMILY-SIZE PREFERENCES EXPLAINED BY SELECTED SOCIAL-DEMOGRAPHIC
+CHARACTERISTICS: 17 NATIONAL SURVEYS IN THE UNITED STATES, 1945-1977
+(R* ADJUSTED FOR DEGREES OF FREEDOM)
+
+Aug. Jan. Mar. May Feb.
+
+1..... t 7
+has eas t t 0.05
+3
+
+euere
+
+June May Mar,
+No.* 1945 1947 1952 1953 1957 1959 1963 1965
+
+0.06 +¢ 0.07§0.06§ 0.09 0.08 0.08 0.07 0.10 0.09 0.09 0.10
+¢t 0.04 ... 0.07...
+0.04 0.05 0.04 0.04 0.05 ... 0.04 ...
+
+Dec. May June Sept. Feb. Oct. Sept. April Feb.
+1967 1968 1972 1972 1973 1973 1974 1975 1977
+
+0.12 0.11 0.12
+.. 0.05 0.10 ... 2... OO
+. 0.04 0.08 ... 0.10 0.1
+
+2,880 2,798 1,970 1,500 1,364 1,356 1,370 1,294 1,420 1,566 1,492 1,479 1,464 1,484 1,501 vest 1,486
+
+N....
+X.... 3.53 3.26 3.30 3.30 3.40 3.54 3.50 3.39 3.32 3.37 2.94 2.92 3.08 2.97 2.82 2.85 2.62
+D 1.40 1.28 1.29 1.30 1.19 1.22 1.23 1.12 1.18 1.31 1.41 1.30 1.49 1.32 1.31 1.32 1.20
+
+V.... 1.96 1.64 1.66 1.69 1.42 1.49 1.51 1.26 1.39 1.72 1.99 1.69 2.22 1.74 1.72 1.74 1.44
+
+*Model 1: Age. sex, race, religion, education, community size, family income; Model_2; Age, sex, race, religion, education;
+Mode! 3: Age, sex, race, education, community size; N. number of respondents in regression: X, sample mean; sv, standard deviation;
+V, unbiased sample variance. Ellipsis dots indicate that the survey was interactive.
+
+tNo data on religion.
+No data on religion and income.
+§No data on income.
+
+plained variance for 17 Gallup surveys according to three models. The first model
+includes all of the basic background variables. Models 2 and 3 are shown for additive surveys only, and where the designated predictors were available. In Model
+2 the number of predictors was cut to the
+five having temporal priority in the life cycle—age, sex, race, current religious
+affiliation, and education. Model 3 includes those variables for which we have
+predictors as far back in time as 1943.
+Turning first to the changing importance of traditional background factors as
+predictors of family-size preferences, in
+Model 1 we see that proportionately more
+variance was explained during the 1970’s
+than in 1952 or during the 1960’s. At no
+date do these variables explain much of
+the variance. There is a high of 12 per cent
+in 1974 and 1977, but the recent record is
+better than in the early years of this series
+when they accounted for no more than 6 to
+8 per cent. Approximately the same proportion of variance can be explained over
+the years by reducing the number of predictors to five—age, sex, race, religious
+affiliation, and education (Model 2).
+
+Again, with this model, more variance is
+explained by these predictors during the
+1970’s than previously. It is possible to
+carry Model 3 back to 1945, and in this series we can clearly see the trend toward
+greater explanatory power over time—
+from 4 per cent in 1945 to 10 per cent in
+1975. Although we have not computed Fratios because they are inappropriate for
+national stratified samples (see Glenn,
+1977, p. 42), it is unlikely that this regular
+progression of increasing R? is due to
+chance factors, particularly since a number of early studies have low R?’s and a
+number of later ones have higher R?’s.
+The increasing ability over time of
+background variables to explain familysize preferences is unlikely to be due toa
+change in variance in the dependent variable, family-size preferences. As may be
+seen from Table 1, the variance in ideal
+family size did not follow a steadily increasing course. It generally decreased
+from the 1940’s to the early 1960’s, then
+increased until the early 1970’s, and has
+declined since then. As for changing variance in the predictors, MCA predictors
+are categories (dummy variables) and
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+306 Blake and Del Pinal Social Biology
+TABLE 2
+MARGINAL IMPORTANCE OF SELECTED SOCIAL-DEMOGRAPHIC CHARACTERISTICS IN
+EXPLAINING FAMILY-SIZE PREFERENCES: SEVEN NATIONAL GALLUP SURVEYS,
+1952-1975 AVERAGE PERCENTAGE CHANGE IN EXPLAINED VARIANCE (R’)
+Focr Potts THREE Pots
+Prior to 1970 AFTER 1970
+VARIABLES IN Average Percentage Average Percentage
+MopELs R° Increaset R Increaset
+Age and Sex .. 0... cece ccc ccc tee nee 0.019 a 0.019 eas
+Age, SCX, ANG FACE. Lc ccc eee eee e eee 0.020 8 0.057 206
+Age, sex, race, relig. 6.0... ccc ec eee eee ees 0.042 104 0.076 35
+Age, sex, race, relig., educ. 0... eee eee eee eee 0.053 29 0.108 42
+Age, sex, race, relig., educ.
+COMMUN. SIZC 1... eee ce ee tee teen eee 0.068 27 0.110 2
+Age, sex, race, relig., educ.,
+commun. size, fam. income* ................5. 0.070 2 0.112 2
+
+*This comparison excludes the 1957 poll which had no information on income.
+
++Calculated from unrounded average R?
+
+therefore have no variance in the statistical sense. We have also made the categories for each variable as comparable as
+possible throughout. Hence, changes in
+predictor variation are not, in this type of
+analysis, responsible for changes in R’.
+The problem of intercorrelation among
+predictors is obviated, to a great extent,
+by the fact that we use the marginal or
+unique importance of independent variables throughout. Finally, changes in firstorder relations between predictors and
+family-size preferences will be discussed
+when the results for individual predictors
+are presented.
+
+Our results so far contradict the impression that the social-demographic variables explain less variance now than in the
+past. We believe that this impression may
+stem from the changing importance over
+time of particular variables, a supposition
+that can be tested by examining the
+marginal effects of the predictors.
+
+We assess the unique or marginal effect
+of a predictor by running two regressions,
+one run with and one run without the vari
+able in question. The percentage change
+in R? (adjusted for degrees of freedom)
+shows the additional explanatory effect
+achieved by adding a particular predictor.
+We have added the predictors into the regression according to their temporal priority in the life cycle. We start with ascribed
+characteristics such as age, sex, and race,
+then add characteristics acquired early in
+life, such as religious affiliation and educational level, and finally current characteristics such as community size and family
+income.
+
+A notable finding in this analysis is that
+the effects of certain predictors have
+changed substantially over time (Table 2).
+
+Race. Among the ascribed characteristics, race (essentially a white/black dichotomy) has most radically changed its
+marginal importance over the time period
+we are considering. Prior to 1970, adding
+race to age and sex in the regression 1ncreased explained variance (R?) by an
+average of 8 per cent. Since 1970, race
+adds over 200 per cent to explained variance (compare the first and second rows of
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Vol. 26, No. 4
+
+Table 2). The marked increase in the importance of race (net of other variables) as
+a predictor is not simply due to the fact
+that the Gallup samples have become racially more heterogeneous over time
+(Glenn, 1977). Rather, it results from a
+real change in the zero-order relationship
+between race and family-size preferences.
+Moreover, this relation does not ‘‘wash
+out” when other predictors are added to
+the analysis. In sum, family-size preferences of blacks and whites now differ more
+than they did previously, both before and
+after we have controlled for the effects of
+other predictors. Looking at these data
+alone, we would have to conclude that
+race is a relatively promising predictor of
+family-size preferences. To understand
+how it operates on such preferences is of
+course another matter, but to attempt
+such understanding appears to be increasingly worth the effort.
+
+Religious Affiliation. Throughout the
+regressions, respondents were classified as
+Catholics, Protestants, Jews, without a religious affiliation, or “other.” The “‘other”’
+category is relatively small, rising from 1
+per cent in 1963 to only 5 per cent in 1977.
+A comparison of the second and third
+rows in Table 2 demonstrates the marginal
+effect of religious affiliation before and after 1970. Clearly, the unique effect of religion has declined markedly over time.
+Prior to 1970, adding religion to age, sex,
+and race increased the variance explained
+by 104 per cent. Since 1970, the marginal
+effect has declined to 35 per cent. This
+trend is also present in the first-order relation of religion and family-size preferences.
+
+Educational Level. The marginal importance of education as a predictor has
+generally increased throughout the period
+(Table 2). The addition of education to
+age, sex, race, and religion typically raises
+the variance explained after 1970 by 42 per
+cent, whereas the comparable figure prior
+
+Family-size Preferences
+
+307
+
+to 1970 is 29 per cent (compare the third
+and fourth rows of Table 2). This result
+reflects a marked rise in the zero-order relationship between schooling and familysize preferences, a relationship that is not
+vitiated by the association of other predictors with education. Education, like race,
+is thus a basic background predictor that
+in recent years has attained uniquely important status in explaining family-size
+preferences.
+
+Community Size. The fairly large effect
+community size once had on reproductive
+preferences had been dissipated by the
+early 1970's. Table 2 shows that this variable increased R? by 27 per cent prior to
+1970 (compare the fourth and fifth rows).
+Since then, this increase has diminished to
+2 per cent. This closing of the rural-urban
+differential (our variable distinguishes
+rurality from urban communities of various sizes) in family-size preferences
+reflected in the first-order relationship, together with the diminished religious
+differentials, may explain the widespread
+perception of an overall drop in the pre
+- dictive power of sociodemographic varia
+bles.
+
+Family Income. The rationale for adding income last is that, to a large extent,
+income is determined by some of the other
+predictors already entered in the regression—particularly race and education.
+The marginal effect of this variable is typically very low regardless of the timeperiod considered, although the zeroorder correlation rivals that of religion
+(compare the fifth and sixth rows, Table
+2). In other words, when temporally prior
+variables such as education are taken into
+account, the marginal importance of family income as a predictor of family-size
+preferences is very small. We find little
+support for the notion that family income
+is. an important predictor in this type of
+analysis.
+
+To sum up our results so far, it seems
+308 Blake and Del Pinal Social Biology
+
+TABLE 3
+
+VARIANCE IN FAMILY-SIZE PREFERENCES EXPLAINED BY SELECTED SOCIAL-ECONOMIC AND
+DEMOGRAPHIC CHARACTERISTICS: FIVE NATIONAL FERTILITY STUDIES IN THE UNITED STATES,
+1955-1973 (R? ADJUSTED FOR DEGREES OF FREEDOM)
+
+FECUND MarriED WOMEN ALL MARRIED WOMEN
+
+Expected Family Size Ideal Average
+
+American Family
+
+Ideal Average
+American Family
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GAF NFS NSFG GAF NFS NSFG GAF NFS NSFG
+
+MOopeEL ——— . —_ —_—___
+
+No.* 1955+ 1960 1965+ 1970¢§ 19732 1955+ 1960 19654 1973+ 1955+ 1960 19654 19734
+l..... 0.16 0.14 0.14 0.16 0.16 0.08 0.10 90.10 0.10 0.07 0.09 0O.12 0.10
+2. .o 0.12 0.12 0.14 0.15 0.05 0.07 0.08 0.09 0.04 0.07 0.10 0.09
+3.2... 0.14 0.13 0.15 0.15 0.08 0.10 0.10 0.10 0.07 0.09 0.12 0.10
+IN ga ws 1,782 2,372 3,124 4,668 4,516 1,775 2,331 3,160 4,273 2,684 3,195 5,544 6,976
+X wo... 3.35 3.42 3.41 2.99 2.69 3.40 3.52 3.22 2.42 3.41 3.55 3.33 2.44
+SD.... 1.56 1.74 1.73 1.50 1.35 0.96 1.17 1.06 0.80 0.97 1.17 1.11 0.83
+Vo... 2.43 3.03 2.99 2.25 1.82 0.92 1.37 1.12 0.64 0.94 1.37 1.23 0.69
+
+*Model 1: Age, race, religion, education, community size, husband's occupation, husband’s income; Model 2: Age, race, religion, education: Model 3: Age. race. religion, education, community size. husband's occupation: NV, number of respondents in regression; X, sample mean; sp, standard deviation: V. unbiased sample variance.
+
++GAF, 1955, includes only white respondents. For example, in Model 2, the explained variance is only for age, religion. and
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+education. The ellipsis dots indicate that, with respect to family size expectations, it is also interactive.
+tAppropriate weights were used in the regressions to take account of the oversampling of blacks.
+
+§Number of children intended.
+
+clear that the entire group of social and demographic predictors of family-size preferences has not lost explanatory power
+over time. Actually, the group has gained
+power since our first observations after
+World War II, a fact that cannot be explained by the changing variance in the dependent variable. Thus, considering major social and cultural cleavages in the
+society, people’s family-size preferences
+have become more different over time, on
+the average, rather than more similar.
+However, now people differ along
+different dimensions from those of the
+past. We find that the marginal effects of
+individual predictors have changed over
+the years. Family-size preferences appear
+to have become more similar across religious and rural-urban groups while becoming more different across educational
+and racial groups. Family-size preferences
+among income groups appear to be mainly
+a function of other variables, since inclu
+sion of this predictor adds very little explanatory power.
+
+These results suggest strongly that
+more attention is required to understand
+the fertility differentials of the present,
+rather than assuming them away because
+the major cleavages of the past—religion
+and rural-urban differences—are no
+longer so sharp. For example, is the racial
+split simply another expression of educational variability? Or are there cultural
+and social components to black fertility
+that may transcend, or even short-circuit,
+educational attainment? Given the poor
+showing of income as a predictor, must we
+conclude that economic theories that relate resources to family-size desires are
+poorly specified? Is it possible that
+economic considerations come into play
+only after the effects of other incentives
+have been operative? Is it also possible
+that such incentives may even cancel out
+the effects of economic rationality?
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Vol. 26, No. 4
+
+INDEPENDENT VERIFICATION:
+THE 1955, 1960, 1965, 1970, AND 1973
+FERTILITY SURVEYS
+
+Would findings similar to those from
+the Gallup series result from using
+different indicators of reproductive preference (family-size expectations or intentions instead of ideals) and differently
+
+- composed samples (women in the repro
+ductive years instead of adults of all ages
+and both sexes)? As a test, we have performed a congruent analysis on the 1955
+and 1960 Growth of American Families
+Studies (GAF, 1955 and 1960); the 1965
+and 1970 National Fertility Studies (NFS,
+1965 and 1970); and the 1973 National
+Survey of Family Growth (NSFG, 1973).
+In all of the surveys, women were asked
+about their family-size expectations or intentions. And, except in 1970, women
+were asked a standard question on their
+views of the ideal family size for the
+average American family. It will be remembered that the Gallup question did
+not refer to the average American family.
+
+The questions on expectations/
+intentions have been tabulated only for
+women without known fecundity impairments. Obviously, the response to questions on expectations or intentions may be
+biased by the knowledge of subfecundity
+or sterility. Since there were many more
+voluntary sterilizations in 1970 and 1973
+than in 1955, we did not wish to bias any
+possible real differences among the survey
+responses because of these changes. The
+question on ideal family size for the
+average American family was tabulated
+for both fecund women and all women.
+Except for income and occupation, most
+predictor variables were similar to those in
+the Gallup surveys. In the fertility surveys
+we were able to use husband’s income
+rather than family income as suggested by
+economists (Freedman, 1963; Mincer,
+1963; Easterlin, 1969). Additionally, we
+
+Family-size Preferences 309
+
+have data on the occupations of the husbands in the fertility studies.
+
+As with the Gallup series, we generally
+find an increase rather than a decrease in
+the proportional variance explained by
+the background predictors at the later
+dates (Table 3). This occurs despite a decline in the variance of the dependent variable since 1960. Thus, neither data set
+substantiates a recent contraction in the
+proportion of variance explicable by social-demographic predictors. Congruent
+with the Gallup series, virtually all of the
+explained variance is due to four basic predictors—race, age, religion, and education. As between Models 1 and 2, it is evident that, in recent years especially, very
+little was added by husband’s income,
+community size, and husband’s occupation (Table 4). This is true for the fertility
+studies regardless of whether expectations
+or ideals are considered. We may now
+assess the contribution of individual predictors. Because of the sampling of the
+black population in the earlier surveys,
+strict comparability among the surveys
+cannot be assured. For this reason, we do
+not consider the marginal importance of
+race.
+
+Religious Affiliation. In conformity
+with a temporal decline in the zero-order
+importance of religion to family-size preferences, when religious affiliation is added
+to age and race (Table 4), its declining
+marginal importance in later years as
+against 1960 is evident. With regard to expectations or intentions, in the 1960 data,
+the amount of explained variance more
+than triples when religious affiliation is
+added to age and race, whereas a similar
+addition in 1973 produces an increase of
+37 per cent. The tabulations on ideal family size for the average American family in
+the fertility surveys show a similar trend.
+Thus, both the Gallup data and the fertility studies agree on the generally declining
+marginal importance of religious
+ 
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+MARGINAL IMPORTANCE OF SELECTED SOCIAL-DEMOGRAPHIC CHARACTERISTICS IN EXPLAINING
+
+TABLE 4
+
+FAMILY-SIZE PREFERENCES: FOUR NATIONAL FERTILITY SURVEYS, 1960-1973
+
+VARIABLES
+
+Variables in Model
+
+PAGS, FACE: ons bd ced 06 OES oe ew ed ee eed ow Ox eee Be
+
+Age, PACE, TEM. 4 go ca e504 he on Hd HK HORE ES Ge beeen Bs
+
+AGG, tate, Peligi, COUR, ono on og va es oa we Ose 84 oe Rg G OH
+
+Age, race, relig., educ., husband’s occup..........-.00005
+
+Age, race, relig., educ., husband’s occup., comm. size.....
+
+Age, race, relig., educ., husband’s occup., comm. size,
+HuSband’s INCOME as csc nya ends es i406 NEAT 6 oe ee raen edd
+
+Marginal Effect of Adding
+Religion to age, TraC€ ow ccc cence teen ence eens
+Education to-age, race, Teéligacs css cugeecs ce osscausneees
+Husband’s occup. to age, race, relig.,educ. ..............
+Comm. size to age, race, relig., husband’s occup. educ. ....
+Husband’s income to age, race, relig., educ., comm. size,
+husband’s OCCUP. 6... ee eee eee cee cette teen eeees
+
+*Fecund currently married women.
+?Currently married women.
+tNumber of children intended.
+
+EXPECTED®
+
+1960 1965 1970 1973
+
+0.018 0.033 0.062 0.086
+0.080 0.073 0.106 0.118
+0.120 0.121 0.140 0.151
+0.132 0.124 0.147 0.154
+0.143 0.135 0.151 0.155
+
+0.142 0.136 0.159 0.159
+
+341. 121. 00-7037
+49 66 32 28
+
+§The 1955 survey included only white women and hence does not appear in this table.
+
+|The 1970 survey did not ask a question on family-size ideals.
+#Computed from unrounded R2,
+
+1960§
+
+0.012
+0.050
+0.068
+0.084
+0,098
+
+0.098
+
+IDEAL*
+1965 = 1970]|
+
+Adjusted R?
+
+9.013
+0.042
+0.076
+0.082
+0.099
+
+0.098
+
+1973
+
+0.041
+0.070
+0.090
+0.096
+0.100
+
+0.103
+
+i - pot
+Percentage increase inR
+
+317
+37
+23
+17
+
+0
+
+218
+79
+8
+20
+
+0
+
+71
+29
+6
+4
+
+2
+
+1960
+
+0.013
+0.053
+0.069
+0.077
+0.094
+
+0.095
+
+298
+30
+12
+23
+
+IDEALT
+
+1965
+
+0.029
+0.054
+0.096
+0.102
+0.118
+
+0.118
+
+87
+79
+
+16
+
+1970)
+
+1973
+
+0.049
+0.065
+0.088
+0.095
+0.101
+
+0.104
+
+34
+34
+
+ 
+
+jeulg [aq pue ayxe1g
+
+ASOLOIg [B1I90S
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+ 
+
+Vol. 26, No. 4
+
+affiliation, and this finding holds in the fertility studies for both expectations and
+ideals.
+
+Education. The unique effect of education does not increase over time in the fertility surveys (Table 4); in fact, it decreases, reflecting a slight decline in the
+zero-order relation. However, regardless
+of the dependent variable used, the unique role of education relative to the unique role of other variables rises appreciably. For example, regarding family-size
+expectations for 1960, the addition of religion caused a 341 per cent increase in R?,
+whereas adding education resulted in an
+additional 49 per cent increase. For 1973,
+the respective figures were 37 per cent and
+28 per cent. It may be that the trend results
+for education in these data, as compared
+with the Gallup surveys, are biased by the
+fact that earlier fertility studies were
+weighted in favor of more highly-educated
+women.
+
+Community Size. Congruent with the
+Gallup surveys, the single-order and the
+marginal effect of community size in the
+fertility surveys has declined greatly. For
+example, the percentage increase by virtue of adding community size to age, race,
+religion, education, and husband’s occupation in 1960 was 8 per cent, whereas in
+1973 it was 1 per cent. For ideals, in the
+same period of time, the percentages decreased from 17 to 4 and from 23 to 6, depending on whether fecund currently married women or just currently married
+women were considered.
+
+Husband’s Occupation. Correlatively,
+the role of husband’s occupation in the
+fertility surveys has also declined over
+time. Along with community size,
+husband’s occupation has thus become a
+marginally unimportant variable during
+recent years.
+
+Husbana’s Income. Finally, turning to
+husband’s income, the results are congruent with those for family income on the
+
+Family-size Preferences
+
+311
+
+Gallup surveys. The marginal effect of
+husband’s income in the fertility surveys is
+slight or nonexistent (Table 4), despite a
+fairly constant zero-order relation with
+family-size preferences. It does appear
+that there is a slight increase in importance
+in recent years, but the 1973 data still only
+show a 2 per cent increase in R? from adding husband’s income to the other variables. We do not find this result surprising
+since it appears that regardless of the
+economic-status measure used, very little
+explanation is achieved (see Curtin, 1976;
+Beaujot et al., 1978).
+
+SUMMARY AND CONCLUSION
+
+This paper focuses on a set of substantive and methodological problems in the
+study of family-size preferences. Substantively, we ask whether traditional socialdemographic variables predict more or
+less variability in family-size preferences
+during the mid-1970’s than in the period
+following World War II. Additionally, we
+inquire whether individual variables such
+as race, religion, education, and community size perform differently in recent
+years than in the post-war period. We also
+question whether analogous trends
+emerge from using diverse indicators of
+family-size preferences—personal familysize ideals, expectations, and intentions,
+and ideals for the average American family.
+
+Employing Multiple Classification
+Analysis, we use two types of data sets.
+Initially, we concentrate on 17 Gallup surveys spanning the period 1945 to 1977.
+Each contained a question on family-size
+ideals, and all included virtually identical
+data on predictor variables—age, sex,
+race, religious affiliation, educational
+level, family income, and community size.
+Then, we turn to the 1955 and 1960
+Growth of American Families studies, the
+
+- 1965 and 1970 National Fertility studies,
+
+ 
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+312 Blake and Del Pinal
+
+and the 1973 National Survey on Family
+Growth—all covering married women in
+the reproductive ages. These studies, in
+addition to including information on predictor variables that is analogous to the
+Gallup data, contained questions on reproductive preferences that differed from
+the one in Gallup on ideal family size. The
+questions in the fertility surveys related to
+personal expectations and intentions, plus
+a question on the ideal family size for the
+average American family.
+
+Substantively, our analysis suggests
+that there is no diminution over the time
+period in the proportion of variance to be
+explained by the social-demographic predictors considered. In fact, these variables
+appear to increase in predictive power
+over time. However, we must also emphasize that at no time do the variables explain more than a relatively smal: percentage of the variance in family-size
+preferences—a high of 12 per cent in the
+Gallup series in 1974 and 1977, and 16 per
+cent (for family-size intentions) in the
+1973 National Survey of Family Growth.
+Clearly, if one wishes to think in terms of
+explained variance, one needs to search
+for additional predictors. In fact, when we
+turn to the marginal importance of our
+
+ 
+
+Social Biology
+
+predictors, we see that most of the variance explained is due to age, race, religious affiliation, and education. Income—
+husband’s or family—makes little or no
+contribution once causally prior predictors are taken into account. Some predictors have clearly changed in importance
+over time. Religious affiliation and community size have declined in importance,
+and race (at least in the Gallup surveys)
+has increased. Educational level has maintained a major position throughout.
+
+Finally, a methodological finding: The
+differentials in reproductive preferences
+studied are highly congruent between the
+two kinds of data sets—the Gallup surveys
+and the national fertility studies. In effect,
+the Gallup series on ideal family size produces a picture concerning socialdemographic differentials that is very
+similar to the one depicted by expected/
+intended (as well as ideal) family size in
+the fertility surveys. Moreover, a comparison of the computations for ideal and
+expected/intended family size in the fertility studies also indicates internal congruence. We believe it is significant that
+diverse questions on reproductive preferences from disparate studies will produce
+findings that are so similar.
+
+REFEREMCES
+
+ANDREWS, F., J. MorGan, J. SonquisT, and L.
+Kiem. 1973. Multiple classification analysis.
+2nd ed. Univ. of Michigan Press, Ann Arbor.
+
+BEAUJOT, R., K. Krorki, and P. KrisHNaNn. 1978.
+Socio-cultural variations in the applicability of
+the economic model of fertility. Pop. Stud. 32:
+319-325.
+
+Cain, G., and A. WEININGER. 1973. Economic
+determinants of fertility: Results from crosssectional aggregate data. Demography 10:
+205-223.
+
+Curtin, R. 1976. Patterns of income and fertility
+among American households, 1967-1973. In
+G. Duncan and J. Morgan (eds.), 5000 American families. Univ. of Michigan Press, Ann
+Arbor.
+
+ 
+
+EASTERLIN, R. 1969. Toward a socio-economic
+theory of fertility: A survey of recent research
+on economic factors in American fertility, p.
+127-156. In R. Behrman and L. Corsa, Jr.
+(eds.), Fertility and family planning: A world
+view. Univ. of Michigan Press, Ann Arbor.
+
+FREEDMAN, D. 1963. The relation of economic
+status to fertility. Amer. Econ. Rev. 53:
+414-426.
+
+FREEDMAN, R. 1962. American studies of family
+planning and fertility: A review of major
+trends and issues. In C. Kiser (ed.); Research
+in family planning. Princeton Univ. Press,
+Princeton.
+
+GLENN, N. 1977. Cohort analysis. Sage Publications, Beverly Hills.
+ 
+
+Vol. 26, No. 4 Family-size Preferences 313
+
+Mincer, J. 1963. Market prices, opportunity Searching for structure. Univ. of Michigan
+costs and income effects, p. 67-82. In C. Christ Press, Ann Arbor.
+et al.(eds.), Measurement in economics. Stan- Turcut, B. 1975. Microeconomic theories of ferford Univ. Press, Palo Alto. tility: A critique. Soc. Force. 54: 107-125.
+SonaqulisT, J. 1970. Multivariate model building. Westorr, L. A. and C. F. Westorr. 1971. From
+Univ. of Michigan Press, Ann Arbor. now to zero—Fertility, contraception, and
+SONQUIST, J., L. BAKER, and J. MorGan. 1973. abortion in America. Little, Brown, Boston.
+
+CY
+=
+©
+N
+~
+oO
+=
+oO
+O
+oO
+Q
+Co
+©
+Co
+og
+oN
+=
+—
+CS
+'S
+CS
+ON
+—
+oo
+O
+5
+Cee
+©
+>>
+—
+N
+~
+oO
+>
+os
+c
+~.
+ra
+Oo
+vO
+oO
+ca
+3
+©
+—
+c
+S
+©
+a
+
+ 
+

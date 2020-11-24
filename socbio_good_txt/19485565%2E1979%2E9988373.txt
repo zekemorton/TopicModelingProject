@@ -1,0 +1,453 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Invited discussion: Genetics in epidemiology
+
+Helen Abbey , Richard H. Ward & Leon Gordis
+
+To cite this article: Helen Abbey , Richard H. Ward & Leon Gordis (1979) Invited discussion:
+Genetics in epidemiology, Social Biology, 26:2, 154-160, DOI: 10.1080/19485565.1979.9988373
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1979.9988373
+
+fe Published online: 23 Aug 2010.
+
+&
+(g Submit your article to this journal @
+
+aul Article views: 1
+
+»
+Q View related articles @
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+ 
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:38
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Invited Discussion: Genetics in Epidemiology
+
+Helen Abbey
+
+Department of Epidemiology
+
+School of Hygiene and Public Health
+The Johns Hopkins University
+Baltimore, Maryland
+
+Is epidemiology a tool which the
+geneticist studying human populations
+can use to sort out more precisely the nature of genetic effects? Or, is genetics a
+tool which the epidemiologist can use to
+sort out the importance of environmental
+risk factors influencing the manifestation
+of a disease or other deleterious effect?
+Judging from the papers which have been
+presented, the answer to both of these
+questions is “‘yes”’.
+
+Epidemiology is a necessary tool for
+sorting out the relation of risk factors to
+disease or other deleterious effects when
+experiments of the kind performed in laboratory genetics cannot be done. Clearly,
+in human genetics the environment in
+which the genetic effect is operating cannot be held constant nor can the appropriate mating classes be ordered. And, in
+fact, the mating categories often cannot
+even be identified. As the epidemiologist
+defines disease entities more specifically
+by subdividing them according to clusters
+of risk factors, so also he subdivides disease entities into groups within which the
+genetic mechanisms can be more precisely
+defined.
+
+The tools described in the previous papers have been of two types: those relating
+to the analysis of the data, i.e., mathematical or statistical tools, and those relating to the collection of accurate data. An
+example of the first is the discussion of the
+
+merits of the generalized single-locus
+model for segregation analysis versus
+mixed models which include cultural inheritance, polygenes, and major loci. Although these models are indeed useful
+tools, in reality the geneticist is plagued by
+small numbers and small sizes of families,
+as well as by the typical problems of epidemiological studies, including bias of ascertainment, lack of uniformity of definitions
+and of collection procedures, missing values, misclassification, and others. A question which has not been addressed by the
+proponents of elegant mathematics to
+differentiate among the proposed geneticenvironmental mechanisms is: To what
+extent is the potential discriminatory
+power lost or the conclusions rendered
+misleading because of these and other
+deficiencies in the data themselves?
+
+The study of the epidemiology and
+genetics of schizophrenia in this series of
+papers is an example in which enormous
+amounts of epidemiological input is required before testing elaborate geneticenvironmental models will provide meaningful insights as to the factors which are
+operating. The problems of defining the
+disease in a uniform manner and of the ascertainment of cases are clearly apparent.
+The authors noted that, for example, estimates of prevalence were affected by the
+data collection process, and even more by
+the concept of the investigator of what
+
+154
+
+ 
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Vol. 26, No. 2
+
+constituted a case. It would seem premature to look for specific modes of genetic
+action until the observations can be made
+more precisely than is presently possible.
+
+What has the epidemiologist to learn
+from genetics? From the papers which
+have been presented, two areas emerge.
+First is that mathematical or descriptive
+models are useful. They force one to sort
+out what factors are thought to be operating and to specify the presumed mode of
+operation. Furthermore, they point out
+the types of data which would be needed
+to test the relation between the models
+and reality, and perhaps even more important, the developers and users of such
+models cannot avoid facing the fact that
+the truth is more complex than the mathematics. For example, the idea that many
+genetic conditions operate like a constitutional democracy is a pleasing one, but
+leads to the reflection that constitutional
+democracies may in fact operate quite
+differently than the rules for their operation would suggest.
+
+The second area in which genetics can
+be useful to the epidemiologist has been
+emphasized in two of the previous papers.
+In both of these, genetics was used as a
+tool. In the first of these, genetic markers
+
+ 
+
+Invited Discussion 155
+
+were being monitored to measure changes
+in the environment. As more markers are
+identified by the geneticists, this tool
+should become more and more important
+for studying the effect of environmental
+factors on disease. In the second paper,
+twins, a genetic condition, were being
+used, not to study genetic contributions to
+disease, but rather to study environmental
+contributions.’ This is a new twist but an
+exciting one and suggests that other
+genetic effects may also be used in this
+way.
+
+In summary, the papers presented here
+have shown that the sciences of epidemiology and human genetics are useful
+tools—each for the other discipline. A
+geneticist who plans to do human population studies should have a skilled epidemiologist as a part of his team or he should
+acquire these skills for himself. At the
+other end of the spectrum, the epidemiologist should look at genetics as a tool
+by which he can identify and quantify environmental factors for which his present
+measurement techniques are inadequate.
+
+1“The Swedish Study of Smoking-Discordant
+Twins,” by Rune Cederlof, Department of Environmental Hygiene, Karolinska Institute, Stockholm,
+Sweden, was presented at the symposium but was
+not available for publication here.
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Invited Discussion: Genetics in Epidemiology
+
+Richard H. Ward
+
+Department of Epidemiology
+School of Medicine
+University of Washington
+Seattle, Washington
+
+While “genetic epidemiology”’ has become an increasingly popular term since
+late 1974, the integration of epidemiological principles into genetic models actually
+dates back to Weinberg’s classic paper of
+1912 which laid the foundation of human
+statistical genetics. In turn, the subsequent work of early pioneers, like Apert
+and Bernstein, which dealt with the problem of ascertainment, also embodied epidemiological principles. Likewise, the later developments initiated by Bailey,
+Smith, and Morton, among others, can be
+viewed as the incorporation of modern
+statistical principles in deriving analytic
+tools to handle epidemiological concerns
+in a genetic setting. It is thus not surprising
+that the current interest in “genetic epidemiology” is largely concerned with the
+derivation of statistical techniques to handle complex data sets.
+
+Unhappily, there has been far less attention paid to the adequacy of study design with respect to uncovering the underlying biological factors involved in
+etiology. This is unfortunate, since any
+successful epidemiological investigation
+requires that the disease being studied
+must be placed in its biological context.
+The biological context delimits the hypotheses and determines the overall study
+design as well as identifying the variables
+to be measured and the subsequent statistical manipulations. Without a biological
+
+ 
+
+statement of the problem, the correct epidemiological questions cannot be
+identified, and the results of applying
+genetic statistics will lack biological inference. If “genetic epidemiology” is to
+mean more than merely the application of
+genetic statistics to data collected by epidemiologists, there should be a greater focus on study design. It would also help to
+define the position of “genetic epidemiology”’ in the health sciences.
+
+The importance of developing a better
+perspective of how genetic epidemiology
+can contribute to the health sciences is indicated by the fact that although the number of genetically defined disease states
+has increased exponentially since
+McKusick’s first catalog, the genetic burden of ill health remains undefined and
+unquantified. This situation arises because: (1) For the most part, we have little
+knowledge about the distribution of
+defined Mendelian/Chromosomal diseases in specific populations, in terms of
+age-specific incidence rates broken down
+by sex, geographic area, ethnic origin, etc.
+(2) For the great number of common diseases, where single gene lesions only
+make a minor contribution to overall morbidity, the proportionate attributable risk
+of genetic factors cannot be specified in
+terms of etiological involvement. The development of genetic epidemiology holds
+considerable promise for answering both
+
+156
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Vol. 26, No. 2
+
+these questions, but only if the field is correctly perceived in its health science context.
+
+To this end, it would be helpful to consider the concept that diseases are distributed along an etiological spectrum ranging
+from the purely genetic to the purely environmental. Six etiological classifications
+of disease can thus be recognized—Mendelian, Chromosomal, Miultifactorial-high heritability, Multifactorial~low heritability, Infectious Agents,
+Environmental Hazards. Within each of
+these categories the distribution of the
+genetic burden by age, sex, etc., will be
+unique, and the pattern will also differ for
+various populations. In addition, the strategy for research will differ by category,
+partly as a function of the perception of
+
+ 
+
+Invited Discussion 157
+
+how the burden is distributed and partly
+because of the requirements inherent in
+the etiological nature of the disease. In
+any event, epidemiological principles
+should be incorporated into the study design with a quasi-experimental design chosen whenever the aim is to identify causal
+factors. Sample units should have epidemiological justification and phenotypic information should be maximized. Lastly,
+hypothesis testing should proceed in a
+hierarchical fashion since no single analysis can provide a definitive answer. To
+the extent that geneticists and epidemiologists collaborate in setting up and testing
+the hierarchical succession of hypotheses,
+the burgeoning field of genetic epidemiology should yield the promise that has
+been prophesized by its advocates.
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Invited Discussion: Genetics in Epidemiology
+
+Leon Gordis
+
+Department of Epidemiology
+
+School of Hygiene and Public Health
+The Johns Hopkins University
+Baltimore, Maryland
+
+This symposium is testimony to the
+common interests shared by genetics and
+epidemiology. Indeed, many questions
+cannot be explored without the use of
+methodologies from both disciplines. For
+this reason, there is a great need for increased collaboration between geneticists
+and epidemiologists in both research and
+training.
+
+Before discussing the question of how
+such needs might be met, I should also like
+to mention that such collaboration 1s essential if the two disciplines are to contribute to the critical questions involved in environmental control—particularly in the
+occupational setting. In this regard, I
+should like to draw a distinction between
+genetic screening as it is now widely accepted and what I should like to term “‘environmental screening.”
+
+Genetic screening may be defined as a
+search in the population for persons
+possessing certain genotypes that (1) are
+already associated with disease or predispose to disease and (2) may lead to disease
+in their descendants. The persons in the
+first category are identfied so that medical
+management may be provided, while
+those in the second group are ascertained
+so that reproductive options may be discussed.
+
+Environmental screening, on the other
+hand, I would define as a search in the
+population for persons who are at risk for
+disease upon exposure to a certain en
+ 
+
+vironmental agent or class of agents because of (1) a specific genotype, (2) preexisting disease, or (3) simultaneous or
+prior exposure to other environmental
+agents. Such screening has particular relevance to the occupational setting since an
+across-the-board reduction in permissible
+standards for given environmental agents
+associated with the work place may ultimately prove to be highly destructive to
+social and economic functioning of communities. It may be more reasonable to
+identify subsets of the worker population
+who are at risk so that appropriate constructive action can be taken for them.
+Just as we have genetic counseling, environmental counseling could be developed. The subject would be given information regarding his risk of disease and
+his susceptibility to the effects of particular pollutants or occupational chemicals
+on the basis of his genetic predisposition,
+history of past disease, and exposure to
+other environmental agents; alternative
+options would then be suggested. A number of major issues, however, emerge regarding environmental counseling. (1)
+Would counseling be mandatory or optional? (2) What would be the content of
+such counseling? (3) Who would do such
+counseling? (4) Who would sponsor (and
+pay for) such counseling? (5) Who would
+have access to the data regarding environmental screening and counseling? (6)
+Would industrial employers be able to re
+158
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Vol. 26, No. 2
+
+quire screening tests in selecting persons
+to work with certain materials?
+
+Other issues would also have to be addressed: Would such screening also be applied to residents in areas adjacent to
+manufacturing plants and to the families
+of workers who may bring the agents
+home with them from the work setting? If
+an employee insists that he is willing to
+take a risk and continue working in a high
+exposure situation despite the counseling,
+would he be permitted to do so? Should
+the data generated by such screening and
+counseling be available to the health
+officer of the industry; and, in general,
+should the company have access to this individual information? An additional potential problem associated with such environmental screening and environmental
+counseling is that industries may feel that
+such programs relieve them of their responsibility for cleaning up the industrial
+environment.
+
+Naturally, in order to conduct such environmental screening and counseling,
+sufficient knowledge will have to be available regarding potential hazards of specific
+agents as well as the risk factors which may
+characterize persons who are particularly
+susceptible to such agents. Such information can be obtained using a variety of research approaches which help identify the
+role of genetic and environmental factors
+in causing disease. In addition to retrospective and prospective studies carried
+out by epidemiologists, several other approaches are particularly appropriate for
+discriminating between genetic and environmental components in the etiology of
+disease.
+
+These include a search for association
+of a specific condition with known genetic
+diseases and the search for genetic
+markers. In addition, it is often helpful to
+identify a familial aggregation of a given
+disease. But such an aggregation need not
+necessarily reflect genetic factors; it could
+
+ 
+
+Invited Discussion 159
+
+result from some common microenvironmental factors. The epidemiologic search
+for time trends in the incidence of a disease is extremely helpful in discriminating
+between environmental and genetic factors. If a significant change in incidence is
+found over a period of several decades, for
+example, it is unlikely that such a change
+reflects any changes in the genetic composition of the population but rather suggests that this change reflects changes in
+environmental exposures. Migrant studies
+have also provided an invaluable tool for
+examining international and regional
+differences in disease incidence and have
+often found that migrants tend to adopt
+the disease risk characteristic of their
+country of adoption, a finding strongly
+suggesting a major role for environmental
+factors but by no means excluding the importance of genetic determinants as well.
+
+There is an urgent need to bridge the
+gap that has all too often existed between
+genetic and epidemiologic research.
+Bridging this gap will require increased
+collaborative activities both in research as
+well as in programs designed to train anew
+generation of genetically oriented epidemiologists and epidemiologically oriented
+geneticists. There is a great need for biologically oriented geneticists interested in
+epidemiology. There must be recognition
+that the traditional model of biomedical
+research which often focuses exclusively
+on the bench laboratory may not be the
+only one which can be productive in elucicating the etiology of disease. At the same
+time, however, we require biologically
+and medically oriented epidemiologists to
+carry out collaborative studies with
+geneticists.
+
+There is an urgent need to introduce
+genetics into the training of epidemiologists. This should be accomplished in
+several ways: first, by emphasizing genetic
+concepts in the epidemiology courses currently given; second, by adding genetics
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+160
+
+courses to the curriculum provided by epidemiology departments; third, by adding
+geneticists to epidemiology department
+faculty as an integral part of the departmental program; fourth, by increasing the
+utilization by epidemiology departments
+of genetic resources available elsewhere in
+the university outside the department itself; and fifth, by involving geneticists as
+preceptors and readers for doctoral theses
+in epidemiology.
+
+At the same time, there is a need for introducing epidemiology into genetics programs. Geneticists must learn epidemiologic methods. There must be an
+increased appreciation by geneticists of
+the applicability of such methods to issues
+of etiology both in terms of identifying the
+agents involved as well as the mechanisms
+which produce disease. There must be increased willingness on the part of geneticists to collaborate with epidemiologists in
+
+Gordis
+
+Social Biology
+
+both teaching and research. Furthermore,
+there must be recognition by geneticists
+that disease mechanisms can be identified
+not only by studies of a limited number of
+individuals but rather by the populationbased methods which are already highly familiar to epidemiologists, but upon which
+genetic approaches can be superimposed.
+
+In order to facilitate the introduction of
+genetics into epidemiology training as well
+as of epidemiology into genetics training,
+federal support is needed for truly integrated training programs in genetics and
+epidemiology and for the development of
+prototype programs which can serve as
+models for the country. It would seem desirable for federal agencies to provide inducements to institutions which already
+have distinct epidemiology and genetic
+programis in order to stimulate them to develop collaborative endeavors on a
+broader scale.
+

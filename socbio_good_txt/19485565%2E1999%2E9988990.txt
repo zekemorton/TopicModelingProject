@@ -1,0 +1,2060 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Determinants of the risk and timing of alcohol
+and illicit drug use onset among natives and
+non-natives: Similarities and differences in family
+attachment processes
+
+Margaret L. De Wit, Bryan G. Embree & David De Wit
+
+To cite this article: Margaret L. De Wit , Bryan G. Embree & David De Wit (1999) Determinants
+of the risk and timing of alcohol and illicit drug use onset among natives and non#natives:
+Similarities and differences in family attachment processes, Social Biology, 46:1-2, 100-121,
+DOI: 10.1080/19485565.1999.9988990
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1999.9988990
+
+fm Published online: 23 Aug 2010.
+
+&
+(g Submit your article to this journal @
+
+all Article views: 51
+
+»
+Q View related articles @
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:48
+
+ 
+Determinants of the Risk and Timing of Alcohol
+and Illicit Drug Use Onset Among Natives and
+Non-natives: Similarities and Differences in
+Family Attachment Processes
+
+ 
+
+ 
+
+Margaret L. De Wit, Bryan G. Embree, and David De Wit
+
+Ontario Ministry of Community and Social Services, Toronto, Ontario M7A 1E9, University of
+wn Western Ontario, London, Ontario, and Addiction Research Foundation Division, Centre for
+SAddiction and Mental Health, London, Ontario, Canada N6G 4X8
+
+ber
+
+& ABSTRACT: This study examines data from Native Ontario reserve residents (Embree, 1993) and a
+sample from the Ontario Health Survey Supplement (1990-91) in order to compare and contrast
+Athe importance of family attributes such as parent-child attachment to Native and Non-native patSterns of drug and alcohol use onset. Proportional Hazards modeling (Cox, 1972) was employed to
+ooidentify factors associated with the risk and timing of onset of alcohol and illicit drugs for both culco tural groups. For both Natives and Non-natives alike, and considering both drinking and drug use
+"_ onset together, age cohort predominates as a risk factor, with youngest groups at greatest risk, and
+‘Sespecially in the case of drug use other than alcohol. For the model of drug use timing, age of alcoShol use onset is the second best predictor for Natives, although its effect is still apparent, albeit
+.Wweaker, in the case of Non-natives. As for family characteristics, a number of factors emerge as de‘Oterminants of risk and depend, in part, on the cultural group and the substance under considera= tion. Consistent with attachment theory’s prediction about the universal applicability of the need
+‘Sfor close parent-child relations (Bowlby, 1969), the findings for both Natives and Non-natives alike
+zpoint to the salience of psychosocial attachment and other indicators of family functioning in af‘Zfecting early onset drinking and drug use, behaviors well-recognized to lead to potentially adverse
+mental and physical health consequences as well as to negative social outcomes.
+
+e
+
+1
+
+y [Un
+
+© Literature on substance use patterns re‘pveals a variety of characteristics which
+Zo ; .
+
+Smay influence the risk of drug and alcohol
+‘Suse onset, including aspects of family
+ofunctioning, along with a number of other
+
+alcohol or drug problems (Black et al.,
+1986; Famularo et al., 1986; Famularo et
+al., 1992; Hernandez, 1992; Worobec et
+al., 1990; Miller et al., 1993; Blankfield,
+1990); childhood sexual victimization (Yel
+environmental, biological, and psychological influences. A substantial amount of research on consequences of poor family
+functioning suggests that, irrespective of
+specific cultural traits, family environment
+variables such as parental mental health
+_ and patterns of substance use, the occurrence of child sexual mistreatment, along
+with other measures of parental ability and
+competence, may all affect children’s risk
+of alcohol and drug use initiation. Parental
+
+lowlees and Kaushik, 1994; Windle et al.,
+1995; Walker et al., 1993; Goodale and
+Stoner, 1994; Hussey and Singer, 1993;
+Swett and Halpert, 1994; Fullerton et al.,
+1995; Fox and Gilbert, 1994; Bean, 1993);
+parental mental problems such as depression (Wills and Shiffman, 1985); parental
+unemployment (Conger et al., 1991); family dissolution due to separation or divorce
+(Fergusson et al., 1993; Fergusson et al.,
+1994; Stoker and Swadi, 1990); and the
+
+100
+
+ 
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+ 
+
+Vol. 46, No. 1-2
+
+quality of the parent-child affective relationship (Black et al., 1986; Mian et al.,
+1994) have all been linked empirically
+with the risk of developing problem drinking and other behaviors such as illicit drug
+use (Vaillant, 1994).
+
+From among the various nonfamily environmental or social influences, peer risk
+factors have also been cited as important
+determinants of the onset and use of alcohol and other drugs (Blackson and Tarter,
+1994; Dupre et al., 1995; Swaim et al.,
+1989). However, it is also recognized that
+family influences underlie decisions about
+peer associations. Fundamental problems
+such as poor family conditions tend to increase the chances of associations with others oriented towards problem behaviors
+such as drug use involvement (Oetting et
+al., 1989).
+
+Reviewing research from a variety of
+different cultures (Zitzow, 1990), Heath
+(1998) argues for the universal importance
+of close affective ties with parents in affecting a wide variety of outcomes such as academic performance, psychological wellbeing, juvenile delinquency, and substance
+abuse. In general, children having viable
+relationships with parents are less likely to
+become involved with drugs and drugoriented peers (Coombs et al., 1991). Indeed, much cross-cultural research has produced findings consistent with the claim
+that there are certain universal truths about
+human nature which involve common responses to important stimuli (O’Hara,
+1995; Triandis, 1993).
+
+One such universal truth is the need for
+attachment in intimate relationships according to the theory of psychosocial attachment proposed by Bowlby (1969). In
+the literature on family functioning, attachment is defined as a strong affectional
+bond between caregiver and child that af
+ 
+
+Family Attachment Processes
+
+101
+
+fords the child a sense of security and lays
+the foundation for further attachment behavior later in life (Bowlby, 1969),
+
+Individuals lacking a sense of parental
+attachment will tend to be anxious and insecure, making later peer attachments and
+committed relationships more problematic
+(Bowlby, 1989). In general, developmental
+pathways of individuals are tied to their attachment experience with the primary caregivers (usually parents) early in life. Negative responses to a lack of secure attachment
+may occur throughout life, especially in
+stressful situations or periods of transition,
+such as adolescence. Indeed, poor parental
+attachment has been associated with a number of unfavorable life events such as problematic parenting later in life (Tayler et al.,
+1995); violence and aggression (Green,
+1996); personality disorders (Fonagy et al.,
+1995); poor love attachment as adults (Pistole,
+1995); promiscuity (Walsh, 1995); low academic achievement (Cutrona et al., 1994); perpetration of sexual abuse (Alexander, 1992);
+and substance abuse (Crittenden, 1995).
+Walsh (1995) finds that, consistent with the
+expectations of attachment theory, the experience of reliable and supportive family relations is associated with a lower susceptibility to drug use involvement. Moreover,
+among all available predictors, Walsh’s
+(1995) results indicate that parental attachment has the most powerful influence on the
+propensity toward drug use.
+
+According to attachment theory’s universality claim, pathological outcomes like
+early substance use onset in response to
+poor parent-child relations should be observed regardless of cultural context since
+the need for intimate attachment in primary
+groups such as the family, as initially argued by Cooley (1962), is said to be culturally invariant. We seek to test empirically
+attachment theory’s claim about cultural
+
+ 
+102
+
+universality in basic psychosocial processes
+like parent-child bonding by comparing different cultural groups in Canada—Natives
+and Non-natives—for the importance of
+family attachment variables for the timing
+of alcohol and drug use initiation. On the
+basis of attachment theory expectations,
+we also predict that individuals experiencing successful attachment with parents
+. during childhood will be less likely to enS gage in deviant or illegal behaviors such as
++ under-age drinking and use of illicit drugs
+‘=than those who failed to experience sucS cessful relations with parents.
+A With the exception of the study by
+&Gfellner and Hundleby (1991) on the drug
+use patterns of a school population of
+youth in Manitoba, no previous research
+has tested explicitly the impact of family
+‘gattachment variables on the risk of sub.fstance use among Canadian Natives or ex.2amined cross-cultural differences in these
+relationships. In addition, although an im° pressive number of recent studies have ex‘gamined familial factors and substance use
+Y outcomes (Smart et al., 1990; Barnes et
+= al., 1986; Blackson and Tarter, 1994; Fox
+—
+croft and Lowe, 1991; Gnichting and Bar
+s ber, 1989; Peterson et al., 1994; Worobec
+get al., 1990; McKenna and Pickens, 1981;
+Latham and Napier, 1992), few have utiF lized large general population or nontreatQ ment samples as we do here.
+
+Available evidence about substance
+misuse and dependency within the Ontario
+Native Canadian population appears to
+parallel what has already been established
+about many Native American groups (e.g.,
+Brown et al., 1992-93; Okwumabua and
+Duryea, 1987; Grobsmith, 1989; Gutierres
+et al., 1991; Hughes and Dodder, 1984;
+May, 1982; Oetting et al., 1989; Beauvais,
+1992; Lujan et al., 1989)}—the presence of
+severe problems for a substantial segment
+
+De Wit et al.
+
+Social Biology
+
+of these populations (Merskey et al., 1988;
+Liban and Smart, 1982). Reports on patterns of substance use among Native adolescents in Manitoba tell us that Native
+youth are more likely than their Nonnative contemporaries to use a variety of
+drugs or to use them with greater intensity
+(Gfellner and Hundleby, 1991).
+
+The importance of our study is
+premised on the need to analyze in more
+depth the determinants of substance use
+among Natives and to distinguish any identifiable features of risk from those of the
+general population. Additional research on
+Canadian Natives’ alcohol and drug use
+patterns and how these might differ from
+those of the general population would help
+to inform the most successful prevention
+and treatment strategies for a group which
+appears to suffer heavily from a variety of
+drug-related health, family, and other social problems (Embree and De Wit, 1997).
+
+Many of the above-cited family influences are thought to involve a genetic component. Behaviors such as child abuse, for
+instance, may be transmitted genetically as
+a proclivity towards aggression or impulsiveness. The potential genetic impact of
+parental substance abuse on offspring’s use
+patterns has been examined in a number of
+studies including those by Bierut et al.
+(1998) and Merikangas et al. (1998). According to Merikangas et al. (1998, p. 973),
+“there is increasing evidence that substance
+use disorders are familial and that genetic
+factors explain a substantial degree of their
+familial aggregation.” The question of
+racially-determined genetic differences in
+susceptibility to drug or alcohol addiction
+appears to be more controversial, with the
+few up-to-date studies dealing specifically
+with North American Indians yielding mixed
+results (e.g., Barthwell, 1995; Wall et al.,
+1996; Garcia-Andrade et al., 1997; Goldman
+Vol. 46, No. 1-2
+
+et al., 1998). More complete answers to
+these questions depend on the availability of
+clinical data and are therefore beyond the
+scope of our study. Instead, we focus on the
+impact of psychosocial influences thought to
+arise from family membership.
+
+MATERIALS AND METHODS
+
+., For comparative purposes, one sample
+—
+
+S consists of a random sample of adults collected from a Native Ontario community
+2 and the other, a random subsample of the
+2 adult population from the 1990-91 OnA tario Mental Health Survey Supplement
+2% (OHSSUP). The data on the Native population are based on a simple random sam0 ple of 876 adults ages 19 and over from a
+3 Native Ontario community with a total
+'¢ household population of approximately
+221,200 (Embree, 1993). One adult respon3 dent was chosen at random from within
+a each household. The overall response rate
+° for the survey was about 72 per cent. The
+‘% questionnaire contains a large number of
+Y items pertaining to substance use beliefs
+5 and practices, as well as a number of questions about the respondent’s family life
+° while growing up. Females account for ap8 proximately 70 per cent of the sample due
+S to higher non-participation rates among
+= males who were more likely to be absent
+A from the home for a variety of reasons.
+Data for the general population were
+obtained from the 1990-91 Ontario Mental Health Survey Supplement (OHSSUP),
+a stratified, multi-stage area probability
+sample of the household population ages
+15 and older. Excluded from this group
+are residents of Native reserves, prison
+inmates, foreign service personnel, and
+residents of remote areas. The original
+sample represents 9,128 persons ages 19
+and older randomly selected from the
+
+Family Attachment Processes
+
+ 
+
+103
+
+household interview portion of the 1990
+Ontario Health Survey (OHS). The final
+response rate for the survey was 76.5 per
+cent. The OHSSUP contains detailed information on patterns of alcohol and
+other substance use as well as a wide
+range of demographic and socioeconomic
+characteristics pertaining to the respondent’s childhood home environment.
+
+To yield more meaningful tests of significance, we applied sample weights to the
+data and rescaled them to equal the actual
+number of cases in the sample. Further adjustment for an overall study design effect
+(DEFF = 2.2)! resulted in a sample size of
+6,154. Of this number, 3,655 cases were
+randomly selected for analysis. This subsample was generated in order to yield
+more similar sample sizes for the two
+groups under study while, at the same time,
+attempting to compensate for the lower relative prevalence of certain behaviors such
+as illicit drug use in the general population.
+Additional descriptive characteristics of the
+two samples are shown in Table 1.
+
+As already noted, the age at which individuals begin consuming either alcohol or
+drugs strongly predicts more serious negative consequences later in life, including
+physical health consequences for the user
+(Soderstrom, 1994; Berman and Atkinson,
+1994) and for unborn children (Conry,
+1990; Harris et al., 1995; Lamanna, 1982;
+May, 1991), as well as a host of interrelated
+social problems, such as disrupted family
+relations, depression, criminal behavior,
+
+'DEFF refers to “Design Effect” which reflects the
+relative magnitude of the standard error of key measures
+obtained with the given sampling design compared to
+the standard error obtained with Simple Random Sampling (SRS), which is considered as a standard. Therefore, DEFF values greater than one signify that the sample variance with the given design is larger than would
+be obtained were SRS sampling employed. This, in
+turn, indicates lower sampling precision relative to SRS.
+
+ 
+
+ 
+ 
+
+104 De Wit et al. Social Biology
+
+TABLE 1
+
+PERCENTAGES? OF NATIVES AND NON-NATIVES WITH SELECTED DEMOGRAPHIC AND
+FAMILY BACKGROUND CHARACTERISTICS
+
+Variable Natives Non-natives
+Age Category
+19-30 YORIS, caosnawen sa ow oy Bea ene cna 30.0 26.0
+S149 YORE cccnssman ee ee ne ee Re 40.0 32.0
+SHO years 2... eee eee eee eens 30.0 39.0
+Sex
+Female ... 0... . ee cece eee ee eect cence 70.0 55.0
+MY Meade ica ttemna ng cg en ng eg ets eaee 30.0 45.0
+So
+“Father's Drug Use
+& Noproblem ............ cece eee eeees 57.0 85.0
+5 Problem ........ 00.0 ccs e cece eee e ees 43.0 15.0
+O
+AMother’s Drug Use
+coo «6Noproblem ............... 0. cee eee eee 83.0 96.0
+© Problem .......... cece cece e eee eens 17.0 4.0
+co
+av.
+cnFather’s Depression
+~ Noproblem ...........0ccceeceeeeeeees 86.0 95.0
+SS Problem ........ 0. cee eceeccee eee eeees 14.0 5.0
+c
+SiMother’s Depression
+S Noproblem ............ ccc ec cece eee ees 76.0 89.0
+S PrObOHS 5 ac ccs oe cs ce te sctwen oa ene ons 24.0 11.0
+Cd
+Quality of Paternal Relations
+2 Poor Relations ............ eee eens eee eee 18.0
+f Good Relations ..............0ceeeeeeee 82.0
+>
+"Quality of Maternal Relations
+=, Poor Relations ........... 00. cece eee eee 10.0
+& Good Relations .................-22208- 90.0
+“BQuality of Parental Relations
+S Poor Relations « vs es va cu wvevans wa ox nw aes mie 17.0
+= Good Relations 2.040200 ceenenecnsnee ces ee 83.0
+5
+Parental Occupation
+Service SSC 254 con4 54 nea pee ees a aes 13.0 8.8
+PROPessiOU cx ces sans os os ve eeene ns eu oe 6.0 12.0
+Farming and Other .............-0---000- 27.0 51.0
+Not Working ..........-. 2 cece cece noes 3.0 0.9
+Blue collar... 00.2.0... cee eee eee eee ees 51.0 27.0
+Separation before Age 16
+Not separated ........... cee eee ee ee eee 62.0 80.0
+Separated ...... 0... ccc ee eee eee eee eee 38.0 20.0
+Sexual Abuse
+INGERUUISED acces oeac ne wane ced aewR we mo 72.0 92.5
+
+Abused ....... cc eee ccc ccc cece cece eee 28.0 75
+Vol. 46, No. 1-2
+
+Family Attachment Processes
+
+105
+
+TABLE 1 (continued)
+
+PERCENTAGES? OF NATIVES AND NON-NATIVES WITH SELECTED DEMOGRAPHIC AND
+FAMILY BACKGROUND CHARACTERISTICS
+
+Variable
+
+Age of Alcohol Use
+Never drank ............ ccc cece eee eeee
+
+pep eae ee tee eee see veer nn eee see ne
+
+=19 years
+
+eee er eee ener seeree ene eet eee ones
+
+SAE O10elo seas aa os names wma we we Be
+
+"Figures may not total 100 percent exactly due to rounding.
+
+mber 2015
+
+® child abuse, and substance abuse disorder
+A (De Wilde et al., 1994; Lee and DiClimente,
+2 1985; Humphrey and Friedman, 1986; Clap2 per, 1992; Yu and Williford, 1994). Patterns
+co of substance use also tend to follow a pre3 dictable course among early initiators, from
+‘g alcohol use tO marijuana use to other more
+.cOdangerous drugs such as cocaine (the so5 called “gateway” theory of drug use pata terns). Thus, early onset of alcohol consump© tion is often seen as a precursor to the use of
+“= Other illegal and more dangerous substances
+© (Yu and Williford, 1992; Blankfield, 1990;
+= Dinwiddie et al., 1992; Kandel et al., 1992).
+Given the strong empirical relationship
+between timing of onset and subsequent
+use patterns, we focus on predictors of the
+age of substance use onset. The dependent
+= variables in the analyses of both the Native
+& and OHSSUP data may be interpreted as
+survival time in years before experiencing
+either first drinking (defined as one full
+glass) or drug use.” Over this interval, indi
+nloaded by [U
+
+The drug use onset measure in the Native sample is
+based on information about the timing of use onset of
+the following: cannabis, barbiturates with and without a
+prescription, heroin, speed, cocaine, stimulants with
+and without a prescription, tranquillizers with and without a prescription, LSD, hallucinogens, and anabolic
+steroids. In the OHSSUP data, the following items are
+included: sedatives, tranquillizers, stimulants, analgesics, non-medicinal inhalants, marijuana or hash, cocaine, LSD, PCP or hallucinogens, and heroin.
+
+Natives Non-natives
+75 75
+8.0 9.0
+
+36.0 40.0
+
+22.0 21.0
+
+26.0 24.0
+876 3,655
+
+viduals may either survive the event up to
+the survey time, in which case they are
+considered censored, or succumb to the
+event before the date of the survey (uncensored cases).
+
+Available background predictors pertaining to early family functioning and attachment include: the experience of sexual
+abuse during childhood; parental depression during childhood; whether the
+mother or father had a drinking or drug
+problem; the perceived closeness of the
+affective relationship with parents while
+growing up; the experience of early
+parental loss through separation or death;
+and the occupational attainment of the parent or guardian while the child was growing up. In particular, reported intimacy in
+parent-child relations is a direct measure
+of successful attachment; collectively, these
+family background attributes may help to
+determine the likely degree of successful
+
+*The Native and Non-native data sets alike measure
+time in discrete units (i.e., years of age) which may result
+in a large percentage of ties. Since most survival models
+are based on the mathematical assumption of continuous
+time (i.e., time measured in small fractional units such as
+days, weeks or months), a large number of ties may lead
+to biased regression coefficients (Blossfeld et al., 1989).
+Relevant research on the question of substance use timing, however, has revealed little difference in the shapes
+of the hazard functions estimated via discrete versus continuous time methods (see De Wit et al., 1997).
+
+ 
+ 
+
+106
+
+psychosocial attachment between parents
+and their children.
+
+The respondent’s age and sex are also
+considered since various studies have observed significant age and sex differences
+in alcohol-related behaviors (Blankfield,
+1990; Cheng and Chen, 1995; York and
+Welte, 1994). Age at the survey data is included as a covariate in our analysis to as
+wsess possible cohort differences in the risk
+sof substance use onset. The analysis of
+drug use timing examines the specific imact of alcohol consumption onset in addiSion to the other covariates just noted. In
+Gorder not to confound cause with effect,
+“the necessary assumption made here is
+that the initiation of drinking, as discussed
+above, operates as a “gateway” or precur<sor to subsequent use of other substances.‘
+Ss For both samples, covariates selected
+for the hazard analyses of alcohol and
+.Alrug use onset are measured as follows:
+“Age at the date of data collection is
+grouped according to the age categories
+‘al9-30, 31-49, and 50 or older, with the
+Soldest group serving as the comparison or
+reference group. Parental occupation dur“ing the respondent’s childhood is grouped
+“according to “professional,” “service sector
+pr small business,” “farming or other occuations,” “blue collar” (the reference catesory), and “unemployed.” In addition, the
+Amodel of drug use onset examines the influence of timing of alcohol use onset. With
+this variable, the relevant categories are
+“never drank,” started “before age 13,” “between 13 and 16,’ “between 17 and 18,”
+and “19 or older” (the reference group).
+
+“Since peer risk variables such as tobacco and alcohol use are not available from the Native data set and
+are only measured as of the survey date in the OHSSUP
+data, they are not included as possible predictors of
+substance use timing.
+
+De Wit et al.
+
+Social Biology
+
+Among the Native sample, quality of
+affective relations with mother and father
+while growing up are measured separately,
+with those not enjoying close relations
+serving as the reference.’ In the OHSSUP
+sample, relationship with parents is also a
+dichotomous variable measuring perceived
+closeness between parents and child while
+the respondent was growing up; those not
+enjoying close relations serve as the reference category. With the OHSSUP measure,
+unfortunately, no distinctions can be made
+between quality of the child’s relationships
+with the mother and the father since the
+question from this survey referred to parents collectively. This combining of mother
+and father is unfortunate since, as Rutter
+(1995) points out, most people will have
+more than one attachment figure in their
+lives and their relationship with each can be
+quite different. Moreover, the original survey question (“Did you have a close relationship with your parents while growing
+up?”) was measured according to two pos
+*In the Native sample, the childhood attachment
+measure is comprised of six items designed to tap the
+degree of emotional warmth, intimacy, affection, communication, support and understanding that respondents
+perceived themselves as receiving from their parents as
+children. Each item consists of five ordinal-level categories ranging from ‘never’ to ‘almost always’. Parental
+attachment items in the Native questionnaire, measured
+separately for relations with mothers and fathers, were
+as follows: Thinking back over your relationship with
+your mother/mother substitute or father/father substitute, how much of the time did s/he:
+
+. Speak to you with a warm and friendly voice?
+. seem emotionally cold to you?
+
+. Show affection toward you?
+
+. enjoy talking things over with you?
+
+. make you feel you weren’t wanted?
+
+. seem to understand your problems or worries?
+
+Each of these items is summed and the resulting
+scale (Cronbach’s Alpha reliability coefficients of 0.88
+and 0.89 for the mother and father series questions, respectively) is dichotomized according to positive versus
+negative affective relations with each parent while
+growing up (i.e., never, almost never or sometimes experiencing positive interactions versus very often or almost always enjoying such relations).
+
+Atak won =
+Vol. 46, No. 1-2
+
+sible outcomes, necessitating the reduction
+in the number of categories on the Native
+survey measures. Apart from this one discrepancy, the measures employed in the
+two data sets are operationalized in a very
+similar or identical manner.
+
+Mother’s and father’s substance abuse
+and depression are dichotomous variables,
+with those not reporting a history serving as
+
+the reference group. Sexual abuse is meaSsured at the nominal level according to
++ whether the respondent was ever abused sex‘gually as a child. Those not experiencing
+Sabuse of this nature serve as the reference
+Acategory.’ Separation status refers to whether
+the respondent was separated from either
+“of his or her parents prior to age 16. In
+“both samples, those not experiencing a
+separation serve as the reference group.
+
+ichigan]
+
+‘Although it is possible to distinguish the relationS ship of the perpetrator to the victim in both the Native
+5 and non-Native data sets, the primary measure of abuse
+>used in the present analyses does not differentiate.
+“= Given very small numbers reporting childhood victim< ization in the general population sample and especially
+‘Einvolving a family perpetrator, combined with the ma© jor sex imbalance in reported levels (over 80 per cent of
+— victims are female), further refinements of the abuse
+>measure proved unfeasible. It may nevertheless be argued reasonably that, in any event, the occurrence of
+® sexual abuse reflects certain general conditions and
+w characteristics of the child’s home environment, such as
+-L low parental competence or lack of proper child supervision (see, for example, Hernandez, 1992; Mian et al.,
+© 1994; Lujan et al., 1989).
+In the OHSSUP survey, sexual victimization refers
+to the following events during childhood:
+a. whether anyone had ever exposed him/herself to
+the respondent;
+b. whether anyone had ever threatened to have sex
+with the respondent;
+c. whether anyone had ever fondled the respondent’s sex parts; and,
+d. whether anyone had ever tried to have sex with
+or had sexually attacked the respondent.
+In the Native survey, sexual victimization refers to
+the following items:
+a. whether, as a child, the respondent had ever
+been sexually approached by a non-family person; and,
+b. whether, as a child, the respondent had ever
+been sexually touched or fondled by a family member.
+
+Family Attachment Processes
+
+107
+
+Sex is measured at the nominal level, with
+females as the reference category.
+
+The Proportional Hazards model (Cox,
+1972) combines multiple regression with
+life table techniques. This technique is appropriate in overcoming the problems of
+censoring, which is common in event history analyses and due to the truncation of
+observations at the survey date. For example, in the analyses of drug use onset,
+only 10 per cent of respondents in the
+OHSSUP sample reported substance use
+by the time of the survey, whereas about
+40 per cent in the Native group report
+prior drug use. Life table techniques can
+handle this data truncation by combining
+the experience of those who have undergone the event of interest with those who
+have not, in the calculation of (corrected)
+survival probabilities.’ In contrast, with
+more static techniques such as linear regression which are suitable for determining the structure (i.e., relevant predictors)
+of an event, hazards modeling is ideal for
+
+7Two important assumptions, however, must be made
+by event-history models in overcoming the problem of
+censoring. First, it is assumed that all cases eventually experience the event of interest, whether by the survey date
+or at some future time. Second, censoring is assumed to
+occur randomly over the interval such that censored cases
+are considered to be at risk of initiating use half way
+through the interval. A probability of experiencing drug or
+alcohol use is then calculated for each case at various durations. The denominator of these conditional probabilities includes both censored and uncensored cases who are
+at risk of substance use onset during the interval. The numerator consists of the actual number of cases experiencing onset. Since the Proportional Hazards procedure
+makes full use of all censored cases, individuals who are
+censored or lost to analysis by the survey date are assumed to experience the same risk of substance use as
+others at the mid-interval of survival time. It should be apparent that, with the very large proportions censored in the
+drug use analysis, particularly with the OHSSUP data, the
+assumption that all individuals eventually experience the
+event of interest may be problematic. Nevertheless, given
+clear-cut evidence from the present study for increased incidence of substance use among younger cohorts relative
+to older ones, this assumption may be less problematic
+among younger than older age groups.
+
+ 
+
+ 
+ 
+
+ 
+
+108
+
+studying the process (timing) of an event
+such as substance use onset.
+
+To identify trends in drinking and drug
+use onset, we first estimated proportions
+experiencing the events of interest classified by the given demographic and family
+background characteristics. The Proportional Hazards modeling technique (Cox,
+1972) was then applied to the data in or
+. der to determine the impact of family atS tachment on the rate at which both Natives and Non-natives experience drinking
+"gor drug use onset. The application of this
+2 procedure yields estimates of the magniAtude and direction of effects on timing of
+2a given level of the independent variable
+cas well as the relative risk of undergoing
+cothe transition of interest associated with a
+particular demographic or family charac‘gteristic. Different levels of risk, higher or
+lower, imply differences in timing, either
+.Yearlier or later, compared to that for an es= tablished reference group.
+
+For k time-constant variables, Cox’s
+Proportional Hazards model is as follows:
+
+h
+
+f
+
+rsity o
+
+1ve
+
+logh(t)=a(t)+ b,x, + bx, + ... by,
+
+y [Un
+
+where a(t) can be any function of time.
+Formally, “for any time ¢ h{t/n{t) =c¢
+where i and j refer to distinct individuals
+= and c may depend on explanatory variables
+Abut not on time” (Allison, 1984, p. 34).*
+
+nloaded b
+
+*For further information on the estimation procedure involved, see Allison (1984) and Kalbfleisch and
+Prentice (1980). In unstandardized form, the coefficients mean that a unit change in the level of the covariate involves a given change (either positive or negative)
+in the hazard, controlling for other variables in the
+equation. Exponentiating the coefficients in order to fix
+the baseline or reference category to one, coefficients
+less than one work to decelerate the timing of the event
+or the failure time by a given factor, while coefficients
+greater than one are interpreted as having an accelerating effect on timing. These antilogged parameter estimates, therefore, yield numerical multipliers of risk per
+
+De Wit et al.
+
+Social Biology
+
+RESULTS
+
+Concerning descriptive characteristics
+associated with alcohol and drug use onset and consumption, Non-natives’ use
+patterns are as follows: median survival
+times (corrected for censoring) are 17
+years for alcohol use and 35 for drug use.
+Only 7.5 per cent of this group have
+never used alcohol by the survey date
+whereas almost 91 per cent are censored
+with respect to drug use. Given the especially heavy censoring of drug use for the
+Non-native group, interpretations of “failure” or “survival” times, estimated on the
+basis of uncensored cases, should be
+treated with caution.’ Nine per cent of
+this sample began drinking before the age
+of 13; almost 40 per cent, between the
+ages of 13 and 16; 21 per cent, between
+the ages of 17 and 18. About 24 per cent
+delayed drinking until at least age 19, the
+current minimum legal drinking age in
+Ontario.
+
+For the Native group, comparable corrected median survival times with respect
+to alcohol consumption are 17 years and
+to drug use, 32 years. Only about 7.5 percent of this group have never used alcohol by the survey date whereas 60 per
+cent are censored by the survey with respect to drug use. Eight per cent began
+
+unit difference in the predictor (Singer and Willett,
+1991). With dummy variables, the exponentiated coefficient gives the relative hazard for the groups corresponding to values of the dummy variable, controlling
+for other predictors.
+
+*The necessary assumption (explained in Note 7)
+that all individuals eventually experience the event of
+interest is certainly unrealistic in the case of behaviors
+such as drug use onset, the result being that survival
+times are significantly biased upward; nevertheless,
+these estimates still allow us to make valid comparisons
+of the relative timing of initiation for Natives and Nonnatives. From this evidence, it is apparent that Natives’
+onset of drug use is earlier (by 3 years) than that of the
+general population.
+
+ 
+ 
+
+Vol. 46, No. 1-2
+
+drinking before the age of 13; 36 per
+cent, between the ages of 13 and 16; 22
+per cent, between the ages of 17 and 18;
+and about 26 percent delayed drinking
+until at least age 19."°
+The uncorrected estimates provide information on patterns of onset for initiators alone and are not, therefore, susceptible to the influence of censoring. Further
+in analyses of the subset of Native and Non= Native initiators of substance use reveal
+“some important similarities and differSences between the two cultural groups:
+© First, from among the 92.5 per cent in
+A each group reporting prior alcohol use, 72
+26 per cent of Natives and Non-natives alike
+coreport doing so before reaching age 19.
+0 By contrast, differences between the two
+= groups appear much more conspicuous
+"e'with respect to patterns of illicit drug use.
+SoNearly 74 per cent of Natives initiating
+5 drug use have done so prior to age 19;
+2 this figure compares with about 66 per
+Ocent of Non-native initiators. Based on
+z suggestions from previous literature (e.g.,
+© Okwumabua and Duryea, 1987), the rela‘Etive youth of Native Indian drug users
+—may be indicative of faster progression
+and more severe patterns of use later on
+in life.
+© Table 2 presents numbers and percentF ages of Natives and Non-natives experiS encing alcohol and drug use onset, classified by the various demographic and
+family functioning or attachment characteristics. The most notable features of this
+preliminary analysis are as follows: Age
+
+ded
+
+Dow
+
+‘Some caution is due regarding the accuracy of this
+sample in view of the high rate of nonparticipation
+among Native males in particular. The generalizability
+of this sample to other Native communities may also be
+limited by the diverse geographical and cultural experiences of reserve residents. For further information
+about the survey and sampling procedures, see Embree
+(1993).
+
+Family Attachment Processes
+
+109
+
+appears to be associated inversely with
+substance use onset, and particularly with
+illicit drug use among Natives where we
+observe that nearly 75 per cent aged 19 to
+30 (compared to 20 per cent of Non-natives of the same ages) have started taking drugs. Males also have substantially
+higher rates of initiation of substance use,
+with the male-female disparity being particularly noticeable with patterns of illicit
+drug use, Substantially higher proportions
+of drug users are found among both sexes
+in the Native sample: Fifty-seven per cent
+of Native males and 34 per cent of Native
+females report drug use onset, as compared to about 13 and 7 per cents for
+Non-native males and females respectively. In the model of drug use onset, the
+age at which alcohol use begins appears
+to be linearly related to use of drugs; the
+impact of this effect seems particularly
+strong among Native Indians where only
+12 per cent of life-time alcohol abstainers
+report initiation of illicit drug use, compared to 85 per cent of those who started
+drinking before age 13.
+
+As for family-functioning attributes,
+parental substance abuse appears to be associated with onset for both Natives and
+Non-natives, and especially so for illicit
+substance use. Higher proportions of initiators of substance use are also associated with parental mental depression.
+Concerning parental occupation, the
+highest rates of illicit substance use are
+found among those with professional
+background status, regardless of cultural
+status. Differences in proportions initiating alcohol use according to parental occupation appear to be negligible. Early
+separation from parents appears to be a
+salient predictor of illicit substance use
+initiation for both cultural groups. Among
+both Natives and Non-natives, childhood
+
+ 
+110 De Wit et al. Social Biology
+
+TABLE 2
+
+NUMBERS AND PERCENTAGES OF NATIVES AND NON-NATIVES INITIATING ALCOHOL AND DRUG USE BY
+SELECTED DEMOGRAPHIC AND FAMILY BACKGROUND CHARACTERISTICS
+
+ALCOHOL Use ONSET DruG Use ONSET
+Natives Non-natives Natives Non-natives
+VARIABLE No. % No. % No. % No. %
+Age Category
+
+19-30 years ............. 250 96.5 902 95.9 195 74.4 162 19.5
+31-49 years ............. 323 94.2 1235 93.9 136 38.6 134 10.1
+S2SU YEAS. oc ewan ee ue wes 210 85.4 1334 90.1 18 Tie 31 2.0
+
+‘0 Sex
+S Female ............-05- 546 90.7 1,757 90.0 208 34.2 148 7.1
+
+~ Male ........-...0.005. 240 96.4 1,554 96.6 144 57.1 179 12.6
+
+Oo
+Oo
+
+& Father’s Drug Use.
+
+3 No problem os esce vs csaws 344 89.1 2,769 92.3 121 30.9 237 8.5
+A Problem .......-........ 286 97.3 542 98.2 162 54.5 90 18.0
+oo
+© Mother’s Drug Use
+2 Noproblem............. 603 92.3 3,164 92.9 253 38.3 298 9.6
+9 Problem ................ 123 93.9 147 99.6 69 $2.7 29 15.3
+S Father's Depression
+
+& Noproblem............. 446 92.1 3,134 92.9 178 36.3 296 93
+50 Problem «26 s00s wweesew as 74 96.1 177 98.6 41 52.6 31 19.2
+&
+
+9
+S = Mother’s Depression
+4, Noproblem............. 476 92.1 2,940 92.9 189 36.2 276 9.3
+
+o Problentts vs cases coca as we 155 95.1 371 94.9 89 54.6 51 14.1
+
+2 Quality of Paternal Relations
+
+S Poor Relations........... 142 94.0 vee ee = 85 55.6
+5 Good Relations .......... 653 92.1 sus gee «O20 SB
+
+>Quality of Maternal Relations
+S PoorRelations........... 8390.2 ee eee 38 40.9
+8 Good Relations .......... 712 92.7 wee eee) SIT 40.9
+
+3
+= Quality of Parental Relations
+
+= PoorRelations........... ee wae 583 95.6 a ee 75 12.2
+& Good Relations .......... vee eee 2,726 92.6 vee eee 252 9.4
+
+Parental Occupation
+Service Sector ........... 88 90.7 293 95.8 51 51.0 38 12.5
+Professional ............ 44 = 100.0 417 95.6 25 55.6 57 13.2
+Farming and Other ....... 181 83.4 1,630 91.0 46 21.1 134 7.5
+Not Working ............ 26 ~=100.0 20 ~=100.0 10 37.0 z 10.0
+Blue collar.............. 388 96.3 914 95.8 193 47.3 92 9.8
+Separation before Age 16
+Not separated ........... 487 92.1 2,654 93.1 208 38.8 252 9.5
+Separated ............4. 298 93.1 657 93.4 143 44.4 75 10.9
+Sexual Abuse
+Not abused ............. 466 91.2 2,862 93.4 193 37.3 283 9.8
+
+ABUSED 2 cewes ce os wane as 202 97.1 238 SG 116 55.2 34 15.7
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+Vol. 46, No. 1-2
+
+Family Attachment Processes
+
+ 
+
+111
+
+TABLE 2 continued
+
+NUMBERS AND PERCENTAGES OF NATIVES AND NON-NATIVES INITIATING ALCOHOL AND DRUG USE BY
+SELECTED DEMOGRAPHIC AND FAMILY BACKGROUND CHARACTERISTICS
+
+ALCOHOL Use ONSET Druc UsE ONSET
+Natives Non-natives Natives Non-natives
+VARIABLE No. % No. % No, % No. %
+Age of Alcohol Use
+Never drank ............. 8 12.3 4 2.9
+135 YOON «acy cu ou pe wees 62 84.9 65 19.5
+1316 Years os ce as caus vs 190 60.9 182 12.2
+TE-18 Years a cswas emes as 67 34.7 46 6.4
+219 years .............. a u28 28 12.4 30 74
+Sample Size .............. 876 3,655 876 3,655
+Number Initiating
+Substance Use ........... 795 3,381 355 343
+Percent Initiating
+Substance Use ........... 92.0 94.0 38.5 10.0
+
+sexual victimization also appears to be
+associated with substance use initiation
+and illicit substance use in particular.
+Poor parent-child affective relations as
+well appear to relate to onset. Among Natives, positive paternal relations seem to
+correlate with lower rates of illicit substance use onset in that over 55 per cent
+of those reporting poor relations with
+their father while growing up have also
+initiated illicit drug use, in contrast with
+about 38 percent of respondents reporting
+satisfactory relations. With Non-natives,
+a similar pattern of results is evident with
+the combined parental-relations measure.
+Twelve per cent of subjects having poor
+parental relations also report taking
+drugs, as compared to about 9 per cent of
+the group enjoying good parental relations.
+
+Table 3 gives the relative risks of
+drinking and drug use onset, respectively,
+for both Natives and Non-natives. We observe that a number of factors are significant in affecting the rate at which both
+Natives and Non-natives experience substance use onset. Looking first at the
+OHSSUP results on drinking onset, age
+
+cohort exerts the strongest impact on the
+risk, with those in the youngest age group
+being at 2.25 times (p = 0.001) the risk
+of early onset compared to the reference
+group; in a similar manner, those ages 31
+to 49 at the survey date are at 1.39 times
+(p = 0.001) the risk of those in the reference group.
+
+Father’s drug and/or alcohol problem
+achieves statistical significance at p =
+0.05 and indicates a 14 per cent increase
+in risk over those not experiencing this
+problem while growing up. The impact of
+mother’s substance use problem is more
+conspicuous, with those reporting a problem being at 61 per cent (p = 0.001)
+greater risk of early onset compared to
+the reference group. Father’s depression
+(but not mother’s) increases the risk significantly as well, by approximately 30
+per cent (p = 0.05). Parental occupation
+proves to be a significant predictor as
+well. Service sector and small business
+backgrounds reduce the risk significantly
+by 19 per cent (p = 0.05) compared to
+blue collar occupations. Unemployment
+appears to increase the risk substantially
+(by 28 per cent) but not significantly so,
+
+ 
+112 De Wit et al. Social Biology
+
+TABLE 3
+
+MULTIVARIATE PROPORTIONAL HAZARDS ANALYSES (RELATIVE RISKS) OF NATIVES’ AND NON-NATIVES’
+ALCOHOL AND DruG USE ONSET BY SELECTED DEMOGRAPHIC AND FAMILY BACKGROUND CHARACTERISTICS
+
+ALCOHOL USE ONSET Druc Use ONSET
+VARIABLE Natives Non-natives Natives Non-natives
+Age Category
+19-30 years ..... cece eee eee ees 2.58? 2.25° 13.05° 19.43°
+31-49 years 2.00... eee eee eee 1.79° 1.39% 3.28¢ 6.44
+S50 VOSS" . 255 6.08 20 be od be ree 8S 1.00 1.00 1,00 1.00
+Sex
+‘O Female? ......... 000 cece eee eee 1.00 1.00 1.00 1.00
+SS) MAS. on os anc an an ne ox aacns an ene 1.46¢ 1.66° 1.494 1.70?
+an
+OFather’s Drug Use
+5 No problem? ...............20000- 1.00 1.00 1.00 1.00
+Q Problem ........-.-. sees ee ee eee 1.39¢ 1.144 1.17 1.60°
+A
+coMother’s Dug Use
+S Noproblem’.............0eeeeee 1.00 1.00 1.00 1.00
+me Prowlemt vsng.00 cn 0w coowseags a5 ane 0.98 1.61° 1.81¢ 1.51
+cn
+Father's Depression
+— Noproblem?.................0085 1.00 1.00 1.00 1.00
+EB Problem, c4aeae vs sssaeaeseas paces 1.10 1.304 0. 90 1.99¢°
+a
+‘= Mother’ s Depression .
+No problem? ..............0 eee eee 1.00 1.00 1.00 1.00
+4 Problem .......-.0+ceceecerceees 0.99 1.11 1.53 1.31
+Zouality of Paternal Relations
+e Poor Relations? «4 csscscsss08 ox cx 1.00 ams 1.00
+P Good Relations ..o.sssscswesna wes 0.89 me 0.58°
+S
+= Quality of Maternal Relations
+& Poor Relations? ...............65+ 1.00 “ne 1.00
+~y Good Relations ...............6-. 0.67 San 0.60
+Oo
+oT
+SQuality of Parental Relations
+™ PoorRelations® ...............--. aoe 1.00 eas 1.00
+5 Good Relations ................4- a 0.98 _ 0.704
+A
+Parental Occupation
+Service Sector ...........0eeceeee 0.87 0.81¢ 0.94 2.12?
+Professional .............00-0006: 0.87 0.92 1.01 1.39
+Farming and Other .............4.. 0.56? 0.91 0.63 0.88
+Not Working ...........2002eeeee 0.74 1.28 1.55 0.93
+Blow olla an oo on nee cases wo 1.00 1.00 1.00 1,00
+Separation before Age 16
+Not Separated? ................-55 1.00 1.00 1.00 1.00
+Sepataled .accs os on cane nema nw ane LJ2 0.99 0.97 0.94
+Sexual Abuse
+Not Abused? ........... 00.00 c eee 1.00 1.00 1.00 1.00
+
+Abused ..........ccccceeceeecnes 1.54¢ 1.11 1.474 1.724
+
+ 
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+ 
+
+Vol. 46, No. 1-2
+
+TABLE 3 continued
+
+Family Attachment Processes
+
+ 
+
+MULTIVARIATE PROPORTIONAL HAZARDS ANALYSES (RELATIVE RISKS) OF NATIVES’ AND NON-NATIVES’
+
+ALCOHOL AND DRUG USE ONSET BY SELECTED DEMOGRAPHIC AND FAMILY BACKGROUND CHARACTERISTICS
+
+ALCOHOL USE ONSET Druc Use Onset
+
+VARIABLE Natives Non-natives Natives Non-natives
+
+Age of Alcohol Use
+
+Never Drank ............-.-..2000- 2.77 0.44
+
+< U3 years oo... eee eee cece ee 10.64° 1.884
+
+13-16 years ........ eee eee eee eee 6.07° 1.01
+
+17-18 years ... 6. ccc cece eee es 4.08° 0.63
+
+= 19 years? ... cee eee ees 1.00 1.00
+Sample Size .. 0... .. cece eee eee 39] 3,268 397 3,241
+Percent Censored ............-. 0000. Tee 6.4 61.5 90.3
+Global x? oo... cece cece eee eee 136.49° 368.00° 286.31° 297.63"
+
+(df
+
+= 15) (df = 14) (df = 19) (df = 18)
+
+Nore: Final sample sizes based on list-wise deletion of missing cases.
+
+“Reference category for the variable.
+by = 0.001.
+
+‘p= 0.01,
+
+dy = 0.05.
+
+possibly due to too few cases. Sex also
+influences the risk, with males being 66
+per cent (p = 0.001) more likely to begin
+drinking. None of the other variables in
+the model appear to exert a significant effect on timing of alcohol use, including
+sexual abuse, although the obtained coefficient indicates the expected direction of
+effect (i.e., 11 per cent greater risk for
+those victimized). Overall, the model is
+statistically significant at p = 0.001 (~
+= 368.00, df = 14).
+
+Turning to the results on Natives’ alcohol use onset, we observe the following. Age cohort has the largest impact on
+the risk of alcohol use onset, with those
+in the 19 to 30 age category 2.58 times (p
+= 0.001) more likely to begin drinking
+than those in the oldest age category.
+Those in the middle category, ages 31 to
+49, have an increased risk of almost 80
+per cent (p = 0.001) compared to their
+elder counterparts. The results for Natives and Non-natives alike suggest
+
+ 
+
+strongly that the risk of initiating alcohol
+use among young people is increasing in
+a dramatic and linear fashion. Sex is also
+an important predictor, with males at 46
+per cent higher likelihood of initiating
+drinking than females (p = 0.01).
+
+From among the family characteristics,
+father’s substance use problem is associated with a 39 per cent increase in risk
+(p = 0.01); quality of maternal relations
+corresponds with a 33 per cent reduction
+in risk but does not quite achieve statistical significance at the conventional minimum probability level of p = 0.05 (p =
+0.07). Parental occupation is also important to the risk, with those from a predominantly farming background at 44 per cent
+lower risk than those from blue-collar
+backgrounds (p = 0.001). As for the effects of childhood sexual abuse, it is apparent that victimization has a positive
+impact on the risk. Those reporting abuse
+are found to be at 54 per cent greater risk
+of early onset alcohol use than their
+
+ 
+ 
+
+114
+
+nonabused counterparts (p = 0.01). The
+overall model is statistically significant at
+p = 0.001 (@? = 136.49, df = 15).
+The models of drug use timing shown
+in Table 3 also reveal some interesting
+patterns of results. Considering first the
+general population results, as with the
+models of drinking onset for both cultural
+groups, age cohort has by far the largest
+impact on the risk of drug use onset. In
+othe case of drug use, however, the effect
+is much more dramatic. For instance,
+those in the youngest survey-date cohort
+ages 19 to 30) are found to be almost 20
+Atimes (p = 0.001) more likely to begin
+drug use compared to the reference group
+consisting of those in the oldest group,
+cnages 50 or older; those in the middle age
+group (ages 31 to 49) are over six times
+‘s(p = 0.001) more likely to initiate drug
+€se than their older counterparts. The
+-Omeasure of alcohol use onset provides evZidence that earlier use of alcohol among
+SNon-natives is associated with the use of
+‘;other drugs. Specifically, individuals who
+Obegan drinking prior to age 13 are 88 per
+Ecent more likely (p = 0.05) to use other
+—substances than are those waiting until
+<after age 19 (the legal drinking age) to
+-Sbegin drinking.
+© As for family characteristics, father’s
+Sdrug and/or alcohol problem (but not
+Amother’s, although the coefficient is positive as expected) is also influential.
+Specifically, the risk of initiating drug use
+is increased by 60 per cent (p = 0.01)
+among those with a history of paternal
+substance abuse. Father’s depression (but
+not mother’s) during childhood also has a
+similar but stronger effect on the risk, elevating it by 100 per cent (p = 0.01). The
+experience of sexual abuse during childhood increases the risk by 72 per cent (p
+= 0.05). From among the categories of
+
+De Wit et al.
+
+ 
+
+ 
+
+Social Biology
+
+parental occupation, only the “service
+sector and small business” group appears
+to be at significantly different risk of drug
+use (2.12 times greater) compared to the
+blue collar category (p = 0.001). Possibly, this result for white-collar-type occupations is explained by the fact that use
+of many kinds of illicit drugs requires
+greater financial resources than may be
+enjoyed by those from blue collar backgrounds (note that the coefficient for the
+professional group is also positive, although the sample size may be too small
+to enable detection of a significant effect). Positive parental affective relations
+reduces the risk by 30 per cent (p =
+0.05). Males are found to be at 70 per
+cent greater risk of drug use onset than
+females (p = 0.001). Overall, the model
+achieves statistical significance at p =
+0.001, with x2 = 297.63, df = 18.
+Turning to the Native sample, as was
+true for both Natives’ and Non-natives’ alcohol use, we find that age cohort has a
+large and significant impact on the timing
+of drug use onset. The youngest group,
+ages 19 to 30 at the survey date, are 13
+times more likely to begin drug use than
+members of the oldest cohort, ages 50 and
+older (p = 0.001). The middle age category is also at greater risk, specifically
+3.28 times greater, compared to the reference group (p = 0.01). According to the
+results, the risk of drug use onset for both
+Natives and Non-natives is clearly increasing over time. Despite apparent risk
+increases over time for the various age
+groups of respondents from both cultural
+groups, the possibility cannot be ruled out
+that the accuracy in recalling early life
+events like substance use initiation may
+also vary somewhat according to age. In
+addition, changes in availability over time
+due to either supply or demand factors reVol. 46, No. 1-2
+
+lated to changing socioeconomic, legal or
+political circumstances could also be operative. A further possibility is that observed age cohort effects for both cultural
+groups are explainable, in part, by unmeasured peer influences. Our results appear consistent with Harris’ (1995)
+“group socialization theory” postulating
+that children’s peer groups may be increasingly influential as socializing
+= agents in urban societies. Timing of alcohol use Onset exerts a powerful systemBatic influence on the risk of drug use,
+9 with the earliest group of drinkers (i.e.,
+A before age 13) at 10.64 times the risk (p
+2% = 0.001) of the reference group of late
+ce onset drinkers (i.e., ages 19 or older);
+cothose in the 13 to 16 age group at six
+times the risk (p = 0.001); and those in
+‘g the 17 to 18 age category at four times
+Sthe risk (p = 0.001).
+'2 Among available family indicators,
+= mother’s depression increases the risk by
+53 per cent and comes very close to
+“sachieving significance at p = 0.07.
+© Mother’s drug and/or alcohol abuse in‘= creases the risk by 81 per cent (p = 0.05).
+> Quality of paternal relations reduces the
+= S risk of drug use by 42 per cent (p = 0.01);
+8 positive maternal relations reduce the risk
+by 40 per cent, but not significantly so.
+5 Farming and other occupational back& ground lowers the risk by 37 per cent and
+almost achieves significance at p = 0.07.
+Unemployment, as well, appears to have
+the expected positive effect on the risk (55
+per cent increase), but is not statistically
+significant. Males are observed to be at 51
+per cent greater risk than females (p =
+0.05), whereas the experience of sexual
+abuse during childhood elevates the risk of
+drug use by 47 per cent (p = 0.05). The
+model is statistically significant at p =
+0.001 (x7 = 286.31, df = 19).
+
+Family Attachment Processes 115
+
+DISCUSSION AND CONCLUSIONS
+
+The above findings need to be interpreted in light of certain methodological
+limitations. First, since the data are primarily retrospective, they preclude
+prospective evaluations of causal relationships between childhood family experiences and onset of alcohol or other drug
+use. Other literature, nevertheless, offers
+strong support for the use of retrospective
+reports of early childhood events, downplaying the common criticisms of bias and
+distortion in recall (Brewin et al., 1993;
+Lopez, 1996; Anderson and Stevens,
+1993; Blatt and Homann, 1992).
+
+A further concern is the possible influence of “uncontrolled heterogeneity.” Population heterogeneity refers to the differentiation of a population according to a variety
+of biological, socioeconomic, or demographic characteristics. Unfortunately, not
+all of these attributes are readily observable
+or measurable for the purpose of including
+all relevant variables in the model. A good
+example of such effects would be peer associations which cannot be readily measured retrospectively among adult samples.
+Because such variables cannot be incorporated in any satisfactory way, they are referred to as uncontrolled heterogeneity."
+
+In addition to these general methodological concerns is the issue of comparability of results from the two data sets.
+It is commonly observed that Natives
+throughout North America have suffered
+heavily from social problems such as
+family violence and child neglect, suicide,
+
+"Although efforts have been made to develop statistical models which attempt to control for this possible
+“unobserved heterogeneity” (for example, Yamaguchi,
+1986), the use of such controls is considered controversial and involves untested mathematical assumptions
+about the distribution of the unmeasured effects (Vuchinich et al., 1991).
+
+ 
+
+ 
+ 
+
+116
+
+and drug and alcohol abuse (Durst, 1991;
+Kirmayer, 1994; Morrissette, 1994;
+Niezen, 1993). The observed smaller
+prevalence estimates in the OHSSUP sample compared to the Native group for drug
+use onset in particular (10 per cent versus
+almost 40 per cent respectively) suggest
+that comparisons about patterns of drug
+use should be drawn tentatively. Despite
+_,the robustness of the model, extremely
+<= heavy censoring means that estimates may
+be unstable since probabilities will be cal-Sculated on the basis of too few cases.
+The primary goal of this study has
+A been to test empirically the validity and
+cultural generalizability of attachment
+eetheory in predicting alcohol and illicit
+cosubstance use onset among Natives and
+Non-natives in Canada. We find that a
+“gnumber of features of the family environcoment may entail significant protective
+5 and risk effects in the timing of substance
+use onset. Since the data do not allow for
+San explicit test of the “nature versus nur“ature” question, we cannot rule out explaSnations involving genetic mechanisms of
+© personality development and behavior.
+> While the impact of the various family
+attachment and functioning measures appears to depend, in part, on which type of
+substance and which cultural group is unEder consideration, the results do point to
+Athe salience of the early family environment in affecting the risk and timing of
+drug and alcohol use onset. Oetting et al.
+(1989) suggest that drug use among Native
+American youth relative to Nonnative youth may be more heavily influenced by family associations due to the
+more isolated living conditions on many
+Native reserves which have the effect of
+limiting youths’ access to friends. Although the findings do not suggest such
+differences insofar as family variables ap
+cembde
+
+De Wit et al.
+
+Social Biology
+
+pear to be similarly important in both cultural contexts, the explicit incorporation of
+peer-attachment measures in future models
+would certainly improve our understanding
+of the relative importance of family versus
+nonfamily associations; such models
+would also provide a more complete test of
+the net impact of family contextual factors.
+
+Our results also suggest some important patterns of differences between Native reserve residents and the larger population, namely, that initiation of drinking
+is a much more important indicator of the
+onset of use of other substances among
+Natives than among Non-natives. The
+timing of substance use progression patterns may indeed be shifting, as suggested by Golub and Johnson (1994),”
+such that alcohol use is no longer a necessary precursor to the use of more serious substances. However, Native communities may lag behind the general trends
+in drug use behaviors exhibited by the
+larger society in a manner analogous to
+the long-standing differentials in patterns
+of morbidity and mortality between the
+two populations. As Natives’ and Nonnatives’ patterns of health and illness converge with Natives’ achievement of the socalled “epidemiological transition” (Omran,
+1971), the influence of early-onset drinking on the timing of drug use initiation
+
+"Golub and Johnson (1994) argue that the timing of
+the substance use progression pattern might be shifting.
+Whereas the typical pattern in the past has been from alcohol use to marijuana use to more serious substances,
+findings from a sample of serious drug abusers indicate
+that alcohol use is not a prerequisite for marijuana use,
+but marijuana use almost always preceded the use of serious substances such as cocaine, crack and heroin. This
+same research maintains that early onset of substance
+use is a major predictor of later drug usage, but that the
+importance of alcohol as a precursor to marijuana use
+may have declined due to the relative increase in the
+prevalence of marijuana use since the 1960’s as well
+as the increased acceptance of alcohol consumption in
+present-day society.
+ 
+
+Vol. 46, No. 1-2
+
+may also diminish. Whether this change in
+turn implies ultimately a change in the
+overall risk of drug use onset for future cohorts of Native youth remains to be seen.
+The evidence obtained here indicates that
+prevention of early alcohol consumption is
+more important in combating illicit drug
+use onset for Natives than Non-natives.
+This information would seem to be particcn ularly important in view of the observed
+= large (absolute and relative) proportions
+‘ initiating drug use in the present sample of
+© Canadian Natives (almost 40 per cent of
+© Natives compared to only 10 per cent of
+A Non-natives). Parallel findings on Native
+20 versus Non-native use patterns in other reco gions of Canada are reported by Gfellner
+0 and Hundleby (1991).
+=  Oetting et al. (1989) have argued that
+‘g Natives’ greater susceptibility to drug use
+.cois due not to specific cultural beliefs and
+5 practices but to an excess of poverty,
+2 prejudice, and lack of economic, educao tional, and social opportunities. The
++= commonly-held assumption in the litera© ture that Native North Americans’ distinc= tive culture contributes to substance abuse
+—does not appear to be supported by our
+2 data given that, apart from differences in
+-2 prevalence of illicit drug use initiation, the
+& mechanisms do not seem to be remarkably
+€ dissimilar for the Natives and Non-natives,
+4& This finding would seem especially evident
+insofar as various dimensions of family attachment examined here are seen to have
+
+Family Attachment Processes
+
+117
+
+comparable influences on the likelihood of
+substance use onset. Findings from Gfellner and Hundleby (1991) as well support
+the general conclusion that there appear to
+be more similarities than differences in the
+correlations between predictor variables
+and substance use among Native and Nonnative youth in Canada.
+
+The implications of our findings for attachment theory are that family relations
+among both Natives and Non-natives are
+important to children’s decisions about
+whether and when to begin using alcohol
+or drugs. Thus, intervention programs
+aimed at preventing early onset use of alcohol or other drugs may be similarly
+valid for both groups. The information
+gathered from this study about relevant
+risk and protective factors is essential to
+the development of effective health programs and policies, especially in light of
+strong evidence from this study that for
+Natives and Non-natives alike the risk of
+alcohol and particularly drug use onset
+among younger cohorts has increased dramatically over time, relative to the experiences of previous generations.
+
+ACKNOWLEDGMENTS
+
+The authors gratefully acknowledge the
+helpful suggestions of our anonymous reviewers as well as Professor Michael Nusbaumer,
+Department of Sociology, Indiana UniversityPurdue University at Fort Wayne, in preparation of the manuscript.
+
+REFERENCES
+
+ALEXANDER, P. C. 1992. Application of attachment
+theory to the study of sexual abuse. Special Sec-~
+tion: Adult Survivors of Childhood Sexual Abuse.
+J. Consult. Clin. Psychol. 60(2):185—195.
+
+ALLISON, P. D. 1984. Event history analysis: Regression for longitudinal event data. Sage Publications, CA.
+
+BARNES, G. M., M. P. FARRELL, and A. CAIRNS.
+1986. Parental socialization factors and adolescent drinking behaviours. J. Marr. Fam. 48(1):
+27-36.
+
+BARTHWELL, A. G. 1995. Alcoholism in the family:
+A multicultural exploration. Recent Develop.
+Alcohol. 12:387-407.
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+118
+
+BEAN, N. M. 1993. Elucidating the path toward alcohol and substance abuse by adolescent victims of sexual abuse. J. Appl. Soc. Sci.
+17(1):57~-94.
+
+BEauvaIs, F. 1992. American Indian and Alaska Native Mental Health Research 5(1):1-78.
+
+BERMAN, J. D., and R. M. ATKINSON. 1994. Predicting acceptance of treatment in male dualdiagnosis outpatients. Amer. J. Addict. 3(3):
+213-221.
+
+Brerut, L. J., S. H. DINWIDDIE, H. BEGLEITER, R. R.
+Crowe, V. HESSELBROCK, J. I. NURNBERGER, JR.,
+B. Porsesz, M. A. SCHUCKET, and T. REICH.
+1998. Familial transmission of substance dependence: Alcohol, marijuana, cocaine, and habitual smoking: A report from the Collaborative
+Study on the Genetics of Alcoholism. Arch.
+Gen. Psychiat. 55(11):964-965.
+
+Brron, L. L., S. BROcHU, and L. DESJARDINS. 1995.
+The issue of drugs and crime among a sample of
+incarcerated women. Deviant Behav.
+16(1):25-43.
+
+Back, C., S. F. Bucky, and S. WILDER-PADILLA.
+1986. The interpersonal and emotional consequences of being an adult child of an alcoholic.
+Intnl. J. Addict. 21(2):213-231.
+
+BLACKSON, T. C., and R. E. TARTER. 1994. Individual, family, and peer affiliation factors predisposing to early onset of alcohol and drug abuse.
+Alcohol. Clin. Exper. Res. 18(4):813-821.
+
+BLANKFIELD, A. 1990. Female alcoholics: II. The
+expression of alcoholism in relation to gender
+and age. Acta Psychiat. Scand. 81(5):448-452.
+
+BLossFeLtp, H., A. HAMERLE, and K. U. MAyeEr.
+1989. Event history analysis: Statistical theory
+and applications in the social sciences.
+Lawrence Erlbaum Associates, Hillsdale, NJ.
+
+Bow py, J. 1969. Attachment and loss: Volume I.
+Attachment. Basic Books, New York.
+
+. 1989. Attachment and personality development. Jn S. Greenspan and G. H. Pollock (eds.),
+The Course of Life, Vol. I, Infancy. International
+Univ. Press, Madison, CT
+
+BreEwIN, C. R., B. ANDREWS, and I. H. GOoTLm.
+1993. Psychopathology and early experience: A
+reappraisal of retrospective reports. Psychol.
+Bull. 113(1):82-98.
+
+Brown, G. L., B. J. ALBAUGH, R. W. Rosin, and S.
+G. Goopson. 1992-93. Alcoholism and substance abuse among selected Southern
+Cheyenne Indians. Cult. Med. Psychiat. 16(4):
+$31-542.
+
+CHENG, ANDREW T. A., and WEI J. CHEN. 1995. Alcoholism among four aboriginal groups in Taiwan: High prevalences and their implications.
+Alcohol. Clin. Exper. Res. 19(1):81-91.
+
+CLAPPER, R. L. 1992. The Reducer Augmenter
+Scale, the Revised Reducer Augmenter Scale,
+and predicting late adolescent substance use.
+Personal. Individ. Diff. 13(7):813-820.
+
+CLAPPER, R. L., S. L. BUKA, E. C. GOLDFIELD, L. P.
+LipseTtT, and T. T. TSUANG. 1995. Adolescent
+
+ 
+
+De Wit et al.
+
+ 
+
+Social Biology
+
+problem behaviours as predictors of adult alcohol diagnoses. Intnl. J. Addict. 30(5):507-523.
+
+Concer, R. D., F. O. LoRENz, G. H. ELDER, J. N.
+MELBY, R. L. Smvons, and K. J. Concer. 1991.
+A process model of family economic pressure
+and early adolescent alcohol use. J. Early Adol.
+11(4):430—-449.
+
+Conry, J. 1990. Neuropsychological deficits in fetal
+alcohol syndrome and fetal alcohol effects. Alcoholism: Clin. Exper. Res. 14(5):650-655.
+
+Coo ey, C. H. 1962. Social organization: A study of
+the larger mind. Schocken Books, New York.
+Coomss, R. H., M. J. PAULSON, and M. A. RICHARDSON. 1991. Peer versus parental influence in substance use among Hispanic and Anglo children
+
+and adolescents. J. Youth Adol. 20(1): 73-88.
+
+Cox, D. R. 1972. Regression models and life tables
+(with discussion). J. Roy. Statist. Soc. (Series B)
+34:184-220.
+
+CRITTENDEN, P. M. 1995. Attachment and psychopathology. In S. Goldberg, R. Muir, and J.
+Kerr (eds.), Attachment theory: Social, developmental and clinical perspectives. The Atlantic
+Press, Hillsdale, NJ.
+
+Cutrona, C., V. CoLe, N. ASSOULINE, and S. G. AsSOULINE. 1994. Perceived parental social support
+and academic achievement: An attachment theory perspective. J. Person. Soc. Psychol. 66(2):
+369-378.
+
+De Witpe, E. J., C. W. M. Kiennorst, R. F. W.
+DIEKSTRA, and W. H. G. Wolters. 1994. Social
+support, life events, and behavioral characteristics of psychologically distressed adolescents at
+high risk for attempting suicide. Adolescence
+29(113):49-60.
+
+DE Wr, Davip J., D. R. OFForD, and M. WonG.
+1997. Patterns of onset and cessation of drug
+use over the early part of the life course. Hlth.
+Educ, Behav. 24(6):746-758.
+
+DINWIDDEE, S. H., T. REICH, and R. C. CLONINGER.
+1992. Patterns of lifetime drug use among intravenous drug users. J. Subst. Abuse 4(1):1-11.
+
+Dupre, D., N. MILLER, M. GOLp, and K. ROSPENDA.
+1995. Initiation and progression of alcohol,
+marijuana, and cocaine use among adolescent
+abusers. Amer. J. Addict. 4(1):43—48.
+
+Durst, D. 1991. Conjugal violence: Changing attitudes in two northern Native communities.
+Commun. Mental Hlth. J. 27(5):359-373.
+
+Empree, B. G. 1993. Native Canadian Community
+Drug and Alcohol Research Project. Huron
+County Health Unit, London, Ontario.
+
+Empree, B. G., and M. L. De Wrr. 1997. Family
+background characteristics and relationship satisfaction in a Native community in Canada. Soc.
+Biol. 44(1~2):42-54.
+
+FAMULARO, R., R. KINSCHERFF, and T. FENTON.
+1992. Parental substance abuse and the nature of
+child maltreatment. Child Abuse Neglect
+16(4):475-483.
+
+FAMULARO, R., K. STONE, R. BARNUM, and R.
+WHARTON. 1986. Alcoholism and severe child
+Vol. 46, No. 1-2
+
+maltreatment. Ame. J. Orthopsychiat. 56(3):
+481-485.
+
+Fercusson, D. M., L. J. Horwoop, and M. T.
+LYNSKEY. 1994. Parental separation, adolescent
+psychopathology, and problem behaviors. J. Amer.
+Acad. Child Adoles. Psychiat. 33(8): 1122-1131.
+
+FERGUSSON, D. M., M. T. LYNSKEY, and L. J. Horwoop. 1993. Conduct problems and attention
+deficit behaviour in middle childhood and
+cannabis use by age 15. Austral. New Zealand J.
+Psychiat. 27:673-682.
+
+FonaGy, P., M. STEELE, H. STEELE, T. LEIGH, R.
+KENNEDY, G. MATTOON, and M. TarGET. 1995.
+Attachment, the reflective self, and border line
+states: The predictive specificity of the adult attachment interview and pathological emotional
+development, p. 233-278. Jn Attachment theory:
+Social, developmental and clinical perspectives.
+Analytic Press Inc., Hillsdale, NJ.
+
+ox, K. M., and B. O. GILBERT. 1994. The interpersonal and psychological functioning of women
+who experienced childhood physical abuse, incest, and parental alcoholism. Child Abuse Neglect 18:849-858.
+
+“Eoxcrort, D. R., and G. Lowe. 1991. Adolescent
+
++ drinking behaviour and family socialization fac
+-—— tors: A meta-analysis. J. Adoles. 14(3):255—273.
+
+RIEDMAN, A. S., S. GRANICK, S. BRANSFIELD, C.
+
+KREISHER, and A. SCHWARZ. 1996. The conse
+quences of drug use/abuse for vocational career:
+
+A longitudinal study of a male urban African
+American sample. Amer. J. Drug Alcohol Abuse
+
+22(1):57-73.
+
+RTON, D. T., S. A. WONDERLICH, and B. A.
+GOSNELL. 1995. Clinical characteristics of eating
+disorder patients who report sexual or physical
+abuse. Intnl. J. Eating Disord. 17(3): 243-249.
+-OFARCIA-ANDRADE, C., T. L. WALL, and C. L.
+‘Ba EHLERS. 1997. The firewater myth and response
+© to alcohol in Mission Indians. Amer. J. Psychiat.
+7 154(7):983-988.
+
+FELLNER, B. M., and J. D. HUNDLEBY. 1991. Fam© ily and peer predictors of substance use among
+< aboriginal and non-aboriginal adolescents.
+
+Canad. J. Native Stud. 11(2):367-394.
+
+OLDMAN, D., M. URBANEK, D. GUENTHER, R.
+RoBsw, and J. C. Lone. 1998. A functionally deficient DRD2 variant [Ser311Cys] is not linked
+to alcoholism and substance abuse. Alcohol
+16(1):47-52.
+
+Go.us, A., and B. D. JoHNSON. 1994. The shifting
+importance of alcohol and marijuana as gateway
+substances among serious drug abusers. J. Stud.
+Alcohol 55(5):607-614.
+
+GOopDALE, T. S., and S. B. SToner. 1994. Sexual
+abuse as a correlate of women’s alcohol abuse.
+Psychol. Rep. 75:1496-1498.
+
+GREEN, J. M. 1996. Proposal for a structured assessment of parenting based on attachment theory:
+Theoretical background, description and initial
+clinical experience. Europ. Child Adoles. Psychiat. 5(3):133-138.
+
+-48 08 December 2015
+
+a
+
+of Michigan
+
+niversi
+
+Family Attachment Processes
+
+119
+
+GRICHTING, W. L., and J. G. BARBER. 1989. The impact of quality of family life on drug consumption. Intnl. J. Addict 24(10):963-971.
+
+GROBSMITH, E. S. 1989. The relationship between
+substance abuse and crime among Native American inmates in the Nebraska Department of
+Correction. Hum. Org. 48(4):285-298.
+
+GUTIERRES, S. E., N. Russo, and L. URBANSKI.
+1994. Sociocultural and psychological factors in
+American Indian drug use: Implications for
+treatment. Intnl. J. Addict. 29(14):1761-1786.
+
+Harris, J. R. 1995. Where is the child’s environment? A group socialization theory of development. Psychol. Rev. 102(3):458-489.
+
+Harris, S. R., L. J. MACKay, and J. A. OsBorn. 1995.
+Autistic behaviours in offspring of mothers abusing
+alcohol and other drugs: A series of case reports.
+Alcoholism: Clin. Exper. Res. 19(3):660-665.
+
+Hearn, D. T. 1998. Parents’ socialization of children in global perspective. In J. J. Macionis and
+N. V. Benokraitis (eds.), Seeing Ourselves. 4th
+ed. Prentice Hall, Upper Saddle River, NJ.
+
+HEIKKINEN, M. E., E. T. ISOMETSA, H. M. Aro, S. J.
+SARNA, and J. K. LoNNQvisT. 1995. Age-related
+variation in recent life events preceding suicide.
+J. Nerv. Mental Dis. 183(5):325—331.
+
+HERNANDEZ, J. T. 1992. Substance abuse among
+sexually abused adolescents and their families.
+J. Adoles. Hlth. 13:658-662.
+
+HuGHEs, S. P., and R. DODDER. 1984. Alcohol consumption patterns among American Indian and
+white college students. J. Stud. Alcohol 45(5):
+433-439.
+
+Humpnrey, J. A., and J. FRIEDMAN. 1986. The onset
+of drinking and intoxication among university
+students. Annual Meeting of the Society for the
+Study of Social Problems. J. Stud. Alcohol
+47(6):455-458.
+
+Hussey, D. L., and M. Sincer. 1993. Psychological
+distress, problem behaviors, and family functioning of sexually abused adolescent inpatients.
+J. Amer. Acad. Child Adoles. Psychiat. 32(5):
+954-961.
+
+JoHNSON, D. 1994. Stress, depression, substance use
+and racism. American Indian and Alaska Native
+Mental Health Res. 6(1):29-33.
+
+KALBFLEISCH, J., and R. PRENTICE. 1980. The statistical analysis of failure time data. Wiley, New
+York
+
+KANDEL, D. B., K. YAMAGUCHI, and K. CHEN. 1992.
+Stages of progression in drug involvement from
+adolescence to adulthood: Further evidence for
+the gateway theory. J. Studi. Alcohol 53(5):
+447-457.
+
+KIRMAYER, L. 1994. Suicide among Canadian aboriginal people. Transcult. Psychiat. Rev. 31: 3-12.
+
+LAMANNA, M. 1982. Alcohol related birth defects:
+Implications for education. J. Drug Educ.
+12(2):113-123.
+
+LATHAM, P. K., and T. L. Napier. 1992. Psychosocial consequences of alcohol misuse in the family of origin. Intnl. J. Addict. 27(10):1137-1158.
+
+ 
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+120
+
+LEE, G. P., and C. C. DICLIMENTE. 1985. Age of onset versus duration of problem drinking on the
+Alcohol Use Inventory. J. Stud. Alcohol 46(5):
+398-402.
+
+Lex, B. W., M. E. GOLDBERG, J. H. MENDELSON, N.
+S. LAWLER, and T. Bower. 1994. Components
+of antisocial personality disorder among women
+convicted for drunken driving. Annals New York
+Acad. Sci. 708:49-58.
+
+LIBAN, C. B., and R. G. SMART. 1982. Drinking and
+drug use among Ontario Indian students. Drug
+Alcohol Depend. 9:161—171.
+
+LIsAK, D., and L. LusTe. 1994. Education, occupational, and relationship histories of men who
+were sexually and/or physically abused as children. J. Traum. Stress 7(4) October:507-523.
+
+LuJAN, C., L. M. DEBRuyN, P. A. May, and M. E.
+Birp. 1989. Profile of abused and neglected
+American Indian children in the Southwest.
+Child Abuse Neglect 13:449-461.
+
+May, P. A. 1982. Substance abuse and American Indians: Prevalence and susceptibility. Intnl. J.
+Addict. 7:1185-1209.
+
+. 1991. Fetal alcohol effects among North
+American Indians: Evidence and implications
+for society. Alcohol Res. Wl]d. 15(3):239-248.
+
+MCKENNA, T., and R. PICKENS. 1981. Alcoholic children of alcoholics. J. Stud. Alcohol 42:1021-1029.
+
+MERIKANGAS, K. R., B. J. ROUNSAVILLE, and B. A.
+PRuSOFF. 1992. Vulnerability to drug abuse, p.
+75-97. In D. Meyer, R. Glantz, and R. W. Pickens (eds.), Familial factors in vulnerability to
+substance abuse. American Psychological Association, Washington, D.C.
+
+MERIKANGAS, K. R., M. STOLAR, D. E. STEVENS, J.
+GOULET, M. A. PREISIG, B. FENTON, H. ZHANG,
+S. S. O'MALLEY, and B. J. ROUNSAVILLE. 1998.
+Familial transmission of substance use disorders. Arch. Gen. Psychiat. 55(11):973-979.
+
+MerskKEY, H., C. C. BRANT, A. MALLA, E. HELMEs,
+and V. Mour. Symptom patterns of alcoholism
+in a Northern Ontario population. Canad. J. Psychiat. 33(1):46-50.
+
+Mian, M., P. MARTON, D. LEBARON, and D.
+BIRTWISTLE. 1994. Familial risk factors associated with intrafamilial and extrafamilial sexual
+abuse of three to five year old girls. Canad. J.
+Psychiat. 39(6):348-353.
+
+MILLER, N., D. Szczucki, R. D. Gipsons, and T.
+KAKUMA. 1993. Familial alcoholism in cocaine
+addicts. Alcohol. Treat. Quart. 10(1-2):77-93.
+
+MorkRISSETTE, P. J. 1994. The holocaust of First Nation people: Residual effects on parenting and
+treatment implications. Contemp. Fam. Therapy: Intnl. J. 16(5):381-392.
+
+NIEZEN, R. 1993. Power and dignity: The social
+consequences of hydro-electric developments
+for the James Bay Cree. Canad. Rev. Sociol.
+Anthrop. 30(4):510-59.
+
+OETTING, E. R., R. W. EDWARDS, and F. BEAUVAIS.
+1989. Drugs and Native-American youth. Drugs
+Society 3(1-2):1-34.
+
+ 
+
+De Wit et al.
+
+ 
+
+Social Biology
+
+O’HarA, M. 1995. Is it time for clinical psychology
+to deconstruct constructivism? Special Issue.
+Constructivism in psychotherapy: Limits and
+lessons. J. Construct. Psychol. 8(4):293-303.
+
+OKWUMABUA, J. O., and E. J. DuryvEA. 1987. Age of
+onset, periods of risk, and patterns and progression
+in drug use among American Indian high school
+students. Intnl. J. Addict. 22(12): 1269-1276.
+
+ONTARIO MINISTRY OF HEALTH. 1995. Ontario Health
+Survey: Mental Health Supplement. User’s Manual, Volume 1, Toronto, Ontario, Canada.
+
+Omran, A. R. 1971. The epidemiological transition:
+A theory of the epidemiology of population
+change. Milbank Mem.! Fund Quart. 45:
+509-538.
+
+PARKER, D. A., and T. C. HARForD. 1988. Alcoholrelated problems, marital disruption and depressive symptoms among adult children alcohol
+abusers in the United States. J. Stud. Alcohol
+49(4):306-313.
+
+PETERSON, P. L., D. J. HAWKINS, R. D. ABBOTT, and
+R. F. CATALANO. 1994. Disentangling the effects
+of parental drinking, family management, and
+parental alcohol norms on current drinking by
+black and white adolescents. J. Res. Adoles.
+4(2):203~227.
+
+PIsTOLE, C. M. 1995. Adult attachment style and
+narcissistic vulnerability. Special Section: Contemporary structural psychoanalysis and relational psychoanalysis. Psychoanal. Psychol.
+12(1):115-126.
+
+RUTTER, M. 1995. Clinical implications of attachment concepts: Retrospect and prospect. J.
+Child Psychol. Psychiat. 36(4):549-571.
+
+SINGER, J. D., and J. B. WILLETT. 1991. Modeling
+the days of our lives: Using survival analysis
+when designing and analyzing longitudinal
+studies of duration and the timing of events.
+Psychol. Bull. 110(2):268-290.
+
+SMART, L., T. R. Cuitpucos, and L. A. Dipter. 1990.
+Adolescent substance use and perceived family
+functioning. J. Fam. Iss. 11(2):208-227.
+
+SODERSTROM, C. A. 1994. Detecting alcohol-related
+problems in trauma centre patients. Alcohol
+Hlth. Res. Wrld. 18(2):127—130.
+
+SPSS, Inc. 1994. SPSS Advanced Statistics 6.1.
+SPSS Inc., Chicago, IL.
+
+STOKER, A., and H. Swapt. 1990. Perceived family
+relationships in drug abusing adolescents. Drug
+Alcohol Depend. 25:293-297.
+
+SWAIM, R. C., E. R. OETTING, R. W. Epwarps, and
+F. Beauvais. 1989. Links from emotional distress to adolescent drug use: A path model. J.
+Consul. Clin. Psychol. 57(2):227-231.
+
+SWETT, C., and M. HALPERT. 1994. High rates of alcohol problems and history of physical and sexual abuse among women inpatients. Amer. J.
+Drug Alcohol Abuse 20(2):263-272.
+
+TAYLER, L., G. PARKER, and K. Roy. 1995. Parental
+divorce and its effects on the quality of intimate
+relationships in adulthood. J. Divorce Remarr.
+24(3/4):181-201.
+Vol. 46, No. 1-2
+
+TRIANDIS, H. C. 1993. On the place of culture in
+psychological science. Intnl. J. Psychol. 28(2):
+249-250.
+
+VAILLANT, G. E. 1994, Evidence that the Type
+1/Type 2 dichotomy in alcoholism must be reexamined. Addiction 89(9):1049-1057.
+
+VUCHINICH, S., J. TEACHMAN, and L. CrosBy. 1991.
+Families and hazard rates that change over time:
+Some methodological issues in analyzing transitions. J. Marr. Fam. 53:898-912.
+
+WALKER, E. A., W. J. KaTon, P. P. Roy-BYRNE, R. P.
+
+JEMELKA, and J. Russo. 1993. Histories of sex
+ual victimization in patients with irritable bowel
+
+syndrome or inflammatory bowel disease. Amer.
+
+J. Psychiat. 150(10): 1502-1506.
+
+ALL, T. L., C. GARCIA-ANDRADE, H. R. THOMASSON, M. Cote, and C. L. EHLERS. 1996. Alcohol
+elimination in Native American Mission Indians: An investigation of interindividual variation. Alcohol. Clin. Exper. Res. 20(7):
+1159-1164.
+
+ALSH, A. 1995. Parental attachment, drug use, and
+facultative sexual strategies. Soc. Biol. 42(1-2):
+
+St 95-107.
+
+CWiLLs, T. A., and S. SHIFFMAN. 1985. Coping and
+substance use: A conceptual framework, p. 3-24.
+In S. Shiffman and T. A. Wills (eds.), Coping
+and substance use. Academic Press, New York.
+
+INDLE, M. 1993. A retrospective measure of childhood behaviour problems and its use in predicting adolescent problem behaviours. J. Stud. Alcohol 54(4):422-431.
+
+INDLE, M., R. C. WINDLE, D. M. SCHEIDT, and G.
+B. MILLER. 1995. Physical and sexual abuse and
+
+gan| at 8 08 December x 15
+
+Qf Michi
+
+>>
+—
+—_
+N
+H
+oO
+>
+_
+Sc
+=
+>
+Oo
+oO
+oO
+oO
+wo
+oO
+—
+S
+3S
+©
+Q
+
+Family Attachment Processes
+
+121
+
+associated mental disorders among alcoholic inpatients. Amer. J. Psychiat. 152(9):1322~1328.
+
+WorosEc, T. G., W. M. TURNER, T. J. O’ FARRELL,
+and H. S. Cutrer. 1990. Alcohol use by alcoholics with and without a history of parental alcoholism. Alcohol. Clin. Exper. Res. 14(6):
+887-8972.
+
+YAMAGUCHI, K. 1986. Alternative approaches to unobserved heterogeneity in the analysis of repeatable events. Sociol. Methodol. 16:213-249.
+
+YELLOWLEES, P. M., and A. V. KAuSHIK. 1994. A
+case-control study of the sequelae of childhood
+sexual assault in adult psychiatric patients. Med.
+J. Australia 160(7):408-411.
+
+York, J. L., and J. W. WeTE. 1994, Gender comparisons of alcohol consumption in alcoholic
+and non-alcoholic populations. J. Stud. Alcohol
+55(6):743-750.
+
+YounG, T. J. 1988. Substance use and abuse among
+Native Americans. Clin. Psychol. Rev. 8:
+125-138.
+
+Yu, J., and W. R. WILLIFORD. 1992. The age of onset of alcohol, cigarette, and marijuana use patterns: An analysis of the drug use progression of
+young adults in New York State. Intnl. J. Addictions 27(11):1313-1323.
+
+. 1994. Alcohol, other drugs, and criminality: A structural analysis. Amer. J. Drug Alcohol
+Abuse 20(3):373-393.
+
+Zitzow, D. 1990. Ojibway adolescent time spent
+with parents/elders as related to delinquency
+and court adjudication experiences. American
+Indian and Alaska Native Mental Health Res.
+4(1):53-63.
+
+ 
+
+ 
+

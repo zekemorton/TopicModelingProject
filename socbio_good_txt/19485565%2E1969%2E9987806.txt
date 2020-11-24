@@ -1,0 +1,1869 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ 
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Demographic analysis of data on illegitimate
+births
+
+Joginder Kumar
+
+To cite this article: Joginder Kumar (1969) Demographic analysis of data on illegitimate births,
+Social Biology, 16:2, 92-108, DOI: 10.1080/19485565.1969.9987806
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1969.9987806
+
+i Published online: 23 Aug 2010.
+Fone | 7
+Submit your article to this journal @
+lil Article views: 5
+N
+Q View related articles 4
+
+(7) Citing articles: 3 View citing articles G
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:53
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+Demographic Analysis of Data
+on Illegitimate Births
+
+Joginder Kumar*
+
+Illegitimate births are a source of concern
+in most countries because of the social and
+economic problems they create. The sociological significance of illegitimacy has been
+widely discussed in the literature (Blake,
+1961; Davis, 1939a,b; Goode, 1960, 1961;
+Hartley, 1966; Malinowski, 1930; Pinchbeck
+1956; Vincent, 1961; and Wimperis, 1960.)
+
+Often the trend of the level of illegitimacy
+in a country and inter-country comparisons
+are depicted by the Illegitimacy Ratio—the
+proportion of illegitimate births among all
+births in a given year. The Illegitimacy
+Ratio may be a good index to show the
+magnitude of the social problem, but when
+it is used indiscriminately to represent the
+likelihood of bearing an illegitimate child or
+to indicate family disorganization, sexual
+permissiveness, and the like, the conclusions
+may be incorrect. An appropriate index to
+measure the likelihood of bearing an illegitimate child is the Illegitimacy Rate—the
+number of illegitimate births per unmarried
+females of childbearing age per year.
+
+Goode (1966, p. 485, Table 1) compares
+the illegitimacy levels of several countries by
+using the Illegitimacy Ratio. He purports to
+show that the United States in 1963 and
+England and Wales in 1962 were at about
+the same level (63 and 66 illegitimate births
+per 1,000 births, respectively). However, the
+
+* The author is a Ph D. candidate in the Department of Demography, University of California,
+Berkeley.
+
+92
+
+ 
+
+ 
+
+situation is not so simple. The official figures
+corresponding to the census years shown in
+Table 1 help to illustrate the problem.
+
+We can see that even though unmarried
+females in England and Wales have less
+chance of bearing an illegitimate child (as
+measured by the Illegitimacy Rate) than
+those in the United States, the Illegitimacy
+Ratio in England is higher than in the
+United States. In this case, the situation
+arises because of the higher marital fertility
+in the United States, making illegitimate
+births a smaller proportion of the total number of births. Therefore, it may be incorrect
+to conclude that the level of illegitimacy in
+England is higher than that of the United
+States. Other instances in which the level
+of illegitimacy is discussed only in terms of
+the Illegitimacy Ratio can be found in the
+works of Goode (1960, p. 21), Myrdal (1945,
+p. 41), and Wimperis (1960, p. 21-37).
+
+This study attempts to answer some of
+the crucial questions which arise when
+studying illegitimacy from the demographic
+perspective. What do we mean by “‘level of
+illegitimacy?” What do the usual indices,
+the Illegitimacy Ratio and the Illegitimacy
+Rate, indicate about the direction and extent of change in the level of illegitimacy?
+What are the contributing factors which determine the level? In answering these questions, we also present a new methodology
+for analyzing data on illegitimate births.
+
+ 
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+Vol. 16, No. 2
+
+Historical data from Norway and Sweden
+are used to illustrate the methodology as
+well as to present a clear picture of the trend
+of illegitimacy in those countries.
+
+Some remarks about the main features of
+our methodology may be appropriate here.
+Let us assume we have sets of data on four
+demographic factors at ten-year intervals,
+and we would like to study the trend of illegitimacy in terms of these four factors on
+a decade-to-decade basis. For each decade
+we want to identify one or more demographic factors whose change brought about
+the observed change in the level of illegitimacy, and then we want to determine the
+relative contribution of each factor. The
+direct approach to this goal involves many
+standardization processes. Thus, the analysis
+may become tedious to the researcher and
+reader alike. For example, in the case of four
+factors one has to perform fourteen different
+standardizations to exhaust all the possibilities.1 In this paper we describe a simple
+procedure of demographic manipulation by
+which the observed change in the level can
+be almost fully explained by performing
+only one or two standardizations. Our procedure enables us to quickly select the most
+important factor or combination of factors;
+then the relevant standardizations can be
+easily performed.
+
+An important aspect of standardization
+technique is the selection of a standard
+population. There are no fixed rules, and the
+population selected largely depends on the
+problem at hand. We believe that the selection should be conceptually meaningful so
+that the results of standardization can be
+interpreted easily. For our purposes, we
+have chosen the population for the first year
+of each decade as the “standard population,” rather than selecting one common
+“standard population” for the whole analy
+1 One standardization each with respect to number of ways of choosing one factor at a time, two
+factors at a time, and three factors at a time, ie.,
+
+4C; + 4C2 + 4C3 = 14, where "C, = n!/n — rir! and
+n| = n(n — 1) (wn — 2)... 2.1.
+
+Illegitimate Births 93
+
+sis. For example, if we wanted to explain the
+change in the level of illegitimacy during
+1950-60 in Sweden in terms of changes in the
+marital distribution, it is more meaningful
+to select either the 1950 or the 1960 marital
+distribution as “standard” than to select
+some other marital distribution, such as
+that of 1900 (which is the beginning year
+in the illustrative examples in this paper).
+An example wherein the selection of a common standard population is quite appropriate is provided by Coale (1967) in his
+
+TABLE 1
+
+STATISTICS RELEVANT TO ILLEGITIMACY
+LEVELS IN ENGLAND AND WALES AND
+THE UNITED STATES
+
+ 
+
+ENGLAND UNITED
+AND WALES STATES
+STATISTIC 1961 1960
+
+Illegitimacy Ratio ...... 60.0 52.7
+
+Illegitimacy Rate* ...... 17.2 21.6
+Per cent unmarried among
+
+females of 15-44 years. . 31.1 28.5
+
+Marital fertility ratef.... 121.9 156.9
+
+* Per 1,000 unmarried females, 15-44 years of age.
+f Per 1,000 married females, 15-44 years of age.
+
+analysis of historic factors associated with
+the development of low fertility.
+
+We have not attempted to determine the
+exact contributions of each of the demographic factors in terms of their independent effects and their interaction effects.
+The necessary methods are available, but
+they are quite lengthy and complicated. An
+authoritative account of such methods is
+given by Kitagawa (1955).
+
+}
+DEMOGRAPHIC FORMULATION OF
+THE PROBLEM
+
+Specifically, we have two aims: (1) to
+identify the demographic factors, the interaction of which leads to an observed level of
+illegitimacy; (2) to determine the relative
+contribution of these demographic factors in
+an observed change in the level of illegitiDownloaded by [University of Michigan] at 13:53 08 December 2015
+
+94 Kumar
+
+macy between two dates (e.g., two consecutive census years).
+
+For the purpose of this study, an illegitimate birth is one which occurs to an unmarried (single, widowed, or divorced) female;
+consequently, any birth occurring to a currently married female is legitimate. The following symbols will be used:
+
+4% = age group x to x + 4 years, or age x if
+
+data are in single years of age;
+
+F, = number of females at age +;
+
+jf< = proportion, at age x, of all females in
+childbearing period (15-44 years);
+
+gz = proportion of total females at age x
+
+who are unmarried;
+
+age-specific illegitimate fertility rate
+
+(number of illegitimate births per un
+married female of age x per year);
+
+ts
+
+jx = age-specific legitimate fertility rate
+(number of legitimate births per married female of age x per year).
+
+If N denotes the total number of females
+in childbearing ages, then
+
+44
+N= Fz;
+z=I15
+and
+fe ~ N°
+Further,
+Fz = number of unmarried females at age x;
+F.(1 — qz) = number of married females at age x;
+Frrqztz = number of illegitimate
+births to females at age
+x;
+
+F,(1 — qz)jze = number of legitimate
+births to females at age
+ee
+
+44
+> F guts
+
+z=15
+
+= total number of illegitimate births in a given
+year;
+
+Social Biology
+
+44
+
+> F.(1 — qz)j2= total number of legiti
+za18 mate births in a given
+year.
+
+Thus, the Illegitimacy Ratio, which represents illegitimate births as a proportion of
+total births, may be presented as follows:
+
+2 F ate
+
+Ratlo = Sega, + UAL — gaye
+
+Dividing both the numerator and denominator by N, we get:
+
+-. Zh eGats
+Batis = Zh eQrtz + Zfe(1 —_ Qz)jz , ( )
+or
+Ratio = 1 : (2)
+14 Zl — Qr)Je
+Lf rQzte
+
+The Illegitimacy Rate, or the number of
+illegitimate births per unmarried female of
+childbearing age (15-44 years), may be represented by:
+
+ZF Qzt2
+
+Rate = Fg
+
+Dividing both the numerator and denominator by JN, we get:
+
+_ 2f 2Qate
+Rate Shae” (3)
+
+The Ratio and Rate expressed in the form
+of equations (1) and (3) are very convenient
+to compute. If we have expressed them in a
+seemingly complex way, it is because this
+mode of symbolizing the two measures has
+the following methodological advantages:
+
+1. They clearly show their composition
+with respect to demographic factors, f, gz,
+iz, and jz, which determine the level of illegitimacy.
+
+2. The above expressions have a distinct
+advantage in setting down the standardization procedure with respect to one or more
+demographic factors. For example, if the object is to measure the effect of change in age
+composition of females, from set fz to f,’ on
+
+a
+ 
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+ 
+
+Vol. 16, No. 2
+
+the Illegitimacy Ratio, the standardized
+Ratio would be given by
+
+Lhe! date
+Ufa Qate + fe (1 — q2)je
+
+3. These expressions are helpful in visualizing the direction of change in the Rate or
+the Ratio when one or more demographic
+factors changes its level. For example, a
+change in the level of g, would have little
+effect on the Rate because it occurs both in
+the numerator and denominator (equation
+[3]). On the other hand, if the level of gq;
+rises, it has a dual effect on the Illegitimacy
+Ratio. A rise in gz, and consequently the decline in (1 — gz), would sharply reduce the
+value of the quotient
+
+Df, 2(1 a qz) jz
+Lfedein
+
+Hence the Illegitimacy Ratio would increase sharply. This is what we mean by a
+dual effect.
+
+4, The Ilegitimacy Rate as expressed in
+the form of equation (3) clearly indicates
+that it is a weighted mean of 7,’s—the agespecific illegitimacy rates. The weights are
+JcQe. Thus, it would remain more stable with
+respect to changes in f, and gq, than the Hlegitimacy Ratio.
+
+5. Each of the sums has useful qualitative
+and quantitative meanings:
+
+2f2gz = the overall probability of
+being single in the childbearing ages. It can also be
+phrased as the overall proportion single in the childbearing ages.
+
+Yfrgztz = the overall probability of
+giving birth to an illegitimate child by a female (not
+an unmarried female, but
+any female) in the childbearing ages in a population
+with a given age and marital distribution. It can also
+
+Illegitimate Births 95
+
+called the general rate of
+illegitimacy.
+
+Zfe(1 — gz)j2 = the overall probability of
+giving birth to a legitimate
+child by @ female (not a
+married female, but any female) in the childbearing
+ages in a population with a
+given age and marital distribution, It can also be
+called the general rate of
+legitimacy.
+
+It should be noted here that the sums
+Lfgziz and Zfz(1 — gz)jz are not the exact
+expressions of the respective probabilities.
+They should be regarded as estimators or
+approximations of the probabilities, because
+i, and 7, are the central-rates for the period
+rather than the probabilities. In spite of this
+limitation, we have used the word ‘‘probability” because it provides a consistent way
+to define the term “level of illegitimacy”
+and its measures in our following discussion.
+
+The term “level of illegitimacy” can be
+interpreted as the probability of occurrence
+of an illegitimate birth to a specified female.
+Since, by definition, a birth occurring to an
+unmarried female is classified as illegitimate,
+the level of illegitimacy is best measured by
+determining the probability of an unmarried
+female bearing a child during her childbearing years, This probability is measured by
+the Illegitimacy Rate as defined above by
+equation (3). The denominator consists of
+a population (unmarried females in the
+childbearing ages) exposed to the risk of the
+event (illegitimacy) mentioned in the numerator. Thus, it is a probability measure of
+the level of illegitimacy.
+
+Now we can relax the specifications for
+the female. If the population exposed to the
+risk of illegitimacy is defined as being composed of females in childbearing ages (irrespective of their marital status), the probability measure of the level of illegitimacy
+would be the sum 2/,9.t,. Therefore, depending on the question asked, both measures,
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+96 Kumar
+
+the Illegitimacy Rate and 2f,q.7z, can be
+used to indicate the level of illegitimacy.
+
+In this paper, we have designated the sum
+2frQulz as the general probability of illegitimacy or general rate of illegitimacy and the
+sum 2f,(1 — gz)jz aS the general probability
+of legitimacy or general rate of legitimacy.
+The general probability of illegitimacy is the
+probability of joint occurrence of two independent events—first, the probability that
+the female is unmarried, and second, that
+she bears a child. Thus, according to the
+laws of probability of joint occurrence of
+independent events, we would get
+
+LfrQcte = Illegitimacy Rate X 2g: .
+
+This is the same expression as equation (3).
+In this paper we have used both measures
+(the general probability of illegitimacy and
+the Illegitimacy Rate) primarily because
+their comparison yields the relative influence of the marital distribution on illegitimacy.
+
+As defined in equation (1), the Illegitimacy Ratio shows illegitimate births as a
+proportion of all births in a given year. If the
+object is to measure the prevalence of illegitimacy in relation to legitimacy, the IIlegitimacy Ratio would be an appropriate
+index; but it is not a proper measure of the
+level of illegitimacy as defined above. Therefore, when the Ratio is described as the
+“level of illegitimacy,” as sometimes happens in the literature, it could be misleading.
+The popularity of the Illegitimacy Ratio is
+due to its simple meaning and to the simplicity of collecting the data. One source, the
+vital registration system, is sufficient to
+compute the Ratio. We have already discussed the fact that the Ratio could be influenced in many ways without any change
+in i. As an additional example, a decline in
+the level of marital fertility, 7., would increase the Ilegitimacy Ratio, and this could
+lead to an incorrect conclusion that the level
+of illegitimacy (in the probability sense) is
+rising. Therefore, the Ratio should be used
+
+ 
+
+ 
+
+Social Biclogy
+
+with great caution. We shall encounter examples in the present analysis which show
+its misuse.
+
+Keeping the above discussion of this section in mind, we now formulate the general
+mode of analysis. When one compares the
+values of the three sums (2/,92, Zfegztz, and
+Zfz(1 — gz)jz) at two successive dates, the
+comparison provides certain clues as to
+which demographic factors have caused a
+change, if any, in the level of illegitimacy
+during the period.
+
+Here, a question can be raised as to why
+the demographic factors are identified by
+comparing the three sums rather than by
+directly observing the data. Generally, the
+basic data are stated in six quinquennial age
+groups in the childbearing ages. There will
+be no problem in identifying a demographic
+factor if all six values encountered have
+changed in the same direction. Then we can
+say conclusively that this demographic factor must have contributed to the observed
+change in the level of illegitimacy. But,
+when the age-specific levels have changed in
+opposite directions, we cannot state conclusively the overall direction and significance
+of the demographic factor. The problem becomes more acute when data are given in
+single years of age. To state the answer with
+some confidence, one must compute an overall index of the demographic factor; but, to
+do so in the case of 7, and 7,, we may be
+begging the basic question. The Swedish
+age-specific illegitimacy rates in 1940 and
+1950 are an example of the problem (see
+Table 11). In any case, the method of comparison of the three sums (as described below) can take care of all the situations. It
+also reduces the number of calculations.
+
+The following systematic method can be
+used to identify the demographic factors for
+standardization by comparing the values of
+the three sums. It should be noted that the
+various implications of different situations in
+the following classification are most likely
+to be true in the domain of demographic posDownloaded by [University of Michigan] at 13:53 08 December 2015
+
+Vol. 16, No. 2
+
+sibilities. Mathematically, the opposite implication is possible; demographically, the
+opposite implication is highly unlikely to
+occur. Further, in the remaining part of the
+paper, the statements regarding the direction of change of demographic factors (/;,
+Qz, tz, and jz) implicitly mean that the statements concern their overall level. For example, the statement ‘“/, and gz have not
+changed”’ actually means that the overall
+levels of f, and g; have not changed, The
+phrase “overall levels of’ is dropped for
+simplicity of discussion.
+
+Let the superscript 1 denote the data at
+the beginning of the period and superscript 2
+denote the data at the end of the period.
+
+CasE I: When there is no significant difference between the sums Zfigh and Ufzqr
+a) This would imply that f, and g, have
+not changed during the period. Mathematically, it is possible that f, and g, may change
+in such a way that Df,gz does not change.
+Demographically, such a case would occur
+rarely and could be easily detected.
+
+6) If there is no significant difference between Zfigii! and Zf2gziz, it would imply
+that the 7,’s also have not changed. If there
+is a significant difference, it would mean that
+the 7,’s have changed during the period since
+fz and gz have not changed. In such a case,
+we should select 7, as a factor of standardization of the Rate and the Ratio.
+
+c) The decision procedure regarding 7, is
+similar to that for 7, described in step 8.
+
+Case II: When there is a significant difference between the sums Zfig, and Zf2¢2.
+
+a) This would imply that either f, or qz,
+or both f, and g., have changed during the
+period. The preliminary decision could be
+made by looking at the data on f, and qz.
+If gz is an apparent demographic factor
+which has changed, then we should standardize 2f,g. with respect to gz. The hypothesis regarding gz would be true if we find
+that the standardized and unstandardized
+sums are approximately equal, that is, if
+
+legitimate Births 97
+
+Digs & Ufrg:. Similarly we can test the
+hypothesis regarding f, and g, together.
+
+6) After selecting the demographic factor(s) of standardization in step a, the
+same factor should be used to standardize
+ZfrQztz. If the standardized and unstandardized sums are approximately equal, the
+factor zz has not changed. Otherwise, the
+factor 7,, also has changed. In symbols, the
+procedure would be as follows:
+
+Let gz be the demographic factor of
+standardization which was identified in
+step a. If Dfiguis LY Sfegiic, then 7, has not
+changed during the period. If Zfigyit +
+Zfrgsiz, then i, has changed during the
+period and it should be selected as an additional factor of standardization.
+
+c) The decision procedure regarding j,
+is similar to that of 7, described in step 8.
+
+It should be emphasized that the above
+procedures are adopted so as to achieve the
+required results in the minimum amount of
+time, with minimum effort. There may be a
+few occasions in which the process would
+fail. In such cases, common sense should
+prevail.
+
+ANALYSIS OF TREND OF ILLEGITIMACY:
+ILLUSTRATIVE EXAMPLES
+
+In this section, we shall attempt to account for the changes in the level of illegitimacy during each successive decade for
+Norway and Sweden from 1900 to 1960.
+
+The statistics on illegitimacy suffer from a
+variety of errors. Any change in their magnitude could lead to an incorrect trend. Varia-~
+tions in completeness of registration can introduce spurious trends and differentials
+into the measure of level of illegitimacy. Because these variations are likely to be larger
+across countries than through time, no intercountry analysis is attempted. The introduction of a compulsory registration system
+with severe penalties for nonregistration of
+illegitimate births could result in a sudden
+rise in the level of illegitimacy. Similarly, a
+change in the social penalties and welfare
+ 
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+98 Kumar
+
+benefits system could influence the level of
+registration. It is beyond the scope of this
+study to adjust the illegitimacy data for
+under-registration and other errors because
+our main objective is to present the methodological aspects of the analysis of illegitimacy data.
+
+NORWAY
+
+We shall compute the Legitimacy Ratio
+and the Illegitimacy Rate corresponding to
+a given set of four demographic variables,
+fry Ux, tz, and jz, for which the basic data are
+presented in Tables 2-5. It would be a very
+space-consuming task if we were to reproduce a detailed computational table in each
+case. Therefore, only the final results of the
+computation are presented. However, we
+shall illustrate the detailed computational
+procedure with reference to Norway, 1900,
+in Table 6. The sum 2f,g, means that 58.4%
+
+ 
+
+Social Biology
+
+of the females aged 15-44 years were unmarried; the sum 2f,g,tz implies that the
+probability of bearing an illegitimate child
+by a female aged 15-44 years was 0.0099
+(9.9 illegitimate births per 1,000 females of
+childbearing age in 1900); and the sum
+2f2(1 — qz)jz implies that the probability
+of bearing a legitimate child by a female 15~
+44 years old was 0.1280 (128.0 legitimate
+births per 1,000 females of childbearing age
+in 1900). Incidentally, it can be easily seen
+that the general fertility rate, that is, the
+number of births per female of childbearing
+age, equals [Z/f.q.t2 + Zf.(1 — gz)72]. Thus,
+the general fertility rate for Norway was
+137.9 per 1,000 females 15-44 years of age
+in 1900.
+
+The trends of illegitimacy ratios, illegitimacy rates, and general probabilities of illegitimacy (Zf.9.tz) are shown in Table 7.
+The illegitimacy ratios and rates do not fol
+TABLE 2
+AGE-DISTRIBUTION OF FEMALES IN CHILDBEARING AGES (f,): NORWAY
+
+Age 1900 1910 1920 1930 1946 1950 1955 1960
+
+15-19 ss ee nase 0.220 0.227 0.219 0.200 0.153 0.141 0.150 0.185
+LO DAs cs wae 0.200 0.193 0.203 0.186 0.175 0.157 0.143 0.148
+ie) rrr 0.169 0.167 0.173 0.177 0.183 0.180 0.160 0.141
+30-34.......... 0.147 0.155 0.149 0.166 0.172 0.183 0.184 0.158
+35-39.......... 0.139 0.136 0.132 0.144 0.163 0.174 0.186 0.183
+40-44.......... 0.125 0.122 0.124 0.126 0.154 0.165 0.177 0.185
+TEAL, sie ewe ve 1.000 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+
+Sources: The figures on which the above rates are based are from the following sources: for 1900, Norges Officielle Statistik,
+Folketaellingen i Kongeriget Norge, 1900, Vol. 2, p. 206; for 1910, ibid., Folketaellingen i Kongeriget Norge, 1910, p. 38; for 1920, ibid.,
+Statistisk Arbok For Norge, 1928, p. 8; for 1930, ibid., Folkettellingen 4 Norge, 1946, p. 19; for 1946, ibid., Folkettellingen i Norge, 1950,
+Vol. 2, p. 16; for 1950, ibid., Folkettellingen ¢ Norge, 1950, Vol. 2, p. 171-172; for 1955, ibid., Statistisk Arbok For Norge, 1962, p. 14;
+for 1960, United Nations Demographic Yearbook, 1963, p. 732-733.
+
+TABLE 3
+PROPORTION OF FEMALES UNMARRIED AT AGE x (gz): NORWAY
+
+Age 1900 1910 1920 1930 1946 1950 1955 1960
+15-19 is ws ease 0.984 0.983 0.985 0.989 0.978 0.970 0.962 0.953
+A a. 0.777 0.783 0.770 0.820 0.739 0.662 0.574 0.507
+Bao uc easicae 0.497 0.504 0.489 0.527 0.417 0.349 0.267 0.197
+30-34.......... 0.351 0.350 0.360 0.361 0.277 0.229 0.186 0.140
+35-39... 2.6... 0.296 0.305 0.314 0.313 0.257 0.213 0.172 0.143
+40-44.......... 0.288 0.296 0.305 0.314 0.278 0,240 0.193 0.161
+
+Sources: Given in Table 2.
+
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+ 
+
+TABLE 4
+
+AGE-SPECIFIC ILLEGITIMACY FERTILITY RATES (tz): NORWAY
+(Number of illegitimate births per unmarried female of age x)
+
+Age 1900 1910 1920* 1930* 1946 1950 1955 1960
+15-19......... 0.0044 0.0041 0.0055 0.0037 0.0057 0.0044 0.0053 0.0053
+20-24......... ©.0258 0.0217 0.0244 0.0148 0.0184 0.0144 0.0154 0.0183
+20-29 su ee ea ee 0.0322 0.0241 0.0237 0.0121 0.0171 0.0126 0.0127 0.0170
+30-34......... 0.0253 0.0180 0.0172 0.0095 0.0120 0.0097 0.0087 0.0112
+S539. eens ee oe 0.0177 0.0134 0.0113 0.0067 0.0058 0.0057 0.0056 0.0067
+40-44......... 0.0071 0.0057. 0.0049 0.0029 0.0021 0.0019 0.0023 0.0023
+
+Sources: The figures on which the above rates are based are from the following sources: for 1900 and 1910, Norges Officielle
+Statistik, Folkemengdens Bevegelse, 1921-32, p. 24-25; for 1920 and 1930, tbid., Folkemengdens Bevegelse, 1931-32, p. 18; for 1946,
+ibid., Folkemengdens Bevegelse, 1946, p. 32; for 1950, ibid., Folkemengdens Bevegelse, 1950, p. 74; for 1955, ibid., Folkemengdens Bevegelse
+1955, p. 80; for 1960, United Nations Demographic Yearbook, 1965, p. 319 and 564.
+
+_ * For 1920 and 1930, rates are computed by converting the given percentage distribution of births by age into absolute distribution and using the appropriate marital distribution.
+
+TABLE 5
+AGE-SPECIFIC LEGITIMATE FERTILITY RATES (j,): NORWAY
+
+(Number of legitimate births per married female of age x)
+
+Age 1900 1910 1920 1930 1946 1950 1955 1960
+15-19......... 0.5926 0.5642 0.7844 0.6936 0.4037 0.4325 0.5314 0.4375
+20~-24......... 0.4846 0.4619 0.4546 0.3735 0.3034 0.2965 0.3254 0.3114
+ZOn20 ws ge enone 0.3819 0.3580 0.3353 0.2370 0.2486 0.2147 0.2189 0.2159
+30-34......... 0.3334 0.2837 0.2543 0.1631 0.2010 0.1552 0.1445 0.1371
+$539. wwe ccase 0.2644 0.2272 0.1982 90.1146 0.1374 0.0974 0.0845 0.0746
+40-44......... 0.1593 0.1308 0.1066 0.0608 0.0549 0.0409 0.0321 0.0277
+
+ 
+
+Sources: Given in Table 4.
+
+TABLE 6
+COMPUTATION OF THE ILLEGITIMACY RATIO AND ILLEGITIMACY RATE: NORWAY, 1900
+
+ 
+
+ 
+
+Age Se Qz 1—gz Sr9x te f2( ~z) Je
+ee
+15-19...... 0.220 0.984 0.016 0.216480 0.0044 0.003520 0.5926
+20-24...... 0.200 0.777 0.223 0.155400 0.0258 0.044600 0.4846
+25-29...... 0.169 0.497 0.503 0.083993 0.0322 0.085007 0.3819
+30-34...... 0.147 0.351 0.649 0.051597 0.0253 0.095403 0.3334
+35-39... 605. 0.139 0.296 0.704 0.041144 0.0177 0.097856 0.2644
+40-44...... 0.125 0.288 0.712 0.036000 0.0071 0.089000 0.1593
+
+ 
+
+Lfegje = 0.584614.
+
+Lfrgriz = 0.0099556595.
+
+Zfe(l — gzr)jz = 0.1280214719.
+
+N = 488,391 = number of females in childbearing ages.
+
+Number of illegitimate births = N X 2fzq:iz = 4,862.
+
+Number of legitimate births = N X Zf,(1 — gz)je = 62,525.
+
+Illegitimacy ratio (equation [1]) = 72.1 (illegitimate births per 1,000 total births)
+
+Illegitimacy rate (equation [3]) = 17.0 (illegitimate births per 1,000 unmarried females of 15-44 years.
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+100 Kumar
+
+low the same trend. Although their 1960
+levels are about half of those in 1900, they
+have different patterns during the intervening period. Apart from significant differences
+in the magnitude of the per cent decline
+since 1900 (compare cols. 3 and 5), the rates
+and ratios even show different directions of
+change during some periods. Between 1930
+and 1946, the index of the ratio declined by
+18 points while that of the rate showed a
+rise of 17 points. On the other hand, the illegitimacy rate and general probability of
+illegitimacy follow the same trend up to
+1930. But, in 1960, the general probability
+of illegitimacy is 66% of the 1900 estimate
+as against 46% in the case of the illegitimacy
+rate. The difference in the two indices occurs because of changes in the marital distribution (2f,¢-). In this case, the mean age
+
+Social Biology
+
+at marriage seems to have reduced significantly during 1930-60. We shall attempt to
+explore the demographic causes of changes
+in the level of illegitimacy during each successive period.
+
+1900-10. Table 8 contains the values of
+the three sums and other necessary computations for the period 1900-10. A comparison of the values of the sum Z/f2gz shows that
+there were no significant changes in marital
+distribution during 1900-10, but the sums
+Zfrgziz were reduced considerably over the
+same period (cols. 2 and 3). This means that
+there was a significant reduction of 7,’s,
+age-specific illegitimacy rates. There is also
+some reduction in 2f,(1 — gz)jz, the probability of bearing a legitimate child.
+
+With these clues regarding the behavior
+of demographic factors affecting the il
+TABLE 7
+
+TREND OF ILLEGITIMACY RATIOS, ILLEGITIMACY RATES, AND GENERAL
+PROBABILITIES OF ILLEGITIMACY (Z/frqziz): NORWAY, 1900-1960
+
+ILLEGITIMACY
+General
+Ratio Rate Probability
+
+YEAR (1,000) Index* (1,000) Index* (1,000 XZfegziz) Index*
+1900...... 72.1 100.0 17.0 100.0 10.0 100.0
+1910...... 66.1 91.7 13.5 79.4 8.0 80.0
+1920...... 75.7 105.0 14.6 85.9 8.6 86.0
+1930...... 70.0 97.1 8.7 §1.2 5.1 51.0
+1946...... 57.3 79.5 11.2 65.9 5.4 54.0
+1950...... 41.3 57.3 8.5 50.0 3.6 36.0
+1955...... 34.5 47.9 8.5 50.0 3.1 31.0
+1960...... 36.8 51.0 9.2 54.1 3.3 33.0
+
+* Base year, 1900.
+
+TABLE 8
+
+BETWEEN 1900-10: NORWAY
+
+ANALYSIS OF THE TREND OF ILLEGITIMACY LEVEL
+
+Item 1900 1910 1910*
+Pe fensnies as ok ae aes 0.584614 0.590270 0.590270
+D2 0.009956 0.007961 0.009954
+Bell — qefe-. +2. .e- 0.128021 0. 112468 0.112467
+Nivcccccc nr ccceuvvcs 488 ,391 520, 843 520,843
+Ratio............... 72.1 66.1 81.3
+Rate............000. 17.0 13.5 16.9
+ 
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+ 
+
+Vol. 16, No. 2
+
+legitimacy level, we may now test our hypothesis that 7, is the major demographic
+factor which has caused changes in the level
+of illegitimacy as indicated by the Ilegitimacy Rate and 2f,q.t,. The 1910 ratios and
+rates are recomputed by replacing the 2,
+column with the 7, column of 1900, that is,
+standardizing the 1910 rates and ratios with
+respect to the age-specific illegitimacy rates.
+Using the computational procedure outlined
+in Table 5, we get the standardized Ratio
+and Rate for 1910 as shown in column 4 of
+Table 8. The standardized Illegitimacy Rate
+and the general probability of illegitimacy
+are equal to those in 1900, implying that
+there was a real decline in the illegitimacy
+Jevel between 1900 and 1910 (since there was
+no change in marital conditions). However,
+the standardized Ratio (81.3) is higher than
+the 1900 level (72.1). This occurred because
+the level of 7,’s, age-specific legitimacy rates,
+have also declined. This is one illustration
+of the procedure which accounts for changes
+in the illegitimacy level in terms of the
+demographic factors.
+
+1910-20 (cols. 2, 3, and 4 in Table 9). To
+avoid duplications, we shall present the
+analysis of trends during the years 1910 to
+1960 in Table 9. The calendar-year column
+headings with an asterisk denote an IIlegitimacy Ratio and Rate which are
+standardized with respect to the demographic factor mentioned in the heading
+(the new level of the demographic factor always corresponds toits level at the previous
+date).
+
+During this period, there were no changes
+in Df292, that is, marital distribution did not
+change, But, there was a reduction in
+2f2(1 — gz)jz, and an increase in Zfrgziz.
+Therefore, we have standardized the 1920
+indices with respect to both i, and jz. The
+resemblance between the 1910 and 1920
+(col. 4) illegitimacy indices is very close.
+This implies that the changes in 7, and 7;
+(age-specific illegitimate and legitimate fertility rates) were wholly responsible for the
+
+TABLE 9
+ANALYSIS OF THE TREND OF ILLEGITIMACY LEVEL: NORWAY, 1910-1960
+
+IHegitimate Births
+
+1960
+(14)
+
+1955*
+
+(q2=
+1950)
+(13)
+
+1955
+(12)
+
+: 1950*
+(11)
+0.470260
+0.005168
+
+(gz, iz=
+41946)
+
+1950
+(10)
+
+1946#
+(ga, tay>Jz =
+1930)
+(9)
+
+1946*
+(z= ,
+1930)
+(8)
+
+1946
+(7)
+0.487617
+0.005442
+
+1930*
+(t2,j2=
+1920)
+(6)
+
+1930
+(S)
+
+1920*
+
+(te, jz
+1910)
+(4)
+
+1920
+(3)
+
+1910
+(2)
+0.590270
+0.007961
+0.112468
+
+Item
+(1)
+
+0.357192
+0.003271
+
+0.420240
+0.003624
+0.078106
+
+0.370031
+0.003132
+0.087686
+696,584
+2,181
+61,081
+34.5
+
+8.5
+
+0.422093
+0.003583
+0.083086
+
+0.552725
+0.004922
+0.070629
+
+0.552725
+
+0.006295
+
+0.075033
+’
+
+0.588161
+0.008754
+0.100814
+
+0.588161
+0.005104
+0.067766
+663,984
+3,389
+44,995
+70.0
+
+8.7
+
+0.589530
+0.008052
+0.113967
+
+0.589530
+0.008582
+0.104828
+
+520, 843
+
+es 15-44 yrs.
+
+gitimate births...
+
+ese ceces
+Legitimate births... .
+
+eel
+
+=z
+Illegitimacy Rate...
+
+Illegitimacy Ratio ..
+
+Zfr9r.
+Lfxziz a
+¥.
+
+Ile
+
+* The values in a column with an asterisk should be compared with those in the column in the previous year mentioned, for example, 1920* and 1910.
+
+10k
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+102 Kumar
+
+observed changes in the illegitimacy indices
+between 1910 and 1920.
+
+1920-30 (cols. 3, 5, and 6 in Table 9).
+Comparing the three sums from Table 9
+listed above, we find that there are drastic
+declines in the probabilities of illegitimate
+and legitimate births. Columns 6 and 3 show
+that when we standardize the 1930 Ratio
+and the Rate with respect to both 7, and 72,
+the changes during the decade are clearly
+shown. One interesting thing to observe is
+that there was a drastic decline (from 14.6
+to 8.7) in the Illegitimacy Rate, but comparatively little decline in the Ratio. The
+decline in the levels of 7, and 7, tend to
+counterbalance their net effect on the value
+of the quotient (Zf.[1 — gz]j2)/(Zfeqziz), and
+consequently on the Ratio. The direction of
+change in the Ratio depends on the relative
+speed of the decline of 2f,(1 — gz)j, and
+DfrQziz- In the present case, the speed of
+decline of the latter sum is greater than that
+of the former, and therefore the quotient
+increases; hence, the ratio decreases (equation [2]). This was the underlying mechanism of decline in the Illegitimacy Ratio
+from 75.7 to 70.0 during the decade 1920-30.
+
+1930-46 (cols. 5, 7, 8, and 9 in Table 9).
+A comparison of the three sums between
+1930 and 1946 (cols. 4 and 7) reveals that
+there are significant reductions in the probability of remaining single (about 17%) and
+the probability of bearing a legitimate child
+(about 32%). Though there is a less significant rise (about 7%) in the probability of
+bearing an illegitimate child (Zf,g,7), the
+observed illegitimacy rate shows an increase
+of 29%.
+
+What can we learn from these figures?
+The level of gz has certainly gone down (and
+some changes have also occurred in fz). This
+fact could account for a good part of the observed increase in the value of Zf.(1 — qz)jz
+during this period. We can say something
+about the behavior of 7,’s only after we have
+established the role of changes in the level
+of gz. Therefore, gz is selected as a first factor
+
+Social Biology
+
+of standardization (col. 8). The standardized
+sum 2f,gz becomes almost equal to the 1930
+value and the standardized sum 2f,(1 —
+gz)jz accounts for about two-thirds of the
+total increase during 1930-46. Thus, there
+was a substantial decrease in the level of
+g.’s during this period. In addition, the
+standardized value of the general probability of illegitimacy becomes about 24%
+more than the 1930 level, while the observed
+difference is only 7%. This fact implies that
+there was a significant increase in the level
+of 7,’s during 1930-46; otherwise, in the face
+of a substantial decrease in the level of
+g,’s, the standardized sum 2f2g.i. should
+have decreased. Thus, the level of all the
+demographic factors has changed during
+this period. Column 9 standardized the 1946
+values with respect to gz, 7z,and 7,, and they
+compare very well with those in column 5.
+Obviously, the remaining differences are due
+to changes in the level of f:.
+
+1946-50 (cols. 7, 10, and 11, in Table 9).
+Comparing the three sums, we note that
+2f2gz and Zf2g,i2 have reduced appreciably.
+Thus gz and 7, may be the important demographic factors which have caused the
+change in the illegitimacy level.? Column 11
+shows the results of standardization with respect to g, and i;. We observe that the
+change in the Illegitimacy Rate is fully explained and the difference in Illegitimacy
+Ratio is reduced. The remaining difference
+in the Illegitimacy Ratios (between 57.3 and
+65.3) would be explained by 7, since there is
+a significant difference in magnitude of
+Zf-(1 — gz)jz between columns 7 and 11.
+
+1950-55 (cols. 10, 12, and 13 in Table 9).
+Thisis an excellent example to illustrate the
+“dual” effect of change in gz on the Ratio.
+
+2 The age-distribution, f,, may also be listed as
+one of the demographic factors. We would not gain
+any insight into the underlying change if both 7
+und g, are selected as factors of standardization, because Z/,gz would not change. Generally, a change
+in the level of f does not alter the illegitimacy
+level so appreciably as other demographic factors.
+On the other hand, g is a very important factor,
+
+and it should be selected as the first factor of standardization whenever 2/f-g, changes.
+
+ 
+
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+ 
+
+Vol. 16, No. 2
+
+By standardizing the 1955 illegitimacy indices with respect to g,, the resulting indices
+of 44.3 and 8.6 (col. 13) become very close to
+those of 41.3 and 8.5 (col. 10). Thus, the
+decline in the level of gz, meaning that the
+proportion married has increased, was responsible for the decline in the Ratio but had
+absolutely no effect on the Illegitimacy Rate
+during 1950-55. How could this happen? A
+decline in the level of gz implies a rise in the
+level of 1 — gz. These two appear in the
+numerator and denominator of the quotient
+(Zf-[1 — ge]j2/Zfegrjz). The result is that
+both acted in the same direction, that is,
+towards increasing the value of the quotient—the dual effect of gz. This, in turn,
+decreased the valueof theIllegitimacy Ratio
+from 41.3 to 34.6 during 1950-55.
+
+1955-60. There were relatively minor
+changes in the illegitimacy level during this
+period; therefore, there is no need for any
+analysis.
+
+Conclusion. The analysis of the Norwegian data makes it quite clear that a
+description of the trend of the illegitimacy
+level is not as simple as Table 7 tends to
+show. An in-depth analysis is a precondition
+to drawing any conclusions concerning the
+trend and level of illegitimacy. There were
+genuine declines in the level of illegitimacy
+shown by the fact that we had to standardize with respect to iz, age-specific illegitimacy rates, four times in six periods to find
+the explanation for the trend. Another important conclusion is that we would have
+been terribly misled had we relied wholly on
+illegitimacy ratios as indices of the level
+of illegitimacy. Since 1930, changes in the
+marital distribution of females have affected
+the illegitimacy ratios considerably. Marital
+fertility rates, j,, have also been an important cause of change in illegitimacy
+ratios in Norway. Finally, the sums Z/f,q-,
+DZfrQztz, and Lfz(1 — az)jz have declined by
+39%, 67%, and 33%, respectively, during
+1900-60. These remarkable changes reflect
+the fact that the demographic factors which
+
+ 
+
+Illegitimate Births 103
+
+determine the level of illegitimacy have
+undergone drastic changes in Norway.
+
+SWEDEN
+
+The methodology of analysis in the case
+of Sweden will be the same as we have described in detail for Norway. Therefore, we
+shall describe the rest of the analysis by
+presenting detailed tables with brief descriptions, highlighting only the important
+features. The data for demographic factors
+are shown in Tables 10-13.
+
+Table 14 shows that the illegitimacy rates
+and ratios reveal an entirely different trend.
+During 1900-60, the Ratio did not decline
+much, but the Rate dropped by 23% and
+the general probability of illegitimacy
+(2fzgziz) by 49%. The general probability
+remained constant, around 0.0075, during
+1940-60 but the Illegitimacy Rate has increased significantly (from 14.8 to 20.0).
+This would mean that gz is acting as a
+counterbalance. During 1910-20, 1920-30,
+1940-50 and 1950-60, the rates and ratios
+follow opposite directions of change. The
+following paragraphs offer a brief explanation of the causes of the trend of eg teiacy
+in Sweden.
+
+Table 15 gives a more or less self-explanatory analysis of the trend of illegitimacy in Sweden. The brief notes for the
+decades are as follows:
+
+1900-10 (cols. 2, 3, and 4, of Table 15).
+The significant rise of the Ratio, but with
+no such change in the Rate, was caused by a
+decline in the level of legitimacy (compare
+the sums 2/,(1 — qz)jz) during this period.
+This fact becomes obvious from column 4.
+
+1910-20 (cols. 3, 5, and 6, of Table 15).
+A comparison of the three sums between
+1910 and 1920 suggests an appreciable decline (about 10%) in the level of general
+probability of legitimacy (2f:(1 — qz)jz). At
+the same time, there is no significant difference between the 1910 and 1920 values of
+2f2gz. Therefore, jz is chosen as a factor of
+standardization. Column 6 shows very
+ 
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+TABLE 10
+AGE-DISTRIBUTION OF FEMALES IN CHILDBEARING AGES (f;): SWEDEN
+
+Age 1900 1910 1920 1930 1940 1950 1960
+
+1519 6 ws vans 0.215 O.2Z12 0.205 0.188 0.166 0.136 0.194
+2024 6 ees nie 0.191 0.194 0.188 0.189 0.172 0.153 0.153
+BOS » wmwns wa 0.163 0.173 0.172 0.175 0.175 0.176 0.144
+BOSS 6 « nains ws 0.143 0.159 0.160 0.162 0.175 0.178 0.156
+35-39........ 0.149 0.139 0.143 0.148 0.163 0.179 0.176
+40-44........ 0.139 0.123 0.132 0.138 0.149 0.179 0.177
+Total....... 1.000 1.000 1.000 1.000 1.000 1.000 1.000
+
+Sources: The figures on which the above rates are based are from the following sources: for 1900-50, Statistiska Centralbyrau,
+Historisk Statistik For Sverige, I, Befolkning, pp. 25-26; for 1960, United Nations Demographic Yearbook, 1963, p. 732-733.
+
+TABLE 11
+PROPORTION OF FEMALES UNMARRIED AT AGE « (gz): SWEDEN
+
+Age 1900 1910 1920 1930 1940 1950 1960
+15-19........ 0.989 0.989 0.989 0.990 0.981 0.963 0.973
+20-24........ 0.806 0.804 + 0.800 0.805 0.718 0.602 0.591
+F529 ist hen 0.523 0.521 0.518 0.525 0.404, 0.283 0.229
+30-34........ 0.368 0.366 0.374 0.363 0.293 0.188 0.154
+SOD ose as ue 0.301 0.307 0.317 0.308 0.280 0.184 0.150
+40-44........ 0.283 0.300 0.306 0.306 0.288 0.211 0.159
+
+Sources: Given in Table 10.
+
+TABLE 12
+AGE-SPECIFIC ILLEGITIMACY FERTILITY RATES (i): SWEDEN
+
+(Number of illegitimate births per unmarried female of age x)
+
+Age 1900* 1910 1920 1930 . 1940 1950 1960
+15-19... 26 ss. 0.0090 0.0125 0.0153 0.0129 0.0129 0.0195 0.0179
+DOR ae «2 au 0.0389 0.0440 0.0477 0.0313 0.0236 0.0314 0.0285
+25-29....... 0.0439 0.0419 0.0385 0.0215 0.0173 0.0237 0.0274
+30-34....... 0.0333 0.0335 0.0271 0.0156 0.0126 0.0190 0.0182
+35-39....... 0.0265 0.0248 0.0199 0.0104 0.0079 0.0117 0.0109
+40-44....... 0.0133 0.0114 0.0089 0.0045 0.0030 0.0045 0.0039
+
+Sources: The figures on which the above rates are based are from the following sources: for 1900 and 1910, Statistiska Centralbyrdu, Statistisk Arsbok For Sverige, 1914, p. 30-31; for 1920, ibid., Statistisk Arsbok For Sverige, 1927, p. 57; for 1930, ibid., Statistisk
+Arsbok For Sverige, 1937, p. 55; for 1940, thid., Statistisk Arsbok For Sverige, 1952, p. 59; for 1950, ibid., Statistisk Arsbok For Sverige
+1953, p. 61; for 1960, ibid., Statistisk Arsbok For Sverige, 1963, p. 47.
+
+* Rates for 1900 actually refer to the year 1901,
+
+TABLE 13
+AGE-SPECIFIC LEGITIMATE FERTILITY RATES (iz): SWEDEN
+
+(Number of legitimate births per married female of age x)
+
+Age 1900 1910 1920 1930 1940 1950 1960
+15-19....... 0.5927 0.6234 0.6909 0.5543 0.5025 0.5563 0.5876
+20-24 ....... 0.4679 0.4340 0.4301 0.3010 0.2561 0.2701 0.2638
+25-29....... 0.3717 0.3250 0.3006 0.1896 0.1658 0.1699 0.1709
+30-34....... 0.2931 0.2551 0.2248 0.1305 0.1126 0.1118 0.0953
+ye) 0.2297 0.1976 0.1630 0.0902 0.0701 0.0654 0.0447
+40-44....... 0.1231 0.1002 0.0829 0.0428 0.0278 0.0224 0.0135
+
+Sourcrs: Given in Table 12.
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+ 
+
+Vol. 16, No. 2
+
+clearly that the decline in 7, accounts for the
+whole rise in the Ratio during this period.
+
+1920-30 (cols. 5, 7, and 8, of Table 15).
+This is a very interesting case in the sense
+that the Illegitimacy Rate shows a drastic
+decline in the illegitimacy level (by 34%),
+but the Ratio records a slight rise (4%).
+This is similar to the case of Norway for the
+decade 1920-30. As mentioned in the case of
+Norway, the final direction of change in the
+Ratio depends on the relative speed of
+changes in Zf,gztz and Zf,(1 — gz) 7:.
+
+In order for the Ratio to increase, the
+rate of decline of =f,(1 — gz)jz should be fast
+ 
+
+legitimate Births 105
+
+15). This decade experienced changes in all
+four demographic factors. Column 10 shows
+another example of the dual effect of
+changes in gz on the Ratio. Obviously, the
+remaining difference between the standardized Ratio and Rate (153.6 and 18.3)
+of 1940 (col. 11) and the observed Ratio
+and Rate (163.9 and 18.6) of 1930 are due to
+the fourth demographic factor not included
+in the standardization, that is f;, the age
+distribution of females within childbearing
+ages.
+
+1940-50 (cols. 9, 12, and 13 of Table 15).
+This is another example where Ratio and
+
+TABLE 14
+
+TREND OF ILLEGITIMACY RATIOS, ILLEGITIMACY RATES, AND GENERAL
+PROBABILITIES OF ILLEGITIMACY (Zf;gztz): SWEDEN, 1900-1960
+
+ILLEGITIMACY
+General
+Ratio Rate Probability
+YEAR (1,000) Index* (X1,000) Index* (1,000 X frqziz) Index*
+1900..... 120.4» 100.0 25.7 100.0 15.1 100.0
+1910..... 145.2 120.6 28.1 109.3 16.7 110.6
+1920..... 157.6 130.9 28.2 109.7 16.6 109.9
+1930..... 163.9 136.1 18.6 72.4 10.7 70.9
+1940..... 115.6 96.0 14.8 57.6 7.4 49.0
+1950..... 100.9 83.8 20.7 80.5 7.8 $1.7
+1960..... 113.3 94.1 19.7 7.7 51.0
+
+* Base year, 1900.
+
+er than that of 2f,¢.t;. The observed figures, showing a 38.4% and 35.4% decline respectively from 1920 to 1930, support this
+conclusion.
+
+Since the difference between the rates of
+decline of the two components is small
+(3%), it resulted in an insignificant increase
+in the Ratio (4%) during 1920-30. However,
+the 35.4% decline in the =f,q,7, resulted in
+the decline of the Illegitimacy Rate by the
+same magnitude. In other words, the marital
+distribution did not affect the illegitimacy
+level during this period. Finally, the standardized Ratio and Rate (with respect
+to i, and j, simultaneously) of 1930 (col. 8)
+compare very well with those of 1920.
+
+1930-40 (cols. 7, 9, 10, and 11 of Table
+
+Rate show opposite directions in the trend
+of illegitimacy. There is an amazing decline in 2f2gz from 0.497 to 0.377. In view
+of this decline, the observed significant rise
+in the probability of a legitimate child,
+2f2(1—gz)jz, should be interpreted carefully.
+It is more likely to be due to increase in
+(1 — gz) rather than in j,. To support our
+conjecture we note that in 1940 2f,(1 —
+gz)jz = 0.056407 and in 1950 (col. 13)
+fell — gz’)jz = 0.056318 (where gq.’ =
+1940). This is the reason we did not include 7, as the factor of standardization.
+1950-60 (cols. 12, 14, and 15 of Table 14).
+This period proved to be a very tricky one,
+since we are not able to advance a satisfactory reason for the increase in the Lllegiti
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+106
+
+TABLE 15
+ANALYSIS OF THE TREND Or ILLEGITIMACY LEVEL’ SWEDEN, 1900-1960
+
+19608
+1950)
+(15)
+
+1960
+(14)
+
+1950*
+
+(2, tz =
+1940)
+(13)
+
+1950
+(12)
+
+1940*
+(Gx, try Jn =
+1930)
+(11)
+
+0 553998
+0 010147
+0 005923
+
+1940*
+
+Ct
+1930)
+(10)
+
+1940
+(9)
+
+1930*
+(t2,J2=
+1920)
+(8)
+
+1930
+(7)
+
+1920*
+
+(jn =
+1910)
+(6)
+
+1920
+(S)
+0 587721
+0 016586
+0 088680
+1,335,154
+
+1910*
+(tz, Je =
+1900)
+(4)
+
+1910
+(3)
+
+1900
+(2)
+0 588500
+0 015093
+0 110397
+
+1,102,871
+
+Item
+(1)
+
+0 345778
+0 006953
+0 065444
+1,500,970
+
+0 390728
+0 007694
+Q 060237
+
+1,504,304 1,500,970
+
+0 468200
+0 006751
+0 056318
+
+0 377051
+0 007819
+0 069620
+
+0 553998
+0 008311
+0 046540
+
+0 496869
+0 007374
+
+0 056407
+1,538,790 1,538,790 1,538,790 1,504,304
+
+0 576758
+0 016519
+0 089969
+1,459,183
+
+0 576758
+0 010720
+0 054700
+1,459, 183
+
+0 587721
+0 016586
+0 098702
+1,335,154
+
+0 593555
+0 015472
+O 112249
+1,187,006
+
+0 593555
+0 016690
+0 098269
+1,187,006
+
+15-44
+
+(1—¢2)Iz
+females
+
+Zeer
+Lfrdxtz
+a
+
+iv
+
+10,436
+98,229
+96 0
+20 1
+
+11,549
+90,414
+113 3
+19 7
+
+10,156
+84,719
+107 0
+14 4
+
+11,760
+104,730
+100 9
+20 7
+
+15,615
+86,055
+153 6
+18 3
+
+12,789
+71,615
+151 5
+15 0
+
+11,346
+86,799
+115 6
+14 8
+
+24,104
+131 281
+155 1
+28 6
+
+15,642
+79,817
+163 9
+18 6
+
+145
+782
+143 9
+28 2
+
+22
+131
+
+22,145
+118,402
+157 6
+28 2
+
+18, 366
+133,240
+121 1
+26 1
+
+19,811
+116,646
+145 2
+28 1
+
+16,646
+121,753
+120 4
+25 7
+
+itimate births
+
+years
+Leqitumate births
+
+€
+Illegitimacy Ratio
+
+Illegitimacy Rate
+
+Il
+
+* The values in a column with an asterisk should be compared with those in column in the previous year mentioned, for example, 1920* and 1910
+
+Kumar
+
+ 
+
+Social Biology
+
+macy Ratio during 1950-60. We note that
+the sum 2f,(1 — gz)7, has decreased, while
+the other two sums did not change significantly. Therefore, as a starting point, we
+should select 7, as a factor of standardization. However, in this case, we prefer to depart from the general approach. Table 10
+shows remarkable differences in f, values
+between 1950 and 1960. Therefore, we have
+standardized the 1960 indices with respect to f, (see col. 15). Although we get
+approximately the same values of Illegitimacy Rate and Ratio as those of 1950, we
+are tempted to call this a coincidence. After
+the standardization, instead of mimimizing
+the differences, the differences in 2f,g2 and
+Df2gztc were increased (compare col. 12 and
+15). We also know from the observed figures
+that the level of 7, has changed during this
+period. The whole situation can be partly
+explained by the fact that =f, is always
+unity. Consequently, the standardized sums
+have adjusted themselves in such a way
+that they have produced the 1950 level of
+Illegitimacy Rate and Ratio. Of course, the
+level of illegitimacy, as indicated by the
+Rate and the general probability, has not
+changed much during this period.
+
+Conclusion. On the whole, the influence
+of changes in the demographic factors in
+Sweden were as complicated as in the case
+of Norway. The general probability of
+illegitimacy, =f2g.i2, remained stable during
+1900-20, dropped abruptly by 35% in 1930,
+and since then has fluctuated around the
+level of 0.0075. Looking at the other angle,
+there were significant changes in the levels
+of iz, since it was chosen as a factor of
+standardization in four out of six decades.
+The probability of remaining single remained unchanged during 1900-30, and
+dropped sharply during the next two decades. This was the main cause of the
+significant reduction in the Illegitimacy
+Ratio from the level of 160 in 1930 to around
+100 during 1950-60.
+
+Added to this, the same pace of changes
+in the level of marital fertility (2f.(1 —qz)jz)
+
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+ 
+
+ 
+
+Vol. 16, No. 2
+
+affected the behavior of illegitimacy ratios
+considerably. This is evident from the fact
+that 7, has been used as a factor of standardization four times. Thus, all the demographic factors have played a very important role in the Swedish trend of illegitimacy
+during 1900-60. The numerical measures of
+the reduction in the three sums are: Zf,g2
+declined by 36%, Zfrgziz by 49%, and
+2f-(1 —qz)jz by 45% during 1900-60. These
+drastic reductions clearly indicate the
+complexity of the analysis. On the whole,
+both the Illegitimacy Rate and general
+probability have decreased to a lesser extent than in Norway during 1900-60.
+
+SUMMARY AND CONCLUSIONS
+
+We have identified the demographic factors, the interaction of which leads to an
+observed level of illegitimacy, and determined their relative contribution to an observed change in the illegitimacy level.
+In this study, the term “level of illegitimacy” is explained as the probability of
+occurrence of an illegitimate birth to a specified female. The demographic factors identified are: age-distribution of females in the
+childbearing ages (f.), proportion of total
+females at age x who are unmarried (g;),
+age-specific rates of illegitimate births (i,),
+and age-specific rates of legitimate births
+(jz). The first two factors determine the
+proportion of the female population exposed to the risk of bearing an illegitimate
+child.
+
+The Illegitimacy Ratio (number of
+illegitimate births per 1,000 total births)
+and the Illegitimacy Rate (number of
+illegitimate births per 1,000 unmarried females in childbearing ages) are two wellknown measures of the “level” of illegitimacy. We have presented the necessary
+mathematical expressions of these measures
+in terms of the four demographic factors and
+listed various properties of them. By our
+definition, the Illegitimacy Ratio does not
+
+Illegitimate Births 107
+
+measure the “level of illegitimacy” but the
+Iilegitimacy Rate does. Our discussion
+shows that the Ilegitimacy Ratio, besides
+not being a probability measure, could be a
+misleading indicator of trend of illegitimacy.
+This fact has been proved in the analysis of
+actual data from Norway and Sweden.
+Apart from the Illegitimacy Rate, we have
+also used the expression 2f2g.7z as another
+measure of illegitimacy. This, designated as
+general probability of illegitimacy, refers to
+the probability of bearing an illegitimate
+child by a female in the childbearing ages
+(irrespective of her marital status).
+
+The major contribution of this study is
+the development of a systematic method
+for analyzing data on illegitimacy. Many
+different kinds of situations were successfully handled by this method during analysis of data on illegitimacy in Norway and
+Sweden. In particular, three sums proved
+extremely useful. They are:
+
+1. 2f2g.—the overall probability of being
+single during the childbearing ages.
+
+2. ZfrQztz—the overall probability of
+bearing an illegitimate child by a female of
+childbearing age.
+
+3. Zf-(1 — gz)jz—the overall probability
+of bearing a legitimate child by a female
+of childbearing age.
+
+These sums are very sensitive measures of
+marital condition, illegitimate fertility, and
+marital fertility, respectively.
+
+ACKNOWLEDGMENTS
+
+The author is grateful to Professors Kingsley
+Davis, Samuel Preston, Paul Demeny, Calvin
+Goldscheider, and Eduardo Arriaga for their
+useful criticisms and suggestions, although they
+are not to be held responsible for the ideas
+expressed.
+
+The research was partly supported by a
+stipend from the Research Apprenticeship Program of the Institute of International Studies,
+University of California, Berkeley, and partly
+by a grant from the Rockefeller Foundation to
+International Population and Urban Research
+at Berkeley.
+
+ 
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+108 Kumar
+
+Social Biology
+
+REFERENCES
+
+Brake, J. 1961. Family structure in Jamaica. The
+Free Press of Glencoe, New York.
+
+Coats, A. J. 1967. Factors associated with the development of low fertility: An historic summary,
+p. 205-209. In World population conference,
+1965, Vol. II. United Nations, New York.
+
+Davis, K. 1939a. The forms of legitimacy. Social
+Forces 18:77-89.
+
+. 1939. Illegitimacy and social structure.
+Amer. J. Sociol. 45:215-233.
+
+GoopvE, W. J. 1960. Illegitimacy in the Caribbean
+social structure. Amer. Sociol. Rev. 25:21-30.
+
+. 1961. Illegitimacy, anomie and cultural
+
+penetration. Amer. Sociol. Rev. 26:910-925.
+
+. 1966. Family disorganization, Im R. K,
+
+Merton and R. A. Nisbet (eds.), Contemporary
+
+social problems. 2d edition. Harcourt, Brace &
+
+World, Inc., New York.
+
+ 
+
+ 
+
+ 
+
+Harrey, S. M. 1966. The amazing rise of illegitimacy in Great Britain. Social Forces 44:533-545.
+
+Kitacawa, E. M. 1955. Components of a difference
+between two rates. J. Amer. Statist. Ass. 50:
+1168-1194.
+
+MatrnowskI, B. 1930. The principle of legitimacy,
+p. 3-19. In R. L. Coser (ed.), The family. St.
+Martin’s Press, New York.
+
+Myrpat, A. 1945. Nation and family. Kegan Paul,
+Trench, Trubner & Co., London.
+
+PINcHBECK, I. 1956. Social attitudes to the problem
+of illegitimacy. Amer. J. Sociol. 65:287-295.
+Vincent, C. E. 1961. Unmarried mothers. The Free
+
+Press of Glencoe, New York.
+
+Wiusreris, V. 1960. The unmarried mother and her
+
+child. George Allen and Unwin, London,
+

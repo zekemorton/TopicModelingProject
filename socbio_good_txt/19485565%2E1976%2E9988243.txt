@@ -1,0 +1,2416 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Sex differentials in morbidity and mortality in the
+United States
+
+Lois M. Verbrugge
+
+To cite this article: Lois M. Verbrugge (1976) Sex differentials in morbidity and mortality in the
+United States, Social Biology, 23:4, 275-296, DOI: 10.1080/19485565.1976.9988243
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1976.9988243
+
+i Published online: 23 Aug 2010.
+Fone | 7
+Submit your article to this journal @
+lil Article views: 5
+N
+Q View related articles 4
+
+(7) Citing articles: 48 View citing articles @
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:36
+
+ 
+ 
+
+—|
+=
+©
+N
+mi
+oO
+=
+oO
+oO
+oO
+A
+Co
+©
+\O
+og)
+oN
+=
+—
+3
+"
+3
+oN
+=
+a
+O
+=
+Cd
+©
+>
+—
+=
+N
+~
+oO
+>
+—
+c
+-,
+ve)
+Oo
+cv
+oO
+ca
+3
+©
+—
+c
+S
+©
+a
+
+ 
+
+ 
+
+Sex Differentials in Morbidity and Mortality
+
+in the United States
+
+Lois M. Verbrugge*
+
+Department of Social Relations
+The Johns Hopkins University
+Baltimore, Maryland
+
+ 
+
+ABSTRACT: Life expectation of females in the United States exceeds that of males, but females’
+health while living appears worse. Based on self-reports of illness, females have higher incidence
+rates for acute conditions, and a higher percentage of them have a chronic condition. The paper
+examines sex differentials in mortality and morbidity for 1958-72, using national vital statistics
+and Health Interview Survey data. The reversal of mortality and morbidity sex differentials in the
+aggregate is due in part to a distribution effect, diseases with a male excess being weighted heavily
+in mortality, but those with a female excess dominating morbidity. For specific conditions, sex
+morbidity and sex mortality differentials are usually in the same direction, the sicker sex being
+more likely to die. For several conditions, however, females have higher morbidity but lower
+mortality than males. By incorporating diagnostic data, these reversals are attributed to females’
+interviewing and illness behavior, rather than to higher physical morbidity.
+
+The life expectation of females in the
+United States exceeds that of males, at age
+zero and all other ages. But the health of
+females while living appears worse. From
+illness survey data, females have higher
+incidence rates for acute conditions, and a
+higher percentage of them have one or
+more chronic conditions. Moreover, when
+ill, females are more disabled. They spend
+more days of restricted activity and more
+days in bed than males for an illness.
+These facts are counterintuitive. Most
+deaths are preceded by an episode of illness. It is reasonable that the sicker sex
+should have higher death rates. How is it,
+then, that females can be both more ill and
+more longevous than men? I propose to
+explain this reversal of sex differentials.
+
+This paper first considers sex differentials in morbidity and mortality rates for
+1958-72, demonstrating the persistence of
+the sex reversal. Trends in sex differentials
+
+* Present address: Department of Biostatistics,
+School of Public Health, University of Michigan,
+Ann Arbor, Michigan 48109.
+
+are also examined to ascertain if they are
+widening or narrowing in the United
+States. Next, rates are disaggregated by
+illness condition and by cause of death.
+Examining the sex differentials attached
+to component diseases and the relative
+weighting of diseases to make up aggregate rates, the causes of the aggregate reversal are identified. Finally, sex reversals
+attached to specific diseases are analyzed
+in detail. These reversals apparently arise
+from sex differences in interview and illness behavior, not from situations in
+which the clinically sicker sex has lower
+death rates.
+
+DATA SOURCES
+
+Mortality data are from National
+Center for Health Statistics publications
+(Vital Statistics of the United States, Volume 2, Part A, and Monthly Vital Statistics Reports) and from unpublished materials for 1970-72. Morbidity data are
+principally from publications for the na
+275
+
+ 
+
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+276
+
+tional Health Interview Survey, conducted since 1957 by the National Center
+for Health Statistics (Vital and Health
+Statistics, Series B and 10).! The survey
+covers the civilian noninstitutional population of the United States. Mortality data
+cover all United States residents. The difference in coverage is slight, the survey
+population being 99 per cent of the resident population in 1970.
+
+SEX DIFFERENTIALS IN MORTALITY
+
+In the United States, the excess of male
+death rates over female rates has been increasing for several decades (Metropolitan
+Life, 1974). Enterline (1961) has considered trends in sex mortality differentials
+for 1929-58. In that period, the age groups
+15—24 and 45-64 showed especially large
+increases in the mortality gap between the
+sexes, and Enterline identifies causes of
+death which accounted for the trend.
+
+Recently, Klebba and coworkers have
+traced trends in age-specific mortality
+rates and cause-specific rates for 1950—
+69 (Klebba, 1971; Klebba et al., 1973,
+1974). They find no appreciable change in
+sex differentials for crude death rates. But
+age-specific and cause-specific data show
+changes masked by aggregation and by
+faster aging of the female population in
+this period. For both whites and nonwhites, male excess mortality has been increasing at most ages, except the very oldest and youngest (Klebba, 1971, p. 27;
+Klebba et al., 1973, p. 30). Trends in sex
+mortality ratios for leading causes are reported (Klebba et al., 1974) and also show
+
+1T use the period 1958-72 rather than 1957-72.
+The Seventh Revision of the International Standard
+Classification of Diseases (World Health Organization, 1957) (hereafter ICDA) was first used to code
+cause-of-death in the United States in 1958. In 1968,
+the Eighth Revision (National Center for Health
+Statistics, 1967) came into use. The 1967 mortality
+data and July 1957-June 1958 morbidity data use the
+Sixth Revision. It does not differ radically from the
+Seventh Revision, but creating a time series of rates
+and sex ratios for detailed conditions is simplified by
+eliminating that year.
+
+Verbrugge
+
+Social Biology
+
+persistent changes in sex differentials,
+which I will discuss. Trends in the size of
+sex mortality ratios have provoked recent
+attention not only for the United States
+population, but also for Western populations generally (Preston, 1970; Retherford,
+1970).
+
+Let us consider recent sex mortality differentials in the United States. What
+causes of death persistently show higher
+rates for males than females in 1958-72? Is
+male excess mortality for these causes increasing over this period?
+
+Table 1 shows age-adjusted sex differentials for leading causes of death for
+1958-72. Age-adjusted rates remove the
+influence of the female population’s older
+age distribution and faster aging in this
+period.” Sex differentials are presented in
+two ways: the ratio of rates for females
+and males, and the difference of those
+rates. The ratio is [Female Rate/Male
+Rate]. The difference is [Female Rate —
+Male Rate]. (Placing the female rate first
+in these differentials is unconventional in
+mortality analysis, but conventional in
+morbidity analysis.) Table 2 summarizes
+the direction and trends in sex differentials
+over the period. Together, the tables show
+a strong female advantage (i.e., male excess) in mortality, which is increasing.
+
+For all causes of death combined, female rates are only 56-64 per cent of male
+rates. Over the period 1958-72, the difference in rates has favored females strongly.
+Per 100,000 population, 343 to 402 more
+males than females died each year. The
+sex ratio has decreased and the sex differ
+2 For every year 1958-72, females are “older,”
+having a higher proportion aged 65+ (Grove and
+Hetzel, 1968; U. S. Bureau of the Census, 1974a).
+This age difference contaminates comparisons of
+crude period rates. Also, the female population is
+aging faster than the male population. The proportion of persons 65+ increased 1.8 per cent for females
+over 1958-72 but only 0.1 per cent for males. This
+fact complicates analysis of trends in sex differentials, if crude rates are used. Age standardization
+eliminates both of these problems.
+
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+ 
+
+ 
+
+Vol. 23, No. 4 Morbidity and Mortality 277
+
+TABLE 1
+
+AGE-ADJUSTED MorRTALITY RATE AND SEX MORTALITY DIFFERENTIALS FOR LEADING CAUSES
+oF DEATH, UNITED STATES, SELECTED YEARS 1958-1972
+(Rates are deaths per 100,000 persons per year)
+
+YEAR
+CavusE* 1958 1962 1966 1970 1972
+All causest
+Total age-adj. rate ......... 764.6 746.3 745.1 714.3 701.8
+Sex Talo 6.46 cs cueeiwasess 0.64 0.62 0.59 0.57 0.56
+Sex difference .............. —343.1 —357.0 —387.2 -399.1 —401.9
+Diseases of heart
+(390-398, 402,
+404, 410-429)
+RGtG: ck ne na ce tae mews kd as 289.3 282.7 275.8 253.6 249.3
+Ratio ...... ccc eee eee ee eee 0.56 0.54 0.52 0.50 0.50
+Difference ..............05- ~163.1 -171.1 —178.2 —173.3 —172.9
+Malignant neoplasms
+(140-209)
+Rate... ccc cece eee ee ees 124.6 125.6 128.4 129.9 130.7
+Ratio ...... cece eee ce eens 0.81 0.76 0.72 0.70 0.68
+Difference .............006: —26.9 —34.7 —42.3 —48.6 —-51.0
+Cerebrovascular diseases
+(430-438)
+Rate .... ccc c cece cece ee ees 83.0 76.8 72.6 66.3 65.0
+Ratio .. ccc ccc cee cece ee eeee 0.89 0.88 0.85 0.83 0.81
+Difference ...........-0008. —9.6 —9.9 —11.5 —12.4 —13.6
+Accidents (E800-E949)
+
+TE Lecce cece ee eee erence 49.8 49.7 55.6 53.7 52.0
+Ratio 2... 0... cee eee ee eee 0.36 0.37 0.36 0.35 0.36
+Difference .............000. —47.6 —46.0 ~52.6 —52.5 —49.5
+
+Influenza and pneumonia
+(470-474, 480-486)
+Rate .... cece cece ee ee eee 25.1 23.7 23.8 22,1 20.8
+Ratio ....... ccc cee eee eee 0.63 0.64 0.61 0.58 0.57
+Difference ..............02. —11.6 —10.5 —-11.7 —12.1 —12.0
+Certain causes of mort.
+in early infancy
+(760—769.2, 769.4-772,
+774-778)t
+REARS c o654 bs 88 28 hs RE RSE OR 1639.9 1540.2 1431.1 1157.9 1037.2
+Ratio oo... ccc eee eee ewe eens 0.76 0.73 0.74 0.75 0.75
+Difference ...............5. —450.2 —468.8 —421.0 —328.2 —298.6
+Diabetes mellitus
+(250)
+Rate ...... ccc cee eee ee ees 13.0 13.5 13.9 14,1 13.6
+Ratio .... cc ccc ee cece eens 1.29 1.18 1.14 1.07 1.05
+Difference ..............05: +3.3 +2.2 +1.8 +0.9 +0.7
+Arteriosclerosis (440)
+Rate .... cece eee cece eee eee 13.4 12.6 11.9 8.4 8.2
+Ratio .... cece eee ees 0.81 0.84 0.83 0.80 0.80
+Difference ...... twee ee mena —2.9 —2.2 —2.3 —2.0 —-1.9
+Bronchitis, emphysema,
+and asthma (490-493)
+Rate .... ccc eee eee eee tees 6.9 9.2 12.2 11.6 11.0
+Ratio ..... ccc ccc ee cee eee 0.25 0.23 0.21 0.24 0.25
+Difference ...........00000. —8.5 —12.0 —16.8 -15.6 — 14.5
+Cirrhosis of liver (571)
+Rate ..... ccc cece ee eee eee 9.9 11.0 13.0 14.7 14.9
+Ratio ..... ccc ccc eee eae 0.48 0.49 0.49 0.49 0.46
+Difference ...........ce8e 0s —-7.1 ~7.7 —-9,1 —10.4 —11.2
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+278 .
+
+Verbrugge
+
+Social Biology
+
+TABLE 1 (Continued)
+
+ 
+
+ 
+
+ 
+
+YEAR
+CausE* 1958 1962 1966 1970 1972
+Suicide (E9S50-E959)
+
+te Lecce ccc ccc eee eee 10.5 11.0 11.1 11.8 12.1
+Ratio ....... 2c eee eee eee 0.28 0.33 0.37 0.39 - 0.39
+DiflSPENCE wane cence ceen ene =—12.1 —11.2 —10.6 10.5 —-11.0
+
+Congenital anomalies
+
+(740-759)§
+Bate nivscegagcan sg ae he Oe BOS 370.0 355.9 388.3 301.7 290.3
+RAH cece sass ases nacganess 0.88 0.85 0.88 0.90 0.88
+DAGUOMEE sac cca cans au oa 5 o —46.9 —57.0 —42.2 § §
+
+Homicide (E960-E978)
+
+EG i sacs Bees Ba Foe dE wes 4.9 5.4 6.7 9.1 10.3
+Ratio ses casa ce ceecaen sees 0.33 0.31 0.31 0.25 0.24
+Difference ............0008: —5.0 -5.7 —7 2 —11.2 —12.8
+
+Nephritis and nephrosis
+
+(580-584)
+Rate cuss aeus cvagewa pace ges 7.9 6.0 5.0 ee 3.2
+Rabo saa cy py oy ow eeg eyed gee 0.74 0.68 0.67 0.67 0.67
+DiTleFence aoe cans wee os 00 vas —2.4 -2.3 —2.0 —1.4 -1.3
+
+Peptic ulcer (531-533)
+
+a 5.3 5.4 4.2 3.2 2.9
+Ratio .... ccc cece ee cee eee 0.29 0.31 0.34 0.39 0.36
+Difference ............0006- —6.0 —5.9 —4.3 —3.0 —2.8
+
+ 
+
+SOURCES: For cause-specific age-adjusted rates, Klebba et al., 1974. For All causes age-adjusted rate, Klebbaet al., 1973. For 1958-67, Seventh
+Revision of ICDA is used. For 1968-72, Eighth Revision is used. Standard population chosen for direct method of age adjustment is 1940 total
+enumerated population. The full table with all years 1958-72 is available from the author.
+
+* The causes shown are the leading ones for 1969 They appear in rank order. In 1972, the same fifteen conditions were leading, with these
+changes in rank order: diabetes mellitus (6), certain causes of mortality in early infancy (7), cirrhosis of liver (8), arteriosclerosis (9), bronchitis/
+emphysema/asthma (10), homicide (12), congenital anomalies (13). Eighth Revision ICDA codes are in parentheses after each specific cause.
+
+t Under each title, three age-adjusted items are shown: death rate for total population, sex mortality ratio, and sex mortality difference, in that
+order. Ratio is [Female Rate/Male Rate}. Difference is [Female Rate~Male Rate].
+
+$ The rate is deaths per 100,000 live births. Rates are computed from Klebba et al., 1974, Table 4, for 1958-69. For 1970-72, numerators are
+from National Center for Health Statistics, 1974a,c,f. Birth denominators are from National Center for Health Statistics, 19746,d,e.
+
+§ The rate is deaths under age 1 per 100,000 live births. Rates are computed from Klebba et al., 1974, Table 5, for 1958-69. (In 1972, congenital
+anomaly deaths under age 1 account for 64% of all deaths from that cause. See Klebba et al., pp. 46-47, for rationale of using former.) For
+
+1970-72, numerators and denominators are from same sources as in footnote (¢}. For those years,
+
+¢ numerator (deaths under age 1) by sex is not
+
+available. Instead, conventional death rates (per 100,000 population) are used from unpublished data, and sex ratios are based on them. Sex
+
+differences cannot be computed for those years.
+
+ence has increased, both reflecting relative
+improvement for females between 1958
+and 1972.
+
+Most of the fifteen leading causes of
+death show a similar pattern in sex differentials. Fourteen of them have a male excess (thus, a sex ratio below 1.00 and a
+positive sex difference). The exception is
+diabetes mellitus. Over time, the female
+advantage increases for five titles (Causes
+No. 1, 2, 3, 5, and 13) in both the sex ratio
+and sex difference. In addition, females’
+disadvantage for diabetes mellitus (7) is
+decreasing. For four titles (4, 9, 10, and
+12), a female advantage is maintained,
+showing no trend in one or both measures.
+Three titles (6, 8, and 14) have “compet
+ing” trends. Although the sex ratios show
+relative improvement (or maintained advantage) for females, the sex differences
+are narrowing, indicating relative improvement for males. The reason is simple: Death rates for these diseases have
+declined sharply for both sexes from 1958
+to 1972. In this situation, the difference in
+rates can narrow while the sex ratio remains constant or even widens. I prefer
+the sex ratio as a measure of relative mortality risks and therefore interpret the
+trends for these three causes as favorable
+to females.
+
+Females’ advantage is eroding for only
+two leading causes (suicide and peptic
+ulcer). Death rates from suicide are in
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 23, No. 4
+
+Morbidity and Mortality
+
+279
+
+TABLE 2
+
+TRENDS IN SEX DIFFERENTIALS FOR LEADING CAUSES OF DEATH, UNITED STATES, 1958-1972*
+(Based on age-adjusted rates)
+
+: Trend in
+Cause of Death Sex Ratiot Sex Differencet Total Rate
+All causes 1... . cece cece cette eeeees F F Decrease
+(1) Diseases of heart ................ F F Decrease
+(2) Malignant neoplasms ............ F F Increase
+(3) Cerebrovascular
+CGiseases ...... cc cece cee eter wees F F Decrease
+(4) Accidents ......... 0.2 ccc eee eee No trend (F) No trend (F) Increase
+(S) Influenza/
+pneumonia ........... ccc ee eeee F F (slight) No trend
+(6) Certain causes of
+mortality in early :
+Infancy... .. cece cect eee eeee F (slight) M Decrease
+(7) Diabetes mellitus ................ F F Increase
+(8) Arteriosclerosis ..........-.e0e00: No trend (F) M Decrease
+(9) Bronchitis/emphysema/
+aSthma..... cece see ce eee e eens No trend (F) F Increase
+(10) Cirrhosis of
+liver... ccc cee cee wee eevee es No trend (F) F Increase
+(11) Suicide... 0... cece ee eee M M Increase
+(12) Congenital
+anomalies .......... ccc cee ee eeee No trend (F) No trend (F) Decrease
+(13) Homicide......... 0... ccc cucu eens F F Increase
+(14) Nephritis and
+nephrosis ...........eeceeeeeeeee F M Decrease
+(15) Peptic ulcer..............00e000- M M Decrease
+
+* Leading causes of death for 1969, in rank order. “F” denotes improving position of females relatives to males. “M” denotes improving position
+of males relative to females. “No trend (F)” denotes a female advantage which is maintained over the period, but shows no trend
+
++ {Female Rate/Male Rate}.
++ [Male Rate — Female Rate].
+
+creasing (especially in 1969-72), and female rates are rising faster than male
+rates. Peptic ulcer death rates are decreasing overall, but more rapidly for males
+than females.
+
+In summary, males have higher death
+rates than females for most leading causes,
+and their excess mortality is increasing in
+the period 1958-72. Where do females suffer a disadvantage in the leading cause of
+death? Only in their higher rates for diabetes mellitus (which are, however, edging
+closer to male rates) and their “catching
+up” in suicide and peptic ulcer rates.
+These three causes account for only 4.1
+per cent of the 1972 deaths from leading
+causes and 3.6 per cent of all 1972 deaths.
+(Altogether, the fifteen leading causes account for 88 per cent of all 1972 deaths.)
+
+Age-adjusted rates were also examined
+for five other causes of death for the period
+
+1968-72.3 The titles are syphilis and its
+sequelae (ICDA 090-094); avitaminoses
+and other nutritional deficiencies (260269); acute bronchitis and_ bronchiolitis (466); appendicitis (540-543); and
+cholelithiasis, cholecystitis, and cholangitis (574, 575). These are not “leading”
+causes, accounting for only 0.5 per cent of
+all 1972 deaths, but they are of contemporary concern to epidemiologists and health
+planners. Male death rates are higher than
+female ratés for all of these conditions. For
+four titles, the male advantage worsens
+slightly or persists over the period. For
+only one title (syphilis) are female rates
+coming closer to male rates.
+
+In addition, age-adjusted rates were
+computed for fourteen more titles for
+
+3 The age-adjusted rates are from unpublished
+data, National Center for Health Statistics. A table
+concerning sex differentials for these titles is in Verbrugge, 1975, p. 16. :
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+280
+
+1958-71, to be compared with morbidity
+titles later. These titles are all minor
+causes of death. Table 3 shows that all but
+one title (arthritis/rheumatism) have persistent male excess rates for the period
+1958-71. Nine titles show trends favoring
+females, compared to males. Only two
+show any evidence of a worsening situation for females, compared to males.
+
+In summary, Klebba (1971) finds that
+male mortality rates rose for some important diseases in the 1960’s, after a period of
+stationary rates. In addition, this analysis
+demonstrates that males’ mortality situation worsened relative to females in that
+period for most causes of death. (The 34
+titles examined encompass over 95 per
+cent of all 1972 deaths.) It is believed,
+but not thoroughly demonstrated, that
+changes in life-styles (smoking, alcohol
+consumption, driving) have adversely affected males more than females, and that
+these changes account for the deterioration
+in their mortality rates.
+
+SEX DIFFERENTIALS IN MORBIDITY
+
+An abundant and continuous source of
+illness data for the United States is the
+Health Interview Survey. Respondents
+report acute illnesses or injuries which required either medical attention or reduced
+daily activity in the two weeks before interview and any chronic conditions which
+restrict their activity or mobility. By confining reports to conditions which spur
+medical attention or disability, the survey
+data eliminate minor symptoms (those
+above a private threshold of feeling sick,
+but not severe enough to alter routine activities). Perception of such symptoms
+may vary sharply across social groups.
+Analyses of the data (Public Health Service, 1958-1962, and National Center for
+Health Statistics, 1963-1974) tend to interpret the incidence and prevalence rates
+as measures of physical illness. In that
+
+Verbrugge
+
+Social Biology
+
+spirit, I discuss sex morbidity differentials
+and their trends for 1958-72. Later, I shall
+argue that a social interpretation of these
+data is inescapable.
+
+Like mortality data, the Health Interview Survey data encompass all disease
+conditions (thus, the full range of codes in
+National Center for Health Statistics, 1967,
+and World Health Organization, 1957).
+Also, they provide a yearly time series
+which can be compared with annual mortality rates. In the following discussion,
+morbidity rates are age-adjusted to the
+same standard population as mortality
+rates (see Sources, Table 1).
+
+ACUTE CONDITIONS
+
+Females experience more acute conditions per year than males do (Table 4).
+The female excess for all acute conditions
+varies from 9 per cent to 20 per cent between 1958 and 1972. Per 100 population,
+females have 17 to 39 more conditions per
+year than do males. For the five major
+categories of acute conditions, female excess rates persist for infective and parasitic
+diseases, respiratory conditions, and digestive system conditions.‘ Their rates are
+7 to 30 per cent, 11 to 25 per cent, and 6 to
+38 per cent greater than males, respectively. In terms of differences, the gap is
+especially large for respiratory conditions.
+Per 100 population, females have 12 to 27
+more acute episodes than males do. Females also have excess morbidity for
+“other acute conditions,” even when reproduction events are deleted (41 to 70 per
+cent). Only for injuries do males have
+persistently higher rates than females.
+
+The sex differential for acute conditions
+has remained quite stationary since 1958.
+In Table 4, the ratios and differences fluctuate from year to year, but they show no
+overall trend for “all acute conditions” and
+
+* There are two minor exceptions. The sex ratio is
+less than 1.00 for infective and parasitic diseases one
+year; for digestive system conditions, another year.
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 23, No. 4
+
+Morbidity and Mortality
+
+TABLE 3
+
+281
+
+AGE-ADJUSTED FEMALE MorTALITY RATE AND SEX MORTALITY DIFFERENTIALS
+FOR MINOR CAUSES OF DEATH, UNITED STATES, SELECTED YEARS 1958-1971
+
+(Rates are deaths per 100,000 persons per year)
+
+CausE*
+
+Tuberculosist
+(010-019)
+Female age-adj. rate.......
+Sex ratio ............00ee
+Sex difference ............
+Benign and unspecified
+neoplasms (210-239)
+Os wc we eae ee ae eae ee
+
+Mental and nervous
+conditions (290-309)
+Rate... cc cece cee ees
+Ratio ........ cece wwe ee eee
+
+Hypertension
+without heart
+involvement (400,
+401, 403)
+
+Varicose veins and
+hemorrhoids
+(454—458)
+Rate... . ccc cece ce cee ee eee
+Ratio ...... cece cece wees
+
+Other circulatory
+
+system conditions
+
+(440-453)
+Rate... cece cece cee eens
+Ratio... 0... cee eee eee
+Difference ...........00005
+
+Other respiratory
+
+system conditions
+
+(Group VHI-[460~
+
+466, 490-493])!
+Rate... cc cece cee eens
+Ratio ........ sawine come koe
+Difference.........eeee00:
+
+Hernia (550-553, 560)
+Rate........ eee e eee seeeee
+Ratio pcca6 cewes oa we ew nw we
+Difference ..........000005
+
+Other digestive
+
+system conditions
+
+(Group IX-[531i
+533, 550-553, 560)!
+Raté.icvecasceaay Seeeees
+Ratio .... 2. cece ee ee eee
+Difference ............0.05
+
+Diseases of kidney
+
+and ureter (581-584,
+
+590-599)
+
+Rate... cee ccc ce eee
+Ratio ....... ccc ee eee
+
+YEAR
+1958 1962 1966
+3.6 2.4 1.7
+0.37 0.36 0.32
+-6.1 —4.4 —3.6
+2.8 2.4 2.3
+1.13 1.13 1.04
++0.3 +0.3 +0.1
+1.5 1.3 1.6
+0.42 0.42 0.40
+—2.0 -1.9 —2.4
+6.1 4.9 3.7
+0.86 0.82 0.74
+—-1.0 —1.1 —1.3
+3.3 3.9 5.0
+0.80 0.79 0.83
+—0.8 —-1.0 -1.1
+21.0 21.9 20.6
+0.77 0.77 0.71
+—6.3 —6.5 ~—8.3
+aud 0.8# 0.8
+0.47 0.34 0.31
+—3.6 —1.6 ~1.7
+3.9 4.0 3.7
+0.89 0.92 0.91
+—0.5 -0.3 —0.4
+15.0 16.9 14.6
+0.60 0.64 0.51
+-10.1 —9.3 —14.1
+ak > eK
+
+1970
+
+wor
+
+0.5§
+—0.4
+
+23.2§
+—18.5
+
+“oo
+nts
+09
+
+NOn~s
+HA “IO
+wm
+
+TREND IN
+DIF FERENTIALT
+
+em:
+
+rej hr} 
+F
+No trend (F)
+
+oles
+
+F
+No trend (F)
+
+No trend (F)
+M
+
+No trend (F)
+M
+
+No trend (F)
+No trend (F)
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+282 Verbrugge” - Social Biology
+
+TABLE 3 (Continued)
+
+ 
+
+ 
+
+YEAR
+
+TREND IN
+CausE* 1958 1962 1966 1970 DIFFERENTIALT
+
+ 
+
+Other genitourinary
+system conditions
+(Group X-[580-584,
+590, 592, 594)
+Rates seas ewmie Shee pa we wee 12.
+Ratio ............ cond Road 0.
+Difference..............: . 7
+
+Arthritis and
+rheumatism (710-718)
+Rate...........00- veeeeee
+
+oO OO =
+oO
+“OO
+— As
+o
+moo
+
+I
+
+“ON
+
+i) nN
+am
+
+a =F
+©
+—
+ €
+hb
+
+o=_
+
+ww Ww
+3°
+© ~ pe
+
+hry rx:
+
+Other musculoskeletal
+
+disorders (Group XITI
+[710-718, 727, 735-738)
+Rate... cee ee ee cee eee 0.
+Ratio ....... ccc cece eee eee 0.
+Difference ........... i Baed —0.
+
+No ‘trend
+No trend
+
+AH
+oO
+ooo
+00 00
+—
+ooo
+
+Infective and parasitic
+diseases (000-136)
+Rate... ... cece ee ee eens 8.
+Ratio ...... cece eee ee ees 0.
+Difference................ 78.
+
+Acute respiratory
+
+conditions (Group VIII
+[490-493, 500, 517, 518}
+Rate....... cece cane cease 27.
+Ratio o.oo e ee 0.
+Difference............000- —22,
+
+ho
+‘oO
+OOn
+“NaN
+So
+WOW
+eo ON a7
+Oo
+
+6 21.8§ wee
+.44 0.54 No trend (F)
+5 —18. F
+
+mF bee
+tf
+MOH
+Gn
+ome
+wOW
+
+Acute digestive
+
+conditions (Group IX~
+
+(531-533, 550-553, 560,
+
+562, 563)
+Rate... .. ccc ec ceee nee eus 15.4
+Ral aca us gu eo on os wane Te 0.60
+Difference.............-2: —10.2
+
+Injuries (Group XVII)
+Rate........... i ha ne chen 34.8 36.7 39.5 41.7 aes
+Ratio .......... TCT TT 0.35 0.37 0.36 0.35 No trend (F)
+Difference............. w+. —64.0 —62.3 —70.3 —76.1 F
+
+Sources: For numbers of deaths, National Center for Health Statistics, 1958-1970, Vital Statistics of the United States. Volume II, Part A. For
+denominators (population at risk), Grove and Hetzel, 1968, for 1958-59; U.S. Bureau of the Census, 1974a, for 1960-69, 1971, and 19745 for
+1970.For 1958-67, Seventh Revision of ICDA is used. For 1968-71, Eighth Revision is used. Standard population for direct method of age
+adjustment is 1940 total enumerated population. The full table with all years 1958-71 is available from the author.
+
+* In this table, causes are grouped so they match morbidity condition groups, discussed later. Eighth Revision ICDA codes used to compute
+rates are in parentheses after each cause. This is the closest feasible match to the span of codes for the same morbidity condition (see Wilder, 1973,
+p. 50 and Wilson 1973s, p. 49 for these codes). Seventh Revision ICDA codes used for the mortality rates are available from the author.
+
+t “F” denotes improving position of females relative to males. “M” denotes improving position of males relative to females. “No trend (F)”
+denotes a female advantage which is maintained over the period, but shows no trend. .
+
++ Under each title, three age-adjusted items are shown: death rate for female population, sex mortality ratio, and sex mortality difference, in
+that order. Ratio is [Female Rate/Male Rate]. Difference is [Female Rate —Male Rate].
+
+§ The span of codes used to compute rates differs for the Seventh and Eighth Revisions of ICDA. This computation artifact, plus any real
+hate = diagnosis of these causes, produces marked differences in rates and sex differentials between 1958-67 (Seventh Revision) and 1968-71
+
+ighth Revision). ,
+
+' This title includes a leading cause of death (influenza/pneumonia in the respiratory group; cirrhosis of liver in the digestive group; and
+accidents, suicide, homicide in injuries). The title is not counted in the text discussion of this table.
+
+# Beginning in 1962, the number of deaths diagnosed as ICDA (511-517, $20, $22-§27.0, §27.2) drop sharply. Consequently, rates drop and
+sex differentials change for 1962-67. '
+
+** Mortality data are not disaggregated enough for 1958-67 to compute rates.
+
+eer
+
+7.4
+0.56 No trend (F)
+3.8 F
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 23, No. 4
+
+Morbidity and Mortality
+
+283
+
+TABLE 4
+
+AGE-ADJUSTED RATE AND SEX DIFFERENTIALS FOR ACUTE CONDITIONS,
+BY CONDITION Group, UNITED STATES, SELECTED YEARS 1958-1972*
+(Rate is number of conditions per 100 persons per year)
+
+ConpiTION Group 1957-1958
+
+All acute conditionst
+
+Total age-adj. rate ............ 252.8
+
+Sex Ratio ......... cece cece aes 1.12
+
+Sex Difference ................ 28.0
+Infective and parasitic
+diseases
+
+Rate ..... ccc cece cece eee e eee 20.9
+
+Ratio... .. ccc ccc eee cece ees 1.18
+
+Difference .............00eues 3.4
+Respiratory conditions
+
+FRAG) cae oe ose woe os oe oe on oe 163.7
+
+FRAG s cm oe ae Ob Peake Ere SCORES 1.18
+
+Difference ........ 0.00.02 eae 26.6
+Digestive system conditions
+
+Rate 2... ccc cece ee eee aes 14.0
+
+Ratio... cece ce eee enews 1.16
+
+Difference .............0e00ee 2.1
+Injuries
+
+Rate oc eog pg pea vegans 4 28 84 a4 28.2 .
+
+POS c oa sq oe 99 H8 Oe eee eee aes 0.66
+
+Difference ....... ccc cece ceee —~11.6
+Other acute conditionst
+
+Rate (incl. reprod.)............ 25.8
+
+Ratio... . cc cece ee eee eee eee N.A
+
+Difference ..........0 cee eaes N.A
+
+YEAR (JuLY-JUNE)
+
+1961-1962 1965-1966 1969-1970 1971-1972
+214.9 207.0 202.7 220.2
+1.20 1.13 1.12 1.16
+38.9 24.8 22.4 $2.3
+24.4 43.9 23.7 23.0
+1.30 1.20 1.07 1.26
+6.3 4.3 1.5 5.2
+122.9 121.7 111.7 120.1
+1.20 1,14 1.14 1.15
+22.4 16.0 14.5 16.9
+12.3 10.5 11.0 11.4
+1.38 1.15 1.18 1.32
+3.9 LS 1.8 3.1
+28.6 25.8 27.7 33.0
+0.73 0.65 0.67 0.66
+—9.1 —10.9 —11.0 —13.8 :
+26.7 25.5 28.7 32.8
+1.47 1,43 1.56 1.70
+8.8 rm) 11.6 15.3
+
+ 
+
+Sources: For unadjusted rates: Public Health Service, 1958-1962, Health Statistics, Series B, Nos. 6, 18, 33, and National Center for Health
+Statistics, 1963-1974, Vital and Health Statistics, Series 10, Nos. 1, 10, 15, 26, 38, 44, 54, 69, 77, 82, 88.
+* Rates are direct standardized to the age distribution of the 1940 total enumerated population of the United States. Data for years not shown in
+
+this table (for the period 1958-72) are available from the author.
+
++ Under each title, three age-adjusted items are shown: incidence rate for the total population, sex morbidity ratio, and sex morbidity difference.
+The ratio is [Female Rate/Male Rate]. The difference is [Female Rate — Male Rate].
+
+.t The category “other acute conditions” includes diseases of the ear, headaches, genitourinary disorders, deliveries and disorders of pregnancy
+and the puerperium, diseases of the skin, diseases of the musculoskeletal system, and a further residual. The sex ratios and sex differences exclude
+
+the fourth category.
+
+the five categories. (One might claim a
+slight improvement among males for
+“other acute conditions” relative to females, but the evidence is slender.) In light
+of males’ worsening mortality situation,
+should we expect a declining female excess
+in acute conditions? No, since the deterioration in male mortality is occuring mainly
+for chronic conditions (Klebba, 1971).°
+
+5 There is an interesting, though small, trend in
+sex differentials for respiratory conditions. Female
+rates show a slight improvement, compared to male
+rates, (Both the sex ratio and sex difference decrease.) Recall that mortality data show a relative
+improvement among females for bronchitis/emphysema/asthma. Most deaths occur from chronic forms
+of these titles, but acute conditions are often precursors of chronic ones. There is suggestive agreement in
+these trends.
+
+CHRONIC CONDITIONS
+
+.Per cent with chronic condition and
+per cent limited by it.—Chronic conditions are more prevalent among females
+than males, but they are more consequential for males. For 1957-67, Table 5 shows
+that a higher per cent of females have a
+chronic condition in each period measured. However, having a chronic ailment
+tends to be more limiting for males. In all
+years measured, a higher per cent of them
+are completely unable to carry on the
+major activity for their age group. Looking at age-specific prevalence, the difference is small for youths under age 17 and
+widens for every successive age group. At
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+284
+
+Verbrugge
+
+Social Biology
+
+TABLE 5
+
+AGE-ADJUSTED PREVALENCE OF CHRONIC CONDITIONS AND OF SEVERE ACTIVITY LIMITATION AND
+MoBILIty LIMITATION DUE To THEM, BY SEX, UNITED STATES 1957-1972
+
+Year (July-June) No Chronic
+and Sex Condition
+
+1957-1958
+
+Male ............ cece eee 60.6%
+
+Female ............2e0005 57.1%
+1959-1961
+
+Male ..........c. cee ee eee 58.1%
+
+Female .............-.00- 56.3%
+1961-1963
+
+Male ............ce eves 56.0%
+
+Female ............-ee000% 53.8%
+1965-1967
+
+Male ..........-...20000- 50.1%
+
+Female: oa pg oe pe cape cups ve 48.9%
+1969¢
+
+Male ........cceeeceenees
+
+Female ...........e00008.
+19728
+
+Male ........... cece ween ee
+
+Female .........e..eeeees ow
+
+Unable To Do Has Major
+
+Major activity* Mobility Limitationt
+2.5% 2.3%
+1.3% 2.8%
+2.8% 2.3%
+1.2% 2.4%
+2.8% 2.8%
+1.2% 2.6%
+2.8% 2.9%
+1.0% 2.9%
+3.9% N.A.
+1.3% _
+4.2% 2.5%
+1.1% 2.5%
+
+Sources: For unadjusted rates: Public Health Service, 1958-1962, Health Statistics, Series B. Nos. 11 and 36, and National Center for Health
+Statistics, 1963-1974, Vital and Health Statistics, Series 10, Nos. 17, 61, 80, and 96. Data for 1963-65 and calendar 1971 are in NCHS, Series 10,
+
+Nos. 51 and 79, but not in sufficient detail for this table.
+
+* For persons under age 17, the major activity is school. For women 17+, it is housework, job, or school. For men 17+, it is job or school. See
+
+Wilder, (1974, pp. 51-52) for full definitions.
+
++ This category includes persons who have trouble getting around alone, who cannot get around alone (and need help to do so), and who are
+
+confined to their houses.
+
+$ In 1968, the Health Interview Survey began to emphasize only chronic conditions which limit activity or mobility. From that year on, there is
+no split of “persons without a condition” and “those with a condition that poses no limitation.”
+
+§ Calendar year(s).
+
+ages 65+, the gap is remarkable, with 9 to
+21 per cent more males than females
+completely unable to do strenuous work of
+any kind. In 1972, 28 per cent of all men
+aged 65+ were disabled to that extent,
+compared to only 8 per cent of women that
+age.
+
+The relationship between a chronic
+condition and activity limitation are complex. Illness may restrict activity. But
+some people change their roles to accommodate an illness, thereby reducing or
+eliminating activity restriction. If females
+are more able to alter roles than males, or
+their roles are less strenuous, the, reported
+differentials could appear, even, if the
+sexes have identical prevalence of physical
+illness. wh
+
+How achronic condition limits mobility
+is a better measure of physical severity.
+Age-standardized prevalence shows that
+males and females are similarly hampered
+
+in their mobility by chronic conditions.
+But the standardization masks different
+patterns of the age-specific rates: Under
+age 15, the sexes are equally limited. At
+ages 15-44 and 45-64, more males are
+limited, suggesting they have more severe
+conditions. At ages 65+ , more females are
+limited. However, the higher prevalence
+at ages 65+ may simply reflect females’
+older age distribution, rather than more
+severe conditions at the same (elderly) age
+as males. Overall, the pattern of agespecific rates suggests that females’
+chronic conditions are less severe than
+males’.
+
+Over the period 1957-72, the situation
+for females has been improving relative to
+males. Both sexes show increasing per
+cents with a chronic condition, but that
+per cent is rising faster for males than
+females. Thus, males’ advantage in this
+regard is decreasing. The sex difference in
+
+ 
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 23, No. 4
+
+per cent unable to do their major activity
+is widening, the per cent of limited males
+rising quite sharply. Age-specific mobility
+limitation data (not shown) reveal an increasing per cent of older males (45+) with
+some mobility limitation, but a stable or
+decreasing per cent of limited females.
+
+Prevalence of specific chronic conditions. —Age-adjusted prevalence rates
+were computed for selected diseases and
+impairments which limit major activity.
+When symptoms compel such restriction,
+we can confidently assume that the respondent is indeed physically ill and, with
+less confidence, that he/she has named the
+disease correctly.
+
+Of the 25 conditions with data for
+1959-70, the majority (15) have a male
+excess, which is shown in Table 6 by a sex
+ratio below 1.00. These are principal
+chronic conditions. Fifty-six per cent of all
+people limited by chronic conditions in
+1969-70 reported one of them. Including
+three conditions with data for 1969-70
+only and which show a male excess (cerebrovascular diseases, emphysema, hay
+fever), the figure is 62 per cent. Excess
+rates are largest for peptic ulcer, hernia,
+and other respiratory conditions (which
+include chronic influenza, pneumonia,
+pulmonary congestion), the prevalence
+rates often being more than twice those of
+females.
+
+Eight of the remaining conditions have
+a female excess. Among people limited by
+chronic conditions in 1969-70, 32 per cent
+reported one of them. Including one condition with data for 1969-70 only (diseases
+of kidney and ureter), the figure is 33 per
+cent. The female disadvantage is most
+pronounced for benign/unspecified neoplasms, hypertension, varicose veins, and
+genitourinary conditions.
+
+Two conditions show no persistent sex
+difference: malignant neoplasms and “other circulatory system conditions.”
+
+In summary, when we consider chronic
+
+Morbidity and Mortality
+
+285
+
+ailments that force a person to restrict activity, a pronounced male excess appears
+for the majority of conditions. Among
+them are several leading causes of death.
+Females have excess morbidity for one
+important killer (diabetes mellitus) and for
+less fatal conditions such as mental/nervous conditions, varicose veins, arthiritis/
+rheumatism, and genitourinary conditions—causes of much greater morbidity
+than mortality.
+
+Between 1959-70, there are few discernible trends in sex differentials for
+chronic conditions. In both the sex ratio
+and sex difference, females appear to be
+“catching up” to males in prevalence of
+hernias. (Hernia rates have decreased, but
+less rapidly for females than for males.) An
+opposite trend: Males’ rates of visual impairments are worsening relative to females’. (Their prevalence rates have
+increased; females’ have decreased.) The
+overall male excess in morbidity is maintained. This stability is surprising; it does
+not agree with mortality trends for chronic
+diseases (Klebba, 1971). The poor match
+of these trends has no obvious explanation.
+
+Summary of Sex Morbidity Differentials.—Excess female morbidity is
+found for most acute conditions and for
+prevalence of chronic conditions generally. But excess male morbidity appears for
+six chronic conditions which cause high
+mortality: diseases of heart, cerebrovascular diseases, “other respiratory system
+conditions” (which include influenza and
+pneumonia), _ bronchitis/emphysema/asthma, peptic ulcer, and impairments (which
+include congenital anomalies).° It appears
+also for an acute condition (injuries) associated with high mortality (deaths from
+accidents, suicide, and homicide). Moreover, males seem to have more severe
+chronic conditions.
+
+® For cerebrovascular diseases, data for only one
+period are available.
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+286 Verbrugge Social Biology
+
+TABLE 6
+
+AGE-ADJUSTED FEMALE PREVALENCE RATE AND SEX MORBIDITY RATIO FOR SELECTED
+CHRONIC CONDITIONS WHICH LIMIT Major ACTIVITY, UNITED STATES, 1959~1970*
+
+Chronic Conditiont 1959-1961 1961-1963 1963-1965 1965-1967 1969-1970
+Tuberculosis, all forms
+Female prevalence rate .......... 0.03 0.06 0.07 0.06 0.06
+Sex morbidity ratio.............-. 0.34 0.56 0.75 0.55 0.67
+Malignant neoplasms
+Rate... cc ccc ec ccc cece ene e eens 0.08 0.11 0.12 0.14 0.17
+Ratio ..... ccc cece eee e ees 1.03 0.81 0.98 1,02 1.06
+Benign/unspecified neoplasms
+Mets po opwenes paey Bh Oe pg Be ne Bee 0.13 0.17 0.17 0.14 0.12
+RAG o44 pears wean BE OS KGS e ERED 2.64 2.54 2.82 1.63 1.95
+Diabetes mellitus
+SE ceed ieee ewes Behe oe ee ee BG 0.18 0.30 0.30 0.27 0.42
+Ratio .... cc ccc ccc cere eee cece 1.04 1.34 1.31 1.14 1.21
+Mental/nervous conditions
+Rate... ... cece ccc eee eeeee eee 0.56 1.07 1.08 0.96 0.49
+Ratio .. ccc cee cece cece ee cence 1.22 1.59 1.61 1.36 1.02
+Heart conditions$
+Cece ecco cee r creer eeesceees 1.04 1.55 1.52 1.40 1.33
+Ratio... ccc ec ccc ec eee eee eee 0.72 0.81 0.83 0.74 0.72
+Cerebrovascular diseases§
+ee 0.19
+Ratio .... cc cece cece ee ewan ewes 0.63
+Hypertension without heart
+involvement
+FRAGC is ging 06 US Od kw ek KO G0d ewes BES 0.59 0.85 0.84 0.69 0.55
+RAG 200s boas nen tb bnecen cede 1.57 2.12 2.12 1.88 1.67
+Varicose veins
+Rate... cece ccc reece een eees 0.24 0.37 0.38 0.28 0.11
+RRAUG ou c85 84 bo ce od HESS be we HESS 2.80 2.38 2.89 2.19 2.47
+Hemorrhoids!
+CO ccc cc cece ce eee nen eeees 0.09 0.15 0.12 0.11
+Ratio ..... 0. cece ee eee ee eee > 0.61 1.01 0.96 0.78
+Other circulatory system
+conditions
+Rate... cece cc eee c ete eee eee ees 0.27 0.42 0.37 0.31 0.29
+Ratio... cece ccc eee e ee sees 0.86 1.06 1.07 0.93 0.94
+Chronic bronchitis
+Rate... .... cece eae £65 bee ba we 0.16 0.31 0.31 0.30 0.08
+RAW 440054 Woes eee 2506 be Ba RR ES 0.84 0.96 0.98 0.86 0.56
+Emphysema#
+Ce. ccc ee eee ence ern eseraee 0.09
+Ratio .. ccc cee ec ccc tee cece ees 0.21
+Asthma
+Rate... ccc cee eee e eee eee 0.24 0.50 0.49 0.47 0.42
+Ratio... 0... cc ccc cece eee eeees 0.54 0.74 0.70 0.76 0.71
+Hay fever (without asthma)**
+RATE ccsacd es oe wand BEES Ee EO ‘ 55% eee aes TT 0.06
+RAG ccc ce 665d bee e be5 8 HH KECK ES . _ wee 0.74
+Chronic sinusitistt
+Rate... cece ccc ce cette eens ae cee Lee ee 0.04
+Ratio ve eecens vee eseeceecees . wes 3% eae a 1.00
+Other respiratory system
+conditions
+Rate. .....cc cece cece tees «eae des 0.07 0.14 0.12 0.12 0.13
+Ratio ..... 0c ccc cease pec encecues 0.26 0.42 0.32 0.27 0.43
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 23, No. 4 Morbidity and Mortality 287
+
+TABLE 6 (Continued)
+
+ 
+
+ 
+
+ 
+
+Chronic Conditiont 1959-1961 1961-1963 1963~1965 1968-1967 1969-1970
+Peptic ulcer
+Rate... .. cece eceee pe een eeereee 0.10 0.18 0.19 0.14 0.09
+Ratio .......... cet eee ener terete 0.34 0.47 0.49 0.45 0.42
+Hernia
+Rate......cc eee ees see eeeeens os 0.12 0.17 0.16 0.14 0.14
+Ratio .. 0... cc ccc eee ee eee 0.32 0.39 0.43 0.40 0.54
+Other digestive system
+conditions
+FRSIG ng ne 5 S68 pe pg oe He Be 0.43 0.61 0.67 0.35 0.27
+Ratio 2.08 ce eddawnt 8 Oe errr rrr 1.32 1.55 2.10 1.12 1.07
+Diseases of kidney and
+uretertt
+Rate... ... ccc cceeee veer ee eeees ae ii ee tae 0.13
+Ratio... ccc cece ee eee eee wees ae ik a5: can 1.34
+Other genitourinary system
+conditions
+Raté. ond oa bebe pb R ERE ae TAH EBD 0.51 0.74 0.69 0.54 0.22
+RAO nok ceeds on Odo ty Hea wD BS 1.50 1.91 1.89 1.61 2.01
+Arthritis/rheumatism
+Rate... ccc cece eet e eee e ce eeeee 1.27 1.88 1.93 1.69 1.69
+Ratio ...... oas mene momo me sd ke 1.26 1.51 1.55 1.42 1.64
+Other musculoskeletal
+disorders
+Rate......... ‘ awe ni “a 0.24 0.35 0.37 0.33 0.43
+Ratio ......... Seater eees . : 0.67 0.69 0.85 0.71 0.95
+Visual impairments
+CG sia ge ce waw yags we ia om we x . 0.38 0.54 0.54 0.47 0.38
+Ratio... ccc cece cece ee eaes oe 0.84 0.90 0.89 0.78 0.62
+Hearing impairments
+Rate........ cece eseverecacaeeres 0.10 0.19 0.18 0.13 0.14
+Ratio 48404 be Ba Be Ow Terre rT 0.49 0.66 0.71 0.54 0.53
+Paralysis
+Rate........- vie ee He Eee eed & be 0.22 0.39 0.40 0.34 0.30
+Ratio .... cc ccc cee eee eet eene 0.59 0.72 0.80 0.63 0.64
+Back/spine impairments
+Rate......... Cece e ence ee eeeeese 0.42 0.77 0.85 0.76 0.70
+Ratio .. 0... ccc cee eee eeee seeees 0.72 0.78 0.88 0.71 0.79
+Upper extremity and shoulder
+impairments
+fGiae ve ew wen veer eeeveeaee oe 0.11 0.13 0.17 0.15 0.13
+Ratio ...........000- veeees vena 0.51 0.62 0.73 0.56 0.43
+Lower extremity and hip
+impairments
+Rat@... cee ec cence renee eeneneee 0.36 0.62 0.56 0.51 0.56
+Ratio ......... veueaee bene eeeees 0.61 0.79 0.76 0.65 0.62
+
+ 
+
+Sources: For unadjusted figures, Public Health Service, 1958-1962, Health Statistics, Series B, No. 36, and National Center for Health
+Statistics, 1963-1974, Vitel and Health Statistics, Series 10, Nos. 17, 51, 61, and 80.
+
+* Prevalence data are for conditions which partially or totally limit major activity. Prevalence rate is expressed as per cent of population with
+limiting condition. Rates are direct standardized to the age distribution of the 1940 total enumerated population of the United States. Data for
+years prior to 1959 and after 1970 are not published in sufficient detail for this table. Sex differences are computed but not shown in this table.
+They are available from the author. All years shown are June through July, except 1969-70 which is a calendar period.
+
++ Eighth Revision ICDA codes for these conditions are given in Wilder, 1973, p. $0. In the text, the count of 25 conditions excludes
+cerebrovascular diseases, emphysema, chronic sinusitis, hay fever, and diseases of kidney and ureter. Under each title, the female prevalence rate
+and sex morbidity ratio are shown, in that order.
+
+t Same as “diseases of heart” title for cause-of-death tabulations
+
+$ Until 1969-70, this title was included in “other circulatory system conditions.”
+
+"For 1969-70, rates are small for both sexes and are not published.
+
+# Until 1969-70, this title was included in “other respiratory system conditions.”
+
+** Until 1969-70, this title was included in “asthma.”
+
+tt Until 1969-70, this title was included in “chronic bronchitis.”
+
+tt Until 1969-70, this title was included in “other genitourinary system conditions.”
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+288
+
+In the period 1958-72, females’ excess
+for acute conditions shows no sign of diminishing, but males’ excess for chronic
+conditions is generally worsening. Males
+are increasingly likely to have a chronic
+condition and their limitation is increasing, relative to females. Male excess morbidity from chronic conditions which are
+principal killers is stable, showing no signs
+of increase.
+
+COMPARING MORBIDITY
+AND MORTALITY
+
+Aggregated mortality data show higher
+death rates for males. Disaggregation
+shows their higher rates from most causes
+of death. Aggregate incidence and prevalence data for morbidity show that females
+are “sicker,” but disaggregation reveals
+some prominent conditions with higher
+male rates than female rates. (It is important to note that disaggregated data for
+chronic conditions refer to limiting conditions. Aggregated limiting chronic conditions do show a male excess.) This urges a
+comparison of cause-specific rates of
+morbidity and mortality. For specific
+conditions, does the sex with higher illness
+rates also have higher death rates? Or are
+there reversals, the sicker sex somehow
+having a mortality advantage?
+
+The answer to this should inform us
+about the reversal of sex differentials in
+the aggregate (higher female morbidity,
+higher male mortality). The sex differential for “all causes,” or “all conditions,” is
+a function of cause-specific sex differentials and of weights reflecting the relative
+frequency of cause-specific deaths, or
+illnesses, within each sex. The aggregate
+reversal may be due to (a) different weighting of illness conditions and causes of
+death to produce the aggregate rates or (6)
+reversals in cause-specific rates (one sex
+sicker, but the other more likely to die), or
+(c) both.
+
+Verbrugge
+
+Social Biology
+
+Although both mortality and morbidity
+data use the International Standard
+Classification of Diseases (ICDA) codes,
+their aggregation differs in published reports. Moreover, many mortality titles do
+not differentiate acute and chronic forms
+of a disease; they are combined in a single
+title. These two features hamper comparison of morbidity and mortality data. The
+closest possible match of morbidity and
+mortality titles was made, and sex differentials for age-standardized rates were
+compared. Because morbidity tabulations
+have less detail than mortality data, it was
+often necessary to aggregate cause-ofdeath titles and to compute agestandardized rates for that aggregation (an
+unusual one, from the perspective of mortality tabulations). While this procedure
+minimizes the first problem above, the
+second problem has no solution, and many
+cause-of-death titles are counted twice in
+the table. Because of that difficulty, the
+effect of the two factors noted above
+(weights and component sex differentials)
+on the aggregate sex differentials cannot
+be separated quantitatively.
+
+Table 7 compares sex differentials for
+matched morbidity and mortality titles.
+The 27 titles in Table 7 are the standard
+titles for acute and chronic morbidity
+tabulations (see titles in Table 6 and Wilson, 1973a, p. 49). (They are necessarily
+used because of their greater aggregation
+than mortality titles.)
+
+For 22 titles, the match of ICDA codes
+for morbidity and mortality rates is perfect
+or near-perfect. For 5 titles, the match is
+quite close, but the span of mortality codes
+exceeds the morbidity codes, or vice versa.
+
+Consider first the perfect-match and
+near-match titles which show that the
+same sex is disadvantaged for both morbidity and mortality. These twelve titles
+accounted for 54 per cent of all deaths in
+1970. Including the imperfect-match titles
+which show no sex reversal, the titles ac
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 23, No. 4
+
+CONDITION GROUP/
+CAUSE OF DEATH*
+
+Tuberculosis,
+
+all forms .............
+Diabétes mellitus ........
+Heart conditions.........
+
+Cerebrovascular
+
+diseases! ..............
+Chronic bronchitis .......
+Emphysema# ...........
+
+Asthma (with or without
+hay fever) ............
+
+Peptic ulcer .............
+
+FGM: occ ps ce pawagaws ag
+
+Arthritis and
+
+rheumatism ...........
+
+Other chronic musculo
+skeletal disorders ......
+Injuries ............00-.
+Hemorrhoidsff ..........
+
+Other chronic respiratory system
+
+conditions ............
+Impairments, all types§§ ..
+
+Mental/nervous
+
+conditions .............
+
+Hypertension without
+
+heart disease ..........
+
+Infective and parasitic
+
+diseases ........,..05.
+
+Other chronic digestive
+
+system conditions ......
+
+Chronic diseases of
+
+kidney and ureter"! ....
+
+Other chronic genito
+urinary conditions .....
+
+Acute digestive system
+
+conditions ............
+Varicose veinsff..........
+
+Acute respiratory
+
+conditions ........... a
+
+Malignant neoplasms.....
+
+Other chronic circula
+ 
+
+ 
+
+Morbidity and Mortality 289
+TABLE 7
+COMPARISON OF AGE-ADJUSTED SEX DIFFERENTIALS IN MORBIDITY AND MORTALITY,
+FOR MATCHED ICDA TITLES, UNITED STATES, 1958~1972
+Morsipityt MorvTALityt
+QUALITY
+OF Average Average Average Average Leading
+Matcut Sex Ratio Sex Diff. Sex Ratio Sex Diff. Cause§
+Same Sex Has Excess Rates for Both
+Morbidity and Mortality
+
+1 0.57 —-0.42 0.35 —-3.9 om
+1 1.21 +0.52 1.16 +2.0 7
+1 0.76 —4.14 0.53 —172.3 1
+1 0.63 —-1.10 0.86 — Lz 3
+1 0.84 —0.31 eee eu a ‘a6
+1 0.21 ~3.31 0.23 —-13.8 9
+1 0.69 —1.83 ae ey swt
+1 0.43 —1.78 0.36 —4.6 15
+2 0.42 —2.13 0.91 =03
+2 1.48 +5.49 1.47 +0.3
+2 0.77 ~0.99 (0.68, 1.91)** (-—0.3, +0.7) ee
+2 0.66 —117.5 0.36 ~68.1 4, 11, 13
+3 0.84 —-0.23 (0.79, 0.59)** (-1.0, —0.4) see
+
+0.34 —2.28 (0.37, 0.56)**  (—2.7, —18.1) Sif
+3 0.69 —1.52 N.A. N.A. 12
+
+Reversal: Female Excess Morbidity; Male Excess Mortality
+1 1.36 +2.34 0,39 —2.4
+1 1.87 +3.31 0.77 —~1.1
+1 1.17 + 36.3 0.53 —~5.5
+2 1.43 —1.45 0.60 —11.4 10
+Z 1.34 +0.33 0.73 ~-2.9 14
+2 1.78 +2.32 (0.61, 0.44)** (-6.7, —3.1)
+2 1.18 +18.6 0.60 —11.3 10¢4
+3 2.55 +1.65 (0.79, 0.59)** (-—1.0, -0.4) eae
+3 1.17 +184.7 (0.49, 0.55)** (-27.5, —17.6) 5.9
+No Persistent Direction for Sex Morbidity
+Differential; Male Excess Mortality
+
+1 0.98 —-0.03 0.74 —40.1 2
+2 0.97 —0.08 0.72 ~—8.1 8
+
+tory system conditions...
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+ 
+
+ 
+
+ 
+
+ 
+
+290 Verbrugge Social Biology
+TABLE 7 (Continued)
+Morsipity} MorTALity}
+QUALITY
+ConbDITION GrRouP/ OF Average Average Average Average Leading
+Cause or DEATH* MatTcut Sex Ratio Sex Diff Sex Ratio Sex Diff Cause$
+Female Excess Morbidity, No Persistent Direction for
+Sex Mortahty Differenttal
+Benign/unspecified
+neoplasms ............. 1 2 32 +0 82 1.04 +0.1
+
+ 
+
+* Three condition groups do not appear in this table morbidity data for “hay fever (without asthma)” and “chronic sinusitis” are available only
+for 1969-70 Before that, these illness titles are included in “asthma” and “chronic bronchitis,” respectively Mortality data for “hay fever” and
+“chronic sinusitis” are available for 1968-71, but not by age Also excluded 1s “all other acute conditions” The specific range of ICDA codes 1s not
+given in morbidity tabulations The ttle spans numerous codes, and no mortality rates were computed The title has female excess morbidity for
+all years (average ratio = 1 52, average difference = +100 3)
+
+t The number “1” denotes a perfect match of ICDA codes “2” 1s a near perfect match “3” 1s a rather close match, but the span of one set of
+codes 1s decidedly larger than the other
+
++ Ratio 1s [Female Rate/Male Rate] Difference 1s [Female Rate ~ Male Rate) For morbidity, difference 1s expressed as persons limited by
+
+ 
+
+condition per 1,000 population For mortality, data are death rates per 100,000 population
+
+§ See Table 2 for names of leading causes
+
+"Morbidity data available only for 1969-70 Before that, this illness title 1s included in “other circulatory system conditrons ”
+# Morbidity data available only for 1969-70 Before that, this tliness title 1s included in “other respiratory system conditrons *
+** Rates for this title differ markedly for the Seventh and Eighth ICDA Revisions The mortality averages refer to 1958-67 and 1968-71,
+
+respectively
+
+tt Mortality rates refer to “varicose veins” and “hemorrhoids” together
+
+tt Rare in the form (acute, chronic) lsted
+§§ “Impairments are chronic or permanent defects
+
+resulting from disease, injury, or congenital malformation” (Wilder, 1974, p 50) No
+
+specific range of ICDA codes is provided for these, as causes of morbidity or mortahty See “inyunes” (in this table) for sex mortality differentials
+For “congenital anomalies,” average sex mortality ratio 1s 0 88 and average difference is —45 6 (with rate computed as mn Table 2)
+"" Morbidity data avalable only for 1969-70 Before that, this illness title 1s included in “other genitoumnary system conditions ”
+
+count for 67 per cent of all 1970 deaths.
+Altogether, these fifteen titles include ten
+leading causes of death: diseases of heart,
+cerebrovascular disease, (chronic) influenza and pneumonia, diabetes mellitus,
+(chronic) bronchitis/emphysema/asthma,
+and peptic ulcer. Accidents, suicide, and
+homicide are causes of death attached to
+injuries; congenital anomalies, to impairments. Most of the fifteen titles are chronic
+conditions.
+
+Sex reversals appear for seven perfect/near-match titles. In all cases, females
+have higher morbidity rates but lower
+mortality rates. These titles accounted for
+only 6 per cent of all deaths in 1970. (Digestive system codes are counted only once
+in that figure.) Acute conditions are prominent in these titles. Two imperfectly
+matched titles show a sex reversal: varicose veins and acute respiratory conditions. The former is a “true” reversal.
+Since 1968, the number of deaths by sex
+for each ICDA code is published. The
+crude death rate for varicose vein conditions (ICDA 454, 456) is very small, but it
+is greater for males than females. Whether
+
+the reversal for acute respiratory conditions is true cannot be determined, since
+the attached ICDA codes include many
+conditions which are usually chronic and
+rarely acute as causes of death.
+
+Finally, there are two conditions which
+sometimes have male excess morbidity,
+sometimes female, but consistently have
+male excess mortality. One condition has
+female excess morbidity, but no persistent
+sex differential for mortality. Strangely,
+malignant and benign/unspecified neoplasms are two of these “mixed” cases.
+Their differentials are consistent with the
+hypothesis that females’ greater utilization
+of health services (Aday and Eichhorn,
+1972; Andersen et al., 1972) leads to
+higher rates of neoplasm diagnosis among
+them. Benign neoplasms are especially
+likely to be found. Males may have higher
+prevalence of malignant neoplasms, and
+their higher death rates would reflect that
+as well as late diagnosis (too late for control therapy). Benign neoplasms seldom
+cause death, and the sexes show no difference in mortality rates for them.
+
+The reasons for the aggregate reversal
+
+ 
+
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+ 
+
+Vol. 23, No. 4
+
+of sex differentials are clear. It is due to
+both “weights” attached to titles and the
+presence of sex reversals for some titles.
+First, leading causes of death do not tend
+to be leading causes of illness. For 195872, the common cold, influenza, and other
+respiratory conditions lead the list of acute
+morbidity, with infective/parasitic diseases and various injuries next. Leading
+the chronic morbidity list are heart conditions, arthritis/rheumatism, impairments,
+and mental/nervous conditions. Few of
+these morbidity titles are prominent causes
+of death.
+
+Moreover, acute illnesses are much
+more common than chronic ones. In
+1971~72, the United States population endured about 448 million acute conditions,
+but only 26 million people had a limiting
+chronic condition in 1972. Acute and
+chronic rates cannot be pooled into one
+list, since the former count conditions in
+the numerator, while the latter count persons. Nevertheless, a scan of rates indicates roughly how a pooled list would rank
+illness conditions, if a single counting convention were used. Chronic conditions
+would appear far down the list, heart
+conditions being about as numerous as
+headaches (which restricted activity or required medical attention) in 1972. In
+summary, radically different weights are
+attached to diseases when they are illnesses than when they are causes of death.
+
+Second, some titles do have sex reversals. In fact, these titles receive very different weights for morbidity and mortality. The combination of sex reversals and
+of weights which reinforce them produces
+the aggregate discrepancy.
+
+Most leading causes of death show male
+excess rates for both morbidity and mortality. The sicker sex does have higher
+death rates, which is reasonable. (The sole
+leading cause with female excess mortality, diabetes mellitus, also has female excess morbidity.)
+
+Morbidity and Mortality
+
+291
+
+But the existence of sex reversals is
+perplexing. Why do some specific deseases
+show a reversal in the sex differential?
+Why do females have higher morbidity
+but lower mortality than males for nine
+conditions?
+
+In evaluating reasons for these reversals, the sources of morbidity and mortality data must be recalled. Cause-specific
+death rates are based on death certificates.
+While living, the decedents experienced
+physical risks (acquired and/or intrinsic)
+which led to death from one cause rather
+than another. Sex mortality differentials
+reflect systematic differences in those risks
+for males and females. (Additionally,
+Moriyama et al. [1966] have found a
+modest per cent of inaccurate diagnosis of
+cause-of-death. If sex biases exist in assigning cause of death, a sex mortality differential may arise from physician behavior, as well as decedent behavior.)
+
+Illness rates are based on interviews.
+Respondents have different physical vulnerability to diseases, due to acquired and
+intrinsic health characteristics. To the extent the risks vary for social aggregates,
+differentials in illness rates appear. But
+two other factors enter illness data: interview behavior and illness behavior
+(Mechanic, 1966).
+
+The first factor refers to respondents’
+cooperation during the interview, their
+ability to recall illness episodes, their verbal skills in describing illness, and their
+presence during the interview (vs. proxy
+response about their illnesses). If interview
+behavior differs for males and females, sex
+differences arise in illness rates which do
+not reflect different vulnerability to disease. There is no evidence that cooperation, recall, and verbal skills differ by sex.
+But the self-reporting vs. proxy-reporting
+does. Proxy respondents systematically
+underreport morbidity of the absent person (Koons, 1973). Since the majority of
+proxy interviews are for absent males
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+292
+
+(Cannell et al., 1968, pp. 7-8, Laurent et
+al., 1972, p. 12), a sex effect is introduced
+into the data.
+
+Second, numerous social and psychological factors have been postulated to account for higher reports of illness by females and their greater activity restriction
+compared to males. Females may have
+lower thresholds for perceiving discomfort, whether for social (Mechanic, 1972)
+or biological reasons. Moreover, regardless of a threshold, females may be more
+willing than males to report a perceived
+discomfort (Barker, 1953; Chesler, 1972;
+Ehrenreich and English, 1973; Mechanic,
+1965; Phillips and Segal, 1969). In addition, females may be socialized (more so
+than males) to take curative measures
+when ill (Chesler, 1972). Females have
+generally fewer time constraints than
+males, which allows them to seek medical
+attention and to restrict activity more
+readily than males. When illness data are
+limited to conditions which caused such
+attention or restriction, an important sex
+differential automatically enters the data
+(Mechanic and Newton, 1965). The
+Health Interview Survey rates for acute
+conditions and activity restriction from
+chronic ones are clear examples of this.
+
+In summary, sex differentials in illness
+may reflect sex differences in four factors:
+interview behavior, illness behavior, acquired health risks, and intrinsic health
+risks. Sex differentials in death reflect
+primarily the last two. In general, the first
+two (reporting) factors operate to produce
+higher illness reports for females than
+males. The last two (physical) factors tend
+to generate higher illness rates for males
+than females. Data on life style and exposure to environmental and occupational
+hazards indicate that males lead “riskier”
+lives which cause higher rates of injury,
+illness, and death. Genetic factors which
+disfavor males have also been postulated,
+e.g., the protective action of estrogen
+
+Verbrugge
+
+Social Biology
+
+against cholesterol synthesis. Higher male
+fetal death rates and congenital anomaly
+death rates are cited as evidence of inherent male weakness compared to females.
+
+The relative impact of reporting and
+physical factors on self-reported illness is
+not known, nor have sex differences in
+interview and illness behavior been
+specified, especially with regard to Health
+Interview Survey data. Nathanson (1975)
+reviews several reasons for excess female
+morbidity in aggregate data and suggests
+that fewer role obligations and time constraints principally account for the excess.
+No quantitative assessment of the factors
+has been made.
+
+Let us now consider the nine conditions
+with sex reversals. When possible, an independent source with diagnostic rates is
+used, to determine if females are physically sicker than males or if their interview
+and illness behavior account for the excess
+morbidity.
+
+Dohrenwend and Dohrenwend (1969)
+review evidence of mental/nervous disorders and conclude that females have more
+neurotic symptoms than males.” These are
+the most common mental disorders, but
+they may not be the most limiting ones.
+Psychotic disorders, which show no consistent sex difference, are probably the
+chief cause of limitation from mental/ nervous conditions. Consider also data from
+the national Health Examination Survey.
+Adults filled out a questionnaire, in private, about 12 symptoms of psychological
+distress. For all twelve, women produced
+higher rates than men (Dupuy et al.,
+1970). The sex differentials are smaller,
+however, than for the Health Interview
+Survey. (Are males more reluctant to report these symptoms to an interviewer?)
+
+7 However, males have higher rates of personality
+disorders than women. Both neurosis and personality
+disorders are antisocial responses, and sex differences
+may simply reflect different manifestations of stress
+by males and females, or even physician preferences
+in diagnosis.
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 23, No. 4
+
+Furthermore, research indicates a sex
+bias among physicians, who tend to diagnose mental/nervous disorders in females
+more than in males presenting the same
+symptoms (Lenanne and Lenanne, 1973).
+Assuming such diagnoses are reported in
+the health interview, the physician bias is
+perpetuated there. In summary, all evidence suggests that the reported excess
+morbidity of females is due to social factors. Why males have higher mortality
+rates attributed to these disorders remains
+unexplained. It is unknown if physicians
+have a sex bias in death diagnosis for
+mental/nervous disorders.
+
+There is some diagnostic evidence for
+hypertension (without heart involvement).
+The Health Examination Survey found
+higher rates of definite hypertension
+among males up to age 54, but a female
+excess at older ages (Gordon and Devine,
+1966, p. 13). Borderline hypertension
+showed a male excess at most ages. In
+contrast to these clinical data, the 1972
+Health Interview Survey asked if respondents had the symptom “high blood
+pressure.” Females show excess rates at all
+ages (sex ratio varies from 1.14 to 1.71).
+The Health Interview Survey data in
+Table 6 refer to limiting conditions only;
+there, the sex differential shows an even
+larger female excess. (A table summarizing
+the age-specific sex differentials from the
+three sources is available from the author.)
+The evidence clearly implies that females
+are more likely than males to report hypertensive symptoms (because of earlier
+knowledge of it, greater cooperation during the interview, or less proxy response)
+and are especially likely to restrict activity
+for it. The inflation of female reports occurs at all ages, even the oldest when females do have higher clinical rates of
+hypertension.
+
+No diagnostic rates for the total United
+States population have been found for
+
+Morbidity and Mortality
+
+293
+
+“other digestive system conditions.”*® In
+1968, the Health Interview Survey asked
+about symptoms of digestive conditions
+(Wilson, 1973b). Seven disorders queried
+are titles in “other digestive system conditions”: functional and symptomatic upper
+gastrointestinal disorders, gallbladder conditions, chronic enteritis and ulcerative
+colitis, gastritis and duodenitis, frequent
+constipation, intestinal conditions, and
+liver conditions (which include cirrhosis of
+liver). For all but one of them, females
+reported higher morbidity for adult ages.
+The sex ratios are roughly of the same
+magnitude found in Table 6. Do females
+inflate reports of digestive symptoms, and
+of limitation from them, despite a true
+male excess in physical morbidity? The
+data are insufficient for us to know.
+
+No clinical data for the total population
+have been located for varicose veins.
+However, chronic circulatory conditions
+were a special topic in the 1972 Health
+Interview Survey. For varicose veins, the
+age-standardized sex ratio is 3.88, larger
+than the ratios for limiting conditions
+(average 2.55). This symptom excess appears for all age groups. Apparently, females readily report varicose veins, but
+afflicted females are less likely to be restricted by the ailment than afflicted
+males. Do males have higher prevalence,
+which is entirely masked by female reporting? Or, are male prevalence rates lower
+but their conditions more severe, resulting
+in higher mortality? The evidence is insufficient for us to choose one of these
+explanations.
+
+No clinical data for the total population
+were located for diseases of kidney and
+ureter, or titles in “other genitourinary
+conditions” which apply to both sexes.
+The 1973 Health Interview Survey
+
+® There is some diagnostic evidence for teeth disorders, which are a small component of “other digestive system conditions.” For most ages, a larger per
+
+cent of females than males have diagnosed periodontal disease (Kelly and VanKirk, 1965).
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+294
+
+queried genitourinary symptoms. When
+results are published, a comparison of sex
+differentials for symptoms and limiting
+symptoms (Table 6) can be made for these
+two condition groups.
+
+Finally, sex differentials in physical
+morbidity for acute conditions (infective/
+parasitic, respiratory, digestive) for the
+total U. S. population have not been
+found. The importance of interview and
+illness behavior for these conditions may
+be especially great. Acute conditions are
+transient and uncomfortable, but they seldom force restricted activity. Chronic
+conditions are not easy to forget, and they
+often pose unavoidable barriers to activities and mobility. Sex differences in
+interview behavior and health socialization can be expressed more easily for acute
+conditions than for chronic ones.
+
+In summary, for conditions with clinical
+data for the U. S. population, the sex reversal disappears. Males tend to have
+higher (or equal) morbidity rates and
+higher mortality rates than females. Female reporting inflates the health survey
+rates and causes the reversal. If clinical
+data were found for the other conditions,
+the same results might appear. But what if
+a sex reversal persists between clinical
+rates and mortality rates? This is possible,
+if the sex with higher morbidity (most
+likely, females) obtains earlier diagnosis
+and control of a disease or if the sex has an
+intrinsic resistance to degeneration from
+the disease. If either medical attention or
+genetic factors make female cases less severe than male cases, females can have
+lower death rates even though their prevalence rates are higher. This situation has
+not been found in the data, but it is plausible and consistent with females’: higher
+utilization of medical services, as reported
+in Aday and Eichhorn (1972) and Andersen et al. (1972).
+
+If female interview and illness behavior
+produce inflated morbidity reports, the
+
+Verbrugge
+
+Social Biology
+
+inflation should appear for all conditions,
+not only the nine with sex reversals. Indeed, if we look at the top panel of Table
+7, sex mortality ratios tend to be closer to
+1.00 for most illness conditions than for
+
+comparable mortality conditions (see
+tuberculosis, diabetes mellitus, heart
+conditions, chronic bronchitis/emphy
+sema/asthma, peptic ulcer, injuries, and
+hemorrhoids). Possible, females’ reporting
+behavior partially closes the gap which
+would exist in physical morbidity data:?
+
+CONCLUSIONS
+
+This analysis demonstrates a worsening
+of male mortality risks relative to female
+risks in the United States between 1958
+and 1972. Trends for chronic morbidity
+also show an increasing disadvantage of
+males, compared to females. For the leading causes of death, males tend to have
+higher morbidity rates as well as higher
+mortality rates.
+
+The apparent contradiction (higher
+acute incidence rates and chronic prevalence rates for females, but lower death
+rates) is readily answered by disaggregation. Acute conditions are the most common causes of illness, but are rarely causes
+of death. Chronic conditions are rather
+infrequent causes of illness, but are principal causes of death. The different
+weighting of titles to produce aggregate
+morbidity and mortality rates largely accounts for the aggregate sex reversal. Diseases with a male excess are weighted
+heavily in mortality. Those with a female
+excess dominate morbidity.
+
+But sex reversals in specific titles are
+also a cause of the aggregate reversal. Examining these, we are obliged to acknowledge that the Health Interview Survey is a
+
+9 The expectation that females inflate reports for
+all conditions is simplistic. Certain conditions may be
+more “embarrassing” to admit than others. If females
+are less sensitive to embarrassment, their reports will
+be especially inflated for these conditions, compared
+to males.
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+ 
+
+Vol. 23, No. 4
+
+social record of illness, not a purely
+epidemiological one. Comparing sex differentials produced by survey and clinical
+data, the tendency of females to inflate
+illness reports is revealed. This inflation
+seems pervasive, appearing in virtually all
+specific conditions studied. How much
+this inflation is due to females’ greater responsiveness in the interview, more selfreporting, higher symptom perception,
+stronger socialization about health care, or
+more freedom to take health action when
+ill is not known, The answer can only be
+found in individual-level data and through
+
+Morbidity and Mortality
+
+295
+
+the collective enterprise of epidemiologists, demographers, and other social
+scientists.
+
+ACKNOWLEDGMENTS
+
+This is a revised version of a paper presented
+at the Population Association of America
+meetings, Seattle, 1975. The author thanks
+Reynolds Farley for encouragement in pursuing this problem and colleagues at The Johns
+Hopkins University for their insightful comments and questions. Elisa Braver’s competent
+assistance in tabulations is gratefully acknowledged. Any deficiencies in the analysis remain
+the author’s responsibility.
+
+REFERENCES
+
+Apay, L. A., and R. EICHHORN. 1972. The utilization of health services: Indices and correlates.
+DHEW Publication No. HSM 73-3003. Nationa!
+Center for Health Services Research and Development, Washington, D.C.
+
+ANDERSEN, R. E., R. M. GREELEY, J. KRAVITS,
+and O. W. ANDERSON. 1972. Health service use:
+National trends and variations, 1953-1971.
+DHEW Publication No. 73-3004. National Center
+for Health Services Research and Development,
+Washington, D. C.
+
+BARKER, R. 1953. Adjustment to physical handicap
+and illness. McGraw-Hill, New York.
+
+CANNELL, C. F., F. J. FOWLER, and K. H. MarQUIS. 1968. The influence of interviewer and respondent psychological and behavioral variables
+on reporting in household interviews. Vital and
+Health Statistics, Series 2, No. 26. National
+Center for Health Statistics, Rockville, Md.
+
+CHESLER, P. 1972. Women and madness. Avon,
+New York.
+
+DOHRENWEND, B. P., and B. S. DOHRENWEND.
+1969. Social status and psychological disorder: A
+causal inquiry. Wiley, New York.
+
+Dupuy, H. J., A. ENGEL, B. K. DEVINE, J. SCANLON, and L. QUERES. 1970. Selected symptoms of
+psychological distress, United States. Vital and
+Health Statistics, Series 11, No. 37. National
+Center for Health Statistics, Rockville, Md.
+
+EHRENREICH, B., and D. ENGLISH. 1973. Complaints and disorders: The sexual politics of sickness. Glass Mountain Pamphlet No. 2. The Feminist Press, Old Westbury, New York.
+
+ENTERLINE, P. E. 1961. Causes of death responsible
+for recent increases in sex mortality differentials in
+the United States. Milbank Mem. Fund Quart.
+39:312-328.
+
+GoRDON, T., and B. DEVINE. 1966. Hypertension
+and hypertensive heart disease in adults. Vital and
+Health Statistics, Series 11, No. 13. National
+Center for Health Statistics, Rockville, Md.
+
+GRovE, R. D., and A. M. HETZEL. 1968. Vital
+statistics rates in the United States, 1940-1969.
+mesons) Center for Health Statistics, Rockville,
+Md.
+
+KELLY, J. E., and L. E. VAN Kirk, 1965. Periodon
+ 
+
+tal disease in adults, United States, 1960—1962.
+Vital and Health Statistics, Series 11, No. 12. National Center for Health Statistics, Rockville, Md.
+
+KLEBBA, A. J. 1971. Leading components of upturn
+in mortality for men. Vital and Health Statistics,
+Series 20, No. 11. National Center for Health
+Statistics, Rockville, Md.
+
+KLEBBA, A. J., J. D. MAURER, and E. J. GLass.
+1973. Mortality trends: Age, color, and sex, United
+States, 1950-1969. Vital and Health Statistics,
+Series 20, No. 15. National Center for Health
+Statistics,' Rockville, Md.
+
+.1974. Mortality trends for leading causes of
+death: United States, 1950-1969. Vital and Health
+Statistics, Series 20, No. 16. National Center for
+Health Statistics, Rockville, Md.
+
+Koons, D. A. 1973. Quality contro] and measurement of nonsampling error in the Health Interview
+Survey. Vital and Health Statistics, Series 2, No.
+54. National Center for Health Statistics, Rockville, Md.
+
+LAURENT, A., C. F. CANNELL, and K. H. Margulis.
+1972. Reporting health events in household interviews: Effects of an extensive questionnaire and a
+diary procedure. Vital and Health Statistics, Series
+2, No. 49. National Center for Health Statistics,
+Rockville, Md.
+
+LENANNE, K. J., and R. J. LENANNE. 1973. Alleged
+psychogenic disorder in women: A possible manifestation of sexual prejudice. New Engl. J. Med.
+228(6):288-292.
+
+MECHANIC, D. 1965. Perception of parental responses to illness. J. Hlth. Soc. Behav. 6:253-257.
+
+. 1966. Response factors in illness: The study
+
+of illness behavior. Soc. Psychiat. 1(1):11-20.
+
+. 1972. Public expectations and health care.
+Wiley, New York.
+
+MECHANIC, D., and M. NEwron. 1965. Some problems in the analysis of morbidity data. J. Chron.
+Dis. 18:569-580.
+
+METROPOLITAN LIFE IINSURANCE CORPORATION.
+1974. Sex differentials in mortality. Statist. Bull.
+55, August, p. 2-5.
+
+MoriyvaMa, I. M., T. R. DAWBER, and W. B.
+KANNEL. 1966. Evaluation of diagnostic information supporting medical certification of deaths
+
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+296
+
+from cardiovascular disease, p. 405-419. In W.
+Haenszel (ed.), Epidemiological approaches to the
+study of cancer and other chronic diseases.
+Monograph No. 19, National Cancer Institute,
+Bethesda, Md.
+
+NATHANSON, C. 1975. Illness and the feminine role:
+A theoretical review. Soc. Sci. Med. 9:57-62.
+NATIONAL CENTER FOR HEALTH STATISTICS.
+1958-1970. Vital statistics of the United States.
+Vol. TI, Part A. Department of Health, Education,
+
+and Welfare, Washington, D. C.
+
+. 1963-1974. Vital and Health Statistics.
+
+Series 10, Nos. 1, 10, 15, 17, 26, 38, 44, 45, 51, 54,
+
+61, 69, 77, 79, 80, 82, 88 and 96. Health Resources
+
+Administration, Rockville, Md.
+
+. 1967. International classification of diseases,
+
+adapted for use in the United States. Eighth revi
+sion. PHS Pub. No. 1693. Department of Health,
+
+Education, and Welfare, Washington, D. C.
+
+. 1974a-f. Monthly Vital Statistics Report. (2)
+Vol. 22, No. 11 Supplement, (6) Vol. 22, No. 12
+Supplement, (c) Vol. 23, No. 3 Supplement, (d)
+Vol. 23, No. 3 Supplement (3), (e) Vol. 23, No. 8
+Supplement, (f) Vol. 23, No. 8 Supplement (2).
+Health Resources Administration, Rockville, Md.
+
+Puiiuips, D. L., and B. F. SEGAL. 1969. Sexual
+status and psychiatric symptoms. Amer. Sociol.
+Rev. 34(1):58-72.
+
+PRESTON, S. H. 1970. An international comparison
+of excessive adult mortality. Pop. Stud. 24(1):520.
+
+PuBLic HEALTH SERVICE. 1958-1962. Health
+statistics. Series B, Nos. 6, 11, 18, 33, and 36.
+Department of Health, Education, and Welfare,
+Washington, D. C.
+
+RETHERFORD, R. 1970. Analysis of trends in sex
+mortality differentials in developed countries. Ph.
+
+ 
+
+ 
+
+ 
+
+Verbrugge
+
+ 
+
+ 
+
+ 
+
+Social Biology
+
+D. dissertation, Department of Sociology, University of California, Berkeley.
+
+UNITED STATES BUREAU OF THE CENSUS. 1974a.
+Estimates of the population of the United States,
+by age, sex, and race: April 1, 1960 to July 1, 1973.
+Curr. Pop. Reports, Series P-25, No. 519. Government Printing Office, Washington, D. C.
+
+. 1974b. Estimates of the population of the
+United States, by age, sex, and race: July 1, 1974
+and April 1, 1970. Curr. Pop. Reports, Series
+P-25, No. 529. Government Printing Office,
+Washington, D. C.
+
+VERBRUGGE, L. M. 1975. Sex differences in illness
+and death in the United States. Occasional paper.
+Center for Metropolitan Planning and Research,
+The Johns Hopkins University, Baltimore, Md.
+
+WILDER, C. S. 1973. Limitation of activity due to
+chronic conditions, United States, 1969 and 1970.
+Vital and Health Statistics, Series 10, No. 80. National Center for Helth Statistics, Rockville, Md.
+
+. 1974. Prevalence of selected chronic circulatory conditions, United States, 1972. Vital and
+Health Statistics, Series 10, No. 94. National
+Center for Health Statistics, Rockville, Md.
+
+WILSon, R. W. 1973a. Current estimates from the
+Health Interview Survey, United States, 1972.
+Vital and Health Statistics, Series 10, No. 85. National Center for Health Statistics, Rockville, Md.
+
+. 19735. Prevalence of selected chronic digestive conditions. Vital and Health Statistics, Series
+10, No. 83. National Center for Health Statistics,
+Rockville, Md.
+
+WORLD HEALTH ORGANIZATION. 1957. Manual of
+the international standard classification of diseases, injuries, and causes of death. Seventh Revision. WHO, Geneva.
+
+ 
+
+ 
+
+ 
+

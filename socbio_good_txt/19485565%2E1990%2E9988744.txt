@@ -1,0 +1,1502 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Female fecundity in highland Papua New Guinea
+
+Patricia L. Johnson , James W. Wood & Maxine Weinstein
+
+To cite this article: Patricia L. Johnson , James W. Wood & Maxine Weinstein (1990)
+Female fecundity in highland Papua New Guinea, Social Biology, 37:1-2, 26-43, DOI:
+10.1080/19485565.1990.9988744
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1990.9988744
+
+i Published online: 23 Aug 2010.
+
+e
+(g Submit your article to this journal @
+
+lil Article views: 13
+
+»
+Q View related articles @
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:43
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Female Fecundity in Highland Papua New Guinea
+
+*Patricia L. Johnson, “James W. Wood,
+and “Maxine Weinstein
+
+ 
+
+“Department of Anthropology and Women’s Studies Program, Pennsylvania State
+University, University Park, Pennsylvania; ° Department of Anthropology and Population
+Issues Research Center, Pennsylvania State University, University Park, Pennsylvania; and
+‘Department of Demography, Georgetown University, Washington, D. C.
+
+ABSTRACT: Demographers often assume that interpopulation variation in birth spacing is
+attributable primarily to behavioral differences (e.g., in breastfeeding, coital frequency, or
+contraceptive practice), and that the contribution of physiological factors is negligible. This
+assumption may be correct, but it should be tested, especially in light of recent evidence that
+there may be more variation in ovarian function among human populations than was
+previously believed. In this paper, we apply a stochastic model of the determinants of
+fecundability (the monthly probability of conception) to endocrinological data collected among
+the Gainj, a tribal population in highland Papua New Guinea. Based on previous research, the
+Gainj are known to have age patterns of ovarian function that differ markedly from the Western
+norms. When account is taken of the late menarche, early menopause, and long ovarian cycles
+that appear to characterize Gainj women, mean apparent fecundabilty across the female
+reproductive span is reduced by about 27 per cent (from 0.316 to 0.235), and the mean waiting
+time to next apparent conception is increased by just over one month. Thus, despite the fact that
+Gainj women differ from Western women with respect to reproductive physiology by as much
+as or more than any other known population, the demographic impact of these differences
+appears to be slight.
+
+Classically, demographers interested logical materials, that fall outside the
+in fertility differentials have focused scope of traditional demography. Sectheir attention on behavioral explana- ond, demographers tend to regard retions, forexample, having todo withdif- productive physiology as fixed or invariferences in contraceptive behavior, coi- ant across populations, at least net of
+tal frequency, spousal separation, or age. This tendency amounts to a prior
+breastfeeding practices. Undoubtedly assumption (usually unstated) that
+this focus has yielded rich insights into physiological differences do not contribthe causes of interpopulation variation ute in any important way to differences
+in fertility, and no one can question the among populations. Certain demograoverwhelming importance of such be- phers have even used interpopulation
+haviors. However, reproduction is a invariance as evidence that some particmatter of physiology as well as behavior. ular aspect of fertility is determined priDespite this fact, few demographers marily by physiology, introducing a dehave attempted to gauge the contribu- gree of logical circularity into the
+tion of physiological differences tointer- argument (see, for example, Wilson et
+population variation in fertility.?
+
+This absence of attention can be at- ,_ ‘One of few aspects of physiology to interest
+
+. . demographers is the possible influence of maternal
+tributed to three factors. First, assess- nutritional status on birth spacing (for a review,
+ment of physiological differences re- see John, 1990). In this area, however, results have
+quires tools of measurement and been largely negative, a fact which has probably
+
+‘ _ . discouraged attempts to look for other physiologianalysis, e.g., radioimmunoassay of bio- cal effects.
+
+26
+
+ 
+O { Michigan] at 13:43 08 December 2015
+
+niversity
+
+5
+
+Vol. 37, No. 1-2
+
+Highland Papua New Guinea
+
+ 
+
+27
+
+TABLE 1
+THE COMPONENTS OF FECUNDITY
+
+I. The abilty to conceive
+1. Susceptibility factors:
+a. menarche
+b. menopause
+c. lactational anovulation
+d. pathological sterility
+
+. Fecundability factors (net of coital frequency):
+a. length of ovarian cycles
+b. proportion of cycles anovulatory
+c. duration of the fertile period?
+
+d. probability of conception from a single insemination within the fertile period.
+
+Il. The ability to carry a pregnancy to term.
+1. Probability of fetal loss per conception?
+2. Length of gestation ending in fetal foss
+
+3. Duration of residual infecundability following fetal loss
+
+Source Wood, 1989a
+
+“The pen-ovulatory portion of the cycle in which there ts a nonzero chance that insemunation will result in conception
+
+Fetal loss” refers to both embryonic and fetal death in utero
+
+al., 1988, on the age pattern of natural
+marital fertility).
+
+This view of the invariance of physioogical processes would probably be rejected by most biologists, especially in
+ight of recent evidence for tremendous
+>, genetic and physiological variation both
+within and among populations of virtually all species, including humans (for a
+review, see Hartl and Clark, 1989). In
+]
+J
+a I
+
+>, deed, one recent text of human physiol= ogy has been structured around the
+
+x
+oS
+©
+
+—
+
+5
+A
+
+own
+
+theme of physiological variability (Case,
+1985). With reference specifically to reproductive physiology, recent research
+suggests that age patterns of ovarian
+function (menstrual cycle length, prevalence of anovulatory cycles, luteal adequacy, etc.) may vary widely among
+contemporary human populations
+(Seaton and Riad-Fahmy, 1980; Ellison
+et al., 1986, 1989; Johnson et al., 1987).
+To date, however, the implications of
+such variation for fertility have not been
+explored.
+
+This raises the third problem: the absence of established methods for translating physiological findings into numer
+ical predictions about demographic
+processes. Effects of physiology on fertility involve the ill-defined, poorly
+operationalized concept of “fecundity,”
+the biological capacity to produce a live
+birth. Unlike fertility, which is marked
+by a more or less unambiguous, countable event (a live birth), fecundity is a
+“potential” and is thus not only unmeasurable using standard demographic
+techniques, but also difficult to model
+mathematically. Fecundity can, however, be broken down into several components, each of which can be defined
+precisely and, at least in principle, observed directly. Recently we have attempted to decompose fecundity into
+factors that are amenable to quantitative study (Table 1). We have also begun to develop mathematical models
+which specify the relationship of these
+factors to fertility itself (Wood and
+Weinstein, 1988; Weinstein et al.,
+1990a,5; Wood, 19892).
+
+One important measure of fecundity
+is fecundability, the probability that a
+couple will conceive during a month of
+exposure to unprotected intercourse,
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+28 Johnson et al.
+
+given that both members are biologically able to conceive. Obviously, fecundability is not entirely a function of
+physiology, but is also affected by an important behavioral variable, coital frequency, as well as by the way in which
+coitus is distributed across the female
+partner’s cycle. Interpopulation differences in fecundability can be used as
+measures of differences in fecundity
+only if we can adjust for differences in
+coital frequency. As we will show, such
+an adjustment can be attained by using
+appropriate mathematical models.
+
+In this paper, our aim is to translate
+recent empirical findings about variation in ovarian function into predictions
+about birth spacing patterns. More precisely, we apply our models of the physiological determinants of fecundability
+to endocrinological data recently obtained from women in the rural highlands of Papua New Guinea. These
+women, all from a tribal group known as
+the Gainj, are especially interesting for
+this application, because Gainj women
+differ from Western women in their age
+patterns of ovarian function by as much
+as or more than any other known human
+population. In particular, Gainj women
+experience considerably later menarche, somewhat earlier menopause, and
+menstrual cycles that are about 40 per
+cent longer on average than those of
+Western women (Wood et al., 1985a;
+Johnson et al., 1987; Wood, 1989b).
+Thus, if interpopulation variation in
+these physiological components ever
+contributes importantly to fertility differentials, a comparison of Gainj and Western women should reveal its effects.
+
+In performing this comparison, we
+adopt a ceteris paribus approach; that is,
+we assume that all characteristics, physiological as well as behavioral, of the two
+groups of women are identical except for
+
+Social Biology
+
+the specific physiological traits known to
+differ between them. Thus, the question
+we pose is: How different would the
+birth spacing patterns of the two groups
+be if they differed only in the length of
+their ovarian cycles and the age of onset
+of menarche and menopause?
+
+MATERIALS AND METHODS
+THE SAMPLE
+
+The Gainj are a group of tropical horticulturalists living in the northern
+fringes of Papua New Guinea’s central
+highlands. The data used here, collected
+during two year-long field studies in
+1977-78 and 1982-83, come from 12
+Gainj villages, all in the Upper Takwi
+Valley at elevations of 850-1400 meters
+and centered at 144°44’ E longitude and
+5°18’ S latitude. At the time of our primary census in January-April 1978, a total of 1,318 individuals (700 males and
+618 females) lived in the study area at an
+overall density of 24 persons/km?.
+
+In May 1983, 129 Gainj women ages
+10 to 50 were recruited into a ten-week
+prospective study of ovarian function;
+all but 18 of these women remained in
+the study until its termination. The final
+sample of 111 women who provided
+complete records represents approximately 65 per cent of all females of the
+relevant ages from the six communities
+targeted in the study. Although this was
+an availability sample rather than a true
+random sample, these 111 women were
+known not to differ from larger samples
+of the general population with respect to
+several factors which may affect or be affected by ovarian function, including anthropometric measures of nutritional
+status, marital status, cumulative fertility, and prevalence of breastfeeding.
+None of the 18 women who dropped out
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+Vol. 37, No. 1-2
+
+of the study did so for reasons related to
+reproductive state (e.g., learning that
+they were pregnant). Age estimates
+were assigned to the subjects by the
+methods described by Wood et al.
+(1985a).
+
+Each subject was interviewed twice
+weekly by a female fieldworker who was
+well known to these women. At each interview, the subject’s menstrual diary
+was updated (entries in the diary consisting of subject’s self-report of bleeding on the day of the interview and on
+the two or three days since the previous
+interview), and a2 ml saliva sample was
+collected for future studies of ovarian
+function using salivary steroid assays.
+At the end of the ten-week study period,
+a single 10 ml blood sample was drawn
+from each subject, spun down immediately, and placed in liquid nitrogen. The
+sera were later analyzed by radioimmunoassay for progesterone, estradiol, luteinizing hormone, follicle-stimulating
+hormone, human chorionic gonadotropin, and prolactin (see Wood et al.,
+19855, for assay details). These serum
+determinations, in addition to selfreports of lactation, permit each subject
+to be classified by her reproductive state
+
+Highland Papua New Guinea 29
+
+at the time of blood collection using the
+criteria in Table 2. The distribution of
+subjects by reproductive state is shown
+in Figure 1.
+
+PHYSIOLOGICAL CHARACTERISTICS
+OF THE SAMPLE
+
+Detailed analyses of these data have
+been presented elsewhere (Wood et al.,
+1985b; Johnson et al., 1987; Wood,
+1989b); here we present brief summaries of the results.
+
+The cumulative incidence curves of
+menarche and menopause were estimated from the data in the top panel of
+Figure 1 by inverse-variance weighted
+probit analysis using the maximum likelihood method of Finney (1971). According to these analyses, the estimated
+median ages of Gainj women at menarche and menopause are 18.4 + 1.4
+years, respectively.” Although the esti
+These results differ from the figures of 20.9 +
+0.9 and 46.2 + 1.1 years estimated from Gainj
+samples collected in 1978 and reported by Wood et
+al. (1985a). In the case of menopause, the difference is not significant, but for menarche it is. We
+do not, however, believe that this represents a real
+secular decline in age at menarche, since the hormonal criteria used to classify women in the 1983
+samples are more specific than those used earlier.
+Our earlier methods could only detect onset of full
+
+TABLE 2
+HORMONAL CRITERIA FOR THE CLASSIFICATION OF REPRODUCTIVE-AGE WOMEN
+
+Progesterone
+
+Status (ng/ml)
+Premenarcheal........... ND?
+Cycling ..........0..000,
+
+Follicular.............. <1
+
+Luteal .............4.. 1~20
+
+Anovulatory........... ND
+PCYClIG oa asus ne eu ea ee wen ND
+Pregnant ........--...005 10-200
+Postmenopausal.......... ND
+
+Source Wood etal , 19855
+“ND = nondetectable
+bUD = undetermined
+
+Human
+Luteinizing Chononic
+Estradiol Hormone Gonadotropin
+
+(pg/ml) (mIU/m}) ({U/ml)
+ND ND ND
+20-300 5-100 ND
+<40-150 5-20 ND
+10-100 0-S ND
+ND ND ND
+
+500 + UD? 2-200 +
+ND High ND
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+30 - Johnson et al. Social Biology
+
+  
+  
+
+   
+
+    
+ 
+   
+
+15 PIAL OO Le
+uw 1
+x |
+a.
+= 10 tL Premenarcheal
+% “7 or
+= { p
+= Ostmenopausal
+n= 28
+o 8
+=
+—
+=
+0
+10 20 30 40 50
+nw «19 GOTT LS
+— }
+= i
+= I
+< 10 L Pregnant
+2 - and/or
+Lactating
+rr n = 37
+ao 5
+=
+~
+=
+0
+10 20 30 40 50
+15 “LETT
+tu =< -4
+wal 1
+= !
+<q 10 Non-lactating,
+w Cycling
+<= n=44
+fo
+mo 98
+=
+=
+=
+0
+10 20 30 40 50
+AGE (YEARS)
+
+Fig. 1.—Age distribution of female Gainj subjects by reproductive state, based on serum hormone
+profiles (see Table 1). Not shown are two pathologically acyclic subjects, both aged 35-39. Broken line ts
+the distribution of total sample (n = 111).
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+Vol. 37, No. 1~2
+
+1.0
+
+08
+
+0.6
+
+0.4
+
+0.2
+
+Proportion postmenarcheal and premenopausal
+
+00
+O 10
+
+20
+
+Highland Papua New Guinea 31
+
+ 
+
+30 40
+
+Age (years)
+
+Fic. 2.—Cumulative age incidence curves of menarche and menopause for Gainj women (squares)
+and Western women (triangles), estimated by weighted maximum likelihood probit analysis. Data on
+
+Western women are from Treloar (1974).
+
+mated median age at menarche is clearly
+very late by world standards, it is consistent with estimates from other parts of
+highland Papua New Guinea, which as a
+region shows the latest known ages of
+human sexual maturation (Malcolm,
+1970; Becker, 1990; Wood, 19895). In
+
+luteal competence rather than menarche per se;
+more recently we have been better able to detect
+very early follicular development, thus giving us
+landmarks of ovarian ontogeny more closely related to first menses. In general, luteal competence
+follows first menses by about 1.0-1.5 years, consistent with the estimates from both 1978 and 1983.
+
+contrast, while the estimated median
+age of Gainj] women at menopause is
+somewhat lower than in U.S. women, it
+falls well within the range of values reported for other rural Third World populations (Rahman and Menken, 1990).
+The cumulative incidence curves of
+menarche and menopause in both Gainj
+and U.S. women are shown in Figure 2.
+
+A survival analysis of menstrual cycle
+length was performed on the menstrual
+records of 36 of the 44 nonlactating
+women who appeared to be cycling at
+
+60
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+32 Johnson et al.
+
+the time of the blood draw, i.e., who
+showed hormonal signs of being in either the follicular or the luteal phase of
+an ovarian cycle (Fig. 1., bottom
+panel).? To correct for the bimodal age
+distribution of cycling subjects (a distribution which reflects the fact that virtually all married Gainj women of midreproductive age are pregnant and/or
+lactating at any given time), the Gainj
+sample was compared with a synthetic
+sample of U.S. women drawn from the
+data of Treloar et al. (1967) and
+matched with the Gainj sample for
+gynecological age (see Johnson et al.,
+1987, for details). Figure 3 shows
+Kaplan-Meier estimates of the survival
+functions for these two samples; the two
+curves are significantly different (logrank test statistic = 34.8, p < 0.0001).
+Estimates of median cycle length were
+obtained from the regression lines in
+Figure 3 and are given in Table 3. It appears that Gainj cycles are approximately 40 per cent longer on average
+than those of Western women.
+
+There are several reasons to interpret
+these results with caution. Subjects’
+ages are not known, but rather estimated indirectly. The incidence curves
+for menarche and menopause are estimated entirely from cross-sectional data
+and thus may not represent any actual
+cohort if the true underlying curves have
+changed recently. And the analysis of
+
+3We used a subsample of cycling women for
+this analysis for several reasons. First, the records
+of two subjects were known to be unreliable. In addition, all women who were married at the time of
+the study were excluded because (1) their records
+may have been contaminated by “silent pregnancies” associated with early fetal loss, which could
+have caused an apparent lengthening of their cycles, and (2) if they were exposed to the risk of conception but did not conceive during the study period, this might itself be attributable to ovarian
+dysfunction, so that their inclusion could have introduced selectivity bias.
+
+Social Biology
+
+cycle length is based on self-reports of
+menstrual bleeding, the reliability of
+which is inherently difficult to gauge.*
+These limitations notwithstanding, it
+appears, based on present evidence,
+that Gainj women differ markedly from
+Western women with respect to their
+age patterns of ovarian physiology. In
+particular, Western women have one of
+the earliest known average ages at onset
+of menarche, while Gainj women have
+one of the latest; Gain} women also appear to have substantially longer ovarian cycles than Western women. We
+know of no other human populations
+that differ as markedly in reproductive
+physiology, although some populations,
+for example, the Efe and Lese of Zaire,
+show extreme differences from Western
+women in features such as proportion of
+cycles anovulatory which we have not
+yet evaluated among the Gainj (Ellison
+et al., 1986, 1989). Added to these extreme differences is a much smaller difference between Gainj and Western
+women in age at menopause.
+
+What effect do these differences have
+on fertility? If Gain) and Western
+women were identical with respect to
+everything except their age patterns of
+ovarian function, how much difference
+in the timing of births would we expect
+to observe? Needless to say, this question is impossible to answer based solely
+on empirical observations, since the two
+populations differ dramatically with respect to many factors affecting fertility,
+including breastfeeding, contraceptive
+use, prevalence of induced abortion,
+and perhaps coital frequency. We require a mathematical model that will allow us to adjust for these other differences.
+
+‘Eventually we will have objective verification
+of the menstrual records in the form of concurrent
+salivary steroid profiles.
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+ 
+
+Vol. 37, No. 1-2 Highland Papua New Guinea 33
+
+TABLE 3
+
+ESTIMATED MEDIAN LENGTH OF MENSTRUAL CYCLES IN GAINJ AND U.S, WOMEN MATCHED
+FOR GYNECOLOGICAL AGE (INTERPOLATED FROM THE CURVES IN FIGURE 3)
+
+Median 95% Confidence Limits
+Sample Days Lower Upper
+
+Gainj ........... 36.0 32.8 39.8
+US. ..ccceeee ee 26.1 23.1 29.3
+
+Source: Johnson et al., 1987.
+
+ 
+
+1.0
+
+0.9
+
+0.8 |
+
+0.7
+
+0.6
+
+Sit} 0.5
+
+0.3
+0.2
+
+0.1
+
+0M“)
+
+ 
+
+No
+
+t (days)
+
+20 30 50
+
+Fic. 3.—Kaplan-Meier estimates (+ SE) of the survival function S(#), the probability that an ovarian
+cycle is longer than t days. Closed circles represent 36 Gainj women, open circles a synthetic sample of 36
+U.S. women matched with the Gainj women by gynecological age (as described by Johnson et al., 1987).
+Data on U.S. women are taken from Treloar et al. (1967). Smooth curves represent the regression of In
+logit $ + 5] on Jn t for each group (°° = 0.959 for the Gainj, 0.954 for U.S. women) (from Johnson et
+al., 1987).
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+34 Johnson et al.
+
+A MODEL OF AGE-SPECIFIC
+FECUNDABILITY
+
+Ovarian function affects the timing of
+births by influencing fecundability,
+which in turn determines an important
+component of every birth interval, the
+fecund waiting time to conception. Fecundability is affected by several physiological factors (Table 1), as well as by coital behavior. Since we cannot reliably
+detect pregnancies which terminate during the earliest stages of gestation, the
+apparent value of fecundability, the
+value which we can actually estimate, is
+also affected to some degree by subclinical fetal loss.
+
+In our model of fecundability, we attempt to incorporate all these effects.
+Since a full description of the model appears elsewhere (Wood and Weinstein,
+1988), we summarize it briefly here.
+Throughout we distinguish apparent fecundability, the monthly probability of a
+conception that survives long enough to
+produce a diagnosable pregnancy, from
+total fecundability, the monthly probability of a conception regardless of outcome. All parameters of the model are
+allowed to vary by female’s age, although for simplicity the following presentation pertains only to one age during the reproductive span.
+
+For the age in question, let c be the
+event that conception occurs in one
+ovarian cycle of exposure to unprotected intercourse. Then
+
+Pr(c) =
+
+x Pr(c|N = n)Pr(N =n)
+n=0 (1)
+
+where N is the number of acts of unprotected intercourse per cycle. This equation partitions the probability of conception into two independent components:
+a “behavioral” component, Pr(N=n),
+
+Social Biology
+
+and a “physiological” component, Pr
+(c\N = n). The physiological component can be further partitioned as
+
+Pr(c,N =n) = % Priel =i) (2)
+i=0
+x Pr = iio,N = n)Pr(o)
+
+where o is the event that a cycle is ovulatory and J is the number of times that intercourse occurs during one fertile period. If acts of intercourse are
+independent in occurrence, then
+
+Pr(I = io,N =n) =
+
+(9) (FIC) (1-FICY™,
+
+i= 0,...,7 (3)
+
+where Fis the length of the fertile period
+and Cis total cycle length (both in days).
+The probability of conception can
+now be found as follows. Let p,{i) be the
+conditional probability that exactly 7
+days with at least one act of intercourse
+
+occur in the fertile period given that J =
+i. Then
+
+pli) = CV EDI ETS,
+r=1,,...,F. (4)
+If ais the probability that conception oc
+curs from a single day of intercourse
+during the fertile period, then
+
+F
+Pr(cil = i) = X{pi)
+r=1
+x [1-(1-a)']}, i> 0 (5)
+and Pr(c'll = 0) = 0.
+
+We specify the behavioral component of Eq. (1), first, by treating the
+number of acts of intercourse per cycle
+as a Poisson random variable, such that
+
+Pr(N = n) = [exp(-mC) « (mC)")/n!,
+n = 0,1,2,... (6)
+
+where m is the mean daily probability of
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+Vol. 37, No. 1~2
+
+intercourse. Next, we allow m to decline
+as a function of marital duration: at maternal age x,
+
+m =53n(x-y)g(y)dy,/ §.%9(y)dy, y a
+
+where g(y) is the probability density of
+women marrying at age y, and A(-) is an
+empirically-derived function describing
+the decline in the daily coital rate with
+marital duration (see Wood and Weinstein, 1988, for details). The function
+g(y) is calculated from the CoaleMcNeil marriage model (Coale and
+McNeil, 1972); more specifically, we use
+a reparameterization of the model by
+Rodriquez and Trussell (1980), which
+allows the model to be fully specified by
+the mean and variance in age of women
+at first marriage. The function h (-) was
+estimated from data on U.S. couples
+collected by J. R. Udry and reported by
+James (1983).
+
+In an alternative specification of the
+behavioral component that we refer to
+as maximal exposure, we assume that
+unprotected intercourse occurs every
+single day of the fertile period (equivalent to assuming that it occurs every cycle day). Thus, maximal exposure represents a situation in which coital
+frequency is held constant at this maximum possible level.
+
+The probability of conception per cycle is found by combining the behavioral
+and physiological components; this
+probability can be converted into the
+probability of conception per month,
+i.e., total fecundability, as shown by
+Wood and Weinstein (1988). Assuming
+that fecundability is homogeneous
+among women, apparent fecundability
+(f.*) is then related to total fecundability
+
+(f*) as:
+fa" = f*C-s)l( + f*gs)
+
+Highland Papua New Guinea 35
+
+where s is the probability of subclinical
+fetal loss per conception, and g is the duration of the nonsusceptible period associated with each subclinical loss.
+
+Finally, let 8 be the probability that a
+woman at the age in question is both
+postmenarcheal and premenopausal.
+Total and apparent fecundability, adjusting for menarche and menopause,
+are now
+
+f= Bf" and f, = Bf." (9)
+
+respectively.
+
+CHOICE OF VALUES FOR THE
+MODEL PARAMETERS
+
+In order to compare Gainj and Western women using this model, we hold all
+physiological and behavioral parameters equal in the two populations, except
+for cycle length and the proportion of
+women at each age who are postmenarcheal and premenopausal. At the same
+time, we allow for age-specific variation
+in the parameters within each population. In Western women, mean cycle
+length at each age is taken from Treloar
+et al. (1967); for Gainj women, these
+same values are multiplied by 1.4, as
+suggested by the survival analysis summarized in Figure 3. The cumulative incidence curves for menarche and menopause, used to estimate the value of B at
+each age, are those shown in Figure 2.
+Estimates of the probability that a cycle
+at each age is ovulatory are taken from
+Vollman (1977). The expected probability of subclinical fetal loss at each maternal age follows the curve shown in Figure 4, which we have estimated from
+data on nine populations in which induced abortion is not a competing risk
+(Wood and Weinstein, 1988). The level
+of this curve corresponding to maternal
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+36 Johnson et al. Social Biology
+
+0.5
+
+ 
+   
+
+2
+0.4 ¥ = .279 - .013X + .0003X
+N\
+
+0.3
+
+0.2
+
+PROBABILTY OF FETAL LOSS
+
+0.1
+
+10 20 30 40 50 60
+MATERNAL AGE (YEARS)
+
+Fic. 4.—Age pattern of fetal loss in women from several populations in which induced abortion is not
+a competing risk. Open circles represent pooled data from nine populations, each adjusted to yield an
+overall loss across all ages of 150 per 1,000 conceptions. Solid curve is a quadratic equation fit to these data
+by ordinary least squares (r* = 0.998) (redrawn from Wood and Weinstein, 1988).
+
+oO —_
+@ O
+-¢
+—®
+
+o Oo
+> Oo)
+
+PROPORTION EVER MARRIED
+O
+nh
+
+15 25 35 45
+AGE (Years)
+
+Fic. 5—Cumulative distribution of first marriages in Gain} women. Data points represent the proportion of women ever married at each age (+ SE). Solid line is the expected cumulative distribution of
+first marriages based on the Coale-McNeil marriage model fit by minimum chi-square (log likelihood
+ratio test statistic = 4.70, df = 7,0.9 > P > 0.5) (from Wood et al., 19852).
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+Vol. 37, No. 1-2
+
+age 23 has been adjusted upward to 0.3,
+consistent with recent estimates based
+on assays of human chorionic gonadotropin (Wilcox et al., 1988).5 The rest of
+the curve is then allowed to vary in paralel with the curve in Figure 4. On the basis of the same studies, the time added
+by subclinical fetal loss has been set to
+0.26 months (Wilcox et al., 1988). In accordance with Royston’s (1982) analysis, the length of the fertile period is set
+at four days and the probability of conception from an insemination in the fertile period is set at 0.6, the average daily
+probability of conception over the fertile period as a whole, adjusted to the
+mean age of his sample.
+
+In our model, the behavioral component of fecundability is determined by
+the density function of age at first marriage, which is turn affects coital frequency via its relation to marital duration. In order to hold the behavioral
+component constant, we set both the
+Gain} and Western marriage pattern
+equal to the curve estimated from the
+Gainj data (Figure 5). From this curve,
+the estimated mean and variance in age
+at first marriage (in years) are 21.6 and
+8.2, respectively.
+
+‘The value 0.3 is slightly higher than the estimate of Wilcox et al. (1988), reflecting the fact that
+they used a somewhat conservative criterion for
+identifying a loss and that they missed very early
+losses which preceded the excretion of detectable
+levels of hCG in urine. Other studies have suggested substantially higher probabilities of subclinical loss, including studies based on hCG (Miller et
+al., 1980; Edmonds et al., 1982) and early pregnancy factor (Rolfe, 1982). It is clear, however,
+that early pregnancy factor entails a large number
+of false positive diagnoses of pregnancy, as may
+hCG unless an assay system is used which minimizes cross-reactivity with luteinizing hormone
+(Grudzinskas and Nysenbaum, 1985; Wilcox et
+al., 1985). We have chosen to base our estimate on
+the work of Wilcox et al. (1988) because their assay
+system is the most sensitive and specific hCG assay
+currently available.
+
+Highland Papua New Guinea 37
+
+RESULTS
+
+Figure 6 compares the age pattern of
+fecundability in Gain] and Western
+women under maximal exposure when
+cycle length alone differs between the
+two populations. The 40 per cent increase in cycle length among Gainj
+women reduces fecundability at each
+age by lowering the number of fertile
+days expected to fall within a fixed 30day period. Since the difference in cycle
+length is assumed to be multiplicative so
+that Gainj cycles at each age are assumed to be 40 per cent longer than
+Western cycles, the absolute difference
+in fecundability is greatest at those ages
+characterized by long cycles, i.e., at
+early and late reproductive ages. This
+result may be an artifact of the way in
+which we have modeled the difference in
+cycle length, although not of the way in
+which cycle length enters into the basic
+model. At any rate, between ages 20
+and 45, longer cycles reduce both total
+and apparent fecundability by about 20
+per cent on average.
+
+As might be expected, adding in the
+difference in age patterns of menarche
+and menopause has an effect only at extreme reproductive ages (Figure 7). In
+comparison with Western women,
+Gainj women now experience a period
+of about five years before the earliest
+age of menarche when fecundability is
+zero, and a similar period of about two
+years after the latest age at menopause.
+Postmenarcheal fecundability in the
+Gainj does not reach half its adult value
+until after age 20, that is, until about the
+average age at first marriage. Consistent
+with this finding, we have observed an
+unexpectedly long interval between
+marriage and first birth among the Gainj
+(Wood et al., 1985a; Wood, 19895), an
+interval which is typically quite short in
+38 Johnson et al. Social Biology
+
+  
+ 
+
+ 
+
+ 
+
+- 10
+es
+ante 0
+> — ‘ = 8
+2 3
+: f 2 abbebag, | .
+S os | 3 06 oe
+oO 2 esalucn a
+o i = a “Pee. “a,
+8 | i S - = 4
+Oo
+204, ,/ @ 04 f .
+3 i =
+02 ; - 02 \
+L .
+a ne
+00  - 00 f a
+10 20 30 40 50 60 10 20 30 40 50 60
+Age (years) Age (years)
+
+Fic. 6.—Model-predicted total (left panel) and apparent (right panel) fecundabilities for Gainj
+women (squares) and Western women (triangles) under maximal exposure, when only cycle length differs between the two populations. At each age, cycles in Gainj women are assumed to be 40 per cent
+longer than those in Western women.
+
+ 
+  
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+10 10
+absantnseadehnhecte
+as
+oer Lawn 08
+gs | J? 2 i a a fae
+Soe, | [ S 06 nay
+o | { Cc geeeetens,, *
+= i ‘ 2 Sy “a
+5 | | | 2
+oS 04 S 04
+me |
+5 | §
+2 02 if | = 02
+00 fis . | lL oOo fl ste
+10 20 30 40 50 60 10 20
+Age (years) Age (years)
+
+Fic. 7.—Model predicted total (left panel) and apparent (right panel) fecundabilities for Gainj
+women (squares) and Western women (triangles) under maximal exposure, when only cycle length differs between the two populations. At each age, cycles in Gainj women are assumed to be 40 per cent
+longer than those in Western women.
+
+most populations not using contracep- Maximal exposure is, of course, an
+tion. By contrast, in Western women fe- unrealistic scenario. Figure 8 therefore
+cundability reaches half its adult value shows the age patterns of fecundability
+by age 15 or earlier, well before the av- when marital coital frequency is detererage age at first marriage. mined by the age pattern of marriage
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Mean total fecundability
+
+ 
+
+Vol. 37, No. 1-2 Highland Papua New Guinea
+
+ 
+
+0.6 [ 06
+wehbe, a
+0 5 s cag, > 0.5
+; 8
+0.4 0 erecga petty zg Oo 4 pootes .
+® “tag
+03 = 03 wx, wea,
+£ "a0, . a,
+oO Tees \
+oot | | s "a
+, | < 02 ‘
+fo: G
+| g ‘
+0.1 | 0.1 \
+| ‘ i ‘ \
+0 0 bee a) 0 heat a
+10 20 30 40 50 60 10 20 30 40 50 60
+Age (years) Age (years)
+
+Fic. 8.—Model predicted total (left panel) and apparent (right panel) fecundabilities for Gainj
+women (squares) and Western women (triangles) allowing for age-related changes in manital coital frequency, when both cycle length and age at menarche and menopause differ between the two populations.
+Coital frequency at each age, which is set to be the same in both populations, is determined by Eq. (7) in
+
+combination with the Coale-McNeil marriage model fit to the Gainj data (Figure 5).
+
+TABLE 4
+
+MODEL-PREDICTED APPARENT FECUNDABILITIES AND ASSOCIATED MEAN WAITING TIMES TO
+Next RECOGNIZABLE CONCEPTION (IN MONTHS) FOR GAINJ AND WESTERN WOMEN?
+
+: Gain! WESTERN
+
+Proportion
+
+Currently Apparent Waiting Apparent Waiting
+Age Married Fecundability Time Fecundability Time
+20-24.......206. 0.695 0.260 3.85 0.381 2.62
+25-29 ....... 008s 0.954 0.276 3.62 6.370 2.70
+30-34........64. 0.956 0.254 3.94 0.335 2.99
+35-39.......000. 0.911 0.228 4.39 0.298 3.36
+re 0.849 0.155 6.45 0.234 4.27
+Weighted mean... ae 0.235 4.44 0.323 3.19
+
+*Gainj biology, Gainj marriage pattern versus Western biology, Gainj marriage pattern; mean waiting times are based on the
+
+assumption that apparent fecundability is homogeneous
+’Gainj, 1983, used for standardization
+
+observed in the Gainj. The principal difference between this figure and the preceding ones is that fecundability is lower
+at all ages in both populations, reflecting
+the difference between maximal exposure and less frequent intercourse.
+
+In all these comparisons, the fecundability of Gain} women appears to be
+about 20-35 per cent lower than that of
+
+Western women at most ages. Superficially, this may seem like an important
+difference—and from a purely physiological point of view it may well be—but
+it appears to have a small demographic
+impact. Assuming that women in each
+population are homogeneous in fecundability, then the mean waiting time to
+next recognizable conception is simply
+
+ 
+
+ 
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+40 Johnson et al.
+
+the inverse of apparent fecundability
+(Sheps, 1964).° Table 4 lists the predicted mean waiting items of Gainj and
+Western women at various ages during
+the reproductive span. While, on average, the apparent fecundability of Gainj
+women is about 27 per cent lower than
+that of their Western counterparts
+(0.235 versus 0.323), this difference
+translates into an increase of barely over
+a month in the waiting time to a recognizable conception and thus in birth intervals in general.
+
+DISCUSSION
+
+Our analyses suggest that the extreme physiological patterns observed
+in Gain} women are expected to have
+only a minimal effect on the distribution
+of birth intervals in this population.
+Thus, their demographic impact appears to be slight. This is not to say,
+however, that these patterns are not interesting in their own right from a more
+purely physiological point of view; indeed, we are currently carrying out studies of the hormonal and metabolic correlates of ovarian function in Gainj
+women. We merely suggest that, froma
+narrowly demographic point of view,
+the long cycles, late menarche, and early
+menopause reported for the Gain are
+of minor importance. This conclusion is
+consistent with our earlier findings that
+behavioral factors such as nursing frequency and age patterns of marriage are
+the dominant factors limiting Gain] fertility (Wood et al., 1985a,b; Wood,
+1989b).
+
+‘If apparent fecundability varies among couples, then the mean waiting time is the inverse of the
+harmonic mean apparent fecundability (Wood,
+19892). In practical terms, however, heterogeneous fecundability changes the distribution of
+waiting times to next recognizable conception only
+slightly (see Weinstein et al., 19905).
+
+Social Biology
+
+It is important to point out, however,
+that this comparison of Gainj and Western women is conservative, in that it is
+based solely on those physiological differences for which we now have direct
+evidence. We have ignored any possible
+difference in fetal loss, proportion of cycles ovulatory, and duration of adolescent and premenopausal subfecundity,
+deliberately setting these factors equal
+in both sets of women. It is thus possible
+that we have underestimated the total
+impact of physiological differences between the two groups.
+
+This is especially true if recent findings about the relationship between age
+at menarche and duration of adolescent
+subfecundity are relevant to this comparison. It is well known that menarche
+is normally followed by a period during
+which cycles are variable in length and
+prone to be anovulatory (Brown et al.,
+1978; Billewicz et al., 1980; Metcalf and
+MacKenzie, 1980). In a study of 200
+Finnish school girls, Apter and Vihko
+(1983) found a significant positive correlation between age at menarche and
+time from menarche until half of all cycles were ovulatory (with ovulation indicated by the presence of a midcycle LH/
+FSH surge and a luteal phase rise in
+progesterone). Thus, girls with late
+menarche also experienced prolonged
+adolescent subfecundity. Note that this
+is a finding about within-population variability. If the same holds true for differences between populations, then Gainj
+women, with their extremely late menarche, might also be expected to have
+extremely long adolescent subfecundity, thus amplifying the difference between Gainj and Western women. To
+date, however, nothing is known about
+the correlation between menarcheal age
+and adolescent subfecundity across populations; in addition, Apter and Vihko’s
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 37, No. 1-2
+
+results have not been replicated in other
+studies (e.g., MacMahon et al., 1982).
+Once all the saliva samples collected
+among the Gainj have been assayed for
+ovarian steroids, we should be able to
+address this question directly.
+
+Another reason that the comparison
+presented here is conservative has to do
+with the quality of long cycles such as
+those observed among the Gainj. Our
+model assumes that long cycles affect fecundability only by decreasing the number of fertile days expected to fall within
+a single month, but that long and short
+cycles are otherwise functionally equivalent. It is possible, however, that long
+cycles may differ functionally from short
+cycles. For example, long cycles may actually represent multiple anovulatory
+cycles, may be caused by defects in follicular development, or may be associated with short or otherwise inadequate
+luteal phases (Lenton et al., 1984;
+Glass, 1986). The first of these three
+possibilities would have precisely the effect we have already built into our
+model: the ratio of fertile to nonfertile
+days within a month would be reduced.
+The second and third possibilities, however, would have additional effects on
+apparent fecundability. Follicular defects may result in ova that cannot be
+fertilized, while luteal defects may result
+in failure of implantation and thus an elevated risk of subclinical fetal loss
+(Niswender and Nett, 1988). Once
+again, when all the saliva samples we
+collected have been assayed for ovarian
+steroids, we will be able to assess the
+quality of Gainj cycles more directly.
+
+Finally, it is important to note that
+our analysis is not a complete assessment of Gainj fecundability. Because of
+the near-impossibility of obtaining high
+quality prospective data on waiting
+times to conception in this sort of field
+
+Highland Papua New Guinea 41
+
+setting, we have not attempted to estimate Gainj fecundablity in the usual, direct manner. Rather, we have “estimated” it indirectly using a model of the
+determinants of fecundability, a method
+which requires us to take certain important factors for granted. In particular,
+we make assumptions about coital behavior that may not be correct in the
+Gainj case. While the function g(y) in
+Eq. (7) was fit directly to data on the
+Gainj, the function h (-), which describes the decline in coital frequency
+with marital duration, is based strictly
+on data pertaining to U.S. couples.
+While it is premature to make strong
+claims about the universality of this effect of marital duration on coital frequency, it does appear to be widespread
+(see, for example, Ruzicka and Bhatia,
+1982). However, there is ethnographic
+evidence suggesting that coital rates
+may be markedly lower in highland New
+Guinea at all marital durations than in
+other parts of the world. For example, in
+many highland societies, including the
+Gain], there are strong beliefs about the
+polluting or debilitating effects of sexual
+intercourse, requiring that intercourse
+occur in the forest away from house sites
+and gardens (Brown, 1978). Unfortunately, we do not have reliable data on
+coital frequency from the Gainj or from
+any other population in highland New
+Guinea, but one might predict that coital frequency in such groups is low. Until
+we have direct evidence about coital frequency among the Gainj, however, we
+will not be able to make a full assessment of Gainj fecundability, even by
+our indirect methods.
+
+These limitations aside, it remains
+striking how little effect the known differences in reproductive physiology between Gainj and U.S. women seem to
+have on birth intervals. A substantial re
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+42 Johnson et al.
+
+duction in apparent fecundability (on
+the order of 25-30 per cent) translates
+into a trivial increase in expected birth
+intervals (about one month). In part,
+this finding simply reflects the relationship between f, when f, ranges between
+zero and one. This relationship is, of
+course, curvilinear, with small changes
+in f, inducing large changes in 1/f, when
+fa is itself small, but negligible changes
+when f, is intermediate or high. Perturbing f, when it is in the neighborhood of
+0.3 or 0.4 simply produces smaller
+changes in the waiting time to conception (and thus in birth intervals) than
+equal perturbations to an f, of 0.1 or
+lower. In addition, however, we know
+from sensitivity tests of our models that
+fecundability itself is less responsive to
+changes in cycle length and age at men
+Social Biology
+
+arche or menopause than it is to changes
+in other parameters such as the level of
+fetal loss and the proportion of anovulatory cycles (Wood and Weinstein,
+1988). Thus the very factors we have left
+out of the comparison (or rather set
+equal in the two populations) may have
+the largest potential impact on fecundability. Our conclusion, that known interpopulation differences in reproductive
+physiology do not have important effects on birth spacing, must therefore remain provisional.
+
+ACKNOWLEDGMENTS
+
+We thank Anne Buchanan, Kenneth
+Campbell, Peter Ellison, and Kenneth
+Weiss for comments and suggestions. This
+research was partly funded by NICHD
+grant 7 RO1 HD20989-02 and NSF grant
+BNS-8615248.
+
+REFERENCES
+
+Apter, D., and R. Vinko. 1983. Early menarche, a risk factor for breast cancer, indicates
+early onset of ovulatory cycles. J. Clin. Endocr. 57:82-86.
+
+BEcKER, S. 1990, Determinants of adolescent
+fertility with special reference to biological
+variables. Jn R. Gray, A. M. John, H. Leridon, and A. Spira (eds.), Biomedical and
+demographic determinants of human reproduction. Oxford Univ. Press, Oxford.
+
+BiLttewicz, W. Z., H. M. FELLowes, and
+A.M. THomson. 1980. Postmenarcheal
+menstrual cycles in British (Newcastle upon
+Tyne) girls. Ann. Hum. Biol. 7:177-180.
+
+Brown, J. B., P. HARRISSON, and M. A. SMITH.
+1978. Oestrogen and pregnanediol excretion through childhood, menarche and first
+ovulation. J. Biosoc. Sci., Suppl. 5:43-642.
+
+Brown, P. 1978. Highland peoples of New
+Guinea. Cambridge Univ. Press, Cambridge.
+
+Case, R. M. (ed.). 1985. Variations in human
+physiology. Manchester Univ. Press, Manchester.
+
+CoaLe, A.J., and D. R. McNett. 1972. The
+distribution by age of the frequency of first
+marriage in a female cohort. J. Amer. Stat.
+Assoc. 67:743-749.
+
+Epmonps, D. K., K. S. Linpsay, J. F. MILter,
+E. WILiraMson, and P.J. Woops. 1982.
+
+early embryonic mortality in women. Fert.
+Steril. 38:447-453.
+
+Ex ison, P. T., N. R. PEAcocK, and C. LAGER.
+1986. Salivary progesterone and luteal function in two low-fertility populations of
+northeast Zaire. Hum. Biol. 58:473-483.
+
+Ex ison, P. T., N. R. PEAcocK, and C. LAGER.
+1989. Ecology and ovarian function among
+Lese women of the Ituri Forest, Zaire.
+Amer. J. Phys. Anthrop. 78:519-526.
+
+Finney, D.J. 1971. Probit analysis. 3rd ed.
+Cambridge Univ. Press, Cambrdige.
+
+Grass, R. H. 1986. Infertility. In S. S.C. Yen
+and R. B. Jaffee (eds.) Reproductive endocrinology. 2nd ed. W. B. Saunders, Philadelphia.
+
+GRUDZINSKAS, J.G., and A.M. NySENBAUM. 1985. Failure of human pregnancy after implantation. Ann. N.Y. Acad. Sci.
+442:38-44.
+
+Hart, D. L., and A. G. CLARK. 1989. Principles of population genetics. 2nd ed. Sinauer
+Associates, Sunderland, Mass.
+
+JaMES, W. H. 1983. Decline in coital rate with
+spouses’ ages and duration of marriage. J.
+Biosoc. Sci. 15:83-87.
+
+Joun, A. M. 1990. Statistical evidence of links
+between maternal nutrition and postpartum
+infertility. Jz R. Gray, A. M. John, H. Leridon, and A. Spira (eds.), Biomedical and
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+Vol. 37, No. 1-2
+
+demographic determinants of human reproduction. Oxford Univ. Press, Oxford.
+
+JOHNSON, P. L., J. W. Woop, K. L. CAMPBELL,
+and I. A. Maslar. 1987. Long ovarian cycles
+in women of highland New Guinea. Hum.
+Biol. 59:837-—845.
+
+LeNnTOoN, E. A., B.-M. LANDGREN, and L. SExTON. 1984. Normal variation in the length of
+the luteal phase of the menstrual cycle:
+Identification of the short luteal phase. Brit.
+J. Obstet. Gynecol. 91:685-—689.
+
+Leridon, H. 1977. Human fertility: The basic
+components. Univ. of Chicago Press, Chicago.
+
+MacMahon, B., D. TricHopouLos, J. BRowN,
+A. P. ANDERSEN, K. Aoxy, P. Coie, F. DE
+WAARD, T. KAURANIEMI, R. W. MORGAN,
+M. Purpe, B. RAvNiHaR, N. StTormsy, K.
+WESTLUND, and N.-C. Woo. 1982. Age at
+menarche, probability of ovulation and
+breast cancer risk, Internat. J. Cancer
+29:13-16.
+
+Matcoum, L. A. 1970. Growth and development of the Bundi child of the New Guinea
+highlands. Hum. Biol. 42:293-328.
+
+MetTca LF, M. G., andJ. A. MACKENZIE. 1980.
+Incidence of ovulation in young women. J.
+Biosoc. Sci. 12:345-352.
+
+MILLER, J. F., E. WILLIAMSON, J. GLue, Y. B.
+Gorpon, J. G. Grupzinskas, and A.
+SYKES. 1980. Fetal loss after implantation.
+Lancet ii:554-556.
+
+NISWENDER, G. D., and T. M. NEtT. 1988. The
+corpus luteum and its control. Jn E. Knobil,
+J.D. Neill, L. L. Ewing, G. S. Greenwald,
+C. L. Markert, and D. W. Pfaff (eds.), The
+physiology of reproduction, Vol. 1. Raven
+Press, New York.
+
+RAHMAN, O., and J. A. MENKEN. 1990. Age at
+menopause and fecundity preceding menopause. /n R. Gray, M. John, H. Leridon,
+and A. Spira (eds.), Biomedical and demographic determinants of human reproduction. Oxford Univ. Press, Oxford.
+
+RopriquEz, G., and J. TRUSSELL. 1980. Maximum likelihood estimation of the parameter’s of Coale’s model nuptiality schedule
+from survey data. WFS technical bulletin
+No. 7. World Fertility Survey, London.
+
+Ro re, B. E. 1982. Detection of fetal wastage.
+Fert. Steril. 37.655~660.
+
+Royston, J. P. 1982. Basal body temperature,
+ovulation and the risk of conception, with
+special reference to the lifetimes of sperm
+and egg. Biometrics 38:397—406.
+
+Ruzicka, L.T., and S. Buatia. 1982. Coital
+frequency and sexual abstinence in rural
+Bangladesh. J. Biosoc. Sci. 14:397-420.
+
+SANDLER, D. P., A. J. Witcox, and L. F. HorNEY. 1984. Age at menarche and subse
+ 
+
+Highland Papua New Guinea 43
+
+quent reproductive events. Amer. J. Epidem. 119: 765-774.
+
+SEATON, B., and D. Riap-FAuMy. 1980. Use of
+salivary progesterone assays to monitor
+menstrual cycles in Bangladeshi women.
+Endocrinology 87:21P.
+
+SHEPS, M.C. 1964. On the time required for
+conception. Pop. Stud. 18:85—97.
+
+Trecoar, A. E., R. E. Boynton, B. G. BEHN,
+and B. W. Brown. 1967. Variation of the
+human menstrual cycle through reproductive life. Internat. J. Fert. 12:77-126.
+
+VOLLMAN, R.F. 1977. The menstrual cycle.
+Major problems in obstetrics and gynecology, No. 7. W. B. Saunders, Philadelphia.
+
+WEINSTEIN, M., J. W. Woop, and W.-C.
+Chang. 1990a. Age patterns of fecundability. In R. Gray, M. John, H. Leridon, and
+A. Spira (eds.), Biomedical and demographic determinants of human reproduction. Oxford Univ. Press, Oxford.
+
+WEINSTEIN, M.,J. W. Woon, and D. D. GREEN
+FIELD. 1990b. Fecundability and fetal loss:
+Does heterogeneity matter? Demography
+(in press).
+
+Witcox, A. J.,C. R. WEINBERG, J. F. O’Connor, D.D. Barirp, J. P. SCHLATTERER,
+R.E. CanfFiELp, E.G. ARMSTRONG, and
+B.C. Nisura. 1988. Incidence of early loss
+of pregnancy. New Engl. J. Med. 319; 548553.
+
+Witcox, A.J., C.R. WEINBERG, R.E.
+WEHMANN, E. G. ARMSTRONG, R. E. CANnFIELD, and B. C. Nisuca. 1985. Measuring
+early pregnancy loss: Laboratory and field
+methods. Fert. Steril. 44:366-—374.
+
+WILSON, C., J. OEPPEN, and M. PARDOE. 1988.
+What is natural fertility? The modelling of a
+concept. Pop. Index 54:4—20.
+
+Woon, J. W. 19894. Fecundity and natural human fertility. Jn S. Milligan (ed.), Oxford
+reviews of reproductive biology, Vol. 11.
+Oxford Univ. Press, Oxford.
+
+19895. Fertility and reproductive biology. In R. Attenborough and M. Alpers
+(eds.), The small cosmos: Studies of human
+biology in Papua New Guinea. Oxford
+Univ. Press, Oxford.
+
+Woop, J. W., P. L. Jonson, and K. L. CampBELL. 1985a. Demographic and endocrinological aspects of low natural fertility in
+highland New Guinea. J. Biosoc. Sci.
+17:57-79.
+
+Woop, J. W., D. Lar, P.L. JoHNson, K. L.
+CAMPBELL, andI. A. Mascar. 1985b. Lactation and birth spacing in highland New
+Guinea. J. Biosoc. Sci., Suppl. 9:159-173.
+
+Woop, J. W., and M. WEINSTEIN. 1988. A
+model of age-specific fecundability. Pop.
+Stud. 42:85-113.
+
+ 
+
+ 
+
+ 
+
+ 
+

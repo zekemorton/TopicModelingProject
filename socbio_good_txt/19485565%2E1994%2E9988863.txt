@@ -1,0 +1,1568 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ 
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Age at death due to ischemic heart disease:
+Gender differences
+
+Andrew V. Wister & Ellen M. Gee
+
+To cite this article: Andrew V. Wister & Ellen M. Gee (1994) Age at death due to
+ischemic heart disease: Gender differences, Social Biology, 41:1-2, 110-126, DOI:
+10.1080/19485565.1994.9988863
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1994.9988863
+
+ 
+
+fa Published online: 23 Aug 2010.
+
+ee
+(g Submit your article to this journal @
+lil Article views: 7
+
+»
+Q View related articles 4
+
+(7) Citing articles: 1 View citing articles G
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:46
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+ 
+
+Age at Death Due to vores pe ee
+Ischemic Heart Disease: | . | ( : ]
+Gender Differences cre aa :
+
+RE
+
+Andrew V. Wister and Ellen M. Gee
+
+Gerontology Program, Simon Fraser University at Harbour Centre, Vancouver, B.C.,
+Canada V6B 5K3; and Department of Sociology and Anthropology, Simon Fraser
+University, Burnaby, B.C., Canada V5A 156
+
+ABSTRACT: This paper investigates gender differences in the timing of ischemic heart disease
+(IHD) mortality among white Americans. Three age-at-death groupings are examined, using a
+model incorporating three types of independent variables: lifestyle, socioeconomic status, and
+biology/heredity. Logistic regression techniques are used to analyze National Mortality Followback Survey data. Three hypotheses drawn from the literature are tested: (1) that IHD mortality
+risks will vary by gender and across the life course; (2) that the independent variables will exert
+a lower mortality risk for women than for men at all ages of death; and (3) that differential risks
+by gender will be larger for younger age-at-death groups. Findings support the first and third
+hypotheses. The importance of research on gender differentials in age at IHD mortality in
+relation to parental heart-attack mortality, smoking and spousal smoking, occupation, and
+
+fertility is highlighted.
+
+In the low mortality regimes of developed countries, women outlive men
+by a substantial, although variable,
+margin. The sex difference in life expectancy at birth in developed countries ranges from 9 years (in the former
+USSR) to 4.5 years (in Greece). In the
+United States the figure is 7.5 years
+(United Nations, 1988). Diseases of
+the circulatory system account for
+nearly one-half of the sex difference in
+life expectancy at birth, and ischemic
+heart disease (IHD) for approximately
+one-third. In addition, about 63 per
+cent of the increase in the sex mortality
+differential in the U.S. between 1900
+and 1982 resulted from trends in death
+due to circulatory disease! (United Nations, 1988). While differential life expectancy by sex has been decreasing
+within a number of age groups in North
+
+1The figure for IHD mortality is not available.
+
+America in the last decade (Gee and
+Veevers, 1988; Waldron, 1993), sex
+mortality differentials in deaths due to
+heart disease continue to remain substantial and, as yet, there are no indications of a narrowing (Waldron,
+1993).
+
+A combination of social, psychosocial, and biological factors—and
+their interactions—are considered to
+account for women’s greater life expectancy in general (i.e., for all causes
+of death), although biological risks
+are considered to be of overall lesser
+importance (e.g., Koskenvuo et al.,
+1986; Verbrugge, 1985). A number of
+findings are well-established—for example, only a few causes of death
+(IHD, lung cancer, and deaths due to
+accidents/violence) are primarily responsible for the sex difference in longevity, and that about one-half of the
+sex differential in (adult) mortality in
+general and in IHD mortality specifi
+110
+ 
+
+Vol. 41, No, 1-2
+
+cally is attributable to smoking (Waldron, 1986a). Findings on other possible determinants of the sex difference
+in deaths due to IHD —such as the protective effect of female sex hormones
+(Kalin and Zumoff, 1990) and the role
+of Type A behavioral patterns (Barker
+et al., 1984; Waldron, 1986b)—are
+more ambiguous.
+
+This paper investigates gender dif£ ferences in mortality, but with a differa ent focus than most research on the
+8 topic. Typically, efforts are directed
+€ toward establishing the factors that de3 termine the magnitude of the sex morA 5, tality differential. We are less interS ested in accounting for the differential
+~. per se than in ascertaining if mortality
+— determinants operate in the same way
+S ‘for female and male mortality across
+5, S the life course. For example,. are fac= tors x, y, and z equally “risky” for
+= men and women? And, do these dif«= ferential risks vary with age at death?
+2 These questions are particularly relef © vant given the substantial changes oc2 = curring in the female gender role, such
+5 as shifts in labor-force participation
+>and work-related stress.
+
+Ultimately, all research on sex dif'S ferentials in dying in developed countries seeks to answer the question:
+= Why do women live longer than men?
+© Without denying the complexities of
+attempting to answer this question,
+one finds research has not progressed
+significantly beyond broad generalities. In 1986, Waldron stated “much
+remains to be discovered about the
+multiple interacting causes of sex differences in mortality” (p. 74). While
+this statement is as true now as it was
+then, research on differential mor
+ed b
+
+ownloa
+
+tality in developed countries has, in recent years, shifted its focus away from
+
+Ischemic Heart Disease
+
+111
+
+gender to social-class/socioeconomic
+differences.”
+
+We suggest two reasons for the current “standstill” in the explication of
+mortality differences by gender. One is
+a looseness in the operationalization of
+the dependent variable. As pointed out
+by Pollard (1983), mortality rates and
+survivorship (or life expectancy or longevity) measure different aspects of
+death, although they are related in
+nontrivial ways. If one is attempting to
+explain or account for gender differences in longevity, the appropriate
+measure is one based on age at death
+(or years until death). However, researchers of sex differences in longevity sometimes use the rate of dying
+(i.e., women’s lower mortality rates
+[for most causes of death]) as a proxy
+or equivalent measure (e.g., Harrison,
+1978; Hoyenga and Hoyenga, 1979;
+Solomon, 1981; Sutherland et al.,
+1990). The linking of a mortality measure with its corresponding conceptualization of death is an important,
+albeit complicated, issue as inappropriate measures can lead to misleading
+conclusions.
+
+A second reason is that limited research has been devoted to gender
+differences in cause-specific mortality
+risk factors. An exception is the work
+of Wingard and her colleagues (e.g.,
+Wingard, 1982; Wingard et al., 1983).
+As noted by Waldron (1986b), Wingard reports inconsistent findings
+
+across studies, attributable in part to
+
+A library search of research done in the past
+five years on mortality differentials in developed
+countries revealed a preponderance of work on socioeconomic differences. Examples include: Committee for International Cooperation in National
+Research in Demography, 1991; Mare, 1990; Marmot, 1989; Nolan, 1990; Wilkins et al., 1989; and
+Wing, 1988.
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+ 
+
+ 
+
+ 
+
+112 Wister and Gee
+
+nonrepresentative samples. Another
+exception is research done as part of
+the Framingham Study. While the
+Framingham research has examined
+male and female risk for various types
+of heart disease and mortality, its biomedical framework often precludes
+the examination of social or lifestyle
+variables?—except smoking—and its
+focus is not on gender differences per
+se (e.g., Stokes, 1987). However, until
+we know about the possible “‘gender
+-ing”’ of risk factors (e.g., are smoking,
+
+low SES, etc., as “risky” for women as
+for men?), we will not progress in our
+understanding of gender differences
+in dying from IHD. An examination
+of risk factors is particularly important
+in IHD mortality, since gender differences in IHD prognosis are small
+(Waldron, 1986).
+
+This research examines male-female
+differences in the timing of death due
+to IHD among white Americans. Specifically, we seek to ascertain if, and
+to what degree, the factors associated
+with dying from IHD earlier versus
+Jater in life are similar for men and
+women. As the concern is with explicating longevity (survivorship) differentials, our mortality measure, age at
+death, is appropriate. The data source
+used—the National Mortality Followback Survey (NMFS) (see following
+section)—contains a relatively large,
+representative sample and a number of
+independent variables for testing.
+
+The choice to limit the investigation
+to one cause of death, IHD, is based on
+a number of considerations. One, we
+assume that different causes of death
+
+3Research based on the Framingham Study (and
+its Offspring Study) is increasingly examining social
+variables, but gender is not a major focus (e.g., Garrison et al., 1993).
+
+Social Biology
+
+(due to natural causes) have different
+configurations of causal variables; to
+include all causes of death, in an attempt to account for women’s later age
+at death, is to chance obscuring effects
+that counterbalance one another. Two,
+heart disease is the major cause of
+death for both men and women in the
+United States; hence, findings related
+to this cause of death will be more explicative of the overall sex difference in
+longevity than those for any other natural cause of death. Three, heart disease has tended to be ignored by social
+scientists interested in sex differences
+in longevity and/or mortality (exceptions include Wingard et al., 1983;
+Johnson, 1977). The putative role of
+sex hormones in determining gender
+differences in heart disease mortality
+appears to have deterred nonbiological
+researchers from studying this cause of
+death. Four, research on predictors of
+death due to heart disease performed
+by biomedical researchers has tended
+to examine men only (exceptions include Schildkraut et al., 1989; Stokes
+et al., 1987), presumably because premature death due to heart disease is
+more common among men. As a result
+of three and four above, there is little
+research-informed knowledge about
+sex differences in age at death due to
+heart disease.
+
+In attempting to account for age at
+death due to IHD for men and for
+women and, in particular, the degree
+of similarity or dissimilarity in the
+predictor variables by sex, we adopt a
+model containing three types of variables: lifestyle* variables, socioeco
+“Our use of the term lifestyle does not imply an
+“individual-responsibility” approach to health.
+That is, we acknowledge the social and economic
+environment which both creates some lifestyle be
+ 
+ 
+
+Vol. 41, No. 1-2
+
+nomic status (SES), and _ biological/
+hereditary variables. The lifestyle
+variables examined are smoking, spousal smoking, drinking, and exercise.
+Smoking is clearly linked to gender differences in heart disease mortality
+(Waldron, 1986, Wingard, 1983).
+While smoking by a spouse has been
+explored less, Garland et al. (1985) report elevated IHD mortality in neversmoking women aged 50-79 whose
+Sihusbands smoke or had smoked. The
+consumption of alcohol is less consisE tently linked with heart disease mortalDity, but, as stated by Epstein (1989,
+$203) “it is nevertheless likely that
+Sdrinking habits reflect patterns of
+~- lifestyle that are relevant to the prob—lem [of coronary heart disease].”
+“Further, research has demonstrated a
+S J-shaped curve in the distribution of
+THD mortality and alcohol consumpS tion, wherein heavy drinkers, followed
+‘sby light drinkers or nondrinkers, apepear to have a higher mortality risk
+than moderate drinkers (Marmot et
+Zal., 1989). Other studies even show
+~ a health benefit associated with moderate alcohol consumption (for a regview of research findings, see BaumSBaicker, 1985). Physical activity or
+exercise has also been reported as a
+= correlate of longevity (e.g., Blair et al.,
+1989, Paffenbarger et al., 1986). While
+it is not clear whether exercise affects
+the quality of life more than its quantity (O’Brien and Vertinsky, 1991),
+there is enough evidence to justify its
+inclusion in our analysis.
+SES is measured by occupation. Although not our operationalization of
+choice (see following section for a dis
+haviors and hinders the development and maintenance of others (Becker, 1993).
+
+Ischemic Heart Disease
+
+113
+
+cussion of methodological issues regarding SES measurement), an association between heart disease mortality
+and occupation has been reported
+(e.g., Marmot, 1989; Wing, 1988), as
+has a relationship between female
+labor-force participation and the sex
+differential in mortality (Pampel and
+Zimmer, 1989).
+
+The set of biological/hereditary
+variables contains three indicators.
+One is parental death due to IHD.
+Family history is a widely accepted risk
+factor for heart disease, but its role as
+a factor independent of other risks that
+family members tend to share has been
+questioned (Perkins, 1986). Findings
+from the Framingham study suggest
+that parental death due to heart disease is an independent factor for both
+women and men (Schildkraut et al.,
+1989). The second variable is body
+mass, since weight is an acknowledged
+risk factor in heart disease (e.g., Higgins et al., 1988; Kannel et al., 1976;
+Negri et al., 1992). It is possible that
+the distribution of body weight (‘‘apple” vs. “pear”? shape) is more important than actual weight itself (Wingard,
+1990). However, such a measure is not
+available in the NMFS. The third variable is fertility (among women only).
+It is included as an exploratory variable, particularly to see if childlessness
+(and/or bearing large numbers of children) which has physiological dimensions in many cases, is linked to IHD
+mortality, especially at young ages.
+Childlessness has been found to be
+related to sudden coronary death in
+women (Talbot et al., 1989).
+
+Our working hypotheses are that:
+(1) IHD mortality risks will vary by
+gender and across the life course;
+(2) the independent variables (except
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+114 Wister and Gee
+
+fertility) will exert a lower IHD mortality risk for women than for men at
+all ages of death; and (3) differential
+risks by gender will be larger for
+younger ages of death. The first hypothesis is based on research suggesting that mortality risks vary by gender.
+The second hypothesis is guided by research that demonstrates no narrowing
+of sex mortality differentials due to
+IHD even in the face of decreasing
+gender differences in important mortality determinants such as smoking
+(Waldron, 1993). The third hypothesis
+is based on a general finding that the
+major risk factors predictive of cardiovascular mortality lessen with advancing age (Davis, 1990).
+
+MATERIALS AND METHODS
+SAMPLE CHARACTERISTICS
+
+The data used are a subset drawn
+from the 1986 National Mortality Followback Survey (NMFS), conducted
+by the Department of Health and Human Services. The NMFS contains
+18,733 records, gathered from the Current Mortality Sample (CMS), of resident U.S. adults aged 25 or more who
+died in 1986. The CMS comprises a systematic sample of 10 per cent of the
+death certificates from each state except Oregon. Oregon did not participate in the NMFS due to state legislation regarding consent of survey
+respondents. Washington, D.C., and
+New York City are also excluded,
+given separate death registration in
+those areas.
+
+The NMFS links information taken
+from the death certificate with data obtained from an “informant” (a relative
+or close friend of the decedent), the
+
+ 
+
+Social Biology
+
+latter of which includes information
+about potential risk factors that may
+have contributed to the death. There
+are a total of 16,598 cases linking these
+two sources of information; and the response rate for the informant questionnaires was 89 per cent. Multiple causeof-death data were also linked to this
+data set, since 99.9 per cent of cases
+contained multiple cause-of-death information.
+
+This study is based on cases in which
+IHD (ICD codes 412~414 [ninth rev.])
+was indicated as the main cause of
+death on the death certificate and
+where race was reported as white on
+the death certificate and in the informant file. A small number of persons
+with inconsistent information on gender across the files were also removed.
+This results in a total unweighted sample of 2,955 IHD decedents; 1,656 men
+(56 per cent) and 1,299 women (44 per
+cent.)
+
+MEASUREMENT OF DEPENDENT AND
+INDEPENDENT VARIABLES
+
+The dependent variable is age at
+death due to IHD, which indicates the
+timing of death due to ischemic heart
+disease. Since age-at-death data are
+sensitive to life cycle and cohort effects, our initial step involved dividing
+the IHD decedents into four age-atdeath groups: (1) those who died very
+young—25 to 44 years of age; (2) those
+who died during mid-life—45 to 64
+years of age; (3) those who died as
+young elderly—65 to 79 years of age;
+and (4) those who died as old elderly
+—8&Q years of age and over. The number of IHD decedents in these four
+groups, by sex, is provided in Table 1.
+From these groups, three dichotomous
+dependent variables were developed to
+Vol. 41, No. 1-2
+
+TABLE 1
+
+THD Decepents, BY AGE AT DEATH AND SEX
+
+SEX
+
+AcE AT DeatH Male Female
+25-44 Lecce cccceecesecsonncs 463 91
+(28%) (7%)
+45-64 occ ccccceseceeenss 345 335
+(20.8%) (25.8%)
+G5 —T9 occ ccccccvsccssceveees 509 331
+(30.7%) (25.5%)
+80 and over ...........008. 339 542
+all? (20.5%) (41.7%)
+S Total ........c..ec cece esse eee 1,656 1,299
+5 (100%) (100%)
+e Median Age
+Yat Death ................0. 65 76
+O
+2
+00
+oO
+\o
+
++ facilitate analyses of: very young dece—dents; young decedents; and very old
+“decedents. These include: (1) ages
+5 25~44/remainder; (2) ages 25-64/
+‘remainder, and (3) ages 80+/
+S remainder, respectively (see following
+‘5 Sub-section on Data Analysis).
+= The operationalization of the nine
+independent variables is provided in
+.2 Table 2, including the reference cate~ gory for each variable for the logistic
+>regressions (see following — subsection). The operationalizations are
+S straightforward, although some discussion of the SES measure (occupation)
+=is warranted. Our preference is an edAucation measure, as education is the
+single best SES indicator in relation to
+the risk of cardiovascular disease (Winkleby et al., 1992). However, the characteristics of our sample result in a negative relationship between age at death
+and education. Specifically, education
+is a co-variate of age at death. Age
+strongly affects level of completed education (a cohort effect) and level of
+education affects age at death. If we
+had data on survivors as well as dece
+Ischemic Heart Disease
+
+115
+
+dents, we could have performed an
+analysis (e.g., event history analysis,
+proportional hazards analysis) which
+would remove the potent cohort effects
+of educational attainment. As we lack
+such data, we are forced to adopt an
+SES measure, based on occupation of
+longest duration, that is less susceptible to cohort effects.
+
+DaTa ANALYSIS
+
+Logistic regression techniques are
+used to investigate differences in the
+ability of the independent variables to
+predict the timing of IHD deaths in the
+lives of men and women. As indicated
+above, age at death due to IHD was
+dichotomized for the purpose of conducting logistic regression analyses of
+very young IHD decedents (ages 2544/remaining); young decedents; (ages
+25-64/remaining); and very old decedents (ages 80+/remaining). In this
+way, we are comparing the independent variables across gender in their
+ability to predict dying from IHD very
+early (versus later), early (versus
+later), and very late (versus earlier) in
+life. A comparison between one of the
+two mid-age at death groups (i.e., ages
+44-64 or 65-79) would prove problematic, since we would be combining ageat-death groups that are both younger
+and older than the middle age-at-death
+group.
+
+Logistic regression is a multivariate
+technique that is well suited to predicting a binary dependent variable from a
+set of independent variables. It requires fewer assumptions than other
+models, such as discriminant analysis,
+that also attempt to estimate the probability that an event occurs. The logistic coefficient, its standard error, and
+odds ratio are presented. The logistic
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+116 Wister and Gee Social Biology
+
+TABLE 2
+
+INDEPENDENT VARIABLES: DESCRIPTION, CODING, AND FREQUENCIES
+
+Variable/Category Description Per Cent
+
+MUMBA 5; ne vntsine ren enitd p0esiwaage vanes Mother died of heart attack 100.0
+i sca siecscec wares ra os tae wigs worninmes eae No 67.6
+
+Lannion ae mm UATE WiRAIOSEEE BORE sie RALENNNTN MRTOTES Yes 16.8
+
+Qo cecscececsessccercesesecesesteeeneeeaeees Missing 15.7
+DUDA? sos ses seasons sn sce ae me cawe ace Father died of heart attack 100.0
+Qo eceeecececeececeerecececscsteeeceeeeeesees No 56.5
+
+Lose ececsececseseceeeceeeeneeeteeeenseereenes Yes 25.1
+
+Dek sas one eR RK OR, PRE LKAY eee ma OY eames Missing 18.4
+BMI? oo. cec cee ceeeeecseeecneceeeceeeeen Body Mass Index 100.0
+D BMIGOOD 6cisccsnes ins ewnsnas easens Acceptable (20-25) 43.2
+
+1 BMIBADD ossscs ics ss axecsoes cxnomwe ome Unacceptable (under 20 and over 25) $1.8
+ste GSIeREa SRetINss MRS GROOM SUDeTScOI Ma Missing 5.0
+PY. as ciate crea sxrcaca veo een sms eee Number of live births (women only) 100.0
+1 NOBIRTHS...........::cesceseeeeeees None 15.5
+~2 1-3BIRTHS ............ccecceeceeee es 1 to 3 50.9
+3 4+ BIRT sis sis cssucaws sina vax sos 4 or more 28.5
+
+Da sui sean wae ena eH MRE REBORN Wie ereTONS Sar Missing uke
+OCCUPATIONS «cis ssissui5 ves ease veweinn Occupation 100.0
+1 HOMEMAKER is sanenesnxsenes ens Homemaker/student 26.0
+
+2 BLUE+AGR ..... eee ec eeeeee es Blue collar/agriculture 33.5
+~3 WHITE + SERV ..............c00e0es White collar/service industry 21.5
+4 PROF+ MAN ..........0-.cecececenes Professional/managerial 16.0
+
+Doses awe seed nana ONRERS Os Camano RESTS Missing 3.0
+CIGARETTES 1... csc eeeeee eee ee eens Average # of cigarettes per day 100.0
+DOSING ons rics vncrs ev sawngens moans None 40.4
+we CGS 24 ccs sac sae saa saweans vas nie 1 to 24 35.0
+3 CIGS25 + voccececceesesteeeveeeeseeees 25 or more 21.5
+
+) a Missing 3.1
+SPOUSESMORE, snus ews assaseswnsines sas Average # of cigarettes/day—spouse 100.0
+1 SPCIGSNONE sis ss. sscsessavasans ane None 41.0
+22, GPS OFF, secs sear aves anemnen coos sco 1 to 24 29.8
+3 SPCIGS25 + 2... ceccceeeeereeeeeeees 25 or more 14.2
+
+Qi ecceceneececececaceececececeeeectoseeeeeres Missing 15.0
+DRINKING (® 1.0.0... cece ce eee sense eee ees Average # of drinks X episodes 100,0
+1 DRINKLO gis esis ais proses sances axe Light drinking (0-1) 22.9
+
+2 DRINKMED  ..........eeceeeeeseeeees Medium (2-9) 52.7
+~3 DRINKHI ........ cc seceeeee eee eees Heavy drinking (10+) 18.0
+DD iid aasedgeand biieg gas cbAaiigg gs oon eau EES eae Missing 6.4
+EAE RIGISE, snawessasames xan names concern wn Amount of exercise—past 10 years 100.0
+1 ACTIVE ............cccceeeeceeeeeeeees Very regularly 15.3
+2 NOTREG ons ons 0050054 emamesnns cows ua Not very regularly 14.1
+3 SEDENTARY sisi isis ssnones sesswes on Hardly ever or not at all 68.0
+
+Gams sae ana oreRsEk AN amaamUaines mM EN Missing 2.6
+
+~ Reference category for the logistic regressions. Missing values are placed in this category except for the binary variables, where
+missing data are placed in the zero category.
+“Cases where parent was alive are treated as “no” and coded 0.
+5BMI = weight (kg)/height 2 (m).
+“Occupation of longest duration. For males, the few cases in which the occupation was homemaker/student were treated as
+missing data.
+4Variable constructed by multiplying the average number of drinks per drinking day by the frequency of drinking days over
+the adult life of the decedent. The categories for average number of drinks per drinking day are: 1=1, 2=2, 3=3-4, 4=5-6,
+5=7-11, 6=12 or more. The categories for frequency of drinking days are: 1=less than once per month, 2= 1-3 times per
+month, 3= 1-2 times per week, 4=3-6 times per week, 5=every day.
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Vol. 41, No. 1-2
+
+coefficient can be interpreted as the
+change in the log odds of death due to
+IHD associated with a one-unit change
+in the independent variable. The odds
+of an event occurring (in this case, dying from IHD) are defined as the ratio
+of the probability that it will occur to
+the probability that it will not. When a
+coefficient is negative, the odds of dying from IHD are below one (even
+odds) but never reach zero; when a coefficient is positive, the odds ratio is
+above singularity. Goodness-of-fit chiSquare is provided for the full models
+along with a test for statistical significance. If a chi-square is not statistically
+significant, it does not differ significantly from a “perfect”? model using
+the independent variables in the
+model.
+
+The independent variables that are
+not binary are grouped into three categories (except occupation; see below), with the middle one treated as
+the reference or contrast category.
+(The reference groups are indicated in
+Table 2. The coefficient for the reference category is zero.) The odds ratio
+for the first category of a variable indicates the change in log odds when
+comparing this category to the middle
+or contrast group. The same logic can
+be applied to the other contrast.
+
+The occupation variable contains
+three categories for men and four for
+women. For women, a homemaker/
+student category is added to the three
+variable classes that apply to both genders: blue collar/agriculture; white
+collar/service; and professional/mana
+-gerial. The contrast group for both
+
+female and male decedents is white
+collar/service (see Table 2). The odds
+ratio is therefore interpreted as the
+probability of dying from IHD for a
+
+ 
+
+Ischemic Heart Disease
+
+ 
+
+117
+
+specific occupational category compared to the white collar/service industry category.
+
+DATA LIMITATIONS
+
+A number of data limitations which
+can affect the results and their interpretation can be identified. One major
+concern is that all of the independent
+variables in the NMFS are obtained by
+proxy (i.e., informants or decedents).
+The information provided by proxies
+varies depending on the degree of
+closeness of the informant to the decedent and the ability of the respondent
+to recall information, some of which
+relates to events distant in time. Both
+affect the accuracy of the informant’s
+information, which cannot be validated. Missing data is a related issue.
+Logistic regression allows only for
+the listwise deletion of missing data.
+Therefore, missing data are added
+to the contrast category group for
+multiple-category variables, and coded
+as zero for binary variables. This is the
+most conservative way of dealing with
+missing data and still retain sample
+size. A third concern is the absence
+of control groups, i.e., persons in the
+same age groups who are alive. The
+lack of information on both decedents
+and survivors does not allow for the
+elimination of cohort effects, as discussed in the measurement of our SES
+variable. Furthermore, predictors of
+age at IHD death may not necessarily
+correspond with predictors of survival.
+
+RESULTS
+
+Table 1 indicates the relationship
+between age at death due to IHD and
+gender in the NMFS sample. Nearly
+one-half of IHD male deaths occur at
+
+ 
+
+ 
+CT
+
+ 
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+ 
+
+118 Wister and Gee
+
+ages under 65, whereas IHD deaths
+among women are concentrated at the
+older ages. The median age at death
+due to this cause differs by 11 years between men and women.
+
+Given the association between IHD
+mortality and gender, results are discussed separately for the three age-atdeath groups. Within each group, the
+discussion is ordered so that the variables displaying the largest odds ratios
+(for women, men, or both) are discussed first.
+
+IHD DECEDENTS AGED 25-44
+
+For both men and women, the
+strongest predictor of very early versus
+later death due to IHD is parental
+death from a heart attack (see Table
+3). This result confirms other studies
+reporting that parental death due to
+heart disease is a predictor of heart disease mortality for both sexes, particularly mortality at young ages (e.g.,
+Schildkraut et al., 1989). However, the
+magnitude of the relationship for both
+men and women is striking. The odds
+ratio for women is more than double
+that for any other variable; for men,
+the odds ratio is larger than for heavy
+cigarette smoking.
+
+The odds ratios and B’s in Table 3
+show the strength of a relationship
+while controlling for the other variables in the model. Therefore, at least
+some of the factors that could account
+for the relationship between parental
+death due to heart attack and IHD
+mortality through the transmission of
+family traits (such as smoking, drinking, obesity, a sedentary way of life, for
+example) are controlled, lending support to family heart disease mortality
+as an independent risk factor.
+
+Social Biology
+
+It is also important to note that the
+effect of family history (i.e., parental
+heart attack death) is sex-linked. That
+is, for women it is the heart attackdeath of the mother only and for men
+it is the heart attack-death of the father
+only that predicts early IHD death.
+This finding conflicts with Schildkraut
+et al. (1989), who report that the heart
+disease mortality of either parent is important for both sexes. As most studies
+examining the effect of family history
+of heart disease mortality have restricted their samples to men, it is not
+possible to reconcile these conflicting
+findings.
+
+Compared to later IHD death, very
+early male IHD mortality is more
+likely to be affected by smoking than
+is very early female IHD mortality.
+Men display 2.23 times the risk of dying from IHD at ages 25-44 if they
+are heavy smokers in contrast to moderate smokers (the contrast group).
+For women of these ages, a risk exists
+as well, but it is smaller (1.33 odds) and
+not statistically significant. Similarly,
+men who do not smoke are somewhat
+less likely (0.86 odds) to die early
+from IHD than are moderate smokers.
+Women, on the other hand, are not protected from early IHD death through
+not smoking; the risk for nonsmokers
+is not statistically significant.
+
+Overall, smoking is a significant risk
+factor for very early IHD mortality
+for men but not for women. It is not
+known whether this difference is due
+to a protective mechanism within
+women (possibly biologically-based) or
+whether it is due to differences in
+smoking styles/habits (e.g., men inhale more deeply, smoke closer to the
+filter, are less likely to smoke filtered
+cigarettes, etc.) (Waldron, 1986a). The
+
+ 
+Vol. 41, No. 1-2
+
+MaALeEs?
+
+VARIABLE B S.E.
+BECIOTIALS, sun seaseon can meeesens om 0.06 0.16
+DADHA ............ cece cece eee 0.85? 0.13
+BMIBAD  ..............2000e088 0.11 0.12
+NOBIRTHS.................6. _ 1%
+4+ BIRTHS ........cccceeeeeee
+
+  
+    
+   
+   
+  
+ 
+   
+   
+ 
+   
+
+>
+
+niversl
+
+data relating to spousal smoking pro~ vide a clue, however. Nonsmoking
+wives protect men from the risk (0.58)
+3 odds) of very early IHD mortality
+3 whereas heavy smoking wives are as"e sociated with only a small and not staeB tistically significant risk for men. However, spousal smoking does not affect
+dying very young from YHD for
+women. This may be partly due to the
+low probability of IHD death for
+young women.
+
+Occupation has no effect on early
+compared to later IHD mortality
+among men. On the other hand, young
+women are less than one-half as likely
+to die from IHD if they are blue collar
+or agricultural workers than if they are
+in white collar or service occupations
+
+Ischemic Heart Disease
+
+in BLUE+AGR ....cccceceeeees 0.02 0.15
+S PROF+MAN ......eeceeeees 0.00 0.18
+HOMEMAKER ........0004. can a
+iD)
+
+2 CIGSNONE.......cccceceeeee —0,14 0.29
+5 CIGS25 + eeecccsseccseseeeeees 0.80? 0.13
+2 SPCIGSNONE ..........0605- —0.54° 0.15
+A SPCIGS25 + ....ccceceseeeeeees 0.14 0.16
+0 DRINKLO ..... ss seeseseseees —0.49¢ 0.16
+© DRINKHI .u..cceeeceerseeeees 0.28 =: 0.14
+SE ACTIVE ...ccecccccccceseceeees —0,34¢ 0.19
+© SEDENTARY..........00000- —0.39¢ 0.15
+s CONSTANT ......cccseceeeees —1.04 0.23
+cS
+
+S) Goodness x? = 1,581, df = 1,575
+
+we) OSE TAG sca og args comes: set oma anes Not significant
+oO
+
+—
+
+> “B = regression coefficient: S.E. = standard error of B.
+
+oO (p < 0.01.
+
+> dn < 0.05.
+
+ 
+
+TABLE 3
+
+LoaistTic REGRESSIONS FOR MALE AND FEMALE IHD DEcEDENTS AGED 25-44
+
+119
+FEMALES“
+
+Odds Odds
+Ratio B S.E. Ratio
+1.07 0.90° 0.25 2.47
+2.34 0.21 0.25 1.23
+1.15 0.38 0.24 1.47
+2g 3 —0.52 0.34 0.60
+
+—0.69°¢ 0.28 0.50
+1.02 ~—0.84¢ 0.26 0.43
+1.01 —0.35 0.41 0.70
+Lee —0.57 0.42 0.57
+0.86 0.25 0.47 1.28
+220 0.29 0.29 1.33
+0.58 —0.04 0.31 0.96
+1.15 0.33 0.29 1.39
+0.61 —0.594 0.26 0.55
+1.32 0.51 0.33 1.67
+0.71 —0.52 0.44 0.59
+0.68 —0.61¢ 0.30 0.54
+
+—1.81 0.42
+
+x? = 1,271, df = 1,256
+Not significant
+
+(the contrast group). Similarly, homemaking seems to exert a protective effect (0.57 odds) in comparison to the
+contrast category. With regard to fertility, women who have 4 or more children are one-half less hkely to die from
+IHD at young ages compared with
+women with 1-3 children. Similarly,
+childlessness exerts a protective influence, although not to a statistically significant degree. (Since within-gender
+differences are not the focus of the
+analysis, issues concerning female
+work and fertility are not dealt with
+here but will be briefiy highlighted in
+the Summary and Discussion section).
+
+Heavy alcohol consumption increases the risk of early IHD death for
+both men (1.32 odds) and women (1.67
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+120 Wister and Gee
+
+odds) compared to medium drinking,
+but the latter is not statistically significant due to a large standard error for
+the coefficient. A low level of drinking
+decreases the risk for both men and
+women to an approximately equal degree. Thus, these data do not support,
+for either sex, the research suggesting
+an association between lower mortality
+and moderate drinking (see BaumBaicker, 1985).
+
+Persons with unacceptable body
+mass (either too fat or too thin) have a
+slightly elevated risk of dying very
+young rather than later in life from
+IHD, but statistical significance is not
+reached for either women or men.
+Regular exercise reduces the risk of
+very early IHD mortality for both men
+and women, compared to the contrast
+category (not very regular exercise).
+However, a sedentary lifestyle is also
+protective for both men and women. It
+appears that, at least for the risk of
+very early IHD mortality, irregular exercise is more “‘dangerous”’ than both
+much or very little exercise, and that
+this finding holds for both sexes.
+
+IHD DECEDENTS AGED 25-64
+
+Among this age grouping, which
+overlaps with the previous one, there
+are proportionately more women as
+the numbers of men and women dying
+from IHD in the older segment (i.e.,
+ages 45-64) are nearly equivalent (see
+Table 1).
+
+The strongest predictor of the timing of IHD death is smoking. For
+women, heavy smokers are nearly 5
+times more likely to die from THD
+younger than older compared to moderate smokers. Among men, the risk ts
+approximately 3 times higher. However, a protective effect of not smoking
+
+ 
+
+Social Biology
+
+compared to moderate smoking occurs
+for women only. Similarly, a nonsmoking spouse decreases the likelihood of
+dying from IHD before age 65 for both
+men and women (0.62 and 0.57 odds,
+respectively). However, it should be
+noted that the probabilities of dying
+from IHD younger rather than later
+in life due to heavy spousal smoking
+are in opposite directions for men
+and women, although neither of these
+associations is statistically significant.
+Thus, these data suggest that gender
+differences in the risk of dying young
+from THD associated with smoking
+are complex. While heavy smoking is
+definitely a risk—although more for
+women than for men—the risk associated with spousal smoking and the protection of not smoking differ by sex and
+suggest that the deleterious effects of
+smoking (and passive smoking) need to
+be further examined.
+
+Family history of heart attack again
+emerges as an important variable, although the results differ somewhat for
+this age grouping. Having either a
+mother or a father who died from a
+heart attack significantly affects the
+probability of dying earlier than later
+in life from IHD among women (2.84
+and 2.22 odds, respectively). However, among men, only paternal heart
+attack significantly increases the risk of
+early IHD mortality (2.64 odds). These
+data suggest that research on the role
+of family history of heart attack as a
+determinant of early IHD mortality
+needs to pay greater attention to the
+“family transmission” of heart disease
+for women.
+
+Men who are heavy drinkers have a
+higher likelihood of dying before
+rather than after age 65 from IHD than
+do moderate drinkers (1.67 odds), but
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Vol. 41, No. 1-2
+
+Ischemic Heart Disease
+
+ 
+
+TABLE 4
+
+Locistic REGRESSIONS FOR MALE AND FEMALE IHD DEcEDENTS AGED 25-64
+
+Mates?
+VARIABLE B S.E.
+MUMHA .............ceseeeeee 0.29 0.15
+DADHA. iss sc otic vies 0s panes 0.97 0.13
+PRT AL wa sce cmcmena meneame 0.36 0.11
+NOBIRTHS............0.0000s son Lae
+4+ BIRTHS 1... eee
+BLUE+AGR ...........0000 —Q,12 0.14
+PROF+ MAN ........ cee 0.06 0.17
+HOMEMAKER ............. Sp ius
+CIGSNONE owes sss sesavnsces 0.07 0.23
+CICS 25 Fs seen. caren sommes oan 1.08° 0.12
+SPCIGSNONE ............45. —0.48? 0.14
+SPCIGS25 + ....ccscsceeeeeeees 0.26 0.16
+DRINKLO  ....... cc. eeeee ees —0.40¢ 0.14
+DRINKH I ........... ce eceeee ee 0.51 0.14
+ACTIVE ...... ccc eeseceeseeeeee —0.09 0.18
+SEDENTARY sscsc, issssssses —0.30¢ 0.15
+CONSTANT .........cceceee es —0.48 0.21
+Goodness x2 = 1,603, df = 1,575
+OE Fit 4 cists cre cag patie piste gids jee Not significant
+*"B = regression coefficient; S.E. = standard error of B.
+bp < 0.001.
+fp < 0.01.
+dn < 0.05,
+
+the association for women is not significant. A significantly decreased likelihood of THD death associated with
+light drinking exists for both men and
+women (0.67 and 0.48 odds), again
+casting doubt on research findings that
+suggest that moderate drinking is the
+“healthiest” drinking behavior.
+
+As with the previous age-at-death
+grouping, the occupation of men exerts
+no significant effect. On the other
+hand, and also as reported for the pre~
+vious grouping, women are one-half
+(0.50 odds) as likely to die from IHD if
+they are in blue collar or agricultural
+work than if they are in white collar
+or service occupations (the contrast
+group). However, in this case, homemaking does not show a protective
+
+12]
+FEMALES?
+
+Odds Odds
+Ratio B S.E. Ratio
+1.34 1.04 0.17 2.84
+2.64 0.80° 0.16 222
+1.43 —0.00 0.14 0.99
+a —0.61° 0.22 0.54
+
+0.01 0.15 1.01
+0.88 —0.68° 0.17 0.50
+1.06 —0.08 0.27 0.92
+ont —0.17 0.26 0.84
+1.08 —0.40 0.32 0.67
+2.95 1.59° 0.18 4.89
+0.62 —0.56° 0.17 0.57
+1.39 —0.33 0.17 0.72
+0.67 —0.72° 0.14 0.48
+1.67 0.29 0.25 1.33
+0.91 —0.33 0.27 0.72
+0.74 —0.64" 0.19 0.53
+
+0.23 0.27
+
+x? = 1,252, df = 1,256
+Not significant
+
+effect. Regarding fertility, childless
+women are at less IHD mortality risk
+(0.54 odds) than women with 1-3
+children.
+
+While regular exercise has a small
+protective effect, slightly greater for
+women, the results are not significant.
+However, being sedentary has a statistically significant protective effect for
+both women (0.53 odds) and men (0.74
+odds). As with the previous analysis, it
+appears that irregular exercise (the
+contrast group) is the least “healthy”
+behavior.
+
+THD DEcEDENTS AGED 80+
+
+In turning to persons who die at very
+old ages, we are looking at the probability of dying from IHD late compared
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+122 Wister and Gee
+
+to earlier in life. Thus, the odds ratios
+in Table 5 are interpreted differently
+than in the two previous Tables. In
+Table 5, a high odds ratio indicates a
+protective effect, because now we are
+comparing the chances of dying from
+IHD late rather than earlier in life.
+
+A striking feature of the regressions
+provided in Table 5 is the high degree
+of similarity between men and women.
+The magnitudes of the odds ratios for
+the independent variables for women
+and men are quite comparable (with
+one exception, spousal nonsmoking).
+This finding indicates that gender differences in the variables predictive of
+late compared to earlier IHD death are
+relatively small.
+
+While heavy smoking is associated
+with a low likelihood of dying late from
+IHD (0.33 odds for men; 0.13 odds for
+women), again we see that nonsmoking does not significantly affect mortality chances (relative to moderate
+smoking, the contrast category). Having a spouse who does not smoke increases the chances of dying late for
+both men and women, but particularly
+for men for whom the odds ratio exceeds 4. However, a heavy smoking
+spouse is not a significant risk factor for
+either men or women. Again, we see
+that smoking is a complex phenomenon in relation to IHD mortality.
+
+Parental death due to heart attack is
+a significant factor for both men and
+women, and is not sex-linked. As expected, the effect of parental heart attack death is to decrease the likelihood
+of dying from IHD at old ages rather
+than at younger ages. In other words,
+having a parent who died from a heart
+attack is associated with a greater likelihood of dying from IHD young rather
+than late in life.
+
+ 
+
+Social Biology
+
+Again, the effect of occupation is
+much stronger for women than for
+men. For men, being tn a professional/
+managerial job lowers the odds (0.66
+odds ratio) of dying later than earlier in
+life from THD relative to the contrast
+occupational group (white collar and
+service). For women, both being a
+homemaker and working in a blue collar or agricultural occupation more
+than double the odds of dying later
+rather than earlier from THD (in comparison with white collar/service occupations). Similarly, for women, being
+childless significantly increases the
+odds (1.64 odds ratio) of dying at old
+ages.
+
+Heavy drinking lowers the odds for
+both men (0.53 odds ratio) and women
+(0.60 odds ratio), although the effect is
+significant for men only. Light drinking
+increases the odds of dying later rather
+than earlier, approximately 1.5 times
+for both sexes, but is statistically significant for women only.
+
+An unacceptable body mass lowers
+the odds of late IHD death for men
+(0.62 odds ratio) but not for women.
+For women, being sedentary doubles
+the odds of dying later rather than earlier from IHD. The other exercise relationships do not reach statistical
+significance.
+
+SUMMARY AND DISCUSSION
+
+In general terms, the findings here
+indicate that the ranking of determinants of the timing of IHD death are:
+lifestyle factors (see footnote 4), biological factors, and, finally, socioeconomic factors. Our findings regarding
+the importance of smoking, spousal
+smoking, drinking and parental transmission of risk are in keeping with the
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+ 
+
+Vol. 41, No. 1-2 Ischemic Heart Disease 123
+TABLE 5
+Loaistic REGRESSIONS FOR MALE AND FEMALE IHD DeEcEDENTS AGED 80+
+Ma tes# FemMaces#
+Odds Odds
+
+VARIABLE B S.E. Ratio B S.E. Ratio
+MUMHA ............0ccceeeeee ~0.71° 0.22 0.49 —1.11¢ 0.20 0.33
+DADRA .........ccccccecee ees ~1.31¢ 0.20 0.27 —0.82° 0.17 0.44
+BMIBAD ........ cc cccceeeeees ~—0.48? 0.14 0.62 —0.24 0.13 0.78
+NOBIRTHS..............00008 . Lae a 0.49° 0.20 1.64
+4+ BIRTHS .................. 0.18 0.14 1.19
+BLUE + AGR ................ —0.09 0.17 0.91 0.71¢ 0.17 2.04
+PROF+MAN ,.........c0000e —0.41¢ 0.21 0.66 -0.11 0.28 0.90
+HOMEMAKER ............. . Lae .. 0.78" 0.26 2.18
+CIGSNONE ........ cc cece eens 0.18 0.26 1.20 —0.11 0.29 0.90
+CIGS25 + co.cc ec ccc esses eeees —1.10° 0.19 0.33 —2.06° 0.26 0.13
+SPCIGSNONE ............... 1.42° 0.21 4.13 0.55° 0.16 1.73
+SPCIGS25 + 2.0... ccc ceee cease 0.48 0.26 1.62 —0.09 0.17 0.91
+DRINKLO ...............00085 0.36 0.15 1.43 0.41¢ 0.14 1.52
+DRINK3 + oo... ccc ccc eceeseees —0.62° 0.20 0.53 —0.52 0.30 0.60
+ACTIVE 0... ccc ecc ee ecceeeeee —0.08 0.22 0.92 0.28 0.20 1.32
+SEDENTARY .............005 0.09 0.18 1.09 0.73¢ 0.20 1.96
+CONSTANT ...........cceeeee — 1.40 0.29 —1.18 0.28
+Goodness x" = 1,599, df = 1,574 x? = 1,321, df = 1,255
+0) 0 9 | ee Not significant Not significant
+
+“B = regression coefficient: S.E. = standard error of B.
+fp < 0.01.
+‘p < 0.001.
+fp < 0.05,
+
+literature, although results here suggest complexities in the operation of
+variables that need further study. The
+lack of importance of occupation (for
+men) and the results associated with
+the fertility variable are unexpected
+findings that may have relevance for
+further research.
+
+Turning to our specific hypotheses,
+the first hypothesis—that IHD mortality risks will vary by gender and across
+the life course—is supported. Also, we
+find that the magnitude of risk factors
+varies by gender. The second hypothesis—that the independent variables
+will exert a lower IHD risk for women
+than for men at all ages—is not supported. Together, these findings sug
+gest that the explication of gender differentials in the timing of mortality (at
+least regarding heart disease) depends
+upon models that incorporate different
+risks, and varying magnitude of those
+risks, by gender and age. At a minimum, considerations of female mortality need to include family history,
+fertility, and type of occupation, all
+variables that are rarely included.
+Also, the differential risks associated
+with smoking, spousal smoking, drinking, Occupation, and exercise need
+to be accurately assessed. The third
+hypothesis—that differential risks by
+gender will be larger for younger ages
+at death—is supported. Reasons for
+this remain unclear and require further
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+124 Wister and Gee
+
+exploration. However, it appears that
+many of the protective effects associated with being female diminish with
+age.
+
+In addition to the support/refutation
+of specific hypotheses, our findings
+bear on a number of issues relevant to
+male-female differentials in mortality
+and survivorship. The role of family
+(i.e., parental) history of heart attack
+mortality, and its possible sex-linked
+characteristic, suggests an important
+avenue for research. It is important to
+add women to studies concerned with
+family history and heart-disease risk,
+particularly among young ages-atdeath groups. It should be noted, however, that since this analysis is based
+on only decedents of IHD, the effect
+of parental transmission may be
+magnified.
+
+Findings regarding smoking and
+spousal smoking, and their differential
+effects by gender and age at death, illustrate the intricacies involved with
+the smoking variable(s). Given increases in female smoking, there is
+clearly a need for more refined research on the mortality consequences
+of smoking. These findings provide details as to why the relationship between
+increased female smoking and heart
+disease mortality rates remains ambiguous (Waldron, 1993).
+
+Our results regarding gender, mortality, and occupation—specifically,
+that occupation plays a minor role in
+the timing of IHD mortality for men
+and a fairly important one for women
+
+—indicate another avenue of explora
+tion. This finding conflicts with explanations of greater female longevity
+that focus on women’s sheltered role in
+the home (Kotler, 1989). Indeed, these
+data provide little support for the pro
+ 
+
+Social Biology
+
+tective effect of the homemaker role.
+Rather, they suggest that blue collar
+and agricultural jobs are the “‘healthiest” for women. This finding departs
+from that of Hazuda et al. (1986) who
+report that women employed in clerical
+and sales jobs are at the least risk of
+IHD, although their dependent variables were risk factors (e.g., cholesterol levels, body mass, blood pressure, glucose intolerance, smoking)
+rather than mortality. It may be that
+the effects of employment are mediated through family and work-setting
+variables. The findings here point to a
+factor (women’s outside-the-home employment) that may increase mortality
+differentials by gender. Also, our findings show the importance of research
+focusing on variables associated with
+gender and work in relationship to
+mortality.
+
+For the two female age-at-death
+groups for whom the childbearing
+years are complete, childlessness acts
+as an IHD mortality protector. The relationship between number of children
+ever-born and IHD mortality has been
+little-researched, but, if these findings
+are valid, they suggest another factor
+that could increase the gender differential in mortality, assuming that childlessness levels increase, as is predicted
+(Veevers, 1993).
+
+It is clear that lifestyle factors play a
+leading role in the timing of IHD death
+and in accounting for some of the gender differences. However, the complexities of relationships, along with
+the role of social and economic factors
+in determining lifestyle behaviors,
+leave considerable uncertainty as to
+how health promotion initiatives could
+be tailored to meet the specific needs of
+women and men.
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Vol. 41, No. 1-2
+
+ACKNOWLEDGMENTS
+
+This research was funded by a British
+Columbia Health Research Foundation re
+Ischemic Heart Disease
+
+ 
+
+125
+
+search grant. We thank Mary Cooper for
+her assistance with computer runs.
+
+REFERENCES
+
+Barker, L. J., M. DearBorn, J. E. Hastincs,
+and K. HaMBERGER. 1984. Type A behavior
+in women: A review. Heal. Psych. 3:477-497.
+
+Baum-BalckeER, C, 1985. The health benefits of
+moderate alcohol consumption: A review of
+the literature. Drug Alcohol Dependence
+15:207-227.
+
+Brair, S. N., H. W. Kout, R. S. PAFFENBARGER,
+D. Crark, K.H. Cooper, and L. W. GipsBONS. 1989. Physical fitness and all-cause
+mortality: A prospective study of healthy
+men and women. J. Amer. Med. Assoc.
+262:2395-2401.
+
+COMMITTEE FOR INTERNATIONAL COOPERATION IN
+NATIONAL RESEARCH IN DEMOGRAPHY. 1991.
+Socio-economic differential mortality in industrialized societies. International Committee for International Cooperation in National
+Research in Demography, Paris.
+
+Davis, A. M. 1990. Prevention in the aging, p.
+316-337. in R. L. Kane, J. G. Evans, and D.
+McFadyen (eds.), Improving the health of
+older people: A world view. Oxford Univ.
+Press, Oxford.
+
+EpstEIN, F. H. 1989. The relationship of lifestyle
+to international trends in CHD. Intern. J.
+Epidemiol. 18(Suppl!. 1):S203~S209.
+
+GARLAND, C., E. BARRETT-CoNnnor, L. SUAREZ,
+M. H. Criqut, and D. L. Wincarp. 1985. Effects of passive smoking on ischemic heart
+disease mortality of nonsmokers: A prospective study, Amer. J. Epidemiol. 121:645-650.
+
+GARRISON, R. J., R. S. Goip, P. W. F. Witson,
+and W.B. KANNEL. 1993. Educational attainment and coronary heart disease: The
+Framingham Offspring Study. Prev. Med.
+22:54-—64.
+
+GEE, E.M., and J. E. VEEvers. 1988. Recent
+trends in Canadian sex mortality differentials, p. 435-456. In Contributions to demography: Methodological and substantive. University of Alberta, Edmonton.
+
+Hazuba, H. P., S. M. Harener, M. P. STERN,
+J.A. Knapp, C.W. EFter, and M.
+ROSENTHAL. 1986. Employment status and
+women’s protection against coronary heart
+disease. Amer. J. Epidemiol. 123:623~640.
+
+Harrison, J. 1978. Warning: The male sex role
+may be dangerous to your health. J. Soc. Iss.
+34:65-86.
+
+Hicoins, M., W. KANNEL, R. Garrison, J. Pinsky, and J. Stoxes. 1988. Hazards of obesity
+—the Framingham experience. Acta Med.
+Scand. Suppl. 723:23~36.
+
+Hoyenaa, K. B., and K. T. Hovenca. 1979. The
+question of sex differences: Psychological,
+cultural and biological issues. Little, Brown,
+Boston.
+
+Jounson, A. 1977. Sex differentials in coronary
+heart disease: The explanatory role of primary risk factors. J. Hith. Soc, Behav. 18:4654
+
+Kaun, M. F., and B. Zumorr. 1990. Sex hormones and coronary disease: A review of
+clinical studies. Steroids 55:330-352.
+
+KANNEL, W. B., D. McGEE, and T. Gorpon.
+1976. A general cardiovascular risk profile:
+The Framingham study. Amer. J. Cardiol.
+38:182-194.
+
+KosxENnvuo, M., K. Kapario, J. LoNNgvisT, and
+S. SARNA. 1986. Social factors and the gender
+difference in mortality. Soc. Sci. Med.
+23:605-609.
+
+Kot er, P. L. 1989. Having it all: Multiple roles
+and mortality. Garland, New York,
+
+Marg, R. D. 1990. Socio-economic careers and
+differential mortality among older men in
+the United States, p. 362-387. In J. Vallin, S.
+D’Souza, and A. Pailoni (eds.), Measurement and analysis in mortality: New approaches. Oxford Univ. Press, New York.
+
+Marmot, M. 1989. Socioeconomic determinants of CHD mortality. Intern. J. Epidemiol. 18(Suppl. 1):S196-S202.
+
+Marmot, M.G., G. Rose, M.S. SuipLey, and
+B. THomas. 1981. Alcohol! and mortality: A
+U-shaped curve. Lancet 1(8220):580~583.
+
+MarsHaLL, M. H. 1993. A medical sociologist
+looks at health promotion. J. Hlth. Soc. Behav. 34:1-6.
+
+Near, E., L. Santoro, B. D’Avanzo, A. NoBILI, and C. La Veccnia. 1992. Body mass
+and acute myocardial infarction. Prev. Med.
+21:292-301.
+
+Noxan, B. 1990. Socio-economic mortality differentials in Ireland. Econ. Soc. Rev.
+21:193-208.
+
+O’Brien, S. J., and P. A. VerTINsKyY. 1991. Unfit survivors: Exercise as a resource for aging
+women. The Geront. 31:347-357.
+
+PAFFENBARGER, R.S., R. T. Hype, A. L. WING,
+and C. Hseip. 1986. Physical activity, allcause mortality, and longevity of college
+alumni. New Engl. J. Med. 314:605~613.
+
+PaMPEL, F., and C. ZimMer. 1989, Female labour
+force activity and the sex differential in mortality: Comparisons across developed countries. Europ. J. Pop. §:281-304.
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+126 Wister and Gee
+
+Perkins, K. A. 1986. Family history of coronary
+heart disease: Is it an independent risk factor? Amer. J. Epidemiol. 124:182-194.
+
+PoLLarD, J. H. 1983. Some methodological issues in the measurement of sex mortality patterns, p. 427-442. In A. D. Lopez and L. T.
+Ruzicka (eds.), Sex differentials in mortality:
+Trends, determinants and consequences.
+Australian National University, Canberra.
+
+ScHILDKRAUT, J. M., R. H. Myers, A. CuppLes,
+D.K. Kiety, and W. B. KANNEL. 1989. Coronary risk associated with age and sex of parental heart disease in the Framingham
+study. Amer. J. Cardiol. 64:555-559.
+
+SoLomon, K. 1981. The masculine gender role
+and its implications for the life expectancy
+of older men. J. Amer. Geriatr. Soc. 29:297301.
+
+Stokes, Ill, J.. W.B. KaNneL, P. A. WoLr,
+L. A. Cupptes, and R. B. D’AGostiNno. The
+relative importance of selected risk factors
+for various manifestations of cardiovascular
+disease among men and women from 35 to 64
+years old: 30 years of follow-up in the
+Framingham Study. Circ. 75(Suppl. V):V65—V73.
+
+SUTHERLAND, J.E., V. W. Persxy, and J.A.
+Bropy. 1990. Proportionate mortality trends:
+1950 through 1986. J. Amer. Med. Assoc.
+264(24):3178-3184.
+
+TaLBor, E., L. H. KuLver, and K. Detre. 1989.
+Reproductive history of women dying of sudden cardiac death: A case control study. Int.
+J. Epidemiol. 18:589-~594.
+
+Unitep Nations. 1988. Sex differentials in life
+expectancy and mortality in developed countries: An analysis by age groups and causes of
+death from recent and historical data. Pop.
+Bull. U.N. 25:65-106.
+
+Social Biology
+
+VEEVERS, J. E. 1993. Personal communication.
+
+VERBRUGGE, L. M. 1985. Gender and health: An
+update on hypotheses and evidence. J. Hlth.
+Soc. Behav. 26:156-182.
+
+WALpRON, I. 1986a. The contribution of smoking
+to sex differences in mortality. Publ. Hlth.
+Rep. 101(2):163-173.
+
+. 19866. What do we know about causes of
+
+sex differences in mortality? A review of the
+
+literature. Pop. Bull. U.N. 18:59-67.
+
+. 1993. Recent trends in sex mortality ratios for adults in developed countries. Soc.
+Sci. Med. 36:451~-462.
+
+WILKINS, R., O. Apams, and A. BRANCKER.
+1989. Changes in mortality by income in urban Canada from 1971 to 1986. Hith. Rep.
+1(2):137-174.
+
+Wina, S. 1988. Social inequalities in the decline
+of coronary mortality. Amer. J. Pub. Hith.
+78:1415-1416.
+
+Wincarpd, D.L. 1982. The sex differential in
+mortality rates—demographic and behavioral factors. Amer. J, Epidemiol. 115:205216.
+
+. 1990. Sex differences and coronary heart
+disease: A case of comparing apples and
+pears? Circ. 81:1710-1712.
+
+Wincarb, D.L., L. Suarez, and E. BarreTTConnor, 1983. The sex differential in mortality from all causes and ischemic heart disease. Amer. J. Epidemiol. 117:165-172.
+
+WInkLeBy, M. A., D. E. JATULIS, E. FRANK, and
+S. P. ForTMAN. 1992. Socioeconomic status
+and health: How education, income, and
+occupation contribute to risk factors for cardiovascular disease. Amer. J. Publ, Hlth.
+82:816-820.
+
+ 
+
+ 
+
+ 
+
+ 
+

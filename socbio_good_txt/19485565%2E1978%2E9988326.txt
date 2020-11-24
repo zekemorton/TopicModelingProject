@@ -1,0 +1,723 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Incidence of 47,XYY males: Implications of the
+production of 47,XYY offspring by 47,XYY males
+
+Elizabeth Dorus & John Gillespie
+
+To cite this article: Elizabeth Dorus & John Gillespie (1978) Incidence of 47,XYY males:
+Implications of the production of 47,XYY offspring by 47,XYY males, Social Biology, 25:2, 87-93,
+DOI: 10.1080/19485565.1978.9988326
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1978.9988326
+
+fa Published online: 23 Aug 2010.
+
+&
+(g Submit your article to this journal @
+
+all Article views: 1
+
+»
+Q View related articles 4
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:37
+
+ 
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+ 
+
+ 
+
+Incidence of 47,XYY Males: Implications of
+the Production of 47,XYY Offspring by
+47,XYY Males
+
+ 
+
+Elizabeth Dorus and John Gillespie
+
+Department of Psychiatry, University of Chicago, Chicago, Illinois; and Department of Biology, University of
+Pennsylvania, Philadelphia, Pennsylvania
+
+ABSTRACT: Chromosomally normal 46,X Y males can have 47,X YY male offspring as a result of
+fertilization of a normal ovum by a YY spermatozoon, produced by nondisjunction in the second
+meiotic division or by mitotic nondisjunction of the Y chromosome in early stages of embryonic
+development of a 46, XY fetus. If such meiotic and mitotic nondisjunctions were random events and
+if these were the only source of 47,X YY males in the population, the incidence of 47,X YY males
+would remain constant. Two cases have been reported, however, in which 47,X YY males produced 47, X YY male offspring. If there are 47,X YY males who are asource of 47,X YY malesinthe
+population, there is the possibility that the incide.:ce of 47,X YY males is changing. A discretegeneration model is presented which describes (1) the change in incidence of 47,X YY males from
+one generation to the next; (2) the incidence at equilibrium; and (3) the incidence as a function of the
+probability thata 47,X YY male has a 47,X YY offspring, and as a function of the mean number of
+
+ 
+
+offspring of 47,X YY males relative to the mean number of offspring of 46,XY males.
+
+In considering the incidence of the
+47,X YY male in the population, one generally assumes that the fathers of 47,X YY
+males are 46,XY males. Such 47,X YY
+males may result from fertilization of a
+normal ovum by a YY spermatozoon produced in gametogenesis by nondisjunction
+in the second meiotic division or may be
+produced by mitotic nondisjunction of the
+Y chromosome in early stages of embryonal
+development. If there were no systematic
+variation in the frequency of occurrence of
+the mechanisms by which 46,XY males
+produce 47,X YY male offspring, and if all
+47,XYY males were the offspring of
+46,XY males, the incidence of the 47,X YY
+karyotype would remain constant.
+
+In contrast to cases of other sex chromosome variants in which sterility is the rule
+(e.g., 45,X and 47,X XY), instances have
+
+Reprint requests should be sent to Dr. Elizabeth
+Dorus, Department of Psychiatry, University of
+Chicago, 950 East 59th Street, Chicago, Illinois
+60637.
+
+been documented in which 47,X YY males
+have produced chromosomally normal
+offspring (e.g., Thompson et al., 1967) and
+47,X YY males (Tzoneva-Maneva et al.,
+1966!; Sundequist and Hellstrom, 19692).
+Viable YY spermatozoa could be produced
+in the 47,X YY male by primary nondisjunction in the second meiotic division asin
+the 46,X VY male or by secondary nondisjunction. These cases of 47,X YY fatherson pairs provide evidence of a second
+source of 47,X YY males in the population
+and raise the possibility that the incidence
+of 47,X YY males is changing.
+
+We now present a discrete-generation
+model which assumes that 46,XY males
+and 47,X YY males can produce 47,X YY
+male offspring and which describes (1) the
+change in the incidence of 47,X YY males
+
+‘The father and son were 46,XY/47,XYY
+mosaics, with the latter cell line predominating.
+
+2 The putative father of an illegitimate 47,X YY
+male had a 47,XYY karyotype. The Y/E ratios of
+both males, as well as blood typing, provided evidence of paternity.
+
+87
+
+ 
+
+ 
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+88 Dorus and Gillespie
+
+from one generation to the next; (2) the
+incidence at equilibrium; and (3) the incidence as a function of the probability thata
+47,XYY male has a 47,XYY offspring,
+and as a function of the mean number of
+offspring of 47,X YY males relative to the
+mean number of offspring of 46,X Y males.
+Since the model demonstrates the relationship between the incidence of 47,X YY
+males and reproductive characteristics of
+46,XY males in comparison to reproductive characteristics of 47,X YY males, it
+delineates the kinds of data which would be
+required for a better understanding of the
+population aspects of the 47,XYY
+karyotype.
+
+THE MODEL
+
+We propose a discrete-generation model
+using standard modeling techniques. The
+assumption of nonoverlapping generations
+is commonly made in population genetics;
+it yields results which can be generalized to
+overlapping generations, but with a loss of
+clarity. The model describes: Ap, the
+change in the incidence of 47,X YY from
+one generation to the next; ~, the incidence
+of 47,XYY males in the population at
+equilibrium; and y, the incidence of the
+production of 47,X YY males by 46,XY
+males. These parameters are defined as
+functions ofr, the probability of a47,X YY
+male having a 47,X YY offspring, and of
+N,/Ne, the ratio of the mean total number
+of offspring of 47,X YY males reaching reproductive age to the mean total number of
+offspring of 46,X Y males reaching reproductive age.
+
+TABLE 1
+
+DEFINITION OF MEAN NUMBER OF MALE
+OFFSPRING PER MALE WHO REACH
+REPRODUCTIVE AGE
+
+OFFSPRING
+FATHER 47, XVY 46,XY
+47, XVY s HOSS Be Oe ee Qi G12
+46,XY Ce eee mew eee nes da, Qe2
+
+ 
+
+Social Biology
+
+Let the mean number of male offspring
+per male who reach reproductive age be
+defined as shown in Table 1.
+
+If p isthe prevalence of 47,X YY malesin
+the population of fathers and p’ is the prevalence in the population of offspring, then
+
+pan + Qaa
+P(ai, + G42) + G(Ge1 + 22)
+where g = 1 — p.
+
+The change in the prevalence of 47,X YY
+males from one generation to the next, Ap,
+is p’ — p. If one assumes that an equilibrium has been reached, i.e., that the prevalence in the population is not changing
+from one generation to the next, the
+steady-state prevalence # is
+
+p' =
+
+p= pay, + Gae1
+Plan + @y2) + G(d21 + 22)
+
+If one expands the denominator of this expression as a geometric series, the terms #”,
+f°, etc., approximate 0 since # is very small
+(see Estimation of } below). This expression may then be approximated by
+
+p= Gor + P(Qiy — a1)
+G21 + Age
+
+This statement is equivalent, when the
+terms are transposed, to
+
+p= ——__*_
+
+Qi; — a
+1— 11 21
+
+Ne
+
+where; is the fraction of male offspring of
+46,XY males that are 47,X YY, i.e.,
+
+Qo1
+
+Yr )
+21 + Ag
+
+and N,2 = do, + dee is the mean total number
+of male offspring of 46,X Y fathers. An additional approximation can be made if one
+makes the reasonable assumption that a.,/
+(a1, + G2) is negligible, i.e., that the mean
+number of 47,X YY offspring of 46,X Y
+fathers is substantially less than the mean
+total number of offspring of 47,X YY
+fathers. The approximation is
+ 
+
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+ 
+
+ 
+
+Vol. 25, No. 2 Incidence of 47,XYY Males 89
+p= Y chromosomally normal males as females.
+i—# * 1 The research done on the presence of the
+
+2
+
+where NV, = a,, + G2, the mean total
+number of male offspring of 47,X YY
+fathers, andr = a,,/(a,; + a2), the fraction
+of male offspring of 47,X YY males that are
+47,XYY.
+
+Ifp is known for a particular population,
+y may thus be estimated by the relationship
+
+~ _,»
+y = Ali Yr We)
+
+provided estimates for r and N,/N, are
+available. The estimation of f, the probable limits of r and V,/Nz, and the characteristics of p as r and N,,/N, vary are presented below.
+
+ 
+
+ESTIMATION OF p
+
+The incidence of 47,X YY males is approximated by the prevalence of 47,X YY
+males in randomly selected or consecutive
+newborn males. Thirty-five 47,X YY males
+have been detected in six samples of newborn males totaling 37,634, resulting in a
+prevalence of 0.0009, or approximately 1
+in 1,000 (Hook and Hamerton, 1977). If
+one assumes that differences in prevalence
+among the studies from different geographic areas reflect random rather than regional variation, the estimation of the incidence is based on a large sample size and
+should therefore be reasonably accurate.
+
+ESTIMATION OF 7
+
+If the supernumerary Y chromosome of
+47,X YY males segregated randomly and
+gametes were equally viable, the value ofr
+could be determined on the basis of probability. The four types of expected gametes
+and the probability associated with each
+type would be: X (1/6), Y (1/3), XY (1/3),
+and YY (1/6). Accordingly, 1/6, or approximately 17 per cent, of the offspring could
+be expected to be 47,X YY males. Also,
+47,X YY males would be expected to produce 47,X XY offspring and twice as many
+
+ 
+
+supernumerary Y chromosome during
+gametogenesis in 47,X YY males has been
+reviewed by Hultén and Lindsten (1973).
+Several 47,X YY males studied had only
+normal XY bivalents. However, YY bivalents have been noted in the cells of two
+47,X YY males and identified by fluorescence in one case. This finding confirms
+that, at least in some 47,X YY males, a
+supernumerary Y chromosome can be
+perpetuated throughout rather than being
+eliminated from the process of gametogenesis.
+
+One method of estimating ¢ is to determine what per cent of spermatozoa of
+47,X YY males are YY-bearing. Diasio
+and Glass (1970) found 5 per cent YYbearing spermatozoa in 1,000 ejaculate
+spermatozoa of a 47,KX YY male. In this
+subject, 70 per cent of the 1,000 spermatozoa contained one Y chromosome (or
+XY) in comparison to 36 to 49 per cent in
+spermatozoa of normal controls. Faed etal.
+(1976) found 1.6 per cent YY-bearing
+spermatozoa in 250 ejaculate spermatozoa
+of a 47,X YY male in contrast to 0.8 per
+cent of a normal control; Chandley et al.
+(1976) found 2.4 per cent in 1,600 spermatozoa of a 47,X YY male, and Hultén
+and Pearson (1971) found 2.9 per cent
+Y Y-bearing testicular spermatozoa.
+
+In contrast to the studies of 47,X YY
+males, Diasio and Glass (1970) found no
+YY-bearing spermatozoa in spermatozoa
+of an unspecified number of 46,X Y males;
+Sumner et al. (1971) found an average of
+1.3 per cent of Y Y-bearing spermatozoa in
+4,000 ejaculate spermatozoa of four subjects, three of whom were attending a subfertility clinic; and Pawlowitzki and Pearson (1972) found an average of 1.3 per cent
+in 10,692 ejaculate spermatozoa of twelve
+healthy fertile subjects. These studies
+suggest that the percentage of Y Y-bearing
+spermatozoa may be higher in 47,X YY
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+90 Dorus and Gillespie
+
+males than in 46,X Y males, but substantially lower than the 17 per cent expected if
+the Y chromosome segregated randomly.
+Thus, there is no evidence that the additional Y chromosome segregates randomly,
+but there is evidence that it is not always
+completely eliminated in the process of
+gametogenesis.
+
+Questions have been raised on optical
+grounds about the validity of inferring the
+presence of two Y chromosomes in
+quinacrine-stained spermatozoa displaying two fluorescent spots or F-bodies
+(Roberts and Goodall, 1976). The optical
+attenuation coefficient is sufficiently great
+that Y chromosomes located deep in the
+head of spermatozoa would not be detected
+and other chromosomes and _ artifacts
+fluorescing less brightly than the Y located
+near the surface would be detected. Interobserver variability in the intensity of
+the fluorescence required for a spot to be
+counted would have a significant effect on
+the threshold at which other chromosomes
+would become visible and on the resulting
+counts of F-bodies. Initially, DNA measurements using Feulgen microdensitometry suggested that the two F-bodies
+represent two Y chromosomes (Sumner et
+al., 1971). More recently, DNA measurements using integrating microinterferometry indicate that DNA measurements of spermatozoa with two F-bodies
+do not differ from those of spermatozoa
+with one F-body, suggesting that many are
+not YY-bearing (Sumner and Robinson,
+1976). The incidence of 47,X YY males, 1
+in 1,000, is lower than the percentages of
+YY-spermatozoa feported in 46,XY
+males. YY-bearing spermatozoa may not
+be as viable as normal spermatozoa and/or
+the percentages reported may represent
+substantial overestimations due to technical problems in identifying YY-bearing
+spermatozoa. In either case, it is likely that
+the percentages of YY-bearing spermatozoa reported for 47,X YY males will
+be overestimations of r.
+
+Social Biology
+
+ESTIMATION OF N,,/N,
+
+An estimate of V,/N2, the ratio of mean
+total number of offspring of 47,X YY males
+to mean total number of offspring of 46,X Y
+males, depends upon estimating the viability and reproductivity of 47,X YY males in
+comparison to 46,X Y males. This ratio is
+determined by factors such as (1) viability
+of the 47,X YY fetus, (2) 47,X YY infant
+mortality, (3) fertility of the 47,X YY male,
+and (4) the reproductive characteristics of
+47,X YY males.
+
+To date, no47,X YY male has been identified in chromosome studies of spontaneously aborted fetuses (Boué et al., 1976),
+suggesting that this chromosomal variant
+does not result in a reduced fetal viability.
+Longitudinal studies of 47,X VY males detected in surveys of newborns were begun
+in the 1960’s, and no cases of 47,X YY infant mortality have been noted. Jacobs et
+al. (1974) reported that nine of the ten
+47,X YY males detected in their investigation were phenotypically normal at birth,
+and that the tenth had a minor abnormality, namely, bilateral clinodactyly. In a
+survey by Lubs and Ruddle (1970), two of
+three 47,X YY males detected had minor
+neonatal complications. At one year of age,
+none evidenced developmental retardation; and at two years, all were doing well.
+Valentine et al. (1971) have reported that
+none of the four 47,X YY males detected in
+their survey showed physical abnormalities. At four years of age, three were
+normal, and one had borderline intelligence and behavioral problems. These
+findings on randomly selected 47,X YY
+males constitute the only direct data on the
+viability of 47,X YY male infants and
+suggest a probability that a 47,X YY male
+will reach the age of reproduction which is
+roughly equivalent to the probability for
+46,XY males.
+
+Gametogenesis has been studied in four
+47,X YY males detected in a survey of a
+general population (Skakkebaek, 1973), all
+
+ 
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+ 
+
+Vol. 25, No. 2 Incidence of
+of whom were found to have impaired
+spermatogenesis. Three of the four had reduced sperm counts resulting from the presence of tubules with spermatogenic arrest
+as manifested in testicular-biopsy specimens. The fourth 47,KYY male had
+tubules with complete spermatogenesis,
+but with a reduced number of spermatids.
+Although one of the 47,X YY males had a
+son, these data on 47,X YY males who
+were not detected in an institutionalized or
+fertility clinic population strongly suggest
+that the fertility of 47,X YY males may on
+the average be lower than that of 46,X Y
+males.
+
+To our knowledge, no data have been
+published on the mean number of offspring
+of 47,X YY males in comparison to that of
+46,X Y control males. It may be significant
+that the prevalence of 47,X YY males in
+mental-penal institutions is elevated. The
+nature of the relationship between the elevated prevalence and the supernumerary
+chromosome is unclear (Hook, 1973);
+nevertheless, the possibility exists that
+47,X YY males have a reduced mean
+
+18 x10-*
+
+16 x 10-*
+
+14x 1074
+.
+
+I2 x 1074
+
+10 x 1074
+
+8x 107*
+
+0.00) 0.01
+
+47,XYY Males
+
+91
+
+number of offspring as a function of incarceration and subsequent lack of opportunity
+to reproduce.
+
+In summary, there have been no direct
+studies of the viability or reproductivity of
+the 47,X YY male which would indicate
+that N,/N. differs from 1. The data on
+gametogenesis in 47,X YY males strongly
+suggest that NV,/N. may be less than 1.
+However, since this parameter has not
+been systematically investigated, a range of
+values of V,/N, will be assumed in the discussion of the relationship of V,/N, tof and
+
+Y.
+
+CHARACTERISTICS OF f ANDY AS?
+AND N,/Nz2 VARY
+
+Figure 1 shows the variation in f for a
+range of values ofr from 0.001 to 0.5, with
+the assumption that V,/N, = 1 andy =
+0.0009. The values of 0.05 and 0.17
+marked on the abscissa are those, respectively, where the percentage of YY-bearing
+spermatozoa reported for a 47,X YY male
+is maximum (Diasio and Glass, 1970), and
+where 17 per cent of the offspring of
+
+  
+  
+
+N,/Np #104
+
+*N,/N, «0.5
+
+0.05 0.1 O17 0.5
+
+r
+
+FIG. 1.—Relationship between p and r for N,/N2 = 0.5 and 1.0 and y = 0.0009.
+
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+92 Dorus and Gillespie
+
+0 02 04 O06 08
+
+Social Biology
+
+ 
+
+lO = *t.2 1.4 1.6 18 20
+N,/N,
+
+Fic. 2.—Relationship between y and N,/N2 for r = 0.00, 0.03, 0.05, and 0.17 and #£ = 0.0009.
+
+47,X YY males are 47,XYY if random
+segregation and equal viability of gametes
+are assumed. If one assumes that YY gametes have no advantage in regard to
+segregation or viability, then 0.17 marks
+the upper theoretical limit of r. The lower
+limit is more difficult to specify without
+systematic research on gametogenesis in
+47, X YY males and chromosome studies of
+offspring of 47,X YY males. It is evident,
+however, that, for 7 equal to or less than
+0.17, variations in r have very little effect
+on f. When N,/N,j is less than 1 (e.g., 0.5),
+as may be the case if 47,X YY males have
+reduced fertility, the effect on fis even less,
+as is also shown in the figure. A theoretical
+implication is that if 47,X YY fetuses of
+47,X YY fathers were systematically
+aborted, there would be no appreciable
+change in the incidence of this
+chromosomal variant in the population.
+Figure 2 shows the values ofy fora range
+of N,/N. values from 0.0 to 2.0, for f =
+0.0009 and r = 0.00, 0.03, 0.05, and 0.17.
+For r = 0.00 to 0.05, y does not change
+appreciably as V,/N» varies. Also, for these
+values ofr and for somewhat larger values,
+y = p. Thus, an intervention that would
+either increase or decrease the mean total
+number of offspring of 47,X YY males rela
+tive to the mean total number of offspring
+of 46,XY males would not appreciably
+alter the relationship betweeny and #. For
+example, if one assumes that the lower
+limits of r and N,/N. are 0.03 and 0.5,
+respectively, and that the upper limits are
+0.05 and 1.5, respectively, then 0.00063 =
+y = 0.00077. This example demonstrates
+that, if one had accurate estimates of r and
+N,/N2, y could in turn be estimated. The
+resulting value of y would predict the
+proportion of 47,X YY males who could be
+expected to have 46,XY fathers and the
+proportion of those who could be expected
+to have 47,X YY fathers.
+
+DISCUSSION
+
+Whereas extensive research has been
+addressed to determining the incidence of
+47,X YY males in the population, little attention has been given to the factors which
+contribute to variations in the incidence.
+We have focused here on the evidence that
+there may be two types of 47,X YY males in
+the population, namely, those who are
+offspring of 46,X Y males and those who
+are offspring of 47,X YY males. In the
+proposed discrete-generation model, we
+have described variation in the incidence of
+47,X YY males as a function of r, the frac
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+ 
+
+Incidence of
+
+Vol. 25, No. 2
+
+tion of the total offspring of a47,X YY male
+which is 47,X YY, and N,/Nz, the ratio of
+the mean tota) number of offspring of
+47,X YY males to the mean total number of
+offspring of 46,XY males. The general
+conclusion which can be drawn is that,
+within the probable ranges ofr and N,/No,
+any reduction iny or N,/Nz has no appreciable effect on the incidence of 47,K YY
+males in the population. Thus, the free reproduction of 47,X YY males has no appreciable effect on the incidence in the
+population.
+
+The proposed model draws attention to
+the fact that little is known about the reproductive characteristics of 47,X YY
+males. Assumptions have been made about
+the ranges within which r and N,/N2 are
+likely to fall, but itis possible to study these
+parameters empirically. One could ascertain the mean fraction of offspring of
+47,XYY males who are 47,X YY males,
+
+47,XYY Males 93
+that is, the probability thata47,X YY male
+will have offspring of the same karyotype.
+One could also ascertain what the mean
+number of offspring of 47,X YY males is
+compared to 46,X Y normal controls. Less
+central to the proposed model, but of equal
+interest, is the question whether 47,K YY
+males have more normal male than female
+offspring, and whether 47,X YY males
+have 47,X XY offspring. Also, the nature
+and degree of impairment of viability and
+function of YY-bearing spermatozoa relative to normal spermatozoa needs to be
+examined.
+
+ACKNOWLEDGMENTS
+
+This work was supported by the Foundations’ Fund for Research in Psychiatry and by
+Research Scientist Development Award 5-K01
+MH-00111 from the National Institute of
+Mental Health (Dr. Dorus). Drs. A. P.
+Amarose, J. D. Rowley, and M. A. Telfer assisted in the preparation of the manuscript. E.
+Lanzl provided editorial assistance.
+
+REFERENCES
+
+BovE, J., M.-J. DAKETSE, C. DeLUcHAT, N.
+RAVISE, F. YVERT, and A. BouE. 1976. Identification par les bandes Q et G des anomalies
+chromosomiques dans les avortements spontanés.
+Ann. Génét. 19;233-239.
+
+CHANDLEY, A. C., J. FLETCHER, and J. ROBINSON.
+1976. Normal meiosis in two 47,X YY men. Hum.
+Genet, 33:231-240.
+
+Diasio, R. B., and R. H. Giass. 1970. The Y
+chromosome in sperm of an XYY male. Lancet
+2:1318—-1319.
+
+FAED, M., J. ROBERTSON, W. G. MAcINTosH, and J.
+GRIEVE. 1976. Spermatogenesis in an infertile
+XYY man. Hum. Genet. 33:341-347.
+
+Hook, E. B. 1973. Behavioral implications of the
+human XYY genotype. Science 179:139-150.
+Hook, E. B., and J. L. HAMERTON. 1977. The frequency of chromosome abnormalities detected in
+consecutive newbom studies—Differences between
+studies—Results by sex and severity of phenotypic
+involvement, p. 63-79. In E. B. Hook and I. H.
+Porter (eds.), Population cytogenetics: Studies in
+
+humans. Academic Press, Inc., New York.
+
+HULTEN, M., and J. LINDSTEN. 1973. Cytogenetic
+aspects of human male meiosis. Adv. Hum. Genet.
+4:327~387.
+
+HULTEN, M., and P. L. PEARSON. 1971. Fluorescent
+evidence of spermatocytes with two Y chromosomes in an XYY male. Ann. Hum. Genet.
+34:273-276.
+
+Jacoss, P. A., M. MELVILLE, S. RATCLIFFE, A. J.
+KEAY, and J. SYME. 1974. A cytogenetic survey of
+11,680 newbom infants. Ann. Hum. Genet.
+37:359-376.
+
+Luss, H. A., and F. H. RubDDLE. 1970.
+Chromosomal abnormalities in the human population: Estimation of rates based on New Haven
+newborn study. Science 169:495-497.
+
+PAWLOWITZKI, I. H., and P. L. PEARSON. 1972.
+Chromosomal aneuploidy in human spermatozoa.
+Humangenetik 16:119-122.
+
+ROBERTS, A. M., and H. GooDALL. 1976. Y chromosome visibility in quinacrine-stained human spermatozoa. Nature 262:493—-494.
+
+SKAKKEBAEK, N. E., E. ZEUTHEN, J. NIELSEN, and
+H. YDE. 1973. Abnormal spermatogenesis in X YY
+males: A report on 4 cases ascertained through a
+population study. Fertil. Steril. 24:390-395.
+
+SUMNER, A. T., andJ. A. RoBINSON. 1976. A difference in dry mass between the heads of X- and
+Y-bearing human spermatozoa. J. Reprod. Fert.
+48:9-15.
+
+SUMNER, A. T., J. A. ROBINSON, and H. J. EVANS.
+1971. Distinguishing between X, Y and YYbearing human spermatozoa by fluorescence and
+DNA content. Nature (New Biol.) 229:231-233.
+
+SUNDEQUIST, U., and E. HELLSTROM. 1969. Transmission of 47,X YY karyotype? Lancet 2:1367.
+
+THOMPSON, H., J. MELNYK and F. HECHT. 1967.
+Reproduction and meiosis in XYY. Lancet 2:831.
+
+TZONEVA-MANEVA, M. T., E. BosajrEVA, and B.
+PETROV. 1966. Chromosomal abnormalities in
+idiopathic osteoarthropathy. Lancet 1:1000—-1002.
+
+VALENTINE, G. H., M. A. MCCLELLAND, and F. R.
+SERGOVICH. 1971. The growth and development of
+four XYY infants. Pediatrics 48:583-594.
+
+ 
+

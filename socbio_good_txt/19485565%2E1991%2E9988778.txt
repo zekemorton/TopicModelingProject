@@ -1,0 +1,664 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+ 
+
+Births and cohort size
+
+Joop de Beer
+
+To cite this article: Joop de Beer (1991) Births and cohort size, Social Biology, 38:1-2, 146-153,
+DOI: 10.1080/19485565.1991.9988778
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1991.9988778
+
+fe Published online: 23 Aug 2010.
+
+&
+(g Submit your article to this journal @
+
+aul Article views: 1
+
+»
+Q View related articles @
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:44
+
+ 
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+ 
+
+Births and Cohort Size
+
+Joop de Beer
+
+Department for Population Statistics
+Netherlands Central Bureau of Statistics
+Voorburg, The Netherlands
+
+ 
+
+ABSTRACT: Ahlburg (1983, 1986) tested a simple version of Easterlin’s relative-cohort-size
+model of fertility on the basis of U.S. and Canadian post-war data. His conclusion was that the
+Easterlin model fits the data very well and can therefore be used for calculating forecasts.
+However, the model he estimated is oversimplified. In this paper an alternative specification is
+presented. The model is applied to Dutch fertility data. The Easterlin effect is found to affect the
+movement of births in the Netherlands during the period 1950-85, but a declining long-term
+trend in average family size proves far more important in explaining post-war births. The model
+
+forecasts a rise of births until 2000.
+
+Easterlin (1961, 1973, 1976) postulates that fertility is determined by relative income, i.e., by the ratio of income
+of families in the childbearing ages to
+their expected income. The latter depends on the standard of living their parents enjoyed when they were reared. If
+it is assumed that small generations perform better on the labor market and
+earn higher incomes than large generations, relative income is determined by
+relative cohort size. Consequently fertility is related to cohort size.
+
+This model may be attractive to population forecasters as it implies that future births are a function of past births.
+Hence, if the model is valid, births can
+be forecast without it being necessary to
+forecast explanatory variables first.
+
+Ahlburg (1983, 1986) applies a simple version of this model to U.S. and Canadian live births. This paper argues
+that his specification is oversimplified
+and presents an alternative specification
+which is applied to Dutch fertility data.
+
+MATERIALS AND METHODS
+
+AHLBURG’S TEST OF
+SAMUELSON’S MODEL
+
+Ahlburg (1983) estimates the
+relative-cohort-size model for U.S. total
+live births in the period 1949 to 1978.
+Ahlburg (1986) applies the same model
+to Canadian data for the period 1941 to
+1979. In both cases Ahlburg concludes
+that the model fits the data very well.
+Assuming the model to be valid, he calculates long-term forecasts of births.
+
+There is, however, reason to doubt
+the validity of Ahlburg’s specification.
+Hence his “‘satisfactory’’ empirical
+results do not necessarily support Easterlin’s theory. As Ahlburg notes, his
+model is based on a specification by
+Samuelson (1976). However, Samuelson (p. 244) points out that his specification is an ‘‘oversimplified version”’
+of the Easterlin theory. He does not
+aim to describe actual developments:
+“the formulation is illustrative only.”
+
+146
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+Vol. 38, No. 1-2
+
+The specification used by Ahlburg
+boils down to the assumption that all
+children of women of a given generation
+are born in the same year. It goes without saying that this model is oversimplified.
+
+Ahlburg (1983) distinguishes two age
+groups: N,{(t), the number of persons in
+the prime childbearing stage of life;
+N,(t), the number of those some twenty
+years older who are in the last years of
+childbearing. Using Ahlburg’s notation,
+we write the model as follows:
+
+Bit) = fiNi() + N24
+= fipiB(t-1) + fapip2B(t-2), (1)
+
+where fi, f2 are age-specific fertility
+rates; Pi, P2 are fractions of survivors;
+B(t) is the number of births in period t.
+Easterlin’s model is specified as
+
+fi =h(RY) (2)
+RY =k(N,/N)) (3)
+
+with f; an inclining function of RY and
+RY a declining function of N,/N2, where
+RY 1s relative income. Substitution of
+(2) and (3) in (1) gives
+
+B(t) = pifilpB(t-1)/pip2B(t-2)]
+B(t-1) + fopip2B(t-2)
+= a,[B(t-1)/B(t-2)]B(t-1) +
+a,B(t-2). (4)
+
+Subsequently Ahlburg specifies the
+equation to be estimated as
+
+B, = a,B34/Bi2 + arB,2 + C15 (5)
+
+where é; is a random disturbance term.
+This specification implies that Ahlburg
+implicitly assumes a linear relationship
+between f; and Ni/N2. However, as fertility rates cannot be negative, a term
+such as aoB,, is lacking. Moreover, in
+presenting the estimation results,
+Ahlburg introduces a constant term
+from nowhere.
+
+Brief Reports 147
+
+From the estimation results presented in Ahlburg (1983), it appears that
+B, is the total number of live births in a
+single year. The lag f-1 is twenty years
+and t-2 is forty years. Thus, according to
+Model (5), total births in year ¢ only depend on total births 20 and 40 years before. Not very surprisingly, Ahlburg
+finds that the model generates a cycle of
+40 years. Finally, it should be noted that
+Ahlburg ignores changes in the timing of
+fertility.
+
+In view of these remarks, it can be
+questioned whether the estimated values of the coefficients of (5) provide any
+information at all with respect to the validity of the Easterlin hypothesis.
+
+ALTERNATIVE SPECIFICATION
+
+On the basis of more realistic assumptions, an alternative specification
+can be derived. The number of births in
+a given year can be related to past births
+by
+
+B, = Dfit Bri qi, (6)
+
+where B, = number of births in year 1;
+fi: = age-specific fertility rate for age iin
+year f;
+
+dit = Vri Pits (7)
+
+where v;; = fraction of births in ¢-i of female sex; p;, = fraction of women born
+in (t-i) surviving after i years. As the external migration surplus in the Netherlands was relatively small compared to
+births during the examined period, it is
+not included in the model.
+
+The age-specific fertility rates in a
+given year are determined by two factors, completed fertility of cohorts and
+its timing:
+
+fit = Lilrii, (8)
+where J,; = completed fertility of
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+148 Brief Reports
+
+women born in t-i; L,;; = fraction of total fertility of those women at age i.
+Completed fertility of women born in ¢-i
+can be distinguished according to the
+age of their mothers:
+
+Li = 2Kej jleij, (9)
+
+where K,, ; = fraction of women born in
+t-i whose mothers were born in t-i-/;
+I,.,; = completed fertility of women
+born in t-1 whose mothers were born in
+t-1-],
+
+The Easterlin theory assumes that
+completed fertility of a given cohort is
+inversely related to the ratio of the size
+of that cohort to that of their parents. If,
+in addition, it is assumed that societal
+developments such as secularization, urbanization, and emancipation lead to a
+declining long-run trend of the fertility
+
+level that is independent of relative co
+hort size, the following specification
+results:
+
+Lei j =a B, il Brij ss ds¥s(t-i), (10)
+
+where the long-run trend is described by
+a polynomial with coefficients y,. The
+Easterlin hypothesis implies that a <0.
+A falling linear trend is described by
+yo > Oand y; <0.
+
+Substitution of (8), (9) and (10) in (6)
+yields
+
+B, = B; di [B?,.i Lisi (2; Ky, ;/ B,i3)| +
+Dre (8,2; {(t-i)°B,.j Lidl, (i 1)
+
+where B; = ag and 6, = y,g. As both
+the sex ratio at birth and the mortality
+quotients at younger ages hardly vary,
+git is assumed constant: q;, = qg. Since
+
+Kyi; = fp 2iBrijq/ Bri, (12)
+(11) can be rewritten as
+B, = B di (Bil, i TF Rei) +
+Xs [8,2i(t-1)°B,i Li], (13)
+
+where TFR,i = 2ifj-iand B = Big.
+
+Social Biology
+
+Given this specification, testing the
+Easterlin hypothesis amounts to answering the question whether the coefficient B is negative.
+
+ASSUMPTIONS
+
+Model (13) is estimated for the period 1950~85 on the basis of Dutch data.
+As the minimum and maximum childbearing ages determine the time lags in
+the model and hence the length of the
+estimation period, the analysis is restricted to fertility between ages 20
+and 35.
+
+Data for the total fertility rate (TFR)
+are available from 1936 onward. However, figures since 1915 are needed. Estimates for the period 1915-35 are obtained by dividing total births into
+five-years age groups of the mother
+based on the age-specific data of 1936.
+These numbers of births are subsequently related to the numbers of
+women in the various age categories.
+The sensitivity of the empirical results to
+this procedure will be discussed below.
+As total fertility at age 35 is not yet observed for women born after 1950, it is
+not yet known to which fractions of total
+fertility the already observed agespecific fertility rates of these women
+correspond. Estimates are obtained
+from the National Population Forecasts
+of 1986 of the Netherlands Central Bureau of Statistics. The sensitivity of the
+results to this choice will be examined
+below.
+
+For describing the long-run trend in
+family size, we use a linear function. The
+effect on the outcomes of choosing another specification will be discussed. If
+the residuals exhibit autocorrelation, an
+ARMA-model for the disturbance term
+is specified. The coefficients of this
+model are estimated simultaneously
+with the other coefficients.
+
+ 
+
+ 
+
+ 
+ 
+
+Vol. 38, No. 1-2 Brief Reports 149
+
+RESULTS TABLE 1
+
+The estimated coefficients of mode] _—EASTERLIN Mopet WITH LINEAR TREND
+
+(13) are Estimations
+and
+
+B=—0.2180 8= 2.1523 8;=—0.0159 oo
+(0.0379) (0.1224) (0.0008) j9517777255525" 28°00 228,000
+; 1952... .0. 2000. 232,000 228,000
+O,= 0.5214 @,= 0.7016 R*=0.944 os brett eeeens Sa ar
+(0.1641) = (0.1650) 1955........... 229,000 226,000
+T9356 s caus we ga 7s 231,000 225,000
+1 where ©; and ©, are moving-average tone te eteeeaees 337° 000 oar an
+
+— . 2 oneae wr eeoeee : :
+
+g coefficients of the ARMA-modeland R°  jo59 0 243,000 231,000
+5;  isthecorrelationcoefficient adjustedfor 1960........... 239,000 237,000
+= degrees of freedom. The estimated 1%1...-.--.... 247,000 244,000
+6 standard errors are shown in parenthe- ee euenan si oe 246,000 245,000
+5 1963... ..0c cea 250,000 250,000
+QA sis. The estimated value of B is negative 1964........... 251,000 250,000
+S and thus supports the Easterlin hypoth- 1965...-.--.... 245,000 251,000
++t — esis. Ifthe Easterlin effect isassumedto 1200-+7+7-+" ate Sone
+: say Eas oe 1967... 0. esses 239,000 246,000
+© be nonexistent, i.e.,ifB =0,the model 1968........... 237,000 244,000
+explains 86 per cent of the variance in to- os reset e teres orn oy ve oD
+5 tal births. The partial correlation coef- 397,00 227,000 239,000
+' ficient of the Easterlin effect equals 1972........... 214,000 217,000
+2 0.57. Therefore, it can be concluded 1973...-.---.-- 195,000 204,000
+2 that although according totheexamined l2)bsv e+ oe eee
+4 MLO ace Oune We Ene eal 1975 eee eee 178,000 182,000
+> specification the Easterlin effect 1976........... 177,000 184,000
+‘~~ exists—or at least is not rejected by the 1977...---..--. 173,000 177,000
+>  data—it can only explain a relatively Toe cesses see vet 1200)
+co 1979 oc cave vy cas 175,000 175,000
+55 small part of the post-war movement of 1980........... 181,000 176,000
+— births compared with the long- 1981........... 179,000 174,000
+Ss d compare he long-term gg) 0 172,000 164,000
+| (MERC. 1983.....6..00 170,000 163,000
+Z In Table 1 and Figure 1, projections 1984........... 174,000 163,000
+< _ of total births up to 20 years ahead are aR rrrssee sees 178/000 en
+3 shown. Births are roughly constant until 1987........... _. 164,000
+Q the mid 1990’s and then start to decline. 1988........... Le 163,000
+However, in view of the relatively poor os reset sees ut oan
+fit of the model in recent years,onemay j991........... 161.000
+question the plausibility of these fore-  1992........... Lae 161,000
+casts. The underestimates for recent 1004 Trtse tenes ut ele
+years are due to the linear specification j995........... _.. 165,000
+of the long-term trend of completed fer- 1996........... vee 164,000
+tility. It might seem more plausible to roan teteteeeees ms rene
+assume that the decline of completed 999. ve 159,000
+fertility for recent cohorts—giventheal- 2000........... ves 157,000
+ready low level of total fertility—is ae Preece recs me Oe
+smaller than for older cohorts. 1003........... _! 149,000
+If the trend is described by asecond- 2004........... ee 145,000
+2 ame wim me s wee 142,000
+
+or third-degree polynomial, the fit of the
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+ 
+
+150 Brief Reports
+
+renee oe,
+
+20888
+
+158288
+
+108888
+ise 1568 1978
+
+Fic. 1.—Easterlin model with linear trend.
+
+model clearly improves, especially in recent years. The adjusted correlation
+coefficients are 0.982 and 0.986 respectively. The coefficient representing the
+Easterlin effect is hardly affected. A
+problem in using polynomials of higher
+degree is, however, that they tend to extreme out-of-sample projections.
+
+Another possibility for describing the
+trend is to use a linear spline function.
+This implies that the examined period is
+divided into subperiods to which linear
+trends with different slopes apply. The
+last term of (13) changes into
+
+Sod BriLrii) + L[Sndi
+{(t-i-t,) D, Build], (14)
+
+where D; = 0 if t-is<t, and D, = 1 if
+t-i > ty.
+
+If birth cohort 1945 is chosen as turning point, i.e., if it is assumed that the
+slope of the trend in completed fertility
+of cohorts after 1945 differs from that of
+
+ 
+
+Social Biology
+
+eee
+etme "ew,
+acu? “ween,
+te
+
+aot
+eevee”
+*
+et
+ont
+
+—— Observed sunbers of live
+births
+
+“+> estimates and forecasts
+
+1588 1398 2888 2618
+
+earlier cohorts, the fit of the model
+clearly improves (see Table 2 and Figure
+
+The estimated coefficients are
+
+B = —().2730 do = 2.4030 O11 =
+(0.0154) (0.0508)
+
+—0.0204 8 = 0.0143 R? = 0.986.
+(0.0005) (0.0014)
+
+The residuals do not exhibit autocorrelation. Without the Easterlin effect, the
+model explains 90 per cent of the variance of total births. The partial correlation coefficient of the Easterlin effect is
+0.86. If, instead of cohort 1945, a later
+cohort is selected as turning point, the fit
+of the model deteriorates slightly. The
+projections show an increase of total
+births until 2000. In the absence of the
+Easterlin effect, the model forecasts a
+stabilization of births until the mid
+1990’s, after which a decline follows. In
+
+ 
+
+ 
+ 
+
+Vol. 38, No. 1-2 Brief Reports 151
+
+ 
+
+TABLE 2
+EASTERLIN MODEL WITH LINEAR SPLINE FUNCTION
+Estimations Estimations
+and and
+Year Observ. Forecasts Year Observ. Forecasts
+an 233,000 see eeeeeaes
+
+1951........... 228,000 232,000 1979... eee 175,000 176,000
+
+1952... ...005- 232,000 231,000 1980........... 181,000 180,000
+
+1953 ....,...0055 228,000 230,000 1981 ........... 179,000 180,000
+
+1954........... 228,000 230,000 1982........0.5 172,000 172,000
+
+1955........0.. 229,000 229,000 1983 ........00. 170,000 173,000
+
+1956....... cca 231,000 228,000 1984 .........08. 174,000 175,000
+in 1957.2... eee 234,000 231,000 1985........405 178,000 172,000
+= 1958.2... eee ee 237,000 234,000 1986.........46 wea 182,000
+= 1959.00... eee 243,000 234,000 1987 2... ee wae 182,000
+5 1960........... 239,000 239,000 1988 ........... wee 184,000
+1961........... 247,000 246,000 1989 .........4- was 187,000
+D 1962........... 246,000 247,000 1990 ........... see 188,000
+a 1963 .......005- 250,000 251,000 1991........... wee 189,000
+al 1964........0.- 251,000 250,000 1992 ........... cme 192,000
+os 1965... . 2... e ee 245 ,000 250,000 1993 .........05- see 197,000
++ 1966........... 240,000 247,000 1994........0., tee 200,000
+wT. 1967... 2.2.0... 239 ,000 241,000 1995... 0. eae eae 206,000
+© 1968... .... 2.0 237,000 237,000 || 1996........... ben 207,000
+3 1969... ..... 000 248,000 246,000 1997.0... eee wee 209,000
+= 1970... eee eae 239 ,000 232,000 1998 ........... a 209 ,000
+3 1971 ........... 227,000 229,000 1999... cece eee ime 210,000
+DTZ. eee eae 214,000 208,000 |} 2000........... a 210,000
+2 1973... ee eee 195,000 195,000 2001 ............ wee 209,000
+> 1974... ... 2c ee 186,000 185,000 2002 .......000- a 208,000
+A 1975... eee, 178,000 177,000 2003 ........0005 a 207 ,000
+> 1976..........- 177,000 181,000 2004 .........45. vee 205 ,000
+= ue ud ks veel 175,000 || 2005........... —
+a
+oO
+2
+S
+—, eee
+a
+2
+oO
+oO
+oO
+o
+oO a
+‘  AShhe0 sy crm a
+= fr *..
+© —
+Q .
+
+.. — Observed number of live
+2008 \y births
++--+ estimates and forecasts
+Se
+160888
+1958 1969 1978 1588 1398 2088 2018
+
+Fic. 1.—Easterlin model with linear spline function.
+
+ 
+
+ 
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+152 Brief Reports
+
+calculating the forecasts, information on
+the timing pattern of fertility of recent
+cohorts is obtained from the National
+Population Forecasts of 1986. According to this forecast there is a shift in fertility from young ages to ages around
+thirty. If, instead, one would assume
+that the timing pattern of fertility after
+birth cohort 1955 does not change,
+which implies that the observed decline
+of fertility at young ages would not be
+caught up in later years, total births
+would only rise to a level of 192,000 in
+the year 2000.
+
+SENSITIVITY ANALYSIS
+
+Estimation of the model for the period 1950-85 requires an assumption on
+the movement of the TFR in the period
+1915-35. In order to examine how sensitive the outcomes are to this assumption, we make an alternative estimate of
+the TFR on the basis of the ratio of the
+TFR to total births. This ratio changes
+gradually through time. The movement
+of this ratio in the period 1936-62 can be
+described reasonably accurately by a linear trend (R? = 0.96). Extrapolation of
+this trend back to 1915 yields an alternative estimate of the TFR which is considerably lower than the estimate discussed
+before. Nevertheless, using this alternative estimate does not cause the outcomes to change strongly. The fit of the
+model stays the same: R? = 0.983. The
+estimated value of B becomes —0.3430
+(with standard error 0.0238).
+
+Another assumption concerns the
+timing of fertility of recent cohorts. In
+ 
+
+Social Biology
+
+stead of using outcomes of the National
+Population Forecasts of 1986, we can assume that the timing pattern of fertility
+does not change after birth cohort 1955.
+In that case the estimated value of B becomes —0.2330 (with standard error
+0.0155).
+
+Thus, the conclusion that the Easterlin hypothesis is not rejected by the
+data is not particularly sensitive to the
+assumptions underlying the estimation
+of the model.
+
+CONCLUDING REMARKS
+
+Under the assumption that the
+change of completed fertility of successive cohorts is determined by a combination of a linear trend and relative cohort
+size (the Easterlin effect), the movement of total births in the Netherlands in
+the period 1950-85 can be described
+reasonably accurately. The long-run
+trend plays by far the more important
+role, but the Easterlin effect increases
+the explanatory power of the model.
+
+The Easteriin hypothesis cannot be
+rejected on the basis of the specification
+used in this paper. However, this is not
+tantamount to saying that the Easterlin
+theory is true, as only one possible specification at an aggregate level is tested for
+a limited period of time.
+
+ACKNOWLEDGMENTS
+
+The views expressed in this paper are
+those of the author and do not necessarily
+reflect the policies of the Netherlands Central Bureau of Statistics. The author thanks
+Dennis Ahlburg for his comments.
+
+REFERENCES
+
+AHLBUuRG, D. A. 1983. Good times, bad times:
+A study of the future path of U.S. fertility.
+Soc. Biol. 30:17—23.
+
+ 
+
+. 1986. A relative cohort size forecasting
+model of Canadian total live births. Soc.
+Biol. 33:51-56.
+
+ 
+Downloaded by [University of Michigan] at 13:44 08 December 2015
+
+Vol. 38, No. 1-2 Brief Reports 153
+
+EASTERLIN, R. A. 1961. The American baby
+boom in historical perspective. Amer.
+Econ. Rev. 51:869-911.
+
+. 1973. Relative economic status and the
+
+American fertility swing. In E. B. Sheldon
+
+(ed.), Family economic behavior: Problems
+
+and prospects. J. B. Lippincott, Philadel
+ 
+
+ 
+
+phia.
+. 1976. The conflict between aspirations
+
+and resources. Pop. Develop. Rev. 2:417425.
+
+SAMUELSON, P. A. 1976. An economist’s nonlinear model of self-generated fertility
+waves. Pop. Stud. 30:243-247,
+
+ 
+
+ 
+

@@ -1,0 +1,1132 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+ 
+
+A period analysis of parity distribution among
+white and nonwhite women in the United States,
+1940-1974
+
+Prithwis Das Gupta
+
+To cite this article: Prithwis Das Gupta (1977) A period analysis of parity distribution among
+white and nonwhite women in the United States, 1940-1974, Social Biology, 24:4, 303-315, DOI:
+10.1080/19485565.1977.9988301
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1977.9988301
+
+fn Published online: 23 Aug 2010.
+
+&
+(g Submit your article to this journal @
+
+all Article views: 1
+
+»
+Q View related articles 4
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:37
+
+ 
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+A Period Analysis of Parity Distribution
+Among White and Nonwhite Women in the
+
+United States, 1940-1974
+
+Prithwis Das Gupta
+
+International Population and Urban Research
+University of California
+Berkeley, California
+
+ 
+
+ABSTRACT: The historical trends of childlessness and of one-child, two-child, and three-or-morechild families among white and nonwhite women in the United States are studied in terms of
+period fertility tables. Given the age and parity of a woman, we can read from the fertility tables
+how her parity is expected to change at successive ages during the rest of her childbearing period,
+if she is subjected to the age-parity-specific fertility rates for a particular year. The fertility tables
+for white and nonwhite women are constructed for the years 1940, 1950, 1960, 1970, and 1974.
+These tables show that among white women who have completed their childbearing (with period
+rates), the percentage with more than two children has decreased from 66 in 1960 to 27 in 1974,
+whereas the corresponding reduction among nonwhite women is from 67 to 48 per cent (Table 1,
+
+Case 1).
+
+In a recent paper, the author (1975)
+studied the historical trends of spinsterhood and childlessness among white and
+nonwhite women in the United States for
+the period 1940-70 on the basis of population census data. Since the proportion of
+never-married or childless women, as obtained directly from census tables, does
+not reflect the marriage or fertility pattern
+of the women in the census years but a
+cumulative picture of the patterns over a
+span of earlier years, synthetic cohorts
+based on two consecutive censuses were
+constructed to study the period rates for
+the decades 1940-50, 1950-60, and
+1960-70.
+
+The present paper is an extension of the
+earlier work, and attempts to study the
+historical trends not only of childlessness
+but also of the parity composition of
+women with children. Other major differences of the present study from the previous
+one are that (1) it uses both census and
+vital statistics data instead of only census
+
+populations; (2) it obtains results for five
+different years, 1940, 1950, 1960, 1970,
+and 1974, while the earlier study gave results for three decades, 1940-50, 1950-60,
+and 1960-70; and (3) it gives the fertility
+picture of total white and nonwhite women, whereas the first study pertained only
+to women married once and husband present.
+
+The ultimate results of the present study
+are a set of fertility tables, each constructed from the age-parity-specific fertility rates for a particular year. These fertility tables tell us what is expected to
+happen to a cohort of 100 women of the
+same age and parity in regard to their
+parity composition at successive ages as
+they pass through the rest of their
+childbearing period, if they are subjected
+to the age-parity-specific fertility rates for
+a particular year and if each of them survives to the end of the childbearing period. For example, 100 women of age 20
+and parity 1, when subjected to the fertil
+303
+
+ 
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+304
+
+ity rates of white women of the United
+States for the year 1974, will have among
+them at age 35, 8 women with parity 1, 46
+with parity 2, and 46 with parity 3+ (Table 6). All the fertility tables for white and
+nonwhite women are presented in Tables
+2—7. A summary comparison of the fertility tables for the entire period 1940-74 is
+provided in Table 1.
+
+MATERIALS AND METHODS
+
+The method of construction of a fertility
+table can be explained by considering the
+U.S. data for white women for 1960 as an
+example.
+
+Let us consider seven five-year age
+groups, 15-19, 20-24, ..., 45-49, and
+label them as age groups 1, 2,..., 7. Let
+P(x,y) be the total number of women with
+parity y in age group x, and B(x,2) the total
+number of births of order z to women in
+age group x (x = 1,2,...,7;y = 0,1,2;2
+= 1,2,3). The age-parity-specific fertility
+rate m(x,y) for women aged x with parity y
+is defined as
+
+m(x,y) = B(x,y + 1)/P(x,y),
+x= 1,2,...,7y=0,1,2. (Y)
+
+For example, P(3,1), the number of
+women aged 25-29 with parity 1 is
+850,537, and B(3,2), the number of births
+of order 2 to women aged 25-29, is
+248,124. Therefore, m(3,1), the ageparity-specific fertility rate for women
+aged 25-29 with parity 1 is 0.292
+( = 248,124/850,537).
+
+We now denote the probability that a
+woman of parity y at the beginning age x,
+of the age group x will have parity z at the
+upper boundary x, + 5 of the same age
+group (assuming that she will survive to
+age x, + 5) by Q (x,y,2),% = 1,2,..., 73
+y,z2 = 0,1,2,3 + (2 = y).
+
+Assuming constant rates over an age interval, we can derive the following results:
+
+Q(x,0,0) = e720, (2)
+
+ 
+
+Das Gupta
+
+Social Biology
+
+O(x,0, 1) = fr 1t5 5 —Y—r n,0)
+wy
+m(x,O)e —& 1t5—y Im Vdy
+= (x0)
+m(x,1) — m(x ,0)
+
+fe —dn@ Oo) e Sn 17) (3)
+
+_ fs mx ,0)
+OC,0,2) i mie,l) — mx,0)
+
+fe —Y-r ym ,0) — e —Y—x nlr,1)]
+m(x, le ~* 1+ 5-YIn 2] y
+— _m{x,O)m(x,1) fe 5" 0) — ¢ —5mt,2)
+m(x,1) — m(x,0) | m(x,2) — m(x,0)
+Ee ~5n@.) _ ¢ —5m(,2)
+een eee op
+
+m(x,2) — m(x,1)
+
+Q(x,0,3+) =i1- Q(x,0,0)
+— Q(x,0,1) — Q(x,0,2). (5)
+
+Proceeding as in (2) and (3), by analogy,
+we can write
+O(x,1, 1) =e See ED, Q(x, 1,2)
+
+m(x,1)
+m(x,2) — m(x,1)
+
+fe —5m@,1) e ~5mr,2)) (6)
+Q(x,1,3+) = 1 — O(x,1,1)
+~~ Q(x, 1,2), (7)
+
+Q(x,2,2) = e-8"™2), O(x,2,3+)
+=] - Q(x,2,2), Q(x,3+,3+) = 1. (8)
+
+=
+
+It may be noted that in the above formulas, the factor.5 in the exponents stands for
+the length of the age interval. When data
+are available by, say, 1-year age groups,
+the same formulas can be used with § replaced by 1. Obviously, because of the
+assumption of constant fertility rates over
+an age interval, the formulas will give
+more accurate results for narrower age intervals. For a more complex model involving marriage and illegitimacy and
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+Vol. 24, No. 4
+
+for further breakdown of Q(x,y,3+) into
+O(x,¥,3), O(x,9,4), ... , the reader is referred to Das Gupta (1976).
+
+To give numerical illustrations of the
+formulas in (2) through (8), let us consider
+the age group 25-29, with age-parityspecific fertility rates
+
+m(3,0) = 0.132, m(3,1) = 0.292,
+m(3,2) = 0.189. (9)
+
+Substituting these values in (9) into the
+formulas in (2) through (8), we obtain
+
+Q(3,0,0) = 0.52, 0(3,0,1) = 0.23,
+Q(3,0,2) = 0.18, 0(3,0,3+) = 0.07,
+Q(3,1,1) = 0.23, Q(3,1,2) = 0.44,
+Q(3,1,3+) = 0.33, Q(3,2,2) = 0.39,
+
+Q(3,2,3+) = 0.61, 0(3,3+,3+) =1. (10
+
+The numbers in (10) are amenable to
+clear-cut interpretations. The probability
+Q(3,1,2) = 0.44, for example, means that
+if a woman of exact age 25 having one
+child reproduces in her subsequent
+childbearing ages according to the ageparity-soecific fertility rates of white
+women in the United States as of 1960, the
+probability that she will end up with 2
+children at age 30 is 0.44, assuming that
+she will survive to this latter age. The
+other two possible situations for this particular woman are 1 child and more than 2
+children at age 30 with probabilities 0.23
+and 0.33, respectively.
+
+In order to construct the fertility tables,
+we denote:
+
+R(«w,N y (0) = the expected number of
+women J, with parity y at the end of the
+age group x, given that at the beginning of
+the same age group their numbers by
+parities 0,1,2,3+ were Mo, 11, %, %3, and
+that everyone survived the five-year interval, y = 0,1,2,3+;
+
+R(x,N y |) = the expected number of
+women J, with parity y at the end of the
+age group x, given that at the beginning of
+the same age group their numbers by
+parities 1,2,3+ were n,, M5, m3, and that
+
+ 
+
+Parity Distribution
+
+305
+
+   
+   
+   
+  
+ 
+ 
+    
+ 
+  
+
+everyone survived the five-year interval, y
+= 1,2,3+4;
+
+R(x,N,,|2) = the expected number of
+women J, with parity y at the end of the
+age group x, given that at the beginning of
+the same age group their numbers by
+parities 2,3+ were n,, nz, and that
+everyone survived the five-year interval, y
+= 2,3+.
+
+It follows that
+
+R(x, No|0) = oQ(x,0,0), R(x,N, }0)
+
+=n Q(x,0,1) + ,0(x,1,1),
+R(x,N,|0) = 2 9Q(x,0,2)
+
++ n,Q(x,1,2) + n,O(x,2,2),
+
+R(x,N3,.|0) = 20(x,0,3+)
+
++ m,O(x,1,3+) + n2O(x,2,3+) + ng,,
+
+R(x,N,|1) = 2,0(«,1,1), Rx, No|1)
+
+= 1,0(x,1,2) + neQ(x,2,2),
+
+R(x,N3,|1) = n,Q(x,1,34)
+
++ n.Q(x,2,3+) + n3,,
+
+R(x, N2|2) = nsQ(e,2,2), Ree,No+|2)
+
+tt
+
+n2Q(x,2,3+) + M34. (11)
+
+Considering again the age group 25-29
+and the corresponding Q-values in (10),
+and assuming three different parity distributions of 100 women at age 25 given by
+(1) 29 = 37, ny = 25, my = 24, ng, = 14, (2)
+n, = 16, nm, = 40, m3, = 44, and (3) mn, =
+29, 23, = 71, we obtain from (11)
+
+R(3,No|0) = 19, R(3,N,|0) = 15,
+R(3,N2|0) = 27, R(3,N3,|0) = 39,
+
+R(3,Ni{t) = 4,R(3,N2|1) = 23,
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+306 Das Gupta Social Biology
+
+R(3,N3,|1) = 73, R(3,N,|2) = 11, women in the United States for the years
+1940, 1950, 1960, 1970, and 1974 are pre
+R(3,N3,|2) = 89. (12) sented in Tables 2-7. In computing the
+
+basic age-parity-specific fertility rates, the
+; . never-married (single) women were asin (12) may be clear from an explanation of sumed to be of parity zero. Data classify
+mE one of them, say, aN 20) = i 7. ing single women by parity are available
+his formula means that if the parity dis- only for 1970, and an additional set of
+
+bution of oor at age 25 fertility tables (Table 7) based on them is
+appens to be 3/, 25, 24 an respeC- provided for this year.
+
+eee for Panes 0, 1, 2, an 3+, and if The fertility tables for a particular race
+ae tet mty re oowatite ° fe cavity and year consist of 3 x 7 (= 21) blocks,
+(in terms of age-parity-specific fertility ..0n Block starting with a cohort of size
+
+rates) in me next five yeh, 0 Ne Grates 100. The three segments across the table
+at of walte women in the United states (Cases 1, 2, and 3) are distinguished from
+
+as of 1960, then, assuming that none of one another by the initial common parity
+them will die before reaching age 30, the of all women in the cohort (0, 1, and 2,
+number of women with parity 2 at this respectively). The seven segments from
+latter age will be 27. top to bottom provide seven different ages
+when a cohort (with a particular parity)
+starts childbearing according to the fertil
+A summary comparison of the fertility ity rates for a particular year, and each is
+tables for 1940-70 is provided in Table 1. traced to the end of the childbearing peFertility tables for white and nonwhite fiod (assumed to be age 50).
+
+The physical interpretation of R-values
+
+FERTILITY TABLES FOR U.S. DATA
+
+TABLE 1
+COMPLETED COHORT AND PERIOD PARITY DISTRIBUTIONS, UNITED STATES, 1940-1974.
+COMPLETED PARITY DISTRIBUTIONS (PERCENTAGES)
+Period (from Fertility Tables)
+
+Cohort Aged 45-49 in
+
+ 
+
+ 
+
+the Census Year Case 1, Age 15 Case 2, Age 20 Case 3, Age 25
+YEAR 0 1 2 3+ 0 1 2 3+ 1 2 3+ 2 3+
+White Women
+1940 ..... 23 16 19 42 22 19 24 35 8 26 66 31 69
+1950 sas. 26 18 21 35 12 11 22 55 3 19 78 24 76
+1960 ..... 23 18 24 35 9 8 17 66 Zz 12 86 19 81
+1970 csics 15 13 26 46 15 11 29 45 4 28 68 34 66
+1974 ..... 12 11 25 52 21 17 35 27 7 43 50 §1 49
+1970* .... 14 13 26 47 14 12 30 44 4 29 67 34 66
+
+ 
+
+Nonwhite Women
+
+ 
+
+1940 ..... 26.—s«d14 13 47 33 13 10 44 12 17 71 30 70
+1950 ..... 32 17 13 38 20 9 8 63 4 8 88 15 85
+1960 ..... 31 18 13 38 17 8 8 67 2 6 92 15 85
+1970 ..... 23 16 14 47 17 9 14 60 4 16 80 25 75
+1974 ..... 22 16 12 50 20 12 20 48 6 27 67 34 66
+1970* .... 20 17 14 49 8 13 22 57 9 23 68 30 70
+
+* This corresponds to the case when data for single women by parity are recognized. In all other cases, single women are assumed to be of parity
+0 for the computation of age-parity-specific fertility rates.
+ 
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+TABLE 2
+FERTILITY TABLES FOR U.S. WOMEN, 1940
+
+PARITY (WHITE) PARITY (NONWHITE)
+Case 1 Case 2 Case 3 Case 1 Case 2 Case 3
+AGE 0 1 2 3+ 1 2 3+ 2 3+ 0 1 2 3+ 1 2 3+ 2 3+
+Is........ 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100 0
+20........ 83 10 5 2 36 40 24 43 57 62 1 13 10 13 32 55 19 81
+25 eee $1 23 15 11 13 30 57 17 83 42 14 13 31 3 Il 86 4 96
+30........ 32 24 22 22 6 21 73 9 91 36 14 11 39 2 6 92 2 98
+re 25 20 24 31 4 16 80 6 94 34 13 10 43 Z 4 94 1 99
+40........ 23 19 24 34 3 15 82 5 95 33 13 10 44. 2 4 94 1 99
+AS cue wes az 19 24 35 3 14 83 5 95 33 13 10 44 2 4 94 1 99
+BOs a5 vawas 22 19 24 35 S 14 83 5 95 33 13 10 44 2 4 94 1 99
+20. ...6.5. 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100 0
+1 61 23 11 5 35 39 26 39 61 68 17 9 6 26 31 43 20 80
+30........ 39 26 21 14 17 34 49 21 79 59 18 10 13 16 Zo 62 10 90
+S68 ssw we wa 3 30 23 24 23 11 29 60 15 85 55 18 10 17 13 18 69 7 93
+AD. wane wins 27 22 24 27 9 26 65 13 87 53 19 10 18 12 17 71 6 94
+AS cwmes ame 27 oe 24 27 8 26 66 12 88 53 19 10 18 12 17 71 6 94
+S5O0........ 27 22 24 27 8 26 66 12 88 $3 19 10 18 12 17 71 6 94
+eT eee 1006 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100 0
+BO. awe ws0 63 25 10 2 47 38 15 54 46 86 il 2 1 62 26 12 48 52
+DS cee cman 49 27 17 7 29 41 30 38 62 80 14 4 2 51 28 21 35 65
+AQ ca cu ee we 45 26 19 10 25 39 36 32 68 78 16 4 2 48 28 24 31 69
+AS oa wa ie oe 44 26 19 11 24 39 37 31 69 78 16 4 2 47 29 24 30 70
+SO... cane 44 26 19 11 24 39 37 31 69 77 16 5 r 47 29 24 30 70
+0. snes sax 100 0 0 0 100 0 0 100 0 106 0 0 0 100 0 0 100 0
+SS awww wae 77 18 4 1 62 31 7 70 30 93 6 1 0 83 15 2 73 27
+40 oc cacacs 71 21 7 1 $2 36 12 60 40 91 8 1 0 77 19 4 65 35
+45........ 70 21 7 2 51 36 13 58 42 90 9 1 0 76 19 5 64 36
+SO... cane 70 21 7 2 51 36 13 58 42 90 9 1 0 76 19 5 64 36
+SS acaues wan 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100 0
+40 ou va wa we 91 8 1 0 84 15 1 85 15 97 3 0 0 94 6 0 90 10
+BS 6 cemeu wn 90 9 1 0 81 17 2 83 17 97 3 0 0 92 8 0 88 12
+50. eww we xe 90 9 i 0 81 17 2 82 18 97 3 0 0 92 8 0 87 13
+4G, wes yas 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100 0
+45. ...60.. 98 2 0 0 97 3 0 97 3 99 1 0 0 99 1 0 98 2
+BD ois ou xn ae 98 2 0 0 97 3 0 97 3 99 1 0 0 98 2 0 98 2
+45......4.. 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100 0
+50........ 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100 0
+
+ 
+
+Sources: U.S. Bureau of the Census, 1943, Table 3; 1945, Tables 1, 3; 1953, Tables 97, 102. U.S. National Center for Health Statistics, 19755, Tables 1-2.
+
+b ON “SICA
+
+uomnquisig Ais
+
+LOE
+TIT
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE 3 ws
+FERTILITY TABLES FOR U.S. WOMEN, 1950 =
+PARITY (WHITE) PARITY (NONWHITE)
+In Case 1 Case 2 Case 3 Case 1 Case 2 Case 3
+S AGE 0 1 2 3+ 1 2 3+ 2 3+ 0 1 2 3+ 1 2 3+ 2 3+
+© 1S....... 100 0 0 0 100 0 ) 100 0 100 0 0 0 100 0 0 100 0
+20....... 75 14 8 3 29 4} 30 38 62 56 12 16 16 5 27 68 15 85
+a 2S. .ceaee 35 24 22 19 8 27 65 14 86 32 12 13 43 1 5 94 2 98
+2 30....... 19 17 27 37 2 17 81 7 93 24 10 10 56 0 2 98 1 99
+Q ch 14 12 25 49 1 12 87 4 96 21 10 8 61 0 1 99 0 100
+00 40....... 12 11 23 54 1 10 89 3 97 20 10 8 62 0 1 99 0 100
+oO 7 12 11 22 55 1 9 90 3 97 20 9 8 63 0 1 99 0 100
+50....... 12 11 22 55 1 9 90 3 97 20 9 8 63 0 1 99 0 100
+cn 20....... 100 Q 0 0 100 0 0 100 ) 100 0 0 0 100 0 0 100 0
+! ~ 25....04. 47 37 18 8 26 42 32 37 63 57 18 13 12 16 28 56 14 86
+© 30....... 25 21 28 26 9 32 59 17 83 43 17 13 27 7 15 73 5 95
+So 35 ....00. 18 16 28 38 4 24 72 11 89 37 17 12 34 5 10 85 3 97 S
+o 40....... 16 14 26 44 3 20 77 9 91 35 16 12 37 4 9 87 2 98 &§
+= 45.0.0... 16 14 25 45 3 19 73 9 91 35 16 12 37 4 8 88 2 98
+i) S0....... 16 14 25 45 3 19 78 9 91 35 16 12 37 4 8 88 2 98 ©
+= 2S....... 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100 0 3
+¥ 30....... 53 27 15 5 33 45 22 48 52 75 16 6 3 43 32 25 33 67 2)
+35 cca 38 24 24 14 17 41 42 31 69 66 19 8 7 30 28 42 19 81
+= 40....... 34 22 25 19 13 36 51 25 75 62 20 9 9 26 26 48 15 85
+e 4S... cane 33 -22 25 20 12 36 52 24 76 62 20 9 9 25 26 49 15 85
+5 50....... 33 22 25 20 12 36 52 24 76 62 20 9 9 25 26 49 15 85
+5 30....00. 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100 0
+E, 35... cee 73 19 7 1 S1 38 11 64 36 87 11 2 0 70 23 7 57 43
+— 40....... 64 22 11 3 39 42 19 51 49 83 13 3 1 61 26 13 46 54
+io AS. ....., 63 23 11 3 37 42 21 49 51 82 14 3 1 59 27 14 44 56
+3 SO....... 63 23 11 3 37 42 71 49 51 82 14 3 1 59 27 14 44 56
+g 35....05, 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100 0
+= 40....... 89 10 1 0 77 21 2 81 19 95 5 0 0 87 12 1 80 20
+= 4s ......., 86 12 2 0 73 23 4 77 23 94 6 0 0 85 13 2 76 24
+O 50....... 86 12 2 0 73 23 4 77 23 94 6 0 0 84 14 2 76 24 8,
+A 40.....8. 100 «=i (titi tiasC(i iti (iti itiaHH— ati titi sis t00 0 &
+45......, 98 2 ) 0 95 5 0 96 4 99 1 0 0 97 3 0 96 4
+50....0., 97 3 0 0 95 5 0 95 5 99 1 0 0 97 3 0 95 5 =
+45 ....0.. 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100 0 =.
+SO....... 100 0 0 0 100 ) 0 100 0 100 0 0 0 100 0 0 100 0 R
+
+ 
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+ 
+
+TABLE 4
+
+FERTILITY TABLES FOR U.S. WOMEN, 1960
+
+PaRITY (WHITE) PARITY (NONWHITE)
+Case 1 Case 2 Case 3 Case 1 Case 2 Case 3
+AGE 0 1 2 3+ 1 2 3+ 2 3+ 0 1 2 3+ 1 2 3+ 2
+15....... 100 ' 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100
+20....... 73 =—« 14 9 4 24 44 32 39 61 58 10 15 17 3 23 74 12
+25. eee Z7 20 26 27 4 22 74 11 89 30 11 13 46 0 4 96 1
+30....... 14 11 24 51 1 10 89 4 96 21 9 11 59 0 1 99 0
+ee 11 8 19 62 0 7 93 3 97 19 8 9 64 0 1 99 0
+40....... 10 t 18 65 0 6 94 2 98 17 8 9 66 0 1 99 0
+45... eee 9 8 17 66 0 6 94 2 98 17 8 8 67 0 1 99 0
+5O0.....0. 9 8 17 66 0 6 94 2 98 17 8 8 67 0 1 99 0
+O04 we anas 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100
+Oe cee neas 37 25 24 14 16 40 44 29 71 51 17 15 17 10 25 65 12
+O06 was ave 19 15 27 39 4 23 73 11 89 36 15 15 34 3 12 85 4
+35 .....-. 14 11 23 52 2 15 83 7 93 31 14 14 41 2 8 90 2
+$05 oxmns e 13 10 21 56 2 12 86 6 94 30 13 13 44 2 7 91 2
+13 10 20 57 2 12 86 5 95 29 13 13 45 2 6 92 2
+50....... 13 10 20 57 2 12 86 5 95 29 13 13 45 2 6 92 2
+1. 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100
+BOs cane we 52 23 18 7 23 44 33 39 61 72 17 8 3 37 35 28 33
+) ee 39 21 23 17 12 36 52 24 76 62 19 11 8 24 31 45 20
+40... .406. 35 20 3 22 9 32 59 19 81 58 20 1! 11 20 28 52 16
+45 ....... 34 20 23 23 9 31 60 19 81 58 20 11 11 20 27 53 15
+50....... 34 20 23 23 9 31 60 19 81 58 20 11 11 19 27 54 15
+30....... 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100
+K ) 75 18 6 1 51 38 11 61 39 86 11 2 1 65 27 8 60
+40....... 68 21 9 2 41 40 19 50 50 82 14 3 1 55 30 15 48
+4S cee, 66 21 10 3 39 40 21 48 52 81 14 4 1 54 30 16 45
+$0....... 66 21 10 3 39 40 21 48 52 81 14 4 1 54 30 16 45
+38 ....... 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100
+40....... 90 9 1 0 79 19 2 82 18 95 5 0 0 86 13 1 79
+45... 88 10 2 0 76 21 3 79 21 93 6 1 0 84 14 2 75
+50....... 88 10 2 0 76 21 3 79 21 93 6 1 0 84 14 2 75
+AO vacawwe 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100
+45. ...... 98 2 0 0 96 4 0 96 4 99 1 0 0 97 3 0 95
+50....... 98 2 0 0 96 4 0 96 4 99 1 0 0 97 3 0 95
+45.06... 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100
+50....... 100 0 0 0 100 0 0 100 0 100 ¢] 0 0 100 0 0 100
+
+Sources: U. S. Bureau of the Census, 19645, Tables 1, 2, 3; 1974a, Table 2. U.S. National Center for Health Statistics, 1962, Table 2~13.
+
+bv ON “bZ “IPA
+
+uonnqinsig Aled
+
+oo Ane
+
+60€
+Social Biology
+
+Das Gupta
+
+310
+
+ 
+
+‘2S-1 PGRL, ‘OSzer ‘sINsHEIS BaP 40y s9JUID PEUONEN “S'N 'Z GUL ‘gsz6r {e-V ‘E ‘Z ‘T SAIQUL ‘E261 ‘snsuaD ay) Jo Neaing “s*7Q ‘sTIuNOS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 oor 0 0 OO 0 0 0 oor 0 oor 0 0 Oot 0 0 0 oor “"""""" "OS
+0 OOT 0 0 OOT 0 0 0 OOT 0 ooT 0 0 OOT 0 0 0 OOT "SP
+¢ L6 0 ¢ L6 0 0 1 66 Z 86 0 ¢ L6 0 0 Z 86 "TOS
+¢ 46 0 £ L6 0 0 I 66 2 86 0 ¢ L6 0 0 Z 86 oT Sh
+0 OT 0 0 Oot 0 0 0 oor 0 Oot 0 0 ve) 0 0 0 OOT “""*"*" "OF
+81 28 z ST £8 0 I 9 £6 et L8 I 81 18 0 I 6 06 ‘"""""*"OS
+81 28 Z ST 8 0 I 9 £6 £1 L8 I gI 18 ) t 6 06 "TTT St
+ST $8 I v1 $8 0 I § +6 1 68 I 91 8 0 I L ZO OP
+0 OO! 0 0 oor 0 0 0 O01 0 oot 0 0 OOT 0 0 0 OOl ‘""""* "SE
+oF vs tT s¢ TS I S 91 82 8f z9 el by ty z 8 02 OL "TC" "OS
+oF vs tt s¢ Is I S 91 BZ 8f 29 eT tr fp Z 8 0z OL "ltt Sp
+by 9S eT ve es I s ST 64 Le £9 eT tb bb I g 02 TZ "°° Or
+te 99 l 1¢ 29 0 ¢ eI 8 62 IZ 8 6¢ €¢ I s LI LL occ se
+0 O01 0 0 OT 0 0 0 O01 0 oor 0 0 OOT 0 ) 0 OOI “"''" "OE
+SZ SZ oF se 61 I ST 12 €¢ 99 v€ vy by a ST 92 22 Le oct os
++L 97 9b S¢ 61 as st 12 5) 99 ve by ty ZI ST 92 22 LE tt Sp
+ve 92 SP 9¢ 61 I SI IZ €$ 99 of fv th €1 St 92 IZ se Op
+69 l¢ 8¢ 6¢ £Z 8 vl IZ Ls 19 6£ 8¢ Le ST a SZ zz Ip occrrr ttt se
+£s LY 12 2b Le ¢ ol 0z 49 oF os IZ os 62 S dT Sz fs otto
+0 OOT 0 0 001 0 0 0 Oot 0 oot 0 0 OOT 0 0 0 OOr ‘"*""*" "SZ
+£6 i 08 91 v Le 02 ST 82 8 91 89 8z t 9¢ I¢ tl 6r “ttt "OS
+£6 i 08 91 p Le 0z st 8Z 8 91 89 8Z b 9¢ I¢ tT ) ne 2
+£6 l 08 91 b LE 02 ST 82 $8 91 L9 62 b S¢ Ie oT OZ ‘""""** "Or
+26 8 LL 61 t £¢ 12 91 Of 278 81 +9 I¢ g ze ze ST I2 "ct Se
+88 21 89 SZ i 2 zz gI 9¢ vl 92 es Or 8 IZ Te 12 £2 7" 0E
+vl 92 th Le 61 or 91 1Z £s zg 8b oz ly 67 g LI 92 7G gz
+0 oor 0 0 OoT 0 0 0 001 0 00% 0 0 oot 0 0 0 OOT “**'**""02
+66 I L6 ¢ 0 09 v1 6 LI 26 8 18 81 I Sb 62 IT SI occ" t" "Os
+66 I L6 ¢ 0 09 bl 6 LI z6 8 18 81 I Sb 62 I ST ott Sp
+66 I L6 £ 0 6S ST 6 LI 26 8 18 81 I by 62 eI ST oth Or
+66 I L6 ¢ 0 Lg SI ol ST 16 6 64 61 Z It o¢ eT gl ccc se
+86 c $6 s 0 os LI a 12 L8 eT TZ 92 £ of ze LI TZ" "" "OF
+96 ¢ 06 6 I Le 81 | Te 9L vz 1s gt 12 eT £2 v2 Op "TTT SZ
+ss ST 89 8z p ST ST I 6S 6 Is 0z 3 Le z 9 bT gL 802
+0 OI 0 0 001 0 0 0 O01 0 OOT 0 0 Oot 0 0 0 OOT “"""*" "ST
++¢ z +£ z I +¢€ z I 0 +f Zz +£ z T +€ z T 0 qv
+¢ sey Z asea 1 asey ¢ asBa Z asey T asta
+(ALIHMNON) ALRIVg (QLIHM) ALRIV
+
+ 
+
+ 
+
+OL61 ‘NAWOM ‘S'Q WHOA SATAV], ALITILUGJ
+
+$ HTaVL
+
+STOT Joquiaseq BO LE:E] 3 [URSTYSTIY JO Aystoatug] Aq popeopumog
+
+ 
+311
+
+Parity Distribution
+
+Vol. 24, No. 4
+
+2 qRL ‘9261 ‘SONsBEIS YNBaH Oy 192U9D PPUOHEN “SA ‘2 AQRL “ASLEU ‘ZT AQVL ‘PSLET {1 AGEL “QPLEI ‘FE AQUL ‘2161 ‘SNSUaD ay Jo NeaINg “S'f ‘szDANOg
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 OOT 0 0 OOF 0 0 0 OOT 0 OOT 0 0 OOT 0 0 0 oor “""""** "OS
+0 Oot 0 0 OOT 0 0 0 OO! 0 OOT 0 0 Oot 0 0 0 OoOT ‘“"""""" "SP
+Z 86 0 £ 46 0 0 I 66 T 66 0 c 86 0 0 I 66 "'""**""OSs
+Z 86 0 ¢ L6 0 0 T 66 T 66 0 Z 86 0 0 T 66 “eee SP
+0 OOT 0 0 OOT 0 0 0 OOT 0 OOT 0 0 OOT 0 0 0 OOT “*""*** "OF
+tl 98 T SI 8 0 T £ 26 8 26 T ST 8 0 T L c6 seereee "os
+bl 98 T ST $3 0 I L rae) 8 76 T SI +8 0 T L vA) seer re SP
+ZI 88 T eT 98 0 0 £ £6 L £6 T tt 98 0 1 9 £6 seeeres OP
+0 OOT 0 0 OOT 0 0 0 OOT 0 OOoT 0 0 OOT 0 0 0 ooT “"""""" "Se
+Le £9 zl 6¢ 6+ T 9 8ST SZ LZ tz 8 Cb 6 T £ 02 ZL seeeerrros
+Ze £9 ra 6 6? T 9 8T SZ LZ eZ 8 tt 6+ I é 02 oe seeeere SY
+9¢ ¥9 II Sf TS I 9 ST SZ 92 b 8 ch OS T Z 61 + sseeer’ "OP
+97 bl 9 s¢ 6S 0 F +I 78 02 08 S Le 8S 0 S LT 82 “eereree ge
+0 OOT 0 0 OOT 0 0 0 OOT 0 OOT 0 0 OOT 0 0 0 ooT “*’"*"*""O¢
+99 re st a 6T 6 SI eZ ts 6 TS 82 ¢s 61 6 97 $2 16 4 vereeerros
+99 te sf tv 61 6 sl ab ts 64 Is 8Z es 61 6 92 vz Tr "Cee Se
+$9 se L¢ ¢£v 0Z 6 SI 72 TS 6+ TS 4 ¢¢ 61 8 92 eZ cv seers’ "OP
+09 Ov I€ or £2 9 £1 eZ ss Sb ss $2 +S cz 9 v2 Sz Spoor ge
+SP ss Ll bY 6¢ Z OT 02 89 1¢ 69 cl Os se 4 st 97 Zs veers’ Or
+0 OOT 0 0 OOT 0 0 0 OOT 0 OOT 0 0 OOT 0 0 0 OOT “""""** "S$?
+88 eT 49 LZ 9 92 $2 ST ee 69 T¢ os tr £ 02 12% 02 92 seeeer’"Os
+88 Zl £9 Lz 9 92 vz 8T ze 69 te OS tr £ 02 ve 0z 92 “sreeee SY
+88 ZI £9 LZ 9 92 $2 SI ce 69 Te 6 tr £ 61 be OZ LZ steers" Or
+98 tT £9 Of £ 2 bz 61 se 99 ve oF Or g LI ¢¢ TZ 62 sererees se
+T8 61 ts St cl ST TZ TZ ty 8s cb se zs eT OT 82 SZ Ze seers" Og
+99 ve Or St 7¢ S$ TT TZ £9 6¢ 19 OT 6+ se c cl Zz S9 sterner’ Sz
+0 OOT 0 0 OOT 0 0 0 OOT 0 OOT 0 0 OOT 0 ¢) 0 OOT ‘“""""** "O02
+L6 ¢ 6 9 0 4 02 Zl 02 8 91 99 T¢ ¢ Le s¢ LT TZ sere" Os
+L6 ¢ +6 9 0 SY ot ZT 02 ¥8 OT 99 I¢ t L£Z cc Lt TZ serene oP
+L6 ¢ +6 9 0 SP 02 ZI 0z 8 91 99 Te £ 92 ce LT a vse’ OF
+L6 £ 149) 9 0 Sv TZ ZI cz £8 ZT £9 et ¥ v2 s¢ SI £Z seceereen se
+$6 $ T6 8 T 6£ 02 +I £2 82 zz Ss 6¢ 9 LT Te zz ofr sereess" oe
+26 8 $8 tI T 8Z 91 LI 6¢ 89 ze OF SP SI Z 61 ZZ zs sere $e
+9L 7 6S Le P TT 91 OT 9 SP zs LT Or + T $ eI 18 sseeeee "02
+0 OOT 0 0 OOT 0 0 0 OOT 0 OOT 0 0 OOT 0 0 0 ooT “"""""°"ST
++¢ zZ +f c 1 +€ Z t 0 +¢ Z +¢ Z T +¢ z I 0 a5y
+¢ aseQ Z eseD I as83 ¢ aseD Z asezy T esta
+(ALIHMNON) ALRIVd (ALIHA\) ALNIVgG
+
+ 
+
+ 
+
+$L6I ‘NAWOM ‘S’Q HOU SATAVY, ALITILYTY
+9 ATAVL
+
+STO Foquiaseq] BO LE:E] 3 [WeSTYoTIA[ JO AyssoatuE)] Aq popeopumog
+TABLE 7
+
+ 
+
+Ww
+FERTILITY TABLES FOR U.S. WOMEN, 1970* .
+PARITY (WHITE) PaRITY (NONWHITE)
+Case 1 Case 2 Case 3 Case 1 Case 2 Case 3
+ar ees TT ee ee ee
+= AGE 0 1 2 3+ 1 2 3+ 2 3+ 0 1 2 3+ 1 2 3+ 2 3+
+AN
+
+5 UW .....aen 100 0 0 Q 100 0 0 100 0 100 0 0 0 100 0 0 100 0
+OQ 20.....46. 78 15 6 1 43 41 16 55 45 54 27 13 6 36 38 26 38 62
+& re 39 26 23 12 13 40 47 27 73 22 27 25 26 12 27 61 14 86
+S 30........ 20 18 32 30 4 28 68 15 85 12 19 26 43 5 19 76 7 93
+A OM ua ue usee 16 13 31 40 2 22 76 10 90 9 15 24 52 4 14 82 5 95
+40........ 14 12 30 44 2 20 78 9 91 8 14 22 56 3 13 84 4 96
+= AS oc we ewes 14 12 30 44 2 19 79 9 91 8 13 22 57 3 13 84 4 96
+tt 50........ 14 12 30 44 2 19 79 9 91 8 13 22 57 3 13 84 4 96
+ee 1) 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100 0
+y > 51 27 17 5 31 46 23 48 52 40 34 18 8 34 38 28 36 64
+= 1) 26 22 31 21 9 40 51 26 74 21 28 28 23 15 33 52 19 81
+
+— 35. cece 20 16 32 32 5 32 63 19 81 16 23 27 34 10 27 63 13 87 tS
+
+5 yt 9 18 15 31 36 4 29 67 17 83 15 21 26 38 9 24 67 11 89 ©
+
+OP AS cece aee 18 15 31 36 4 29 67 16 84 15 20 26 39 9 24 67 11 89 Md
+
+cs 50......6- 18 15 31 36 4 29 67 16 84 15 20 26 39 9 23 68 11 89 a
+
+S 2 rn 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100 0 a
+
+ey 30... 00. 52 26 18 4 30 49 21 55 45 §3 31 13 3 46 38 16 52 48 o BS ccreeeee 39 24 25 12 16 47 37 39 61 41 31 19 9 30 39 31 36 64
+> 40........ 36 22 27 15 14 44 42 35 65 37 30 20 12 26 37 37 31 69
+‘Z 45... eae 35 23 27 15 13 44 43 34 66 37 30 20 13 26 36 38 30 70
+o 50s avsaces 35 23 27 15 13 44 43 34 66 37 30 20 13 26 36 38 30 70
+‘Ss 30. ....00. 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100 0
+_ 1. 76 18 5 1 54 38 8 71 29 76 19 4 1 66 28 6 68 32
+be 40........ 70 Zl 8 1 45 43 12 63 37 70 23 6 1 57° 32 11 59 41
+Oo ee 68 21 9 2 44 43 13 62 38 69 23 6 Z 56 32 12 57 43
+Z SO sacecaas 68 21 9 2 44 43 13 62 38 69 23 6 2 56 32 12 57 43
+3 385... eeu 100 0 0 0 100 ¢) 0 100 0 100 0 0 0 100 0 0 100 0
+© 40........ 91 8 1 0 83 16 1 89 11 92 8 0 0 87 12 1 86 14
+
+Sc 4s. cee 90 9 1 0 81 18 1 87 13 91 8 1 0 85 14 1 83 17 th
+
+e S0.....0.. 90 9 1 0 81 18 1 87 13 91 8 1 0 85 14 1 83 17 3
+
+Q 40........ 100 0 0 0 100 0 0 100 0 * 100 0 0 Q 100 0 0 100 0 ry
+45... cee 98 2 0 0 97 3 0 98 2 99 1 0 0 98 1 0 97 3
+
+50........ 98 2 0 0 97 3 0 98 2 99 1 0 0 98 1 0 97 3 oo
+
+45... eee. 100 0 0 0 100 0 0 100 0 100 0 0 0 100 0 0 100 0 3
+
+50........ 100 0 0 0 100 0 0 100 ' 0 100 0 0 0 100 0 0 100 0 &
+
+Sources: Same as for Table S.
+* Table 7 corresponds to the case when data for single women by parity are recognized. In all other tables, single women are assumed to be of parity 0 for the computation of age-parity-specific fertility rates.
+ 
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+ 
+
+Vol. 24, No. 4
+
+The horizontal lines in a fertility table represent the numbers R(x,N, !O),
+R(x,N,|1), and R(x,N,|2) with respect to
+the n-values in the preceding lines, As a
+special case of R-values, the second horizontal line in each block of a fertility table
+(divided by 100) gives the probabilities
+Q(x,y,z). The age-parity-specific fertility
+rates m(x,y) assumed in our computations
+are not provided, but one may derive these
+rates from the fertility tables by using the
+relationships in (2), (6), and (8), that is,
+
+m(x,y) = —logQ(x,¥,y)/5,
+
+y= 0,1,2. (13)
+
+The sources of population and birth data
+for the calculation of m(x,y) are indicated
+in the footnotes of the fertility tables.
+
+When a cohort of 100 women have the
+same age and parity and these are known,
+we can read from the fertility tables how
+the parity distribution of these women will
+change at successive ages as they pass
+through their remaining childbearing
+years producing children at the ageparity-specific fertility rates for a particular year, assuming that none of them will
+die before the end of the childbearing period. Each number in a fertility table has its
+own interpretation. For white women in
+1960, for example, the number corresponding to age 45 and parity 3+ in Case 2
+(with initial cohort age equal to 25) is 60
+(Table 4). This figure means that if 100
+women of age 25 and parity 1 reproduce in
+their subsequent childbearing years according to the age-parity-specific fertility
+rates for U.S. white women as of 1960,
+and if none of them dies, then, when they
+reach age 45, the number of women
+among them with parity 3+ is expected to
+be 60.
+
+Of particular interest in a fertility table
+are the numbers corresponding to the last
+horizontal line in each block, which represent the ultimate parity distribution at the
+
+ 
+
+Parity Distribution
+
+313
+
+end of the childbearing period, given the
+initial (identical) age and parity of the
+cohort of 100 women. These last lines for
+the diagonally located three blocks from
+the fertility tables for a particular race and
+year along with the completed cohort parity distributions of women aged 45-49 in
+the censuses are shown in Table 1.
+
+RESULTS
+
+From the fertility tables (Tables 2-7)
+and, in particular, from the selective
+numbers given in Table 1, we may list
+some salient findings as follows:
+
+1. Given the parity of a woman, the
+tendency on her part to keep it unchanged
+(for voluntary and involuntary reasons)
+increases with the decrease in the length of
+the remaining childbearing years. This is
+true not only when we follow her to the
+end of the childbearing period (which is
+obvious on theoretical ground that the
+probability of a birth in a period of time
+cannot be less than the probability of a
+birth in a section of that period), but also
+true in general when we consider a given
+length of time in the future. For white
+women, 1974, for example, starting at age
+20, childlessness reduces to 29 per cent
+(Case 1) and one-childness reduces to 8 per
+cent (Case 2) in 15 years. But, these percentages corresponding to age 25, for the
+same length of time, are respectively 42
+and 19 (Table 6). For nonwhite women,
+1974, under identical situations, childlessness and one-childness reduce to 35 and 7
+per cent corresponding to age 20 and to 51
+and 20 per cent, respectively, corresponding to age 25 (Table 6). Although marriage
+is not explicitly incorporated into the
+model, we may draw an indirect conclusion that the higher age at marriage is
+associated with a greater risk of childlessness, even for the same period of exposure.
+This finding is in agreement with the re
+ 
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+314
+
+sults of our earlier study based on women
+married once and husband present (Das
+Gupta, 1975, Table 4).
+
+2. Childlessness among nonwhite women 45-49, as obtained from the census, has always been higher than the corresponding rate among white women, the
+former rate (22 per cent) being about twice
+the latter rate (12 per cent) in 1974. But if
+women produce children according to
+1974 rates, more white than nonwhite
+women will end up being childless (21 per
+cent for white against 20 per cent for nonwhites). This direction of change is consistent with our earlier results for three decades up to 1960-70 and with our observation that “there is essentially no difference in the extent of childlessness between
+white and nonwhite women in the United
+States at the present time” (Das Gupta,
+1975, Table 3 and p. 141). Childlessness
+among nonwhite women may even be
+much lower than is indicated by the 1974
+period rate because of a considerable
+number of births out of wedlock and because of our assumption of zero parity for
+single women. This is apparent from a
+comparison of childlessness for the year
+1970 for which we have also computed the
+rate recognizing the parity of single women. For nonwhite women, the latter rate is
+8 per cent compared to 17 per cent on the
+assumption of zero parity for single women. By contrast, for white women, the
+childlessness rate only falls from 15 to 14
+per cent by the revised computation based
+on parity data for single women (Table 1).
+
+3. For both white and nonwhite wom-.
+
+en, the period percentage of women with 3
+or more children has decreased since
+1960—from 66 to 27 per cent for whites
+and from 67 to 48 per cent for nonwhites
+during 1960-74 (Table 1, Case 1). This
+reduction has been achieved by a corresponding rise in the percentages of 0-child,
+1-child, and 2-child families among both
+
+ 
+
+Das Gupta
+
+Social Biology
+
+white and nonwhite women. The census
+figures for cohorts aged 45-49 give a
+diametrically opposite picture, i.e., for
+both white and nonwhite women, there
+has been an increase in the percentage of
+families with 3 or more children during
+1960-74 at the cost of reductions in general in the percentages of O-child, 1-child,
+and 2-child families (Table 1, first portion).
+
+4. For the first time in 1974, the period
+percentage-parity curve gives a peak at
+2-child families for white women (35 per
+cent). On the other hand, for nonwhite
+women, 3 or more children still seems to
+be the norm (48 per cent). However, in the
+last twenty-five years, the period percentages of both 0O-child and 1-child families
+have also risen along with those of 2-child
+families among both white and nonwhite
+women, and this may be an indication of
+more and more acceptance of childlessness
+and one-child families, assuming that
+these increases are primarily voluntary.
+
+5. Gradual acceptance of one-child
+families is also indicated by the fact that
+among women with one child at age 20,
+the percentage not having one or more
+additional children has risen from 2 to 7
+per cent among whites, and from 2 to 6 per
+cent among nonwhites during 1960-74.
+According to 1974 fertility tables, half of
+the white women and one-third of the
+nonwhite women who have one child at
+age 20 choose not to have more than two
+children by the end of their reproductive
+period (Table 1, Case 2).
+
+6. The percentage of women who have
+two children at age 25 not having any
+more children has also increased sharply
+during 1960—74—from 19 to 51 per cent
+among white women and from 15 to 34 per
+cent among nonwhite women (Table 1,
+Case 3).
+
+Thus, no matter from which angle we
+analyze our results, it is evident from the
+
+ 
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+Vol. 24, No. 4
+
+fertility tables that both white and nonwhite women have drastically changed
+their parity distribution in the course of
+the last quarter of a century in favor of
+more childless, one-child, and two-child
+families, the changes for white women
+
+Parity Distribution
+
+315
+
+having been more spectacular than those
+for nonwhite women. It should be emphasized that the above findings are only a
+few of many such observations that one
+can make from the set of fertility tables
+presented in this paper.
+
+REFERENCES
+
+Das GuPTA, PRITHWIs. 1975. A method of computing period rates of spinsterhood and childlessness
+from census data applied to the United States. Soc.
+Biol. 22:134-143.
+
+. 1976. Age-parity-nuptiality-specific stable
+population model that recognizes births to single
+women. J. Amer. Statist. Assoc. 71:308-314.
+
+U.S. BUREAU OF THE CENSUS. 1943. Vital statistics
+of the United States, 1940, Part II. Government
+Printing Office, Washington, D.C.
+
+. 1945. Census of population, 1940. Special
+
+reports. Women by number of children ever born.
+
+Government Printing Office, Washington, D.C.
+
+. 1953. Census of population, 1950. United
+
+States summary, Vol. II, Part I. Government
+
+Printing Office, Washington, D.C.
+
+. 1955. Census of population, 1950. Special
+
+reports. Fertility. Government Printing Office,
+
+Washington, D.C.
+
+. 1964a. Census of population, 1960. United
+
+States summary, Vol. I, Part I. Government Print
+ing Office, Washington, D.C.
+
+. 19646. Census of population, 1960. Subject
+
+reports. Women by number of children ever born.
+
+Government Printing Office, Washington, D.C.
+
+. 1972. Census of population, 1970. Subject
+
+reports. Marital status. Government Printing
+
+Office, Washington, D.C.
+
+. 1973. Census of population, 1970. Subject
+
+reports. Women by number of children ever born.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Government Printing Office, Washington, D.C.
+
+. 1974a. Current population reports, Series
+
+P-25, No. 519. Government Printing Office,
+
+Washington, D.C.
+
+. 19746. Current population reports, Series
+
+P-20, No. 271. Government Printing Office,
+
+Washington, D.C.
+
+. 1975a. Current population reports, Series
+
+P-20, No. 277. Government Printing Office,
+
+Washington, D.C.
+
+. 19756. Current population reports, Series
+P-25, No. 614. Government Printing Office,
+Washington, D.C.
+
+U.S. NATIONAL CENTER FOR HEALTH STATISTICS.
+1962. Vital statistics of the United States, 1960,
+ve I. Government Printing Office, Washington,
+
+ 
+
+ 
+
+ 
+
+ 
+
+. 1975a. Vital statistics of the United States,
+1970, Vol. I. Government Printing Office, Washington, D.C.
+
+. 1975b. Vital statistics of the United States,
+
+1971, Vol. I. Government Printing Office, Wash
+ington, D.C.
+
+. 1976. Monthly vital statistics report, Vol.
+24, No. 11, Suppl. 2. Government Printing Office,
+Washington, D.C
+
+U.S. NATIONAL OFFICE OF VITAL STATISTICS.
+1953. Vital statistics of the United States, 1950,
+DG II. Government Printing Office, Washington,
+
+ 
+
+ 
+

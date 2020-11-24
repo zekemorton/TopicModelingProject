@@ -1,0 +1,2058 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ 
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Demographic, social, and economic effects on
+Mexican causes of death in 1990
+
+James B. Pick & Edgar W. Butler
+
+To cite this article: James B. Pick & Edgar W. Butler (1998) Demographic, social, and
+economic effects on Mexican causes of death in 1990, Social Biology, 45:3-4, 151-171, DOI:
+10.1080/19485565.1998.9988971
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1998.9988971
+
+ 
+
+fa Published online: 23 Aug 2010.
+
+&
+(g Submit your article to this journal @
+
+all Article views: 14
+
+»
+Q View related articles 4
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:48
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+ 
+
+Demographic, Social, and Economic Effects
+on Mexican Causes of Death in 1990
+
+ 
+
+James B. Pick and Edgar W. Butler
+
+Department of Management and Business, University of Redlands, Redlands, California 92373; and
+Department of Sociology, University of California-Riverside, Riverside, California 92521
+
+ABSTRACT: Demographic, social, and economic influences on cause of death are analyzed for
+Mexico in 1990. The paper draws on epidemiologic transition theory and empirical studies as a
+framework to examine effects of 28 independent variables in four groups—demographic, sociocultural, economic, and housing/health/crime—on standardized mortality by cause. Data at the
+state level are mostly from the Mexican census of 1990. Effects are analyzed through spatial
+analysis and regression. The principal causes of death reveal distinctive geographical patterns.
+The regression findings only partially validate hypothesized effects. Overall, the most important
+predictors are crowding, housing characteristics, marriage and divorce, and manufacturing
+workforce. By variable group, there are effects for specific causes of death. For instance, hypothesized direct economic prosperity influences are present for one cause category, mixed for two,
+and refuted for cancer and heart disease. The findings are discussed and interpreted relative to
+the research literature and reveal differences from epidemiologic transition theory, effects that
+
+ 
+
+are specific to Mexico, and divergence from some of the patterns in advanced nations.
+
+The present study has the objectives to
+describe the contemporary cause of death
+patterns in Mexico, to examine the socioeconomic factors that are associated with
+particular causes of death, and to interpret
+the factors relative to a conceptual framework. The study also compares the relative
+importance of major groups of socioeconomic factors on cause of death. The paper
+utilizes the techniques of spatial analysis
+and multivariate statistics. Although there
+have been several studies that examined
+causes of death in Mexico (Fernandez,
+1983; Rabell and Mier y Teran, 1986;
+Camposortega Cruz, 1988, 1989a; Perez
+Astorga, 1980, 1988), those studies did not
+analyze socioeconomic influences associated with cause-specific mortality. The
+present paper intends to explore and determine what are such factors and to compare
+their relative intensities and differences.
+
+The paper first discusses general mortality changes, presents a_ conceptual
+
+framework, and examines patterns of
+cause-specific mortality. Then the paper
+turns to a series of regression models to
+analyze groups of socioeconomic factors
+associated with cause-specific mortality.
+The paper ends with a discussion of the
+findings and conclusions.
+
+From 1950 to 1993, Mexican life expectancy lengthened overall by twenty-one
+years, a remarkable increase. Male life expectancy in 1993 was sixty-six years and
+female life expectancy was seventy-three
+years (Population Reference Bureau,
+1993). By comparison, U.S. life expectancies at birth were seventy-two years for
+males and seventy-nine years for females
+in 1990 (National Center for Health Statistics, 1993). The average Mexican standardized mortality rate was 5.0 in 1990,
+with relatively little variation by state.
+
+As seen in Table 1, the distribution of
+cause of death in Mexico changed in the
+1980’s. The leading causes of death in
+
+151
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+ 
+
+152 Pick and Butler Social Biology
+TABLE 1
+MAJOR CAUSES OF DEATH AND CHANGE, 1979-1990
+1979 1990
+Change in
+No. of No. of Per Cent
+CAUSE OF DEATH Deaths Per Cent Deaths Per Cent 1979-1990
+Cardiovascular Diseases .........ccccccsseee 69,327 16.2 88,982 21.0 4.8
+OUI ss sarerarrcs apn ss ei aated nr eeememnnd aS SEE 63,641 14.9 58,904 13.9 —1.0
+Nutritional, Metabolic,
+Endocrine, Immunity Diseases ............ 24,033 5.6 45,575 10.8 Aa
+Respiratory Diseases wavsccesssssssecessaxnemnus 59,475 13.9 44,277 10.5 —3.4
+CANCE ....scesccssessesssersssnccessensessseraeseasens 27,865 6.5 42,017 9.9 3.4
+Infectious and Parasitic Diseases......... 61,138 14.3 40,996 9.7 —4.6
+Digestive Diseases ..........ccsescessesseeres 29,938 7.0 33,328 7.9 —-0.9
+Diseases of Infancy ..........:csesccsseseeeeeens 26,941 6.3 23,063 5.5 = 0.5
+Undefined Diseases ............ccccseeeeeeeensene 29,658 6.9 9,716 23 —-4.6
+EDR rcasesrnannimannnsmnaenmmncesmenerenmennnnaaena 36,201 8.4 35,449 8.4 0.0
+TOTAL. .cecsesscescessseescescecsesscesstescessetencensees 428,217 100.0 422,803 100.0
+
+Sources: SPP, 1983; INEGI, 1991-92.
+
+1990 were cardiovascular, followed by
+trauma, nutritional/metabolic/endocrine/immunity (abbreviated as NMED), respiratory, and cancer. These five causes accounted for two-thirds of Mexican deaths
+in 1990. There were some major shifts in
+cause of death 1979-1990, with increases
+in cardiovascular, nutritional, and cancer,
+and decreases in respiratory and infectious/ parasitic diseases. This shift reflects
+social changes that took place in the
+1980’s. In particular, declines in respiratory and infectious/parasitic categories reflect improved environmental conditions
+regarding sanitation, pollution, and public
+health. On the other hand, the increase in
+cardiovascular mortality may stem from
+dietary and lifestyle changes, while the
+relative increase in cancer deaths may be
+due to environmental and dietary alterations. The decrease in undefined diseases
+is linked to improved statistical accuracy
+in designation of cause of death.
+
+Overall, trends in cause of death reflect the benefits from greater emphasis
+on sanitation and public health, but deterioration stemming from dietary, stress,
+
+and pollution factors. Despite an increase
+in population size, the total number of
+deaths decreased slightly between 1979
+and 1990, which reflects a substantial
+lowering in the crude mortality rate, as
+well as age structural shifts in the 1980’s.
+In the present study, variables were examined spatially through use of a geographic information system (ESRI, 1996).
+The spatial analysis was useful in determining the geographical patterns of cause of
+death in 1990 and changes in patterns since
+1980. For instance, spatial patterns for cardiovascular and cancer are highly similar,
+but differ from the other causes. Cardiovascular and cancer rates show higher levels in
+the more economically advanced parts of
+Mexico, including the border states and
+Mexico City, and lower levels in the poorer
+and less developed areas such as the Bajio
+and south. The results of this analysis are
+useful in informing the regression analysis
+later in this paper. Similar spatial study was
+done for all the independent variables. Several of the spatial findings are included in
+the results section and others are described
+elsewhere (Pick and Butler, 1994).
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+Vol. 45, No. 3-4
+
+MATERIALS AND METHODS
+
+This study examines socioeconomic
+influences on cause of death through descriptive and multivariate statistical techniques. The analysis is done at the state
+level, i.e., the sample is the thirty-two
+Mexican federal entities, which include
+thirty-one states plus the Federal District.
+The study seeks to determine demographic, social, and economic influences
+on death rates by cause of death. The
+level of analysis is macro, 1.e., at the state
+level, rather than micro, i.e., at the individual level. Any effects and social patterns discovered represent socio-economic effects of aggregated attributes of
+the states as a whole on the aggregated
+mortality for entire states. The emphasis
+on state-level effects in the present study
+has the weakness of not reflecting individual effects. On the other hand, the
+macro effects are useful in understanding
+broad macro trends and associations for
+causes of death. Many studies in Mexico
+and elsewhere have examined trends in
+cause of death for aggregates of states or
+larger entities, for instance at the national
+level (for example, see Preston, 1975; Rabell and Mier y Teran, 1986; Perez, 1988;
+Jiménez, 1995) and have provided important macro-level findings and conclusions. In the present analysis of Mexico
+as a whole, an individual-level nationwide analysis was not possible due to
+lack of national data sets containing mortality as well as a substantial socioeconomic attributes.
+
+The mortality data are compiled from
+the state death registration system by the
+federal government and appear in the Anuario Estadistico (INEGI, 1991). Although
+the Mexican vital registration system has
+been criticized (for instance, Bruch et al.,
+
+Causes of Death
+
+ 
+
+153
+
+1980; Garcia y Garma, 1988), it improved
+in the latter part of the 80’s and in the 90’s
+due to more comprehensive and more accurate registration (INEGI, personal communication, 1997). Although not as accurate as vital registration systems in the
+United States and Western European nations, the contemporary Mexican data are
+considered by the present investigators to
+be accurate enough for the purposes of this
+analysis that focuses on associations with
+socioeconomic factors.
+
+To accomplish the present study, we
+adjusted the mortality rates through a
+process of standardization, which was
+necessary in order to adjust for differences in the age structure between states.
+The method used is indirect standardization (Keyfitz and Flieger, 1971). The standard population selected is the nation of
+Mexico, 1990. The method adjusts the
+cause-specific death rate of the given population by a factor that is the ratio of the
+number of cause-specific deaths in the
+given population divided by the number
+of cause-specific deaths based on the mortality rates of the standard population and
+the age structure of the given population.
+More specifically, the standardized causespecific mortality rate for each state is adjusted by a factor d/Summation (M_P,),
+where d represents the total cause-specific
+deaths in the state, M, is the age-causespecific death rate for the nation and P_, is
+the population of a five-year age group for
+the state. It is important to mention that,
+since the age distribution of the population has small variation between states, indirect standardization in this instance has
+only a modest effect on values.
+
+The statistical models are designed to
+assess the associations between selected
+independent variables and mortality dependent variables. The associations are
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+154
+
+studied through simple correlations and
+regressions, based on a standard statistical package (SPSS Inc., 1995). All correlations are Pearson type.
+
+The regression analysis is organized
+into two submodels. In both submodels,
+standardized mortality rate for the five
+major causes of death constitutes the dependent variable. In the first submodel,
+all twenty-eight socioeconomic variables
+are eligible as independent variables,
+based on a stepwise regression algorithm,
+with the number of steps fixed at four.
+This submodel is intended to test which
+are the most significant individual factors
+associated with cause-specific mortality.
+The submodel seeks to validate the postulated influences of the independent variable on each cause of death.
+
+A second submodel examines the influence of each group of independent socioeconomic factors on each cause of
+death. In this instance, a somewhat different regression technique is applied. For
+each group of factors—for instance, demographic—the cross-correlations of the
+independent variables are examined to reduce collinearity. The variables in each
+group are reduced down to the four that
+eliminate the largest amount of cross-correlation between independent variables.
+Then the resulting four variables are
+forced into the regression equation. This
+submodel has the goal to ascertain (1)
+whether each variable group has an overall significant effect on each cause of
+death, and (2) to analyze which independent variables are most influential for
+each of twenty regressions, that is, one
+regression for each combination of independent variable group and _ cause-ofdeath dependent variable. It is expected
+that the most significant independent
+variables will show general correspon
+Pick and Butler
+
+ 
+
+Social Biology
+
+dence between the two submodels. Taken
+together, the two submodels will enable
+determination of both the most important
+independent variable effects, as well as
+the groups of independent variables that
+are most important and what variables
+within groups are the most significant.
+Although other methodologies could
+be employed including factor analysis,
+this choice of methodology has the advantage of appropriateness to small sample sizes (V=32) and to preserving the
+group Classification stemming from conceptual theory and empirical literature.
+Also, the methodology is appropriate to
+the sample’s entirely numeric variables.
+
+POSTULATED MORTALITY INFLUENCES
+
+The overall framework of this study is
+that mortality is influenced by a variety
+of demographic, social, economic, and
+health attributes. The conceptual approach
+draws on epidemiological transition theory
+(Omran, 1977, 1982) and also is based on
+empirical bodies of evidence regarding social and economic influences on mortality
+(Kitagawa and Hauser, 1975; Guzman,
+1989; Camposortega, 1989a, 19895; Preston and Taubman, 1994). Epidemiologic
+transition theory is regarded as a part of
+demographic transition theory (Rockett,
+1994; Kirk, 1996). It postulates that there
+are four stages in the drop in mortality:
+(1) famine and pestilence, (2) lowering
+pandemics, and (3) degenerative and manmade diseases (Omran, 1977), as well as a
+fourth stage more recently added, (4) hybristic, or mortality affected strongly by
+behavior and life-style (Rogers and Hackenberg, 1987). The progression of mortality lowering through these stages can last
+for centuries as occurred in Europe or occur over decades as in developing nations
+in the twentieth century (Omran, 1977).
+
+ 
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+Vol. 45, No. 3-4
+
+Movement from Stages (1) through (3)
+has been influenced in rough time order
+by rising standards of living, improved
+nutrition and alterations in diseases, medical progress, and public health programs,
+while more recent movement to Stage (4)
+has been influenced by behaviors and
+lifestyles of people (Omran, 1977;
+Rogers and Hackenberg, 1987).
+
+The theory of epidemiologic transition
+is meaningful to Mexico in the mid to
+late twentieth century and to this study.
+Major Mexican progress on control of infectious diseases occurred in the 1940's
+and 1950’s, while chronic diseases have
+become progressively more important in
+the second half of the century (Camposortega, 1987a). Mexico has begun to
+move somewhat into Stage 4, since
+lifestyle influences such as violence,
+drugs, and diet have become more important in recent decades. Epidemiologic
+transition theory is appropriate for Mexico due to the extreme spatial differences
+in both the levels of mortality and the
+factors affecting mortality (Rabell and
+Mier y Teran, 1986; Pick and Butler,
+1990, 1994; Jiménez, 1995). In other
+words, different regions of Mexico are in
+different stages of relatively rapid epidemiologic transition, so all the theoretic
+factors postulated may be important today. Mostly following epidemiologic
+transition theory, the present paper classifies independent variables into four
+groups. The housing, health, and crime
+group reflects the influences of public
+health, sanitation, and the social environment; the sociocultural group reflects social status and the macro level aspects of
+lifestyle; and the economic prosperity
+group contains aggregated economic attributes that reflect rising standards of living. Data were not available at the state
+
+Causes of Death 155
+
+level in Mexico on changes in the nature
+of diseases and behavioral elements, so
+those aspects of transition theory are excluded. Specific hypotheses for attributes
+are covered later in this section.
+
+In addition to the justification of these
+groups from epidemiological transition
+theory, there have been studies predominantly in advanced nations of the importance of socioeconomic factors in mortality. A large U.S. study based on individual
+records (Kitagawa and Hauser, 1973)
+showed substantial effects for income,
+occupation, education, and race. A recent
+literature review of studies of determinants of older mortality, mostly in the
+United States, confirmed the importance
+of social and economic factors (Preston
+and Taubman, 1994). There are numerous
+empirical studies for advanced nations
+that have confirmed consistently that
+higher social and economic status 1s correlated with lower mortality rates, both
+for total mortality and for a variety of
+causes of death (for instance, Bassett and
+Krieger, 1986; Feldman et al., 1989; Page
+and Kunz, 1980; and Williams, 1990). In
+Mexico, there have been relatively few
+studies of socioeconomic determinants of
+mortality at the national level. Partly this
+has related to problems historically in the
+vital registration system (Garcia y
+Garma, 1988). Among the existing studies are those of Camposortega (1989b)
+noting urban-rural mortality differences
+and of Mojarro and Nuiiez (1975) describing impacts of education and housing for infant mortality.
+
+In addition to the three variable groups
+stemming from epidemiologic transition
+theory, a fourth demographic group was
+added. The most obvious demographic
+variable influencing mortality, namely
+age, is already controlled for by utilizing
+
+ 
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+156 Pick and Butler
+
+standardized mortality rates. In Mexico,
+the lowering effect on mortality of urban
+versus rural location has been confirmed
+as an important demographic influence
+(CEED, 1970; Mojarro and Nufiez, 1975;
+Garcia y Garma, 1983; Camposortega,
+1989b). Another important demographic
+influence on mortality is nuptiality, as
+seen for the United States (Gove, 1973;
+Kisker and Goldman, 1987; Hu and Goldman, 1990; Zick and Smith, 1991; Lillard
+and Panis, 1996) and Bangladesh (Rahman, 1993). Although the researchers
+could not locate similar Mexican studies,
+nuptiality is postulated to be a mortality
+influence especially since the family is regarded as strong in Mexico.
+
+Based on this conceptual background,
+the independent variables are categorized
+into four groups: demographic, socio-cultural status (SCS), housing/health/crime
+(abbreviated henceforth as HHC), and
+economic prosperity. The groups have the
+advantage not only of identifying the significant associated independent factors
+but also of comparing the relative explanatory power of the groups with each
+other.
+
+This section discusses in more detail
+the choice of specific independent variables, which are listed in Table 2. For the
+demographic group, the urban indicators
+are urbanization, defined in Mexico as the
+ratio of persons living in places of 2,500
+or more to all persons (INEGI, 1992), and
+urbanization change 1950-90. The nuptiality attributes included are marriage
+and divorce. It is expected that states with
+higher marriage rates and lower divorce
+rates will have reduced mortality due to
+enhanced familial caring for the health of
+spouses and other family members. On
+the other hand, studies have indicated that
+divorced persons have increased mortal
+Social Biology
+
+ity compared to married (Zick and Smith,
+1991).
+
+The SCS characteristics included are
+well known ones of literacy, secondary
+education, professional/technical/managerial occupations, agricultural occupation,
+indigenous language, religion, and race.
+In Mexico, the predominant racial distinction is between the mestizo and indigenous, 1.e., Indian population segments. There is not a sharp demarcation
+between these two groups, since the mestizo population was formed historically
+from a mixture of Indian and Spanish
+populations. For this paper, indigenous is
+measured by the per cent of population
+who speak an indigenous language. Indigenous language knowledge is independent of knowledge of Spanish, i.e., some
+indigenous language speakers may know
+Spanish and others may not. In conformance with SCS results on racial differences in the United States and elsewhere,
+it is expected that the lower the racial status, i.e., the higher the proportion of indigenous population, the higher the mortality (Pick, 1977; Preston and Haines,
+1991; Manton et al., 1987; Otten et al.,
+1990; Behrman et al., 1991). In the context of racial differences in the United
+States, studies have indicated that blackwhite mortality differences are largely
+due to socioeconomic differences (Keil et
+al., 1992; Mutchler and Burr, 1991), and
+the same may be true in Mexico, although studies have not been done.
+
+The last SCS variable is non-Catholic
+religion. In Mexico, several studies point
+to the dominant Catholic majority population tending to have higher social and economic status. For example, in a study of
+socioeconomic effects on fertility, the proportion non-Catholic increased the fertility
+(Pick et al., 1989), a direction of effect on
+
+ 
+
+ 
+
+ 
+Vol. 45, No. 3-4 Causes of Death 157 |
+
+TABLE 2
+SUMMARY OF HYPOTHESES ON THE BROAD IMPACTS OF THE INDEPENDENT VARIABLES BY FOUR CATEGORIES
+
+I. DEMOGRAPHIC
+Urbaniz. indicators ......... ccc cee cece cece seer e cence
+MATAR cas ca nse oa ea he HO ss ws Oe a ee ee
+DIVO‘Ce oc ccc cece eee ete eee e eset senaes
+
+—for all causes
+—for all causes
++ +for all causes
+
+I.
+
+—
+
+SOCIO-CULTURAL STATUS (SCS)
+Higher SCS characteristics?
+
+III, Houstnc/HEALTH/CRIME (HHC)
+Indicators of improved
+HOUSING 24 ows os es we eo Oe ee ee eo
+DT GOS ne cums be sos Bo 2 oe oo oe Keme OOO Be 2
+More meat and eggs .. 0... cece cece ee ence neta eens
+More Crime .... 2.2 eee cee cece eee ee teen rece neeees
+
+—for all causes
+
+—for all causes
+
+—for all causes
+
+++on cardiovascular and cancer
++-+on trauma
+
+IV. ECONOMIC PROSPERITY
+Indicators of greater
+economic prosperity? . 0... eee cece cece ee eee ee
+Personal services workforce .........0 0c cc eee cere eer eees
+Manufacturing workforce ....... 0.0.0 cee eee cece eee eens
+Commerce workforce ......... ccc eee cece cece eeeeaees
+
+—for all causes
+
+—for all causes
+
+++for cancer and respiratory
+unknown
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+*Non Catholic 1s taken to represent lower SCS
+’Excludes workforce vanables
+
+fertility opposite from most studies in the
+United States. Among other things, it will
+test whether religious effects noted for fertility that were interpreted as SCS in nature also apply to mortality.
+
+The third group of variables includes
+housing, health, and crime variables. In
+terms of epidemiologic transition theory,
+they reflect improved physical environment and public health. Housing variables
+have been little studied in relation to mortality. In mortality studies in developing
+nations they have only occasionally been
+included. Housing variables would seem
+to have direct linkages to theoretical intermediates for infectious disease, including
+sanitation, spread of infections, and cleanliness. On the other hand, for chronic diseases including cancer and heart disease,
+where modern epidemiological studies
+show a large influence of diet (Henderson
+et al., 1991; Black, 1992), poorer housing
+may be associated with improved diets,
+i.e., more vegetable-based, leading to re
+duced mortality. The postulated effects are
+that improved housing will be related to
+lower mortality for all categories.
+Influences of quality of health services,
+care, and facilities on improved mortality
+are cited in the third stage of epidemiologic transition theory (Omran, 1982). In
+certain instances they have been documented in U.S. mortality studies (for instance, On cancer; see Page and Kunz,
+1980). However, the results are mixed and
+vary by cause of death. The present study
+hypothesizes that better health conditions,
+as reflected by hospitals per capita, will
+improve mortality for all major causes of
+death. A different type of health variable is
+absence of meat and eggs from diets. This
+census variable was available in the 1980
+Mexican census but dropped in the 1990
+census (SPP, 1982-84; INEGI, 1992). In
+concert with a growing body of literature
+on dietary causation of heart disease and
+cancer, this variable is hypothesized to
+increase the mortality effects of chronic
+
+ 
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+158
+
+diseases, i.e., cardiovascular and cancer,
+but to be neutral for the other causes of
+death. From the standpoint of transition
+theory, this variable relates particularly to
+the fourth (hybristic) stages.
+
+Crime is mostly associated with the
+fourth transition stage, since it is behaviorally controlled. The crime variable of
+penal sentences per capita is expected to
+influence trauma mortality but not to affect the other causes of death.
+
+The last group of attributes is economic prosperity. It is important in epidemiologic transition theory in providing
+for rising living standards and has also
+been widely confirmed as generally beneficial in advanced nations through empirical studies (Preston and Taubman, 1994).
+
+There are eleven indicators of the level
+of economic prosperity for a state, including economic activity, unemployment,
+underemployment, public investment by
+the federal government in the state, value
+of corporations, new mortgage value, the
+proportion of workforce for three categories, prevalence of telephones, and motor vehicle ownership. With the exception
+of workforce characteristics, these variables are expected to lower the level of
+mortality. Such a relationship is supported by economic models that have
+been constructed and tested based on the
+consumption of items that maximize a
+utility function for improved health.
+These models postulate that consumers
+can consume items that will improve
+health status (see for example, Rosenzweig and Schultz, 1983) and that greater
+economic resources will improve health
+or mortality levels. They have, however,
+had limited empirical testing.
+
+Three aggregate workforce variables
+are included. The personal services and
+commercial workforces are postulated to
+
+Pick and Butler
+
+Social Biology
+
+decrease mortality rates for all cause of
+death categories, since services reflects a
+more advanced economy. However, the
+manufacturing workforce is postulated to
+increase cancer and respiratory mortality,
+through the counteracting detrimental environmental and pollution effects. The effects of an elevated manufacturing sector
+may be expected to be exacerbated in
+Mexico compared to the United States,
+because there are weaker environmental
+controls in Mexico (Sanchez, 1990; U.S.
+President, 1993). Manufacturing workforce is not hypothesized to influence the
+other causes of death.
+
+The hypotheses on the broad impacts of
+variables from the four categories of independent variables are briefly summarized
+in Table 2. The variables are drawn from
+two data sources, the 1990 Mexican Census of Population (INEGI, 1992) and the
+Anuario Estadistico in 1991 and 1992 (INEGI, 1991-1992). The data are entirely for
+1990, except for two 1980 characteristics,
+in the Housing/Health/Crime Group. They
+are Hospitals Per Capita, and No Meat and
+Eggs, i.e., the per cent of census respondents having no meat and eggs in their
+diet. No meat and eggs was dropped for
+the 1990 Mexican census (INEGI, 1992),
+and the hospital data by state were not
+available for 1990; these variables were
+considered important enough to the study
+to utilize the data for 1980. For these attributes, we assume that the geographical
+distributions did not change very much in
+the decade of the 1980’s.
+
+RESULTS
+
+Since age structure does not vary
+much between Mexican states (Pick and
+Butler, 1994), the age-standardized annual mortality rate is significantly corre 
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+Vol. 45, No. 3-4
+
+lated (r=0.78) with the crude annual
+mortality rate. The standardized mortality
+rate, in turn, is strongly positively correlated with the NMEI and respiratory mortality rates, and also with cardiovascular
+mortality. However, it is not correlated
+with trauma or cancer mortality. It 1s not
+surprising that these three causes of death
+are also significantly intercorrelated.
+Cancer mortality, shown in Figure 1, is
+very strongly linked to cardiovascular
+mortality (r=0.86). In fact, this correlation is the highest among all the mortality
+cross-correlations. The reason for this
+very strong association is that both
+causes-of-death have high values throughout the border region, as well as the Federal District and Jalisco. However, for
+both attributes, the outlying Mexico City
+megalopolitan region, i.e., the states surrounding the Federal District, has moderate to low mortality. For these two causes,
+the consistently high values throughout
+the border region is remarkable and will
+be examined further in the discussion.
+Spatially, the respiratory mortality
+rate, shown in Figure 2, has higher values
+in the Federal District, Mexico, Puebla,
+and surrounding states, as well as Jalisco.
+This finding reflects the well known air
+pollution effects stemming from the major metropolises of Mexico City, Puebla,
+and Guadalajara and influencing surrounding areas. Respiratory mortality is
+mixed in the border region, and moderate
+to low in the south and Yucatan peninsula. In the latter regions, environmental
+and pollution factors are more favorable.
+This spatial pattern is dramatic and contrasts sharply with cancer mortality (Figure 1) as well as the other cause of death
+categories. NMEI is correlated with respiratory and has a similar spatial pattern.
+Trauma has a polyglot spatial pattern; for
+
+Causes of Death
+
+ 
+
+159
+
+instance trauma is high in several highly
+advanced states (Baja, Jalisco, Mexico)
+and at the same time very high in the
+poor states of Zacatecas, Guerrero, and
+Oaxaca. The reason for this polyglot pattern may be the vagaries of such influences as state safety regulations, terrain,
+state criminal laws and enforcement, and
+the “climate” for mortal crimes and suicide. Overall, trauma is higher in Baja
+California, the western mountain states,
+south, and southeast.
+
+On the basis of simple correlations,
+there are many strong associations between independent attributes and causes of
+death. It is important to note that the associations are much stronger for individual
+causes of death than for standardized total
+mortality. In fact, the only significant simple correlation for standardized total mortality rate is an inverse relationship with
+underemployment. On the other hand, all
+cause-specific mortality variables have
+many significant simple correlations, except for trauma. The enhanced associations point right away to the importance of
+disaggregating mortality into its causespecific components. This rich set of relationships would be largely hidden by
+studying only total mortality. On the other
+hand, for purposes such as population projections, etc., it is often more appropriate
+to utilize aggregated mortality.
+
+The lack of simple associations for
+trauma mortality is explained by its unusual polyglot geographical distribution.
+The strongest respiratory association is
+with manufacturing workforce, which is
+not surprising since manufacturing is a
+source of air pollution, especially given
+Mexico’s weak environmental regulatory
+enforcement (U.S. President, 1993).
+
+Cardiovascular and cancer mortality
+have the strongest simple associations
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+160 Pick and Butler Social Biology
+
+   
+ 
+
+0.2892 to 0.4325
+0.4326 to 0.5084
+0.5085 to 0.5738
+0.5739 to 0.6529
+0.6530 to 0.7037
+
+FAREMEO
+
+Fic 1 —Standardized mortality rate from cancer, Mexico, 1990 Source INEGI, Anuario Estadistico,
+199].
+
+333
+
+   
+
+$$$$9000066
+5$$$0$50000
+
+FOO SOOOS
+
+     
+
+0 2386 to 03984
+0 3985 to 0.4510
+0 4511 to 0.4932
+0 4933 to 0 5967
+0 5968 to
+
+        
+
+ADO
+
+FiG 2 —Standardized mortality rate from resprtratory diseases, Mexico, 1990 SOURCE INEGI, Anuario
+Estadistico, 1991
+ 
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+ 
+
+Vol. 45, No. 3-4
+
+with socioeconomic attributes. For both
+dependent variables, there are significant
+simple associations to independent attributes in all four variable groups.
+
+REGRESSION RESULTS: SUBMODEL I
+
+The results of the stepwise regressions
+reveal significant results that allow identification of the most important influences
+on the five causes of death. The regressions for each cause of death are significant overall at the p = 0.01 level. The results will be discussed briefly for each
+cause.
+
+1. Cardiovascular—As seen in Table 3,
+higher crowding reduces cardiovascular
+mortality while higher divorce rates increase it. The crowding result is interpreted
+as an indirect effect, stemming from
+crowding’s close associations with literacy
+(-—0.93) and urbanization (—0.74). Thus
+high crowding occurs in more rural and
+lower socioeconomic-status parts of the
+nation. However, those areas in the south
+region tend to have improved diet (more
+vegetable-based, lower fat) and lower
+psychological stress, factors that lower cardiovascular-disease risks (Black, 1992).
+Divorce is associated with increased cardiovascular risk because of the wellsubstantiated reduction in familial caring in
+divorced/separated populations versus married populations (Kisker and Goldman,
+1987; Hu and Goldman, 1990). This effect
+may be amplified in a Catholic nation, for
+which the divorce rates are much lower
+than in the United States. The associations
+noted here refer to those at the state level,
+i.e., effects on the entire population of divorced persons rather than on individuals.
+
+2. Trauma.—Trauma associations are
+limited to a single attribute, i.e., underemployment, which is related to in
+Causes of Death 161
+
+creased trauma. Larger ranks of underemployed population increase personal
+stresses including psychological and financial. Increased stress leads in turn to
+greater susceptibility to trauma, including
+accidents, homicide, and suicide. The
+U.S. analogy is the ghetto area, characterized by high underemployment with underemployment leading to higher stress
+and in turn trauma.
+
+3. NMEI_—NMEI has strong associations, in particular, positive ones with
+manufacturing workforce and vehicle registration and an inverse one with marriage. There is a marginal positive association with housing lacking electricity
+(barely insignificant at t = 0.0501). The
+first two positive effects reflect more urban environments having greater environmental contamination and pollution. The
+connection between a more polluted environment and NMEI diseases is unknown
+and worthy of further investigation. The
+influence of marriage in lowering NMEI
+mortality may be ascribed to the benefits
+of married populations having enhanced
+familial care-giving (Kisker and Goldman, 1987; Hu and Goldman, 1990; Rahman, 1993).
+
+4. Respiratory.—Respiratory mortality
+is linked significantly with manufacturing
+workforce, marriage, crowding, and literacy. The strong effect of manufacturing is
+due to environmental pollution, 1n particular, air pollution. In spite of Mexico’s
+strong environmental regulations, they
+are enforced with laxity (Sanchez, 1990;
+U.S. President, 1993), and the nation’s
+urban areas suffer from bad air pollution,
+much of it from industrial sources (Lacy,
+1993; Garza and Fernandez, 1995). The
+inverse effect of marriage corresponds to
+previously discussed benefits of marriage
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+162
+
+Pick and Butler
+
+ 
+
+Social Biology
+
+TABLE 3
+REGRESSION COEFFICIENTS TO ESTIMATE CAUSES OF DEATH
+
+CARDIOV
+Mort
+Rate?
+
+0.658
+15.907"
+
+VARIABLES
+
+DEMOGRAPHIC
+UP DANPZAtiONn .....00s00600s00s.c0ss000svisssssdetcerens
+
+SOCIO-CULTURAL STATUS
+LEERY cree
+Secondary Education viccssccsssavsccascncsvesves
+Indigenous Language .........c.csseccseseense
+Prof./Tech./Mer. Occupation.................
+Agricultural Occupation... eee
+Non-Catholic Religion .............eseeseeees
+
+HOUSING/HEALTH/CRIME
+COWAING ........ceesereesseessesenscnssersasvensonass
+Housing with Running Water................
+Housing with No Electricity...
+Housing without Toilet 0... eee
+Hospitals 198 O csccsscnennmsameneenccesmemenene
+No Meat or Eggs 1980.02... ..ssesesscesesees
+Pétial SCHGHCES ...c0.ncacepeisieseeae te
+
+ECONOMIC PROSPERITY
+ECONOMIC ACTIVILY .......scessesesseresesseeses
+Public Investment ............:sssssessessesseeaee
+Corporation Value........csscscssersersesseeese
+Value of New Mortgages ........ccceseeeneeee
+QINSiployiMtentt .cccessccccusscisensnnoransnnesaas
+Underemploymeent xccsssssssscasenseesventorneesss
+Commerce Workforce...........sscseseseees
+Manufacturing Workforce 1.0...
+Personal Services Workforce..............
+Tel DHONGS sis goscccinmmnaxsemnccnmmnnanesennacseues
+Vehicle Ownership secnunaceaunncomansence
+*Standardized
+
+’Statistically significant at the 0.001 level
+“Staustically significant at the 0 OF level
+
+and in reverse for divorce. The effect of
+crowding may be the elevated tendency
+to have increased spread of air-borne disease in a state with more crowded living
+units. The positive effect of literacy is unexplained and calls for further investigation.
+
+3.1118
+
+—3.529°
+
+—2.928°
+
+2.045
+
+CANCER
+MortT
+Rate?
+
+0.841
+41.893°
+
+NMEI
+Mort
+RATE?
+0.655
+15.726°
+
+REsp
+Morr
+Rate?
+
+0.586
+11.9878
+
+TRAUMA
+Mort
+RATE*
+
+0.289
+13.584°
+
+3.989 -3450° ....
+- - 2.010
+
+2.472
+4.174?
+3.082 —5.445?
+
+2.050 ~2.719¢
+
+3.686?
+. 4.731 6.633°
+
+4.539"
+
+5. Cancer—The significant effects for
+cancer are crowding (positive), agricultural occupation (negative), housing lacking and toilet facilities (negative). In addition, divorce is marginally significant
+(r = 0.054) and in the anticipated positive direction. The interpretation for
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+ 
+
+Vol. 45, No. 3-4
+
+crowding is similar to its explanation for
+cardiovascular, 1n particular that it indirectly is tied in a macro sense to reduced
+diet and higher living stresses. The inverse association for housing without toilet is similar to that for crowding. Agricultural occupation’s influence may be
+due to exposure to environmental contaminants and pollution, which are more
+severe in Mexico than in the United
+States due to considerably less environmental enforcement.
+
+Overall, the most prominent variables
+that stand out in predicting cause-specific
+mortality are crowding, housing characteristics, marriage and divorce, and manufacturing workforce. These attributes are
+not predominantly SCS ones but rather
+from other groups.
+
+REGRESSION RESULTS: SUBMODEL II
+
+The results of the regressions by
+groups of socioeconomic variables indicate considerable differences in effects
+within groups for different causes of
+death. These regression results are summarized in Table 4, which shows, for
+each group, results for the five cause-ofdeath categories. As discussed earlier,
+each regression is constrained to include
+only selected independent variables for
+that group. These results are first summarized by cause of death, before examining
+the results for the group hypotheses.
+
+1. Cardiovascular—All four groups
+are highly significant; in particular, the
+regressions have overall significance at
+the p = 0.01 level. The Demographic
+Group has a strong positive influence of
+divorce, with similar interpretation to the
+stepwise results. The SCS Group is dominated by the association with professional/technical/managerial occupation,
+which reflects a postulated SCS effect.
+
+Causes of Death
+
+163
+
+The Housing/Health/Crime Group is
+dominated by the inverse crowding effect,
+which also was most important for the
+stepwise regression results and is similarly interpreted. The Economic Group
+has the strongest association with value
+of new mortgages, followed by public
+federal investment. Both these effects reflect economic prosperity, with the interpretation that enhanced prosperity leads
+to higher standards of living and more
+support for public health, care services,
+and facilities.
+
+2. Trauma.—Only the Economic
+Group has a significant trauma effect.
+Within this group, the only significant association is underemployment. The explanation is the same as noted previously.
+The lack of influence of other demographic and social groups points to
+trauma not being linked to socio-cultural
+factors, but rather associated with other
+sets of factors not in this study. For example, government regulation and aggregate
+job stress and lifestyle indicators might
+be looked into.
+
+3. NMEI—For NME], the Demographic, SCS, and Economic Groups
+show significant regression results. For
+the Demographic Group, urbanization has
+become the most important variable. Urban location may possibly increase these
+diseases due to urban stress factors; this
+interpretation calls for further epidemiological research. The influence of marriage was apparent in the stepwise regressions and already has been discussed.
+Although the SCS regression is significant, none of its individual attributes is.
+For the HHC Group, the only significant
+individual association is a reverse one
+with crowding. This finding is unexplained and calls for further research. The
+Economic Group has the already-noted
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+ 
+
+ 
+
+ 
+
+Regression 1
+Regression 2
+Regression 3
+Regression 4
+Regression 5
+
+Regression 6
+Regression 7
+Regression 8
+Regression 9
+Regression 10
+
+Regression t1
+Regression 12
+Regression 13
+Regression 14
+Regression 15
+
+Regression 16
+Regression 17
+Regression 18
+Regression 19
+Regression 20
+
+“This table summarizes results of twenty regressions
+Statistically significant at the 0 001 level
+‘Statisucally significant at the 0.01 level
+
+Dependent Variables
+
+Cardiovascular Mort Rate
+Trauma Mort Rate
+
+NMEI Mort Rate
+
+Resp Mort Rate
+
+Cancer Mort Rate
+
+Cardiovascular Mort Rate
+Trauma Mort Rate
+NMEI Mort Rate
+
+Resp Mort Rate
+
+Cancer Mort Rate
+
+Cardiovascular Mort Rate
+Trauma Mort Rate
+NMEI Mort Rate
+
+Resp Mort Rate
+
+Cancer Mort Rate
+
+Cardiovascular Mort Rate
+Trauma Mort Rate
+NMEI Mort Rate
+
+Resp Mort Rate
+
+Cancer Mort Rate
+
+ 
+
+Urbanization
+
+1985
+1019
+3.479%
+1957
+24516
+
+Secondary
+Education
+
+—0 489
+0873
+—0 150
+0914
+-0921
+
+Crowding
+
+—3 964?
+0 676
+
+—2 0575
+0 221
+
+—6 623°
+
+Public
+Investment
+
+2 100°
+
+Chg 50-70
+
+—1 238
+—1725
+—0 541
+
+1 225
+—-0 542
+
+Indigenous
+Language
+
+—0 456
+—1419
+0 346
+0534
+—1501
+
+Housing with
+No Electricity
+
+0.399
+0.022
+0275
+—1 240
+0.057
+
+Corporation
+Value
+
+—1312
+—2 075°
+—1 839
+
+TABLE 4
+
+Marriage
+
+—0 669
+0581
+—2 622°
+~1079
+-0577
+
+Prof /Tech /
+Mer Occup
+
+3 033°
+—1 982
+
+1 698
+-0 584
+
+3 638°
+
+Hospitals
+
+—1578
+—0 155
+-0 540
+-0 547
+~0 858
+
+Value of New
+Mortgages
+
+2913°
+
+3 334°
+
+Independent Variables
+
+DEMOGRAPHIC
+
+Divorce
+
+3 102°
+1081
+0 440
+—1 874
+3 183°
+
+SOCIO CULTURAL STATUS
+
+Non Catholic
+Religion
+
+—0 324
+
+—0 746
+1 687
+2 074°
+
+—0 495
+
+HoustNG/HEALTH/CRIME
+
+Penal
+Sentences
+
+1079
+0 889
+—0 406
+—0315
+—0 278
+
+ECONOMIC PROSPERITY
+
+Taxes and Underem
+Duties ployment
+—1 587 2919
+—1 630
+—-1919
+2 323° 1 456
+
+Each regression has four independent variables entered (see text)
+
+ 
+
+Manuf
+Workforce
+
+15il
+
+3 419°
+4477
+
+SUMMARY TABLE OF RESULTS FOR TWENTY REGRESSION ANALYSES TO ESTIMATE CAUSES OF DEATH?
+
+Pers Svices
+Workforce
+
+1 189
+
+-1612
+
+Telephones
+
+~1077
+2 423°
+
+4 564°
+
+MODEL FIT
+R? F
+0 402 6 2915
+0121 0.932%
+0 408 4 642°
+0113 1.990
+0 464 77128
+0312 4 514°
+0 184 1 523
+0 222 3 210°
+0098 1 846
+0 437 7927°
+0 460 7 603°
+—0 102 0 282
+0 188 1 567
+—0070 0495
+0655 157112
+0 409 6 372°
+0 323 4 705°
+0477 8 057°
+0536 7 799°
+0570 11 258°
+
+por
+
+saying pure ytd
+
+Asojorg [e1D0g
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+Vol. 45, No. 3-4
+
+effect of manufacturing workforce, a direct effect of telephones, and an inverse
+effect with corporation value. Corporation value directly reflects the economic
+prosperity of a state and supports the benefits to NMEI disease of improved standard of living.
+
+4. Respiratory—For respiratory, only
+the Economic Group is significant overall.
+Within this group, only manufacturing
+workforce is significant as an individual
+factor, a result that is explained similarly
+to that for the stepwise regression.
+
+The paucity of group results for respiratory is surprising, since the stepwise result was strong, having four significant
+associations. This finding implies that for
+respiratory, there are combined influences
+of attributes across several attribute
+groups. In other words, respiratory effects act synergistically between groups
+rather than within groups.
+
+5. Cancer—For cancer, all groups reveal significant associations, pointing to
+strong and broad socioeconomic linkages. The individual effects within the
+Demographic Group are divorce and urbanization. More urbanized areas tend to
+have greater environmental degradation,
+which is associated with enhanced cancer
+risk (Henderson et al., 1991). The SCS
+Group has a single significant association, professional/technical/managerial
+occupation, which is opposite to the usually cited effect in U.S.-based research
+studies that higher SCS leads to reduced
+cancer mortality. This finding for Mexico, however, highlights the heightened
+cancer mortality in more advanced regions of the nation. An intermediate explanation may relate to increased environmental pollution, and worsened diet,
+1.e., diets with higher content of fat and
+carcinogens (Henderson et al., 1991). For
+
+Causes of Death
+
+165
+
+the HHC Group, the only individual association is an opposite one with crowding,
+an effect already noted for the stepwise
+results. The Economic Group has positive
+associations with telephones, value of
+mortgages, and taxes and duties collected. These influences point to the
+detrimental influence of economic prosperity on cancer mortality. Poorer areas’
+lowered risk of cancer mortality (see Figure 1) is not surprising given their improved diets and lowered environmental
+contamination.
+
+Comparing the four groups on overall
+statistical significance of the regressions
+(see Table 4), the Economic Group has
+the highest overall model fits, explaining
+between one-third and sixty per cent of rsquare. The other three groups reveal less
+and roughly equal overall model fits, explaining between one-tenth and sixty-five
+per cent of r-square. In particular, these
+groups are weak and have nonsignificant
+model fits in explaining trauma and respiratory causes of death.
+
+DISCUSSION
+
+The research results point to strong
+socioeconomic influences on cause-specific mortality in Mexico. The most important cause-specific effects are due to
+crowding, housing characteristics, marriage and divorce, and manufacturing
+workforce. The prominence of these attributes may be better understood by considering Mexican society. Crowding has
+different connotations in Mexico than in
+the United States. In Mexico, crowding is
+strongly inversely associated with urbanization. The most metropolitan states are
+those with the least household crowding,
+while very rural areas have increased
+household crowding. As a consequence,
+ 
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+ 
+
+ 
+
+crowding becomes an inverse proxy variable for urbanization, and the interpretations of crowding effects become more
+understandable and more keyed to the
+mortality literature. For instance, crowding’s reduced effects on cardiovascular
+and cancer mortality may be re-stated as
+urbanization’s increasing effects. This explanation is plausible, since many epidemiological studies link environmental
+degradation and diet with both causes of
+death. In Mexico, the urbanized states
+have amplified environmental degradation, since strong environmental regulations have heretofore been only weakly
+enforced. Likewise, the diet in Mexico’s
+metropolitan areas is much fattier and
+more meat-based, factors linked to both
+cancer and cardiovascular disease (Henderson et al., 1991; Black, 1992).
+
+Poor housing characteristics have
+greater mortality impact in Mexico than in
+the United States. First, because Mexico is
+a developing nation and still has substantial infectious diseases, housing attributes
+such as lack of running water may be directly linked to the spread of disease,
+whereas this is rarely true today in the
+United States. Second, housing characteristics are correlated to SCS. Hence, they
+may be serving as proxies for SCS, although some directionality of SCS effects
+may be different from the mortality literature, largely based on advanced nations.
+
+Marriage and divorce are well-known
+factors from the mortality literature that
+influence disease and mortality (Gove,
+1973; Kisker and Goldman, 1987; Hu
+and Goldman, 1990; Rahman 1993). The
+underlying reason is that marriage fosters
+caring for the health of family members,
+while divorce and single status tend to reduce such caring and lower overall
+health. The marriage/divorce factors may
+
+ 
+
+Pick and Butler
+
+Social Biology
+
+be even greater in Mexico, since marriage
+is a stronger social norm in Mexico than
+in the United States, and divorce is still
+socially proscribed in Mexico. The wellknown family structure effects may be
+amplified in Mexico compared to many
+advanced nations.
+
+The prominent effect of manufacturing
+workforce is helped by lowered environmental enforcement in Mexico. Hence,
+the environmental degradation caused by
+manufacturing is amplified in Mexico versus the United States. Uncontrolled plant
+emissions in Mexico’s largest cities is an
+indication of this problem, although some
+of the worst cases in Mexico City have recently been ameliorated (Pick and Butler,
+1997).
+
+The hypotheses of group effects are
+only partially validated by the research
+findings. The extent of validation may be
+summarized as follows.
+
+I. Demographic.—The hypotheses on
+marriage and divorce are validated. The
+results on demographic indicators of an
+advanced society are partly confirmed
+and partly refuted. For instance, there are
+neutral effects from urbanization instead
+of the positive effects hypothesized. The
+reason is that some cause-specific mortality, specifically cardiovascular, respiratory, and cancer, are neutral or reduced in
+rural areas, due to particular features of a
+developing nation.
+
+II. Socio-cultural Status (SCS).—In
+Mexico, higher socio-cultural status generally tends to increase cause-specific
+mortality, rather than reduce it as hypothesized. This hypothesis is validated for
+the causes of trauma, respiratory, and
+cancer. No influences are noted for either
+indigenous language or religion. The lack
+of effect of indigenous language stands in
+sharp contrast to the United States where
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+ 
+
+Vol. 45, No. 3-4
+
+black-white differences in mortality level
+and causation have been strongly documented (Pick, 1977; Manton et al., 1987;
+Otten et al., 1990; Behrman et al., 1991;
+Preston and Haines, 1991). One explanation for the lessened ethnic differences in
+Mexican death causation is that the economic advantages of mestizo, i.e., nonindigenous, status may be offset by less
+healthy diet and greater exposure to environmental degradation and stress.
+
+Ill. Housing/Health/Crime (HHC).—
+The hypothesis that better housing improves mortality rates for all causes is not
+supported. In particular, low crowding is
+associated with higher cause-specific
+mortality for cancer, cardiovascular, and
+NMEI.
+
+IV. Economic Prosperity—The hypotheses have mixed results. The postulated positive effects of economic prosperity are validated for trauma, mixed for
+NMEI and respiratory, and refuted for cardiovascular and cancer. This finding points
+to economic prosperity being a complex
+factor. For some death causes, it serves to
+build and enhance health services and facilities; for others, these advantages are
+overwhelmed by the detriments of more
+environmental degradation, less healthy
+diets, and other adverse changes to
+lifestyle.
+
+In terms of epidemiological transition
+theory, the biggest surprise is the theoretically opposite findings for various indicators of economic prosperity for chronic
+illness categories. Instead of rising standards of living lowering cancer and heart
+deaths, they contribute to raising them.
+For respiratory and NMEI categories,
+there are adverse effects from manufacturing workforce. Transition theory
+would favor manufacturing as a reflection
+of economic productivity, but this may be
+
+Causes of Death
+
+167
+
+overshadowed by the detrimental environmental effects of this sector in Mexico. On the other hand, the trauma category is fully in concert with transition
+theory. For the socio-cultural group, the
+effects are opposite of those expected
+from transition theory for chronic categories, with higher professional occupational status increasing chronic mortality,
+although respiratory findings are in the
+expected direction. For the housing/
+health/crime group, there is lack of confirmation of the theory, in particular, the
+hypothesis of beneficial effects from improved housing is refuted for cancer, cardiovascular, and NMEI. The SCS and
+HHC results for chronic diseases indicate that these disease categories are more
+favorable in states with lower average
+social status and poorer quality housing.
+Although opposite to transition theory,
+these results may be due to the reduced
+long-term susceptibility of poorer, less
+well-housed populations to these major
+chronic diseases due to improved diet,
+external environmental conditions, and
+lifestyle. The demographic group is not
+relevant to this theory, as mentioned
+earlier.
+
+Overall, the theory is not supported
+from the standpoint of this particular
+study in Mexico in 1990. Part of the reason may be that present-day Mexico has
+some unique factors that overwhelm ordinary theoretic considerations. In particular, factors associated with cities and urban areas, places with higher social and
+economic status, are linked to adverse air
+pollution, other environmental impacts,
+urban stresses, less favorable diet for
+chronic disease categories, and other adverse impacts. The theory may have applied better earlier in the century during
+the earlier history of mortality transition,
+
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+168
+
+or presently by enlarging the attribute
+scope of empirical studies.
+
+Future studies might be enhanced by
+adding factors for the hybristic stage, i.e.,
+behavioral and life-style attributes not
+available in Mexico for this study. For
+respiratory death, the particular influence
+in Mexico of air pollution as seen through
+spatial analysis and evident among other
+things from Mexico City’s status as the
+world’s most air-polluted major city
+(Lacy, 1993; Pick and Butler, 1997) may
+call for inclusion of specific air-contamination variables not generic to epidemiologic transition theory as well as other environmental variables. For instance, state
+air pollution attributes would be valuable,
+but are currently unavailable from the
+Mexican government.
+
+CONCLUSIONS
+
+Mexican mortality dropped substantially since the mid-twentieth century. In
+the latter half of the century, it has been
+overshadowed by fertility and migration
+as demographic components of change.
+However, as fertility continues to drop
+and the Mexican population ages, mortality will become a more important population change factor (Ham, 1995).
+
+The present research has the goal of examining the influences of socioeconomic
+factors on standardized cause-specific
+mortality. The data are drawn from Mexican government sources, mostly from the
+Mexican census of 1990. The study utilized GIS and statistical methods, principally regression analysis, to describe the
+geographic patterns of cause-specific mortality and to construct models to test hypotheses regarding the effects of socioeconomic factors. These factors are divided
+into four groups—demographic, socio
+Pick and Butler
+
+ 
+
+Social Biology
+
+cultural status, housing/health/crime, and
+economic prosperity.
+
+The major results of the study are the
+following:
+
+1. The principal causes of death have
+very distinctive geographical patterns,
+with cardiovascular, NMEI, and cancer
+mortality higher in the more advanced
+parts of the nation, in particular, the border region and major metropolitan states.
+The patterns for trauma and respiratory
+mortality are more complicated and are
+not explained by simple urban or SCS
+gradients.
+
+2. Hypotheses were established for effects from the major groups of socioeconomic effects, based on epidemiologic
+transition theory and mortality literature,
+as well as Mexican-specific factors.
+
+3. The hypotheses were tested through
+use of correlation and regression analyses, combining stepwise and fixed entry
+of variables.
+
+4. Results revealed significant effects
+for all causes of death. In a separate set of
+regressions for each group of independent
+variables, most results were significant,
+especially for cardiovascular, NMEI, and
+cancer mortality. For trauma and respiratory mortality, only the economic group
+regressions were significant.
+
+5. Overall, the most important predictors of cause-specific mortality were
+crowding, housing characteristics, marriage and divorce, and manufacturing
+workforce. These predictors are not predominantly SCS or economic factors, as
+often pointed to in the mortality literature, but rather other types.
+
+6. The hypothesized effects are only
+partially validated. In particular, for the
+Demographic Group, marriage/divorce
+effects were validated, but the other effects are mixed. For the SCS Group, SCS
+
+ 
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+Vol. 45, No. 3-4
+
+factors tend to increase cause-specific
+mortality, rather than reduce it as hypothesized. No influences are noted for indigenous language or religion. For the
+Housing/Health/Crime Group, the hypothesis of housing’s positive influence
+for all five causes was refuted for cancer,
+cardiovascular, and NMEI, with no effects present for the other two causes. For
+Economic Prosperity, there were mixed
+results. The expected direct effects of
+economic prosperity were confirmed for
+trauma, mixed for NMEI and respiratory,
+and refuted for cardiovascular and cancer.
+The implication is that economic prosperity must be viewed as a more complicated mortality factor than it seems at
+face value.
+
+7. The theoretic framework of epidemiologic transition theory 1s not well
+supported for this particular study for
+Mexico in 1990. Although the study results indicated high statistical importance
+for economic or standard of living influences, the directions of effects are mostly
+opposite to those postulated in transition
+theory, especially for chronic causes of
+
+Causes of Death
+
+169
+
+death. For the variable group of sociocultural, the directions of effects are
+mostly opposite to those postulated in
+transition theory, especially for chronic
+causes of death. For the variable group of
+socio-cultural, the direction of effect for
+chronic diseases is opposite to the theory,
+although respiratory conforms to it. For
+the housing, health, and crime group, the
+effects are theoretically opposite for cancer, cardiovascular, and NMEI.
+
+8. Future studies of influences on
+causes of death at the state level may
+benefit by enhanced state-level data for
+hybristic influences and for air pollution,
+which is a specific feature of contemporary urban Mexico. The Stage 4 factors
+may help to provide greater support for
+epidemiologic transition theory.
+
+9. Generally, many preconceptions
+about Mexican cause of death influences
+have to be altered. The reason is that
+Mexico is a unique developing nation and
+diverges from some accepted theory and
+empirical results that have been mostly
+based on advanced countries such as the
+United States.
+
+REFERENCES
+
+ARRIAGA, E E 1988 Problemas relacionados con
+la medicién de la mortalidad, p 143-164 InM
+Bronfman and J Gomez de Leon (eds), La
+mortalidad en Mexico Niveles, tendencras y determinantes El] Colegio de Mexico, Mexico,
+DF
+
+ 
+
+1992 Comparacién de la mortalidad en las
+Américas Estud Demogr Urbanos 72(2/3)
+407-449
+
+BAH, S M 1995 Indirect estimation of cause of
+death structure in Africa and contemporary theories of mortality Soc Biol 42(3-4) 247-255
+
+BASSETT, M T, and N. KRIEGER. 1986 Social class
+and black-white differences in breast cancer survival Amer J Publ Hlth 76(12) 1400-1403
+
+BEHRMAN, J, R= SIcKLES, P TAUBMAN, and A
+YAZBECK 1991 Black-white mortality mnequalitres J Econ 50:183-204
+
+Biack, H R 1992 Cardiovascular risk factors, p
+23-35 InB L Zaret,M Moser, andL S Cohen (eds ), Yale University School of Medicine
+heart book, edited by Barry L Zaret, Marvin
+Moser, and Lawrence S Cohen Hearst Books,
+New York
+
+BRONFMAN, M, and J Gomez DE LEON 1988 La
+mortalidad en México Niveles, tendencias y determinantes El Colegio de México, Mexico,
+DFE
+
+BrucH, H A,S B HARMAN, and J SANCHEZ-CREspo 1980 The health and vital statistics systems in Mexico Chapter 2 in DHHS Pub No
+(PHS)81-1353 National Center for Health Statistics, Hyattsville, MD
+
+CAMPOSORTEGA Cruz, S 1988 E] nivel y la estructura de la mortalidad en México, 1940-1980, p
+205-268 In M Bronfman and J Gomez de
+Downloaded by [University of Michigan] at 13:48 08 December 2015
+
+170
+
+Leon (eds ), La mortalidad en México Niveles,
+tendencias y determinantes El Colegio de Mex1co, Mexico D F
+
+1989a La evolucién de la mortalidad en
+
+Mexico, 1940-1980 Estud Demogr Urbanos
+
+4(2) 229-264
+
+1989b Mortalidad en Mexico Algunas
+consideraciones sobre los diferenciales urbanoturales Estud Demogr Urbanos 4(3) 573-593
+
+CENTRO DE EstTupios Economicos y DEMOGRAFIcos 1970 Dinamica de la Poblacién de México El Colegto de Mexico, Mexico, D F
+
+ESRI 1996 Atlas Pro Environmental Systems Research Institute, Redlands, California
+
+FELDMAN, J J, D M Makuc, J C KLEINMAN, and
+J CORONONI-HUNTLEY 1989 National trends in
+educational differentials in mortality Amer J
+Epidem 129(5) 919-933
+
+FERNANDEZ, R 1983 Cuales son realmente las principales causas de defuncron de México Revista
+Salud Publica Mexico 25(3)
+
+GaRCIA Y GARMA, I O 1988 Fuentes de datos y
+tratamrento de la informaci6n en el andlisis de la
+mortalidad, p 71-89 In M Bronfman and J
+Gomez de Leon (eds ), La mortalidad en México Niveles, tendencias y determinantes, El
+Colegio de Mexico, Mexico D F
+
+GARZA, G, and F ARAGON 1995 La contaminacié6n
+atmosferica de la crudad de México en escala
+megalopolitana Estud Demogr Urbanos 10(1)
+35-65
+
+Gove, W 1973 Sex, marital status, and mortality
+Amer J Soc 79(1) 45-67
+
+GuzMAN, J M 1989 Trends 1n socio-economic differentrals in infant mortality in selected Latin
+American countries, p 131-144 In L Ruzicka,
+G Wunsch, and P Kaned (eds ), Different:al
+mortality Methodological issues and biosocial
+factors Clarendon Press, Oxford
+
+HaM CHANDE, R 1995 Epidemiologia del envejecimrento Una fase mas de la transic16n demografica Estud Demogr Urbanos 10(3) 687-705
+
+HENDERSON, B E,R K Ross, and M PIKE 1991
+Toward the primary prevention of cancer Science 254(5035) 1131-1138
+
+Hu, Y, and N GoLpMAN 1990 Mortality differentials by mantal status An international companson Demography 27:233—250
+
+INEGI 1991-92 Anuarto estadistico de los estados
+unidos mexicanos Instituto Nacional de Estadistica, Geografia, e Informatica Aguascalientes, Mexico
+
+1992 XI censo general de poblacion y
+
+vivienda Perfil sociodemografico Instituto Na
+cional de Estadistica, Geografia, e Informatica
+
+Aguascalrentes, Mexico
+
+1997 Personal communication with Direcci6n de Estadisticas Demograficas y Sociales,
+INEGI, Aguascalientes, November 14
+
+JIMENEZ ORNELAS, R A 1995 La desigualdad de la
+mortalidad en Mexico Tablas de mortalidad
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pick and Butler
+
+Social Biology
+
+para la Republica Mexicana y sus entidades
+federativas 1990 Universidad Nacional Autonoma de Mexico, Centro Regional de Investigaciones Multidisciplinarias, Cuernavaca, Morelos
+
+Keit, J E,S E SutTHeRLAND, R G Knapp, and H
+A TYROLER 1992 Does equal socioeconomic
+status in black and white men mean equal msk
+of mortality? Amer J Publ Hith 82(8) 11331136
+
+KEYFITZ, N, and W FLiecGeR 1971 Population
+Facts and methods of demography W H Freeman and Sons, San Francisco
+
+Kirk, D 1996 Demographic transition theory Pop
+Stud 50:361-387
+
+KISKER, E, and N GOLDMAN 1987 Perils of single
+life and benefits of marnage Soc Biol 34(34) 135
+
+Kitacawa, E M, and P M Hauser 1973 Differential mortality in the United States A study in
+socioeconomic epidemiology Harvard Univ
+Press, Cambridge, MA
+
+Lacy, R 1993 La calidad del are en el valle de
+México El Colegio de Mexico, Mexico, D F
+
+LILLARD, L E, and C WA Panis 1996 Manttal
+status and mortality The role of health Demography 33(3) 313-327
+
+MANTON, K G,C H Patrick, and K W Jonson
+1987 Health differentials between blacks and
+whites Recent trends in mortality Milbank
+Quart 65(1) 129-199
+
+Moyarro, O, and L Nunez 1981 La mortalidad
+infants] y condiciones socioeconémicas en México, 1975 Instituto Mexicana del Seguro Socral,
+Mexico, unpublished ms
+
+MuTCHLER, J E, and J A Burr 1991 Racial
+differences in health and health care service
+utrlization in later life The effect of socioeconomic status J Hith Soc Behav 32:342356
+
+Nam, C B 1994 Understanding population change
+F E Peacock Publishers, Itasca, IL
+
+NATIONAL CENTER FOR HEALTH STATISTICS 1993
+Advance report of final mortality statistics,
+1990 Monthly Vital Statistics Report 41(7)
+Supplement US Public Health Service, Hyattsville, MD
+
+OurAN, A R 1977 Epidemiologic transition in the
+United States The health factor in population
+change Pop Bull 32(2) 3-42
+
+1982 Epidemiological transition /n International encyclopedia of population Collier
+MacMillan Publishers, New York
+
+OrTenN, JR, M W, S M_ Teutscu, D F
+WILLIAMSON, and J S Marks 1990 The effect
+of known risk factors on the excess mortality of
+black adults in the United States J Amer Med
+Assoc 263(6) 845-850
+
+Pace, W F, and A J Kunz 1980 Racial and socroeconomic factors mn cancer survival Cancer
+45(5) 1029-1040
+
+ 
+
+ 
+
+ 
+—|
+=
+©
+N
+~
+oO
+=
+oO
+oO
+oO
+Q
+Co
+©
+Co
+v.
+oN
+=
+—
+CS
+‘SS
+Ss
+OQ
+—
+oo
+O
+5
+Cd
+©
+>>
+—
+=
+N
+~
+oO
+>
+=
+c
+~.
+ra
+Oo
+vo
+oO
+vO
+SC
+©
+—
+c
+S
+©
+a
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vol. 45, No. 3-4
+
+PEREZ ASTORGA, J. 1980. Mortalidad por causas en
+México para el periodo 1960-1975. Revista de
+Estadistica y Geografia 1(4). Secretaria de Programacion y Presupuesto, Mexico, D.F.
+
+. 1988. Mortalidad por causas en México,
+1950-1980, p. 307-327. In M. Bronfman and J.
+Gomez de Leon (eds.), La mortalidad en México: Niveles, tendencias y determinantes, El
+Colegio de México, Mexico, D.F.
+
+Pick, J. B. 1977. Correlates of fertility and mortality in low-migration standard metropolitan statistical areas. Soc. Biol. 24(1):69-83.
+
+Pick, J. B., G. L. Teiis, and E. W. BUTLER. 1989.
+Fertility determinants in the oil region of Mexico. Soc. Biol. 36(1—2):45-66.
+
+Pick, J. B., E. W. BUTLER, and E. LANZER. 1989. Atlas of Mexico. Westview Press, Boulder, CO.
+Pick, J. B., and E. W. BuTLer. 1990. Socioeconomic inequality in the U.S.-Mexico borderlands: Modernization and buffering. Frontera
+
+Norte 2(3):31-62.
+
+. 1994, The Mexico handbook. Westview
+
+Press, Boulder, CO.
+
+. 1997. Mexico megacity. Westview Press/
+Harper Collins, Boulder, CO.
+
+POPULATION REFERENCE BUREAU. 1993. World Population Data Sheet. Population Reference Bureau, Washington, D.C.
+
+PRESTON, S. H. 1975. The changing relation between mortality and level of economic development. Pop. Stud. 29(2):231-248.
+
+PRESTON, S. H., and P. TAUBMAN. 1994. Socioeconomic differences in adult mortality and health
+status, p. 279-318. In L. G. Martin and S. H.
+Preston (eds.), Demography of aging. National
+Academy Press, Washington, D.C.
+
+Causes of Death
+
+171
+
+RABELL, C., M. MIER Y TERAN. 1986. El descenso
+de la mortalidad en México de 1940 a 1980. Estud. Demogr. Urbanos 1(1):39-72.
+
+RAHMAN, O. 1993. Excess mortality for the nonmarried in rural Bangladesh. Internat. Epidem.
+22:445-456.
+
+ROCKETT, I. R. H. 1994. Population and health: An
+introduction to epidemiology. Population Reference Bureau Inc., Washington, D.C.
+
+Rocers, R. G., and R. HACKENBERG. 1987. Extending epidemiologic transition theory: A new
+stage. Soc. Biol. 34(3-4):234-243.
+
+SANCHEZ, R. A. 1990. Contaminacién industrial en
+la frontera norte: Algunas consideraciones para
+la decada de los noventa. Estud. Soc.
+8(23):305-330.
+
+SPP. 1982-84. X Censo General de Poblacién y
+Vivienda, 1980. Various volumes. Secretaria de
+Programacién y Presupuesto, Mexico, D.F.
+
+. 1983. Anuario estadistico de los estados
+unidos mexicanos. Secretaria de Programaci6én
+y Presupuesto, Mexico, D.F.
+
+SPSS, INc. 1995. SPSS Reference Guide. SPSS
+Inc., Chicago.
+
+UNITED STATES PRESIDENT, EXECUTIVE OFFICE OF
+THE. 1993. The North American Free Trade
+Agreement. Report on environmental issues.
+U.S. Government Printing Office, Washington,
+D.C.
+
+WILLIAMS, D. R. 1990. Socioeconomic differentials
+in health: A review and redirection. Soc. Psych.
+Quart. 53(2):81-99.
+
+Zick, C. D., and K. R. SMITH, 1991, Marital transitions, poverty, and gender differences in mortality. J. Marr. Fam. 53:327-336.
+
+ 
+
+ 
+

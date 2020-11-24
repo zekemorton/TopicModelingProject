@@ -1,0 +1,2659 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ 
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+A benefit-cost analysis of amniocentesis
+
+Ralph L. Andreano & Daniel W. McCollum
+
+To cite this article: Raloh L. Andreano & Daniel W. McCollum (1983) A benefit#cost analysis of
+amniocentesis, Social Biology, 30:4, 347-373, DOI: 10.1080/19485565.1983.9988550
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1983.9988550
+
+fe Published online: 23 Aug 2010.
+
+ee
+(g Submit your article to this journal @
+all Article views: 3
+
+»
+Q View related articles @
+
+wa Citing articles: 2 View citing articles @
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:39
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+A Benefit-Cost Analysis of Amniocentesis
+
+ 
+
+Ralph L. Andreano and Daniel W. McCollum
+
+Department of Economics,
+University of Wisconsin,
+Madison, Wisconsin
+
+ABSTRACT; This study applies benefit-cost analysis to one area of prenatal diagnosis—
+amniocentesis. The ultimate purpose of such a study is to provide useful guidelines to policy
+makers. An attempt is made to exhaustively list benefits and costs, whether measurable or not.
+Those which can be quantified are estimated. On the basis of these benefit-cost estimates, the
+study concludes that a program of amniocentesis for all pregnant women beyond age 32 would
+be warranted. This economic analysis, however, is only one aspect of a policy decision. Moral,
+legal, and ethical questions must also be considered.
+
+Amniocentesis is a process whereby
+fluid is withdrawn from the amniotic sac
+surrounding a developing fetus by inserting a needle into the uterus. The am
+niotic fluid is composed of water and a '
+
+large array of solutes. Suspended in the
+fluid are a number of intact cells together with cell debris and metabolic byproducts of the developing fetus. For
+prenatal diagnosis, both the cells and
+the soluble constituents are of interest.
+The amniotic fluid and cell cultures derived from it are used to look at the chromosomal karyotype as well as to look
+for various compounds indicating the
+presence or absence of certain characteristics (such as monitoring levels of alphafetoprotein in looking for neural
+tube defects) or defects in certain metabolic processes (such as the breakdown
+of a particular amino acid). The amniotic fluid can also be used to assess,
+more accurately, the degree of development of the fetus, or fetal maturity.
+This study is an attempt to advance
+the state of the art in benefit-cost analysis aS applied to the area of prenatal
+
+diagnosis—in particular, amniocentesis.
+A few analyses have been set forth in the
+medical literature, none of which, in the
+opinion of the authors, presents a complete enough picture (Glass, 1975; Hagard and Carter, 1976; Hook, 1979;
+Stein et al., 1973). Our intention is to set
+out an exhaustive list of benefits and
+costs. Some of them it will be possible to
+measure accurately; others can be estimated utilizing some plausible assumptions. Some of the benefits and costs,
+while not estimable in terms of numerical value, can reasonably be signed so as
+to provide useful, though nonquantifiable, information. Lastly, some benefits
+and costs can only be listed with no a
+priori indication of whether they will
+add to or subtract from net benefits. The
+ultimate purpose of such a study is to
+provide useful input to policy makers in
+deciding on future directions.
+
+This study takes as counterfactuals:
+(1) a state of the world with no amniocentesis or prenatal diagnosis, so all
+genetically-abnormal fetuses are allowed to be born, and (2) a state of the
+
+347
+
+ 
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+ 
+
+348 Andreano and McCollum
+
+world in which there is a program of amniocentesis, offered to all pregnant
+women beyond some cut-off age, following which abortions would be available to women whose test results indicate
+they are carrying a genetically-defective
+child.
+
+In performing an amniocentesis and
+its associated analyses, the tests usually
+performed are: an examination of the
+chromosomes to look for any chromosomal aberration (such as the absence of
+a chromosome or the presence of an extra one, as is the case for Down’s syndrome) and a measurement of the level
+of alphafetoprotein (AFP), which is
+used as an indication of the presence or
+absence of neural tube defects. If there
+is reason to suspect some other problem, such as an inborn error of metabolism (for example, Tay Sachs disease or
+PKU) because of family history or ethnic background, an additional search for
+diagnostic clues in the amniotic fluid is
+made. Because of the rarity of such inborn errors and the large number of possibilities, it is virtually impossible to test
+everyone for all of them. The “‘big”’
+anomalies are Down’s syndrome and
+the neural tube defects: anencephaly
+and spina bifida. While anencephaly is
+one of the more frequently occurring
+congenital anomalies, the data show
+that the overwhelming majority of infants born with anencephaly die perinatally (within about the first two weeks of
+life). The rest die by about the end of the
+fourth week of life (Chamberlain, 1978;
+Taffel, 1978). For this reason, in our calculation of benefits, we will look only at
+Down’s syndrome and spina bifida.
+
+We should stress, however, that
+many other anomalies will be detected
+through a program of amniocentesis.
+The chromosomal analysis will pick up
+virtually any recognizable chromosomal
+
+Social Biology
+
+aberration. Data compiled by Nevin
+(1982) show incidences of 2.1 per 1,000
+live births for sex chromosomal anomalies; 2.3 per 1,000 live births for structural chromosomal anomalies and 0.2
+per 1,000 live births for autosomal trisomies besides Down’s syndrome. Many
+of these cases would be detectable
+through a program of amniocentesis offered to women beyond some given age,
+as would inborn errors of metabolism
+sought out in specific cases. Hence our
+final benefit estimate will be a conservative One since we are counting benefits
+only for prevented Down’s syndrome
+and spina bifida births. This will be mentioned again later in the paper.
+
+INCIDENCE OF CONGENITAL
+ANOMALIES
+
+The incidence of congenital anomalies, in general, shows some interesting
+trends. Studies have looked at racial differences in incidence of congenital
+anomalies, where it seems no real consensus emerges as to the significance of
+the difference (Taffel, 1978). Some have
+looked at ethnic differences and sex differences as well as differences due to
+plurality (i.e., more than one infant
+born in the same delivery), birth order
+(first, second, or third child born to a
+mother) and socioeconomic status. The
+major differences, however, seem to be
+related to age of the mother and birth
+weight of the child (Taffel, 1978). The
+relevant incidence rates for this study
+(and, we would assert, the most relevant
+from a policymaking viewpoint) are
+those broken down by age of the
+mother.
+
+For congenital anomalies in general,
+the incidence rates initially decrease as
+the age of the mother increases, reaching a minimum in the 25-29 year age
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+Vol. 30, No. 4
+
+bracket, then rapidly increase as maternal age increases beyond 30. The most
+striking illustration of the relationship is
+Down’s syndrome, which shows a steadily increasing incidence with maternal
+age. Table 1 illustrates the relationship
+between maternal age and the incidence
+of Down’s syndrome. The incidence of
+this anomaly is 33 times as great for children born to mothers over age 40 than
+for those born to mothers aged 20-24
+years. Perhaps a better way to look at it
+is to notice that women aged 35 or over
+accounted for about 5 per cent of total
+live births but about 30 per cent of
+Down’s syndrome births. This relationship, as well as the ease of observation,
+provides the motivation for looking at
+an amniocentesis program with eligibility based on maternal age.
+
+BENEFITS OF A PROGRAM OF
+AMNIOCENTESIS
+
+Our objective in this study is to look
+at the amniocentesis program in terms
+of the resources which will be saved by
+
+Benefit-Cost Analysis of Amniocentesis
+
+349
+
+society as a result of the program. We
+therefore define as a benefit (or disbenefit) anything that comes under the
+heading of resources not consumed as a
+result of certain births being prevented.
+The benefits, defined in this manner,
+deal with the saved cost of raising a
+genetically-abnormal or developmentally disabled child (i.e., emanating
+from the affected child not being born),
+whereas costs will deal with the amniocentesis program itself (i.e., costs emanating more or less directly from the
+program). Since we are heading toward
+a net benefit calculation, the definition
+of costs and benefits is not critical, i.e., a
+cost is not distinguished. If we wanted to
+arrive at a benefit-cost ratio, this definition would be critical. Whether something was defined as a cost or a disbenefit would lead to a different result.
+The purpose of this section is to set
+out the benefits accruing from a program of amniocentesis and briefly explain or comment on them. There are
+three categories to consider: (1) direct
+benefits (or costs) are those which are
+
+TABLE 1
+
+INCIDENCE OF Down’s SYNDROME BY MATERNAL AGE
+(BASED ON U.S. Data For 1978 AND 1973-1974)
+
+Number of
+Maternal Age Live Births
+All Ages ............. 3,335,000
+Under 20 ............ 556,000
+D024. 0 cengeea wa BN os 1,140,000
+2529 Lee eee eee 1,015,000
+30-34 Lo... eee eee eee 474,000
+35-39 ec eee eee 126,000
+40andover .......... 24,000
+35andover .......... 150,000
+30 andover .......... 624,000
+
+Estimated Per Cent
+
+Per Cent Number of Of Total
+
+of Total Affected Affected
+Live Births Infants Infants
+
+100 1209.8 100
+
+16.7 97.3 8.0
+34.2 230.3 19.0
+30.4 299.4 24,7
+14.2 220.9 18.3
+3.8 201.0 16.6
+0.7 160.9 13.3
+4.5 361.9 29.9
+18.7 582.8 48.2
+
+Source: Live Births: Statistical Abstract of the United States. Incidence of Down's Syndrome: Taffel, Congenital Anomalies
+and Birth Injuries Among Live Births: United States, 1973-74
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+350 Andreano and McCollum
+
+Social Biology
+
+TABLE 2
+BENEFITS FROM AMNIOCENTESIS PROGRAM (SUMMARY)
+
+A. Direct and Indirect Benefits
+
+1. Saved cost of institutional care for mentally retarded or developmentally disabled persons.
+2. Saved cost of home care for mentally retarded or developmentally disabled persons not institu
+tionalized
+
+3. Saved cost of hospital and medical care for persons born with neural tube defects and other
+
+conditions requiring special medical care
+
+4. Saved cost of educating and training mentally retarded or developmentally disabled persons
+5. Saved cost to society of lost productivity of retarded or developmentally disabled persons
+6. No loss of parental income due to retarded or disabled child
+
+B. Intangible Benefits
+
+7. Relief of anxiety and reduction in uncertainty for parents
+8. Benefit to a family of not having a retarded or disabled child
+9. Better ability to prepare for the birth of a child under fetal distress because of better measure of
+
+fetal maturity
+
+10. Benefit from basic research and expanded knowledge due to further development of amniocen
+tesis
+
+11. Benefit to society of a decrease in the incidence of chromosomal abnormalities, neural tube
+
+defects, and other congenital anomalies
+
+current expenditures or savings, i.e.,
+tangible savings in the use of health resources or tangible costs; (2) indirect
+benefits (or costs) are those earnings
+lost, for whatever reason, such as due to
+a disability; and (3) intangible benefits
+(or costs) are those rather nebulous ones
+that really cannot be measured but
+should enter into consideration, such as
+reducing pain, discomfort, or grief. Table 2 summarizes the benefits described
+below.
+
+1. Saved cost of institutional care for mentally retarded or developmentally disabled
+persons. A substantial proportion of
+mental retardation is the result of Down’s
+syndrome, which would be greatly reduced under a program of amniocentesis
+and abortion of affected fetuses. Not all
+mental retardation is the same. It ranges
+from mild to profound with different degrees of developmental capability associated with each. Table 3 gives some developmental characteristics for each degree
+of retardation. While not all mentally retarded persons require institutional care,
+many do, as may some physically handicapped persons. To the extent that insti
+tutional care is desirable or necessary,
+there would be a savings in expensive institutional care if Down’s syndrome and
+other congenital anomalies were reduced. The amount of savings depends
+on the proportion of retarded and disabled persons who used to be institutionalized, the level of care required, and the
+age at which they are institutionalized.
+
+2. Saved cost of home care for mentally
+retarded or developmentally disabled persons not institutionalized. Many retarded
+persons are kept at home and cared for,
+at least part of their lives. There are likely
+to be costs of home care above and beyond those required for a nonretarded
+person. Developmentally disabled persons are also likely to require additional
+
+_ care at home. Special facilities might
+
+need to be installed. Therapists or other
+health care professionals might have to
+visit at some interval of time. To the extent that the incidence of retardation or
+developmental defects is reduced, these
+costs would be saved.
+
+3. Saved cost of hospital and medical care
+in cases of neural tube defects and other
+conditions requiring special medical care.
+The two main defects in this category are
+anencephaly (which consists of a markDownloaded by [University of Michigan] at 13:39 08 December 2015
+
+Vol. 30, No. 4
+
+Mild Can develop social and
+
+ 
+
+Benefit-Cost Analysis of Amniocentesis 351
+
+TABLE 3
+DEVELOPMENT CHARACTERISTICS OF MENTALLY RETARDED PERSONS
+
+~
+
+Degrees of
+Menta! Pre-School! Age 0-5
+Retardation Maturation & Development
+
+communication skill;
+minimal retardation in
+sensorimotor areas; often
+
+capacity for functioning in
+sensorimotor areas; needs
+nursing care.
+
+School Age 6-20
+Training & Education
+
+Can learn academic skills
+up to approximately sixth
+grade level by late teens.
+Can be guided toward
+
+present; may respond to
+minimal or limited training
+in self-help.
+
+ 
+
+ 
+
+Adult 21 and Over
+Social and
+Vocational Adequacy
+
+ 
+
+Can usually achieve social
+and vocational skills adequate to minimum selfsupport but may need
+
+not distinguished from social conformity. “Educa- guidance & assistance
+normal until later age. ble” when under unusual social
+or economic stress.
+
+Moderate Cantalk or learn to com- Can profit from trainingin | May achieve selfmunicate; poor social social & occupational maintenance in unskilled
+awareness; fair motor skills; unlikely to progress or semi-skilled work under
+development; profits from | beyond second grade level _ sheltered conditions; needs
+training inself-help;canbe in academic subjects; may supervision & guidance
+managed with moderate learn to travel alone in when under mild social or
+supervision familiar places. economic stress.
+
+Severe Poor motor development; Can talk or learn to com- May contribute partially to
+speech is minimal; gener- municate; can be trainedin —_ self-maintenance under
+ally unable to profit from elemental health habits; complete supervision; can
+training in self-help; little profits from systematic develop self-protection
+orne communication skills —_ habit training. skills to a minimal useful
+
+. fevel in controlled environment.
+
+Profound §Grossretardation; minimal Some motordevelopment | Some motor and speech
+
+development; may achieve
+very limited self-care;
+needs nursing care.
+
+ 
+
+Source: Yearbook of Special Education, 1977-78, Third Edition, p. 227. Marquis Academic Media, Marquis Who's Who,
+
+Inc., Chicago, 1977.
+
+edly defective development of the brain
+together with the absence of some of the
+bones in the cranial vault) and open spina
+bifida (a defect consisting of the absence
+of vertebral arches through which the spinal membrane, with or without spinal
+cord tissue, may protrude). Conditions
+such as these require extensive medical
+care. While the number of cases prevented through a program of amniocentesis would be relatively small, the cost
+saving in each case prevented would be
+relatively large.
+
+4. Saved cost of educating and training
+mentally retarded or developmentally disabled persons. These benefits are selfexplanatory. They would include costs of
+special schools, vocational programs,
+sheltered workshops and so forth. It
+
+should be noted that this represents the
+total cost of educating and training the retarded or developmentally disabled person and not merely the costs above and
+beyond educating and training a “normal” person.
+
+5. Saved cost to society of lost productivity
+of retarded or developmentally disabled
+persons. Persons who are retarded or developmentally disabled may work at a
+lower level of productivity than a nondisabled person, if they can do so at all. They
+still, however, consume. They must eat,
+be clothed, and consume other necessities. Society experiences a net drain when
+resources are consumed and not replaced
+with productive effort.
+
+6. Saved cost of loss of parental income
+due to a retarded or disabled child. When
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+352
+
+a retarded or disabled child is cared for at
+home, one of the parents is likely to feel
+that he or she cannot work or can only do
+so at a lesser level of time than he or she
+otherwise would, in order to stay at home
+and care for the child. The family loses income, and society loses some productive
+effort.
+
+7. Relief of anxiety and reduction in uncertainty. Expectant parents (and other
+people close to them) can be very anxious
+when they know there is an increased risk
+of having a retarded or disabled child, as
+would be the case when there is some history of abnormality in the family or when
+the mother is older. By being able to undergo amniocentesis and be relatively
+certain their child is “‘normal,”’ if the test
+results are negative, the parents avoid
+psychological stress.
+
+8. Benefit to a family of not having a retarded or disabled child. One would expect that, given the choice, parents would
+not choose to have a genetically abnormal
+or developmentally disabled child. From
+this, one can infer a higher level of utility
+for having a ‘normal’ child than a disabled one. It is less clear, however,
+whether having a disabled child yields
+more or less utility than having no child.
+This would likely affect different families
+differently. One must be somewhat careful because of the stories told by some
+parents of retarded or disabled children
+of the progress that can be made with
+proper training, how satisfying they
+found it to raise such a child, and the
+benefits they have received from the experience. These cases notwithstanding,
+the fact remains that many, if not most,
+Down’s syndrome children are severely
+retarded. They are not “simple beautiful
+people,” are not maintainable at home
+and, in many cases, are true human tragedies. On balance, we cannot be sure
+which way this part of the benefit will go.
+
+There could also be an effect on
+siblings of the disabled child. To the extent that more care or attention must be
+given to the disabled child, less may be
+given to other children in the family. This
+could lead to extra costs to the family
+(though we will define them as disbenefits), both direct and intangible. Par
+Andreano and McCollum
+
+Social Biology
+
+ents may put other children in a preschool, for example, to be able to give
+more attention to the disabled child. On
+an intangible level, the “normal” child
+may experience stress or some psychological disbenefit as a result of receiving less
+of the parents’ attention.
+
+9. Better ability to prepare for the birth of
+achild under fetal distress because of a better measure of fetal maturity. Fetal distress has a great deal to do with the timing
+and method of delivery. There is a sizeable group of infants whose chances for
+survival are enhanced by early intervention, frequently by Caesarean section,
+and for whom retention in the uterus and
+delivery through the birth canal can be
+hazardous. Selecting the optimal time for
+intervention is a problem and is dependent on the degree of fetal maturity. The
+major cause of fetal distress (affecting
+some 50,000 infants annually, about half
+of which die) is immaturity of the pulmonary function manifested as Respiratory
+Distress Syndrome (RDS). Maturity of
+the lung does not always coincide with
+other indices of maturation. However,
+measurement of phospholipids in amniotic fluid differs from other approaches to
+the estimation of fetal maturation in that
+it provides specific information about the
+lungs. The decision to intervene in the
+pregnancy often is not made until later in
+the pregnancy than the 16th to 18th week,
+when amniocentesis for prenatal diagnosis would be done. The existence of a
+widespread program of amniocentesis,
+however, and the necessary personnel
+and facilities to perform it, as well as a
+more universal acceptance and awareness of the procedure, could lead to better preparation and therefore reduced
+cost or reduced level of mortality or morbidity for those infants born under fetal
+distress.
+
+10. Benefits from basic research and expanded knowledge due to further development of amniocentesis. Amniocentesis
+and its associated chromosomal analyses
+could lead to advances in the field of genetics. Gene mapping ts one possible application of chromosomal research that
+could be advanced via the expanded use
+of amniocentesis. At some point in the fuDownloaded by [University of Michigan] at 13:39 08 December 2015
+
+Vol. 30, No. 4
+
+ture, intrauterine treatment of disease or
+errors in metabolism may be an option
+rather than termination of a pregnancy.
+There have already been instances where
+intrauterine treatment has taken place to
+remove blockages in the urinary tract and
+drain fluid from lungs or brain cavities of
+fetuses. In at least one case, a fetus was
+removed from the womb, operated on
+and returned to the womb ( Wisconsin
+State Journal, Nov. 16, 1981).
+
+11. Benefits to society of a decrease in the
+incidence of chromosomal abnormalities,
+neural tube defects, and other congenital
+anomalies. This is a difficult thing to think
+about. Certainly, society would be better
+off if these anomalies were decreased;
+but would society be better off if certain
+people, namely the retarded or developmentally disabled, were not born? Something seems inherently wrong about making such a claim on an individual level;
+but it seems reasonable to assume that,
+given the choice, society would not
+choose to have disabled children. Therefore, we would infer a benefit. The specific benefit here is more of a psychological nature. Society in general would be
+expected to gain utility just by knowing
+that the incidence rate of congenital
+anomaly is now lower than it had been
+previously.
+
+Benefit-Cost Analysis of Amniocentesis 353
+
+COSTS OF A PROGRAM OF
+AMNIOCENTESIS
+
+This section will detail the costs of a
+program of amniocentesis. As with
+benefits, there are three categories to
+consider: direct, indirect, and intangible. Table 4 summarizes the costs described below.
+
+1. Publicity to make the program known.
+Starting up a new program would entail
+costs in making people aware of the program, what the program is supposed to
+accomplish, who is eligible, and so forth.
+
+2. Administration of the program. Another necessary part of any public program is the administration. The machinery has to be set up to run the program
+and to make sure things proceed as they
+are supposed to.
+
+3. Genetic counseling. Along with amniocentesis, there is some counseling
+done with expectant parents. They must
+be told about amniocentesis procedures
+and what to expect. They must be informed about the risks of the procedure,
+however slight they may be. The options
+must be explained to them in case of a
+positive test. The meaning of test results
+must also be explained—what they tell
+
+TABLE 4
+Costs OF AMNIOCENTESIS PROGRAM (SUMMARY)
+
+A. Direct and Indirect Costs
+
+1. Publicity to make the program known
+2. Administration of the program
+3. Genetic counseling
+
+4. Hospital, physician, and laboratory costs associated with drawing and analyzing the amniotic
+
+fluid sample
+
+5. Associated care costs for abortion, etc., in case of a positive test
+6. Any additional facilities required for widespread program including hospital and laboratory
+
+facilities and personnel
+
+7. Time costs involved in women actually going through the amniocentesis procedure
+
+B. Intangible Costs
+
+Increased social cost of more older women having children because of decreased risk of bearing
+(by terminating the pregnancy) a genetically abnormal or developmentally disabled child
+9. “Mental anguish” of an abortion from a false positive test
+10. Possibility of parents “rejecting” an abnormal child allowed to be born as the result of a false
+
+negative test
+
+11. “Psychological” cost to those opposed to abortion from legitimized use of abortion with counseling and family planning, probably resulting in an increased use of abortion
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+354
+
+us, what they don’t tell us, and so forth.
+The cost here will be primarily labor,
+namely, the cost of the counselors.
+
+4, Hospital, physician, and laboratory
+costs associated with drawing and analyzing the amniotic fluid sample. These costs
+involve capital cost for the equipment
+necessary to draw and analyze the sample
+as well as for the ultrasound analysis to locate the fetus; but the main costs, again,
+are labor. Chromosomal analysis is a
+labor-intensive procedure. It involves
+someone actually looking at the chromosomes to see if there is some aberration
+present. Some of the biochemical analyses can be done by machine, but some of
+them also are done manually. Thus, labor
+is a large share of the laboratory cost as
+well as that of actually drawing the sample. Also included in this category would
+be any additional medical care required
+because of complications due to the amniocentesis procedure.
+
+5. Abortion and associated care costs in
+case of a positive test. One of the assumptions in amniocentesis is that should the
+test results be positive, indicating an abnormal child, the parents will elect to terminate the pregnancy through abortion.
+The costs included here would be for the
+abortion procedure and any associated
+care required, such as for any complications that might develop.
+
+6. Any additional facilities required for a
+widespread program, including: hospital
+and laboratory facilities and personnel. At
+present, the number of amniocenteses
+performed is relatively small. It is conceivable that additional facilities would
+have to be added or existing facilities expanded to handle the increased demand
+resulting from the implementation of a
+widespread program of amniocentesis.
+
+7. Time costs of women going through the
+amniocentesis program. There is a value
+attached to the time a woman would
+spend going through the amniocentesis
+that could be spent doing something else.
+Associated with this would be time spent
+in traveling to and from the place where
+the amniocentesis is performed as well as
+time actually spent at the site to draw the
+sample, receive counseling, etc.
+
+Andreano and McCollum
+
+Social Biology
+
+8. Special cost of more older women having children because of a decreased risk of
+bearing (by termination of the pregnancy) a genetically abnormal or developmentally disabled child. This is a rather
+vague category but would include the cost
+to society of an increased population.
+These costs, of course, would have to be
+net of any contributions made to societal
+welfare by the increased population. One
+would have to consider living costs and
+resources consumed by these extra people net of the benefits of having the extra
+workers (or cost of too many workers)
+and the presumably increased output of
+society, as well as extra congestion from
+those additional people. This could turn
+out to be a negative cost or in effect, a
+benefit.
+
+9. ‘‘Mental anguish” of an abortion from
+a false positive test. Though studies have
+found amniocentesis to be a highly accurate procedure—one study reports an accuracy rate of 99.4% (Lowe et al.,
+1978)—it seems inevitable that some mistakes will occur. Assuming this to be the
+case, there will be some cost incurred
+(largely psychological) by the people involved: family, physician, etc.
+
+10. Possibility of parents “rejecting” an
+abnormal child allowed to be born as a
+result of a false negative test. This cost is
+the mirror image of the previous one. If
+parents are “surprised” by the birth of an
+abnormal child when the amniocentesis
+test results had falsely assured them of a
+“normal” child, there could be problems.
+The parents might feel they are unfairly
+burdened by this child and harbor resentment toward the child. They might not
+care about the child and therefore not
+give it the proper care or attention.
+Whether or not the child was rejected,
+some cost would be incurred by the parents or others. Here again, there would
+be psychological costs to the parents, to
+the child—and, quite possibly, to others
+involved, such as the physician—in addition to real or direct costs of inadequate ©
+care to the child.
+
+11. Psychological costs to those opposed
+to abortion from legitimized use of abor
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+ 
+
+Vol. 30, No. 4
+
+tion with counseling and family planning,
+probably resulting in an increased use of
+abortion. Obviously, from the amount of
+debate in recent years, there are many
+people who are opposed to abortion.
+With a program of amniocentesis and the
+likely increased use of abortion that
+would accompany it, there would be a
+cost imposed on these people.
+
+THE MODEL
+
+The figure we want to arrive at in this
+study is an estimate of the net benefit to
+society of preventing children with
+Down’s syndrome and neural tube defects from being born. In order to arrive
+at this estimate, we look at the expected
+number of people born in a single year
+with the relevant birth defects and follow these people through their expected
+lives. We set out to estimate the net cost
+to society imposed by these people for
+each year of their life. These net costs
+are adjusted by the relevant survival
+rates at each year, then discounted back
+to some year zero—the beginning of the
+
+project. This net cost to society, which |
+
+would be saved if these people were not
+born, is what we call the benefits of a
+program of amniocentesis. These benefits are then compared to the cost of running the program (the fixed costs) and
+the cost per participant (the variable
+cost). The result is the net benefit of the
+amniocentesis program.
+
+The estimate of benefits is calculated
+as:
+
+B=)ng ad; +b:E;+4,C;—eY;+
+giPig Si(At+r)
+
+where B is benefits, / is institutionalization costs, E is education and training
+costs, C is personal consumption, Y is
+personal income, P is lost parental income, q is the expected number of abnormal births averted in a year, S is the
+
+Benefit-Cost Analysis of Amniocentesis
+
+355
+
+survival rate, and r is the discount rate.
+The lower case letters (a,b,d,e,g) are the
+proportions of people who fall into each
+benefit category for each year, i.e., a; is
+the percentage of the cohort under institutional care in year i, etc. The survival
+rate is zero at age 70, hence the summation for 70 years. I, E, C, and P are all
+paid out of society’s total bundle of resources to support the person in question over his or her lifetime. Y represents the person’s own contribution to
+that support, so it must be netted out of
+the benefit calculation. Looked at in
+these terms, we believe the logic is consistent. In the case of a “normal” person, one would expect the personal contribution to outweigh the resources used
+up in providing a lifetime of support. On
+balance, society gains resources as a
+result of that person being alive. In
+other cases, this is not necessarily so.
+The estimate of costs is calculated as:
+
+C=A+Tn+Kq
+
+where C is the total cost of the amniocentesis program for one year, assumed
+to be paid at year zero, the beginning of
+the program; A is the administrative
+cost of the program (which includes
+both the administration and publicity
+costs talked about earlier); T is the cost
+of the amniocentesis (which includes the
+genetic counseling, hospital, physician
+and laboratory costs associated with
+drawing and analyzing the fluid sample);
+n is the number of procedures performed in a given year, K is the cost of
+an abortion, and g is the number of positive tests expected (equal to the expected number of abnormal births
+averted in the benefit calculation).
+
+The estimate of net benefits of the
+amniocentesis program then is B—C.
+
+A couple of studies from the medical
+literature talk about what they term
+CY
+=
+©
+N
+mei
+oO
+=
+oO
+oO
+oO
+A
+Co
+©
+nN
+on
+om
+=
+—
+CS
+‘'S
+Ss
+oD
+=
+oo
+O
+=
+Ce
+©
+>>
+—
+=
+N
+mi
+oO
+>
+—
+c
+~.
+va
+Oo
+vo
+oO
+co
+CS
+©
+—
+c
+Ss
+©
+A
+
+356
+
+“the replacement case” (Hagard and
+Carter, 1976; Hock, 1979). This is the
+case where, upon receiving a positive
+test result and terminating the pregnancy, some proportion of women try
+again. Statistically, the chance of having
+two consecutive positive test results is
+even smaller. This will be the case
+whether or not the events are independent. The replacement case assumes a
+“normal” child is born the second time.
+The claim is that in calculating benefits,
+the final figure must be net of the cost of
+raising a ‘‘normal’’ child for those
+women who go on to have a “normal”
+child under the replacement case. We
+came to the conclusion that the replacement case is not a relevant consideration. Whether the child is replaced or
+not, the same resources are saved by society. In the case of a “norma!” child,
+society does not give up resources;
+rather, it would be expected to gain resources on balance. In a study such as
+this where gross benefits are the relevant
+consideration, i.e., resources saved by
+society by preventing the birth of disabled children rather than resources lost
+by those children being born disabled
+rather than “‘normal,”’ we feel the replacement case is not a relevant consideration. Hence, we will not include replacement versus nonreplacement in
+our calculations.
+
+Several assumptions are made in this
+analysis. First, with regard to institutional care, two levels of care are assumed: a high level of care, taken to bea
+complete-care institution, and a low
+level of care, taken to be a skilled-care
+nursing home. We assign people to a
+care facility based on the degree of their
+disability. Hagard and Carter (1976) cite
+estimates based on data collected in
+Scotland, that 20 per cent of children
+with Down’s syndrome have an IQ in
+
+Andreano and McCollum
+
+Social Biology
+
+the range of 50-69; 75 per cent, in the
+range 20-49; and the rest (5 per cent),
+below 20. Using these data, we assume
+that the 5 per cent with an IQ below 20
+and 5 per cent from the low end of the
+20-49 range go into the high level of institutional care. The rest go to the low
+level of care. Consistent with Hagard
+and Carter (and roughly consistent with
+assumptions made by Glass [1975]), we
+assume that 5 per cent of the Down’s
+syndrome cohort is institutionalized immediately. These would be those with
+the most severe level of retardation. At
+age 15, a total of 25 per cent of the cohort would be under institutional care
+(10 per cent at the high level and 15 per
+cent at the low level). Half of the
+Down’s syndrome cohort would be institutionalized by age 25, three-quarters
+by age 35, and all by age 45. These assumptions are based on medical information, and we see no reason to assume
+otherwise (Glass, 1975; Hagard and
+Carter, 1976). The increments to the institutionalized population are added at
+the ages specified rather than evenly
+over the period.
+
+In the area of education and training,
+we assume that the entire surviving cohort would be involved in education and
+training from the age of six through
+twenty. This assumption is consistent
+with classifications made in the Yearbook of Special Education when discussing developmental characteristics of
+mentally retarded persons. We assume
+20 per cent of the cohort (those in the
+50-69 IQ range) to be in the ‘‘educable”
+category for education and training.
+Those persons institutionalized at the
+high level of care, over the relevant time
+period, are educated/trained at the institution. The remainder of the cohort is
+assumed to be in the “trainable”’ cate
+gory.
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+ 
+
+Vol. 30, No. 4
+
+Following the period of education
+and training, it is assumed that all noninstitutionalized survivors are employed.
+We assume no overlap of the period of
+education and training and the period of
+employment, i.e., the people are in
+training through age 20, then become
+employed at age 21.
+
+In terms of lost parental income, we
+assume that the income lost is maternal
+income. Further, we assume that as a
+result of having mentally retarded or developmentally disabled children, mothers will enter the work force at half the
+participation rate observed for mothers
+of “normal” children.
+
+An assumption made in deriving the
+cost estimate for the amniocentesis program involves the number of women
+who are offered the procedure. The live
+birth statistics do not reflect the number
+of women who are pregnant at the time
+an amniocentesis would be offered, usually at the 16th to 18th week of gestation. There is some number of women
+who are pregnant at this time but for
+some reason do not give live birth; they
+may miscarry or have a stillbirth, for example. For this reason, we add the number of fetal deaths to the number of live
+births to derive an estimate of the number of women to whom an amniocentesis would be offered. Accurate statistics
+on fetal mortality are only available for
+20 weeks or more of gestation. The
+number of fetal deaths between weeks
+18 and 20, which we would ideally include in our estimate, would be a
+smaller number, so the available statistics can provide a good proxy for fetal
+deaths over the relevant period.
+
+Under the terms of the program we
+are looking at, all women who show positive results in the amniocentesis are offered an abortion to terminate the abnormal pregnancy. Even though the
+
+ 
+
+Benefit-Cost Analysis of Amniocentesis
+
+357
+
+pregnancy may later be terminated by
+miscarriage by stillbirth, there is no way
+to know this and the induced abortion
+would be offered.
+
+The incidence rate of abnormality for
+those pregnancies ending in miscarriage
+is substantially higher than for those
+ending in live birth. As a result, we expect relatively more positive test results
+and relatively more abortions for the
+former group. Keep in mind, however,
+two points:
+
+1. We want to look at the resources saved
+by society, i.e., not expended, as a result
+of the amneocentesis program compared
+to the counterfactual.
+
+2. Those pregnancies ending in miscarriage require resources to care for the resulting abortion.
+
+The procedures and care required for a
+miscarriage are similar to those required
+for an induced abortion. The costs, or
+resources expended, would be similar as
+well (Olson). For this reason, we can
+view the abortion performed on the
+group whose pregnancy would have otherwise ended in miscarriage as a substitute for the miscarriage. Therefore, the
+costs for these abortions are merely a
+transfer of resources expended, transferred from caring for a miscarriage to
+inducing an abortion, and do not represent a real cost of the amniocentesis program.
+
+In sum, we are assuming that an amniocentesis is offered to all women pregnant at the 16th to 18th week of gestation, both those ending in live birth and
+those ending in miscarriage or stillbirth.
+We include in the cost of the program,
+however, only those abortions offered
+to women who would have given live
+birth.
+
+We assume no adverse effects, leading to increased costs, due to risks associated with the amniocentesis procedure
+ 
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+358
+
+itself. In our literature survey, we found
+three large-scale studies in the U.S. and
+Canada which indicated there is no excess risk to women undergoing amniocenteses (Lowe et al., 1978; Simpson et
+al., 1976; Goldbus et al., 1979). They
+find amniocentesis to be a safe procedure. Based on these studies, we feel
+confident in not considering costs due to
+complications of the procedure itself.
+We also assume, though with a lesser
+degree of confidence, that there will be
+no extra costs associated with complications encountered in performing abortions on those women showing positive
+test results. Complications and their associated costs could have such a wide
+range, both in magnitude and incidence,
+that gathering such information would
+be a task of monumental proportions,
+and their expected effect in this study
+would seem to be relatively small.
+
+‘In addition, we assume 100 per cent
+accuracy of the procedure and that the
+procedure is performed once for each
+participant, i.e., that only one visit is
+necessary to obtain the fluid sample. It is
+assumed that there is a 100 per cent participation rate for the program, and all
+those women showing positive test
+results actually go through with an abortion. In the case where there was less
+than 100 per cent participation, both the
+benefits and costs would be reduced.
+There are a couple of possible cases.
+One is that those who choose not to participate in the program would be similar
+in characteristics to those who do participate, specifically in their chances of
+having a child with Down’s syndrome or
+some neural tube defect. If this were the
+case, benefits and costs would each be
+reduced by the proportion of nonparticipation. One could also make an argument that the nonparticipants would
+have, overall, a smaller chance of having
+
+Andreano and McCollum
+
+ 
+
+Social Biology
+
+an affected child. The logic is as follows:
+If there is a family history of birth defects or some other factor which would
+indicate a woman is at an increased level
+of risk, she would be more likely to become involved in an amniocentesis program than would a woman who was not
+at an increased level of risk. In this case,
+one would again expect both benefits
+and costs to decrease but with the costs
+decreasing proportionately more than
+the benefits since women who were at a
+lower risk level and did not participate
+would lower costs but have a smaller effect on benefits. This situation would
+show greater net benefits and make the
+program more attractive.
+
+We must also consider the discount
+rate. If one can assume that the costs of
+the program, the market value of the resources which must be devoted to the
+project, are an accurate reflection of the
+opportunity costs of those resources,
+1.e., they are an accurate representation
+of the discounted value of these resources invested elsewhere, then no adjustment to these costs is necessary. No
+matter who would undertake a project
+of offering amniocentesis to all pregnant
+women—the government, the insurance industry, or some private charitable organization—they all have to compete for funds in capital markets. In light
+of this fact, one can assume that the
+price paid for the resources devoted to
+amniocentesis accurately reflects the
+true discounted value or opportunity
+cost of those resources. Further, the
+costs are defined in this study are for one
+year’s operation of the program and are
+all assumed to be paid out at the beginning of the year, so no time adjustment
+is necessary. The real concern then is the
+social rate of time preference applicable
+to the benefits of the project which occur
+over a relatively long period of time.
+
+ 
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+ 
+
+Vol. 30, No. 4
+
+One prominent view about the social
+rate of time preference, as expressed by
+Gramlich (1981), is that it should be the
+same as the economy’s real growth rate.
+The long-run U.S. growth rate is in the
+neighborhood of 31/2 per cent, so we will
+use 31/2 per cent as our discount rate. All
+costs and benefits are expressed in 1980
+dollars. We will assume that real values
+remain constant throughout the period
+of analysis.
+
+Another assumption regarding costs
+is that no additional facilities will be necessary to implement the amniocentesis
+program. We assume that no additional
+hospital or laboratory facilities will be
+required to accommodate the program.
+This assumption is based primarily on
+the feeling that there is a significant
+amount of excess capacity in the hospital
+and laboratory industry. In addition, it
+is based on the fact that amniotic fluid
+samples can be preserved and transported to other locations for analysis. A
+large share of hospital laboratory work
+is done ‘at central laboratory facilities
+rather than being done “‘in-house.”’
+Such facilities typically exhibit economies of scale. Hence, we feel that existing facilities can accommodate the increased demand for their services.
+
+In attempting to estimate the benefits
+from averted neural tube defect births,
+we employ a similar set-up to that used
+in the case of Down’s syndrome. The
+differences come in the assumptions
+used to arrive at the components of the
+estimate. A major difference is in the
+survival rates for those born with neural
+tube defects. In the data we looked at,
+all those born with anencephaly died in
+the first year of life. In the case of spina
+bifida, 56 per cent died perinatally and
+17 per cent died in the first year of life
+(Chamberlain, 1978). The estimated
+survival rate at 5 years of age is 24 per
+
+Benefit-Cost Analysis of Amniocentesis
+
+359
+
+cent. Beyond the age of 5, we were unable to find any data on survival rates, so
+we will assume that the survival rates beyond age 5 are similar to those in the
+Down’s syndrome case. For severity we
+assume the breakdown given by Chamberlain (1978). Of the 24 per cent surviving at age 5: 13.2 per cent have minimal
+handicap, 21.7 per cent have moderate
+handicap with normal intellect, 47.6 per
+cent have severe handicap with normal
+intellect, and 17.5 per cent have severe
+handicap with some degree of mental
+retardation. Specifically, we assume
+that all those with the combination of severe physical handicap and mental retardation are institutionalized immediately at the aforementioned high level of
+care. We assume, in addition, for the
+purpose of analysis, that none of the
+physically handicapped people with normal intellect are institutionalized.
+
+The education and training cost assumptions are the same as for the
+Down’s syndrome case, i.e., that this
+period of life runs from age 6 through
+20.
+
+The assumptions for lost parental income are the same as those used in the
+case of Down’s syndrome. The final assumption needed in the derivation of
+benefits from averted neural tube defect
+births is one concerning income. Since
+the noninstitutionalized population in
+this case consists solely of people with
+normal intellect, we assume that upon
+completion of the education and training period all of the people will be employed at the same level of wages as a
+nonhandicapped person.
+
+There is another source of benefits in
+the case of neural tube defects: averted
+medical costs. These medical costs involve a tremendous amount of variability. Procedures could involve plastic surgery to repair and cover the defect,
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+360
+
+repair to nerve damage or impairments,
+possible tendon repair and transplant,
+among other things. The surgical procedures involved can easily run into the
+tens of thousands of dollars. In addition,
+all of these would likely be inpatient
+rather than outpatient procedures, involving high hospital costs. A study of
+the Myelodysplasia and Hydrocephalus
+Program in Nebraska by Angle et al.
+(1977a, 1977b) estimates the extra medical costs associated with these defects.
+The defects considered by this program
+are myelodysplasia (which is a defective
+development of any part, especially the
+lower segments, of the spinal cord), hydrocephalus (which is a condition characterized by the abnormal accumulation
+of fluid in the cranial vault, accompanied by enlargement of the head, prominence of the forehead, atrophy of the
+brain, mental weakness and convulsions), and encephalocele (which is a
+hernia of the brain, manifested by protrusion of brain substance through a
+congenital or traumatic opening of the
+skull). The nature of these defects is relatively close to that of neural tube defects. In fact myelodysplasia, which is a
+neural tube defect, makes up 65% of the
+sample, so we feel relatively comfortable in using these cost estimates as a
+proxy for the additional medical costs
+associated with neural tube defects. We
+will assume that these expenses are incurred only in those surviving past the
+age of 5.
+
+THE DATA
+
+The expected numbers of live births,
+fetal deaths and congenital anomalies
+for the United States and Wisconsin are
+shown in Table 5.
+
+The benefit and cost data used in this
+study came from a wide variety of
+
+Andreano and McCollum
+
+Social Biology
+
+sources. The cost figures on institutional
+care are from the Wisconsin Department of Health and Social Services
+(DHSS), Division of Health. One set of
+cost estimates is for a high level of care.
+These cost figures include everything
+but education and training (i.e., room
+and board, medical care, etc.). The annual cost of this care is $30,588. The second set of cost figures is for the care of a
+mentally retarded person in a skilled
+care nursing home. This type of facility
+would be expected to provide a lower
+level of care than that covered by the
+first set of cost estimates. This lower
+level of care is estimated at $12,775 annually. The level of care required is dependent on the severity of mental retardation or disability.
+
+The costs of education and training
+come basically from two sources. One is
+a Colorado study cited in a discussion report to the U.S. Congress in 1979 on the
+implementation of the Education For
+All Handicapped Children Act (U.S.
+Department of Health, Education and
+Welfare, 1979). The other source of information is the Wisconsin Department
+of Health and Social Services (Division
+of Vocational Rehabilitation; Division
+of Policy and Budget). Using information from these sources on the excess direct special education cost per student
+and information on the cost of educating
+a “normal” student, we arrive at the following estimates of annual cost:
+
+Limited Intellectual Capacity
+
+“Educable” ............... $4,128
+“Trainable” ............... $4,777
+Physically Handicapped ....... $4 243
+
+Mentally Retarded and/or Physically
+Handicapped in an Institutional Care FaCity eee eee eee eee cee $2,636
+
+In addition we added $246 as an estimate of administrative and case worker
+cost for the Division of Vocational Re 
+
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+ 
+
+Vol. 30, No. 4
+
+Benefit-Cost Analysis of Amniocentesis
+
+361
+
+TABLE 5
+
+BIRTHS, FETAL DEATHS (20 WEEKS OR MORE GESTATION), AND EXPECTED NUMBER OF CASES OF
+Down’s SYNDROME, ANENCEPHALY, AND SPINA BIFIDA FOR WISCONSIN
+AND THE UNITED STATES
+(BASED ON 1978 LIVE BIRTHS)
+
+1978 Fetal
+Age of Mother Live Births Deaths
+Wisconsin
+Under 15 .. 72 3
+15-19 ..... 8,805 107
+0-24 ...... 23,197 198
+25-29 ..... 23,447 193
+30-34 ..... 10,033 116
+35-39 ..... 2,503 48
+40 &over . 516 14
+Total .... 68,573 679
+United States:
+Under 20 .. 556,000 5,316
+20-24 ..... 1,140,000 9,641
+25-29 ..... 1,015,000 9,377
+30-34 ..... 474,000 5,646
+35-39 ..... 126,000 2,311
+40 &over . 24,000 660
+Total .... 3,335,000 32,951
+
+Expected
+
+Down's Expected Expected
+Syndrome Anencephaly Spina Bifida
+
+0 0 0
+
+La 1.3 4.0
+
+4.7 5.0 10.6
+
+7.0 5.4 9.5
+
+4.7 2.6 3.9
+
+4.0 0.5 1.2
+
+a3 0 0.3
+
+25.4 14.8 29.5
+
+97.3 79.0 252.4
+
+230.3 247.4 522.1
+
+299.4 235.5 412.1
+
+220.9 123.2 183.0
+
+201.0 23.6 60.5
+
+160.9 Zend) 14.4
+
+1,209.8 711.2 1,444.5
+
+Sources: Wisconsin births: Public Health Statistics—1978, Supplement. U.S. births: Statistical Abstract of the United States.
+Incidence of Down’s syndrome, anencephaly, spina bifida: Taffe!, Congenital Anomalies and Birth Injuries Among Live Births:
+United States, 1973-74. Fetal death rates: Vital Statistics of the United States—1977, Volume II, Mortality, Part A.
+
+habilitation or similar organizations
+working with the disabled students.
+Estimates of personal consumption
+expenditures were arrived at using a
+Consumer Expenditure Interview Survey (U.S. Department of Labor, 1978).
+Ideally, we wanted to use age-specific
+personal consumption needs for retarded and physically disabled persons
+not under institutional care. To our
+knowledge, however, such data do not
+exist, nor do age-specific consumption
+patterns or needs for a “normal” person. We settled on an assumption that
+the consumption patterns of a noninstitutionalized retarded or disabled person
+would not be substantially different
+from those of a “normal” person. We
+then used the Consumer Expenditure
+
+Survey to derive an estimate for the personal consumption part of child-raising
+costs. The estimate we used was the difference in personal consumption expenditures between a two-person and a
+three-person family. The amount came
+out to be $3,461 annually. This was the
+personal consumption figure used from
+birth through the age of 20, corresponding to the pre-school and school-age
+years. From age 21 through the end of
+life, or until institutionalization, we applied per capita personal consumption
+expenditures from the National Income
+accounts on the assumption that this was
+the best estimate we could use in view of
+the diversity of situations our cohort of
+retarded and disabled persons would actually be in (U.S. Bureau of the Census,
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+362
+
+1980). This amount was $7,735 annually.
+
+Estimates for income of retarded
+workers used in the study came from the
+Wisconsin DHSS, Division of Vocational Rehabilitation (DVR), and are
+the average earnings at closure, i.e.,
+when DVR feels the person has been
+adequately trained and is now employable to some extent, helped to find a job
+and sent out into the world. The estimates used for annual income for mild
+and moderate mental retardation are as
+follows:
+
+Mild retardation .............. $5,891
+
+Moderate retardation ......... $5,233
+For the benefit calculation in the neural
+tube defect case, the income used was
+the median income for workers aged 25
+or below and that for workers over age
+25 (U.S. Bureau of the Census, 1980).
+
+The figures for lost parental income
+are derived from median weekly wages
+of “women who maintain families.”’ The
+derived estimate of these annual earnings is $10,572 (U.S. Bureau of the Census, 1980). The data on labor force participation rates are from the Statistical
+Abstract of the United States (U.S. Bureau of the Census, 1979, 1980) and are
+averages (weighted by proportions of
+married women with husband present,
+separated women and divorced women)
+for the following three categories: No
+children under age 18; children aged 617 only; and children under 6 years of
+age. The participation rates for these
+three categories are 47 per cent, 60 per
+cent and 44 per cent, respectively. In
+calculating benefits we assumed a participation rate of one-half these rates for
+mothers of disabled children.
+
+The benefits for Down’s syndrome
+prevention were calculated based on
+survival rates of people with Down’s
+syndrome taken from two comprehen
+Andreano and McCollum
+
+ 
+
+Social Biology
+
+sive surveys cited in the Hagard and
+Carter Study (1976). Those for spina
+bifida prevention are calculated based
+on survival rates given by Chamberlain
+(1978).
+
+To estimate the averted medical costs
+associated with spina bifida we used the
+aforementioned studies by Angle et al.,
+(1977a, 1977b) which found an average
+duration of hospitalization of 129 days
+with an average of 6.3 operative procedures. The cost of these, plus the cost for
+an average of four annual clinic visits,
+including laboratory and x-ray studies,
+spread over an eight-year period, is estimated at $21,140, exclusive of the cost
+of braces and outpatient medicines. This
+cost estimate is in 1977 dollars, and no
+discounting is applied for the eight-year
+period. We adjust their figure for inflation to bring the units up to 1980 dollars, comparable with the other cost and
+benefit estimates. To adjust for the time
+value, we will assume the cost to be
+spread evenly over the eight-year per10d.
+
+Let us now turn to the cost side of the
+study. To arrive at an estimate for the
+cost of making the program known to
+the population it seeks to serve and the
+administration of the program, we used
+the analogy of another social program as
+similar as possible both in size and purpose, and assumed that administration
+and publicity costs of this program
+would be a reasonable approximation to
+those for a program of amniocentesis.
+The main programs looked at were the
+Genetic Awareness Program (GAP)
+and the Rubella Screening and Vaccination Program (RSVP), both offered by
+the Planned Parenthood Association of
+Wisconsin. The unit costs of these programs (per expected person served), as
+well as some other programs considered, were remarkably similar. We set 
+
+ 
+
+Vol. 30, No. 4
+
+tled on an estimate for administrative
+and publicity costs of $4.77 per person
+served (Planned Parenthood Association of Wisconsin, 1979).
+
+The cost for the amniocentesis procedure itself, which includes ultrasound,
+drawing the sample, analyzing the fluid,
+reporting and interpreting the results,
+and some genetic counseling, came
+from insurance data for the State of Wis
+w consin (Wisconsin Blue Cross and Blue
+© Shield) and from personal communications with two physicians on staff at a
+hospital in the Greater Chicago area—
+one a family practitioner, the other an
+obstetrician and gynecologist (Engstrom, Burke). The cost of the amniocentesis procedure had a wide variation
+over the areas covered, from a low of
+$121 up to $500, depending both on the
+place where the procedure was per
+at 13:39 08 December 2
+
+—_
+
+Downloaded by [University of Michigan
+
+Benefit-Cost Analysis of Amniocentesis
+
+363
+
+formed and on the battery of tests performed on the fluid sample. After careful consideration and much discussion
+we settled on an estimate of $200 to use
+in our cost calculation.
+
+The final piece of datum included in
+the cost calculation is the cost of an
+abortion and its associated care to those
+women who show positive test results.
+Our estimate for an abortion, done as an
+outpatient procedure, is $275 (Engstrom, Burke).
+
+Lastly, note that all data are expressed in 1980 dollars. Adjustments
+were made to data from older sources to
+assure uniformity of units.
+
+RESULTS
+
+Tables 6 and 7 present the results of
+the benefit-cost calculations for the
+
+TABLE 6
+Net BENEFIT OF AMNIOCENTESIS PROGRAM——UNITED STATES
+
+(1) Amniocentesis offered to all pregnant women aged 40 and over
+
+Expected Live Births ................. 24,000
+Expected Down’s Syndrome ........... 161
+Expected Spina Bifida ................ 14.4
+00] $ 5,097,836
+Benefits ...........0.000. $25,743,004
+Net Benefits ............. $20,645,168
+
+(2) Amniocentesis offered to all pregnant women aged 35 and over
+Expected Live Births ................. 150,000
+Expected Down’s Syndrome ........... 362
+Expected Spina Bifida ................ 75
+0 «a $31,443,992
+Benefits .............05- $60,145,381
+Net Benefits ............. $28,701 389
+
+(3)
+
+Amniocentesis offered to all pregnant women aged 30 and over
+Expected Live Births ................. 624,000
+Expected Down’s Syndrome ........... 583
+Expected Spina Bifida ................ 258
+
+ 
+
+$129,772,180
+$104,102,850
+~ $25,669,330
+
+ 
+ 
+
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+364
+
+Andreano and McCollum
+
+ 
+
+Social Biology
+
+TABLE 7
+Net BENEFIT OF AMNIOCENTESIS PROGRAM— WISCONSIN
+
+(1) Amniocentesis offered to all pregnant women aged 40 and over
+
+Expected Live Baths ws esos es aewus ne ae 516
+
+Expected Down’s Syndrome ........... ad
+Expected Spina Bifida ................ 3
+
+Costs. asses es ea oa rene cane $109,573
+
+Benefits ..............6- $559,280
+
+Nét Béftefits . occu xa ws saws $449,707
+
+(2) Amniocentesis offered to all pregnant women aged 35 and over
+
+Expected Live Births ................. ;
+
+Expected Down’s Syndrome ........... 7.5
+Expected Spina Bifida ................ 1.5
+
+CostS ..... cece cece ee eee $633,371
+
+Benefits ................ $1,243,694
+
+Net Benefits ............. $610,323
+
+(3) Amniocentesis offered to all pregnant women aged 30 and over
+
+Expected Live Births ................. 13,052
+
+Expected Down’s Syndrome ........... 12.2
+Expected Spina Bifida ................ 5.4
+
+0s $2,713,947
+
+Benefits .............0- $2,179,296
+
+Net Benefits ............. — $534,651
+
+United States as a whole and for the
+State of Wisconsin. We see that the
+break-even point of an amniocentesis
+program, in terms of total benefits and
+costs, would occur in the early 30’s age
+group. Given the magnitude of the net
+benefits for extending the program to
+women aged 35 and over, and those for
+extending the program to women aged
+30 and over, as well as the relevant birth
+and abnormality incidence rates, we
+speculate that the break-even point
+would occur about age 32. Note that the
+net benefit figure derived is for one
+year’s operation of the program; hence
+it can be interpreted as annual benefit.
+These results presume that all of the
+women with positive test results will go
+through with termination of the pregnancy. If some proportion of women decide not to go through with the abortion,
+
+of course, the net benefit calculation will
+be affected. The benefits will decrease
+by the proportion of women who decide
+against abortion. The costs will be reduced by $275 (our estimated cost of an
+abortion) for each woman declining the
+abortion. This will raise the break-even
+age of the program. At the level of offering amniocentesis to all pregnant
+women 35 and older, a5 per cent rate of
+decline to go through with the abortion
+would reduce net benefits to
+$25,700,126. A 10 per cent rate of decline would reduce net benefits to
+$22,698,863. From these comparisons
+one can see that, unless the proportion
+of women declining abortions was large,
+say 40 per cent or more, the viability of
+the program would not be substantially
+affected.
+
+These results compare favorably to
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+Vol. 30, No. 4
+
+the few previous studies done. The
+break-even age is a bit lower in this
+study than some of the others, which is
+to be expected since we looked at
+benefits from averted Down’s syndrome
+cases and averted neural tube defects,
+whereas others have focused primarily
+on Down’s syndrome. Glass (1975)
+found that under no set of assumptions
+was cost less than benefit in the 35-59
+year old group of mothers in the United
+Kingdom. Hagard and Carter (1976),
+also working in Great Britain, found a
+break-even point at about age 35. Hook
+(1979), using older data and some different assumptions, arrived at a breakeven age in the early 30’s.
+
+Figure 1 presents a graphical representation of our results. The figure
+shows the total benefit and total cost of
+extending an amniocentesis program to
+all pregnant women beyond certain
+ages. The horizontal axis gives the cutoff ages. For example, the total benefit
+of extending the program to all women
+at or beyond age 35 is about $60 million
+and the total cost is about $31 million.
+The curves cross at about age 32. This
+represents the program break-even age,
+or the point where total benefit equals
+total cost. The marginal break-even age,
+where total net benefit to society is at a
+maximum, Occurs somewhere around
+age 36. The aforementioned study by
+Hook found a similar marginal breakeven age.
+
+The significance of the marginal
+break-even point 1s that, up to this
+point, each additional woman entering
+the program adds to the total net
+benefit. Beyond the marginal breakeven point, i.e. as successively younger
+women are added to the program, each
+additional participant subtracts from the
+total net benefit. While the total net
+benefit is still positive, 1.e. total benefits
+
+Benefit-Cost Analysis of Amniocentesis
+
+365
+
+outweigh total costs, it is decreasing.
+For each new participant the additional
+(or marginal) cost outweighs the additional (or marginal) benefit.
+
+The excess benefit from older participants is, in effect, subsidizing the entry
+of younger women into the program.
+This is illustrated in Table 8. The ‘‘average”’ figures refer to the entire group included in the program; the “marginal’’
+figures refer to the last group added to
+the program. For example, if the program is extended to all women aged 35
+or over, the average annual benefit is
+$401. The average annual cost is $210.
+The marginal benefit, the benefits
+added when the 35-39 year old age
+group is included, is $273 per participant. The marginal cost is $209. In this
+case the marginal benefits and costs of
+the entire program are equal to the average benefits and costs for the last included age group, i.e. the average
+benefit and cost for the 35-39 year age
+group equals the marginal benefit and
+cost of the program offered to all
+women aged 35 or over. A finer age
+breakdown would show marginal
+benefit and marginal cost equal at the
+marginal break-even age.
+
+A graph of total net benefit would
+start at zero, with no participants. It
+would increase and reach a maximum at
+the marginal break-even age (around
+age 36). It would then decrease and
+reach zero again at the program breakeven age (around 32), as younger
+women are successively added to the
+program. If the priority of policy makers
+is to maximize the benefit to society, the
+amniocentesis program should be offered to all women age 36 or over. If the
+priority is to extend the program to as
+many people as possible, the amniocentesis program should be offered to all
+women age 32 or over.
+
+ 
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+366
+
+   
+
+Millions of
+Dollars
+
+200
+
+175
+
+150
+
+125
+
+100
+
+75
+
+50
+
+30
+25
+
+30
+
+Andreano and McCollum
+
+Social Biology
+
+Total Costs
+
+Total Benefits
+
+25 20 15 10
+Maternal age in years
+
+FIGURE 1
+
+Further, we claim that our estimates
+of net benefit will be conservative estimates. The reasons for this claim are
+threefold. First, as alluded to earlier,
+there are many congenital anomalies besides Down’s syndrome and spina bifida
+
+which, in specific cases, could be
+averted. In many cases, as a result of evidence from family history or previous
+pregnancies, other anomalies may be
+detected and the pregnancy terminated.
+To the extent that this occurs, net
+
+ 
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+ 
+
+ 
+
+Vol. 30, No. 4 Benefit-Cost Analysis of Amniocentesis 367
+TABLE 8
+AVERAGE AND MARGINAL BENEFITS AND CosTS
+Average Average Average Marginal Marginal Marginal
+
+Age Group Benefit Cost Net Benefit Benefit Cost Net Benefit
+40 and over .. $1,073 $212 $861 $1,073 $212 $861
+
+35 and over ... 401 210 191 273 209 64
+
+30 andover ... 167 208 —14 93 207 —114
+
+benefit will be increased. The absolute
+number of cases would be relatively
+small but the amount of benefit would
+be relatively large for each abnormal
+birth averted.
+
+Secondly, the benefits and costs measured in the study did not include intangible benefits and costs. These benefits
+and costs cannot be quantified but many
+can be signed as to the direction of their
+effect on net benefit. Table 9 presents
+the intangible benefits and costs along
+with what we believe is the probable direction of their effect. The major intangible effect, we believe, is the “relief
+from anxiety and reduction in uncertainty.” Left out of Table 9 but also not
+
+explicitly measured are the saved costs
+of home care for mentally retarded or
+developmentally disabled persons. We
+were unable to find reliable data in this
+area, although some outpatient medical
+costs are included in the Nebraska study
+on developmentally disabled persons
+(Angle et al., 1977a, 1977b). We expect
+this effect on net benefits to be positive
+but small relative to some others, such
+as institutional care. This, coupled with
+the information in Table 9, again leads
+us to conclude our net benefits are conservatively estimated.
+
+Thirdly, some of our assumptions
+lead to conservative benefit estimates.
+In particular, our assumption on institu
+TABLE 9
+INTANGIBLE BENEFITS AND COSTS AND THE PROBABLE SIGN OF THEIR EFFECT ON NET BENEFIT
+
+imtangione Benefits
+Relief of anxiety and reduction in uncertainty
+
+; Benefit to a family of not having a retarded or disabled child
+3. Better ability to prepare for the birth of child under fetal distress because of better mea
+sure of fetal maturity
+
+4. Benefit from basic research and expanded knowledge due to further development of
+
+amniocentesis
+
+5. Benefit to society of a decrease in the incidence of chromosomal abnormalities, neural
+
+tube defects and other congenital anomalies
+Intangible Costs
+
+1. Social cost of more women having children because of decreased risk of bearing (by
+
+mm ON pn
+
++9 +
+
+(+)
+(+)
+
+(?)
+
+terminating the pregnancy) a genetically abnormal or developmentally disabled child
+
+2. “Mental anguish” of an abortion from a false positive test
+3. Possibility of parents ‘‘rejecting” an abnormal child allowed to be born as a result of a
+
+false negative test
+
+4. “Psychological” cost to those opposed to abortion from legitimized use of abortion with
+
+(-)
+(-)
+
+(-)
+
+counseling and family planning, probably resulting in an increased use of abortion
+
+ 
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+368
+
+tionalization, that 10 per cent go to the
+high level of care and the rest to the low
+level of care, we feel is a conservative assumption. Our assumption of equal
+earnings for a physically handicapped
+person with normal intellect and a nonhandicapped person is likely to be an
+over-estimate which would lead to conservatively estimated benefits. Recall
+that almost half the survivors at age 5 in
+the physically handicapped cases were
+severely handicapped. We would expect
+the earnings of these people to be lower
+than the median, all other things equal.
+Other assumptions as well could lead to
+an understatement of benefits. In our literature survey, some author mentioned,
+in passing, a feeling that retarded and
+especially physically handicapped persons might have higher morbidity rates
+than nonhandicapped persons. If this
+were the case, though we could not find
+definite data on this question, medical
+costs averted would be larger, thus further understating benefits of the amniocentesis program.
+
+On the cost side, however, there is
+one area left out of our calculation that
+would lead to an understatement of
+costs. This is the area of time costs of the
+participants in the program, which
+would definitely add to the costs but, we
+feel, not enough to detract much from
+the net benefit. Time costs are a very difficult thing to estimate and would likely
+be very diverse for a large group of
+women.
+
+A factor leading to a slight overestimate of costs is multiple births. Our estimate of the number of women offered
+an amniocentesis implicitly assumed single births. To the extent that pregnancies involve more than one fetus, fewer
+women will be offered an amniocentesis, thus lowering costs.
+
+On balance, we feel justified in mak
+Andreano and McCollum
+
+ 
+
+Social Biology
+
+ing the claim that we conservatively estimated net benefit. The omniscient analyst would arrive, we believe, at a lower
+break-even age for the amniocentesis
+program.
+
+In order to test the robustness of the
+net benefit statements, benefits and
+costs were calculated using several different assumptions. The major factor in
+the benefits calculation is institutional
+care for the Down’s syndrome cohort.
+We calculated the benefits using extremes in institutional care assumptions
+to derive an upper bound and lower
+bound on the benefits calculation. We
+also had to vary the education and training assumptions to fit the institutional
+care. In the upper bound case, all institutionalized persons are at the high level
+of care mentioned previously. All persons institutionalized during the education and training period, therefore, receive training at the institutional care
+facility while they are institutionalized.
+All other assumptions are the same as
+previously mentioned. In the lower
+bound case, all institutionalized persons
+are assumed to be in skilled care nursing
+homes—the low level of care. Accordingly, for education and training, they
+are in the “trainable” category. Again,
+all other assumptions remain the same.
+The ‘“‘mixed case”’ is the case originally
+presented in Tables 6 and 7. The total
+benefit calculations for these three sets
+of assumptions are displayed in Table
+10. The end result—the total benefits
+calculation—does not change much, regardless of the institutional care assumption chosen. Comparing these
+benefit calculations to the cost figures
+shown in Table 6, the program still
+breaks even between age 30 and 35. The
+exact break-even point will vary depending on the assumption chosen. It
+will be lower for. the high level of care
+ 
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+Vol. 30, No. 4
+
+Benefit-Cost Analysis of Amniocentesis
+
+369
+
+TABLE 10
+
+TOTAL BENEFITS USING DIFFERENT ASSUMPTIONS ABOUT INSTITUTIONAL CARE, EDUCATION
+AND EMPLOYMENT— UNITED STATES
+
+Age Group Assumption Total Benefits
+Allages .......... All institutional care at low level $243 533,620
+*Mixed levels of institutional care $264,140,273
+
+All institutional care at high level $311,036,220
+
+50% employment of non-institutionalized persons $279,925 ,272
+
+40+over ......... All institutional care at low level $23,002,830
+*Mixed levels of institutional care $25,743,004
+
+All institutional care at high level $31,979,002
+
+50% employment of non-institutionalized persons $26,115,307
+
+35+over ......... All institutional care at low level $53,982,119
+*Mixed levels of institutional care $60,145,381
+
+All institutional care at high level $74,171,532
+
+50% employment of non-institutionalized persons $61,395,740
+
+30+over ......... All institutional care at low level $94,177,593
+*Mixed levels of institutional care $104 102,850
+
+All institutional care at high level $126,690,410
+
+50% employment of non-institutionalized persons $107,450,010
+
+25+over ......... All institutional care at low level $157,316,170
+*Mixed levels of institutional care $172,340,300
+
+All institutional care at high level $206,531,700
+
+50% employment of non-institutionalized persons $180,123,210
+
+“Denotes the assumption used and presented in the primary analysis (see Table 6).
+
+(higher cost of institutionalization,
+therefore more benefit per affected
+birth averted) and higher for the low
+level of care.
+
+Also displayed in Table 10 are the
+results of changing the assumption on
+employment. We assumed that 50 per
+cent of the noninstitutionalized cohort
+would be employed rather than 100 per
+cent. The results for total benefits do not
+change substantially. The expected
+value or average benefit per Down’s
+syndrome birth averted changed less
+than 1 per cent when the employment
+assumption was changed to 50 per cent.
+The average benefit per spina bifida
+birth averted, however, increased by 18
+per cent when this assumption was
+changed. Similar changes would be expected if the level of income earned by
+the noninstitutionalized group were
+
+halved. Employment is a much larger
+factor in the case of spina bifida than in
+the Down’s syndrome case, so benefits
+from averting spina bifida births would
+be expected to be more sensitive to
+changes in employment.
+
+On the cost side of the analysis, the
+major expense is the cost of the amniocentesis procedure. Aside from being a
+major expense, under the program we
+are examining, it is offered to all pregnant women. We examined extreme assumptions on the average cost of an amniocentesis procedure to set upper and
+lower bounds to the costs of the amniocentesis program. The “low amniocentesis” assumption is that the average
+cost of the procedure is $121. In the
+“high amniocentesis” case, the average
+cost of the procedure is assumed to be
+$400. The ‘‘medium amniocentesis”
+
+ 
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+370
+
+case is the one assumed in deriving Tables 6 and 7, namely an average cost of
+$200 per procedure. In each case, all
+other assumptions remain the same.
+The total cost calculations for these alternate assumptions are displayed in Table 11. There is a wide range of costs between the upper and lower bounds, the
+upper exceeding the lower by about a
+
+Andreano and McCollum
+
+Social Biology
+
+factor of three. Comparing the total
+benefits derived from the “‘mixed levels
+of care” assumption of Table 10 to the
+total cost figures in Table 11, it is evident
+that the results are quite different depending on the cost assumption applied.
+Assuming a high cost of amniocentesis,
+the program breaks even slightly beyond age 35. With a low cost of amnio
+TABLE 11
+
+Tota Costs UsING DIFFERENT ASSUMPTIONS ABOUT CosT OF AMNIOCENTESIS PROCEDURE,
+ABORTION, AND ADMINISTRATION
+
+AGE Group ASSUMPTIONS
+
+Low amniocentesis
+*Medium amniocentesis
+
+High amniocentesis
+
+Low abortion
+
+High abortion
+
+High administration
+
+Medium administration
+
+owe eee eo nwe
+
+Low amniocentesis
+*Medium amniocentesis
+
+High amniocentesis
+
+Low abortion
+
+High abortion
+
+High administration
+
+Medium administration
+
+eoraeteoes
+
+Low amniocentesis
+*Medium amniocentesis
+
+High amniocentesis
+
+Low abortion
+
+High abortion
+
+High administration
+
+Medium administration
+
+35 + over
+
+Low amniocentesis
+*Medium amniocentesis
+
+High amniocentesis
+
+Low abortion
+
+High abortion
+
+High administration
+
+Medium administration
+
+30+ over
+
+Low amniocentesis
+*Medium amniocentesis
+
+High amniocentesis
+
+Low abortion
+
+High abortion
+
+High administration
+
+Medium administration
+
+25+ over
+
+orpteveonve
+
+*Denotes the assumptions used and presented in the primary analysis (see Table 6).
+
+Tora. Cost
+
+$424 317,130
+$690,385 260
+$1 363,975,500
+$690,318,900
+$690,451 ,620
+$741 ,679,150
+$707 999,640
+
+$3,149,696
+$5,097,836
+$10,029,836
+$5,093,453
+$5,102,218
+$5,473,408
+$5,226,808
+
+$19,359,283
+$31,443,992
+$62,038,192
+$31,433,072
+$31,454,912
+$33,773,740
+$32,244,030
+
+$79,795,433
+$129,772,180
+$256,295 ,580
+$129,751,160
+$129,793,190
+$139,406,930
+$133,080,760
+
+$208 826,990
+$339 729,520
+$671,128,320
+$339 690,710
+$339 768,320
+$364 965,540
+$348,395 ,600
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+ 
+
+ 
+
+Vol. 30, No. 4
+
+centesis, the program would break even
+below the age of 30—maybe around age
+28.
+
+In addition to varying the assumption
+on the cost of the amniocentesis procedure, Table 11 shows the total cost derived using alternative assumptions on
+abortion cost and program administration costs, other things being equal. The
+low abortion cost case assumes a cost of
+$250 per abortion; the high abortion
+case assumes a cost of $300 per abortion.
+This reflects the range of abortion costs
+found in our collection of data. The assumption used in the earlier results was
+$275 per abortion. Table 11 indicates
+that varying this assumption did little to
+change the total cost calculation. It is a
+small range and it affects a relatively
+small number of women—only those
+found to be carrying an affected fetus.
+
+The “high administration”’ cost case
+used an average cost of $20 per person
+served. The “medium administration”
+case assumed an average cost of $10 per
+person served. Again, all other assumptions remain in the same as the medium
+amniocentesis case used to derive earlier results. This change in our assumptions did little to change the total cost
+figures.
+
+The upshot of this discussion of different assumptions is that the end results
+do not change very much. Even under
+the most unfavorable assumptions for
+benefits and cost (from the proamniocentesis program point of view),
+those of “low level institutional care”
+and “high amniocentesis procedure
+cost” the program will still break even
+around age 37.
+
+IMPLICATIONS
+
+Based on the results of this study, it
+would seemingly be in the interest of society to offer a program of amniocente
+Benefit-Cost Analysis of Amniocentesis
+
+371
+
+sis to all pregnant women beyond the
+early 30’s in age. The program could economically be extended to younger
+women who were at a high level of risk
+of bearing a genetically abnormal child
+due to a family history of genetic defects
+or some other circumstance. Such a program, we would imagine, would most
+likely be administered by a governmental agency. It could also feasibly be offered by the insurance industry.
+
+A caveat to be issued here is that a
+benefit-cost study such as this one is only
+one aspect of a decision to go ahead with
+a program of amniocentesis such as the
+one examined here. There are several
+moral, ethical and legal issues that must
+be considered as well, not the least of
+which is the question of abortion. Other
+questions raised include: using amniocentesis and then abortion to terminate
+pregnancies for “‘trivial” reasons, such
+as a child of the “wrong sex,” a broader
+issue of genetic management, the responsibility of the physician to provide
+and/or advise patients of the availability
+of such procedures as amniocentesis.
+These issues are discussed in the medical
+literature, and we feel their importance
+must temper any policy conclusions
+drawn from an analytical example such
+as this one.
+
+ACKNOWLEDGMENTS
+
+The authors wish to thank the Biomedical
+Research Fund, Graduate School, University of Wisconsin-Madison, for research support. They are also indebted to Timothy Tyson, Susan Kidder, and Florence O’Donnell
+of the Wisconsin Department of Health and
+Social Services for assistance in locating
+data. The authors additionally benefitted
+from discussions with Barbara Wolfe, Michael Welsh, Michael! Rothschild and Robert Haveman, as well as comments by Richard Osborne. The views expressed are solely
+those of the authors, as are any remaining errors.
+
+ 
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+ 
+
+372 Andreano and McCollum Social Biology
+REFERENCES
+ANGLE, Caro R., E. J. TREMBATH, and WIL- aspects of health planning. North Hollard
+LIAM L. STROND. 1977a. The Myelodysplasia Publishing Co.
+and Hydrocephalus Program in Nebraska: GoLpBus, MITCHELL S., WILLIAM D.
+
+A 15-year review of costs and benefits, Part
+I. Nebraska Med. J. (October), pp. 359361.
+
+. 1977b. The Myelodysplasia and Hydrocephalus Program in Nebraska: A 15year review of costs and benefits, Part II.
+Nebraska Med. J. (November), pp. 391393.
+
+BANTA, HENRY Davib, and STEPHEN B.
+THACKER. 1979. Costs and benefits of electronic fetal monitoring: A review of the literature, U.S. Dept. of Health, Education
+and Welfare, Public Health Service, Office
+of Health Research, Statistics and Technology. DHEW Publication No. (PHS) 793245.
+
+BENNET, M.J., K. Blau, R.D. JoHNson, and
+G.V.P. CHAMBERLAIN. 1978. Some problems of alphafetoprotein screening. The
+Lancet 2(8013):1296-1297. December 16.
+
+BritisH MEpIcAL JOURNAL. 1978. Hazards of
+amniocentesis. Vol. 2, No. 6153, pp. 16611662. December 16.
+
+BurKE, JoserH, M.D. Personal communication.
+
+CHAMBERLAIN, JOCELYN. 1978. Human benefits
+and costs of a national screening programme for neural-tube defects. The Lancet 2(8013):1293-1296. December 16.
+
+CoNLEY, R., and A. Mitunsky. 1975. The economics of prenatal genetic diagnosis. In A.
+Milunsky (ed.), The prevention of genetic
+disease and mental retardation. W.B.
+Saunders Co.
+
+E.uioT, Joun. 1979. Abortion for “‘wrong”’ fetal sex: An ethical-legal dilemma. J. Amer.
+Med. Assoc. 242(14):1455-1456. October
+5.
+
+EncGstTrom, C. Davip, M.D. Personal communication.
+
+Etzioni, Amrrat. 1976. Issues of public policy
+in the U.S.A. raised by amniocentesis. J.
+Med. Ethics. 2(1):8-11. March.
+
+FLETCHER, JOHN C. 1979. Sounding board—
+ethics and amniocentesis for fetal sex identification. New England J. Med.
+301(10):550-553. September 6.
+
+Fucus, Fritz, and Lars L. CepERQuisT. 1978.
+Use of amniotic fluid cells in prenatal diagnosis. In D.V.I. Fairweather and
+T.K.A.B. Eskes (eds). Amniotic fluid, research and clinical application. Elsevier/
+North Hollard Biometical Press.
+
+Grass, N. 1975. Economic aspects of the prevention of Down’s syndrome. In N.T.J.
+Bailey and M. Thompson (eds.), Systems
+
+ 
+
+LOUGHMAN, CHARLES J. EpsTEIN, GIESELA
+HALBASCH, JOHN D. STEPHENS, and BRYAN
+D. HALv. 1979. Prenatal genetic diagnosis
+in 3000 amniocenteses. New England J.
+Med. 300(4):157-163. January 25.
+
+GRAMLICH, Epwarp M. 1981. Benefit-cost
+analysis of government programs. PrenticeHall.
+
+HAGARD, SPENCER, and Feticiry A. CARTER.
+1976. Preventing the birth of infants with
+Down’s syndrome: A cost-benefit analysis.
+British Med. J. (March) 27:753-756.
+
+Hossins, JOHN C., ROGER FREEMAN, and JOHN
+T. QUEENAN. 1979. The fetal monitoring debate. Obstet. Gynedol. 54(1):103-109.
+July.
+
+Hook, Ernest B. 1979. Genetic counseling and
+prenatal cytogenetic services: Policy implications and detailed cost-benefit analyses of
+programs for the prevention of Down’s syndrome. Jn Ian H. Porter and Ernest B.
+Hook (eds.), Service and education in medical genetics. Academic Press, New York.
+
+LANCET, THE. 1979. The risk of amniocentesis.
+Vol. 2, No. 8103, pp. 1287-1288. December
+16.
+
+LIEBER, ERNEST, PALOMA SHAH, and MARILYN
+Hack. 1978. Hazards of amniocentesis: An
+unidentifiable fragment. Clin. genet.
+14(3):130-132. September.
+
+Lowe, CHARLES V., DUANE ALEXANDER, DoLORES BryLa, and Danie. SEIGEL. 1978.
+The safety and accuracy of mid-trimester
+amniocentesis. U.S. Dept. Health, Education and Welfare, Public Health Service,
+National Institute of Health, National Institute of Child Health and Development.
+DHRE Publication No. (NIH) 78-190.
+
+MacurrE, PHILir J. 1976. Amniocentesis: a
+brief discussion. J. Oklahoma State Med.
+Assoc. 69(10):425—428. October.
+
+MiLunsky, Ausrey (ed.). 1975. The prevention of genetic disease and mental retardation. W.B. Saunders Co.
+
+NEvIN, NorMAN C. 1982. Genetic disorders.
+Clinics Obstet. Gynecol. 9(1):3—27. April.
+
+OLSon, RONALD, M.D. Personal communication
+
+PERNOLL, MARTIN L., GERALD PRESCOTT,
+FREDERICK HECHT, and CATHERING L.,
+Otson. 1974. Prenatal diagnosis: practice,
+pitfalls and progress. Obstet. Gynecol.
+44(5):773-783. November.
+
+PLANNED PARENTHOOD ASSOCIATION OF WISCONSIN, Inc. 1980. 1980-81 application for Title
+V Social Security Act maternal and child
+ 
+
+Vol. 30, No. 4
+
+health funds and general program revenue
+family planning funds, volumes I-IV. Milwaukee, Wisconsin.
+
+SIMPSON, Nancy E., L. DALLAIRE, J.R.
+MILLER, L. Simmnovicu, J.L. HAMERTON,
+JANET MILLER and CAROL MCKEEN. 1976.
+Prenatal diagnosis of genetic disease in Canada: Report of a collaborative study.
+Canad. Med. Assoc. J. 115:739-746. October 23.
+
+SOUTHERN MEDICAL JOURNAL. 1978. The case
+against fetal monitoring. Vol. 71, No.9, pp.
+1058-1061. September.
+
+STEIN, ZENA, MERVYN SUSSER, and ANDREA V.
+AUTTERMAN. 1973. Screening programme
+for prevention of Down’s syndrome. The
+Lancet, pp. 305-310. February 10.
+
+TAFFEL, SELMA. 1978. Congenital anomalies
+and birth injuries among live births: United
+States, 1973-1974. Vital and health statistics: Series 21 no. 31. U.S. Dept. Health,
+Education and Welfare, Public Health Service, DHEW Publication No. (PHS) 791909.
+
+TURNBULL, A.C., D. V.I. FAIRWEATHER, B.M.
+HisBARD, P.E. PoLani, H. Reiss, L.B.
+STRANG, I. SUTHERLAND, D. ROTHMAN, and
+H. Bantock. 1978. An assessment of the
+hazards of amniocentesis: Report of the
+M.R.C. working party on amniocentesis.
+Brit. J. Obstetrics Gynecol., Vol. 85, Suppl.
+No. 2.
+
+U.S. BUREAU OF THE CENSuS. 1979, Statistical
+abstract of the United States 1979. Government Printing Office, Washington, D.C.
+
+U.S. Dept. of HEALTH, EDUCATION, AND WELFARE, PUBLIC HEALTH SERVICE, NATIONAL IN
+—|
+=
+©
+N
+~
+oO
+=
+oO
+oO
+oO
+A
+CO
+©
+nN
+of
+oN
+=
+—
+wo
+'S
+ws
+oN
+=
+a
+O
+=
+Cd
+©
+>>
+—
+=
+N
+~
+oO
+>
+=
+c
+,
+va
+2
+co
+oO
+co
+CS
+©
+—
+c
+S
+©
+A
+
+ 
+
+Benefit-Cost Analysis of Amniocentesis
+
+373
+
+STITUTE OF HEALTH. 1979. Antenatal diagnosis. NIH publication no. 79-1973.
+
+U.S. Dept. oF HEALTH, EDUCATION AND WELFARE, OFFICE OF EpucaTION. 1979. Progress
+toward a free appropriate public education,
+A report to the Congress on the iniplementation of Public Law 94-142: the Education
+of all Handicapped Children Act. Washington, D.C.
+
+U.S. Dept. OF LABOR, BUREAU OF LABOR STATISTics. 1978. Consumer expenditure interview
+survey, 1972-1973: Annual expenditures
+and sources of income cross-classified by
+family characteristics. Bulletin 1985 (NTIS
+Publication No. PB 275-418).
+
+WISCONSIN BLUE Cross AND BLUE SHIELD. Personal communications.
+
+WISCONSIN Dept. OF HEALTH AND SOCIAL SERVIces. Division of Health, Bureau of Health
+Care Financing. Madison, Wisconsin. Unpublished data.
+
+. Division of Health, Bureau of Health
+
+Statistics. 1978. Public health statistics—
+
+1978, Supplement. Madison, Wisconsin.
+
+. Division of Policy and Budget, Bureau
+
+of the Budget, Madison, Madison, Wiscon
+sin. Unpublished data.
+
+. Division of Vocational Rehabilitation,
+Bureau of Planning, Evaluation and Program Development. Madison, Wisconsin.
+Unpublished date.
+
+WISCONSIN STATE JOURNAL. 1981. Baby put
+back in womb after surgery. November 16:
+Section 4, page 4, Madison, Wisconsin.
+
+YEARBOOK OF SPECIAL EDUCATION, 1977-1978.
+1977. Marquis Academic Media, Marquis
+Who’s Who, Inc. Chicago.
+
+ 
+
+ 
+
+ 
+

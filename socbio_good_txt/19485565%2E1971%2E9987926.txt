@@ -1,0 +1,847 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Population genetics and disease control
+
+N. E. Morton
+
+To cite this article: N. E. Morton (1971) Population genetics and disease control, Social Biology,
+18:3, 243-251, DOI: 10.1080/19485565.1971.9987926
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1971.9987926
+
+fe Published online: 23 Aug 2010.
+(FB arr | 7
+Submit your article to this journal @
+alil Article views: 1
+N
+Q View related articles 4
+
+wa Citing articles: 7 View citing articles @
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:54
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+Population Genetics and
+Disease Control*
+
+N. E. Morton
+
+Population Genetics Laboratory
+University of Hawaii
+Honolulu, Hawaii
+
+Population genetics is mathematical
+genetics. “The role of the mathematical
+theory is that of an intermediary between
+the bodies of factual knowledge discovered
+at two levels, that of the individual and
+that of the population. It must deduce from
+the postulates at the level of the individual and from models of population structure what is to be expected in populations,
+and then modify its postulates and models
+on the basis of any discrepancies with observation and so on” (Wright, 1960).
+
+Obviously population genetics can contribute to reduction of disease only to the
+extent that disease is genetic. There are
+many ways to estimate what fraction of
+disease is genetic, none of them satisfactory. The frequency of single-gene traits
+(say, 4£) provides an underestimate. To
+this may be added a proportion of diseases
+of obscure etiology with elevated recurrence
+risks in relatives of patients. One theory
+(Falconer, 1965) estimates heritability,
+the fraction of the underlying variation
+which is in one sense heritable. In this case,
+if #,? is the heritability of the 7 disease
+and f; is its prevalence, the weighted sum
+
+* This report was given as a Position Paper for
+the Panel on Population Genetics at the Conference on Genetic Disease Control, Washington,
+DC., December 3-5, 1970. PGL paper No. 68.
+
+ 
+
+C= ZA,
+4
+
+may be taken as an estimate of the prevalence of genetic disease of complex etiology, and M -+ C estimates the total
+frequency of genetic disease. Unfortunately,
+while it is easy to estimate heritability, it
+is virtually impossible to exclude environment common to family members as a
+source of bias or to determine whether
+the model of cumulative gene action under
+which heritability can be estimated is valid.
+Thus, any estimate of the prevalence of
+genetic disease is unreliable.
+
+While population genetics does not provide much help in estimating what fraction
+of disease is genetic, and in fact does not
+indicate whether such an estimate is meaningful, none of the applications of population genetics to disease control depends on
+this estimate. In this paper I will discuss
+four applications: estimation of recurrence
+risks for genetic counseling, assortative
+mating, selective termination of reproduction, and changes in systematic pressure.
+
+RECURRENCE RISKS
+
+Genetic counseling is a transaction which
+can be resolved into three distinct operations. In the first, the problem is stated by
+
+243
+
+ 
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+244
+
+diagnosis of affection in family members.
+Usually the diagnosis must be extremely
+precise; for example, there are many simply-inherited forms of cleft palate, which
+for genetic counseling should be differentiated from the residual class of obscure etiology. The second operation is prognosis
+for the disease in patients and for recurrence in relatives. The final step is communication of medical and genetic information
+to the patient or his relatives.
+
+When we consider that precise specification of recurrence risks is the central
+problem of genetic counseling, without
+which the transaction is mere charlatanism,
+it is remarkable that no standards have
+been set and that, for diseases of complex
+etiology, even the theory is poorly developed. A minimum standard would be
+that affection in the parents and sibs of a
+subject be known and that at least this information be used to specify the recurrence
+risk. But how should the risk be estimated:
+by follow-up of a subsequent child in a pitifully small number of families of a particular type (for example, with one affected
+parent and 1 of 3 prior sibs affected) or by
+fitting a model to a much larger number
+of families of various compositions? In the
+latter event, should the model assume
+cumulative gene action (Falconer, 1965;
+Edwards, 1967; Smith, 1970), or independent gene action at one or many loci
+(Morton et al., 1970), or a more eclectic
+beta distribution of risk? Until these theoretical problems are resolved and adequate
+data are submitted to critical analysis
+(and you can count on the fingers of one
+hand the investigators attempting to do
+this), standards of genetic counseling for
+diseases of complex etiology will remain
+far below other medical specialties.
+
+Recurrence risks may be tabulated for
+any genetic hypothesis which fits segregation data. Very limited experience supports
+the expectation that two hypotheses which
+
+Morton
+
+Social Biology
+
+fit a substantial body of data necessarily
+predict closely similar risks for all the commonly observed segregation patterns and
+therefore provide adequate estimates of recurrence risks,
+
+While it may therefore not be important
+for genetic counseling to discriminate between two well-fitting genetic hypotheses,
+the long-term effects of treatment and
+carrier detection depend critically on the
+genetic basis of affection. The prevention
+of disease due to a single locus with manifest carriers is relatively easy, whereas
+multifactorial systems offer less opportunity
+for carrier detection and respond poorly to
+selection on a rare phenotype. Even collection of large bodies of data suitable for
+complex segregation analysis may not
+resolve the basis of affection, although providing reliable risks for genetic counseling.
+
+Special challenges are posed by chromosomal anomalies, which may segregate
+differently among families. Analysis must
+test for and describe this heterogeneity. A
+possible approach is through the hypergeometric Gini-Skellam distribution, which
+arises through binomial trials from risks
+which vary as a beta distribution among
+families (Morton, 1969).
+
+ASSORTATIVE MATING
+
+The frequencies of some genetic diseases
+could be markedly reduced by small alterations of mating pattern, without necessarily changing fertility of any part of the
+population. A simple example is sickle-cell
+disease, caused by homozygosis for the Hbg®
+allele of hemoglobin. Patients have severe
+anemia and usually die young. Since this
+allele is common in many African populations, complete avoidance of matings between carriers would reduce the frequency
+of deaths from this dreadful disease from
+at least one hundred thousand per year to
+zero.
+
+Carriers would be free to mate with non
+ 
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+Vol. 18, No. 3
+
+carriers, since this union produces no
+affected children. Two carriers who married
+would be sure of having no affected
+children if they practiced adoption or artificial insemination (“semi-adoption”) by a
+noncarrier male. From the standpoint of
+future generations, adoption and semiadoption in AS & AS marriages are better
+than negative assortative mating, since
+they reduce the S gene frequency at the
+same time they avoid carrier matings.
+However, this difference is rather trivial
+because most carriers marry noncarriers
+even under random mating. Of course,
+research is needed to determine whether
+these practices involve any undesirable
+psychological, social, or political side effects
+in the populations where the § allele is
+frequent, and whether the cost of a program for detection and education of carriers
+is less than for other public health
+measures, such as control of infectious
+diseases, which would be of equal or greater
+benefit. Medical advances which could
+make sickle-cell disease benign must be
+sought and if found would make a program
+of negative assortative mating less attractive. Therefore, such a program is best
+thought of as a stopgap measure, useful
+until effective therapy (if ever feasible)
+can be devised.
+
+There are other genes producing severe
+disease in homozygotes, reliably detected
+in carriers, and reaching high frequencies
+in some populations, whose effects could
+therefore be controlled by negative assortative mating. Examples are thalassemia in
+several Mediterranean populations and certain rare recessives in isolates. For the
+latter, the frequency of affection could be
+
+‘substantially reduced even in the absence
+
+of reliable carrier detection, if affected individuals and their first-degree relatives
+married outside the isolate or practiced
+adoption or semi-adoption from outside the
+isolate. Such a procedure virtually assures
+
+Population Genetics and Disease
+
+245
+
+unaffected children to the outmarrying
+individuals, but is less efficient for reducing
+disease in the whole isolate, which contains
+many carriers who are not first-degree
+relatives of patients.
+
+SELECTIVE TERMINATION OF
+REPRODUCTION
+
+Under certain conditions differential
+reproduction can be an efficient method for
+control of genetic disease. It may operate
+in two essentially different ways. A fraction
+p of carriers recognized phenotypically,
+or as children of patients, or through probability as relatives of patients, may reduce
+their fertility by a fraction ¢ (i.e., the ratio
+of their mean fertility to the population
+mean is 1—#), without regard to the
+phenotypes of their children. This is equivalent to a selection coefficient pt against
+carriers, the effect of which is easily predicted and will be substantial if p¢ is large.
+The efficiency of this method is limited by
+the difficulty of making pf large, both because of lack of interest in carriers and the
+fact that carrier detection is now practicable for only a small fraction of genetic
+disease.
+
+Alternatively, carriers may limit reproduction because of the birth of an affected
+child, in the extreme case terminating
+reproduction as soon as the first affected
+child is born. This would have a disastrous
+effect on the power of genetic methods to
+determine mode of inheritance from segregation data, since all patients would be
+isolated cases, but there would be some
+reduction in the frequency of genetic
+disease. The efficiency of this method is
+limited by lack of carrier interest, the
+small proportion of carriers who have
+affected children, and the fact that much
+genetic disease has onset too late to guide
+family planning.
+
+For illustration, let us suppose the extreme case of no reproduction after the
+
+ 
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+246
+
+birth of an affected child in a population
+where the number of children per mating
+(s) who survive to the age of diagnosis
+has a negative binomial distribution with
+mean mz, or
+
+f(s) = (2) m*(1 — m)*-8,
+s=0,1,2,...,
+and
+m,2 <0.
+Then under the stopping rule, the distribution of family size is
+
+Morton
+
+Social Biology
+
+we see that
+
+dt = (8g)/( —klg —Q)),
+
+and so by integration
+
+Steal
+=: — } ly | ———-——
+k g:—Q
+is the number of generations required under our simplifying assumptions to go from
+an initial gene frequency gq, to a value q:,
+
+where go < Qi < QorQO < gt < qo. The
+number of generations required to go
+
+sy p)*+ B= ptt DY 1)
+
+g(s3p) =
+
+From this and the population fertility f(s)
+the efficiency of selection may be calculated and the risk » may be estimated,
+but the computations are rather formidable.
+
+CHANGES IN SYSTEMATIC PRESSURE
+
+It is sometimes convenient to have a
+simple approximation for predicting the
+evolution of gene frequency (q) when the
+systemative pressure changes. Suppose that
+the total gene frequency change to be
+predicted is small (as it must be when
+dealing with rare genes). Then we may
+consider the linearized systematic pressure
+® defined as
+
+5 dA 0
+8g
+where
+
+A= —k(q— Q) + 0(¢ — Q)?
+
+is the rate of change of gene frequency
+q per generation and Q is the equilibrium
+value of g under the pressure & Writing
+
+A = (d9)/(d),
+
+ 
+
+= {H(s)(1 —p)*- 911 — py > f(x) }
+
+halfway to equilibrium is therefore
+t = (In 2)/k = 0.7/R.
+
+We shall consider four kinds of rare
+genes causing disease, each imposing such
+a small genetic load that its effect on the
+population fitness can be neglected (w# =
+
+1).
+
+I. AUTOSOMAL DOMINANT
+If the gene is so rare that homozygosis
+is negligible, we may represent the situation as follows:
+
+genotype DD Dd dd
+frequency 0 2q  1—2q
+relative fitness 0 1—s 1
+A=u(1—g)—gs
+ko=uts.
+
+At equilibrium, go = u/s, where w is the
+mutation rate and s is the selection coefficient. Now suppose that the mutation
+rate is multiplied by a factor c because
+of environmental pollution (radiation or
+chemical) or the selection coefficient is
+multiplied by a factor 1/c because of medical treatment (c > 1). Alternatively, suppose that the mutation rate is reduced from
+
+ 
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+Vol. 18, No. 3 247
+
+Population Genetics and Disease
+
+TABLE 1
+
+CHANGES IN SYSTEMATIC PRESSURE
+(4 = mutation rate, s = selection coefficient against disease, 4 == dominance in carriers, F = inbreeding
+
+coefficient)
+Number of
+Equilibrium Generations
+Initial Gene Required to Go
+Gene Frequency Frequency Halfway to
+Initial Condition (go) New Condition (Q) Equilibrium
+I. Autosomal dominant
+disease
+Mutation-selection
+balance ......ee0. u/s u-> Cu cu/s (1/s) In2
+Mutation-selection
+balance .......06. u/s s->s/e cu/s (c/s) In2
+II. X-linked recessive
+disease
+Mutation-selection
+balance .......06. 3u/s u-> cu 3cu/s (3/s) In 2
+Mutation-selection
+balance .........- 3u/s s>s/c 3cu/s (3c/s) In2
+III. Autosomal recessive
+disease
+Mutation-inbreeding
+balance sacs cawses u/Fs Fs0,h=0 u/s (1/2Qs) In 2
+Mutation-inbreeding
+balance .........6. u/Fs F>0,k>0 u/hs (1/hs) in 2
+Mutation-carrier
+selection balance... wu/hs h>0 Vu/s (1/2Qs) In 2
+Mutation-selection
+balance .........6. uf(h+q+F’)s F’>F,F>F’ u/Fs (1/Fs) In2
+Mutation-selection
+balance ssvsciesas uf(htq+F)s ur>cuh+FO0 Veu/s (1/2Qs) In 2
+Mutation-selection __
+balance .......-.. uf(ht+-q+F)s s>s/coh+F>0 Veu/s (c/2Qs) In 2
+IV. Heterozygote advantage
+(v = selection coefficient against normal homozygote)
+Mutation-selection
+balance .......... ufhkhtv+F)s htF>0,u>q, v/(s+yv) [1/(2Qs-+v)]ln2
+Selection-selection __
+balance .......... v/(s + v) v>O0h+FO0 Vu/s [1/2Qs] In2
+Selection-selection
+balance .......66. v/(s +) s>s/c cv/(s + cv) [e/(20s+cv)] In2
+Selection-selection
+balance .......... v/(s + v) v> cv cvo/(s+ev) [1/(20s-+cv)] In2
+
+ 
+
+u to cu by a favorable environmental
+change or the selection coefficient increased
+from s to s/c by a program of genetic
+disease control (0 < ¢ < 1). Then the new
+systematic pressure would be
+
+k=cu-+s for change in mutation
+=u-+s/c for change in selection,
+
+and the new equilibrium in either case
+would be Q = cu/s. The time required
+to go halfway to the new equilibrium is
+approximately
+
+t= (1/s)in2_ for change in mutation
+=: (c/s) in2_ for change in selection.
+
+Despite the use of convenient approximaDownloaded by [University of Michigan] at 13:54 08 December 2015
+
+248 Morton
+
+tions, which are gross if s is large, this
+simple result is rather accurate. It shows
+that the frequency of a rare dominant
+disease responds quickly to changes in mutation or selection.
+
+II. X-LINKED RECESSIVE
+On the above simplifying assumptions,
+
+A= u(1—q) — qs/3,
+k=u-+s/3
+
+since selection acts only through males,
+who carry one-third of the X chromosomes.
+Thus, the initial equilibrium is at qa =
+3u/s and the final equilibrium at 0 =
+3cu/s. The time required to go halfway
+to the new equilibrium is
+
+t= (3/s) In2_ for change in mutation
+= (3c/s) In2_ for change in selection
+
+The frequency of a rare X-linked recessive
+disease responds only one-third as quickly
+to changes in mutation or selection as an
+autosomal dominant disease, but the response is still rapid. For example, with
+s = % and ¢ = 2, a doubling of the
+mutation rate would carry an X-linked
+disease halfway to the new equilibrium in
+about 3 generations (4/n 2), whereas halving the selection coefficient would take
+twice as long to produce the same change
+in disease frequency.
+
+III. AUTOSOMAL RECESSIVE
+
+Recessivity complicates the analysis by
+introducing two factors which are unimportant for autosomal dominant and Xlinked recessive diseases: inbreeding (measured by F) and selection against carriers
+(measured by hs, where / is the dominance). The situation is represented as
+follows:
+
+genotype RR
+frequency
+relative fitness
+
+A=—qs [h-+q-+F] +u(1 —@)
+k=—s{[h+2q+F] +4.
+
+Social Biology
+
+There are many special cases, according
+to which parameters are changed and
+which are negligible.
+
+Case 1. Selection through inbreeding.
+Many isolated and primitive populations
+have mean coefficients of inbreeding in the
+neighborhood of F = 0.04, compared with
+which # and gq are negligible, and so we
+may assume that & = Fs. At equilibrium
+
+= u/, Fs.
+
+Suppose that the population now becomes panmictic by breakdown of isolates.
+If / is negligible and gs >> u, we see that
+k = 2gqs, and at the new equilibrium
+
+= /u/s. The time required to go
+halfway to equilibrium is approximately
+#=(1/2Qs) In2. This is a much slower
+response to change than for autosomal
+dominants and X-linked recessives. With
+Q = 0,002 and s = 1, about 350 generations are required to go halfway to equilibrium, or about 8,700 years. Thus gene
+frequencies for recessive diseases may be
+still substantially below their equilibrium
+values if inbreeding were reduced as long
+ago as the beginning of the Neolithic,
+while the gene pool has hardly begun to
+respond to reduction of inbreeding during
+the last century. One effect of this is to
+tend to make estimates of recessive mutation rates too small. Another effect, of
+greater medical importance, is that the
+impact of rare recessive disease in modern
+populations is below its equilibrium value,
+which will be approached very slowly.
+
+Evidence from Catholic marriage dispensations suggests that inbreeding was
+low in Europe just before the Industrial
+Revolution, but increased markedly during the nineteenth century, probably because increase of family size preceded
+
+Rr rr
+
+(1—q)?(1 a 4+-(1—q)F 2¢11—qQ)U—F) @(1l—F)+4F
+
+1 — hs l1—s
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+ 
+
+Vol. 18, No. 3
+
+increase of migration rate. If during this
+period of high inbreeding F dominated
+selection, the systematic pressure would
+be k = Fs, and the time required to go
+halfway to equilibrium would be (1/Fs)
+In 2. Since F was in the neighborhood of
+0.01 for isolates during this period, it
+would have taken at least one hundred
+generations to go halfway to equilibrium.
+Thus, a century of increased inbreeding
+exerted no important effect on gene frequency.
+
+Case 2. Selection against heterozygous
+effects. Selection against heterozygotes for
+nominally recessive genes may occur
+through rare penetrance as severe disease
+or more frequent expression of mild symptoms, the net result being a selection coefficient fs.
+
+Suppose first that a population under
+high inbreeding (compared to which & is
+negligible) becomes panmictic, with # >>
+q. Then the time required to go halfway
+from the initial equilibrium at g, = F's to
+the final equilibrium at Q = u/hs is
+t= (1/hs) In2. For s=1 and k= 0.01,
+this takes 69 generations or about 1,700
+years. Thus, response to isolate-breaking
+is slow with weak selection against heterozygotes, but much more rapid than for a
+completely recessive gene. The same results hold for reduction of gene frequency
+if # is initially negligible but becomes
+important because heterozygotes voluntarily limit reproduction by a factor As.
+
+Another situation of interest is the abolition of heterozygous impairment in a panmictic population through a less selective
+environment, The initial equilibrium frequency would be at gy = u/hs and the
+final equilibrium at Q =./u/s. The time
+required to go halfway to equilibrium is
+#—(1/2Qs)In2 just as for selection
+through inbreeding.
+
+Case 3. Change of mutation rate or
+selection coefficient. If the mutation rate
+# is changed to cz or the selection coeffi
+Population Genetics and Disease
+
+249
+
+cient s becomes s/c, the time to go halfway to equilibrium providing 4 -+- F >>
+q, in which case selection is usually through
+heterozygotes, is
+
+t= (1/s)(k-+ F) In2
+for change in mutation
+
+— (c/s) (k-+- F) In?
+
+for change in selection.
+
+This will be a large number when (# +- F)
+$ is small.
+
+lik + F << q, selection is usually
+through homozygotes and
+
+t= (1/2Qs) 1n2 for change in mutation
+= (c/2Qs) 1n2 for change in selection.
+
+Response is very slow, as with a decrease
+of inbreeding.
+
+IV. HETEROZYGOTE ADVANTAGE
+
+A few rare recessive genes in man which
+reach low polymorphic frequencies in some
+populations have been suspected of showing heterosis. Two examples are cystic
+fibrosis in Caucasians and Tay-Sachs disease in Ashkenazi Jews. On this hypothesis, an initially deleterious allele maintained
+at an equilibrium frequency g = u/
+(A + gq -+ F) changes into the following
+situation:
+
+genotype RR Rr Ir
+frequency (1—gq)? 2q(1—q) ¢
+relative fitness 1—v 1 I1—s
+
+A— fA = 9 + FU —s5)
+~ L—g’s— (1—q)2v
+—q+u(l—q)
+
+— 91 —9)[gs+ (1 — 92]
+— 1 — g?s — (1 — g)2n
++ “(1 —q).
+We shall here consider only the case in
+which g?s + (1 — q)?v is a small fraction
+
+and wa << uv << 5. This excludes such
+polymorphisms as sickle-cell disease under
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+250
+
+hyperendemic falciparum malaria, where s
+and v are both large and so the genetic
+load is not negligible. On our assumptions
+we can write
+
+A == —q*s — qv,
+k + 20s + v.
+
+The time to go halfway to the new equilibrium at O = v/(s -++ v) is approximately
+t= [1/(2Qs +- v)] In 2. This is large if v
+is very small.
+
+Now suppose that the system has reached
+equilibrium under heterosis and reverts to
+a mutation-selection balance (v = 0;
+kh +. F = 0). The time required to go
+halfway to the new equilibrium at Q =
+/u/s is t= [1/2Q0s] In 2. Approach to
+equilibrium is extremely slow.
+
+Finally, let us consider a change in the
+selection coefficient from v to cv or from
+s to s/e (¢ > 0). The new heterotic
+equilibrium is at Q = cv/(s + cv), and
+the time to go halfway to equilibrium is
+
+t == [1/(20s + cv)] In2
+
+for change in v
+
+= [c/(20s + cv)] In2
+
+for change in s.
+
+DISCUSSION
+
+I hope that this brief and much simplified presentation of some aspects of population genetics relevant to disease control
+has made the reader conscious of the deep
+problems in this field. The biological facts
+are often in doubt. Is cystic fibrosis maintained in Caucasian populations by heterozygote advantage, as some have suggested,
+or does an historical accident account for
+its unusually high frequency by genetic
+drift? Is sickle-cell disease likely to be
+curable in the near future, or is a program
+of genetic control through negative assor
+Morton
+
+Social Biology
+
+tative mating more promising? We know
+far too little about the parameters of human population genetics, such as patterns
+of recurrence risks among families for diseases of complex inheritance, spontaneous
+and induced mutation rates per codon, the
+fraction of amino-acid substitutions which
+are markedly deleterious, the magnitude of
+weak selective pressures, and the relative
+forces of genetic drift and variable selection. Population geneticists cannot be
+dogmatic.
+
+For the next few years, as I have suggested at length elsewhere (Morton, in
+press), the most fruitful directions for research in human population genetics seem
+to be in what Haldane called “bean-bag genetics”: the precise analysis of modes of
+inheritance, with special regard to heterogeneity in diseases of complex inheritance
+and to that useful byproduct, specific and
+reliable recurrence risks for genetic counseling. Genetic analysis will increasingly
+have to cope with the effects of selective
+termination of reproduction, which must
+be studied also for its impact on frequency
+of genetic disease. Family planning, with
+its emphasis on the right of parents and
+the interest of society to prevent genetic
+disease, has applications and consequences
+which it is the responsibility of population
+genetics to determine.
+
+Finally, if we turn our attention to more
+futuristic aspects of genetic disease control,
+to genetic engineering, the feasibility of the
+techniques proposed is in much doubt. The
+rate of genetic change is so slow, the number of population geneticists so small,
+the history of our science so short, the
+importance of understanding our genetic
+heritage so great, and the unexplored ocean
+of the contemporary gene pool so vast, that
+at this juncture it seems unrewarding to
+speculate about the consequences of techniques yet to be developed or applied.
+
+ 
+CY
+=
+©
+N
+mei
+oO
+=
+oO
+oO
+oO
+A
+Co
+©
+=—
+"i
+4
+=
+—
+CS
+‘g
+oS
+ON
+=
+aon
+O
+=
+Ce
+©
+>>
+—
+—
+N
+Samed
+oO
+>
+—
+c
+=
+re)
+OQ
+cv
+oO
+co
+oS
+©
+—
+c
+S
+©
+A
+
+Vol. 18, No. 3
+
+Population Genetics and Disease
+
+ 
+
+251
+
+REFERENCES
+
+Epwarps, J. H. 1967. Linkage studies of whole
+populations, p. 483-489. In Proc. Third Int.
+Cong. Hum. Genet., John Hopkins Press,
+Baltimore.
+
+Fatconer, D. S. 1965. The inheritance of liability to certain diseases, estimated from the
+incidence among relatives. Ann. Hum. Genet.
+(London) 29:51-76.
+
+Morton, N. E. 1969. Segregation analysis, p. 129139. In N. E. Morton (ed.), Computer applicapoms in genetics. Univ. of Hawaii Press, Honoulu.
+
+Morton, N. E. The future of human population
+
+ 
+
+genetics. Jn A. G. Steinberg and A. Bearn
+(eds.), Progress in medical genetics, Vol. 8. In
+press.
+
+Morron, N. E., S. Yer, R. C. Exsron, and R.
+Lew. 1970. Discontinuity and quasi-continuity:
+Alternative hypotheses of multifactorial inheritance. Clin, Genet. 1:81-94.
+
+SmiTH, C. 1970. Heritability of liability and
+concordance in monozygous twins. Ann. Hum.
+Genet. (London) 34:85-91.
+
+Wricut, S. 1960. Genetics and twentieth-century
+Darwinism. A review and discussion. Am. J.
+Hum. Genet. 12:365-372.
+

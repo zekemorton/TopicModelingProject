@@ -1,0 +1,1949 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+ 
+
+A dynamic, multi-level analysis of recent
+immunization trends in Colombia
+
+Michael McQuestion & Robert E. Jones
+
+To cite this article: Michael McQuestion & Robert E. Jones (1998) A dynamic, multi#level
+analysis of recent immunization trends in Colombia, Social Biology, 45:1-2, 39-59, DOI:
+10.1080/19485565.1998.9988963
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1998.9988963
+
+ 
+
+fa Published online: 23 Aug 2010.
+
+&
+(g Submit your article to this journal @
+
+all Article views: 12
+
+»
+Q View related articles 4
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:47
+
+ 
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+A Dynamic, Multi-level Analysis
+of Recent Immunization Trends in Colombia
+
+ 
+
+Michael McQuestion and Robert E. Jones
+
+Center for Demography and Ecology
+Department of Sociology
+
+University of Wisconsin-Madison
+Madison, Wisconsin 53706
+
+ABSTRACT: During 1985-91, Latin American ministries of health carried out the ultimately successful Regional Polio Eradication Initiative. Unprecedented vaccine coverage levels were attained through a combination of mass campaigns, house-to-house vaccinations, and improvements in routine immunization services. Little is known, however, about the effects of these
+interventions on immunization demand; whether they reached so-called high-risk households
+and, if so, whether program effects were sufficient to offset the household risk factors. This paper examines the probability and timing of full immunization over this period in one case coun
+‘try, Colombia. Information on the immunization status of 3,609 vaccine-eligible children born
+
+1985-90 was extracted from Colombia’s 1990 Demographic and Health Survey. Annual immunization coverage estimates from the Colombian Ministry of Health for 1985-90 for 148 sample
+municipios were appended to each child record, along with household-level data. Initial nonparametric regressions showed that five of six observed risk factors negatively influenced full immunization probability. Multivariate logit models showed that parents who had already lost a
+child were significantly less likely to obtain immunization cards (a proxy for exposure to the routine immunization program), despite rising cardholdership rates over the period. Among 1,376
+immunization cardholders, waiting times to full immunization fell monotonically over the period. Local program coverage of 80 per cent or higher and prior use of prenatal services both increased the probability of full immunization. However, three of five maternal occupational categories decreased the probability, as did three of six observed household risk factors. The results
+show that demand for routine immunizations rose over the period, that only the highest-risk
+households were not exposed to the routine program, and that routine program participation
+partially offset negative risk factor effects on the probability of full immunization. While targeted PHC interventions may increase health production by recruiting high-risk households into
+the routine PHC services, further health production increases will require more intensive followup of such households through routine PHC services.
+
+Mortality and fertility rates have fallen immunizations, growth monitoring, prefaster in Latin America in recent decades natal care, health education, inexpensive
+than anywhere else in the developing world treatment for common illnesses, and envi(Hill and Pebley, 1989; McNicoll, 1992; ronmental monitoring had been available
+Sullivan, 1991). This rapid transition, many to the majority of the region’s households
+argue, has been propelled more by public (PAHO, 1990). In certain areas, however,
+health programs than by improvements in utilization of those services has lagged, deliving standards (Preston, 1985; Bahr and spite various outreach and promotional efWehrhahn, 1993). Well before the 1978 forts by health workers (Lechtig et al.,
+Alma-Ata Conference, comprehensive pri- 1983; Askew, 1988; WHO, 1991; Mora
+mary health care (PHC) services, including and Yunes, 1993). |
+
+39
+
+ 
+ 
+
+40 McQuestion and Jones
+
+To maximize health impacts, Latin
+American health policymakers began emphasizing a smaller set of specific PHC
+programs in the 1980’s, including the Expanded Program on Immunization (EPI),
+programs for the control of diarrheal and
+acute respiratory diseases, nutritional
+monitoring and, more recently, maternal
+health (Walsh and Warren, 1979; Grant,
+1991; Chelala, 1992). In the past decade,
+
+governments and donor agencies alike
+Chave spent unprecedented amounts on
+hese specific PHC programs. An examle was the Regional Polio Eradication
+nitiative launched in 1985 through the
+oPan American Health Organization Recgional EPI Program. At the onset of the
+«polio effort, routine immunization ser“vices were accessible to at least 70 per
+<fent of the region’s families but coverage
+levels hovered around 50 per cent (de
+"Quadros et al., 1991). As the eradication
+-effort progressed, ministries of health be‘Gzan continuously monitoring the percentSage of children fully immunized down to
+Sthe municipio level, enabling them to tar‘Pet inputs to high-risk areas. Over half
+bf the region’s approximately 10,000
+nunicipios had passed the 75 per cent
+‘Soverage mark by 1988, but a small proSportion—around 500 mostly low-income
+‘aurban communities—had not yet reached
+SO per cent coverage. By 1991 special
+A mop-up” teams of house-to-house vaccinators had pushed up coverage levels to
+over 75 per cent in these laggard munictipios as well (MMWR, 1994). Regional
+polio eradication was formally certified in
+October 1994.
+
+A recent six-country evaluation found
+that the Regional Polio Effort had
+strengthened delivery capacities for routine immunization services and other
+PHC programs (PAHO, 1995). The evalu
+Social Biology
+
+ation, however, did not address household
+demand for routine PHC services. It
+seems likely that such a large-scale sustained intervention affected at least immunization demand (Wright, 1995). Immunization demand might rise for several
+reasons: parents’ heightened awareness of
+the need; increased availability and quality of PHC services; increased income
+and changes in other household constraints; sanctions and other social effects. A positive program treatment effect
+would make parents more likely to complete the immunization schedule because
+they understand the importance of disease
+prevention and have rearranged their
+preferences accordingly. The polio initiative has been criticized for emphasizing
+expediency over the latter (Nichter, 1995;
+Wright, 1995). Of particular interest is
+whether or not immunization demand increased uniformly across various socioeconomic strata and risk groups (Nichter,
+1995).
+
+In this paper we examine immunization demand over the period 1985-90 in
+Colombia, one of the six countries evaluated by PAHO and one of the last to eliminate polio. Data provided by the Colombian Ministry of Health show that the
+proportions of children under age one
+who had received at least three doses of
+polio vaccine rose monotonically over the
+period 1983-90 (Table 1). Householdlevel immunization data reported in
+Colombia’s 1986 and 1990 Demographic
+and Health Surveys (DHS), summarized
+in Table 2, suggest that coverage rose for
+children ages 12-23 months, that the
+mean age of full immunization declined
+over the interval, but that the proportion
+of children with immunization cards did
+not increase. A direct comparison of full
+immunization probabilities cannot be
+
+ 
+Vol. 45, No. 1-2
+
+Immunization Trends 41
+
+TABLE 1
+
+PERCENTAGE OF CHILDREN HAVING RECEIVED THREE DOSEs OF POLIO VACCINE (OPV)
+BEFORE AGE ONE, 1985-1990, COLOMBIA
+
+No. (PER CENT) OF MUNICIPIOS
+
+MEAN OPV3 COVERAGE
+
+Expected to Actually Std,
+
+YEAR Report Reporting Per Cent Deviation
+DGS weaccssneemmenaonnennnsnnns 1,033 936 (91) 53.67 30.76
+ee 1,033 928 (90) 59.69 28.93
+L987 ooo eeccseeeeeteeseseeenseeees 1,033 875 (85) 73.78 25.76
+L988 oe cecssecestctececesseneees 1,035 1,008 (97) 78.86 22.15
+OS) ) 1,016 990 (97) 81.24 20.79
+| 1,016 1,010 (99) 85.63 19.3
+
+Source: Colombian Ministry of Health
+
+TABLE 2
+
+PROPORTIONS OF CHILDREN WITH CARDS, FULLY IMMUNIZED, AGES I-59 MONTHS,
+DHS I AND DHS II, CoLOMBIA
+
+DHS 1 (1986) DHS II (1990)
+Fully Fully
+Card Immunized, Card Fully Immunized,
+
+AGES (MONTHS) Shown Card Only Shown Immunized Card Only
+1-5 ...eessesccscessssceseseseetsereeeees 0.50 0 vee wee wae
+GE ereiiccnren ena maaan ies 0.59 0.12 nba 0.43 0.47
+D2 isin coneenngiensvrvesa sitet 0.55 0.40 0.58 0.69 0.73
+BO waenmesn ammmunen anita omnes 0.50 0.44 0.42 0.39 os
+BOAT oe eeesccssessscceseeessneneees a 6 «me 0.46 0.27
+4B 59 oe evescesseeeseeeseseeene 0.41 0.39 0.37 0.32
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Source: Macro International, 1990.
+*Card + maternal recall: BCG+DPT3+OPV3+measles.
+
+made, however, because different methods
+were used to estimate the age-specific
+coverage levels. The 1981-85 period rates
+are derived from immunization cards with
+no maternal recall while the 1985-89
+rates, estimated with the DHS II data,
+combine card and maternal recall data
+(Macro International, 1990). As Goldman
+and Pebley (1994a) showed using DHS
+data from Guatemala, disregarding the reporting method may lead to biased coverage estimates.
+
+Conceptualizing our models is difficult
+for both practical and methodological reasons. Under the changing immunization
+
+regime a child could have been immunized through routine services, mass campaigns, house-to-house teams, or a combination of the three. The earliest mass
+campaigns offered only polio (OPV) vaccine. By 1988, however, most countries
+were simultaneously administering OPV,
+DPT, and measles vaccines on campaign
+days. As a rule, new immunization cards
+were only issued through the routine immunization services. In temporary campaign posts, routine program users who
+presented immunization cards may or
+may not have had them updated. Children
+without cards were likewise immunized
+
+ 
+ 
+
+42 McQuestion and Jones
+
+and the parents were referred to the routine services to obtain cards. In order to
+attain full immunization status, a child
+needed to receive a fourth antigen, BCG
+vaccine, which was only administered
+through the routine services. Thus, attendance at temporary posts may have induced some parents to obtain cards later
+through the routine services. However, attaining full immunization status required
+=at least one contact with the routine ser“vices. Accordingly, we model cardholderSship as an indicator of some degree of
+oroutine program exposure. We further asAsume that parents’ health-seeking behavcoiors and preferences would most likely be
+r-changed by repeated contact with routine
+csPHC providers; less so, by participa~stion in the campaigns (Loevinsohn and
+=Loevinsohn, 1987).
+5») The research problem is also complicated from a methodological viewpoint.
+Parents with high health-producing proensities would be most likely both to utiize the routine program and to complete
+their children’s immunization schedules.
+‘STo infer a program effect on immunization
+outcomes would be spurious in such a case
+(Maddala, 1983). Negative selection may
+‘also have occurred, for very different reaSsons. Among the noncardholders might
+‘Shave been better-off parents who opt to obStain immunizations and other PHC services from private providers.
+
+Among the noncardholders might also
+have been a relatively small number of
+highest-risk parents who most resist the
+routine program. Recent studies have
+shown that as few as 6 per cent of households produce as much as two-thirds of
+infant and child mortality in some developing areas (Das Gupta, 1990; Desai,
+1992; Curtis et al., 1993; Guo, 1993). A
+range of household-level mortality risk
+
+1
+
+of Mich
+
+so
+
+t
+
+vers
+
+Social Biology
+
+correlates have been identified, some of
+which we model below. Of potentially
+greater import, however, are the unobserved causes of low “maternal competence” (Das Gupta, 1990). Given that immunization is an important proximate
+determinant of infant and childhood mortality, one would expect so-called “highrisk” households to be among the least
+likely to have cards or fully immunized
+children (Rutstein et al., 1990; Mosley
+and Chen, 1984).
+
+Also, the fluid immunization regime
+itself violates standard statistical assumptions. As described above, greater program effort was focused on certain municipios, which tended to be relatively
+poorer. High-risk households might have
+been overrepresented in these more refractory municipios. This nonindependence of program effort and client characteristics could produce inconsistent
+parameter estimates due to endogeneity
+bias (Rosenzweig and Wolpin, 1986).
+Such a program endogeneity bias might
+cause underestimation of the true effects
+of observed risk covariates.
+
+Clustering bias is another threat to external validity. The dataset we use contains observations on siblings within
+households. Unmeasured household-level
+factors would affect them equally, biasing
+downward the standard error estimates
+for observed covariates. In sum, simply
+comparing the conditional probabilities
+of full immunization of cardholders to
+noncardholders could be misleading.
+
+With the above in mind, we investigate
+three issues in this paper: (1) Did Colombia’s changing immunization regime recruit high-risk households into the ranks
+of regular immunization service users or
+did it merely reach them through the periodic campaigns? (2) Once recruited, were
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Vol. 45, No. 1-2
+
+high-risk parents as likely as “low-risk”
+parents to complete their children’s immunization? (3) Given routine program
+exposure, did the pace or timing of immunization vary among high- and lowrisk children?
+
+MATERIALS AND METHODS
+MODEL SPECIFICATION
+DEPENDENT VARIABLES
+
+We examine household- and community-level determinants of three individual immunization outcomes: immunization cardholdership, immunization status,
+and the waiting times to full immunization. A child is classified as a cardholder
+if her immunization card was seen by
+an interviewer. Full immunization status
+is our dichotomous measure of whether
+or not a child has received the correct
+number of doses of all four WHOrecommended antigens (one dose of
+BCG, three doses of DPT, three doses of
+OPV, and one dose of measles). The waiting times, in months, indicate how long it
+took parents to fully immunize an index
+child with exposure starting at 9 months
+of age, the minimal age at which WHO
+recommends the last antigen, measles, be
+administered.
+
+INDEPENDENT VARIABLES
+
+We incorporate six observed health
+risk covariates as predictors in our models: maternal age less than 20 years, no
+formal maternal education, female household headship, no toilet in the household,
+preceding birth interval less than 25
+months, and a history of a prior child
+death. We also include household-level
+controls for maternal occupation, number
+of living children, metropolitan vs. non
+Immunization Trends 43
+
+metropolitan area residence, mother’s
+union status, and prior use of prenatal
+services. At the community level we use
+administrative estimates of local vaccine
+(OPV3) coverage levels as a control for
+local immunization program effort.
+
+CAUSAL FRAMEWORK
+
+We adapt the household production of
+health model, considering immunization
+as a specific input to a more general .
+household health production function
+(Schultz, 1984; DaVanzo and Gertler,
+1990; Akin et al., 1992). Subject to income and other constraints, parents
+choose immunizations over other behavioral alternatives in order to maximize the
+utility a healthy child affords them. Under an optimally efficient household
+health production function, a child is
+fully immunized at the lowest possible
+age—9 months—thereby minimizing exposure to the target vaccine-preventible
+diseases. The efficiency of a production
+function is affected by both cost and socioeconomic factors. A positive treatment
+effect would increase the efficiency of a
+household health production function, resulting in higher probabilities of complete immunization and shorter waiting
+times among routine program users. The
+mechanism for this effect might be endogenous (causing parents to reorder
+preferences) or exogenous (reducing the
+time and other costs or adding incentives
+to obtain immunizations). For high-risk
+households a strong treatment effect
+might offset the negative effects of the
+observed high-risk predictors.
+
+In our application of the household
+production of health approach, immunization utilization is modeled as an endogenous process in which parents first
+obtain cards, then either do or do not go
+
+ 
+ 
+
+TABLE 3
+DESCRIPTION OF INDEPENDENT VARIABLES, COLOMBIA 1985-1990
+
+Variable Description
+Maternal Occupation
+No work past 5 VW. .......scsccscessersessersees omitted category
+Professional/high-wage (SJOB1)........ mgrs. accountants, teachers
+Secretarial, clerical (SJOB2).............. secondary ed or more/public or priv sectors
+Services (SJOB3) .......cccccssseccsseseeeceeeee primary ed or less/cooks, domestics
+Farm, prim sector (SJOB4).............28 family worker, owner-operator/mining
+Secondary sector (SJOBS)...........s000 manufacturing/skilled trades
+Maternal Education
+None (MED 1)...........ccccescssceseenneeneatecee no education
+PIIGIGLY nemcemaemearonxenensmoconneey omitted category
+SCCONATY .....sccccssserssssesesessseeeeeneeteeses completed
+Superior (MEDA4)....00....eessseeesensoneees some university/trade
+=
+& Maternal Age
+5 Under 20 (MAGE 1)... cesesseseeeenes wm
+DDO 2D iiceeecccscesesccsecccsecsessscssseerenteenceee omitted category
+E3039 sersecresereenernseeneenteeasenneeeneen _
+9 40+ (MAGEA) .....ecccececcescenseereersanes
+S Children Now Alive
+PSOne (KIDS 1) eeesecscsssssesssssseccesceeeseresnee Lee
+“Ht TWO ssssscssonerenpeorennrnnnonsenentenensascesiadtinnans omitted category
+C2 Three + (KIDS3) .......esecsesssseseesceens aT
+‘S Previous Child Death
+Fo NO esssecsecccssssssessssessscescacsesaecnceeearsessecnes omitted category
+= Yes (HMORT2) .........csssceseesseeeseereeeee one or more
+oO
+= Household Headship
+ty Made... ee eseescessecsectersesceatsessessesences omitted category
+C Female (HHEAD2).....-ssessssenseeneee bee
+< Union Status
+Legal amo sscesssssscosescnanscescsaverenansacens omitted category
+& Consensual (UNION2).........2ccecessesee includes no current union
+P, Div/sep/widow (UNION3)..........s.006
+>
+5 Toilet
+re VES xcenrccaneessneuneannasnnanesessureseusiaiacranavonnes omitted category
+S NO (TOILET 3)... --sssssecsersssosesessnconses wee
+c
+3 Residence
+A Metropolitatt sis cscsscssvcctsqesnnnnnssonnncones omitted category
+Non-metropolitan (METRO2)............ eae
+Previous Birth Interval
+NONC :sis-scersoneseonsenteseevescnvenncaneicibi tbienvene only child
+24m (P BID) ssssassecemssrssprecmmnempcacas aw
+More than 241%) sssccsnssssccnvcsssasesnrnsnennaeres omitted category
+Prenatal Use
+OME, TAISSING ts caccescenocoronenensesewenviesenet omitted category
+Some (PREN)..........ccsccssesssesesesescesesres mean 5 visits
+Immunization Card
+NO ..ceeesssssceeserenenssscasessecesceneseteetesencees omitted category
+Yes (VCARD ) ss srsssssssaticiervennsceaorsssenes be
+
+Source; DHS II.
+
+Frequency Per Cent
+
+1,635
+185
+669
+695
+107
+318
+
+177
+1,605
+1,572
+
+255
+
+143
+2,052
+1,227
+
+187
+
+827
+1,045
+1,737
+
+3,218
+391
+
+3,041
+568
+
+1,682
+1,473
+454
+
+3,164
+445
+
+2,958
+651
+
+1,276
+760
+1,573
+
+726
+2,678
+
+1,955
+1,654
+
+45.3
+5.1
+18.5
+19.3
+3.0
+8.9
+
+4.9
+44.5
+43.6
+
+7.1
+
+4.0
+56.9
+34.0
+
+5.2
+
+229
+29.0
+48.1
+
+89.2
+10.8
+
+84.3
+15.7
+
+46.6
+40.8
+12.6
+
+87.7
+12.3
+
+82.0
+18.0
+
+35.4
+21.1
+43.6
+
+213
+78.7
+
+54.2
+45.8
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+ 
+
+Vol. 45, No. 1-2
+
+on to complete their child’s immunization. Their propensity to do either is a function of an unobservable health-seeking
+variable. A positive shift in this variable
+could have been caused by improvements
+in local PHC program effort, better information, cognitive change and/or endogenous social effects (Manski, 1994). Thus,
+a strong program effect would reduce
+the variation in both immunization cardholdership and full immunization status
+across socioeconomic strata and risk
+groups. Secondly, the hazard of full immunization would be similar among cardholders regardless of observed risk status.
+
+The local supply of immunizations
+may also affect individual outcomes. To
+control for this possibility we include in
+our models an independent contextual
+measure for local immunization program
+performance: the Colombian Ministry of
+Health’s estimates of the percentage of
+children below age 2 years who had received their third doses of polio vaccine
+(OPV3) in each sample municipio for
+each of the years 1985-90.
+
+METHODS
+
+Because we are uncertain about the
+process generating the observed immunization outcomes we begin our analysis
+in conservative fashion by examining the
+data nonparametrically for evidence of a
+program treatment effect. We use the
+BOUNDS program (Manski and Shen,
+1993) to regress the probability of full
+immunization on each of the six dichotomous risk status covariates, stratifying
+by cardholdership. By the law of total
+probability, the treatment effect can be
+bounded nonparametrically:
+
+P[¥(T)=1|X,Z=1]*P(Z=1|X)—
+P{Y(N)=1|X,Z=0]* P(Z=0|X)—
+
+Immunization Trends 45
+
+P(Z=1|X) = P[Y(T)|X] — PLY(N)|X1=
+P[Y(1)=1|X,Z=1]*P(Z=1|X)+
+P(Z=01X) —P[Y(N)=1|X,Z=0]*P(Z=0)
+
+where
+
+Y(T)=probability of full immunization
+for cardholders;
+Y(N)= probability of full immunization
+for noncardholders;
+X = observed risk covariates;
+Z=a dummy variable indicating cardholdership.
+
+Numerical limitations requires us to
+select first a 50 per cent random sample
+of the dataset. We then stratify the sample
+into the twelve subsamples. Using the
+kernel method, we estimate bootstrap
+probability bounds for full immunization
+for pseudosamples from each stratum, assuming exogenous (random) selection
+(Manski and Shen, 1993). Should the
+bounds fail to overlap for any given risk
+status covariate, controlling for cardholdership, or for cardholders versus noncardholders with the same risk status, the empirical distributions can be said to differ
+significantly. If the probability bounds for
+high-risk strata are lower than those for
+low-risk strata among noncardholders,
+but do not differ significantly among
+cardholders, we have necessary but not
+sufficient evidence of a treatment effect.
+
+CARDHOLDERSHIP
+
+The nonparametric regressions show
+unbiased correlations between selected
+covariates and full immunization probability, conditional on cardholdership.
+Cardholdership, however, is treated as a
+random process—clearly an unrealistic
+assumption. On the other hand, a truly
+successful program might have convinced
+
+ 
+ 
+
+46 McQuestion and Jones
+
+even the most resistant parents to obtain
+cards. To examine the selectivity of cardholdership, we estimate a direct effects
+logit model of the form:
+
+log (Pr(Y=1)/[1—Pr(Y=1)]=
+«+B x, +B x,
+
+where
+
+Y = 1 if child’s card was seen,
+0 if otherwise,
+
+« = aconstant,
+
+x, = a vector of household-level
+covariates,
+
+B, =a vector of parameters for those
+covariates,
+
+X, = a vector of 1990 vaccine coverage estimates,
+
+B, = a vector of parameters for the
+coverage effect.
+
+If the effects of the risk covariates in
+are negative and significant, this is eviOdence that households less-at-risk were
+‘edifferently recruited into the routine pro“gram. If B, is significant, then local im‘munization supply affects cardholdership
+© over and above household-level factors.
+
+For reasons described earlier, these
+logit model results may be both biased
+and inconsistent. To control for one potential source of bias, that due to clustering, we subset only siblings and fit robust
+variance estimates for the observed covariates using Huber estimators (StataCorp, 1997).
+
+HAZARD MODELS
+
+ty of Michigan] at 13:47 08 December 2015
+
+vers
+
+Download
+
+A monotonic decrease in waiting
+times to full immunization across successive cohorts would be compatible with a
+positive program effect. A convergence in
+
+Social Biology
+
+the hazard functions of children from
+high-risk and low-risk households over
+time would provide further evidence that
+exposure to the routine services changed
+behaviors of both risk groups. If local immunization program coverage levels increase the hazard of full immunization,
+another necessary but not sufficient condition for inferring a positive treatment
+effect will be met.
+
+To examine timing to full immunization
+among cardholders we estimate a twostate, continuous-time, piecewise hazard
+model using standard maximum likelihood
+procedures.' The model takes the form:
+
+u(t) = up(t)*exp(X,B, + X,()B,)
+where
+
+u(t) =the hazard function at time ¢,
+
+Uy(t) =the baseline hazard at time f,
+
+B, = a vector of fixed covariate
+parameters,
+
+B, = a vector of time-varying
+
+parameters,
+
+X, = a vector of fixed household and
+individual covariates,
+
+X, = a vector of time-varying local
+coverage estimates.
+
+We measure exposure to the hazard of
+full immunization in months. Each “piece”
+in the model corresponds to some segment
+of the waiting time distribution. The segment 1-3 months, for instance, captures
+the baseline hazard for children immunized between ages 9-11 months. The
+hazard of full immunization within each
+piece is assumed to be constant. Based on
+preliminary results (not shown), we col
+"We used CTM (Yi et al., 1987).
+
+ 
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Vol. 45, No. 1-2
+
+lapsed the duration structure from 68 to
+only 10 segments.
+
+In the logit model, our communitylevel proxy for vaccine supply consists of
+a point estimate for 1990, the year the
+DHS data were collected. In the hazard
+models, we reparameterize this measure
+as a time-varying covariate so that a child
+aged 5 in 1990 would have five different
+local coverage values, one for each year
+of exposure. Further exploration revealed
+that one fixed covariate, use of prenatal
+services, interacted significantly with duration of exposure. The model we report
+includes these interactions.
+
+In hazard models the risks of censoring
+and of failure may be correlated across
+some individuals due to clustering, endogeneity, frailty, or other forms of omitted
+variable bias. Not accounting for the duration dependence caused by these sources of
+unobserved heterogeneity could seriously
+bias coefficient estimates and could lead to
+misinterpretation of the duration dependence structure (Heckman and Singer, 1982;
+Vaupel and Yashin, 1985). Following Heckman and Singer (1982) we test for duration
+dependence and purge its biasing effects using nonparametric techniques. Even when
+unobserved heterogeneity is controlled, the
+functional form imposed on the hazard may
+also bias parameter estimates (Trussell and
+Richards, 1985). To test for this distributional sensitivity we compare our directeffects piecewise exponential model using
+Gompertz and Cox nonparametric proportional hazard specifications. We then re-run
+the Gompertz model with unobserved heterogeneity controlled using the HeckmanSinger (1982) random effects approach.
+
+DATA
+
+Colombia’s DHS II survey obtained
+detailed data for 8,644 reproductive-age
+
+Immunization Trends 47
+
+women and their 4,215 surviving children
+born between January 1985 and September 1990. Included are several household
+health-risk variables as well as immunization data for the 42 per cent of children whose immunization cards were
+seen by interviewers (Table 3). To each of
+the individual child health records we attached the corresponding data from the
+DHS household module and the vector of
+local coverage estimates beginning with
+the value obtaining in the year that child
+reached 9 months of age. We then categorized the continuous coverage measure
+using quartiles as cutpoints.
+
+The survey contained information on
+immunization status and cardholdership
+for each of 4,130 children below age 5. Of
+these, 1,775 (43 per cent) reported never
+having had cards and 389 (9 per cent) reported they had lost the cards. For cardholding children, we computed durations,
+in months, beginning at age nine months
+to the date of the survey (exposure) and to
+the date on which each of four immunizations (BCG, DPT3, OPV3, and measles)
+was administered. We used the longest of
+these durations to represent the waiting
+time to full immunization for children who
+had received all four antigens. Those missing one or more immunizations we censored at the time of the survey. In cleaning
+the data we rejected 44 cases for whom we
+could not impute dates and 17 cases for
+whom card status could not be determined.
+Additionally, there were missing value
+codes for 167 of 783 incompletely immunized children (21 per cent) wherein a date
+was not entered or the mother reported an
+immunization not noted on the card. These
+we censored at the longest computable duration.
+
+Matches of ministry and DHS data
+were made for 122 of the 148 municipios
+
+ 
+ 
+
+48 McQuestion and Jones
+
+containing the 754 sample clusters. For
+the remaining unmatched DHS municipios we assigned the coverage data from
+the ministry’s next largest reporting units
+(departmentos). On average, there were
+25 sample children born on or after January 1985 in each municipio and about six
+per sample cluster. Six municipios, representing 17 per cent of the total children in
+0 the sample, had system-missing or zero
+= = reported coverage values for at least one
+4 ‘of the five years. Correspondence with
+S the Colombian Ministry of Health estab® lished that the system-missing values reA ferred to municipios where regular immu© nization services were not operating that
+t year while the zeroes referred to years
+co where municipios which should have re= ported their coverage failed to do so.
+= Rather than impute values, we created
+Soand later estimated a separate category
+5 for these nonreporters.
+= Based on frequency distributions we
+o categorized household variables of inter= est, computed preceding and following
+© birth intervals and created an annual birth
+‘= cohort variable. We next eliminated chil— dren below nine months of age who, ac© cording to WHO and ministry norms,
+3 were too young to be fully immunized.
+5 S We also dropped 24 cases whose previous
+§ birth intervals were coded zero. These,
+& presumably, were twins. The final dataset
+thus contained 3,609 child records with
+information on immunization status,
+cardholdership, fixed and time-dependent
+- covariates, and local immunization program performance. By either card or recall, 2,687 (74.5 per cent) of the children
+were fully immunized. Additionally, exposure times, state, and censoring codes
+were computed for 1,376 children with
+immunization cards, of whom 1,038
+(75.3 per cent) were fully immunized.
+
+_ Social Biology
+
+RESULTS
+NONPARAMETRIC BOUNDS
+
+In Table 4, we report 5, 50, and 95 per
+cent bootstrap quantiles for full immunization probabilities among cardholders
+and noncardholders for each of six risk
+status covariates. For each stratum we set
+bandwidths for the kernels at 1/10 of the
+standard errors of each of the six covariates (Manski and Shen, 1993). The bandwidths are represented by the variable
+lambda in Table 4. The numbers of observations in each stratum are indicated in
+parentheses. We found that 100 iterations
+were sufficient to generate stable estimates for each stratum. For five of the six
+risk covariates, noncardholding children
+were significantly less likely to be fully
+immunized than those whose parents presented cards to the interviewers. Among
+noncardholders, the bounds for all risk
+variables except female headship did not
+overlap with their respective reference
+categories. This finding indicates that immunization probabilities for children from
+noncardholding households with these risk
+factors were significantly lower. Among
+cardholders, tn contrast, the bounds do
+overlap for each risk variable, indicating
+no significant differences. Either a true
+positive program treatment effect or selfselection of the lesser-at-risk into the routine program could explain this pattern.
+
+LociT MODELS
+
+Our multivariate models revealed
+more about the processes underlying immunization behavior. Table 5 shows that
+low maternal age, high parity, lack of any
+union, and a prior child death all significantly reduced the log-odds of cardholdership. Families with these risk factors remained less likely to participate in the
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Vol. 45, No. 1-2
+
+ 
+
+Immunization Trends 49
+
+TABLE 4
+
+BOOTSTRAP DISTRIBUTION QUANTILES AND NONPARAMETRIC BOUNDS,
+FULL IMMUNIZATION PROBABILITY REGRESSED ON SELECTED HEALTH RISK INDICATORS,
+CARDHOLDERS AND NONCARDHOLDERS, COLOMBIA 1985-1990
+
+NONCARDHOLDERS CARDHOLDERS
+QUANTILES QUANTILES
+INDICATOR 0.05 0.50 0.95 0.05 0.50 0.95
+Maternal Age
+Below 20Y ......cesccscceeseeee 0.200 0.311 0.422 0.625 0.750 0.875
+AbOVE QDY scascssisvssavsavquves 0.724 0.749 0.779 0.739 0.765 0.791
+Lambda (1)..........ssccsceceere wae 0.03 (961) 0.03 (818)
+Maternal Education
+1 (0) + 0.281 0.386 0.474 0.543 0.657 0.771
+SOME ......csecesssesscercerssseeees 0.711 0.742 0.771 0.748 0.771 0.797
+Lambda (N)..........c:cccccceee a 0.02 (996) 0.02 (818)
+Female Headship
+YES. .eeccsccsssercersssctecerenseseeas 0.619 0.699 0.744 0.679 0.750 0.804
+NO .ocecccccsssssccesssscerecceseesers 0.708 0.738 0.772 0.741 0.766 0.792
+Lambda (1)...........cescecesee 0.03 (961) eae ees 0.03 (818) Lae
+Toilet
+| (en 0.455 0.537 0.618 0.660 0.732 0.804
+YES... cecccccoseessvecsesesscseressees 0.717 0.749 0.778 0.766 0.793 0.820
+Lambda (1)............ccsesceeee 0.02 (996) 0.02 (862)
+Previous Birth Interval
+SS 2AM... ccscceeseccsescenceseees 0.567 0.622 0.664 0.691 0.768 0.812
+None or 25m + ......ceescseeee 0.727 0.752 0.779 0.768 0.793 0.816
+Lambda (1)........:.cesccseeee 0.05 (996) gas Lae 0.05 (862) a
+Prior Child Death
+YES. ..ccscccsccescesssssscensenssseees 0.433 0.520 0.583 0.610 0.695 0.814
+NO. .occcsccsessesscctcseeceseeeseeees 0.739 0.761 0.789 0.744 0.769 0.796
+Lambda (1)..........ccsccsccees a 0.03 (961) wes wae 0.03 (818) a
+Source: DHS I.
+
+routine program, despite the intensifying
+immunization regime. A mother employed
+in a relatively high-status occupation had
+more difficulty obtaining a card than did a
+mother not working in the paid labor
+force. Interestingly, mothers in manufacturing jobs were 31 per cent more likely
+than nonemployed mothers to have cards.
+Strong positive cohort effects all but overshadowed the other fixed covariate effects.
+The likelihood of a child born in 1989
+having a card was nearly three times that
+of a child born before 1987, despite the
+
+ 
+
+ 
+
+child’s much shorter period of exposure.
+Local vaccine coverage levels for 1990
+had no significant effect on the likelihood
+of cardholdership.
+
+Table 6 shows analogous regression results when only households with two or
+more siblings. below age five are modelled. In the conventional model, with
+clustering bias as yet unpurged, the previously negative effects of low maternal age
+and high parity disappear while those of
+no union, a previous child death, and professional employment remain significantly
+
+ 
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+50 McQuestion and Jones
+
+TABLE 5
+
+LOGISTIC REGRESSION RESULTS: SELECTED PREDICTORS OF CARDHOLDERSHIP,
+
+COLOMBIA 1985-1990 (n=3,609)
+
+TAGETCE Pit ssc sass sccaqcceressesiteeerseneceectionerrene bition
+
+Controls
+(OE errccesesceeereronnccummecenmennes
+SJOB2 Clerk .......ccescecsessssccesscsessensseseens
+SJOB3 S€rvice ........ccccsscsesseserercesseesenene
+SJOB4 primary .......eccceseesesseceeeeeesees
+SIJOBS manuf .............ccccscessscsssceesenees
+
+COVER MisSINg ..........cssccesssessceenseeees
+PREN S016 scssusisnecisisagenyesntaviagqeentoitnngen
+
+Risk Factors
+
+Source: DHS II.
+
+ 
+
+Social Biology
+
+Coefficient Std. Odds
+Estimate? Error p-Value Ratio
+~0.60 0.15 0.00 0.55
+~0.475 0.20 0.02 0.63
+~0.33° 0.10 0.00 0.72
+~—0.08 0.10 0.44 0.93
+~0.10 0.21 0.61 0.90
+0.27% 0.13 0.03 1.31
+0.19 0.13 0.13 1.21
+—0.17° 0.09 0.07 0.84
+~—0.10 0.08 0.18 0.90
+~—0.37° 0.13 0.00 0.69
+0.18° 0.11 0.09 1.20
+0.15 0.10 0.13 1.16
+0.675 0.10 0.00 1.96
+1.06? 0.14 0.00 2.90
+0.10 0.08 0.26 1.10
+—0.04 0.13 0.78 0.97
+0.414 0.10 0.00 1.51
+—-0.13 0.13 0.33 0.83
+—0.49% 0.19 0.01 0.61
+0.45° 0.16 0.01 1.57
+0.10 0.17 0.56 1.10
+—0.24 0.17 0.15 0.79
+—0.16 0.11 0.15 0.86
+—0.01 0.13 0.94 0.99
+0.16° 0.09 0.10 1.17
+—0.42° 0.12 0.00 0.66
+
+4978.0—4735.5=242.5, 25
+
+df (p<0,0001)
+
+“Contrast with omitted categories: no work past Sy; mat. age 21-39; 2 children; primary, some secondary mat. ed.; metro; male head; formal union; toilet; ages 36m+; no prenatal; prev. birth int >24m; no child death; OPV3 <&0 per cent.
+
+'9<0.05.
+“p<0.10.
+
+4—2 log likelihood: diff between null, full models distributed chi-square.
+
+negative for this subset of mothers. Additionally, female headship becomes significantly negative while previous prenatal
+use and high local immunization coverage become positive predictors of cardholdership. Implementing the Huber correction increases the standard errors for
+all but the age-cohort coefficients. The
+
+ 
+
+ 
+
+strong cohort effects persist. However,
+both the occupational effects and the positive effects of prenatal use and high local
+program coverage become insignificant
+when household-level clustering is controlled. Among the observed risk predictors, only a prior child death remains significant.
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+ 
+
+ 
+
+Vol. 45, No. 1-2
+
+Immunization Trends 51
+
+TABLE 6
+
+Huser Loaistic REGRESSION RESULTS: SELECTED PREDICTORS OF CARDHOLDERSHIP,
+COLOMBIA 1985-1990 (n= 1,448)
+
+COEFFICIENT
+VARIABLE ESTIMATE?
+[ntere@ pls scciniasscascscevsxarsensccsoncs —0.67
+Controls
+SJOB1 prof ........sccseeesseseees —0.87
+SJOB2 clerk wo... eeeesseeees —0.28
+SJOB3 S€Lrvice........ccccssceseeee 0.01
+SJOB4 primary ........esccee —0.69
+SJOBS manuf.............:ccec00 0.50
+FLID BONG ccspps.gexcosmanenscagyene —0.90
+KIDS3 3+ voce etesceeenteseeenee 0.03
+UNION2 consen..............00 —0.19
+UNIONS d/s/W.......secccesscees —0.54
+NON-METRO .........cessceneeee 0.08
+COHO2 24-35 ........000000 —0.09
+COHO3 12-23 .......... ee 0.38
+COHO4 9-12m.......cccsecseeee 0.45
+COVER 809% + ....sccsscscseceses 0.26
+COVER missing .......cceeee O11
+PREN SOU Cisse: cnccenssnnsoneres 0.31
+Risk Factors
+TOILETS none.........cseccceee ~-0.04
+MAGE] <20 ou... eeseeseeeees 0.42
+MAGE4 40+ wu tescecsccrceceers 0.31
+MED 1 n0 ed... ceeeesenseoeees 0.26
+MED4 bus. + .ou.eeesereeseees —0.16
+HHEAD2 female ................ —0.33
+PBIL missing... eeeeee 0.29
+PBZ 2A 000 snc ycparenccenzesn cece 0.21
+HMORT 1+ dead............... —0.62
+
+Model fit® ..........sesscescesesseenes
+
+Source: DHS IT.
+
+CONVENTIONAL Huser?
+
+Std. Std. Odds
+Error p-Value Error p-Value Ratio
+0.25 0.01 0.30 0.03
+0.43 0.04 0.55 0.12 0.42
+0.17 0.17 0.24 0.25 0.76
+0.16 0.97 0.23 0.98 1.0
+0.37 0.06 0.50 0.17 0.50
+0.23 0.03 0.32 0.12 1.64
+0.38 0.02 0.45 0.05 0.41
+0.15 0.86 0.19 0.89 1.03
+0.12 0.12 0.18 0.28 0.82
+0.23 0.02 0.34 0.11 0.58
+0.16 0.60 0.25 0.73 1.09
+0.16 0.55 0.14 0.50 0.91
+0.17 0.02 0.15 0.01 1.47
+0.23 0.04 0.22 0.04 1.58
+0.13 0.05 0.14 0.07 1.30
+3.21 0.59 0.23 0.63 0.89
+0.14 0.03 0.19 0.11 1.36
+0.18 0.81 0.28 0.88 0.96
+0.40 0.30 0.50 0.41 1.52
+0.29 0.29 0.37 0.41 1.36
+0.22 0.24 0.33 0.43 1.30
+0.33 0.63 0.45 0.73 0.85
+0.18 0.07 0.28 0.24 0.72
+0.19 0.13 0.15 0.06 1.33
+0.13 0.10 0.13 0.09 1.24
+0.18 0.00 0.26 0.02 0.54
+
+1964.0—1866.0=98.0, 25 df (»<0.0001)
+
+“Contrast with omitted categories: no work past 5y; mat. age 21-39; 2 children; primary, some secondary mat. ed.; metro; male head; formal union; toilet; ages 36m+; no prenatal; prev. birth int >24m; no child death; OPV3 < 80 per cent.
+
+’Relaxes household-level independence assumption.
+
+©—2 log likelihood: diff between null, full models distributed chi-square.
+
+HAZARD MODELS
+
+To check the correspondence between
+Ministry of Health and DHS II data, we
+estimated the hazard of full immunization
+for all 1,376 cardholding children ages
+9-62 months using annual birth cohorts
+as strata (Figure 1). Kaplan-Maier estimates (not shown) showed that waiting
+
+times to full immunization across the
+strata were not homogenous by either
+log-rank or Wilcoxon tests. We concluded
+that waiting times indeed fell monotonically over the period. A plot of the conditional hazard function for all cardholding
+children shows that the risk of full immunization rose sharply until age 15 months,
+then declined monotonically (Figure 2).
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+ 
+
+52 McQuestion and Jones Social Biology
+
+Survival Distribution Function
+
+1.0 |
+0.8
+0.6
+0.4
+0.2
+0.0
+
+0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40
+Duration in Months
+*Ages=36m+ *Ages=24-35m aAges=12-23m + Ages=9-11m
+
+Fic, 1.—Survival function estimates by birth cohort, full immunization among cardholders (n=1,375),
+DHS II Survey, Colombia, 1985-1900 with duration of exposure beginning at age 9 months.
+
+0.30
+0.25
+0.20
+0.15
+0.10
+0.05
+0.00
+
+10 12 14 16 18 20 22 24 26 28 30 32 MH 36
+
+Hazard Function
+
+Duration in Months
+
+Fic. 2.—Conditional hazard function for full immunization, cardholders ages 9-62 months (n= 1,376),
+DHS II Survey, Colombia, 1985-1990, with duration of exposure beginning at age 9 months.
+
+In our initial exploratory analyses, low previous birth interval, and a previous
+maternal age, female household headship, child death were insignificant predictors
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Vol. 45, No. 1-2
+
+of the hazard of full immunization, so we
+dropped these risk factors from our models.
+Of the remaining covariates, the results in
+Table 7 show that no maternal education,
+consensual union status, and lack of toilet
+facilities all significantly reduced the hazard
+of full immunization. Employment in bluecollar manufacturing and high-status occupations exerted comparable negative effects.
+
+When modeled as a time-varying covariate, the Ministry of Health vaccine coverage
+estimates significantly increased the hazard
+of full immunization. All else being equal,
+the risk of full immunization for a child living in a municipio with reported OPV3 coverage of 80 per cent or more was up to 49
+per cent higher than that of a child living in
+one with less than 80 per cent coverage.
+
+The hazard of full immunization was
+also significantly greater for children
+whose mothers had used prenatal services.
+The interactions reported in Table 7 show
+that the salutory effect of prenatal use,
+
+moreover, was duration-dependent. Among:
+
+prenatal users the hazard of full immunization for children age 9 months was no different than that of nonusers. At ages 10, 12,
+and 22—24 months, however, it was higher.
+
+Additionally, the risk of full immunization was higher for more recent birth cohorts, despite shorter exposure times. This
+positive cohort effect captures unidentified
+causes whose effects on the hazard increased over the period.
+
+As shown in the second and _ third
+columns of Table 8, we found few variations
+in our piecewise exponential and Gompertz
+coefficients. In the Gompertz model the
+negative sign of the gamma (shape) coefficient indicates that the hazard is falling with
+time, a result generally compatible with
+Figure 2.
+
+We thus used the Gompertz specification to test for the effects of unobserved
+
+ 
+
+Immunization Trends 53
+
+heterogeneity. The fourth column of
+Table 8 shows the Gompertz model with
+the Heckman-Singer nonparametric correction for unobserved heterogeneity. The
+model converged with two points of support. There was little improvement in loglikelihood. The factor loading term was
+positive significant, indicating that the
+hazard for the observed group, representing about 8 per cent of the study population, was significantly higher than that of
+the remaining 92 per cent (omitted category). When the mixed subpopulations
+are identified, the gamma term reverses
+direction. Though inference on random
+effects is risky (Behrman, 1990), one
+might speculate that the 8 per cent of
+children on the observed support were
+those of parents who made it a point to
+have their children immunized as early as
+possible. Exceptionally strong local program efforts might also have produced
+this result. For the remaining children,
+the hazard of full immunization increased
+with time, a finding that accords with a
+general tendency to procrastinate.
+
+When the unobserved heterogeneity is
+controlled, covariates with negative effects
+become more negative. Standard errors generally increase, signifying greater variance
+across observations as expected, yet no covariates lose statistical significance and none
+reverse direction. We conclude that our
+piecewise hazard model is fairly robust.
+
+DISCUSSION AND CONCLUSIONS
+
+Our findings suggest that the effects of
+Colombia’s polio eradication effort on
+both the probability and timing of immunization were overwhelmingly positive.
+Cardholdership and full immunization
+probabilities increased while waiting
+times to full immunization decreased over
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+ 
+
+TIME-DEPENDENT EFFECTS OF PRENATAL USE ON THE HAZARD OF FULL IMMUNIZATION,
+COLOMBIA 1985-1990 (n=1,376)
+
+Variable
+Inte rce pl. ssscianccascosneessranenvsnrauensasseseones
+
+Fixed Covariates
+Controls
+SIOB | Pititlirccnsossasnanmsangs
+BIO 2 Clete sxiccyeescsumsyecnennanness
+SJOB3 S€rvice .......cccsesceseeeceeeees
+SIOB4 primary sicnssnverssvenesscnvsasons
+SIJOBS manuf 2o.........ceccseeseeeeees
+KIDS1 one child..............csee0e200
+
+COHO2 24-35 .......ccceseeseesesees
+COHOS 02-2301 scccescxeesressevece.,
+COHO4 9-11 wo... ee eeseeeeeeee
+PREN SOME ..........:ccceesccccesseseonens
+
+Risk Factors
+TOILETS mone w...........ccscceseseeesee
+MED 1 10 ed oo... ee eccececeeeneeeees
+
+UNION2 consensual ..............600.
+UNIONS d/S/W ooiceccccescccccesenseseene
+
+Time-varying Covariates
+COVER 60-79% ......cessescsscseneeeeesees
+COVER 80-89% .......cesccscceseseeeseees
+COVER 9096+ wu... ..cseccesseceeeeeceoeeeees
+COV ER MISSING oc. sccsmssssececmnxenars
+
+Durations
+D2=Month 10 woe eceeceeeeeseee
+D3=month 11 oo... es essceseeseereeene
+D4=month 12 ooo... cssseeeeeseeeee
+D5= Month 13 oo ceeeeceseeeseee
+DG6=montl 14 oo. eececeseeeesseeeneee
+D7=months 15-17...........eeeeeeeeeveee
+D8=months 18-19........ ee eeeeees
+D9=months 21-24 occ eeeeeeeeeeeee
+D10=months 25-27...........ccceeceeseee
+D11=months 284 20... eee eee cesses
+
+Interactions
+
+Log ikeliho0d ssssccsssssccscsescaassesvsnens
+
+Source: DHS IT, MOH.
+*p<0.01.
+bn<0.05.
+
+ 
+
+ 
+
+TABLE 7
+
+Coefficient
+
+1.75
+
+—0.467
+0.12
+~0.227
+~0.27
+~—0.379
+0.222
+~0.13
+0.18?
+0.427
+0.367
+~0.26
+
+~—0.587
+—0.377
+~—0.23
+=(.25"
+~-0.08
+
+0.19
+0.367
+
+0.717
+0.54
+1.119
+0.63
+—0.06
+0.59
+1.417
+0.57
+
+Standard
+Error
+
+0.22
+
+0.25
+0.10
+0.10
+0.24
+0.12
+0.09
+0.12
+0.10
+0.10
+0.18
+0.17
+
+0.13
+0.18
+0.20
+0.08
+0.13
+
+0.16
+0.16
+0.15
+0.19
+
+0.29
+0.35
+0.49
+0.39
+0.39
+0.36
+0.53
+0.45
+0.21
+0.15
+
+0.30
+0.37
+0.51
+0.41
+0.43
+0.39
+0.55
+0.50
+
+— 1548.87
+
+ 
+
+Relative
+Risk
+
+0.63
+
+0.80
+0.76
+0.69
+1.25
+1.20
+1.52
+0.80
+1.43
+0.77
+
+0.56
+0.69
+0.88
+
+0.92
+
+1.21
+1.43
+1.49
+1.25
+
+2.18
+1.58
+0.82
+1.62
+1.84
+0.84
+0.42
+0.72
+1.45
+1.02
+
+2.03
+
+3.03
+1.88
+0.94
+1.80
+4.10
+1.77
+
+ 
+ 
+
+TABLE 8
+
+TIME-DEPENDENT EFFECTS OF PRENATAL USE ON THE HAZARD OF FULL IMMUNIZATION,
+COLOMBIA 1985-1990 (n=1,376)
+
+Standard Relative
+Variable Coefficient Error Risk
+FATELCEDE scssasressarcecessoanranenrvensenennernssnsnnsions 1.75 0.22
+Fixed Covariates
+Controls
+SIOBI prof.........escecssseeseescesceseeneeees —0.462 0.25 0.63
+SJOB2 clerk ........cecscsscscscsccnecesesssveees —0.12 0.10 0.89
+SJOB3 S€rViCe.......:ccccccsesssceseresseereee —0.224 0.10 0.80
+SIOB4 primary........ceccseseeeesseseoes —0.27 0.24 0.76
+SIOBS Manul . scississscsnceseredeesteennssvs —0.374 0.12 0.69
+tn KIDS1 one child ............ccesessescereees 0.222 0.09 1.25
+= KIDS4 3+ voeceescccccscccccessesesseesescorens —-0.13 0.12 1.20
+Ri COHO2 24-35 vreccccccccccsssseessscnseer 0.18° 0.10 1.52
+D COHO3 12-23 uo. eccececsecessescenseees 0.429 0.10 0.80
+COHO4 9-1LIm.... ccc eeccseeeesscecenene 0.367 0.18 1.43
+© PRED) S006 sss cassccsines cexnnierne*ssensunatuns —0.26 , 0.17 0.77
+©
+A Risk Factors
+os TOILETS none........scccsescessssesseneeeees —0.584 0.13 0.56
+tm MED 1 10 €daia....csc ce ccsecscsssescceerssseees — 0.374 0.18 0.69
+= MED4 B.8.4 ccssssssescesserenscssssscseeeees —0.23 0.20 0.88
+UNION2 consensual ..............sccseeeee —0.254 0.08 0.78
+3 UNION? d/s/W .......ccesesccccesccerconenseoes ~0.08 0.13 0.92
+a, Time-varying Covariates
+‘a COVER 60-79% ......ccccccccsctssesssceseeeeees 0.19 0.16 1.21
+2 COVER 80-89% .....ccccesssscssecrsesesssseees 0.367 0.16 1.43
+> COVER 90% + c.ccessessessescessessssesesterses 0.404 0.15 1.49
+5 COVER missing............... bessescessevencersn 0.2 0.19 1.25
+2 Durati
+A urations
+5 D2= Month 10... eecsceeessescsssevsnsenens 0.784 0.29 2.18
+E D3=montlh 11 occeesssecsecssesecssescssecsseeesee 0.46 0.35 1.58
+5 D4=month 12 wwe cescsssssccscereeeseeees —0.20 0.49 0.82
+>. D5=month 13 oicesesssscessesscesersesceesseees 0.48 0.39 1.62
+Oo DO= Month 14 oe ccsscevessesseeceseecevees 0.61 0.39 1.84
+3 D7=months 15-17...........ccccccsseseesveseees —0.17 0.36 0.84
+ZS D8=months 18-19.........cccscccssscoessseeeene —0.88 0.53 0.42
+© D9=months 21-24... cccescssceeeeeeeseees —0.33 0.45 0.72
+S D1O=months 25-27 ......ccsscsecessseessseeees 0.37° 0.21 1.45
+© DA L=months 28+ cessescessesceseasseeseneee 0.02 0.15 1.02
+A
+Interactions
+D2* PRE ssssssecrerepcdstssccorsesengrensareosendtié 0.712 0.39 2.03
+D3*PREN ...cecceccccccscesessesscstsessersesessotses 0.54 0.37 1.72
+D4*PREN .......ccscescescessssesscercessesessencenes 1.112 0.51 3.03
+D5*PREN .......cscssccessssscessnsssseescneessazees 0.63 0.41 1.88
+D6*PREN ........cccccssescesscsscsssccessesscceureee —0.06 0.43 0.94
+D7*PREN uuu. cccccceeecessscsscecsensssosserees 0.59 0.39 1.80
+DSP PREIN ssncnsoascassoqnataravappsceninannaacasint 1.414 0.55 4.10
+D9*PREN .....ccccccccsccsscsscccessessersssecesers 0.57 0.50 1.77
+—Log-likelihood ......cccccesescsesesreeseesrees — 1548.87
+Source: DHS I, MOH.
+“0<0.01.
+
+bp<0.05.
+
+ 
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+56 McQuestion and Jones
+
+the period. These gains however were not
+uniform across risk groups.
+
+The nonparametric regressions showed
+that cardholdership effectively offset the
+negative effects of all but one observed
+household mortality risk factor on the
+probability of full immunization. These
+results do not speak to potential selection
+and endogeneity biases, and they incorporate the unrealistic assumption of random
+assignment to either cardholder (treatment) or noncardholder (control) status.
+The logit results suggest that the rising
+force of the immunization effort converted
+all but the highest-risk households—those
+with histories of child mortality—into
+routine immunization service users. This
+finding is compatible with that of Curtis et
+al. (1993) who showed that infant mortality risk was clustered among mothers who
+had previously lost children in Northeast
+Brazil. For such mothers the psychic costs
+of dealing with health care providers or of
+“publicizing” these earlier traumas may
+well exceed any offsetting wealth or cognitive effects (Coreil et al., 1994; Berman
+et al., 1994). The logit model results,
+however, are not entirely unambiguous.
+While the Huber regression removes
+household clustering bias, it does so at the
+price of discarding information on the majority of households. This loss of statistical power may partly explain why only
+one of five risk factors significant in Table
+5 remains significant in Table 6.
+
+Recall that we classified the 9 per cent
+of parents who reported lost cards as noncardholders. If the propensity of this group
+to obtain immunization cards was in fact
+lower than that of cardholders, then the
+risk factor coefficients in both nonparametric and logit models would be biased
+downward by our criterion. They would be
+unbiased, however, if the processes of ob
+Social Biology
+
+taining a card and losing a card are independent.
+
+In the hazard model for full immunization, controlling for unobserved heterogeneity removes a downward bias on the
+baseline hazard as well as upward biases
+on the observed risk covariates. Thus, the
+corrected hazard for “low-risk” households increases over time while the effects
+of the risk factors for “high-risk” households become more negative. The rising
+failure rates, argue Trussell and Richards
+(1985), signify substantive changes over
+time rather than heterogeneity across individuals. In other words, increasing program effort and/or behavioral changes explain the rising hazard as opposed to
+compositional changes in the risk set over
+time. Most importantly, the regression coefficients in the hazard model are consistent under varying specifications.
+
+None of our methods, however, removed all potential sources of bias. If
+better-endowed families indeed opted for
+private PHC providers, then the observed
+risk status of those in the hazard model risk
+set would be biased downward; the reverse
+would be true if the riskiest of families
+avoided the program. The true program effect would be underestimated in the first
+case and overestimated in the second.
+
+Our results also show that the effects
+of maternal employment on immunization
+uptake vary considerably by occupation.
+Relative to mothers not in the paid work
+force, mothers in higher-status occupations found it costlier to obtain cards.
+Once they did so, mothers working in the
+professional, services and manufacturing
+sectors took longer to complete the immunization schedule than did mothers working only at home. This pattern accords
+with standard microeconomic models of
+the family, wherein time and other re
+ 
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Vol. 45, No. 1-2
+
+sources are allocated according to the
+value of each members’ time (Becker,
+1965; Grossman, 1972a, 1972b). The
+negative employment effects, however, do
+not increase monotonically with occupational prestige, suggesting that job autonomy rather than opportunity costs may be
+the more salient constraint among the
+lower-status occupations. Rosenberg (1982)
+documented the lax enforcement of childcare, breastfeeding, and other regulations
+protecting mothers working in manufacturing firms in Bogota. As with the household risk factors, the rising force of the
+immunization program and secular behavioral changes could not entirely overcome
+these institutional differentials.
+
+The inclusion of contextual data
+yielded additional insights. The fact that
+local immunization program effort had an
+independent positive effect on the hazard
+of full immunization points up the efficacy
+of targeted PHC interventions. This finding is all the more remarkable in that we
+use municipal-level administrative data to
+capture a significant effect on householdlevel outcomes. Further, the absence of socioeconomic differentials in the logit models and of urban/rural differentials in the
+hazard models implies that neither poverty
+nor geographical inaccessibility were decisive determinants of immunization behaviors. In Guatemala, Goldman and Pebley
+(1994b) also found pronounced invariability in these traditional immunization determinants and attributed it to the force of
+mass immunization campaigns.
+
+High local coverage rates reflect intensive utilization but may also capture more
+subtle supply-side effects, such as the quality of services provided. In a recent study,
+Mensch et al. (1994) matched health-facility
+level data to individual records from Peru’s
+1992 DHS survey. Using multilevel logit
+
+ 
+
+Immunization Trends 57
+
+models, the authors showed that contraceptive behaviors were significantly affected by
+the quality of local family planning services.
+The latter effect, however, was modest compared to those of maternal education and
+other household-level indicators.
+
+Use of prenatal services added to cardholdership likelihood and increased the
+hazard of full immunization among cardholders. These two health-seeking behaviors are apparently positively correlated, a
+finding which has been observed elsewhere
+(Eng, 1988; Chowdhury, 1990; WHO,
+1991; Goldman and Pebley, 1994b). The
+positive immunization program effects
+among observably “high-risk” cardholders
+lend support to the notion that long-term
+behavioral changes are largely the result of
+routine PHC service utilization. However,
+we cannot distinguish whether the correlation was due to selection or to behavioral
+changes which affected household health
+production function inputs.
+
+In the Colombian context at least, campaigns and social mobilization efforts
+aimed at achieving specific goals such as
+polio eradication enhance rather than defeat the long-term goal of increasing routine immunization demand. To the extent
+that health behaviors are interdependent,
+such selective interventions may stimulate
+demand for other PHC services as well.
+
+ACKNOWLEDGMENTS
+
+An earlier version of this paper was presented at the 1995 meeting of the Population
+Association of America, San Francisco, CA,
+6-10 April 1995. This research was supported
+in part by a grant to the Center for Demography and Ecology by the National Institute for
+Child Health and Human Development (P30
+HD058760) and by a grant from the Pan
+American Health Organization (HDP/HDR/
+HSS/HMP/RG/USA/1123). For help in obtaining data we thank Dr. Myriam Ordonez,
+
+ 
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+58
+
+PROFAMILIA, Bogota, Colombia; Dr. Ciro
+de Quadros, PAHO/EPI, Washington, DC, and
+Dr. Luis Ochoa, MACRO, International,
+Calverton, MD. We also thank an anonymous
+reviewer and Prof. Alberto Palloni who pro
+McQuestion and Jones
+
+ 
+
+Social Biology
+
+vided comments and advice on earlier drafts
+of this paper. The authors can be contacted
+by e-mail at mcquestion@SSC.wisc.edu and
+rjones @SSC.wisc.edu.
+
+REFERENCES
+
+AKIN, J., D. GUILKEY, and B. Popkin. 1992. A child
+health production function estimated from longitudinal data. J. Develop. Econ. 38:323~351.
+
+ASKEW, I. 1988. A comparative analysis of community participation projects in South Asia with policy and programme recommendations for family
+planning associations. 47 pages. International
+Planned Parenthood Federation, Occasional Series on Community Participation, London.
+
+BAuR, J., and R. WEHRHAHN. 1993. Life expectancy
+and infant mortality in Latin America. Soc. Sct.
+Med. 36(10):1373-1382.
+
+BECKER, G. S. 1965. A theory of the allocation of
+time. Econ. J. 75(299):493-517.
+
+BEHRMAN, JERE R. 1990. A survey on socioeconomic development, structural adjustment and
+child health and mortality in developing countries, p. 189-265. In K. Hill (ed.), Child survival
+programs: Issues for the 1990’s. The Johns Hopkins University School of Hygiene and Public
+Health, Institute for International Programs. Baltimore, MD.
+
+BERMAN, P., C. KENDALL, and K. BHATTACHARYYA.
+1994. The household production of health: Integrating social science perspectives on microlevel health determinants. Soc. Sci. Med.
+38(2):205-215.
+
+CHELALA, C. A. 1992. Prevencidén de la mortalidad
+materna en las Americas: Perspectivas para los
+afios noventa. Communicaciones para la Salud,
+No. 2, p. 1-30. PAHO, Washington, DC.
+
+Cuowpuury, A. M. 1990. Empowerment through
+health education: The approach of an NGO in
+Bangladesh, p. 113-120. Jn P. Streetland and J.
+Chabut (eds.), Implementing primary health
+care: Experiences since Alma-Ata. Royal Tropical Institute, Amsterdam.
+
+Core, J., A. AUGUSTIN, N. HALSEy, and E. HOt.
+1994, Social and psychological costs of preventive child health services in Haiti. Soc. Sci. Med.
+38(2):23 1-238.
+
+Curtis, S. L., I. DIAMOND, and J. W. McDONALD.
+1993. Birth interval and family effects on postnatal mortality in Brazil. Demography 30(1):
+33-44.
+
+Das Gupta, M. 1990. Death clustering, mother’s education and the determinants of child mortality
+in rural Punjab, India. Pop. Stud. 34:489-505.
+
+DAVANZO, J., and P. GERTLER. 1990. Household production of health: A microeconomic perspective
+on health transitions. Rand Corporation, Rand
+Note No. n-3014-RC, Santa Monica, CA.
+
+ 
+
+DE Quapros, C. A., J. ANDRUS, J. M. OLIVE, C. DA
+SILVEIRA, R. Erkor, P. Carrasco, J. FirzstuMONS, and F. PINHEIRO. 1991. Eradication of poliomyelitis: Progress in the Americas. J. Pediat.
+Infect. Dis. 103 (March):222-—229.
+
+Desal, S. 1992. Children at risk: The role of family
+structure in Latin America and West Africa. Pop.
+Develop. Rev. 18(4):689-718.
+
+ENG, E. 1988. The role of community participation
+in child health: Water supply, ORT and EPI, p.
+15-19. In M. Hefferman (ed.), International
+health in the 1990’s: Directions in research and
+development. National Council for International
+Health, Southern Regional Conference, Washington, DC.
+
+GOLDMAN, N., and A. PEBLEY. 1994a. Health cards,
+maternal reports and the measurement of immunization coverage: The example of Guatemala.
+Soc. Sci. Med. 38:1075—-1089.
+
+1994b. Childhood immunization and
+pregnancy-related services in Guatemala. Hlth.
+Trans, Rev. 41:29-44.
+
+GRANT, J. P. 1991. The state of the world’s children.
+Oxford Univ. Press, New York.
+
+GrossMaNn, M. 1972a. On the concept of health capital and the demand for health. J. Polit, Econ.
+80:223-255.
+
+. 1972b. The demand for health: A theoretical and empirical investigation. NBER Occasional Papers, No. 119. Columbia Univ. Press,
+New York.
+
+Guo GUANG (1993). Use of sibling data to estimate
+family mortality effects in Guatemala, Demography 30(1):15-32.
+
+HECKMAN, J. J., and B. SINGER. 1982. The identification problem in econometric models for duration
+data, p. 39-77. In J. J. Heckman and B. Singer
+(eds.}, Advances in econometrics. Cambridge
+Univ. Press, Cambridge.
+
+Hit, K., and A. PEBLEY. 1989, Child mortality in
+the developing world. Pop. Develop. Rev. 15:
+657-687.
+
+LECHTIG, A., J. W. TOWNSEND, F, PINDEA, J. ARROYO,
+R. Kiem, and R. DE LEon. 1983. SINAPS: The
+Guatemalan Program, p. 146-173. Jn D. B. Jelliffe and E. F. Jelliffe (eds.), Advances in international maternal and child health, Vol. 3. Oxford Univ. Press, Oxford.
+
+LOEVINSOHN, B. P., and M. E. LOEVINSOHN. 1987.
+Well child clinics and mass vaccination campaigns: An evaluation of strategies for improving the coverage of primary health care in a de
+ 
+
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:47 08 December 2015
+
+Vol. 45, No. 1-2
+
+veloping country. Amer. J. Publ. Hith.
+77(11):1407-1411.
+
+MACRO INTERNATIONAL. 1990. Colombia: Encuesta
+de prevalencia, demografia y salud 1990. Macro
+International, Calverton, MD.
+
+MappaL_a, G. S. 1983. Limited dependent and qualitative variables in econometrics. Cambridge
+Univ. Press, Cambridge.
+
+MANSKI, C., and T. SHEN. 1993. Non-parametric estimates and bounds on treatment effects. Unpublished document, Dept. of Economics, University of Wisconsin-Madison.
+
+Mansk], C. 1994. Identification problems in the social sciences. Harvard Univ. Press, Cambridge,
+MA.
+
+MCNICOLL, G. 1992. Changing fertility patterns and
+policies in the Third World. Ann. Rev. Sociol.
+18:85-108.
+
+MENSCH, B., M. ARENDS-KUENNING, and A. JAIN.
+1994. Assessing the impact of the quality of family planning services on contraceptive use in
+Peru: A case study linking situation analysis data
+to the DHS. Research Division Working Paper
+No. 67, The Population Council, New York.
+
+MMWR. 1994. Progress toward global eradication
+of poliomyelitis, 1988-1993. Morbid. Mortal.
+Week. Rep. 43:499-503.
+
+Mora, G., and J. YUNES. 1993. Maternal mortality:
+An overlooked tragedy, p. 62-79. In E. Gomez
+Gomez (ed.), Gender, women and health in the
+Americas. Pan American Health Organization.
+Scientific Publication No. 541, Washington, DC.
+
+MosLEy, W. H., and L. C. CHEN. 1984. An analytic
+framework for the study of child survival in developing countries. Pop. Develop. Rev. 10(Suppl.):
+25-45.
+
+NICHTER, M. 1995. Vaccinations in the Third World:
+A consideration of community demand. Soc.
+Sci. Med. 41(15):617-632.
+
+PAHO. 1990. Health conditions in the Americas,
+Vol. I. Scientific Publication No. 524. PAHO
+Press, Washington, DC.
+
+. 1995. The impact of the Expanded Program
+on Immunization and the Polio Eradication Initiative on health systems in the Americas. Final
+Report of the Taylor Commission. 80 pp. Pan
+American Health Organization Non-serial Publication No. 1995-000003, Washington, DC.
+
+PRESTON, S. H. 1985. Mortality and development revisited. Pop. Bull. United Nations 18:34—40.
+
+ROSENBERG, M. J. 1982. Female industrial employment and protective labor legislation in Bogota,
+
+ 
+
+Immunization Trends 59
+
+Colombia. J. Internat. Stud. Wrld. Affairs 24(1):
+59-80.
+
+ROSENZWEIG, M. R., and K. J. WoLPIN. 1986. Evaluating the effects of optimally distributed public
+programs. Amer. Econ. Rev. 76(3):470-487.
+
+RUTSTEIN, S. O., A. E. SOMMERFELT, and J. SCHOEMAKER. 1990. Who uses maternal and child
+health services? Evidence from the Demographic and Health Services, p. 37-84. In K.
+Hill (ed.), Child Survival Programs: Issues for
+the 1990s. The Johns Hopkins University
+School of Hygiene and Public Health, Institute
+for International Programs, Baltimore, MD.
+
+SCHULTZ, T. P. 1984. Studying the impact of household economic and community variables on
+child mortality. Pop. Develop. Rev. 10(Suppl.):
+215-237.
+
+STATACORP. 1997. Stata statistical software: Release
+5.0, p. 235-239, Stata Corporation, College Station, TX.
+
+SULLIVAN, J. M. 1991. The pace of decline in underfive mortality: Evidence from the DHS surveys,
+p. 25-38. In DHS, 1991 Demographic and
+Health Surveys World Conference. Proceedings,
+Vol. I. IRD/Macro International, Inc., Columbia,
+MD.
+
+TRUSSELL, J. T., and T. RICHARDS. 1985. Correcting
+for unmeasured heterogeneity in hazard models
+using the Heckman-Singer procedure, p.
+242-276. In N. B. Tuma (ed.), Sociological
+methodology 1985. Jossy-Bass, San Francisco.
+
+VAUPEL, J. W., and A. YASHIN. 1985. Heterogeneity’s ruses: Some surprising effects of selection
+on population dynamics. Amer. Statist. 39:
+176-185.
+
+WatsH, J. A., and K. S. WARREN. 1979. Selective
+primary health care: An interim strategy for disease control in developing countries. New Engl.
+J. Med. 301:967-974.
+
+WHO. 1991. Community involvement in health development: Challenging health services. WHO
+Technical Report Series, No. 809. World Health
+Organization, Geneva.
+
+WRIGHT, P. F. 1995, Global immunization—a medical perspective. Soc. Sci. Med. 41(5):609-616.
+
+Y1, K-M., B. Honore, and J. WALKER. 1987. CTM: A
+program for the estimation and testing of continuous time multi-state multi-spell models, User’s
+Manual Version 50. ERC/NORC, Chicago.
+
+ 
+
+ 
+

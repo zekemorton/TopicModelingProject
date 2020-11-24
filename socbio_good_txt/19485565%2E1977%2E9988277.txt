@@ -1,0 +1,353 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Genetical concepts and IQ
+
+Atam Vetta
+
+To cite this article: Atam Vetta (1977) Genetical concepts and IQ, Social Biology, 24:2, 166-169,
+DOI: 10.1080/19485565.1977.9988277
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1977.9988277
+
+fe Published online: 23 Aug 2010.
+(FB arr | 7
+Submit your article to this journal @
+alil Article views: 4
+N
+Q View related articles 4
+
+wa Citing articles: 30 View citing articles
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:36
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Brief Reports
+
+Genetical Concepts and IQ
+
+Atam Vetta
+
+Oxford Polytechnic
+and Galton Laboratory
+University College London, England
+
+Most psychometricians accept the
+applicability of Fisher’s (1918) model of
+assortative mating to IQ. One of the most
+vigorous exponents of the relevance of genetics to IQ is Arthur Jensen. His writings
+are prolific, and it would be natural for the
+next generation of psychometricians to
+study his work. Unfortunately, the very
+small sections of his work that concern
+genetical concepts show some confusion
+and are, in places, totally inaccurate. It is
+therefore important that researchers in
+fields of genetics and IQ be aware of the
+deficiencies in his excursions into genetics.
+
+JENSEN’S INDEX OF HERITABILITY
+
+Jensen (1967) criticizes Holzinger’s and
+Nichol’s index and gives his own index for
+measuring heritability as (ryz — rpz/(1 —
+Poo), Where %¢ = phenotypic correlation
+between monozygotic twins, 7pz = phenotypic correlation between dizygotic twins,
+and p,. = genetic correlation between sibs.
+He gives no proof that his index measures
+heritability as defined genetically. The
+formula contains p,,, the genetic correlation between sibs which can not be measured directly. He suggests that p,, should
+be obtained from the formula p,, = (1 +
+Ppp) (2 + Ppp), Where Ppp is the genetic
+correlation between mates, and gives Li
+
+ 
+
+(1955, Chap. 13) as reference for this formula. It does not, however, appear there,
+and Prof. Li informs me (private communication) that he had not seen this formula before. In any case, it is incorrect.
+Moreover, it does not overcome the
+difficulty of finding genetic correlation.
+We now require the genetic correlation between mates which can be obtained from
+their phenotypic correlation if heritability
+is known. Thus, to use Jensen’s index to
+find heritability, a value of that heritability is required.
+
+Neither does the formula ensure that the
+value of heritability will be less than 1.
+Jensen’s index using the above formula for
+Poo can be written as (v2 — Tpz) (2 + Poo):
+If we take ryz = 1, Ypz = 0.5, which
+Jensen also takes, heritability will always
+be greater than 1 if the population is
+mating assortatively. Note that Jensen’s
+estimate of heritability, presumably broad
+heritability, of IQ as 0.8 is based on this
+formula (Jensen, 1967).
+
+PARENT-CHILD CORRELATION
+
+Jensen (1969, p. 46) says, “The genetic
+correlation between the average of both
+parents (called the ‘midparent’) and a single offspring (rz.) is the square root of the
+correlation for a single parent (i.e., 7, =
+V¥o,). The correlation between the aver
+166
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 24, No. 2
+
+age of both parents and the average of all
+offspring (‘midchild’) that they could
+theoretically produce (7p) is the same
+value as Hy, i.e., heritability in the narrow
+sense.” He does not say whether the relation % = Vrp holds for a population
+mating at random or for one mating assortatively. In any case, it does not appear to be
+correct.
+
+Fisher (1918) shows that for a population mating at random the covariance between parent and child, in Fisher’s
+notation, is 48? for one factor. Summing
+over all factors, the covariance will be 4V,
+where V, is the additive variance.
+Midparent and child covariance will be
+the same. Assuming equilibrium, the variance of the children will be the same as
+that of parents. Therefore,
+
+ 
+
+ 
+
+. e WV,
+po .
+V Var(parent) + Var(child)
+~ Wa Va
+VVV, 2"
+Var(mid-parent) = 4¥,. Therefore,
+Ygp = eee
+~” — \/ax(midparent) - Var(child)
+~_ Wa = Va
+V 4V,° V> V, V2
+Thus,
+Va
+Yoo = ——-=—= = Np 2.
+-PO VoV 2 p
+
+For a population mating assortatively,
+with yp, as the coefficient of assortative
+mating, Fisher (1918) gives the formula
+(for correction, see Vetta, 1976), parent
+child covariance = midparent-child
+covariance = $V, (1 + 4yp,), and
+Var(parent) = £Var(child) = _ YV,;z;
+
+Var(midparent) = 3V, (1 + up). Therefore,
+
+y= bV4(1 + By) _ Va
+
+0 (1 + pp)
+° VV,°V, p >
+
+Brief Reports
+
+167
+
+and
+
+mp = BV 4(1 + fp)
+
+v aV (1 + My) * V>
+
+_ Va ~/lal dan \ _ 2
+
+= y, 41 + Lp = po Ta
+It would therefore appear that Jensen’s
+formula is not correct.
+
+ 
+
+SIB CORRELATION
+
+Jensen (1969, p. 46) says, “The correlation is also between .50 and .60 for
+siblings on these characteristics; sibling resemblance is generally much higher than
+this for traits of Jow heritability.” It needs
+to be stated clearly that low heritability is
+not the cause of high correlation between
+sibs and that low heritability in itself
+would not suggest a high sib correlation. If
+a trait with low heritability and high sib
+correlation could be found, the likely explanation of high sib correlation will lie in
+similarity of environment. Moreover, it is
+not absolutely clear that Fisher’s (1918)
+model could be used in such a situation.
+
+Jensen (1973, p. 108), says, “the theoretical genetic correlation og; [presumably a
+misprint for pg] between siblings (when
+there is no genetic correlation between
+their parents) is 0.50. If the parents have
+some degree of genetic resemblance, the
+correlation between siblings will be
+slightly greater than 0.50.” On page 112 he
+says, “Therefore, the absolute deviation of
+the sibling correlation from 0.50 provides
+a rough index of the degree of non-genetic
+variance in the measurements. (It is a
+‘rough’ index because the theoretical genetic correlation between sibs is 0.50 only
+under assortative mating and when there
+is no dominance variance . . .).” In this
+passage he probably wanted to say “only
+in the absence of assortative mating” in
+place of “only under assortative mating.”
+
+Jensen (1973, p. 47 and p. 108) uses hh?
+to represent the ratio of genetic variance
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+168 Brief Reports
+
+to the phenotypic variance, i.e., broad
+heritability. Geneticists usually use 4? to
+represent narrow heritability, i.e., the
+ratio of additive variance to the phenotypic variance. This usage difference
+could lead to confusion, and in Jensen’s
+case it did lead to confusion. He says (Jensen, 1973, p. 112), “itis evident that as the
+value of k? approaches 1.00, the sibling
+correlation, r,, must converge on 0.5.”
+This would happen only if dominance
+variance converges to 0, i.e., when broad
+heritability equals narrow heritability and
+only in the absence of environmental effects and assortative mating.
+
+Jensen (1973, p. 112) goes on to say,
+“While it is possible to obtain sibling
+correlations of close to 0.50 when the
+value of /:? is low, itis impossible to obtain
+sibling correlations that depart significantly from 0.50 when h? is very high.” It
+is difficult to justify this statement. If
+broad heritability is low, the genetic
+component of sib covariance will also be
+low; hence, ignoring environmental covariance, the sib correlation will be low. It
+is easy to see why this should be so in the
+case of a population mating at random. V,
+= Vg + V, where Vg and V, are the genetic
+and environmental variances respectively.
+Also, Vg = V4 + Vp where Vy, and Vp are
+the additive and dominance variances respectively. If Jensen’s /?, i.e., broad
+heritability, is low, then Vg is small as
+compared with V,. Sib covariance under
+random mating is 4V4 + %Vp which will
+be small as compared with V,. Clearly, sib
+correlation will not equal 0.5 when Vg is
+small. If, however, #? is high, i.e., V, is
+small as compared with V,, then sib
+correlation could be near 0.5. Any
+deviation from this value could reflect environmental or dominance effects or both.
+
+POLYGENIC HYPOTHESIS AND
+
+GALTON’S LAW OF REGRESSION
+Jensen (1969) says, “None of these
+findings is at all surprising from the
+
+Social Biology
+
+standpoint of a genetic hypothesis, of
+which an intrinsic feature is Galton’s ‘law
+of filial regression.’ He advocates the
+polygenic hypothesis, assuming Mendelian inheritance. There are, however, other
+hypotheses—for example, the hypothesis
+of determinantal inheritance—which take
+account of the observed phenomenon of
+regression to the mean. Moreover,
+Galton’s law of regression is not an intrinsic feature of the polygenic hypothesis. If a
+trait is completely determined genetically,
+there will be no regression of progeny
+mean on midparent. The observed regression occurs because genotype determines
+phenotype imperfectly.
+
+Jensen (1973), comparing the IQ’s of
+sibs of chosen groups of children from the
+two ethnic groups, shows some confusion
+concerning the meaning of sibling regression to the mean. Thoday (1973) clarifies
+this confusion.
+
+The above discussion concerns a population mating at random. In the presence
+of assortative mating and dominance, Jensen (1973, p. 112) says, “Since assortative
+mating and dominance deviation have opposite effects on the genetic correlation between siblings, their effects tend to cancel
+out, so that 0.50 is probably the best
+overall estimate of the genetic correlation
+between sibs.” While it is true that dominance and assortative mating act in opposite directions so far as sib correlation is
+concerned, it is not true that their effects
+tend to cancel out. Under assortative
+mating, the relation between heritability
+and sib correlation is rather complex.
+
+CONTROL OF HERITABLE TRAITS
+
+Jensen (1969, p. 45) says, “Heritability
+also tells us something about the locus of
+control of a characteristic. The control of
+
+- highly heritable characteristics is usually
+
+in the organism’s internal biochemical
+mechanisms. Traits of low heritability are
+usually controlled by external environ
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 24, No. 2
+
+mental factors.” Since most, if not all, genetic factors are fundamentally biochemical in action, this seems to be little more
+than a truism. More light is thrown on the
+question by Falconer (1972, p. 167) who
+says, “On the whole, the characters with
+
+Brief Reports
+
+169
+
+lowest heritability are those most closely
+connected with reproductive fitness, while
+the characters with the highest heritabilities are those that might be judged on
+biological grounds to be the least important as determinants of natural fitness.”
+
+REFERENCES
+
+FALCONER, D. S. 1972. Introduction to quantitative
+genetics. Oliver & Boyd, Edinburgh and London.
+
+FISHER, R. A. 1918. The correlation between relatives on the supposition of Mendelian inheritance.
+Trans. Roy. Soc. Edinb. 52:399-433.
+
+JENSEN, A. R. 1967. Estimation of the limits of
+heritability of traits by comparison of monozygotic
+and dizygotic twins. Proc. Natl. -Acad. Sci.
+58:149-157.
+
+. 1969. How much can we boost IQ and
+
+ 
+
+scholastic achievement? Harv. Educ. Rev. 39:1123.
+
+. 1973. Educability and group differences.
+Methuen & Co., London.
+
+TuHopay, J. M. 1973. Review of educability and
+group differences. Nature 245:418-420.
+
+VETTA, A. 1976. Correction to Fisher 1918 concerning the correlation between relatives and environmental effects. Nature 263:316-317.
+
+ 
+

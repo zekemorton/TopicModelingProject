@@ -1,0 +1,593 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Birth order, family size, social class, and
+intelligence
+
+Kevin Marjoribanks & Herbert J. Walberg
+
+To cite this article: Kevin Marjoribanks & Herbert J. Walberg (1975) Birth order,
+family size, social class, and intelligence, Social Biology, 22:3, 261-268, DOI:
+10.1080/19485565.1975.9988175
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1975.9988175
+
+fa Published online: 23 Aug 2010.
+oe | 7
+Submit your article to this journal @
+lil Article views: 3
+N
+Q View related articles 4
+
+(7) Citing articles: 3 View citing articles G
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:35
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+Birth Order, Family Size, Social Class,
+
+and Intelligence
+
+ 
+
+Kevin Marjoribanks and Herbert J. Walberg
+
+Department of Education, University of Adelaide, Adelaide, Australia; and
+College of Education, University of Illinois at Chicago Circle, Chicago, Illinois
+
+Although there have been numerous
+investigations of the relationships between sibling constellation variables and
+intelligence, we still do not have a very
+clear understanding of how birth order
+and family size are related to intellectual
+performance. Our lack of understanding is
+primarily due to the serious methodological and statistical shortcomings of much
+of the research that has been undertaken
+so far.
+
+When examining relationships between
+birth order and intelligence, investigators
+have generally restricted their samples to
+include two categories, first-borns and
+later-borns. Birth order research has also
+seldom taken into account other relevant
+variables, such as family size, social class,
+family density, and maternal age. Another
+limitation of sibling research has been the
+use of inadequate samples. Often the samples have been too small to allow sufficient numbers of families of different sizes
+to be included and too small to achieve
+sufficient numbers of individuals from
+different birth-order positions. Also, there
+have been few studies which have examined completed or nearly completed families.
+
+However, inconsistent and inconclusive
+
+results have been produced even from
+those few studies that have attempted to
+overcome some of the mentioned methodological limitations. Using data on approximately 43,000 American high-school students from the Project Talent study,
+Burton (1968) found that there were no
+consistent birth-order differences in intelligence test scores among socioeconomic
+categories and among family-size groupings. In a sample of 500 11-year-old Irish
+children, Kellaghan and Macnamarra
+(1972) found that social status, family
+size, and birth order all made significant
+contributions to differences in verbal
+reasoning scores, while in a survey of 700
+15-year-old English students Murray
+(1971) discovered that after controlling
+for the effects of family size and social
+status, there were no significant differences between first-borns and later-borns
+on verbal and nonverbal tests.
+
+In one of the most extensive sibling
+constellation studies yet undertaken, Belmont and Marolla (1973), using a conservative statistical analysis, found that in
+a sample of nearly 400,000 19-year-old
+Dutch males, birth order and family size
+had independent relationships with intellectual performance. The relationships be
+261
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+262 Marjoribanks
+tween family size and intelligence were
+not found to be present in all social classes,
+but the relationships between birth order
+and intelligence were constant across social
+classes.
+
+The findings from the above studies
+remain equivocal primarily because they
+have relied on the use of restricted statistical techniques. They have used productmoment correlations which reveal only bivariate relations and analysis of variance
+which requires the grouping of variables
+into levels. Simple additive multiple regression models have been used to examine how much extra variance in intelligence test scores is associated with the
+addition of sibling variables to the regression equations. However, the results
+generated from these regression equations
+rely on the order in which the sibling
+variables have been added to the equations. Thus, all of these statistical techniques have prevented the full character
+of the relationships of sibling variables,
+social class, and intelligence from being
+revealed.
+
+_ One of the few pieces of sibling research
+
+to use complex statistical models found
+that hyperbolic regression equations including father’s occupation, the inverse of
+the size of the family, and the product of
+these two variables accounted for as much
+significant variance in verbal and number
+ability scores as complex many-termed
+equations containing other sibling and
+social status variables, their quadratics
+(to test for nonlinearity), and their products (to test for interactions). However,
+the latter research was restricted by the
+use of a small sample and, in part, by the
+order in which the variables were entered
+into the regression models (Marjoribanks
+and Walberg, 1975a, 1975).
+
+In the present study, an attempt is
+made to overcome both the methodological
+
+and Walberg Social Biology
+and statistical shortcomings of previous
+sibling research. Complex multiple regression models are used to examine the relationships among the birth order, family
+size, social class, and the intelligence test
+scores of the Dutch males investigated in
+the Belmont and Marolla (1973) research.
+The nature and the size of the sample,
+approximately 400,000 19-year-olds, allows many of the methodological restrictions of previous research to be eliminated,
+while many of the statistical limitations
+are overcome by constructing regression
+surfaces from regression models which include terms to account for the possible
+interaction and curvilinear relationships
+among intelligence, family size, birth order, and social class.
+
+MATERIALS AND METHODS
+
+As reported in the Belmont and Marolla
+study, the sample consisted of approximately 400,000 19-year-old men. They
+represented nearly all male survivors of
+children born in the Netherlands from
+1944 to 1947, who were still living in the
+Netherlands at the time they reached 19
+years of age. It is reasonable to assume
+that virtually all of their respective families were complete at that time.
+
+When they reached the age of 19, the
+men were required to complete a battery
+of tests as part of an examination to determine their fitness for military training. In
+the present study, the scores from the
+Raven Progressive Matrices (Dutch modification with 40 items) are used. The raw
+scores from the test were grouped by the
+Dutch military into six classifications. In
+the present analysis, the scores range from
+a low of 1 to a high score of 6.
+
+Social class data are based on father’s
+occupation at the time of the military
+examination and have been classified into
+three social groups: nonmanual (professionals and white-collar workers); man
+ 
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+Vol. 22, No. 3
+
+ual (skilled, semiskilled, and unskilled
+workers); and farm (farmers and farm
+laborers).
+
+Family size is classified into nine categories. Category one represents a onechild family, category two indicates a
+family with two children, and so on, to
+category eight which represents a family
+of eight children. Category nine indicates
+a family with nine or more children. Birth
+order is also classified into nine categories,
+with category one representing a first-born
+child, and so on, with category eight indicating that the subject was the eighth child
+born into the family. Category nine indicates that the subject’s birth order in the
+family was either ninth or greater than
+ninth. The final sample included 386,114
+19-year-old males who had data on birth
+order, family size, social class, and scores
+on the intelligence test.
+
+RESULTS AND DISCUSSION
+
+One of the oldest theories in sibling
+research claims that an only child in a
+family is different from all children with
+siblings. In some sense, only children can
+as justifiably be classified youngest as
+oldest. Because of the difficulty of classification, many investigators have excluded
+only children from their analyses while
+others have treated them as first-borns. In
+preliminary analyses of the Dutch data, we
+found that when singletons were included,
+mental ability scores could not be very
+well fitted to family size. However, when
+the singletons were excluded from the
+analysis, there was a quadratic fit between ability scores and family size. We
+found that the scores for the singletons
+were much lower than we would have
+predicted. The results suggest a cautious
+and tentative speculation, that a number
+of the single-borns may have been mentally deficient at birth, which influenced
+the parents not to have further children.
+
+Birth Order and Intelligence
+
+263
+
+Because we found the singletons to be an
+exceptional case, we removed them from
+the remainder of the analysis.
+
+In the first analysis (excluding singletons), multiple regression models are
+used which include the intelligence scores
+as the criterion variable with the predictors being social class, family size,
+birth order, the squares of the sibling
+variables, and the products of the predictors. The relationships between the
+predictor variables and the intelligence
+scores are examined in terms of the significance of raw regression weights rather
+than the significance of standardized regression weights (see Table 1). As Schoenberg (1972, p. 4) suggests, when different
+subsamples are being compared, as in the
+present study, then: “It is simply not legitimate to compare standardized measures
+across different samples since any difference in such measures may just as likely
+be attributable to differences in variances
+as to differences in effects.”
+
+The significance of the relations between the predictors and the intelligence
+scores is determined by evaluating the
+absolute value, |é|, of the ratio of the raw
+regression weight (0), to its standard error (€). In the present study, the 5 per
+cent critical value for |£| is 1.960 while the
+1 per cent critical value is 2.576 (see
+Draper and Smith, 1966).
+
+The results shown in Table 1 indicate
+significant relationships between social
+class and intelligence test scores and also
+significant linear and quadratic relationships among family size, birth order, and
+intelligence. Also, the intelligence scores
+are related to family-size and birth-order
+interactions with social class. The significant interaction terms in Table 1 show
+that the slopes of the mental ability scores
+on family size and birth order differ in the
+three social class groups. Therefore, we
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+264 Marjoribanks and Walberg Social Biology
+
+ 
+
+TABLE 1
+MULTIPLE REGRESSION OF INTELLIGENCE Test Scores on SociAL Crass, FAMILY S1zE, AND
+BirtH OrvdER
+Raw Regression Standard
+Predictor Weight (5) Error (e) t= b/e
+Social class 1 cscovswaeus cvseesewswewewane 1.029 0.040 25.7*
+Social class 2 sc cascsvs oa tewtavedtsesee cds 0.398 0.040 9.9*
+Family size ......... ccc ccc c cece cece ceeees 0.035 0.015 2.37
+(Family size)2 .....c ccc ee eens beceecees —0.003 0.001 —3.0*
+Birth order ...... ccc ccccccccececccscvcees —0.078 0.010 —7.8*
+(Birth order)? 22... ccc cece ccc e cence 0.003 0.001 3.0*
+Family size X social class 1 ..........0008 ‘ —0.042 0.007 —6.0*
+Family size X social class 2 ........ceeeee —0.063 0.007 —9,0*
+Birth order X social class 1 ..........0000: —0.0004 0.007 —0.06
+Birth order & social class 2 ............0.% 0.016 0.006 2.7*
+
+ 
+
+* Significant at 1 per cent level.
+t Significant at 5 per cent level.
+
+examined separately the relationships of
+intelligence scores, family size, and birth
+order within each of the three social class
+groups.
+
+For the separate analysis in each social
+class, group regression models were used
+which included as predictors: family size,
+birth order, and the product and squares
+of the two sibling variables. The findings
+in Table 2 show that between the social
+class groups, family size and birth order
+have differential relationships with the
+intelligence test scores. For example, in
+the nonmanual and manual social groups,
+family size and birth order are related to
+intelligence, while in the farm social
+group, family size is not related to intelligence. Intelligence is related to the square
+of birth order in the manual and farm
+groups and related to the square of family
+size in the nonmanual social class group.
+The interaction between family size and
+birth order was not related to the intelligence scores in any of the social class
+groups.
+
+From the results presented in Table 2,
+a set of regression surfaces were constructed to show the linear and quadratic
+relationships of family size, birth order,
+and intelligence within each social class
+group (see Figures 1, 2, and 3). The
+
+curvature of each surface indicates that,
+within each social class group, as birth
+order increases there is a gradual decline
+in the intelligence test scores. However,
+in the manual (Fig. 2) and farm (Fig. 3)
+social groups, the curvilinear relationship
+between birth order and intelligence is
+such that the successive decrements in test
+scores become smaller as birth order increases, while in the nonmanual (Fig. 1)
+group the successive decrements in intelligence become greater as birth order
+increases.
+
+The relationships between family size
+and intelligence for the nonmanual and
+manual social class groups, shown in Figures 1 and 2, support previous research
+(eg., Anastasi, 1956; Cicirelli, 1967;
+Nisbet and Entwistle, 1967; Record et al.,
+1969; Douglas, 1968; Kennett and Cropley, 1970) which has shown that the relationship between family size and intellectual performance is attenuated as the socioeconomic status of families increases. For
+example, the present results indicate that
+the intelligence test scores of children
+from quite small families within the manual social class group are lower than test
+scores of children from large families
+within the nonmanual social class group.
+Such a finding provides the possible basis
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+Vol. 22, No. 3 Birth Order and Intelligence 265
+
+TABLE 2
+
+Muutrete Recression oF IntTeEtticENce Test Scores oN Famity SIZE AND BirtH ORDER IN
+DrrFerenT Socrat Crass GRourPs
+
+ 
+
+ 
+
+Raw Regression Standard
+Predictor Weight (3) Error (e) $= b/e
+
+ 
+
+Nonmanual social class group
+
+Family Size ..ccccccccssesccccesceesess 00.0520 0.0211 2.5*
+(Family size)? eaeaneseaeeneeetaaneegese —0.0079 0.0018 —4.27
+Birth order ........ stogmesme cesocceene 0.0312 0.0133 —2.4*
+(Birth order)? .........c cece eeeees eeee 70.0023 0.0015 —15
+Manual social class group
+Family size ...cccsecesces seeeee seecees 0.0489 0.0200 —2.4*
+(Family size)? ........ cece ac ececenecs . 0.0012 0.0017 —0.7
+Birth order ..... bemeDLESESAN ESSE aun —0.0664 0.0127 —5.2T
+(Birth order)2 ...... betas kentae bine eae 0.0037 0.0014 2.6
+Farm social class group
+Family size ......... ot an sa peccceeces 0.0012 0.0255 0.05
+(Family size)? ........0.c08. pee cueeees —0.00007 0.0021 0.03
+Birth order .......ccccceseees hewntentad -—-0,1223 0.0161 7.67
+(Birth order)? ........0.e eee se cceecees 0.0083 0.0018 4.67
+
+ 
+
+* Significant at 5 per cent level.
+t Significant at 1 per cent level.
+
+Intelligence
+Test 4.8
+
+ 
+   
+   
+     
+       
+    
+         
+ 
+ 
+
+  
+
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+  
+
+wh PAA RAN
+
+: EARS
+
+“CREEP
+
+4.2 eh ,
+
+Poet :
+EP
+
+Family 91 Birth
+Size Order
+
+Fic, 1-——Fitted intelligence test scores in relation to family size and birth order in nonmanual
+social class group.
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+266 Marjoribanks and Walberg
+
+Intelligence
+
+Test Scores
+4.3
+
+Fanily
+Size
+
+Social Biology
+
+ 
+
+Birth
+Order
+
+Fic. 2.—Fitted intelligence test scores in relation to family size and birth order in manual social
+
+class group.
+
+for a partial explanation of the results of
+an investigation of British university
+graduates by Poole and Kuhn (1973).
+They found that for university graduates
+with a middle class background a relatively large family does not constitute a
+barrier to educational achievement, whereas for the son or daughter of a manual
+worker a small family of one or two children is virtually a precondition of educational success in the form of a university
+degree.
+
+The results of the present study emphasize the complexity of the interrelationships of social class, birth order, fam
+ily size, and intelligence. Previous sibling
+research has tended to concentrate on the
+investigation of either birth order or family size rather than both together, and
+much of the research has failed to consider the influence of these two variables
+within different social class groups. By
+using complex multiple regression models
+to construct regression surfaces, the present study has been able to overcome many
+of the limitations of prior investigations
+and has led to a greater understanding of
+the relations between sibling variables and
+intelligence.
+
+In previous research, when regression
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+Vol. 22, No. 3
+
+Intelligence
+Test Scores
+
+ 
+
+Family
+Size
+
+Birth Order and Intelligence
+
+267
+
+Birth
+Order
+
+Fic. 3.—Fitted intelligence test scores in relation to family size and birth order in farm social
+
+class group.
+
+models have been used, the findings have
+depended on the order in which measures
+of family size, birth order, and social class
+have been added to the equations. By using raw regression weights as the basis of
+analysis, the present study has allowed
+the full nature of the interrelations of
+family size, birth order, and intelligence
+in different social class groups to be examined. Whereas many previous studies have
+concluded that sibling variables have low
+to moderate linear relationships with intelligence, the present results suggest that
+when curvilinear, interaction, and linear
+relationships are analyzed, then both family size and birth order have sizable differential relationships with intelligence in
+different social class groups.
+
+SUMMARY
+
+Serious methodological and _ statistical
+limitations of sibling research have impeded previous research on how sibling
+characteristics are related to intelligence.
+A study by Belmont-and Marolla (1973)
+Overcame many of the methodological
+shortcomings of prior research, but the
+study relied on a conservative statistical
+analysis which prevented the character of
+the relationships between the variables
+from being revealed. By using complex
+multiple regression models to construct
+regression surfaces, the present study
+shows that family size and birth order
+have differential linear and quadratic relationships with intelligence in different
+social class groups.
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+268 Marjoribanks and Walberg
+
+Social Biology
+
+REFERENCES
+
+AnastasI, A. 1956. Intelligence and family size.
+Psychol. Bull. 53:187-209.
+
+Betmont, L., and F. A. Marotta. 1973, Birth
+order, family size and intelligence. Science 182:
+1096-1101.
+
+Burton, D. 1968. Birth order and intelligence.
+J. Soc. Psychol. %76:199~206.
+
+Cicreetui, V. G. 1967. Sibling configuration, creativity, IQ and academic achievement. Child.
+Devel, 38:481-490.
+
+Dovctas, J. W. B. 1968. All our future. Peter
+Davies, London.
+
+Draper, N. R., and H. Smarn. 1966. Applied regression analysis, Wiley, New York.
+
+KELLAGHAN, T., and J. MAcNAMARRA. 1972. Family correlates of verbal reasoning ability. Devel.
+Psychol. 7:49-53.
+
+Kennett, K. F., and A. J. Crortrey. 1970. Intelligence, family size and socioeconomic status.
+J. Biosoc. Sci. 2:227-236.
+
+MaryoriwankKs, K., and H. J. Waserc. 1975a.
+Family environment: Sibling constellation and
+
+social class correlates. J. Biosoc. Sci. 7:15-25.
+
+. 19756. Mental abilities: Sibling constellation and social class correlates. Brit. J. Soc.
+Clin. Psychol. (in press).
+
+Murray, C, 1971. The effects of ordinal position on measured intelligence and peer acceptance in adolescence. Brit. J. Soc. Clin. Psychol.
+10:221~227.
+
+Nisset, J. D., and N. J. ENrwistLe. 1967, Intelligence and family size. Brit. J. Educ. Psychol.
+37: 188-193.
+
+Poors, A., and A. Kumw. 1973. Family size and
+ordinal position: Correlates of academic success. J. Biosoc. Sci, 3(Suppl.) :51-59.
+
+Recorp, R. G., T. McKeown, and T. H. Ebwarps. 1969. The relations of measured intelligence to birth order and maternal age. Ann.
+Hum. Genet. 33:61-69.
+
+ScHOENBERG, R. 1972. Strategies for meaningful
+comparison, p. 1~35. In H.L. Costner (ed.),
+Sociological methodology 1972. Jossey-Bass,
+San Francisco.
+
+ 
+

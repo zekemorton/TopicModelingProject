@@ -1,0 +1,1090 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Urban and rural fertility in Bangladesh: A causal
+approach
+
+H. T. Abdullah Khan & Robert Raeside
+
+To cite this article: H. T. Abdullah Khan & Robert Raeside (1994) Urban and rural
+fertility in Bangladesh: A causal approach, Social Biology, 41:3-4, 240-251, DOI:
+10.1080/19485565.1994.9988875
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1994.9988875
+
+fa Published online: 23 Aug 2010.
+
+&
+(g Submit your article to this journal @
+
+all Article views: 5
+
+»
+Q View related articles 4
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:46
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Urban and Rural Fertility in Bangladesh:
+
+A Causal Approach
+
+ 
+
+ 
+
+H.T. Abdullah Khan and Robert Raeside
+
+Department of Mathematics
+Napier University
+Edinburgh EH11 4BN, Scotland
+
+ABSTRACT: Fertility models are constructed from the 1989 Bangladesh Fertility Survey (BFS)
+employing path analysis. These models are developed and interpreted for urban and rural
+situations. As a proxy for fertility, the number of children ever born is used, and age, religion,
+age at marriage, parental childhood residence, and education are considered as explanatory
+variables. The contribution that these variables give to explaining the 1989 Bangladeshi fertility
+is compared to the explanatory variables that Ahmed (1981) found suitable for Bangladeshi
+fertility in 1975. We find that in 1989, compared to 1975, childhood background and education
+of the mother and age at marriage exert a greater influence on urban fertility, and religion no
+longer has a significant effect. In the rural case, the effect of religion on fertility has increased
+since 1975, as has education and age at marriage.
+
+Bangladesh is one of the most
+densely populated and poorest countries in the world. As such, Bangladesh
+has been the subject of much demographic enquiry (see, for example,
+Chen and Chaudhury, 1975; Curlin et
+al., 1976; Arthur and McNicoll, 1978;
+Cain, 1977, 1978, 1986; Ahmed, 1981;
+Cleland and Mauldin, 1991; Cleland
+et al., 1992; Caldwell and Caldwell,
+1992). Of particular interest is the
+modeling of fertility, primarily with a
+view to identifying mechanisms to reduce population growth and enhance
+living standards.
+
+The total fertility rate has declined
+from about 7 in 1975 to about 5 in 1988,
+equivalent to a 30 per cent drop (Cleland et al., 1992; Caldwell and Caldwell, 1992). Reasons for this decline
+are attributed to increased urbanization, enhanced education, increasing
+use of contraception, and increased
+age at marriage (Kabir and Rob, 1990;
+Islam and Khan, 1992; Cleland et al.,
+
+1992; Caldwell and Caldwell, 1992).
+However, how these factors influence
+fertility is complex, and studies suggest
+that the factors themselves often act
+upon one another in a complex milieu.
+Fertility of urban women is generally
+found to be lower than that of their rural counterparts. This fertility difference has been confirmed in Bangladesh
+by Ahmed (1981) and Cleland et al.
+(1992), in Thailand by Goldstein
+(1973), and in Taiwan by Freedman et
+al. (1972). However, Omran (1973)
+found the converse in the case of
+Egypt.
+
+Advances in understanding Bangladeshi fertility have been made using
+the data from the 1975 Bangladesh
+Fertility Survey (BFS), notably in the
+work of Ahmed (1981) and of Lee and
+Amin (1981), and also using other data
+sources as have Islam and Khan (1991,
+
+1992) and Rob and Kabir (1988).
+
+These researchers applied path analysis to map out the web of influences of
+
+240
+
+ 
+Vol. 41, No. 3~4
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+socioeconomic and demographic variables on fertility. The aim of this paper
+is to add to these studies of urban and
+rural fertility determinants in Bangladesh by presenting an analysis of the
+most recent data set constructed from
+the 1989 Bangladesh Fertility Survey
+and by comparing the findings to those
+of Ahmed (1981). °
+
+First we give a short account of the
+data sources and then our analysis of
+the 1989 BFS. We discuss the differences that have occurred over the
+fourteen-year period between 1975
+and 1989. Finally, we conclude with a
+discussion of the findings and suggestions for future modeling.
+
+MATERIALS AND METHODS
+DATA
+
+The data used in this study were obtained from the 1989 Bangladesh Fertility Survey which was conducted by
+the National Institute of Population
+Research and Training (NIPORT). A
+total of 11,905 ever-married women, of
+whom 8,466 were from rural areas
+and 3,439 were from urban areas, were
+interviewed, resulting in an _ oversampling of urban mothers. In order to
+obtain the national estimates, appropriate weights have been assigned. Details of the survey are found in Huq
+and Cleland (1990). Findings from this
+data set are compared with those of
+Ahmed’s (1981) study which used the
+1975 BFS. In the 1975 survey, 5,024 rural women and 1,489 urban women
+were interviewed (GOB, 1978).
+
+ANALYSIS OF THE 1989 BFS
+
+Path analysis was used to determine
+how variables such as age, religion,
+
+Urban and Rural Fertility
+
+241
+
+childhood place of residence, and educational background influence one
+another and conspire to affect the
+number of children ever born, which is
+taken as pseudonym for fertility. Path
+analysis is a popular method in the social sciences for modeling linear relationships between interrelated variables (see, for example, Duncan, 1966;
+Loebner and Driver, 1973; Shin, 1977;
+Roy, 1981; Islam and Khan, 1991).
+The degree of influence of each vari-—
+able upon another is indicated by the
+path coefficient P;; which is a standardized regression coefficient expressed as
+follows:
+
+7
+Py= bys.
+
+where b,,is the regression coefficient of
+the i‘ variable on the j*# variable and 8
+is the standard deviation. The path coefficients can be arrived at from expansion of the correlation coefficients as in
+the relationship:
+
+r= > yqPial ia
+
+where i and j are the two variables and
+g is an index for all the variables which
+have paths leading directly into the
+variable i and r;;, is the correlation coefficient between variables i and j.
+
+The unexplained portion of the
+variance which is due to unmeasured
+extraneous variables is given by the residual path coefficient. The determination of the terms in path analysis is fully
+explained in Halli and Rao (1992).
+
+The variables chosen for inclusion in.
+the modeling are displayed in Table 1.
+The choice of these variables can be
+justified as follows:
+
+AGE-—Studies reveal that current
+age of mother has the highest association with fertility (Henripin, 1972;
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+242
+
+Khan and Raeside
+
+Social Biology
+
+TABLE 1
+DESCRIPTION OF THE VARIABLES FOR PATH ANALYSIS
+Variable Abbreviation Measurement
+Age Of respondent oes soe suss sas seseces one AGE Completed years
+Religion ........cccccsccsscessessvereessssaees REL Dummy 1=Muslim, and 0= Others
+Childhood background of women..... CBW Dummy 1= Urban and 0= Rural
+Education of respondent ................ EDW Number of years of Schooling
+Age at marriage of women............. AMW Completed years
+Children ever born (Fertility) .......... CEB Exact Number of Live Births
+
+Namboodiri, 1974; Krishnan and
+Krotki, 1976). Thus, one could expect
+AGE to be positively associated with
+CEB. One hypothesis is that, due to
+modernization, the younger portion of
+women are getting more facilities than
+the old, and therefore it could be expected that AGE is negatively related
+to EDW and AMW.
+
+REL—Religion is widely used as a
+cultural variable because it influences
+people’s values, beliefs, and practice.
+Earlier studies show that Muslims have
+been found to have higher fertility than
+non-Muslims (Kirk, 1966; Mazur,
+1967; Loebner and Driver, 1973; Islam
+and Khan, 1991; Khan et al., 1993).
+This higher fertility is partly a result of
+the early age at marriage observed in
+Muslims (Chaudhury, 1984; Islam and
+Khan, 1992). From this early marriage
+age, it may be hypothesized that Muslim women have received less education compared to their non-Muslim
+counterparts.
+
+CBW—Childhood background of
+women is important in imparting different social values and norms, and
+also in giving rise to different economic
+opportunities. According to the economic framework for fertility analysis,
+couples’ background characteristics influence the demand for children (Ward
+and Butz, 1980). Namboodiri (1972a,
+
+1972b) has noted that couples’ socioeconomic status and residential background are the important socioinstitutional factors relevant to fertility
+behavior. Therefore, women’s educational attainment, age at marriage, and
+family size would primarily depend on
+CBW. One may hypothesize that
+women with urban CBW are likely to
+have more education, higher age at
+matriage, and thus lower fertility. In
+Ahmed’s (1981) study he uses similar
+reasoning for the inclusion of the childhood background of husband (CBH).
+
+EDW-— Education of women is one
+of the key determinants of fertility as it
+delays age at marriage which in turn reduces fertility (Islam and Khan, 1991,
+1992). It is observed that educated
+mothers limit their family size by using
+contraception, and it is also well documented that the more educated the
+mother, the more they use contraception (Berelson, 1976). Empirical evidence suggests that EDW is positively
+related to age at marriage and negatively to fertility (Rich, 1973; Cochrane, 1983). Ahmed (1981) also argues for the inclusion of education of
+
+husband (EDH), which he believes has
+
+a positive effect on CEB. Khan et al.
+(1993) have demonstrated that EDW
+has a much greater role than EDH in
+controlling fertility in Bangladesh.
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+ 
+
+Vol. 41, No. 3-4
+
+AMW-—Age at marriage is considered one of the most important variables affecting fertility behavior. In a
+noncontraceptive society, early marriage is associated with high fertility.
+However, in a society where contraception is frequently practiced this
+statement may not be true. Bangladesh
+cannot be said to be contraceptive society as only around 31 per cent of
+women have ever used contraception
+(Huq and Cleland, 1990). Late age at
+marriage can affect cumulative marital
+fertility by shortening the duration of
+marriage within the reproductive span
+(Chaudhury, 1984). Several studies
+have shown that AMW is inversely related to fertility (Stoeckel and Chaudhury, 1969; Chaudhury, 1984; Khan et
+al., 1993).
+
+Under the assumptions of linearity,
+additivity, and recursiveness (Boyle,
+1970), we used path analysis in which
+the variables AGE, REL, CBH, and
+CBW are exogenous variables, while
+the variables EDW, EDH, AWM and
+CEB are endogenous variables in
+the hypothetical path model. Ahmed
+(1981) also used the assumptions.
+
+The 1989 survey did not collect information on the husband’s childhood
+background, so the path involving the
+childhood place of residence of the
+husband cannot be included. However, this omission will not preclude a
+fairly substantive comparison with the
+work of Ahmed. The correlation matrix and the regression models explaining the direct and indirect effects for
+urban and rural situations are displayed in Tables 2, 3, and 4.
+
+There is similarity between the two
+groups of respondents in age and religious background, and one can -observe that the age at marriage and ed
+Urban and Rural Fertility
+
+243
+
+ucation are lower for the rural group
+and that the number of children ever
+born is greater for the rural group.
+
+Multicolinearity, a particular danger in the interpretation of path models, due to its tendency to give rise to
+erroneous signs, has been checked by
+using the variance inflation factor
+(Belsley et al., 1980). No harmful multicolinearity was detected.
+
+From this analysis, we constructed
+the path diagrams displayed in Figures
+
+1 and 2. In these path diagrams, a solid
+
+line indicates a significant path, while a
+dashed line denotes an insignificant
+path. The numerical value (path coefficient) represents the degree of influence of one variable on another.
+
+RESULTS
+URBAN MODEL
+
+The women’s childhood _ background, education, and age at marriage all show the expected significant
+direct relationship to CEB, in that as
+these variables increase, CEB decreases. The converse is the case for
+the women’s age. Surprisingly, religion
+
+“has no direct significant influence on
+
+CEB. However, Muslims do have a
+significantly lower age at marriage. Religion is found to have an indirect effect
+on CEB, but only through AMW. The
+variable CBW indirectly influences
+CEB through EDW and AMW,, in that
+women from urban backgrounds have
+significantly more education and a significantly later age at marriage than
+women from rural backgrounds. EDW
+also has a significant indirect effect on
+CEB operating through AMW,, since
+as EDW increases so marriage is postponed and the number of children ever
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+244
+
+Khan and Raeside
+
+ 
+
+Social Biology
+
+ 
+
+TABLE 2
+CoRRELATION COEFFICIENTS, MEANS, AND STANDARD DEVIATIONS (SD) OF THE SELECTED VARIABLES
+Variables CEB AMW EDW CBW REL AGE
+Urban
+AGE........0006 0.738 —0.088 —0.046 ~0.101 0.008 1.000
+REL............- 0.008 —0.113 —0.024 0.046 1.000
+CBW, vaicenas esses —0.127 0.114 0.194 1.000 eH i
+EDW ssiccsscsas —0.263 0.529 1.000 nas
+AMW...........- —0.307 1.000 aa
+CEB. saxnexa sawn 1.000 TT ams ae a ak wae
+Mean..........+. 3.363 15.256 6.849 0.448 0.873 29.205
+SD ....eceeceeees 2.647 2.778 3.196 0.497 0.333 8.891
+Rural
+SES cee men ces 0.755 —0.135 —0.149 —0.016 —0.037 1.000
+REL............. 0.039 —0.045 —0.045 0.008 1.000
+CBW........... —0.028 0.049 0.171 1.000
+EDW,) ws vas envse —0.218 0.321 1.000 we x
+AMW........... -0.261 1.000
+CEB. 16sitas canes 1.000 see eae = wee Las
+Ce 3.761 14.621 4.768 0.021 0.858 29.246
+LF es ners emcee 2.886 2209 2.390 0.144 0.349 9.281
+
+born is reduced. The women’s age does
+not have any significant indirect effects
+on fertility in the urban case.
+
+RuRAL MODEL
+
+From examination of the rural path
+diagram, one can observe that EDW,
+AMW, and AGE, as in the urban case,
+significant direct effects on CEB. However, the influence of EDW is much
+less in the rural case. Unlike in the urban situation, religion has an important direct effect on CEB, as rural
+Muslims have significantly more children than rural non-Muslims. Religion
+also has significant indirect effects operating through AMW,, (similar to the
+urban case) and through EDW since
+rural Muslims receive significantly less
+education than non-Muslims. EDW
+also has an important indirect effect on
+AMW, but this is not so strong as in the
+urban case. Unlike the urban case, the
+women’s age has a significant indirect
+effect, operating first on EDW as older
+
+rural women have received significantly less education than their urban
+counterparts. CBW only has an important effect on CEB due to its influence on EDW,, in that women from a
+rural background, when compared to
+women from an urban background, are
+significantly less educated.
+
+The differences between path coefficients for the urban and rural cases
+are displayed in Table 5. When the coefficients are compared between the
+urban and rural cases, we find that age
+and religion have a significantly larger
+direct impact on CEB in the rural case.
+The indirect effects of CBW and AGE
+when operating through EDW are
+also greater in the rural case. However, the indirect effect of AGE operating through EDW is significantly
+greater in the urban situation.
+
+From this analysis one can conclude
+that there is evidence to support theories of urbanization leading to fertility
+reduction. This conclusion is reached
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+ 
+
+Vol. 41, No. 3-4 Urban and Rural Fertility 245
+TABLE 3
+REGRESSION RESULTS OF THE URBAN AND RURAL MODELS?
+REGRESSORS
+DEPENDENT
+VARIABLES AGE REL CBW EDW AMW R?
+Urban Model
+CEB......ccseeeeees 0.2159° 0.0978 —0.2031¢ —0.0720° | ~—0.1903° 0.6717°
+(0.7459) (0.0139) (—0.0420) (-0.0951) (-0.2367) _
+[0.004] [0.094] [0.066] (0.012] [0.013] Lan
+AMW......ccceceee 0.0006 ~0.8093° 0.27834 0.4874° wae 0.2896°
+(0.0018) (—0.0925) (0.0462) (0.5177) Len
+[0.007] [0.172] [0.121] [0.019] a
+EDW ......cccerees —0.0099 ~0.3953 4.24576 a 0.0402°
+(—0.0261) (—0.0425) (0.1949) ,
+[0.009] 0.212] [0.146]
+Rural Model
+CE Bisssasigassesaves 0.2413 0.4382 —0.0514 —0.0434¢ —0.2252° 0.6533
+(0.7560) (0.0575) (—0.0039) (—-0.0386) (—0.1961) Lae
+{0.004] [0.091] [0.160] [0.014] [0.014] tae
+AMW......cccceees —0.0089 —0.5428 0.0617 0.3055 Lee 0.11092
+(—0.0324) ~ (~0.0818) (0.0053) —-(0.3121) i
+[0.005] [0.126] (0.223] [0.019] _
+EDW ..........0008 ~—0.0420° —0,34984 2.0026° tas 0.0536°
+(-0.1483) (~0.0516) (0.1699) Lee
+[0.006] [0.133] [0.231]
+9Standardized regression coefficients in parentheses. Standard errors in brackets.
+bp < 0.001.
+“P< 0.01.
+dP < 0.05.
+
+because the path analysis has demonstrated that urban childhood place of
+residence, while having an important
+direct effect on reducing fertility, also
+significantly increases education levels,
+and this increase has a significant effect
+in reducing fertility. Another important observation between urban and
+rural settings is the reduced direct and
+indirect effects of religion in the urban
+case. The indirect effect of age also
+ceases to be of importance in urban setting. Thus, as urbanization increases, it
+appears that education levels and age
+at marriage in Bangladesh will increase, and consequently fertility will
+continue to decline.
+
+ 
+
+CHANGES IN THE EFFECTS SINCE 1975
+
+Ahmed (1981) reported on a similar
+analysis of the 1975 BFS, compared the
+rural and urban cases, and found
+broadly similar results. In Table 6, we
+compare the models for the 1989 and
+1975 fertility surveys. Unfortunately,
+in the 1989 survey two of the variables
+that Ahmed used (education and childhood background of the husband) were
+not recorded. Therefore, the comparison between the path models is indicative rather than precise, since the
+omission of the husbands’ variables
+will tend to inflate the effect of the remaining variable in the 1989 case.
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+246
+
+Khan and Raeside
+
+ 
+
+Social Biology
+
+TABLE 4
+
+ANALYSIS OF THE EFFECTS OF THE VARIABLES USED IN THE PATH MODEL FOR EXPLAINING FERTILITY
+OF EVER-MARRIED WOMEN (DEPENDENT: CEB)
+
+Inptrect EFFects VIA
+
+PREDICTOR Drrect TOTAL OBSERVED
+VARIABLES EFFEect EDW AMW EDW,AMW EFFECT CORRELATION
+Urban Model
+
+FUSE sssecaascnsves 0.7459 0.0024 —0.0004 0.0031 0.7503 0.738
+(99.4)2 (0.3) (0.1) (0.4) _ a
+
+Oise een see.cenn comvnscemes, 0.0139 0.0036 0.0194 0.0046 0.0415 0.008
+(33.4) (8.6) (48.7) (11.3) a _
+
+CBW.........000085 ~0.0420 —0.0168 0.0099 —0.0217 —0.0706 ~Q.127
+(59.4) (23.7) (14.0) (30.7) a _
+
+EDW .........0000 —0.0951 ees -—0.1120 - —0.2071 —0.263
+(45.9) (54.1) Le. a
+
+AMW.......ccceeee —0.2367 wee ~—0.2367 —0.307
+(100) ee Lae
+
+Rural Model
+
+AGE... cece eeeee 0.7560 0.0058 0.0064 0.0093 0.7775 0.755
+(97.2) (0.7) (0.8) (1.2) a Le.
+
+REL...........00085 0.0575 0.0018 0.0148 0.0029 0.0770 0.039
+(73.1) (2.5) (20.4) (4.0) Le. a
+
+CBW. .......200000 —0.0039 —0.0043 —0.0006 —0.0068 —0.0156 —0.028
+(17.6) (30.3) (4.2) (47.9) Lee _
+
+EDW. .............. —0.0386 we —0.0569 es —0.0955 —0.218
+(38.7) (61.3) _— Lae a
+
+MEW caasgascmnonce —0.1961 wae —0.1961 —0.261
+(100) _ Lee
+
+“Figures in parentheses indicate percentage contribution without taking into account the sign of the effects.
+
+From Table 6, one can observe in
+the urban case that the direct effects of
+AGE and CBW have increased, while
+religion no longer has a significant influence on fertility. For urban women,
+the fertility-reducing effects of EDW
+and AMW have increased over the
+fourteen years. When indirect influences on urban CEB are considered, it
+is apparent that CBW and religion are
+either no longer of importance or their
+effects are greatly reduced. Also, the
+influence of age on education is no
+longer of significance in 1989. The indirect effect of education operating
+through age at marriage makes an increased contribution to reducing urban
+CEB.
+
+In the rural situation, religion, and
+to a lesser extent age, increased their
+fertility-promoting effects over the
+fourteen-year period. The effect of
+religion in increasing rural CEB by
+acting to reduce AMW and EDW has
+also increased since 1975. These effects
+have been counteracted by the increased direct importance of EDW
+and AMW acting directly to reduce
+rural CEB. Also exerting greater
+influence, since 1975, to reduce rural
+CEB are the indirect effects of EDW
+acting via AMW, and AGE and CBW
+operating through EDW. The indirect
+effects of AGE and CBW acting
+through AMW are no longer important.
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Vol. 41, No. 3-4
+
+Urban and Rural Fertility
+
+247
+
+ 
+
+Fic. 1.—Path diagram of the selected variables for urban model.
+
+DISCUSSION AND
+CONCLUSIONS
+
+Findings emerging from this study
+have importance for policy makers. It
+has been indicated that urban women
+from an urban-childhood background
+are found to have lower fertility
+than their rural-childhood-background
+counterparts. However, in the rural
+model, urban-childhood background
+has an insignificant fertility-reducing
+effect. This finding may be due to a
+lower proportion of urban-childhood
+backgrounds in women living in rural
+Bangladesh. On the other hand, disregarding the childhood background,
+women residing in urban settings are
+found to have lower fertility than rural
+counterparts.
+
+Women from an urban childhood
+background spend more time in education and marry later. Age is confirmed as having a strong positive effect on fertility, which means that
+fertility is seen to be higher in older
+women. Considering REL, Muslims
+are found to have less education than
+non-Muslims in both models. However, the effect is significant only in the
+case of rural model. It is also confirmed
+that Muslims marry earlier in both the
+areas,
+
+Education appears to have a strong
+fertility-reducing effect in both models. This finding implies that higher education leads lower fertility. Younger
+rural women are found to have a significantly higher educational attainment than the older women, and it is
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+248
+
+Khan and Raeside
+
+Social Biology:
+
+ 
+
+_ Fic. 2,—Path diagram of the selected variables for rural model.
+
+anticipated that they will therefore be .
+
+likely to have smaller completed family
+sizes than did previous rural generations. Therefore, increasing education
+at every level can reduce fertility considerably. Moreover, education delays
+age at marriage of women which in
+turn plays a strong role in fertility reduction in Bangladesh.
+
+These findings are reflective of
+Ahmed’s (1981) analysis of BFS 1975,
+but there are some important differences (see Table 6). Notably, for the
+urban model, CBW now has a significant influence and REL now has an
+insignificant effect on CEB. AGE and
+REL are no longer important influences of EDW. This finding is likely the
+
+ 
+
+manifestation of the expansion of education and the increasing secularization of urban Bangladeshi society. Indeed, the effect of education both
+directly on CEB and via AMW has
+increased.
+
+When the rural situation is considered in the 1989 BFS, education now
+has a significant direct effect on CEB
+(contrary to the 1975 case), and AMW
+is no longer significantly influenced by
+AGE. Religion has increased its-effect
+on CEB directly and through EDW
+and AMW. AMW’s direct influence on
+CEB has also increased, as has EDW
+on AMW. Again, this finding supports
+the view that there has been an increase in the amount of schooling in
+ 
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+ 
+
+Vol. 41, No. 3-4
+
+TEST OF ABSOLUTE DIFFERENCE BETWEEN Two EFFECTS AND THEIR CONFIDENCE INTERVALS
+
+Path of
+Variable
+
+REL — EDW.
+CBW — EDW.
+
+4R = rural.
+6U = urban.
+‘S = significant.
+
+Urban and Rural Fertility
+
+TABLE 5
+
+AT 5 PER CENT LEVEL FOR THE URBAN AND RURAL MODELS
+
+BTTHCR AC oTeeeHETOSeoeeeD
+
+Seo oR HET roe ETE RD OOe
+
+CHP OHH o eH Reo Heganasse
+
+CURES ROE r HHH EHD ERE EEE
+
+CRMC Coo D eH HOSES E Hee aaoes
+
+Seat aanesees tO seve eene
+
+COMSCORE DEH HOSED OREO OOS
+
+Center eaeeessesetaoneese
+
+SORE EOS HAH OE HEA eceee
+
+COCO H OOOO EME OEE Eeae
+
+SEO HR e TTT MAES ROH EB OD
+
+CHOP OCCE HOO SHEESH RAO eeae
+
+¢NS = nonsignificant.
+
+COMPARISON OF THE 1975 AND 1989 PATH MODELS GENERATED FROM THE BANGLADESH
+
+PATHS OF Ahmed’s
+
+VARIABLES 1975 Study
+AGE = CEB 5 sxsscessasaveens 0.698
+BBL — CEB veasaeues mcscs o 0.043
+CBW — CEB...........ce008 NS?
+EDW — CEB. éésoscssssscnsus —0.078
+AMW —> CEB........0eceeeee —0.121
+EDH — CEB.........ccceeees 0.082
+AGE — AMW..........000005 NS
+REL — AMW............000 —0.131
+CBW — AMW.........cc0008 0.109
+EDW — AMW............065 0.318
+AGE — EDW........csccse08 —0.164
+REL — EDW oes ccsasee seven —0.065
+CBW —> ED Wi ves ses ans von nam 0.266
+REL — EDH..............066 —0.056
+CBH — EDH................. 0.134
+
+4NS = not significant.
+
+ 
+
+Largest
+Effect
+
+Re
+
+AQGACCACAACGA
+
+Difference
+
+TABLE 6
+
+FERTILITY SURVEYS
+
+Urban
+
+1989
+Study
+
+0.746
+NS
+—0.042
+—0.095
+—0.237
+NS
+—0,.093
+
+0.046
+0.518
+NS
+NS
+0.195
+
+PaTH CoEFFICIENTS
+
+Per Cent
+Change
+
+6.86
+
+~21.92
+~95.62
+
+29.39
+
+—57.61
+62.80
+
+~16.73
+
+Ahmed’s
+1975 Study
+
+0.740
+0.029
+NS
+NS
+—0.046
+NS
+—0.105
+—0.053
+NS
+0.167
+—0.154
+-0.039
+0.152
+—0.095
+0.130
+
+95 Per Cent
+Confidence Interval
+
+0.0254 +0.0111
+0.3404 + 0.2564
+0.1517 + 0.3392
+0.0286 + 0.0361
+0.0349 + 0.0374
+0.0083 + 0.0169
+0.2665 + 0.4179
+0.2166 + 0.4973
+0.1819 + 0.0527
+0.0321 + 0.0212
+0.0455 + 0.4905
+0.7569 + 0.5356
+
+Rural
+
+1989
+Study
+
+0.756
+0.575
+
+~0.039
+—0.196
+NS
+~0.082
+NS
+0.312
+~6.148
+~0.052
+0.170
+
+249
+
+Per Cent
+
+Change
+2.16
+98.27
+~326.30
+54.34
+"86.88
+3.70
+
+—32.31
+Lt?
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+250
+
+Bangladesh which in turn has led directly and via increasing age at marriage of women to a decline in fertility.
+Education in Bangladesh has become
+almost universal.
+
+It is puzzling to observe that the influence of religion has increased in rural areas, and this finding remains to be
+explained. To conclude, there is evidence that greater urbanization and increased education is having a reducing
+effect on fertility, both directly and
+through variables such as age at marriage and religion. Much work remains
+to be done as neither the 1975 nor the
+1989 models fully explained the number of children ever born. (The 1989based model explained around 67 per
+
+Khan and Raeside
+
+ 
+
+Social Biology
+
+cent of the variation in CEB.) Other
+explanatory variables require investigation. Also, one should adopt a certain amount of skepticism about some
+of the assumptions upon which the
+method of path analysis is based. Particularly questionable are the assumptions of only linear relationships between variables and the disregard for
+feedback loops.
+
+ACKNOWLEDGMENTS
+
+The authors are very much grateful to
+Dr. Richard H. Osborne, Editor of Social
+Biology and two anonymous referees for
+their critical review, valuable comments,
+and suggestions on an earlier version of this
+
+paper.
+
+REFERENCES
+
+AHMED, B. 1981. Differential fertility in Bangladesh: A path analysis. Soc. Biol. 28(12):102-110.
+
+ARTHUR, W. B., and G. McNIco.t. 1978. An analytical survey of population and development in Bangladesh. Pop. Dev. Rev.
+4(1):23-80.
+
+BELSLEY, D. A., E. Kun, and R. E. WELScH.
+1980. Regression diagnostics identifying influential data and sources of collinearity.
+Wiley, New York.
+
+BERELSON, B. 1976. Social science research on
+population. Pop. Dev. Rev. 2(2):219-266.
+
+Boye, R.P. 1970. Path analysis and ordinal
+data. Amer. J. Sociol. 75(4):461-480.
+
+CALDWELL, J. C., and P. CALDWELL. 1992. What
+does the Matlab fertility experience really
+show? Stud. Fam. Plann. 23(5):292~310.
+
+Cain, M. 1977. The economic activities of children in a village in Bangladesh. Pop. Dev.
+Rev. 3:201-227.
+
+. 1978. The household cycle and economic
+
+mobility in rural Bangladesh. Pop. Dev. Rev.
+
+4(3):421~438.
+
+ 
+
+ 
+
+joinder. Pop. Stud. 40:313-317.
+CHAUDHURY, R. H. 1984. The influences of female education, labour force participation,
+and age at marriage on fertility behavior in
+Bangladesh. Soc. Biol. 31(1-2):59-74.
+CHEN, L. C., and R. H. CuHaupuury. 1975. Demographic change and food production in
+
+. 1986. Landholding and fertility: A re-_
+
+Bangladesh 1960-74. Pop. Dev. Rev. 1:2012a).
+
+CLELAND, J., and W. P. Maupin. 1991. The
+promotion of family planning by financial
+payments: The case of Bangladesh. Stud.
+Fam. Plann. 22:1-18.
+
+CLELAND, J., J. F. Puitiips, S. Amin, and G. M.
+KamaL. (1992). The determinants of reproductive change in Bangladesh. Paper prepared for the Asia operations division, The
+World Bank.
+
+CocHRANE, S. H. 1983. Effects of education and
+urbanization on fertility. Jn R. A. Bulato and
+R. Lee (eds.), Determinants of fertility in developing countries, Vol. 2. Academic Press,
+New York.
+
+Cur.in, G. T., L. C. CHEN, and S. B. Hussain.
+1976. Demographic crisis: The impact of the
+Bangladesh civil war (1971) on births and
+deaths in a rural area of Bangladesh. Pop.
+Stud. 30:87-105.
+
+Duncan, O. D. 1966. Path analysis: Sociological
+examples. Amer. J. Sociol. 72(1):1-16.
+FREEDMAN, R., L.C. Coomss, and M.C.
+Cuan. 1972. Trends in family size preferences and practice of family planning: Tai
+wan, 1965-70. Stud. Fam. Plann. 3:281.
+
+GoLpsTEIN, S. 1973. Interrelations between migration and fertility in Thailand. Demography 10:225.
+
+GOVERNMENT OF BANGLADESH (GOB). 1978.
+World fertility survey: Bangladesh fertility
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+ 
+
+Vol. 41, No. 3-4
+
+survey 1975-76. First report. Ministry of
+health and population control, Dhaka.
+
+Hau, S.S., and K. V. Rao. 1992. Advanced
+techniques of population analysis. Plenum
+Press, New York.
+
+HEnRIPIN, J. 1972. Trends and factors of fertility
+in Canada. Statistics Canada, Ottawa.
+
+Hua, N., and J. CLELAND. 1990. Bangladesh fertility survey 1989, Main report, National Institute of Population Research and Training
+(NIPORT), Dhaka.
+
+IsLamM, S.M.S., and H. T. A. Kuan. 1991. Effects of selected socio-economic and demographic factors on fertility: A path analysis.
+Asian Profile 19(6):561-574.
+
+. 1992. Influences of selected socioeconomic and demographic variables on fertility:
+a multivariate analysis. Paper presented at
+the annual conference of Bangladesh statistical association held at Dhaka during December 14-15.
+
+Kasir, M., and A. K. U. Ros. 1990. Fertility
+and its proximate determinants. In M.B.
+Duza (ed.), South Asia Study of Population
+Policy and Programmes: Bangladesh. Pp.
+55-86, UNFPA, Dhaka.
+
+KHAN, H.T.A., S.M.S. Istam, H.M.R.
+Kuan, and R. Kuan. 1993. Fertility differentials in rural Bangladesh. Dhaka Univ.
+Stud. B, 41(1):83-89.
+
+Kirk, D. 1966. Factors affecting moslem natality. In: Berelson et al. (eds.), Family Planning and Population Program. Pp. 561-579,
+Univ. of Chicago Press, Chicago.
+
+KRISHNAN, P., and J. Krotxki. 1976. Growth of
+Alberta Families Study (GAFS): A report to
+health and welfare Canada, Pop. Res. Lab.,
+Univ. of Alberta, Edmonton.
+
+Lez, C., and R. Amin. 1981. Socioeconomic factors, intermediate variables and fertility in
+Bangladesh. J. Biosoc. Sci. 13:179-188.
+
+ 
+
+Urban and Rural Fertility
+
+251
+
+LoeBNER, H., and E. D. Driver. 1973. Differential fertility in central India: a path analysis. Demography 10(3):329-349.
+
+Mazur, D.P. 1967. Fertility among ethnic
+groups in the USSR. Demography 4:172195.
+
+Namsoonirl, N. K. 1972a. Some observations on
+the economic framework for fertility analysis. Pop. Stud. 26:185-206.
+
+. 1972b. The integrative potential of a fer
+tility model: an analytical test. Pop. Stud.
+
+26:465-—485.
+
+. 1974. Which couples at given parities
+expect to have additional births? An exercise
+in discriminant analysis. Demography
+11(1):45-56.
+
+Omran, A.R. 1973. Egypt: population problems and prospects. Univ. of North Carolina
+at Chapel Hill, Chape) Hill.
+
+Ros, A. K. U., and M. Kasir. 1988. A path
+model for analyzing sequential fertility in
+
+_Bangladesh. J. Statist. Stud. 8:8-21.
+
+Ricu, W. 1973. Smaller families through social
+and economic process. Monograph No. 7.
+Washington, D.C.: Overseas Dev. Council.
+
+Roy, S. G. 1981. Path analysis of areal fertility in
+rural India. Rural Demography 8(2):1-13.
+
+SHIN, E. H. 1977. Socioeconomic development,
+infant mortality and fertility: A cross sectional and longitudinal analysis of 63 selected
+countries. J. Dev. Stud. 13(4):399-412.
+
+STOECKEL, J., and M. A. CHoupuury. 1969. Differential fertility in a rural area of East
+Pakistan. Milbank Meml. Fund Quart.
+47(12):189-197.
+
+Warp, M. P., and W. P. Butz. 1980. Completed
+ferlity and its timing. J. Polit. Econ. 88:917940.
+
+ 
+
+ 
+

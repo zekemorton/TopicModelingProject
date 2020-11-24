@@ -1,0 +1,325 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ 
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+A note on changes in age at marriage of females
+and their effect on the birth rate in India
+
+P. Krishnan
+
+To cite this article: P. Krishnan (1971) A note on changes in age at marriage of
+females and their effect on the birth rate in India, Social Biology, 18:2, 200-202, DOI:
+10.1080/19485565.1971.9987918
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1971.9987918
+
+ 
+
+fa Published online: 23 Aug 2010.
+
+ee
+(g Submit your article to this journal @
+lil Article views: 1
+»
+Q View related articles 4
+
+(7) Citing articles: 1 View citing articles G
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:54
+
+ 
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+A Note on Changes in Age at Marriage of Females
+and Their Effect on the Birth Rate in India
+
+P. Krishnan*
+
+International Population Program
+Depariment of Sociology
+
+Cornell University
+
+Ithaca, N.Y.
+
+Basavarajappa and Belvalgidad (1967),
+
+‘Basavarajappa (1968), and Talwar (1967)
+
+have discussed in the pages of this journal,
+the effect of a rise in the age at marriage
+of the Indian females on the birth rate in
+India. The object of this note is to lend
+support to Basavarajappa’s contention that
+the decrease in the Indian birth rate will
+not be appreciable if the minimum age at
+marriage of the females is raised to twenty
+years. A new methodology is suggested
+here which is flexible enough to allow for
+relaxing some of the stronger conditions
+assumed by Basavarajappa and Belvalgidad (1967). The effect on the Indian female birth rate is worked out under the
+following assumptions:
+
+1. The Indian female population is stable
+(quasi-stable).
+
+2. The Indian female population will remain
+stable (quasi-stable) after the minimum
+age at marriage is raised to twenty years.
+
+3. Marriage is universa).
+
+4, Every female (when the minimum age at
+marriage is raised to twenty years) will be
+able to find a spouse.
+
+5. All births are legitimate (i.e., within wedlock).
+
+6. The age specific marital birth rates for the
+age groups 20-24, 25-29, ..., 40-44 will
+remain the same as before while there will
+be no births in the age group 15-19.
+
+7. The sex ratio at birth is 105 male births to
+100 female births.
+
+8. There is no mortality differential with respect to marital status.
+
+9. Mortality level remains the same for the
+population during the period under consideration.
+
+* Doctoral candidate in the International Population Program, Department of Sociology.
+
+Assumptions 3 through 9 can be found
+in Basavarajappa and Belvalgidad (1967).
+Assumption 1 is well known and has been
+employed by several researchers. Assumption 2 may seem to be a little unrealistic.
+In view of the fact that corresponding to
+any age distribution, one can find a stable
+population, a result demonstrated by Bourgeois-Pichat (1958), this assumption can
+be profitably used to examine the implications of a certain course of action. Basavarajappa and Belvalgidad (1967) assume that
+remarriages of widows and divorcees will
+not become common during the period
+under study. In the methodology developed
+here, there is no way to take care of this
+assumption. Hence, the per cent reduction
+in the birth rate computed by the technique
+suggested here is likely to be a little higher
+than the one they estimated. To compensate
+for this weak point of the methodology, we
+shall work with both age-specific marital
+birth rates and age-specific birth rates, Assumption 9 can be relaxed to incorporate
+the gains in expectation of life by the daughter generation over the mother generation,
+by employing the Ryder (1959) correction.
+But for the purposes of this note, Condition
+9 will not be relaxed. Also, it may be noted
+that time will be measured in “‘generations.”
+
+METHODOLOGY
+In a stable population, we have
+R, = exp (rT) (1)
+
+where R, is the net reproduction rate, r
+the intrinsic rate of natural increase, and T
+
+200
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+Vol, 18, No. 2
+
+the length of generation. We confine our
+attention to the female population. Keyfitz (1968¢) has demonstrated relations between the proportional changes in two of
+the parameters of (1) when the third one is
+kept constant. In a situation similar to the
+one we have, all these parameters do change.
+Hence, we have to find relations among the
+proportional changes in all the three parameters when all of them change. Taking the
+natural logarithm of both sides of (1), we
+
+get
+
+1
+= p log Ro.
+
+From (2), by the principle of total differentials, we get
+
+1
+
+ 
+
+ 
+
+—AT AR,
+Ar = 72 log Ro + Rr" (3)
+From (2) and (3), we get
+Ar “st AR 1
+rT TR, “Tos R, (4)
+
+Ar, AR,, and AT are the changes in
+r, R, and T respectively. Equation (4) can
+be used to estimate the per cent reduction
+in the birth rate under Assumption 2.
+
+The method of computation is as follows.
+From Equation (4) we set the per cent reduction in r. Let the new value of the intrinsic rate be 7’. For the given level of
+mortality, this value 7’ of the intrinsic rate
+determines a unique stable population
+whose birth and death rates can be read
+from the tables (Coale and Demeney,
+1966). If b were the original birth rate to
+start with, and 8’ the birth rate corresponding to the intrinsic rate 7’, then the per cent
+reduction in the birth rate is (b — 0’)/{6) X
+100. Male birth rate can be estimated by
+employing the method suggested in the
+United Nations Manual IV (1967, p. 60).
+Reduction in the male birth rate can be
+worked out under suitable assumptions. No
+
+Brief Reports
+
+(2)
+
+201
+
+attempt is made here to find the per cent
+reduction in the male birth rate.
+
+DATA AND FINDINGS
+
+The age-specific birth rates and the age
+specific marital birth rates used for this
+exercise are given in Table 1.
+
+Model West mortality level No. 12 ensures an expectation of 47.5 years at birth
+(Basavarajappa and Belvalgidad, 1967, use
+United Nations Model Life Tables with the
+same expectation of life at birth). A good
+approximation of the length of generation is
+the average of the mean ages of child-bearing in the stationary and stable populations
+(Keyfitz, 19683, p. 126). However, following
+Barclay (1958, p. 220), we approximate the
+Jength of generation by the mean age at
+childbearing in the stationary population,
+since the error of this approximation is not
+great (Keyfitz, 19685, p. 142).
+
+The original and the new values of r
+T, R, and 8 for the Indian female sopalation
+are given in Table 2,
+
+It is clear from Table 2 that the per cent
+reduction in the female birth rate will not
+be more than 14% in the course of a generation (i.e., within 28 to 29 years). If the
+daughter generation has a greater expectation of life at birth than the mother generation, the per cent decline in the intrinsic
+rate and hence in the birth rate will be
+reduced. The Ryder (1959) correction can
+be applied to estimate the reduction in such
+a case,
+
+TABLE 1
+
+AGE-SPECIFIC BIRTH RATES: INDIA, 1961
+
+Marital
+
+Age Group Birth Rate Birth Rate
+15-19........., 107.6 154.3
+20-24. .......45 280.1 305.0
+25-29. .....000. 296.0 314.2
+30-34...2...... 230.6 202.2
+35-39.......0.. 146.3 168.1
+
+sce eeeeee 59.3 76.3
+
+Source: India, Ministry of Home Affairs, 1963, p. xlvi-xlvii.
+Downloaded by [University of Michigan] at 13:54 08 December 2015
+
+202 Brief Reports
+
+Social Biology
+
+TABLE 2
+FERTILITY PARAMETERS OF THE INDIAN FEMALE POPULATION, 1961
+
+ 
+
+MARITAL SPECIFIC
+
+Not Marital SrEctrie
+
+Per cent Per cent
+
+PARAMETERS Original New Change Original New Change
+
+Net reproduction rate, R, 2.17 1.88 — 13.08 1.91 1.71 —10.35
+
+Length of generation, 7.. 27.9 29.49 + 5.62 27.58 28.91 + 4.81
+
+Intrinsic rate, 7........ 27.70 21.46 —22.53 23.46 18.58 —20.81
+
+Female birth rate, b..... 45.13 39.02 — 13.54 40.95 36.352 — 11.29
+REFERENCES
+
+Barciay, G. W. 1958. Techniques of population
+analysis. John Wiley and Sons, New York.
+
+BASAVARAJAPPA, K. G. 1968. A note on changes in
+age at marriage of females and their effect on the
+birth rate in India: A reply. Eugen. Quart. 15;
+293-295.
+
+BASAVARAJAPPA, K. G., and M. I. BELVAtcrpap.
+1967. Changes in age at marriage of females and
+their effect on the birth rate in India. Eugen.
+Quart. 14:14~-26.
+
+Bourceots-DicuHat, J. 1958. Utilisation de Ja nation de population stable pour mesurer la
+mortalité et la fécondité des populations des pays
+sous-développés. Bulletin de |’Institut International de Statistique 36:94~121.
+
+Coate, A. J., and P. Demeny. 1966. Regional model
+life tables and stable populations. Princeton
+Univ. Press, Princeton.
+
+TInvia. Ministry oF Home Arrairs. 1963. Vital
+statistics of India for 1961. Manager of Publications, New Delhi.
+
+Keyritz, N. 1968¢. Changing vital rates and age
+distribution. Population Stud. 22:235-251.
+
+. 19682. Introduction to the mathematics of
+population. Addison-Wesley Publishing Co.,
+Reading, Mass.
+
+Ryper, N. B. 1959, Time as a demographic variable.
+Paper delivered at the annual meetings of the
+American Association for the Advancement of
+Science, Chicago, Tl.
+
+Tatwar, P. P. 1967. A note on changes in age at
+marriage of females and their effect on the birth
+rate in India. Eugen. Quart. 14:291~-295.
+
+Unitep Nations. 1967. Methods of estimating
+basic demographic measures from incomplete
+data. Manual IV. United Nations, New York.
+
+ 
+

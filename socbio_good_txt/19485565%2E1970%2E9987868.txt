@@ -1,0 +1,1311 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ 
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+A multivariate regression analysis of differences in
+fertility of United States Counties
+
+David M. Heer & John W. Boynton
+
+To cite this article: David M. Heer & John W. Boynton (1970) A multivariate regression
+analysis of differences in fertility of United States Counties, Social Biology, 17:3, 180-194, DOI:
+10.1080/19485565.1970.9987868
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1970.9987868
+
+ 
+
+fa Published online: 23 Aug 2010.
+
+ee
+(g Submit your article to this journal @
+lil Article views: 4
+
+»
+Q View related articles 4
+
+(7) Citing articles: 7 View citing articles G
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:53
+
+ 
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+A Multivariate Regression Analysis of Differences
+in Fertility of United States Counties
+
+David M. Heer and John W. Boynton
+
+Department of Population Sciences
+School of Public Health
+
+Harvard University
+
+Boston, Mass.
+
+Two major methods have been used to
+study correlates of cross-sectional fertility
+differences: (1) the correlation of various
+personal characteristics with individual
+fertility, and (2) the correlation of average
+characteristics of population aggregates
+with the average fertility of these aggregates. The great bulk of cross-sectional
+fertility research has been by way of the
+individual method. Research on the aggregative level has probably been impeded by
+the valid and widely publicized warnings
+of Robinson (1950) that inferences concerning individual correlations could not
+necessarily be inferred from knowledge of
+correlations at the aggregative level. Nonetheless, despite Robinson’s admonition,
+knowledge of correlations at the aggregative
+level may be as important as data concerning associations at the individual level. For
+example, the policy-maker charged with
+reducing the birth rate in a given area must
+be cognizant of the factors likely to affect
+the success of the program for the area asa
+whole and therefore must know the matrix
+of correlations on the level of the aggregates
+with which he deals,
+
+Moreover, a policy-maker would be
+incorrect in assuming that a knowledge of
+
+ 
+
+ 
+
+the multivariate regression of individual
+characteristics upon a dependent variable
+for individuals in some broad aggregate
+(such as a nation) coupled with knowledge
+of these characteristics for individuals in a
+particular smaller area (such as a county)
+would necessarily be sufficient to predict
+the values of the dependent variable for the
+individuals of the particular small subaggregate. Making such an assumption involves
+the “atomistic fallacy” (Riley, 1963). For
+example, Duncan (1964) has shown from
+data of the Indianapolis study that the average number of children ever born to women
+of each economic class among couples residing in a residential area of given socioeconomic status depends upon the status of
+that residential area as well as upon the economic status of the couple. Specifically, poor
+couples in high-status neighborhoods had
+fewer children than poor couples in lowstatus neighborhoods; similarly rich couples
+in high-status neighborhoods had fewer children than rich couples in low-status neighborhoods, Therefore, in obtaining an accurate prediction of the average number of
+children ever born to women residing ina
+neighborhood of given socioeconomic status,
+it is not enough to know simply the overall
+
+180
+
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+Vol. 17, No. 3
+
+relation for all residential areas of individual
+economic status and fertility, but rather the
+relation between individual economic status and fertility specific to the status level of
+the neighborhood for which fertility is to be
+predicted.
+
+Obviously, neither the traditional individual analysis nor the traditional aggregative
+analysis is sufficient to give us a complete
+picture of the determinants of fertility behavior. A complete analysis, which Riley
+(1963) terms a social-system analysis, requires data for each individual on every
+relevant individual variable and on every
+relevant variable of each group to which
+that individual belongs. Unfortunately, we
+are still a long way from having knowledge
+of this sort concerning fertility behavior.
+
+Previous studies correlating average characteristics of population aggregates with
+their average fertility have used four different types of aggregate as the unit of analysis. Whole nations served as the units of
+analysis in studies by Weintraub (1962),
+Adelman (1963), Russett (1964), Heer
+(1966), and Friedlander and Silver (1967).
+Subnational areal units were analyzed in
+Leasure’s study of provinces of Spain
+(1963), Heer’s study of local areas in Peru,
+Bolivia, and Ecuador (1964), Heer and
+Turner’s study of local areas in Latin
+American countries (1965), Collver, Speare,
+and Liu’s study of townships in Taiwan
+(1967), Schultz’s study of municipios in
+Puerto Rico (1967), and Mazur’s study of
+urban and rural parts of oblasts in the
+U.S.S.R. (1968).
+
+A semiterritorial aggregate was used by
+Hathaway, Beegle, and Bryant (1969), who
+analyzed the correlates of cumulative fertility in 1960 for urban, rural-nonfarm, and
+rural-farm white persons in each county of
+the United States and of the four regions of
+the United States, and also the correlates of
+fertility for urban, rural-nonfarm, and ruralfarm nonwhites in each county of the South.
+Finally, a nonterritorial aggregate was em
+ 
+
+ 
+
+Fertility by Counties 181
+
+ployed by Mazur (1967) in his study of fertility among ethnic groups in the U.S.S.R.
+
+In general, one cannot necessarily expect
+the type of association revealed for one type
+of population aggregate to hold for another
+type of aggregate (Duncan, Cuzzort, and
+Duncan, 1961). For example, the pattern
+of relationship between certain independent
+variables and fertility found when the nations of Latin America were the units of
+analysis might differ from the pattern when
+the subnational units of each Latin American
+nation were the units of analysis. Discrepant
+patterns will exist whenever the variability
+of independent variables or the dependent
+variable differs with the type of aggregate
+taken as the unit of analysis.
+
+DEFINITION OF VARIABLES
+
+In the present study, eight independent
+variables were correlated with one measure
+of fertility. The independent variables were:
+(1) the level of infant mortality in or around
+1960, (2) the proportion of the total population in 1960 which was nonwhite, (3) the
+median income of males among all males
+with income in 1959, (4) the median number
+of years of schooling completed by persons
+25 years old and over in 1960, (5) the proportion of women 14 years old and over in
+the labor force in 1960, (6) the log,) of the
+population potential of the county in 1960,
+(7) the ratio of males 20 to 54 years old to
+females 15 to 49 years old in 1960, and (8)
+the 1960 proportion of the total population
+Roman Catholic in the archdiocese or diocese in which the county was located. All of
+the population data used in the calculation
+of the dependent variable and the first
+seven independent variables were obtained
+from materials published in United States
+Census of Population: 1960 (U.S. Bureau of
+the Census, 1963), or Vital Statistics of the
+United States (U.S. Public Health Service,
+1957-1967). Data on the Roman Catholic
+population of each archdiocese and diocese
+in the United States in 1960 were obtained
+
+ 
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+182 Heer and Boynton
+
+from the Official Catholic Directory, 1960,
+and on the total population in 1960 of each
+archdiocese or diocese from the Official Catholic Directory, 1961.
+
+Fertility in or around 1960 was measured
+in terms of a ratio of actual to expected
+births—a standardized fertility ratio identical in form to the well-known standard
+mortality ratio. This standardized fertility
+ratio allows one to measure fertility differences other than those caused by differences
+in age composition. The expected births
+for each county were computed by summing
+over each five-year age group from 15 to 49
+years of age the product of the number of
+women in the five-year age group in the
+county in 1960 and the specific fertility rate
+for that five-year age group in the United
+States as a whole in 1960. The actual number of births used in the numerator of the
+ratio was derived as follows. If the number
+of births in the county in 1960 was 500 or
+more, the number of births in 1960 was considered the actual number of births. If the
+number of births in the county in 1960 was
+100 to 499, a three-year average of births
+centered on 1960 was considered to be the
+actual number. If the number of births in
+1960 was 50 to 99, a seven-year average
+centered on 1960 was considered to be the
+actual number; and if the number of births
+in 1960 was less than 50, an eleven-year
+average centered on 1960 was taken as the
+actual number.
+
+The level of infant mortality was measured by the ratio of infant deaths in 1960
+to births in 1960 for those counties where the
+number of births in 1960 was 500 or more.
+Where the number of births in 1960 was
+less than 500, three-year, seven-year, and
+eleven-year averages centered on 1960 were
+computed for both infant deaths and births,
+and the ratio of these averages defined as
+the level of infant mortality.
+
+The concept of population potential may
+not be known to all readers, A brief explanation is therefore in order. Population poten
+Social Biology
+
+tial at any given place 7 can be defined as
+follows:
+n
+Via re
+jul 1i3
+
+where V; is equal to the population potential at place 7; P; is equal to the population
+of a place in set 7 of places to be considered,
+and r;; is the distance from that place in set
+yj to the reference place 1. The reference
+place 7 is always one of the places in set j.
+Therefore, population potential measures
+not only the population density of the place
+itself but also the population density of all
+other places in the universe to be considered,
+each of these other places being weighted by
+the reciprocal of its distance from the place
+of reference, Asa result, places with relatively low population density but contiguous
+to places of high population density have
+relatively high population potential compared to areas of similar population density
+situated away from areas of high population
+density. Moreover, areas of high population
+density situated away from other populated
+areas will have relatively low population
+potential compared to densely populated
+areas contiguous to other dense areas.
+
+Figure 1 reprints a map of equal contours
+of population potential for conterminous
+United States in 1960 prepared by assuming
+that the 3,105 counties in conterminous
+United States constitute the 2 places in setj
+(Warntz, 1964). Apart from the local peaks
+surrounding large cities, it can be seen that
+the highest levels of population potential
+exist in the megalopolis from Boston to
+Washington, D.C.
+
+The value of population potential for
+each county in the present study was kindly
+supplied by Warntz and is identical in each
+case to the value used by Warntz in preparing the map shown in Figure 1. A detailed
+description of the computation procedures
+is contained in Warntz (1964). It should be
+reiterated that population potential, both
+as shown in this map and as used in the pres
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+ 
+
+The Gengreghioal Renew.Vel LIV, Neo 3.1066, PI 2
+
+a” we
+POTENTIALS OF POPULATION, 1960
+CONTERMINOUS
+UNITED STATES
+
+BY WILLIAM WARNTZ [v_\
+
+ 
+
+109 2700
+
+ebeue 4
+
+The unit used in numbering the contours Iain é J Q Albers equal-area prosecion
+
+Thousands, persons per mile, The interval we
+
+50 for veives batow 1000 and 500 for values
+
+above Certain critecet values at irregular
+
+intervats arg shown by dashed knas, Camraied ond 3 Ee eee eee ‘
+Drovded by PRINCETON UNIVERSITY.
+
+Dats locate control pants used in computing Leng Computer tackles Buphoried In
+
+and interpolating mapped values, and indicate : by NATIONAL SCIENCE FOUNDATION
+ares! dllerentalion in rslanve reusbuity, . . ° Grant NSF-QPS79,
+
+ter 190 . 2 or .
+Cupytaht Lmtd by the Amarican Concgraphical hecuty, New Yorks ° Lute A Hoen Co ,helumerr, Md,
+
+Frc. 1.—Map of equal contours of population potential for conterminous United States in 1960. Reprinted from William Warntz, ‘A New Map of the Surface of Population Potentials for the United States,’? Geographical Review, 54 (1960), p. 176, by permission of the American Geographical Society.
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+184 Heer and Boynton
+
+ent study, considers in set 7 only areas within the conterminous United States. If all
+places in the world had been considered as
+belonging to set 7, the population potential
+of every part of the United States would
+have been increased, but each part would
+not share equally in the increase. In particular, there would have been substantial
+increases in the population potential of those
+areas Close to densely populated portions of
+Canada or Mexico and considerably smaller
+increases in other parts of the United States.
+
+The proportion of Roman Catholics as
+calculated from data of the Official Catholic
+Directory, 1960 is slightly less than the proportion of persons who reported their religious preference as Roman Catholic in the
+March 1957 Current Population Survey
+(United States Bureau of the Census, 1958).
+According to the Official Catholic Directory
+data on number of Roman Catholics (including those in the military ordinariate),
+the proportion of the United States population which was Roman Catholic in January,
+1960, was 22.9%. According to the 1957
+Current Population Survey, when related
+children under 14 years of age were counted
+according to the religion of their mother,
+26.3% of the United States population
+stated “Roman Catholic’ when asked
+‘What is your religion?”
+
+A possible alternative for measuring the
+proportion Roman Catholic in each county
+was to utilize data published for each
+county in Churches and Church Membership
+in the United States (National Council of
+Churches of Christ in the U.S.A., 1957).
+For counties in archdioceses and dioceses
+containing about 53% of the Roman Catholic population of the United States, these
+Roman Catholic proportions had as their
+numerator officially reported figures on the
+number of Roman Catholics as of January
+1, 1953 and for their denominator the county population from the 1950 census. For
+counties in the remaining dioceses the figures on Roman Catholic membership were
+
+Social Biology
+
+estimated on the basis of the Roman Catholic membership in the county as reported
+in the 1936 Census of Religious Bodies (U.S.
+Bureau of the Census, 1941) and the Roman
+Catholic membership in the archdiocese or
+diocese in 1953. Although this formula is a
+reasonable one, it gives very poor results in
+several cases because the data from the 1936
+census of religious bodies were so inaccurate.
+For example, Churches and Church Membership in the United States reports many of the
+counties in Texas to have Roman Catholic
+proportions greater than 100% and one
+county, Kinney, as 209.9% Roman Catholic.
+Since the proportions Roman Catholic in
+Churches and Church Membership in the
+United States were (a) out of date, (d)
+computed from a numerator pertaining to
+one year and a denominator pertaining to
+another and (c) egregiously inaccurate in
+some instances, it was decided not to make
+use of them,
+
+USE OF PRESENT INDEPENDENT VARIABLES OR THEIR COGNATES IN PREVIOUS STUDIES OF AREAL FERTILITY
+DIFFERENCES
+
+The level of infant mortality has been
+shown to be positively associated with fertility in previous multivariate analyses of
+national fertility differences by Weintraub
+(1962), by Heer (1966), and by Friedlander
+and Silver (1967). In the studies conducted
+by Weintraub and by Heer, infant mortality
+showed a stronger standardized regression
+coefficient with respect to fertility than any
+of the other variables included in the analysis, The study by Collver, Speare, and Liu
+(1967) of fertility differences among 361
+townships in Taiwan showed the crude
+death rate, with which the level of infant
+mortality is highly correlated, to have a
+substantial positive correlation with fertility. A study by Knodel and Van de Walle
+(1967) of areal fertility differences in nineteenth century Bavaria showed a positive
+correlation between the level of infant
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+Vol. 17, No. 3
+
+mortality and marital fertility both within
+areas where breast-feeding was common and
+in areas where it was not. Finally, in a multivariate study of the association between
+death rates and birth rates for municipios in
+Puerto Rico, Schultz (1967) showed, after
+control for other variables, that both the
+death rate of the previous year and that of
+the two years previous were positively associated with the birth rate of the current year;
+however, the association was considerably
+stronger with respect to the former than the
+latter.
+
+The percentage nonwhite has apparently not been previously correlated with
+fertility in a multivariate analysis. However, a positive zero-order correlation has
+been demonstrated for the counties of the
+United States (Kiser, Grabill, Campbell,
+1968).
+
+Multivariate studies of national fertility
+differences by Weintraub (1962), by Adelman (1963), and by Heer (1966) have
+shown positive partial associations between
+areal differences in income and in fertility,
+although the zero-order correlations between these two variables were in all cases
+negative. The similar study by Friedlander
+and Silver (1967) showed the same pattern,
+but only for the developed nations. A study
+by Russett (1964) on 38 nations showed a
+slight negative partial association between
+per-capita gross national product and the
+birth rate. However, this negative correlation can be substantially discounted because
+a high income per capita can be automatically associated with low fertility by virtue of
+the fact that a high-fertility population
+will have a high ratio of dependents to earners. Of the studies showing a positive regression between national income and fertility
+level after control for other variables, those
+by Heer and by Friedlander and Silver
+appropriately defined income as income
+per adult rather than per capita.
+
+The study by Hathaway, Beegle, and
+Bryant (1969) of components by residence
+
+ 
+
+Fertility by Counties
+
+185
+
+and color of the population of United States
+counties by region provides 18 different
+tests of the association between family income and fertility, holding constant other
+variables including female income and the
+proportion of females 14 and over who are
+employed. Family income was positively
+associated with fertility in 7 cases and negatively associated in 11 cases. In all three
+comparisons for the United States as a
+whole, the multivariate relation between
+family income and fertility was positive;
+on the other hand, the within-region associations were mainly negative.
+
+Educational level, literacy, and similar
+variables have consistently been found to
+correlate negatively with fertility in most
+but not all previous studies. With respect
+to fertility differences between nations,
+Adelman (1963), Heer (1966), and Friedlander and Silver (1967) found measures relating to educational attainment to be inversely related to fertility after statistical control
+for other factors. In studies with subnational
+units as the unit of analysis, similar negative
+correlations between educational attainment and fertility were found for Taiwan
+(Collver, Speare and Liu, 1967) and Puerto
+Rico (Schultz, 1967). In their study of components of the population of United States
+counties, Hathaway, Beegle, and Bryant
+(1969) found education to be negatively
+associated with fertility in 16 of 18 possible
+cases. For ethnic groups within the Soviet
+Union, Mazur (1967) also showed a negative
+partial association between a measure of
+educational attainment and fertility.
+
+On the other hand, in their study of subnational fertility differences in Latin American nations, Heer and Turner found a somewhat confusing situation. Holding constant
+the local proportion literate and other variables, they found the national proportion
+literate to be positively correlated with fertility. Other inconsistent results were obtained by Leasure (1963) in his study of
+Spanish provinces. He found a slight nega
+ 
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+186 Heer and Boynton
+
+tive partial association between education
+and marital fertility for 1950, but substantial
+positive partial correlations for 1900 and
+1910. Mazur (1968) found a substantial
+negative association between female educational attainment and fertility in urban and
+rural parts of non-Moslem areas of the
+U.S.S.R., but slight positive associations for
+urban and rural parts of predominantly
+Moslem areas (also including the Armenian
+Republic).
+
+The association between female laborforce participation and fertility was examined by Heer and Turner (1965) for local
+areas in each Latin American nation. They
+showed the proportion of females 15 years
+old and over in the labor force to be negatively associated with fertility after statistical control for seven other variables. Mazur
+(1968) in his study of urban and rural parts
+of oblasts in Moslem and non-Moslem portions of the Soviet Union consistently
+found the proportion of women in the labor
+force to be inversely related to fertility after
+control for other variables although a strong
+relation was observed only for the rural
+parts of non-Moslem areas. Collver (1968),
+in a study of fertility differences among 65
+Standard Metropolitan Statistical Areas of
+the United States in 1960, showed various
+measures of fertility all to be negatively
+correlated with the percentage of women in
+the labor force. Moreover, he demonstrated
+that this correlation did not occur because
+of an association between female labor-force
+participation rates and female educational
+attainment. In a previous study, Collver
+and Langlois (1962) had demonstrated
+inverse correlations between measures of
+fertility and female labor-force participation for the metropolitan areas of eight
+different nations. Hathaway, Beegle, and
+Bryant (1969) showed the proportion of
+females employed in components of United
+States county populations to be negatively
+associated with fertility in 12 of 18 possible
+cases,
+
+Social Biology
+
+The concept of population potential has
+not been used in previous studies of areal
+differences in fertility, at least to the writer’s
+knowledge. However, concepts related to it,
+such as population density, proportion
+urban, and distance from the nearest city,
+have been used in many previous works,
+The study of Taiwanese fertility differences
+(Collver, Speare, and Liu, 1967) made use
+of two concepts, logarithm of population
+per square mile and distance from nearest
+city of 50,000 persons or more, which in
+combination are very similar to the concept
+of population potential. For the Taiwanese
+data, both variables correlated inversely with
+fertility, with population density showing
+the larger standardized multiple regression
+coefficient. With respect to national fertility differences, the studies by Adelman
+(1963), Heer (1966), and Friedlander and
+Silver (1967) all showed population density
+to be inversely related to fertility. The excellent studies by Keyfitz (1952, 1953) showed
+a direct relation between fertility and distance from city, holding constant other
+variables. Hathaway, Beegle, and Bryant
+(1969) made use of a scale measuring the
+influence upon a county of the nearest
+metropolitan area dependent on the size of
+that metropolitan area and its distance
+from the county. In their multivariate
+analysis they found this scale to be negatively associated with fertility in 17 of 18 cases.
+
+With respect to the influence of the sex
+ratio on fertility, Heer and Turner (1965)
+showed that for all local areas in Latin
+America the sex ratio had only a slight
+positive association with fertility after control for other variables. However, within
+certain of the Latin American nations the
+sex ratio had a very large positive association with fertility while within others the
+association was slight, and in a few cases
+the relation was actually negative.
+
+Concerning the association between proportion Roman Catholic and fertility, Russett (1964) has shown a slight positive corDownloaded by [University of Michigan] at 13:53 08 December 2015
+
+ 
+
+Vol. 17, No. 3
+
+relation for a sample of 38 nations after a
+control for several variables indicating the
+level of socioeconomic development. No
+previous study of areal variations in United
+States fertility has included proportion
+Roman Catholic as a variable.
+
+SELECTION OF SAMPLE
+
+The universe for the present study consisted of 3,134 counties (or county equivalents) in the United States. From these, a
+one-in-five sample was selected by combining two one-in-ten systematic samples
+each having a different random starting
+point. From this sample of counties further
+exclusions were made for two reasons.
+First, counties were excluded if according
+to the 1960 census 10% or more of their
+total population was living in group quarters. Such counties were excluded because
+there was a high probability that the characteristics for the population of the county
+as a whole would be unduly influenced by
+the characteristics of its population in group
+quarters. Secondly, counties were excluded
+if all of the pertinent data were not available. In the original sample of counties, six
+in Alaska and one in Hawaii were dropped
+because information on population potential was not available, and one small independent city in Virginia, newly created in
+1960, because insufficient information was
+available to compute reliable measures of
+fertility and infant mortality. The final
+sample contained 591 counties,
+
+RESULTS
+
+The mean and standard deviation of each
+variable together with the matrix of zeroorder correlations are shown in Table 1.
+Logio of population potential can be seen to
+have the highest correlation (—0.39) with
+the standardized fertility ratio. The second
+most important correlate of fertility 1s the
+proportion Roman Catholic in the archdiocese or diocese in which the county is
+located. (0.30). Only two correlations be
+Fertility by Counties
+
+187
+
+tween independent variables are substantial:
+that between median male income and median years of school completed (0.78) and
+that between proportion nonwhite and
+infant mortality (0.57). The surprising lack
+of positive correlation between the Catholic
+variable and logi9 of population potential
+is due in part to the coincidence of very
+high proportion Catholic and low population potential in southwestern Louisiana,
+south Texas, and New Mexico.
+
+Table 2 presents the results of the multiple-regression analysis. The two variables
+of proportion Roman Catholic and logo of
+population potential are seen to be of much
+greater importance than the other variables.
+The contribution to R? of the first of these
+two variables is 0.13 and that of the second
+is 0.11. In other words, the addition of proportion Catholic adds 0.13 to the proportion
+of variance explained by the seven variables
+excluding proportion Catholic, while the
+addition of logio of population potential
+adds 0,11 to the proportion of variance explained by the seven variables excluding population potential. It should also be mentioned that the combined contribution to R?
+of these two variables is 0.27, so that the
+other six variables in combination explain
+only 0.08 of the variance.
+
+Other items of information presented in
+Table 2 are the partial correlation coefficients and the Beta coefficients (standardized regression coefficients). The square of
+the partial correlation coefficient shows the
+additional variance explained separately by
+each variable as a proportion of the variance
+left unexplained by the remaining variables.
+The sign of the partial correlation coefficient
+indicates the direction of association holding
+constant the other independent variables.
+The Beta or standardized regression coefficient shows, when all variables are expressed
+in terms of standard scores, the slope of
+each independent variable with respect to
+fertility after control for other variables.
+Inspection of the Beta coefficients or of the
+ 
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+TABLE 1
+
+MEANS AND STANDARD DEVIATION OF EACH VARIABLE AND MATRIX OF ZERO-ORDER CORRELATIONS
+redo RT ET TR SC a
+
+ 
+
+Proportion
+Standard Median Median of Females Logie Proportion
+Fertility Infant Proportion Male School in Labor Population Roman
+Ratio Mortality Nonwhite Income Years Force Potential Sex Ratio Catholic
+
+MOMs oci vs tsvscesceeses 0 ves 106.2 27.1 0.101 $2,981 9.6 0.291 5.50" 0.918 0.134
+Standard DeViation............ 16.9 9.5 0.162 $1,110 1.4 0.062 0.17 0.089 0.113
+Standard fertility ratio......... 1.000 vee —
+Infant mortality. cccissvsoeenee 0.187 1.000 wee
+Proportion nonwhite........... 0.167 0.570 1.000 wee
+Median male income........... —0.072 —0.325 —0.406 1.000 eee
+Median school years........... —0.055 —0.395 —0.440 0.782 1.000 wae
+Proportion females in labor force —0.084 0.035 0.105 0.428 0.368 1.000 vee
+Logis population potential...... —0.391 —0.023 0.074 0.053 —0.181 0.157 1.000 ine
+Sex ration... ccc cece cee renee 0.075 —0.296 —0.396 0.237 0.335 —0.037 —0.243 1.000 ee
+Proportion Roman Catholic..... 0.297 —0.205 —0.346 0.355 0.186 0.059 —0.016 —0.225 1.000
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+ 
+
+Vol. 17, No. 3
+
+partial correlation coefficients reveals the
+following variables to be positively related
+to fertility: (a) infant mortality, (6) proportion nonwhite, (c) median school years,
+(d) the sex ratio, and (e) proportion Roman
+Catholic. Only the coefficients for infant
+mortality, proportion nonwhite, and proportion Roman Catholic are statistically significant. The following variables are negatively associated with fertility: (a) median
+male income, (6) proportion of females in
+the labor force, and (c) logy of population
+potential. Only the coefficient for logio of
+
+Fertility by Counties
+
+ 
+
+189
+
+Two studies, that by Schultz (1967) on muntcipios in Puerto Rico and that by Collver,
+Speare, and Liu (1967) on townships and
+cities in Taiwan, were conducted with units
+more or less comparable in population to
+United States counties. Schultz, with seven
+independent variables, was able to explain
+47% of the variance in the crude birth rate
+among the Puerto Rican municzpios in the
+mid-1950’s. Collver, Speare, and Liu were
+able to account for 70% of the variance in’
+the total fertility rate of the townships and
+cities in Taiwan. (However, the Taiwan
+
+TABLE 2
+RESULTS OF MULTIPLE REGRESSION ANALYSIS
+
+Value of ¢
+Partial for Partial Standardized
+
+Contribution Correlation Correlation Regression
+
+Variables to R? Coefficient Coefficient Coefficient
+
+Infant mortality. ........... 2. cee eee eee 0.007 0.101 2.44 0.103
+Proportion nonwhite............-.-...045 0.044 0.253 6.30 0.294
+Median male income............2.-00005: 0.000 ~0.020 — 0.49 —0.030
+Median school yearS........00.0e20-e sees 0.000 0.003 0.08 0.005
+Proportion of females in labor force........ 0.003 —0.073 — 1.76 —0.071
+Logio population potential................ 0.114 —0.387 —10.13 —0.381
+SOr IWUO, « on eswadbehe ceed HA Pe Re ENERO 0.001 0.040 0.97 0.037
+Proportion Roman Catholic............... 0.135 0.415 11.01 0.419
+
+population potential is statistically significant.
+
+The rank order of importance of variables
+(judged by the magnitude of their Beta
+coefficients) is: (1) proportion Roman Catholic in the archdiocese or diocese in which
+the county is located, (2) logio of population
+potential, (3) proportion nonwhite, (4) infant mortality, (5) sex ratio, (6) median male
+income, and (7) median years of school
+completed.
+
+DISCUSSION
+
+One of the more striking results of the
+present study when compared to many other
+studies of areal differences in fertility is the
+relatively small proportion (35%) of the
+total variance explainable by the combined
+total of the eight independent variables.
+
+Multiple Coefficient of Determination
+(R?) = 0.352; F(8,582) = 39.59,
+
+results are not directly comparable with the
+present results or those of Schultz because
+each township or city was weighted by its
+population prior to computation of the regression equation.)
+
+In the study by Heer and Turner (1965)
+of Latin America, for which the units were
+directly below the national level and hence
+substantially larger in population than
+United States counties, 44% of the variance
+in the child-woman ratio was explained by
+eight independent variables. In Mazur’s
+study of ethnic groups in the Soviet Union,
+where the units also had on the average
+substantially higher population than United
+States counties, 83% of the variance in
+fertility was explainable by only four variables. Furthermore, all of the studies of
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+190 Heer and Boynton
+
+national fertility differences have explained
+a relatively high proportion of the variance
+ranging upward from the figure of 63%
+reported by Heer (1966). Only the studies
+by Leasure (1963), concerned with variations in marital fertility among Spanish
+provinces, report a relatively low proportion
+of explained variance. For data pertaining
+to 1900, 15% of the variance was explainable; for 1900, 37%, and for 1950, 17%.
+However, since there were only three independent variables in these Spanish regression analyses compared to seven in the present study of United States counties, one
+would expect, other things being equal, a
+higher proportion of the variance to be explainable for the United States counties
+than for the Spanish provinces. It might
+also be noted that the amount of variance
+explained in the current study cannot be
+compared with the amount of variance explained in the regression analysis of Hathaway, Beegle, and Bryant (1969) for the
+urban rural-nonfarm, and rural-farm components of the white population of United
+States counties. In two of these three analyses almost as much of the variance in fertility was explained as in the present study,
+despite the fact that the proportion Roman
+Catholic was not included as a variable. The
+surprising results can be explained by the
+fact that their fertility variable was not age
+adjusted and that two of their nine independent variables were ones included merely
+to adjust for differences in age composition
+among females of reproductive age. In each
+case these two age-composition variables
+were together responsible for explaining a
+substantial proportion of the variance in
+Hathaway, Beegle, and Bryant’s fertility
+variable.
+
+The relatively small proportion of variance explainable in the present study provokes speculation concerning additional
+variables, for which data were not readily
+available, which, had they been utilized,
+might account for more of the variance.
+
+Social Biology
+
+First of all, although we cannot be sure
+how much inaccuracy is contained in our
+approximation to the proportion Roman
+Catholic in each county, there was obviously some inaccuracy, and it is likely that this
+error causes us to lose some ability to explain
+variance in fertility.
+
+The present study also takes no account
+of the existence or quality of family-planning clinics. Very fragmentary data suggest
+that organized family-planning programs
+may have been a relatively minor factor in
+explaining the variations in fertility among
+United States counties in and around 1960.
+In 1960, the seven southern states of Alabama, Florida, Georgia, Mississippi, North
+Carolina, South Carolina, and Virginia
+were the only ones to have family-planning
+services incorporated into their publichealth programs. The proportion of counties
+in these seven states whose actual fertility
+was below that predicted by the regression
+equation was approximately the same as in
+the other states. Specifically, in the 120
+sample counties in the seven states with
+officially sponsored family-planning programs, 53% of the counties had lower fertility than that predicted by the regression
+equation; in the remaining 471 sample
+counties outside of these seven states with
+family-planning programs, the proportion
+of counties with fertility less than that
+predicted by the regresion equation was
+51%. At least in North Carolina, a state
+whose family-planning program began in
+1937 and is the oldest in the nation (Eliot,
+1966), family-planning activities were not
+of major magnitude in the years immediately prior to 1960, For example, in 1957 the
+total number of women referred for contraceptive services was less than 3% of the
+number of live births in that state (Norton
+and Donnelly, 1964). Family-planning clinics in the United States sponsored by approximately a hundred Planned Parenthood
+affiliates were operating in 1960 almost
+entirely in large metropolitan counties. The
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+Vol. 17, No. 3
+
+number of patients served by Planned Parenthood clinics in 1960 in the United States
+was 282,000 (Corsa, 1966) which was less
+than 3% of all live births in the nation
+during that year and perhaps around 6% of
+all live births in the areas served.
+
+Another unmeasured variable which is
+probably of some importance is the proportion of the total population of Spanish surname. An analysis of the counties which
+showed extremely large positive differences
+between their actual fertility and that predicted by the regression equation revealed
+several of these to be in Texas, New Mexico,
+and Colorado bordering on or adjacent to
+the Rio Grande River, where presumably a
+high proportion of the population is of
+Spanish surname.
+
+A third topic which needs further research is the extent to which the obtained
+Beta coefficients differ from what they
+would have been if all relevant variables
+had been accurately included. For example,
+does the fact that we cannot measure the
+proportion Roman Catholic in each county
+bias the measures we obtain for the other
+independent variables?
+
+Finally, even if we could assume that the
+obtained Beta coefficients are accurate, we
+must consider whether they represent the
+effect of the presumed independent variables
+upon fertility, whether they may at least
+in part reflect the effect of the supposed
+dependent variable upon the independent
+variables, or whether they result because
+the presumed independent and the presumed dependent variable are produced by a
+common cause. Two of the independent
+variables have observed Beta coefficients
+which, if accurate, probably overestimate
+the impact of that variable upon fertility.
+These are infant mortality and female
+labor-force participation. In these cases
+fertility no doubt exerts an influence upon
+the independent variable in the same direction as the impact of the independent variable upon fertility. There is good evidence
+
+Fertility by Counties 191
+
+that the level of fertility to some degree
+directly affects the level of infant mortality
+since infant mortality varies directly with
+the mother’s parity even after statistical
+control for other variables (Heady and
+Morris, 1959). It can also be argued that
+the achievement of low fertility, however
+motivated, induces women to enter the labor force.
+
+On the other hand, the observed Beta
+coefficient for logi9 of population potential
+may underestimate the impact of that
+variable upon fertility since the effect of
+fertility upon logio of population potential
+probably is direct, whereas we assume the
+effect of logio of population potential upon
+fertility to be inverse.
+
+An accurate Beta coefficient for the association of median male income and fertility
+also may not correctly reflect the impact of
+income upon fertility. It is possible, for instance, that a continued level of high fertility in the past would produce not only high
+fertility in the present but also, by creating
+pressure of population upon resources, a
+reduction in level of income. Thus, it may be
+that the effect of median male income upon
+fertility is direct even though an accurate
+Beta coefficient might be slightly negative.
+
+CONCLUSIONS
+
+Two variables, (@) the proportion of
+Roman Catholics in the archdiocese or diocese to which the county belongs and (8)
+the logiy of the population potential in the
+county, are found to be the most important
+in accounting for variation in the age-standardized fertility of United States county
+populations. There is little reason to doubt
+that these two variables are causally influential. Previous studies indicate the higher fertility ideals and greater reluctance to practice contraception among Catholics than
+members of other religious groups (Freedman, Whelpton, and Campbell, 1958; Westoff, Potter, Sagi, Mishler, 1961; Whelpton,
+Campbell, and Patterson, 1966; Blake,
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+192 Heer and Boynton
+
+1966). Moreover, several experts have suggested that a high density of population
+reduces biological fecundity (Christian,
+1950; Calhoun, 1962; Olin, 1966); alternatively, high population potential may facilitate acquisition of birth control knowledge
+(Collver, Speare, and Liu, 1967) or increase
+the costs of child rearing. The proportion
+nonwhite and the infant mortality rate were
+also found to be positively and statistically
+significantly associated with fertility. In
+the case of proportion nonwhite there is
+ample reason to believe that it exerts a
+causal influence upon fertility because of the
+relatively little knowledge or use of contraception among blacks (Whelpton, Campbell and Patterson, 1966). With respect to
+infant mortality, there is good reason to
+believe that high infant mortality may induce high fertility (Heer and Smith, 1968
+and 1969), but there is also the rationale
+that elevated fertility results in high infant
+mortality so that the causal influence of
+infant mortality upon fertility may be overstated by the Beta coefficient relating these
+two variables. The remaining variables
+included in the study—median male income,
+median school years completed by persons
+25 years old and over, the proportion of
+women 14 years old and older in the labor
+force, and the ratio of men to women of
+reproductive age—did not show a statistically significant association with fertility with
+other variables controlled.
+
+The importance of our crude measure of
+proportion Roman Catholic suggests the
+desirability of small-area data on religious
+preference from the decennial census.
+Unfortunately, such data cannot now be
+obtained prior to the 1980 census. In default of such data from the census it would
+appear very much worthwhile for some
+organization to gather together on a regular
+basis the official data on Roman Catholic
+affiliation to produce statistics on the number of Roman Catholics in each county of
+the United States.
+
+ 
+
+Social Biology
+
+Population potential has been shown here
+to be a very important variable in determining variation in fertility among United
+States counties. This is not surprising in
+view of the fact that for individuals in the
+United States fertility varies considerably,
+from a peak among residents of rural farms
+to a trough among residents of large urbanized areas, and that within rural areas fertility varies directly with distance from the
+city (Kiser, Grabill, Campbell, 1968). What
+is surprising is that population potential has
+not been employed more widely in previous
+studies of fertility. The usual practice in
+national fertility surveys is to cross-classify
+respondents into several discrete residence
+groups ranging from rural-farm to resident
+of one of the largest cities. This practice
+has two disadvantages. First it does not
+allow one to construct a continuous variable
+on a ratio or interval scale. Secondly, it
+ignores the variable of contiguity to other
+populated areas already demonstrated as
+important by the studies relating rural fertility to distance from the city. Since every
+respondent in national fertility surveys can
+very easily be classified according to the
+population potential of the county in which
+he lives, there seems to be no reason why
+such surveys should not routinely make
+use of this variable.
+
+Results from national fertility surveys
+which do provide a value of population
+potential for each respondent should help
+us gain a firmer grasp on why this variable
+affects fertility. Olin’s hypothesis that
+crowding reduces biological fecundity could
+be examined by such means as studying
+how an individual’s status with respect to
+population potential affects the frequency of
+sexual intercourse or the proportion of all
+pregnancies resulting in spontaneous abortion. The hypothesis of Collver, Speare, and
+Liu that high population potential facilitates
+acquisition of birth-control knowledge could
+also easily be investigated. Finally, there
+would be great value in studies designed to
+
+ 
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+Vol. 17, No. 3
+
+ascertain the average costs of child-rearing
+among individuals differing with respect to
+the population potential of their county of
+residence.
+
+ACKNOWLEDGMENTS
+
+This is a revised version of a paper presented at the 1969 meeting of the American
+Association for the Advancement of Science. A
+
+Fertility by Counties
+
+193
+
+still earlier version of the present results was
+contained in an unpublished Senior Honors
+Thesis at Harvard College by John W. Boynton
+completed in 1968 entitled “Population Density and the Regulation of Population Growth.”
+Funds for the paper were provided in part by
+the U.S. Agency for International Development
+under Contract AID/csd 2153. The contribution of Professor William Warntz in furnishing
+the data on population potential for each
+county is gratefully acknowledged.
+
+REFERENCES
+
+ADELMAN, Irma. 1963. An econometric analysis of
+population growth. Amer. Econ. Rev. 53:812
+BLAKE, Juvirw. 1966. The Americanization of
+Catholic reproductive ideals. Pop. Stud. 20:274
+
+CaLHoUN, Joun B. 1962. Population density and
+social pathology. Sci. Amer. 206: 139-148.
+
+CHRISTIAN, JOHN J. 1950. Adreno-pituitary system
+and population cycles in mammals. J. Mammal,
+31:247-259.
+
+CoLtvER, O. ANDREW. 1968. Women’s work participation and fertility in metropolitan areas.
+Demography 5:55-60.
+
+CoLLVER, ANDREW, and ELEANOR LANGLOIS. 1962.
+The female labor force in metropolitan areas:
+An international comparison. Econ. Dev. Cult.
+Ch. 10:367-385.
+
+COLLVER, ANDREW, A. SPEARE, and P. K. C. Lr.
+1967. Local variations of fertility in Taiwan.
+Pop. Stud. 20:329-342.
+
+Corsa, LESLIE, Jx. 1966. Family planning programs
+in the United States. Jn United States Senate,
+89th Congress, First Session, Population crisis:
+Hearings before the Subcommittee on Foreign
+Aid Expenditures of the Committee on Government Operations. Government Printing Office,
+Washington, D.C.
+
+Duncan, Otis Duptey. 1964. Residential areas and
+differential fertility. Eugen. Quart. 11:82~89.
+
+Duncan, Oris DupLEy, R. P. Cuzzort, and B.
+Duncan. 1961. Statistical geography. The Free
+Press of Glencoe, Ill.
+
+ELloT, JOHAN W. 1966. The development of family
+planning services by state and local health departments in the United States. Jn Public Health
+Programs in Family Planning: Supplement to
+January 1966 issue of American Journal of
+Public Health.
+
+FREEDMAN, RONALD, P. K. WHELPpTON, and A. A.
+Campbell. 1959, Family planning, sterility, and
+population growth. McGraw-Hill, New York.
+
+FRIEDLANDER, STANLEY, and Morris SILvER. 1967.
+A quantitative study of the determinants of
+fertility behavior. Demography 4:30-70.
+
+Hatnaway, Dare E., J. A. Bercie, and W. K.
+BRYANT. 1969. People of rural America. (A 1960
+census monograph). Government Printing Office,
+Washington, D.C.
+
+Heapy, J. A. and J. N. Morris. 1959. Social and
+biological factors in infant mortality; variation
+of mortality with mother’s age and parity. J.
+Obstet. Gynec, Brit. Emp, 66:577-593.
+
+HereEr, Davin M. 1966. Economic development and
+fertility. Demography 3:423-444.
+
+Heer, Davin M. and D. O. Santa. 1968. Mortality
+level, desired family size and population increase.
+Demography 5:104-121.
+
+. 1969. Mortality level, desired family size
+and population increase: further variations on a
+basic model. Demography 6: 141-150,
+
+Heer, Davip M. and E. Turner. 1965. Areal differences in Latin American fertility. Pop. Stud.
+18 :279-292.
+
+Keyritz, NatrHan. 1952. Differential fertility in
+Ontario. An application of factorial design to a
+demographic problem. Pop. Stud. 6:123-134.
+
+. 1953. A factorial arrangement of comparisons of family size. Amer. J. Sociol. 58:470-480.
+
+Kiser, Crypve V., W. H. Grasitt, and A. A. CampBELL. 1968. Trends and variations in fertility
+in the United States. Harvard University Press,
+Cambridge, Mass.
+
+KNOoDEL, JOHN, and E. VAN De WALLE. 1967. Breast
+feeding, fertility and infant mortality: An analysis of some early German data. Pop. Stud. 21:
+109-131.
+
+LEAsurE, J. W1tttaM. 1963. Factors involved in the
+decline of fertility in Spain, 1900-1950. Pop.
+Stud. 16:271-285.
+
+Mazur, PETER. 1967. Fertility among ethnic groups
+in the U.S.S.R. Demography 4:172-195.
+
+. 1968. Birth control and regional differentials
+in the Soviet Union. Pop. Stud. 22:319~333.
+NATIONAL CoUNCIL OF CHURCHES OF CHRIST IN
+THE U.S.A. 1967. Churches and church membership in the United States. Bureau of Research
+
+and Survey. Series C. New York.
+
+Norton, J. W. R., and J. F. Donnetry, 1964.
+Contraception in public health services. Jn Mary
+S. Calderone (ed.), Manual of contraceptive
+practice. Williams and Wilkins Co., Baltimore.
+
+OrFictat CaTHoric Directory, 1960, P. J. Kenedy
+and Sons, New York.
+
+. 1961. P. J. Kenedy and Sons, New York.
+
+Oxtn, ULtA. 1966. Feedback mechanisms in human
+populations: A hypothesis about the self-regulation of population control. Unpublished paper
+presented to the American Association for the
+Advancement of Science.
+
+Ritey, Matirpa W. 1963. Sociological research I.
+A case approach. Harcourt, Brace and World,
+New York.
+
+Rosrinson, W. S. 1950. Ecological correlations and
+behavior of individuals. Amer. Sociol. Rev.
+15:351-357.
+
+ 
+
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:53 08 December 2015
+
+194 Heer and Boynton
+
+Russett, Bruce M. 1964. World handbook of
+political and social indicators, Yale Univ. Press,
+New Haven.
+
+Scuurtz, T. Paut. 1967. A family planning hypothesis: Some empirical evidence from Puerto
+Rico. RAND Corporation, Santa Monica.
+
+U.S. Boreau oF THE CENSUS, 1941. Religious
+bodies: 1936. Vol. 1. Government Printing Office,
+Washington, D.C.
+
+. 1958. Religion reported by the civilian
+
+population of the United States: March 1957.
+
+Current Population Reports, Series P-20, No.
+
+Lm Government Printing Office, Washington,
+
+. 1963. Census of Population: 1960. Vol. 1.
+
+Government Printing Office, Washington, D.C.
+
+ 
+
+ 
+
+Social Biology
+
+U.S. Pusiic Hearra Service. 1957-1967. Vital
+Statistics of the United States: 1955-1965. Government Printing Office, Washington, D.C.
+
+Warntz, Wiiiram. 1964. A new map of the surface
+of population potentials for the United States,
+1960. Geog. Rev. 54: 170-184.
+
+WEINTRAUB, ROBERT. 1962. The birth rate and economic development: An empirical study. Econometrica 40:812-817,
+
+Westorr, Cuartes F., R. G. Potrer, Jz., P. C.
+Sact, and E. G. Misuier. 1961. Family growth
+in metropolitan America. Princeton Univ.
+Press, Princeton, N.J.
+
+WHELPTON, P. K., A. A. CAMPBELL, and J. PATTERSon. 1966. Fertility and family planning in the
+United States. Princeton Univ. Press, Princeton,
+
+N.J.
+
+ 
+
+ 
+

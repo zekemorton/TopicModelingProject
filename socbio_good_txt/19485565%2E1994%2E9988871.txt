@@ -1,0 +1,1062 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Birth spacing, breastfeeding, and early child
+mortality in a traditional Indian society: A hazards
+model analysis
+
+Dilip C. Nath , Kenneth C. Land & Kaushalendra K. Singh
+
+To cite this article: Dilip C. Nath , Kenneth C. Land & Kaushalendra K. Singh (1994) Birth
+spacing, breastfeeding, and early child mortality in a traditional Indian society: A hazards
+model analysis, Social Biology, 41:3-4, 168-180, DOI: 10.1080/19485565.1994.9988871
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1994.9988871
+
+fn Published online: 23 Aug 2010.
+(FB crs | ei
+Submit your article to this journal @
+lil Article views: 10
+N
+Q View related articles 4
+
+(7) Citing articles: 4 View citing articles G
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:46
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Birth Spacing, Breastfeeding, and Early
+Child Mortality in a Traditional Indian
+Society: A Hazards Model Analysis
+
+ 
+
+@Dilip C. Nath, 7Kenneth C. Land, and “Kaushalendra K. Singh
+
+@Department of Sociology, Duke University, Durham, North Carolina 27708; and &Centre
+of Population Studies, Benaras Hindu University, Varanasi 221005, India
+
+ABSTRACT: There are few studies of the interrelationships among breastfeeding, child spacing,
+and child mortality in traditional societies that incorporate extensive controls for social and
+demographic characteristics of the mother and child. In this paper, we investigate the impact
+of breastfeeding and the length of the preceding birth interval on early child mortality (defined
+as a death in the first two years of life) using data from a traditional society of India. Multivariate
+hazards models are used to analyze the data. Most prior analyses related the impact of
+breastfeeding duration to the duration of child survivability by taking breastfeeding as a fixed
+covariate. The present study has a methodological focus in the sense that breastfeeding information from retrospective survey data is treated as a time-dependent covariate both as a status
+variate as well as a duration—with empirical findings compared across the two specifications.
+The effects of postpartum amenorrhoea and various other demographic and socioeconomic
+
+‘characteristics of mother and child are also studied. The results suggest that breastfeeding
+
+duration has a strong impact in reducing the relative risk of early child mortality; but it does not
+
+explain the effect of the length of the preceding birth interval on early child mortality.
+
+Both high infant mortality and high
+fertility rates are major concerns for
+policy makers in developing countries
+like India, Nepal, and Bangladesh.
+Breastfeeding and birth spacing are
+closely interrelated with each to some
+extent, affecting the other. The study
+of the effects of both breastfeeding and
+birth spacing on child mortality has
+long been plagued by problems of spuriousness and simultaneity (Millman,
+1985; Millman and Palloni, 1984; Palloni and Tienda, 1986).
+
+Most review articles on studies of
+the link between breastfeeding and
+child health and survival provide convincing evidence of the health benefits
+of breastfeeding (Feachem and Koblinski, 1984; Jason et al., 1984; Anderson et al., 1984; WHO, 1989). It also is
+now well established that short intervals between births are detrimental to
+
+the health of both the mother and of
+the children born at both ends of the
+interval. Both pregnancy and lactation
+require supplementation of the mother’s normal diet, and a short birth interval does not give sufficient time for
+the mother to recuperate from the
+birth and to replenish her stores of nutrients used during pregnancy. Repetitive short cycles of pregnancy and lactation lead to progressively higher risks
+of low-birth-weight babies who have
+lower chances of survival in the early
+years. In addition, births spaced too
+quickly pose constraints for the mother
+in caring for and rearing the children.
+
+The pernicious effects of rapid
+childbearing on child-survival chances
+have been the subject of research for at
+least seventy years. Indeed, 1923 saw
+the publication of two of the earliest
+known studies in the area (Stevenson,
+
+168
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Vol. 41, No. 3-4
+
+1923; Hughes, 1923). A complicating
+factor is that the interaction between
+lactation, child mortality, and fertility
+varies not only from country to country
+but also from one segment of the population to another within the same
+country (Hobcraft et al., 1983, 1984;
+Lantz et al., 1992; Miller et al., 1992;
+Palloni and Millman, 1986; Retherford
+et al., 1989; Rustin, 1983). We do not
+have adequate information on this interaction in different situations. Further, the causal relationship among
+breastfeeding, birth spacing, and child
+mortality becomes complicated in the
+presence of a number of other explanatory variables like age of mother, sex
+of the child, birth order, and socioeconomic status. Some prior studies are
+limited by treating the duration of
+breastfeeding as either a categorical or
+a current status covariate. This treatment may affect the empirical results
+obtained. More research efforts are
+needed to isolate the role of breastfeeding from the other confounding
+factors as well as to overcome these
+methodological limitations.
+
+In the present paper, the relationships of early child mortality, defined
+as a death in the first two years of life,
+
+to the pace of childbearing and breast-.
+
+feeding are studied through multivariate hazards modelling in a traditional
+Indian Society. Breastfeeding is universal and lengthy in India, especially
+in rural areas. Aside from its contraceptive effect, breastfeeding provides
+protection against malnutrition and infectious diseases that is very important
+for child survival, especially in rural areas where access to modern medical facilities is quite limited. Breastfeeding
+provides protection against morbidity
+and mortality, especially during the
+
+Birth Spacing
+
+ating,
+
+ 
+
+169
+
+first year of life (Habicht, et al., 1986;
+Cunningham, 1988); even partial
+breastfeeding has been found to be
+beneficial (Habicht et al., 1988). However, relatively few rigorous studies
+of all three variables—birth spacing,
+breastfeeding, and child survivability
+—simultaneously and in the presence
+of controls for other variables have
+been done in contemporary India.
+
+MATERIALS AND METHODS
+DATA AND ITS CHARACTERISTICS
+
+Data for the research presented
+here come from the retrospective survey, “A Study on Effects of SocioEconomic Factors on Fertility among
+Scheduled Caste Population in the
+Rural Areas of Karimganj District, Assam” conducted during 1988-89 (the
+reference date for survey questions
+was June 15, 1988) under the auspices
+of University Grants Commission
+(UGC), New Delhi. |
+
+The survey was confined to only the
+scheduled caste population—the backward and economically deprived class
+of the Indian population. They are in
+the lowest class of Hindu society—a |
+caste system of social organization
+found in old India and continuing to
+the present day. Membership in a caste
+is hereditary and is fixed for life. A
+couple was defined as eligible for the
+present study if both the partners were
+alive on the reference date of the survey and the age of the female spouse
+was less than 50 years. Information on
+the status of the women—menstrupregnant, amenorrheic, or
+
+menopausal—on the reference date
+was obtained, and those who had
+reached menopause were excluded.
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+170
+
+The Karimganj district of Southern
+Assam is predominantly a Bengalispeaking area, where a large number
+of villages are identified as scheduled
+caste villages. If at least 10 per cent of
+the village population belongs to the
+scheduled castes, the village is considered to be a scheduled caste village by
+the Directorate of Economics and Statistics, Assam. From the list of scheduled caste villages of the district, a sample of 39 villages was selected by simple
+random sampling. Then, all scheduled
+caste households were enumerated.
+The survey comprises 1,805 scheduled
+caste households from the selected
+villages.
+
+The objectives of this survey were to
+obtain reliable data relating to fertility,
+to study the socioeconomic and behavioral factors affecting fertility, and to
+estimate biocultural parameters of human reproduction in traditional societies. In addition to other information,
+data were collected on age at marriage,
+total number of children ever born and
+surviving, including details about duration variables—lactation, postpartum
+amenorrhea (PPA), timing of birth,
+timing of child death, etc.—for all
+births occurring within the last seven
+years for each married, eligible female
+in the household.
+
+Life history events were dated to the
+year and month through the use of a
+calendar of local events, such as notable ceremonies like Annaprasan (introduction of rice as solid food for the
+first time), festivals like Durga Puja,
+Holi, Dipavali, Makar Sankranti, severe drought, eclipse, and administrative or political events. The limitations
+of retrospective information based
+upon mother’s recollections to provide
+reliable information on duration of
+
+Nath et al.
+
+Social Biology
+
+breastfeeding and life history events
+must be acknowledged and interpretations of substantive results of the analyses reported below suitably qualified.
+Nonetheless, short of ‘prospective
+panel data (which are nonexistent for
+traditional Assam populations), this
+method is the only manner such information can be obtained. To address the
+substantive questions raised in the introduction to this paper, we report
+analyses of this unique set of data.
+
+Only those eligible couples who did
+not practice any method of family planning to space and limit birth and for
+which husband and wife were normal
+residents of the village were considered. As the survey was restricted to
+the scheduled caste population, a
+grouping of subcastes was done for
+the present analysis, each group having
+its own distinct social organization
+and culture. Educational attainment
+among these groups of people is very
+low, and most of them are still engaged
+in traditional occupations like agriculture, fishing, cloth washing, hair cutting, cane works, pot-making, and
+basket-making. Only a small number
+of persons were employed in government or nontraditional private sector
+jobs.
+
+In the present analysis, the impacts
+of eight independent variables on the
+duration of child survival up to the age
+of 24 months are examined. These covariates are (i) mother’s age the birth
+of a child, (ii) length of preceding birth
+interval, (iii) parity of mother, (iv) sex
+of child, (v) mother’s education, (vi)
+subcaste, (vii) PPA, and (viii) breastfeeding. A woman’s age at the birth of
+a child is known to be an important determinant in analyzing the risk of infant death. To investigate the effect of
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Vol. 41, No. 3-4
+
+age, mothers were categorized according to their age at the birth of a child as:
+(1) <25 years, (IJ) 25-35 years, and
+
+(IIT) 35-43 years. The length of the
+
+preceding birth intervals were defined
+as (J) <15 months, (J) 15-27
+months, and (J/7) = 27 months. Mothers were categorized according to level
+of education as (i) those who had no
+schooling or elementary schooling
+(1-5 years of schooling), and (ii) middle schooling and beyond (6 or more
+years of schooling). In countries such
+as India, where a preference for male
+children exists, it is believed that
+breastfeeding patterns depend on the
+infant’s sex. Thus, we examine the
+roles of both mother’s age and child’s
+sex on the interval of interest.
+
+ANALYTICAL METHODS
+
+A major problem in using interval
+data (e.g., birth intervals, duration of
+child survival, duration of breastfeeding, etc.) from a retrospective survey is
+the incompleteness of the maternity
+histories of the women, except for the
+oldest cohort. The incompleteness
+generally creates two types of problems, viz., censoring and selectivity,
+which are difficult to tackle both statistically and substantially. Censoring
+occurs when intervals are interrupted
+by the interview itself. Open intervals
+are biased toward long intervals, and
+closed intervals are biased toward
+short intervals. The problem of censoring can be handled through the application of life table techniques (Namboodiri and Suchindran, 1989) or the
+incorporation of the life table approach
+into a multivariate procedure (Cox,
+1972). The selectivity problem is that
+the intervals available for analysis may
+be only a selected subset of the uni
+Birth Spacing
+
+ 
+
+171
+
+verse of interest. While it may at first
+seem natural to analyze all the intervals reported by retrospective histories, to do so biases the analysis toward
+younger ages at initiation, toward the
+experience of older birth cohorts, and
+toward the experience of most recent
+time periods.
+
+The selection bias in demographic
+studies arising from retrospective surveys has been addressed by several
+authors (Rodriguez and Hobcraft,
+1980; Rindfuss et al., 1982; Vaupel and
+Yashin, 1985; Heckman and Walker,
+1990; Rogers, 1992). Rindfuss et al.
+(1982) suggested a method to overcome selectivity bias while analyzing
+interval data from a retrospective survey. Following the guidelines of Rindfuss et al., we have selected a subset of
+the available set of retrospective data
+for analysis—that which is bounded by
+current (at survey date) ages 12.and 43
+and which occurred in the six years
+ending a year before survey as indicated (shaded area) in the Lexis diagram shown in Figure 1.
+
+For the present study, the duration
+of child survival is measured by the interval between date of birth and time
+of death if it occurs on or before 24°
+months, which is an uncensored observation. No account is taken of multiple
+births. Censored observations may
+occur in two ways: (i) if a child survives .
+at least 24 months prior to reference
+date of survey, and (ii) if the interval
+between birth and the reference date
+of survey is less than 24 months and
+the child survives up to the reference
+date. In the following models, the
+probability of death depends on the
+duration of child survival and on a set
+of independent variables which describe characteristics of the mother and
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+172 Nath et al. Social Biology 1950 1981 1987 1988
+12
+43
+50
+Age
+
+ 
+
+Fig. 1.—Illustration of durations of all child survival intervals initiated six years ending a year
+
+_ before the date of the survey.
+
+the environment in which the baby
+lives. All mothers with at least two
+births were considered. The independent variables fall into two categories:
+fixed characteristics, which take the
+same value in every month of observation for a given woman, such as age,
+education, etc.; and variable characteristics, such as breastfeeding status
+which may take a different value in
+each month of observation.
+
+Factors other than simple lactational status that might have an effect
+on the time of death of child can be
+identified through the application of a
+multivariate hazards model, a nonlinear regression technique which builds
+on a product limit life table (Cox,
+
+1972). The value of this technique is
+that it permits a regression analysis of
+censored data and provides an estimate
+of the relative magnitudes of the hazards to which different subgroups are
+subject.
+
+The hazards function or instantaneous mortality risk function at time ¢
+is given by
+
+h(t, z) = A@exp(B,Z) = 1)
+
+where A(t; Z) represents the instantaneous risk of child death at time 4
+Z = (21, 22, +++ 5 2) is a set of fixed
+covariates, A(t) is an arbitrary nonnegative unspecified baseline hazard
+function not dependent on covariates,
+and B, is a vector of unknown regres
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Vol. 41, No. 3-4
+
+sion coefficients to be estimated. The
+breastfeeding variables were examined
+in two separate specifications in order
+to ease interpretational difficulties of
+time-dependent covariates and to reduce computer costs.
+
+The first model specifies the hazard
+for child mortality up to ¢ months as
+follows:
+
+A(t; z) = h(Qexp{B.Z + Bsl()} (2)
+
+where /(f) is an indicator variable assuming a value 1 if the mother is
+breastfeeding ¢ months after birth of
+the child and 0 if she is not breastfeeding. The f, and B; are unknown regression coefficients. Note that the indicator variable J(t) simply examines
+whether or not breastfeeding status
+(current status) influences:the risk of
+death at failure time. Also, by interacting a particular independent variable and /(t) variable, one can examine
+the question of whether the effect of
+current breastfeeding status on the rate
+of death varies among subgroups of the
+population defined by the variable.
+However, such a categorical specification of breastfeeding does not account
+for effects of the duration of breastfeeding if it has stopped prior to the
+time point at which the hazard is estimated. To include the duration of
+
+‘breastfeeding, the following specifica
+tion of the model was used:
+h(t; z) = h(thexp{B,Z + BsBD(} (3)
+
+where BD(t) = minimum (t, duration
+of breastfeeding). Note that for mothers who have stopped breastfeeding
+before t, BD(t) will be the duration of
+breastfeeding, and for those still continuing breastfeeding, BD(t) will be
+the time point of consideration. Again,
+limitations of these definitions must be
+
+Birth Spacing
+
+ 
+
+173
+
+acknowledged. For instance, the retrospective survey data available to us do
+not permit distinctions between full
+and partial (supplemented) breastfeeding.
+
+The hazard functions in Models I,
+II, and III allow estimation of relative
+risks of other groups in relation to specific baseline groups by the exponent of
+the regression coefficient exp(.). Each
+element of the coefficients exp(.) represents the effect of covariates on the
+hazards function for a given group as
+compared to the reference group.
+When covariates are present, the
+exp(.) term reduces to unity. Values
+greater than unity indicates the relative
+risk of giving birth is greater for this
+group, compared with the reference
+group, whereas values less than unity
+indicate a decrease in the risk.
+
+RESULTS
+
+This analysis is based on 4,020 censored and 618 uncensored observations. Results under six different
+specifications—by excluding and including some of the variables involved
+
+—of hazards modelling are presented
+
+in Tables 1, 2, and 3. Model estimates
+under these different specifications are
+exhibited so that empirical results may
+be compared and studied for trends
+and robustness.
+
+Model I in Table 1 estimates the effects of preceding birth intervals and
+different sociocultural and biological
+variables excluding breastfeeding and
+PPA. The results indicate that preceding birth intervals of length =27
+months, parity of mother, sex of child,
+mother’s education, and subcaste have
+significant effects on early child mortality. |
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+174
+
+Nath et al.
+
+Social Biology
+
+TABLE 1
+
+ESTIMATES OF HAZARDS MODEL OF DYING IN THE First Two YEARS OF LIFE
+BY SELECTED CHARACTERISTICS
+
+Moope I
+FIXED
+COVARIATES B Exp(B)
+Length of preceding
+birth interval?
+15~27 months...........66. —0.1306 0.878
+= 27 months............. —0.5663° 0.568
+Age of mother at birth*
+2 25 YEOTS css sss eenanenn 0.1866 1.205
+Z5—BS YOLS us css venceees ona —0.2345 0.791
+Parity of mother.............. 0.0804° 1.085
+Sex of child? .
+Malle .........ccecssevseesseees —1.0813° 0.339
+Mother’s education*’
+Illiterate/nominal.......... 0.2757° 1.317
+Sub-caste*
+Kaibarta ...........cceecceees —0.2237° 0.800
+Others...........ccceceseeeees —0.20878 0.812
+Postpartum
+
+amenorrhoea (PPA).........
+
+@< 15 months.
+bp < 0.01.
+35-43 years.
+4Female.
+Literate.
+fNamasudra.
+8P < 0.05.
+
+Model II expands on Model I by introducing PPA into the model. The objective is to see whether the estimates
+in Model I will change if this control
+factor is included. It is observed that
+w:th the introduction of PPA as control
+variable, the effect of parity of mother
+and “‘other subcastes’’ become insignificant, but age of mother attains statistical significance.
+
+Models III and IV in Table 2 expand
+on Model I by including the key factor
+of breastfeeding as a status- and as a
+duration-variable respectively. The effects of biological covariates, save age
+of mother, and of sociocultural factors
+
+Mopex II
+S. E. g Exp(B) S. E.
+
+0.1647 —0.1831 0.833 0.1645
+0.1678 ~0.6442° 0.525 0.1678
+0.2223 0.5385° 1.713 0.2220
+0.2046 —0.4090° 0.960 0.2040
+0.0311 0.0082 1.008 0.0311
+0.0834 —0.9646° 0.381 0.0836
+0.1098 0.29682 1.346 0.1099
+0.0992 —0.2479° 0.780 0.0991
+0.1323 —0.1478 0.863 0.1323
+
+—0.07345 | 0.929 0.0085
+
+are attenuated following the inclusion
+of breastfeeding as a control variable.
+When breastfeeding is included as a
+duration variable, the effects of both
+categorical values of the length of the
+preceding birth interval (15-27 months
+and =27 months) reach significance
+and the effect of one of the categories
+
+for age of mother becomes insignifi
+cant. Finally, Models V and VI in
+Table 3 further expand on Models III
+and IV by introducing PPA. Inclusion
+of PPA as a control variable reduces
+the strength of the breastfeeding variable observed in Models III and IV;
+but the patterns of association remain
+
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Vol. 41, No. 3-4 Birth Spacing 175
+TABLE 2
+EsTIMATES OF HAZARDS MODEL OF DYING IN THE First Two YEARS OF LIFE BY SELECTED
+CHARACTERISTICS AND BREASTFEEDING (BF) as TiME DEPENDENT COVARIATE
+Mob. III * MobeEL IV
+COVARIATES p Exp(B) S. E. B Exp(p) S.E.
+Fixed covariates
+Length of preceding
+birth interval?
+15-27 months........... —0.1912 0.826 0.1648 —0.24894 0.780 0.1649
+= 27 months.......... —0.6217 0.537 0.1679 —0.7150° 0.489 0.1681
+Age of mother at birth¢
+< 25 years......ssceee 0.40264 1.496 0.2216 0.6617 = 1.938 0.2204
+25=35 YEATS sosccccsoseses —0.0871 0.917 0.2042 —0.0469 0.959 0.2031
+Parity of mother........... 0.0224 1.023 0.0312 0.0222 1.023 0.0306
+Sex of child |
+TU ss sags pgs cores sree — 1.0034 0.367 0.0835 —0.9029% 0.405 0.0833
+Mother’s education’
+Illiterate/nominal....... 0.25128 1.286 0.110 0.27688 1.319 0.110
+Sub-caste*
+Kaibarta ..........eceecees —0.22678 0.797 0.099 —0.23288 0.792 0.0991
+Othes........0cceeeeeeeees —0.21834 0.804 0.1322 —0.22884 0.796 0.1322
+Time-dependent covariate
+BF status! .......ccceeeeeeees —0.7451° 0.475 0.1062
+BF duration ........s...008- —0.06494 0.937 0.0056
+@ < 15 months.
+bp < 0.01.
+35-43 years.
+4P < 0.10.
+‘Female.
+/Literate.
+sP < 0.05.
+tNamasudra.
+‘Number.
+
+unaltered for the other covariates under study.
+
+It appears that estimates of regression coefficients provided by the multivariate hazards model, where both
+PPA and breastfeeding are considered
+under the same setup, show excellent
+and meaningful results (see Table 3).
+In Table 3, under Model VI, we find
+variations in mortality among children
+with the specified birth intervals are
+statistically significant. Babies born to
+mothers who do not have sufficient re
+covery times following a birth before
+next pregnancy have lower survival
+chances. Children born between 15-27
+months and on or after 27 months from
+the preceding birth are 25 per cent and
+72 per cent less likely respectively, to
+die in the first 24 months of their lives
+as compared to children born after less
+than 15 months from the preceding
+birth.
+
+The risk of death for children relative to mother’s age at the birth is
+higher for mother’s age less than 25
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+176
+
+Nath et al.
+
+Social Biology
+
+TABLE 3
+
+ESTIMATES OF HAZARDS MODEL oF DYING IN THE First Two YEARS OF LIFE BY SELECTED
+CHARACTERISTICS AND BREASTFEEDING (BF) AS TIME DEPENDENT COVARIATE
+
+MopeEL V
+COVARIATES B Exp(B)
+Fixed covariates
+Length of preceding
+birth interval?
+15-27 months........... —0.2070 0.813
+= 27 months.......... —0.6647° 0.514
+Age of mother at birth¢
+25 JOOS cssewssnas ve 0.58944 = 1.803
+25—35 YEATS ......eceeeee —0.0018 0.998
+Parity of mother........... 0.0069 1.007
+Sex of child Male ..........cceececeeeeee —0.94325 0.389
+Mother’s education’
+Iliterate/nominal....... 0.28434 1.329
+Sub-caste”
+Kaibarta .............0c00 —0.24594 0.782
+Othe#s.............0ceeeees —0.1667 0.846
+PPA... cc cccccecccceceenccees —0.0588° 0.943
+Time-dependent covariate
+BF status! ...........eceeeees —0.3945> 0.674
+BF duration ................
+@ < 15 months.
+bP < 0.01.
+35-43 years.
+P< 0.05.
+‘Female.
+fLiterate.
+8P < 0.10.
+hNamasudra.
+‘Number.
+
+years and lower for mother’s age between 25 and 35 years compared to
+mother’s age of 35 years or more.
+When all other covariates are” controlled, higher parity childrén are more
+likely to die within the first 24 months
+of their lives. For every increase in parity, the risk of death is increased by
+1.085 times (Model I). But when PPA
+or/and breastfeeding are considered in
+the model specification (Models II to
+
+MobeL VI
+S. E. B Exp(B) S.E.
+
+0.1647 —0.25048 0.778 0.1648
+0.1679 —0.7218° 0.486 0.1682
+0.2219 0.6929° 1.999 0.2208
+0.2040 —0.0506 0.951 0.2032
+0.0311 0.0282 1.029 0.0307
+0.0837 —0.89118 0.410 0.0835
+0.1101 0.28264 1.327 0.1101
+0.0992 — 0.23904 0.787 0.0992
+0.1324 — 0.21298 0.808 0.1325
+0.0092 ~0.02004 0.980 0.0096
+0.1179
+
+—0.560° 0.946 0.0069
+
+VI), the effects of parity become insignificant. The relative risk of death of a
+male child as compared to female child
+is approximately 0.4.
+
+With regards to mother’s education,
+the results follow the expected direction. Mother’s education has direct influences on both child care and living
+standard, and thus it is a good indicator
+of child life circumstances. The results
+indicate that education is negatively
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+ 
+
+Vol. 41, No. 3-4
+
+related to early child mortality. Children belonging to the illiterate/
+nominal education group of mothers
+have significantly higher (1.327 times
+in Model VI) hazards of death than
+those born to educated mothers. Significant variation in the early child
+mortality rate also is observed among
+different subcaste groups. The relative
+rates of early child mortality are low
+for children belonging to both Kaibarta
+and other subcastes as compared to the
+Namasudra subcaste. For every additional month of PPA duration of a
+mother, the risk of death of a child is
+decreased by 2 to 7.34 per cent under
+three different model specifications.
+After controlling for sociocultural
+and demographic factors, breastfeeding has a strong significant influence on
+the risk of child death. The estimated
+regression coefficients for breastfeeding show that at any given point, the
+risk of early childhood mortality is reduced by 75 (39) per cent under Model
+III (V) if the mother is breastfeeding at
+that time, compared to the risk among
+women not breastfeeding at that time.
+Results from the model specifying
+breastfeeding duration with selected
+sociocultural and demographic factors
+appear in Tables 2 (Model IV) and 3
+(Model VI). Results from these models
+show breastfeeding duration has highly
+significant negative effects on the rate
+
+of early child mortality~about a 6.5.
+
+(5.6) per cent reduction under Model
+IV (VI) for every additional month of
+breastfeeding. Thus, under Model VI,
+if a child is breastfed for six months,
+the relative risk of dying in the first 24
+months of life is 0.71 (exp[—0.0560 x
+6]) compared to a child who is never
+breastfed. Further, it is estimated and
+found that the interactions of breast
+Birth Spacing
+
+177
+
+feeding status/durations and other covariates are not statistically significant
+(not shown in the table).
+
+DISCUSSION
+
+Breastfeeding practices in traditional Indian Society are consistent
+with child rearing practices in most traditional societies in which breastfeeding is seen not only as a way of delaying
+the next birth but also as a cheap
+source of nutrition for the survival of
+the child. In rural areas of India,
+women continue to breastfeed their
+children exclusively for up to eight
+months and in some cases even for
+twelve months (Khan, 1990). Nath et
+al. (1993) reported that the life table
+median duration of breastfeeding of
+the Assam survey is 16 months. Demand feeding is the rule, and infants
+are fed between eight to fourteen times
+during 24 hours of a day in poor seg-.
+ments of the population of India
+(WHO, 1981). With demand feeding
+the rule, it is extremely difficult to collect information on the impact of supplementary feeding on the frequency
+or the duration of suckling. In particular, the data analyzed here do not
+provide any information to differentiate between full and partial breastfeeding.
+
+One obvious mechanism causing
+poor survival chances—which cannot
+be fully dealt with in the present study
+because of data limitations—is the maternal health depletion syndrome. A
+mother with repeated pregnancies and
+especially short birth intervals does
+not have sufficient time for recovery,
+both physically and nutritionally, and
+is more likely to have low-birth-weight
+babies. There is much evidence that
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+178
+
+low-birth-weight babies have poor survival chances, even into early childhood. Thus, the preceding birth interval often shows up as a significant
+determinant of early child mortality.
+This is the case in the results reported
+above—which indicate that there is a
+negative relationship between the
+length of time between the birth of the
+index child and the preceding birth and
+early child mortality, so that the longer
+the interval, the lower the risk of child
+death. In this traditional society, we
+find that children born to mothers following birth intervals of less than 15
+months have higher risks of death during early childhood—a finding that survives and even grows stronger when
+controls for PPA and breastfeeding,
+
+-especially breastfeeding duration, are
+
+introduced into the hazards models.
+Children born to the youngest (< 25
+years) birth cohort mothers also are
+more susceptible to death within first
+two years of their lives.
+
+As long as the child is on the breast,
+it receives assured nourishment independent of the socioeconomic status
+of the family. But when the child is
+weaned, its health depends on nourishment apart from breastmilk, and the
+availability and quality of such nourishment is influenced by the socioeconomic status of the family. Mother’s
+education represents household socioeconomic status in the present study.
+As expected, children born to illiterate
+or nominally educated women have
+higher risks of death. Mother’s education shows up as a strong predictor of
+early child mortality. Indian society
+also is known for its preference for
+sons. The estimated lower risk of male
+deaths measures this sex bias against
+the female child. Birth order also has
+
+Nath et al.
+
+ 
+
+Social Biology
+
+substantial effects on early child mortality before the introduction of breastfeeding as an explanatory variable.
+
+Examination of the relationship between breastfeeding and duration of
+child survivability needs special techniques because a child can change from
+a breastfeeding status to nonbreastfeeding status during the survivability
+interval of a survey. Previous investigations of the impact of breastfeeding
+on child mortality have related duration of survivability to breastfeeding as
+a categorical variable. However, since
+in such specifications, breastfeeding
+may be longer than the duration of
+child survival, estimates of the effects
+of breastfeeding in these studies may
+be biased. We deal with this problem
+using the only calculable values available in this survey of traditional Indian
+society—through a specification of
+hazard regression models in which
+breastfeeding is constructed in a timedependent setting.
+
+Our results show that breastfeeding,
+whether measured as a current status
+covariate or as a duration variable,
+consistently reduces the risk of early
+child mortality—even in the presence
+of controls for several other demographic and socioeconomic status
+variables. This finding appears to contradict the results of Palloni and Millman’s (1986) study of data from 12
+Latin American countries in which
+breastfeeding did little to explain child
+survivability. But it is consistent with
+findings from Miller et al.’s (1992)
+study of data from Bangladesh and
+the Philippines and Retherford et al.’s
+(1989) findings based on Nepal World
+Fertility Data. They also concluded
+that breastfeeding has important effects in reducing early child mortality
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+Vol. 41, No. 3-4
+
+but does not explain the effects of a
+short preceding birth interval in increasing the mortality hazard.
+
+The strong explanatory power of
+breastfeeding in the present study
+probably occurs because of (i) universal and prolonged breastfeeding
+practices, and (ii) higher early child
+mortality. But it also must be acknowledged that the retrospective data utilized in the present study limit the
+extent to which we can deal with prob
+Birth Spacing
+
+ 
+
+179
+
+Jems of spuriousness and simultaneity
+in the estimated relationships, interaction over time among lactation, child
+mortality, and fertility, selection biases
+and unobserved heterogeneity, and the
+maternal depletion syndrome.
+
+ACKNOWLEDGMENTS
+
+The research was supported by awards
+from the Rockefeller Foundation to Dilip
+C. Nath.
+
+REFERENCES
+
+Anderson, J. E., J.S. Marks, and T. K. Park.
+1984. Breast-feeding, birth interval, and infant health, Pediatrics 74(Suppl.):695-701.
+
+Cox, D.R. 1972. Regression model and life
+
+table (with discussion). Royal Statist. J. |
+
+34B:187—220.
+
+CunNiINGHAM, A.S. 1988. Breast-feeding,
+bottle-feeding, and illness: An annotated
+bibliography, 1986, p. 448-480. In D. B. Jelliffe and E. F. P. Jelliffe (eds.), Programmes
+to promote breast-feeding. New York, Oxford Univ. Press, New York.
+
+FEACHEM, R. G., and M. A. Kos iinskt. 1984. Interventions for the control of diarrhoeal
+diseases among young children: Promotion
+of breast-feeding. Austral. Pediat. J. 14:254258.
+
+Hasicnt, J. P., J. DAVANzo, and W. P. Butz.
+1986. Does breast-feeding really save lives,
+or are apparent benefits due to biases? Amer.
+J. Epidemiol. 123(2):278-290.
+
+. 1988. Mother’s milk and sewage: Their
+interactive effects on infant mortality. Pediatrics 18(3):456-461.
+
+Heckman, J., andJ. R. WacKer. 1990. The third
+birth in Sweden. J. Pop. Econ. 3:235-275.
+
+Hoscratt, J., J. W. McDona pn, and S. Rustin.
+1983. Child-spacing effects on infant and
+early child mortality. Pop. Index 49:585-618.
+
+. 1984. Socio-economic factors in infant
+and child mortality: A cross-national comparison. Pop. Stud. 38:193-223.
+
+Husces, E. 1923. Infant mortality. Results of a
+field study in Gary, Indiana, based on births
+in one year. Children’s Bureau Publication
+No. 112. U.S. Govt. Printing Office, Washington, D.C.
+
+Jason, J.M., P. Niepurc, J.S. Marks, and
+D. W. Fraser. 1984. Mortality and infectious
+diseases associated with infant-feeding practices in developing countries. Pediatrics
+74(Supp!.):702-727.
+
+ 
+
+ 
+
+Kuan, M.E. 1990. Breast-feeding and weaning
+practices in India, Asia-Pacific Pop. J. 5, 1,
+71-88.
+
+Lantz, P., M. Partin, and A. PaLionr. 1992.
+Using retrospective surveys for estimating
+the effects of breast-feeding and child spacing
+on infant and child mortality. Pop. Stud. 46,
+121-139.
+
+MILLER, J. E., J. TRUssELL, A. R. PEBLEY, and
+B. VAUGHEN. 1992. Birth spacing and child
+mortality in Bangladesh and the Philippines.
+Demography 29(2):305-318.
+
+MILLMaAN, S. 1984. Breast-feeding and infant
+mortality: Untangling the complex web of
+
+_ causality. Sociol. Quart. 26:65-79.
+
+MILLMaN, S., and A. PALLoni. 1984. Breastfeeding and infant mortality: Methodological
+issues and research strategy. Paper presented
+at the meetings of the Population Association
+of America, Minneapolis, 1984. Working Pa
+" per No. 84-10, Center for Demography and
+Ecology, University of Wisconsin-Madison.
+
+NatH, D.C., K. K. Sincu, K.C. Lanp, and
+P.K. TaLtukpar. 1993. Breastfeeding and
+postpartum amenorrhoea in a traditional society: A hazards model analysis. Soc. Biol.
+40:74~-86. ;
+
+NamMBoopirR!I, K., and C. M. SUCHINDRAN. 1987.
+Life table techniques and their applications.
+Academic Press, Orlando, Florida.
+
+Pa.Ltonti, A., and S. MILLMAN. 1986. Effects of inter-birth intervals and breastfeeding on infant and early childhood mortality. Pop.
+Stud. 40:215-236.
+
+PALLONI, A., and M. Trenba. 1986. The effects
+of breast-feeding and pace of childbearing on
+mortality at early ages. Demography 23:3152
+
+RINDFUss, R.R., J. A. PALMORE, and L. L. BumPASS. 1982. Selectivity and the analysis of
+birth interval data. Asian Pacif. For. 8(3):516. :
+
+ 
+Downloaded by [University of Michigan] at 13:46 08 December 2015
+
+180
+
+Ropricuez, G., and J. N. Hoscrarr. 1980. IIlustrative analysis: Life table analysis of birth
+intervals in Colombia. World Fertility Survey
+Scientific Reports No. 16.
+
+Rocers, A. 1992. Heterogeneity and selection in
+multistate population analysis. Demography
+29(1):31-38.
+
+RETHERFORD, R., M. K. CHoE, S. THAPA, and
+B. B. Gusuasu. 1989. To what extent does
+breast-feeding explain birth-interval effects
+on early childhood mortality. Demography
+26:439-451.
+
+STEVENSON, T. H. C. 1923. Fertility. In Census
+of England and Wales, 1911, Volume 13, Fertility and Marriage, Part Il. H. M. Stationary
+office, London, England.
+
+Nath et al.
+
+Social Biology
+
+VaupreEL, J. W., and A. I. Yasuin. 1985. Heterogeneity ruses: Some surprising effects of selection on population dynamics. Amer. Statist. 39(3):176-184.
+
+WHO. 1981. Contemporary pattern of breastfeeding. Report on the WHO collaborative
+study on breast-feeding. World Health Organization, Geneva.
+
+WHO. 1989. Research on improving infant feeding practices to prevent diarrhoea or reduce
+its severity: Memorandum froma Johns Hopkins University/World Health Organization
+
+/ Meeting. Bull. World Health Organ. 67, No.
+1, 27-33.
+

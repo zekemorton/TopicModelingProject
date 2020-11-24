@@ -1,0 +1,1904 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Fecundability and husband's age
+
+Noreen Goldman & Mark Montgomery
+
+To cite this article: Noreen Goldman & Mark Montgomery (1989) Fecundability and husband's
+age, Social Biology, 36:3-4, 146-166, DOI: 10.1080/19485565.1989.9988729
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1989.9988729
+
+fe Published online: 23 Aug 2010.
+
+&
+(g Submit your article to this journal @
+
+aul Article views: 3
+
+»
+Q View related articles @
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+ 
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:43
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Fecundability and Husband’s Age
+
+Noreen Goldman and Mark Montgomery
+
+ 
+
+Office of Population Research, Princeton University, Princeton, New Jersey; and
+Department of Economics, SUNY at Stony Brook, New York
+
+ABSTRACT: The effect of husband’s age on the probability of conception is evaluated from
+World Fertility Survey data in five developing countries: the Ivory Coast, Ghana, Kenya, the
+Sudan, and Syria. Proportional hazards models, which include wife’s age, husband’s age,
+marriage duration, union type, and post-partum exposure as covariates, are used to describe
+the monthly conception rate for second and higher-order birth intervals in which no
+contraception was used. With the exception of Syria, the resulting models indicate that the
+effects of male age are generally small in relation to the influences of marital duration and the
+
+age of the woman.
+
+This paper considers a fundamental
+demographic issue about which surprisingly little is known: the effects of husband’s age on fecundability. The female
+reproductive span is well demarcated by
+the events of menarche and menopause,
+and reproductive physiology sets natural bounds on the female age pattern of
+fertility. The standard indices of fertility
+are therefore rarely defined except in
+terms of female ages. More sophisticated approaches to fertility measurement, such as statistical models of birth
+intervals, may include a woman’s age
+among the covariates but seldom give
+the age of her partner commensurate attention. To what extent is this relative
+neglect of partner’s or husband’s age
+justified? That is, to what extent can varlation in a couple’s fecundability, over a
+joint reproductive career, be understood without reference to the age of the
+husband?
+
+The fecundability of noncontracepting couples may depend on the age of
+the male for both behavioral and physiological reasons. Declines in coital fre
+quency with husband’s age would certainly affect the probabilities of
+conception. There might also be variations with age in the quality of sperm, as
+reflected in its fertilizing power or in the
+viability of conceptions. These influences on fecundability can be masked
+by variation in contraceptive use with
+husband’s age. One must somehow separate contraceptive users from nonusers
+to isolate the fecundability effects, and
+yet doing so raises questions about selectivity that are difficult to resolve. To
+minimize the problems of selectivity
+that are inherent in such an exercise, we
+shall focus our investigation on populations with low levels of contraceptive
+prevalence.
+
+Two additional considerations guide
+the selection of countries for the study.
+In many societies the statistical associations between the ages of husband and
+wife are too close to permit separate influences on fecundability to be easily
+discerned. With other things held equal,
+male age effects are estimated more precisely in samples containing significant
+
+146
+
+ 
+—|
+=
+©
+N
+~
+oO
+=
+oO
+oO
+oO
+a
+CO
+©
+om
+x.
+om
+=
+—
+CS
+‘S
+CS
+ON
+—
+oo
+oO
+S
+Ce
+©
+>
+—
+—
+N
+~
+oO
+>
+os
+c
+=
+va
+Oo
+cv
+oO
+ca
+CS
+©
+—
+c
+S
+©
+OQ
+
+Vol. 36, No. 3-4
+
+variation in spouse ages, with substantial numbers of wives and husbands
+widely separated in age. Many of the societies characterized by wide age gaps
+between spouses are polygynous. As
+several investigations have shown,
+women in polygynous unions exhibit
+lower lifetime and period fertility
+(Garenne and van de Walle, 1985; Bean
+and Mineau, 1986; Pebley and Mbugua,
+1989). Junior wives in such households
+tend to be married to men who are considerably older, and it has been suggested that the gap in age, rather than
+polygyny per se may be the source of the
+fertility differential. To assess this possibility, we will examine societies which
+are polygynous in varying degrees.
+
+We consider five developing countries in which the age gaps between
+spouses are wide enough to yield substantial variations in age of husbands by
+age of wife: the Ivory Coast, Ghana,
+Kenya, the Sudan, and Syria. In three of
+these—Ivory Coast, Ghana, and
+Kenya—the conception risks facing
+women in polygynous households can
+be compared to the risks for those residing in monogamous households. In only
+one (Syria) of the sample countries does
+contraceptive prevalence exceed 10 per
+cent.! Total fertility rates for these countries in the late 1970's range from about
+6 in Syria and in Ghana to about 8 in
+Kenya (Goldman et al., 1985).
+
+We measure conception risks in
+terms of the hazard functions characterizing birth-to-conception intervals.
+Data from the World Fertility Surveys
+are employed to estimate multivariate
+models of interval length. Subject to restrictions to be discussed below, these
+
+Figures refer to current use of contraception
+among married women and are taken from the
+WFS first country reports.
+
+Fecundability and Husband’s Age 147
+
+WFS data permit an assessment of the
+effects of husband’s age on fecundability, net of the influence of other proximate determinants.
+
+REVIEW OF THE LITERATURE:
+AGE AND FECUNDABILITY
+
+It is convenient to express fecundability as the product of four probabilities: the probability that a woman’s
+menstrual cycle is ovulatory; the likelihood of intercourse within the fertile period; the conditional probability of fertilization given a coital act; and the
+probability that the fertilized egg survives. While the likelihood of ovulation
+is independent of the age of the male,
+each of the remaining three factors
+could be affected by male age or the age
+of the female.
+
+The likelihood of intercourse within
+the fertile period is well approximated
+by coital frequency.” There is persuasive
+evidence of a decline in coital frequency
+with male and female ages and with
+marriage duration (Westoff, 1974; Udry
+and Morris, 1978; Udry et al., 1982), although the evidence presented is generally univariate in nature. Rather less is
+known about the separate contributions
+of male aging, female aging, and marriage duration when the other two factors are controlled.
+
+Four studies based on U.S. data have
+considered spouse ages and marriage
+duration in a multivariate setting. Trussell and Westoff (1980) report that coital
+frequency declines with wife’s age, husband’s age, and marriage duration when
+all three variables are entered in a regression. The relative magnitudes of the
+three effects are not discussed. Udry
+
+*See Potter and Millman (1985, 1986) for an assessment of nonproportionality in effects at high
+coital frequencies.
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+148
+
+(1980) has found that marriage duration
+dominates wife’s and husband’s age in a
+regression analysis of coital frequency,
+using panel data on young couples in the
+U.S. Two studies drawing on panel data
+from the 1970 and 1975 National Fertility Surveys (Jasso, 1985; Kahn and
+Udry, 1986) confirm the negative effect
+of marriage duration. Neither finds a
+strong influence of husband’s age on coital frequency and there is disagreement
+over whether the effect of wife’s age is
+significant. Taken together, these
+results support the often-held view that
+marriage duration is the best single
+proxy for the frequency of coitus.
+
+In addition to the direct effects of coital frequency on conception risks, there
+is an indirect relationship of potential
+significance.? The longer the intervals
+between coitus, the larger the proportion of aged sperm in the male reproductive tract in relation to youthful sperm.‘
+Two aspects of the age of sperm appear
+important in respect to fertilization.
+Sperm motility—that is, the existence
+and vigor of movement—may be a function of the age of the cell, as may the in
+3Although we stress here the effect of coital frequency on the age distribution of sperm at issue,
+there is a supporting argument concerned with the
+aging of the sperm and egg in the female reproductive tract. In man, unlike many other species, there
+is no natural synchronization in the arrival of
+sperm and the availability of a receptive ovum.
+Upon deposition in the female genital tract, sperm
+lose their fertilizing capacity within some 48 hours;
+an egg loses its capacity to be fertilized within 6 to
+24 hours after ovulation (Potter and Millman,
+1986). The lower is coital frequency, the greater
+the likelihood that one gamete will have lost its fertilizing potential by the time it encounters the
+other. Hence, lower coital frequencies exert a direct and indirect influence on conception risks.
+
+{It is also the case that longer coital intervals
+produce a greater volume of ejaculate and higher
+counts of sperm per unit volume (MacLeod and
+Gold, 1952). However, ejaculate volume bears no
+important relation to risks of conception, and
+MacLeod and Gold have found that only the very
+low sperm densities appear to affect conception
+risks.
+
+Goldman and Montgomery
+
+Social Biology
+
+cidence of abnormalities in form (microcephalic heads, coiled tails, and the
+like). MacLeod and Gold (1951a,
+1953a) present data showing that the per
+cent of active cells varies considerably
+between the sperm samples of fertile
+and infertile men. Moreover, in the fertile group, increases in motility show a
+strong negative effect on waiting times
+to conception. So far as MacLeod and
+Gold could determine, abnormalities in
+the form of sperm do not appear to influence waiting time to conception in the
+sample of fertile men°; there is, however, a higher incidence of normal cells
+in the samples of fertile men, in comparison to the levels in the infertile samples.
+
+Holding coital frequency constant, is
+there any evidence of a reduction in
+sperm quality with male age? The early
+research of MacLeod and Gold (19535)
+uncovered little to suggest a “pure” age
+effect, at least for men under 45.
+Stronger results are presented in recent
+work by Schwartz et al. (1983). Controlling for time since last intercourse, a
+marked deterioration in sperm morphology (that is, an increase in abnormalities in form) is apparent among men
+older than 40, and there is an indication
+of a decline in motility in the sperm of
+men over 45.
+
+It 1s not clear whether the survival of
+a fertilized egg is influenced by male
+age.® Selvin and Garfinkel (1976) have
+
+5MacLeod and Gold could not disentangle the
+effects of sperm motility from sperm morphology
+in a multivariate sense, due to collinearity between
+these variables. Since their analyses of waiting
+times ta conception employ only closed intervals,
+they are subject to an unknown degree of bias.
+
+6Frequency of intercourse, by affecting the aging of gametes in the female reproductive tract,
+does appear to influence rates of spontaneous
+abortion. See Guerrero and Rojas (1975) and the
+discussion in Potter and Millman (1986) regarding
+coital frequency and Down’s syndrome.
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 36, No. 3-4
+
+demonstrated a positive statistical association between husband’s age and fetal
+loss with controls for the age of the wife.
+However, their result might be interpreted either as a pure age effect or as a
+reflection of variation in coital frequency and sperm quality.
+
+The effects of female aging on fecundability are better understood, although
+significant gaps in knowledge remain.
+James (1979) has summarized the evidence. The likelihood of ovulatory menstrual cycles remains roughly constant,
+at 97 per cent (other sources cite slightly
+lower figures), from a woman’s early 20s
+until age 40, on average. A decline occurs after age 40 as menopause is approached, and by age 45 only one-half of
+cycles are ovulatory. Little evidence exists linking female age to probabilities of
+fertilization (given coitus within the fertile period and an ovulatory cycle).
+However, there is an age pattern in the
+likelihood that a fertilized ovum will survive to the point at which the pregnancy
+can be recognized. As James writes, “it
+seems reasonable to suspect unrecognized spontaneous abortions of being
+positively associated with maternal age”
+(1979, p. 332). Finally, it appears well
+established that spontaneous abortions
+at later gestational ages are more likely
+at higher maternal ages (Nortman,
+1974; Selvin and Garfinkel, 1976).
+
+Trussell and Wilson (1985), drawing,
+on historical data and mathematical
+models of reproduction, demonstrate
+that levels of sterility among women exhibit only modest increases until age 40
+(being no higher than 10-15 per cent by
+age 35) but rise sharply thereafter. This
+increase in sterility with age provides a
+clue as to the age pattern of mean fecundability among women still able to conceive, but the precise relationship between the two is not known.
+
+ 
+
+Fecundability and Husband’s Age 149
+
+To sum up, the fecundability literature suggests that the bulk of the association between male age and conception
+risks might be traced to frequencies of
+intercourse. Lower frequencies directly
+affect exposure to risks of conception,
+and indirect effects associated with the
+age distribution of issued sperm would
+tend to reinforce the direct. The effects
+of male aging on the fertilizing power of
+sperm, while as yet poorly understood,
+would appear to be small in relation to
+the influence of coital frequency and the
+aging of the female.
+
+The demographic literature on male
+age and fertility, though limited in
+scope, comes to much the same conclusion. Anderson (1975) has considered
+the relationship in turn-of-the-century
+Irish census data. Although the census
+tabulations do not permit detailed analysis, there is clear evidence of declines in
+a couple’s final parity by age of husband,
+controlling for wife’s age and marriage
+duration. In a three-factor decomposition of nineteenth-century Mormon fertility, Mineau and Trussell (1983) find
+wife’s age and marriage duration to have
+the dominating effects. Husband’s age is
+associated with the level of marital fertility, but its influence is small by comparison and limited for the most part to
+marriage durations at which men are
+age 45 or older.
+
+The literature on fertility in polygynous conjugal unions emphasizes three
+factors which may explain the lower fertility characteristic of women in such unions: coital frequency; primary sterility
+or low fecundability among first wives;
+and male age. The classic hypothesis remains that of Muhsam (1956), who
+notes that with male sexual activity
+roughly constant across union type, the
+coital frequency of women in polygynous unions is reduced by comparison
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+150 Goldman and Montgomery
+
+with its frequency in monogamous unions. Garenne and van de Walle (1985)
+argue that, especially in Africa, the effect is reinforced when the husband
+maintains a residence separate from
+some of his wives (the “town wie and
+village wife” case). In some instances
+women may enter polygynous unions
+which do not imply a sexual relationship
+with the husband, as when a widow is
+taken in by her former husband’s
+brother. Wife rank, and its relation to
+sterility or subfecundity, may also be important in explaining the fertility differential. Ifa first wife is sterile, a man may
+recruit a second; in this case subfecundity precipitates a change in union type.
+The relationship between wife rank and
+fecundability can be even more complex. As Pebley and Mbugua (1989)
+note, subfecund first wives may be divorced by their husbands, in which case
+they may enter another household as a
+junior wife. Both senior and junior
+wives in polygynous unions may then be
+more likely to be sterile than their counterparts in monogamous unions. In a
+study of six African societies, Pebley
+and Mbugua find the effects of junior
+wife rank to be weak in samples of
+women who have at least one birth.
+Bean and Mineau (1986) show that,
+among the Mormons, first wives exhibit
+fertility levels that are higher than wives
+of lower order.
+
+Women in polygynous unions, and
+particularly the junior wives, are often
+married to men who are considerably
+older. The lower fertility of second and
+third wives found by Bean and Mineau
+can be attributed in part to husband’s
+age. Garenne and van de Walle (1985)
+demonstrate that husband’s age accounts for much of the fertility differential in polygynous unions in Senegal. In
+what follows we shall test for the exist
+Social Biology
+
+ence of a polygyny effect that is distinct
+from the effect of husband’s age.
+
+MATERIALS AND METHODS
+
+We draw on data from the individual
+interviews of the World Fertility Surveys in the Ivory Coast, Ghana, Kenya,
+the Sudan, and Syria. These surveys
+cover women in the age range 15-49.
+Women are included irrespective of
+marital status in Ghana, the Ivory Coast
+and Kenya; in Syria and the Sudan, only
+ever-married women are surveyed. The
+surveys are based on national samples,
+except for that in the Sudan which was
+restricted to the northern part of the
+country (in which some 80 per cent of
+the population resides).
+
+Our interest is the risk of conception
+within marriage or marital-like unions,
+in intervals which begin with a birth and
+end with a pregnancy resulting in a subsequent birth. Thus, we consider exposure to the risk of conception following a
+woman’s first birth and count any subsequent conceptions only if they terminate
+in a live birth.
+
+The complete birth histories contained in the WFS core questionnaires
+provide the basic information on the
+month and year of each live birth. Although information on fetal loss and
+stillbirths is available through the WFS
+pregnancy histories, completeness of reporting varies considerably across samples (Ashurst and Casterline, 1984). In
+our view, these data are not of sufficient
+quality to be employed in the analyses
+and we restrict ourselves to the conceptions which yield live births. Thus, in
+what follows we shall study what has
+been termed “effective fecundability.”
+
+The exclusion of marriage-to-firstbirth intervals is advantageous in three
+respects. First, it removes the necessity
+
+em,
+‘ *
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 36, No. 3-4
+
+to locate the timing of conceptions in relation to the date of first marriage or the
+date of first union formation. Given the
+complexity of African marriage patterns, in particular, determination of a
+single date of marriage is often difficult
+(see Garenne and van de Walle, 1985;
+Pebley and Mbugua, 1989). The dates
+provided to interviewers may reflect
+self-interpretation of survey questions
+or recall bias. The exclusion of first birth
+intervals has an additional advantage. It
+renders all the birth intervals in the
+study comparable to one another, in the
+sense that each is characterized by a period of post-partum nonsusceptibility.
+Finally, the restriction of the sample to
+women of proven fertility gives a tighter
+focus to the investigation of polygyny.
+The estimates of polygyny effects provided by our samples will not be contaminated by primary sterility in the first
+wife (or wives of any order).
+
+While the WFS surveys contain complete marriage histories, questions on
+the age of husbands refer only to the current or most recent husband. The question on husband’s age was asked of currently married women in Syria and the
+Sudan, and of all ever-married women
+in the other countries. A number of African countries include items related to
+polygyny. The surveys in Ghana, the
+Ivory Coast, and Kenya determined
+whether the woman’s husband had
+other wives. Interviewers in the Ivory
+Coast and Kenya also ascertained the
+rank of the respondent with respect to
+her co-wives. Although polygyny exists
+in Syria and the Sudan, no information
+on union type is available through the
+WES surveys.’
+
+7As Chamie (1986) shows, while the incidence
+of polygyny in Syria is low in comparison to West
+African levels, as many as 8 per cent of men in
+older rural cohorts are in polygynous unions.
+
+ 
+
+Fecundability and Husband’s Age 151
+
+Data on the proximate determinants
+of fertility are required in our analyses
+as controls for factors which may be confounded with husband’s age. In the case
+of two important variables, data are collected only for the last closed interval
+(the interval between the two most recent live births) and for the open interval (the interval from the most recent
+live birth to the date of the survey).
+Since the analyses are concerned with
+conception risks in the absence of contraception, data on use are required to
+eliminate contraceptive users from the
+sample. Within-interval contraceptive
+use data are available only for the last
+closed and open intervals. Information
+on breastfeeding, another important
+proximate determinant, is similarly restricted. As discussed below, these limitations of survey design will make it necessary to confine estimates to a recent
+reference period,
+
+Additional information relating to
+post-partum exposure is available from
+the FOTCAF (Factors Other Than
+Contraception Affecting Fertility) Module, designed to measure biological and
+traditional restraints on fertility in countries with low levels of contraceptive
+use. Each of the sample countries
+adopted a variant of the module. The
+modules contain a question, relating to
+the two most recent births, on the age of
+the child when supplemental foods were
+introduced. Information was sought on
+the durations of amenorrhea and abstinence following the last and the next-toJast pregnancies. The FOTCAF module
+also inquired into the frequency and duration of separations between spouses
+during the two most recent pregnancy
+intervals and the current status of sexual
+relations. Specific questions included in
+the module vary across countries and
+are described by Singh (1984).
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+152
+
+SAMPLING FRAME
+
+The design of the core WFS surveys
+and FOTCAF modules imposes several
+restrictions on the nature of the birth intervals which can be employed in our
+analysis. The fact that data on contraceptive use and post-partum nonsusceptibility are collected for only the last
+closed and the open interval requires us
+to confine the analysis to a recent time
+frame. Inclusion of all last closed and
+open intervals would result in biased estimates of waiting times to conception:
+Subfertile women, with atypically long
+birth intervals, would be overrepresented in such a sampling scheme (see,
+for examples and proof, Sheps and
+Menken, 1973). An alternative strategy
+is to draw all observations from a sampling window: a sampling period of
+fixed, relatively short duration ending
+with the date of interview. The period
+should be short enough so that within it
+very few women could have more than
+one birth. (No data would be available
+on behavior prior to the next-to-last
+birth for women who contribute more
+than one birth in the sampling window.)
+For this analysis, we have chosen the
+window to be three years in length, ending with the third month before the survey date.’ An additional advantage in
+restricting the analysis to the recent past
+is that it ensures greater accuracy in the
+reported dates of birth and lengths of
+post-partum variables.
+
+As noted above, in two surveys the
+
+8We have modified the reference period
+slightly because we have a relatively poor count of
+pregnancies at low gestations, i.e., women in the
+early stages of pregnancy may not report their status correctly and many of these pregnancies may
+not result in live births. We have excluded the most
+recent three months from all calculations and use
+the three-year period extending from four months
+to 39 months prior to interview.
+
+Goldman and Montgomery
+
+Social Biology
+
+data on partner’s age were obtained
+only from currently married women.
+We therefore consider only women who
+are married at the time of interview and
+select only those birth intervals in which
+the woman was married (to her current
+husband or partner) at the start of the interval.
+
+In summary, our analysis is based on
+last closed and open birth intervals
+which contribute exposure to the threeyear period prior to survey date. Intervals with missing information on one or
+more Of the relevant variables, intervals
+in which contraception was used, and intervals which terminated in a nonlive
+birth are excluded from the sampling
+frame.’ The percentages of intervals excluded on these grounds are shown in
+Table 1.
+
+DaTA QUALITY
+
+Detailed reviews of the quality of
+data collected in the WFS surveys are
+available elsewhere. Here we focus on
+
+9Several additional criteria for inclusion of intervals into the analysis were imposed. Since reports of post-partum variables in the FOTCAF
+module were obtained for the open and Iast closed
+pregnancy rather than birth interval, we do not
+have information for the next-to-last child for
+women with a nonlive birth (i.e., spontaneous or
+induced abortions, stillbirths) in the three-year reference period. We have chosen to eliminate all
+women with nonlive births in the period from the
+analysis. Finally, we eliminated intervals with
+missing information on the relevant variables—
+contraceptive use, length of breastfeeding, type of
+union, and husband’s age.
+
+104 comparative assessment of data quality indicates large variations across WFS surveys, with
+considerably poorer reporting in surveys in Africa
+and South Asia (Goldman et al., 1985). In spite of
+strong evidence of deficiencies in the birth history
+data (such as omission of births and displacement
+of dates of birth) in many of the surveys, there are
+clear indications that the completeness and accuracy of reporting of dates for the most recent births
+are considerably higher than for earlier births
+(Chidambaram and Sathar, 1984), a finding which
+
+ 
+ 
+
+Vol. 36, No. 3-4 Fecundability and Husband’s Age 153
+TABLE 1
+PER CENT OF INTERVALS EXCLUDED’
+Per Cent Ivory Coast Ghana Kenya Northern Sudan Syria
+
+of Intervals (1980-81) (1979-80) (1978) (1978-79) (1978)
+In which contraception was
+MSOG, ace nen oa axsuane wees 1.8% 10.8% 9.0% 9.8% 26.9%
+In which husband’s age was
+UNKNOWN ...... cece eee eee 67.5% 0.1% 0.6% 0.0% 0.0%
+With stillbirth or miscarriage in
+3-year window ...........4.. 11.9% 5.2% 8.2% 7.0% 13.5%
+
+“Percentage of all intervals with exposure in three-year window.
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+a variable of particular concern: partner’s age. One comparative analysis of
+age differences between partners (Casterline et al., 1984; also see Casterline et
+al., 1986) indicates that among WFS surveys in Africa, the percentage of interviews with the partner’s age not stated
+ranges from zero to about 40 per cent. A
+second study, which examines the relationship between polygyny and fertility
+for a different set of WFS surveys in Africa, indicates a range between zero and
+70 per cent (Pebley and Mbugua, 1989).
+In our samples we find that in fewer than
+one in a hundred intervals is husband’s
+age unstated in Kenya, Ghana, Syria,
+
+supports the decision to restrict estimates to a recent reference period.
+
+Evaluations of the quality of data on the proximate determinants of fertility are more limited. A
+number of investigators note the extensive heaping at multiples of six months in the reported durations of breastfeeding and amenorrhea (e.g., Ferry
+and Smith, 1981). Nevertheless, the same studies
+indicate that the overall bias, at Jeast for reported
+durations of breastfeeding, generally appears to be
+low. It is likely, however, that other proximate determinant variables, such as the duration of postpartum amenorrhea, abstinence or the timing of
+supplementation, are less well reported than the
+length of lactation. For example, Hobcraft and
+Guz (1985) note that substantial proportions of
+women in the African WFS surveys report durations of post-partum amenorrhea and abstinence
+which extend beyond the next conception.
+
+and Sudan, yet the proportion missing is
+over two-thirds in the Ivory Coast (see
+Table 1).
+
+Could information on male ages be
+virtually complete in four out of these
+five countries? These are societies which
+show substantial evidence of age misreporting in general and a lack of knowledge of age for females in particular.
+Moreover, there are anomalies in the
+ages recorded, for example, in Ghana
+some 10 per cent of partners’ ages were
+coded as 86+, whereas only 2 per cent
+of partners had ages reported in the
+range 70 to 85.1 Finally, data reported
+in Casterline et al. (1984) show that the
+extent of heaping (on digits 0 and 5) for
+partner’s age is apparently unrelated to
+the frequency of unstated ages.
+
+In short, these age data would appear
+to have’been imputed in an unknown,
+but possibly substantial number of
+cases. Unfortunately, no documentation exists as to the nature and extent of
+imputation, which suggests that imputation must have occurred during the field
+work or at an early stage of data processing.
+
+Because of this anomaly, we eliminated from
+the Ghana file the observations in which the partner’s age was given as 70 or older.
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+154
+
+DESCRIPTIVE STATISTICS
+
+Table 2 presents descriptive statistics
+on the sample of intervals included in
+the analysis. The median number of
+months from a birth to a subsequent
+conception ranges from a low of 17
+months in Syria to a high of 30 months in
+Ghana. The data indicate large average
+age differences between spouses (between seven and ten years) and relatively long durations of breastfeeding
+(between 13 and 18 months). In both
+
+Goldman and Montgomery
+
+Social Biology
+
+Ghana and the Ivory Coast, the average
+duration of post-partum abstinence is
+potentially long enough to have a notable impact on the length of the ensuing
+pregnancy interval. The data on polygyny, which were collected for three of
+the five surveys, indicate that roughly
+one-third of the intervals occurred in polygynous unions.
+
+Although very few WFS surveys included direct questions on coital frequency, a number of surveys contain information which could, in theory,
+
+TABLE 2
+CHARACTERISTICS OF THE INTERVALS INCLUDED IN THE ANALYSIS
+Ivory Northern
+
+Characteristics Coast Ghana Kenya Sudan Syria
+Median‘ months from index
+birth to next conception ...... 24 30 21 26 17
+Average age of wives
+(in years) ..............000- 25.6 27.5 27.6 26.7 27.9
+Average age of husbands
+Gn years) a cewsneaes oe oe ones 34.5 38.9 37.3 36.5 35.2
+Average age difference
+between husbands and wives
+(in years) ..... ccc eee eee ee 8.9 10.4 9.7 9.8 7.3
+Average duration of union
+(in years) ............e ee eee 7.6 8.4 9.6 9.9 9.5
+Per cent polygynous ......... 37% 36% 27%
+Median‘ length of
+breastfeeding (in months) .... 16.4 14.7 13.2 18.1 15.3
+Median? length of
+amenorrhea (in months) ...... 9.6 12.3 10.3 12.7 4.4
+Median? length of
+abstinence (in months) ....... 12.1 6.9 3.0 2.1 0.8
+Per cent having
+sex “these days” ............ $2% 64% 78%
+Per cent co-resident ......... 96% 80% 79%
+Per cent of days spent away
+by husband in birthinterval ... 2.5% 0.7% 2.4% 2.4% 1.2%
+Number of intervals
+insample? ............2.56. 1,320 3,587 5,557 2,658 3,173
+
+*Derived from life-table calculations.
+
+Intervals are excluded for the following reasons: use of contraception; not currently married; husband’s age, length of breastfeeding, or type of union unknown. All observations are excluded if a woman had a nonlive birth in the 3-year window. Also
+excluded are cases in Ghana in which husband’s age was reported to be 70 or greater.
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 36, No. 3-4
+
+provide indirect assessments of the frequency of intercourse. Three such variables are included here: whether the husband and wife reside together, whether
+the couple is “having sex these days,”
+and the number of months (relative to
+the length of the pregnancy interval)
+that the husband and wife were separated. (Information on the first two variables was not collected in Sudan and
+Syria.) The data on co-residence show
+that in as many as 20 per cent of unions
+in Ghana and in Kenya the wife lives ina
+residence separate from her husband’s.
+A substantial percentage of women
+(ranging between 22 and 48 per cent)
+report not having had sexual relations
+“these days.” A measure of temporary
+separation of wives and husbands—the
+fraction of the birth interval in which the
+husband was away—shows little variation in these samples. Most respondents
+said that the husband had not been away
+at all. However, the only absences recorded in the survey were those of duration three months or longer. Thus, the
+measure may systematically understate
+the extent of separation.”
+
+METHODS
+
+The methods employed to estimate
+conception risks are the multivariate
+versions of life table methods known as
+hazard models. The hazard framework
+has been extensively described elsewhere (e.g., Kalbfleisch and Prentice,
+1980). Some modifications of the usual
+
+The measure is flawed in other respects as
+well. Only the duration of spouse absence is recorded, not the actual dates. This prevents the
+construction of the theoretically appropriate variable, a time-varying indicator for husband’s presence. It is difficult to interpret measures which use
+the total length of time spent away within the birth
+interval, or the ratio of time away to the length of
+the interval, since these measures confound an explanatory variable with the dependent variable of
+interest.
+
+Fecundability and Husband’s Age
+
+ 
+
+155
+
+techniques are required to accommodate the fixed-length sampling window,
+but these changes are straightforward.
+
+We adopt the variant of hazard modelling known as proportional hazards.
+Let X denote a set of covariates fixed at
+the start of each birth interval (e.g.,
+woman’s age, partner’s age, and the
+like). The risk of conception at duration
+t within the interval is
+
+r(X) = ro(HO(X) ,
+
+where rg is an underlying or baseline risk
+function depending only on duration f¢,
+and @(X) = exp(X'8). As its name suggests, in this specification a change in the
+level of a covariate X; exerts a constant
+proportional impact on the level of the
+conception risk irrespective of duration.
+
+As is well known, the hazard function
+bears a simple relation to the proportion
+of intervals surviving to any particular
+length t. The survivor function S can be
+written as
+
+S(X) = exp{- {r(s1X) ds}
+= S()°,
+where Sp is a baseline survivor function
+So(t) = exp{- fro(s) ds}.
+
+These relations are used, in conjunction
+with the relationship between the hazard and density functions, in maximumlikelihood estimation of hazards
+models. In cases in which the X covariates are time-varying (e.g., breastfeeding, post-partum abstinence) the formulas are slightly altered.
+
+To make full use of the information
+provided by the sampling window we
+must consider two types of birth intervals: those in progress at the beginning
+of the window, and those which are initiated within the sampling window. Figure 1 illustrates the point. The fertility
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+156 Goldman and Montgomery
+
+ 
+
+Social Biology
+
+| -- sampling window -
+Fic. 1.—Birth intervals in progress at the beginning of the sampling window and intervals initiated
+
+within the sampling window.
+
+history depicted consists of a first birth
+at time 0, a point falling outside the sampling window, and a conception at time t
+leading to a second birth at time t+9.
+The first interval of interest, of total
+length t, is a closed interval while the
+second Is right-censored at the interview
+date rt.
+
+The right-censored interval can be
+handled in the conventional manner;
+only the straddling interval requires special treatment. The straddling interval
+enters the sampling window at duration
+t,. Of all intervals which begin at point 0,
+only a fraction S(t,) survive to contribute exposure within the window. The
+probability contribution of the straddling interval is therefore the conditional density of failure at duration f,
+given survival to duration ¢,. That is, the
+contribution of the interval to the likelihood function is
+
+f()/S(%) = r(exp{- {r(s) ds}.
+
+In contrast, for closed intervals which
+begin within the window, this expression would be replaced by the unconditional density
+
+t
+fl) = r(0) exp {-fr(s) ds}
+Intervals right-censored at duration tare
+represented with expressions
+
+BDependence of S(t,|X) on X is left implicit in
+what follows.
+
+S(0)/S(t,) = exp {- {r(s) ds}
+and
+
+t
+
+S(f) = exp{-fr(s) ds}
+for the straddling and nonstraddling
+cases respectively. Clearly there are few
+complications introduced by consideration of the intervals caught in progress.!4 Such intervals could of course be
+ignored in estimation, but since the sampling window is only three years in
+length, doing so would greatly reduce
+the precision of our estimates.
+
+The models to be discussed below
+represent the baseline hazard function
+ro(t) as a step function, with steps at sixmonth intervals up to month 48. The
+final duration category includes months
+48+. We have also experimented with a
+log-logistic form for the conception hazard, but have found the flexibility of the
+step function to be an advantage in this
+application. All models were estimated on a micro-computer by
+
+The treatment of straddling intervals is simple only because the starting point of each such interval is known. Cases in which the starting times
+of straddling intervals are unknown must be considered within the framework of renewal theory
+(Sheps and Menken, 1973), and that introduces
+formidable complications.
+
+An important finding is that the estimated effects for husband’s age, as well as for wife’s age,
+were similar for the step-function and for the loglogistic hazard functions.
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 36, No. 3-4
+
+maximum-likelihood methods, based
+on the optimization algorithms available
+in GQOPT (Goldfeld and Quandt,
+1972).
+
+RESULTS
+
+The covariates for the analysis fall
+into three groups. A first set encompasses wife’s age, husband’s age, union
+duration, and length of breastfeeding,
+where no distinction is drawn between
+full and partial feeding. These variables
+are the conventional indicators of coital
+frequency and abilities to conceive. A
+second group consists of more refined or
+experimental measures of coital frequency, some drawn from the FOTCAF
+modules. Information on sexual relations at the time of survey is included,
+along with data on current co-residence
+and on the proportion of time within
+each interval in which the husband was
+away. We include the indicators of polygyny and of junior or senior wife status
+in this group. A third set of variables has
+to do with specific post-partum behaviors: lengths of amenorrhea and sexual
+abstinence, and durations of full and
+supplemented breastfeeding. Parity is
+excluded from the basic set of covariates
+because its inclusion in models with
+wife’s age, husband’s age, and union
+duration—three variables highly collinear in themselves—would make the task
+of identifying separate effects more difficult.
+
+HusBAND’S AGE, WIFE’S AGE, AND
+MARRIAGE DURATION
+
+Upon exploration of different specifications and functional forms, we found
+the effects of both husband’s and wife’s
+ages on the risk of conception to be most
+clearly captured by categorical rather
+
+Fecundability and Husband’s Age 157
+
+than continuous variables. Determination of the precise nature of these categories was based on issues of sample size
+considerations and observed variations
+in fertility with age. We represent wife’s
+age by a dichotomous variable with categories under and over age 35; and, since
+husband’s age is the focus of this analysis, we represent it by three categories—
+under 45, 45 to 55, and 55+. In fact, it
+would have been desirable to consider
+gradations of age in the 55+ range, but
+the numbers of cases are too small to
+permit further breakdown. Although an
+alternative specification of wife’s age,
+e.g., under and over 40, would clearly
+affect the magnitude of the corresponding coefficient, the resulting effect on
+the coefficients for husband’s age is
+small. Unlike the effects of partner’s
+ages, the effects of marital duration are
+efficiently summarized by continuous
+variables, namely duration and duration
+squared. Although the individual coefficients of the duration and the durationsquared terms are not always significant,
+the combined contribution of the two
+terms is significant for each of the
+models tested in the five surveys.
+
+We begin with an illustrative analysis
+in Table 3 which examines the separate
+roles of wife’s age, husband’s age, and
+union duration as determinants of the
+length of the pregnancy interval. The table presents a series of models estimated
+for Kenya, in which the effects of adding
+covariates can be clearly seen. In these
+models breastfeeding is treated as a categorical time-varying covariate. So long
+as breastfeeding continues, it has the effect on conception risks represented by
+its coefficient. When breastfeeding
+ends, the effect on conception is removed (i.e., the breastfeeding dummy
+variable goes to 0). Full and partial
+breastfeeding are not distinguished, nor
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+158 Goldman and Montgomery
+
+ 
+
+Social Biology
+
+TABLE 3
+
+EFFECTs OF ADDING UNION DURATION AND WIFE’S AGE ON ESTIMATES OF
+HUuSBAND’S AGE COEFFICIENT: KENYA
+
+Variables
+
+Covariates
+
+Husband’s age 45-55 2.0... cece eee eee eee
+Husband's age S55 s ovsenes as saa ox oeags vs
+Wife’s age BS + 1... eee ccc ccc e eee c ences
+Union duration ....... 0... cee cece scene eees
+Duration squared, 205s ccnes sevssesesenwaees
+
+Breastfeeding ..........-... cence eeeneeeens
+
+Baseline hazard
+
+Monthst6 occa ve ce cemen nd sae w es neanens
+MORSE eewns co oo ween oe CRM nO
+Months 12-18 2.0... cece eee ee eee nee
+Monte T8427 .annss cn sosswames on asm came
+Months 24-30 2... 2... c cee cece eee eee enone
+Months. 30-36 2.0. cscussesscscscsassescness
+Months 36-42 2.0... cece cece cece rete eens
+Months: 42-48 essen oa sq unasgen oe cewesnawns
+Months 48 . 2.085 cs cscsstete ns naeas canes
+
+Log-likelihood 1.0... 6 cc cece cet cere et eee nee
+
+*: T-statistics in parentheses.
+
+are other proximate determinants considered.
+
+The estimates shown in the table are
+derived from a log-linear fit of the hazard function. Hence, estimates of the effect of each of the covariates on the
+probabilities of conception can be obtained by exponentiating the parameter
+estimates. The baseline hazard estimates, presented in the bottom panel of
+
+Modell Model iI Model ITI
+~0.501 ~0.173 ~0.155
+(8.49) (2.70) (2.38)
+~0.489 ~0.204 —0.192
+(5.85) (2.38) (2.26)
+a ~0.133
+
+vee (1.78)
+
+0.046 0.017
+
+(0.52) (0.37)
+
+_ ~0.020 ~0.016
+Lee (4.66) (6.61)
+~2.610 —2.595 ~2.594
+(36.34) (35.30) (36.81)
+~2.568 —2.450 2.448
+(30.19) (26.56) (26.42)
+—2.331 ~2.214 -2.211
+(40.85) (33.98) (35.22)
+—2.264 ~2.139 ~2.136
+(59.35) (42.43) (50.15)
+~2,307 ~2.160 ~2.156
+(53.47) (39.42) (51.06)
+—2.606 ~2.431 ~2.427
+(47.39) (37.46) (41.22)
+—2.875 ~2.677 ~2.672
+(39.21) (32.93) (34.62)
+—3.210 ~2.997 ~2.993
+(33.14) (28.82) (30.22)
+—3.232 —3.004 —3,000
+(29,40) (24.76) (26.86)
+—3.608 ~3,375 ~3,370
+(33.23) (29.74) (29.67)
+~10,224.0 —10,145.0 —10,143.6
+
+Table 3, show an inverted-U shape, with
+a peak at months 12-18. For example,
+for the first model, the monthly probability of conception (for women who do
+not breastfeed and have younger husbands) rises from 0.077 in the period 06 months after birth to a maximum of
+0.104 in the period 12-18 months after
+birth and then declines steadily at higher
+durations. Although the reasons for the
+—|
+=
+©
+N
+~
+oO
+=
+oO
+oO
+oO
+a
+Co
+©
+oN
+wv
+oN
+=
+—
+CS
+'S
+w
+oN
+—
+oo
+O
+=
+ey
+©
+>>
+—
+=
+N
+Some
+oO
+>
+=
+c
+-,
+ve)
+OQ
+cv
+oO
+ca
+CS
+©
+—
+c
+iS
+©
+A
+
+Vol. 36, No. 3-4
+
+initial rise in the risk of conception are
+not clear (i.e., they could be a function
+of increasing coital frequency with time
+since the last birth, the result of inadequate controls for the length of the nonsusceptible period, or a true biological
+effect), the declining risks after 18
+months are almost certainly due in large
+part to the progressive removal from exposure of the more fecund women.
+
+The first column of Table 3, labeled
+Model I, shows the influence of husband’s age on conception risks, with the
+comparison to conception risks in unions with men younger than 45. In
+Model I, neither union duration nor
+wife’s age enters the specification, and
+the influence of husband’s age appears
+to be quite strong. Unions with men 4555 are characterized by conception risks
+only 0.6 = exp (-0.501) of those in
+households with men under 45. We cannot effectively distinguish the effects of
+still older ages of the husband—in the
+range 55 and older—from those for the
+age category 45-55.
+
+Fecundability and Husband’s Age
+
+159
+
+As union duration and wife’s age are
+added, in Models II and III, the effects
+of husband’s age are progressively attenuated. The third column of Table 3
+shows that unions with husbands aged
+45-55 display a risk of conception only
+about 15 per cent lower than would be
+typical for husbands under 45.
+
+The progressive attenuation of the effects of husband’s age is found in each of
+our study countries. Table 4 summarizes
+the results in terms of relative risks. Estimates for the two categories of husband’s age are presented first for models
+that contain husband’s age alone (along
+with breastfeeding and duration since
+last birth); in the second panel union duration is added to the model; and in the
+third panel, wife’s age. The addition of
+wife’s age and duration weaken the effects of husband’s age to the extent that
+husband’s age remains significant in
+only two countries: Kenya and Syria.
+The magnitude of the effect of husband’s age varies considerably across
+countries. In Ghana, the impact of older
+
+TABLE 4
+
+EFFECTS OF HUSBAND’S AGE ON WAITING TIME TO CONCEPTION, WITH AND WITHOUT
+CONTROLS FOR UNION DURATION AND WIFE’s AGE: EXPONENTIATED PARAMETER ESTIMATES
+
+Ivory
+
+Age Coast
+
+Husband’s age*
+Age 45-55
+Age 55+
+
+Husband’s age and union duration‘®
+Age 45-55
+Age 55+
+
+Husband’s age, union duration, and wife’s age?
+0.
+
+Ghana
+
+0.687°
+0.657°
+
+0.903
+0.864
+
+0.955
+0.939
+
+Northern
+Kenya Sudan Syria
+0.606°
+0.613°
+
+0.605°
+0.635"
+
+0.8425
+0.816?
+
+0.800°
+0.813
+
+0.856°
+0.825°
+
+0.855
+0.886
+
+*: Model includes controls for breastfeeding and duration since last birth.
+
+b:p < 0.05.
+
+*: Model includes controls for breastfeeding, duration since last birth, union duration and duration squared.
+4:Model includes controls for breastfeeding, duration since last birth, union duration and duration squared, and dummy
+
+variable for age of wife 35+ .
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+160 Goldman and Montgomery
+
+age of husbands is trivial, a relative reduction in conception risk of about 5 per
+cent, whereas in Syria, couples in which
+the husbands are ages 45-55 and 55+
+have conception risks 31 per cent and 23
+per cent lower than couples in which the
+husband is under 45.
+
+Of course husband’s age, wife’s age,
+and union duration are highly interrelated, and one would expect the estimates for any one country to display
+considerable instability. The interesting
+aspect of the results is therefore the
+broad similarity in findings across countries: the very large reductions in conception risk for older husbands (ranging
+from 27 per cent to 52 per cent of the risk
+of younger husbands) when only husband’s age is included in the model, and
+the much more moderate reductions
+when both age of the wife and the duration of union are included as well.
+
+To what extent might these relatively
+weak effects of husband’s age be due to
+data imputation? Two kinds of imputation should be distinguished: randomized imputation, in which husband’s age
+is given correctly on average; and imputation in which there is a systematic deviation of recorded from actual ages.
+Even in the case in which measurement
+error is On average zero, its existence
+would weaken the estimated effects of
+husband’s age on fecundability. When
+imputation is systematic, parameter estimates are biased in general, although
+in this case it is difficult to say whether
+the husband’s age coefficients would
+necessarily be biased toward zero.
+
+POLYGYNY
+
+In Table 5 the polygyny variable is introduced for the three countries in
+which it is measured. The comparable
+models for the Sudan and Syria, without
+the polygyny variable, are also pre
+Social Biology
+
+sented. In our samples, polygyny is statistically significant only in Kenya. The
+negative differential for Kenya is consistent with findings from Pebley and Mbugua (1989), who conclude that it is the
+result of lower fecundability for senior
+wives.!6 Pebley and Mbugua also find no
+net effect of polygyny in Ghana, but
+their results show a significant negative
+differential in the Ivory Coast. The coefficient on polygyny in our Ivory Coast
+sample is negative, but not significant.
+The difference in findings can be attributed to sample composition. Pebley and
+Mbugua use a sample which includes
+households without reports on husband’s age. In a sample restricted to
+those reporting husband’s age, they
+find, as we do, no discernible effect of
+polygyny.
+
+It is interesting to note that, in
+Kenya, the inclusion of a vanable for
+polygyny alters the coefficients for the
+dummy variables describing husband’s
+age. A comparison of coefficients and tstatistics between the model in Table 3
+(Model III) and that in Table 5 indicates
+a substantial reduction in coefficients for
+both age groups of husband, with the
+coefficient for the age group 55+ losing
+its significance. This result is not altogether surprising since the two variables
+are highly correlated. Older husbands
+are much more likely than younger husbands to have more than one wife.
+
+The results from the models tn Table
+5 are presented in terms of relative risks
+in Table 6. The baseline for the comparisons is a monogamous union at duration
+zero, with a wife under 35 and a husband
+under 45; breastfeeding duration is fixed
+
+Further analysis, not shown here, indicated
+that junior wives are Statistically indistinguishable
+from wives in mongamous marriages, once other
+factors are controlled.
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 36, No, 3-4 Fecundability and Husband’s Age 161
+TABLE 5
+FINAL MODELS INCLUDING PoLyGyny*
+Ivory Northern
+Variables Coast Ghana Kenya Sudan Syria
+Covariates
+Husband’s age 45-55 .. ~—G.094 —0.058 ~0,127 —0.156 —0.369
+(0.60) (0.70) (1.96) (1.41) (4.15)
+Husband’sage 55+ ... ~—-0.198 —.077 ~0.129 —0.121 —0.260
+(0.71) (0.67) (1.45) (0.83) (1.54)
+Wife’s age 35+ ....... —0,421 —.323 ~0.142 —0.381 —0.263
+(2.28) (3.34) (1.76) (3.00) (2.80)
+Union duration ....... 0.161 0.014 0.026 ~.058 0.226
+(0.78) (0.11) (0.28) (0.48) (1.84)
+Duration squared ..... —0.013 ~0.014 —0.017 —0.010 —0.020
+(1.16) (2.34) (4.16) (1.66) (3.36)
+Polygynous union ..... —0.098 0.043 —0.117 sae sae
+(1.14) (0.75) (2.37) Te B+
+Breastfeeding ........ —2.683 —2.947 2.595 —3.062 —2.791
+(3.58) (19.71) (34.68) (24.58) (36.44}
+Baseline hazard
+Months 0-6 ......... —3.601 —3.210 ~2.428 —2.217 —2.083
+(8.60) (17.04) (25.70) (15.93) (24.92)
+Months 6-12 ......... —2.429 —2.831 ~2.191 —2.163 —1.631
+(4.93) (23.81) (33.48) (21.88) (23.31)
+Months 12-18 ........ —2.430 2.959 ~2.115 ~2.222 —1.563
+(17.38) (37.08) (36.20) (28.22) (23.34)
+Months 18-24 ........ —2,34 —2.796 ~2.134 ~2.578 —2.117
+(20.63) (38.04) (34.68) (32.74) (26.29)
+Months 24-30 ........ —2.422 ~2.788 ~2.403 ~2.491 —2.193
+(20.44) (35.78) (36.10) (28.29) (24.27)
+Months 30-36 ........ —2.592 —2,899 ~2.644 ~2.690 —2.542
+(17.46) (33.14) (30.00) (26.02) (20.45)
+Months 36-42 ........ —2.719 —2.801 ~—2.965 ~2.842 —3.116
+(8.44) (29.11) (27.89) (22.74) (17.81)
+Months 42-48 ........ —2.892 ~3.205 —2,969 —2.964 —3.639
+(12.69) (25.00) (25.83) (20.40) (14.94)
+Months 48+ ......... —3.432 ~3.275 3,337 —3.191 —3.473
+(14.63) (27.62) (28.89) (22.08) (18.48)
+Log-likelihood ......... —2,376.7 —6,041.7 —10,140.5 — 4,809.5 —5,701.1
+
+4; T-statistics in parentheses.
+
+at 12 months. The largest effect on husband’s age (in Syria) implies reductions
+of the risk of conception of about 30 per
+cent for husbands 45-55, relative to this
+baseline. The country with the next largest negative impact of husband’s age on
+conception risk is the Ivory Coast, with
+an estimate of 18 per cent for husbands
+
+55 and older. Note, however, that this
+coefficient is not statistically significant.
+On average, the coefficients on husband’s age imply a reduction of risk of
+about 10 per cent. By contrast, when the
+wife is 35 or older, the size of the effect
+on the risk of conception ranges from 13
+to 34 per cent. The effect of marriage
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+162 Goldman and Montgomery
+
+Social Biology
+
+TABLE 6
+
+PROPORTIONATE EFFECT ON THE CONCEPTION RISK OF MARRIAGE DURATION,
+Wire’s AGE, HusBANbD’s AGE, AND UNION TyPE
+
+Ivory
+Variables Coast
+Marriage duration
+SD Lecce cece cece eee eenee 1.050
+1D ieee cece cece eee 1.030
+1D okted eed Ho 82 Maeda ©4924 0.951
+QU essveveus ps vawe veans oe 0.821
+20 WWccOke RoC REE 0.664
+|| 0.503
+Wife’s age
+CIVEDSD saa pewes coven naes 0.656
+Husband’s age
+A555 woke cece eee ee eee 0.910
+Over55S 2... cece eee ee eee 0.820
+Union type
+Polygynous ...........65- 0.911
+
+duration is also large in comparison to
+the influence of husband’s age, and, especially at the higher durations, in comparison to the effect of the wife’s age.
+This latter result is not surprising in view
+of a previous study of fecundability
+based on 20 World Fertility Surveys
+(Goldman et al., 1987), which found
+that marriage duration had a much
+stronger effect on the waiting time to
+conception than did wife’s age (and parity).
+
+OTHER FINDINGS
+
+Experimentation with additional
+measures collected in the FOTCAF
+modules produced few substantive
+results, although in at least one instance
+the findings were illuminating in regard
+to methodology. We explored several
+variables affecting post-partum fecundability, including full and partial
+breastfeeding and the lengths of amen
+ 
+
+Northern
+
+Ghana Kenya Sudan Syria
+
+0.973 0.971 0.948 1.070
+0.883 0.867 0.857 1.030
+0.748 0.711 0.737 0.901
+0.592 0.536 0.604 0.715
+0.437 0.371 0.472 0.514
+0.301 0.236 0.351 0.335
+0.724 0.867 0.684 0.769
+0.943 0.881 0.855 0.691
+0.925 0.879 0.886 0.771
+
+1.044 0.889
+
+orrhea and abstinence. The selection of
+one or another of these measures made
+little difference to the estimates of husband’s age coefficients or to those of
+wife’s age and marriage duration.
+
+A measure of temporary separation
+of husband and wife—the per cent of the
+birth interval the husband spent away—
+had the expected negative association
+with the conception risk, with the coefficients being significant in several of the
+countries. An important limitation of
+this variable, however, is the fact that
+we do not have information as to which
+months were characterized by separation of the spouses; thus, this variable
+acts as a rather poor proxy for marital
+exposure or coital frequency (see Footnote 12).
+
+In the case of Kenya, the currentstatus measure of sexual activity proved
+to have a perverse association with the
+conception hazard. For women who reVol. 36, No. 3-4
+
+ported that they had not had recent sexual relations, the estimated conception
+hazard was higher. This apparent violation of common sense has a simple explanation. In societies which practice
+post-natal abstinence, many women
+currently abstaining from sexual intercourse have had a recent birth. One’s
+current status in regard to sexual relations is in part an outcome of past fertilwn ity; therefore it cannot be viewed as a
+S fixed characteristic in models of conception.
+
+CONCLUSIONS
+
+The conventional wisdom concerning male age and fecundability is that the
+© effects of male age are generally small in
+relation to the influences of marital duration and the age of the woman. In a
+sense, our results simply confirm this
+view.
+— Our findings are summarized in the
+¢ five graphs shown as Figure 2. These
+% figures examine the median number of
+5 © months from the previous birth to the
+5 next conception for union durations
+> ranging from 0 to 25 years and for four
+s combinations of wife’s age and hus3 band’s age. These numbers are median
+g survival times calculated from the final
+= models shown in Table 5, based on mo& nogamous unions and a fixed duration
+of breastfeeding of 12 months.
+
+One striking result is the extent of
+variation in the waiting time to conception across countries, after one controls
+for the specified covariates. In particular, for union duration zero and the
+youngest age categories for both
+spouses, the waiting times range from
+only 15 months in Syria to as much as 24
+months in Ghana; the other three countries have values between 17 and 19
+months. The very high implied level of
+
+3.08 December
+
+=
+oS
+oD
+—
+a
+Oo
+|
+
+Fecundability and Husband’s Age
+
+163
+
+fecundability for Syria was also noted by
+Goldman et al. (1987) for both of the
+Middle Eastern countries (Syria and
+Jordan) in their study.
+
+The graphs confirm the findings
+noted earlier, but show the effects of age
+and duration in terms of average waiting
+times instead of relative risks. When one
+considers durations of union greater
+than 10 or 15 years, the dominating effects of union duration over age are evident for all of the surveys. The very
+modest effects of husband’s age in most
+of the surveys is also evident. In all
+countries except Syria, the difference in
+waiting time between husbands under
+45 and those aged 45-55 is only about
+one to two months at most durations; in
+Syria, the increase is about three to five
+months at intermediate durations of
+marriage. The effect of wife’s age is considerably greater than that of husband’s
+age in Ghana, the Ivory Coast, and Sudan. The figures also indicate that the effect of husband’s age is of about the
+same magnitude as the effect of wife’s
+age in both Kenya and Syria.
+
+Although we might have found a
+stronger effect of husband’s age if our
+samples had contained older ages of
+partners, we would argue that such an
+effect would be of little demographic
+significance. Husbands older than 60 are
+relatively unlikely even in these populations to have wives who are of reproductive age. Hence, the resulting impact on
+fertility is likely to be very small.
+
+The apparently strong effect of husband’s age in Syria, as well as the high
+level of fecundability, remains a puzzle.
+Although a detailed investigation of the
+Syrian case is beyond the scope of the
+paper, we suspect that the result may be
+related to different patterns of coresidence, separation between spouses, and
+coital frequency (including voluntary
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+— JS, KES
+mo I5,S-S5
+woe WITS CES
+oor W175, 3-393
+
+we MLAS
+oe WIS, MS-39
+ooo WISI, M959
+
+— WIS ES
+
+= + W35,mS-33
+WTS. MAZ
+
+a + UTS, 99
+
+ 
+
+8 3 10 13 x» a
+
+PAZBIACE SUBATION
+
+0 North Sudan
+
+ 
+
+PATRI ACE DUTATI ON PARLIACE BURATI Cor
+
+Fic. 2.—Median waiting time to conception by marnage duration, wife’s age, and husband’s age.
+
+ 
+
+yor
+
+Araulo03}uo] pue ueUIpjoy
+
+ASojorg [esos
+ 
+
+Vol. 36, No. 3—4
+
+abstinence as a means of fertility control) among married couples in Syria.
+Clearly, more research is required to determine which behavioral or biological
+factors are responsible for the differences between Syria and the countries in
+Sub-Saharan Africa.
+
+Fecundability and Husband’s Age
+
+165
+
+ACKNOWLEDGMENTS
+
+We would like to thank Tori Velkoff,
+Barbara Vaughan, and Stan Stein for assistance in the research, and James Trussell and
+Anne Pebley for comments on an earlier
+draft of the manuscript. The authors were
+partly supported by NICHD Grant 2 RO1
+HD11720.
+
+REFERENCES
+
+in ANDERSON, B. 1975. Male age and fertility:
+
+— Results from Ireland prior to 1911. Pop. In
+N dex 41:561-567.
+
+o AsHursT, H., and J. CaSTERLINE. 1984. Fetal
+
+wastage: Evidence from WFS surveys. Pa
+Q per presented at the 1984 Annual Meeting
+
+© of the Population Association of America,
+Minneapolis.
+
+& Bean, L., and G. Mingau. 1986. The polygyny
+oot fertility hypothesis: A re-evaluation. Pop.
+Stud. 40:67-82.
+
+— CASTERLINE, J., L. THompson, and P. Mc
+t Dona cp. 1984. Tables on the age difference
+rg between union partners. World Fertility
+Survey. Technical Report No. 2382.
+
+‘SCASTERLINE, J., L. WiLtiams, and P. Mc.< DOona.p. 1986. The age difference between
+= spouses: Variations among developing
+
+of
+
+countries. Pop. Stud. 40:353--374.
+>CuaMig, J. 1986. Polygyny among Arabs. Pop.
+‘% Stud. 40:55-66.
+
+© CHIDAMBARAM, V., and Z. SATHAR. 1984. Age
+and date reporting. World Fertility Survey.
+Comparative Studies, No. 5.
+
+—_ Ferry, B., and D. Smitn. 1981. Breastfeeding.
+© World Fertility Survey. Comparative Stud
+y [Univer
+
+SS __ ies No. 13.
+
+SZ GARENNE, M., and E. VAN DE WALLE. 1985. Po©  lygyny and fertility among the Sereer of
+& Senegal. ORSTOM and the University of
+e Pennsylvania. Ms.
+
+© GoLpFELp, S., and R. QUANDT. 1972. Nonlin
+ear methods in econometrics. NorthHolland, Amsterdam.
+
+GOLDMAN, N., C. F. Westorr, and L. E. PAuL.
+1987. Variations in natural fertility: The effect of lactation and other determinants.
+Pop. Stud. 41:127-146.
+
+GOLDMAN, N., S. RUTSTEIN, and S. SINGH.
+1985. Assessment of the quality of datain 41
+WFS surveys: A comparative approach.
+World Fertility Survey. Comparative Studies No. 44.
+
+GUERRERO, R., and O. Rogas. 1975. Spontaneous abortion and aging of human ova and
+spermatozoa. New Engl. J. Med.
+293(12):573-575.
+
+ 
+
+ 
+
+HoscrafFt, J., and D. Guz. 1985. Lactation
+and fertility: A comparative analysis. Paper
+presented at the 1985 Annual Meetings of
+the Population Association of America,
+Boston.
+
+JaMEs, W. 1979. The causes of the decline in fecundability with age. Soc. Biol. 26:330-334.
+
+. 1983. Decline in coital rates with
+spouses’ ages and duration of marriage. J.
+Biosoc. Sci. 15:83-87.
+
+Jasso, G. 1985. Marital coital frequency and
+the passage of time: Estimating the separate
+effects of spouses’ ages and marital duration, birth and marriage cohorts, and period
+influences. Amer. Sociol. Rev. 50:224—241.
+
+Kaun, J., and R. Upry. 1986. Marital coital
+frequency: Unnoticed outliers and unspecified interactions lead to erroneous conclusions. Amer. Sociol. Rev. 51:734—737.
+
+KALBFLEISCH, J., and R. Prentice. 1980. The
+Statistical analysis of failure time data. John
+Wiley and Sons, New York.
+
+LanMAN, J. 1968. Delays during reproduction
+and their effects on the embryo and fetus, 1:
+Aging of sperm. New Engl. J. Med.
+278:993~—999.
+
+MacLeop, J., and R. Gotp. 1951a. The male
+factor in fertility and infertility III: An analysis of motile activity in the spermatozoa of
+1000 fertile men in infertile marriage. Fertil.
+Steril. 2:187-204.
+
+. 1951b. The male factor in fertility and
+
+infertility IV: Sperm morphology in fertile
+
+and infertile marriage. Fertil. Steril. 2:394—
+
+414.
+
+. 1952. The male factor in fertility and
+
+infertility V: Effect of continence on semen
+
+quality. Fertil. Steril. 3:297~315.
+
+. 1953a. The male factor in fertility and
+
+infertility VI: Semen quality and certain
+
+other factors in relation to ease of concep
+tion. Fertil. Steril. 4:10-33.
+
+. 1953b. The male factor in fertility and
+infertility VII: Semen quality in relation to
+age and sexual activity. Fertil. Steril. 4:194—
+209.
+
+Mineau, G., and J. TRUSSELL. 1982. A speci
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+166 Goldman and Montgomery
+
+fication of marital fertility by parents’ age,
+age at marriage, and marital duration. Demography 19:335—348.
+
+MuusaM, H. 1956. Fertility of polygynous marriage. Pop. Stud. 10(1):3-16.
+
+Norman, D. 1974. Parental age as a factor in
+pregnancy outcome and child development.
+Pop. Fam. Plan. Rep. 16:1-51.
+
+Pestey, A., and W. MBucua. 1989. Polygyny
+and fertility in Sub-Saharan Africa. In R.
+Lesthaege (ed.), Reproduction and social
+organization in Sub-Saharan Africa. University of California Press, Berkeley.
+
+PoTTER, R., and S. MILLMaN. 1985. Fecundability and the frequency of marital intercourse. A critique of nine models. Pop.
+Stud. 39:461-470.
+
+. 1986. Fecundability and the frequency
+of marital intercourse: New models incorporating the aging of gametes. Pop. Stud.
+40:159-170.
+
+ScHwartz, D., et al. 1983. Semen characteristics as a function of age in 833 fertile men.
+Fertil. Steril. 39:530-535.
+
+SELVIN, S., and J. GARFINKEL. 1976. Paternal
+age, maternal age and birth order and the
+risk of a fetal loss. Hum. Biol. 48:223-230.
+
+ 
+
+Social Biology
+
+SHEpS, M., and J. MENKEN. 1973. Mathematical models of conception and birth. Univ. of
+Chicago Press, Chicago.
+
+SINGH, S. 1984. Comparability of questionnaires: Forty-one WFS countries. World
+Fertility Survey. Comparative Studies No.
+32.
+
+TRUSSELL, J., and C. Westorr. 1980. Contraceptive practice and trends in coital frequency. Fam. Plan. Persp. 12:246-249.
+
+TRUSSELL, J., and C. WILson. 1985. Sterility in
+a population with natural fertility. Pop.
+Stud. 39:269-286.
+
+Upry, J. R. 1980. Changes in the frequency of
+marital intercourse from panel data. Arch.
+Sex. Behav. 9:319-325.
+
+Upry, J.R., and N. Morris. 1978. Relative
+contribution of male and female age to the
+frequency of marital intercourse. Soc. Biol.
+25:128-134.
+
+Upry, J. R., F. DEVEN, and S. CoLEMAN. 1982.
+A cross-national comparison of the relative
+influence of male and female age on the frequency of marital intercourse. J. Biosoc.
+Sci. 14:1-6.
+
+WestorF, C. 1974. Coital frequency and contraception. Fam. Plan. Persp. 6:136-141.
+

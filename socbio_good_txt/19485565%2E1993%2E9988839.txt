@@ -1,0 +1,2067 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+How does variation in fetal loss affect the
+distribution of waiting times to conception?
+
+Maxine Weinstein , James Wood & Daniel D. Greenfield
+
+To cite this article: Maxine Weinstein , James Wood & Daniel D. Greenfield (1993) How does
+variation in fetal loss affect the distribution of waiting times to conception?, Social Biology,
+40:1-2, 106-130, DOI: 10.1080/19485565.1993.9988839
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1993.9988839
+
+fa Published online: 23 Aug 2010.
+
+&
+(g Submit your article to this journal @
+
+all Article views: 4
+
+»
+Q View related articles 4
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:45
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+ 
+
+How Does Variation in Fetal Loss
+Affect the Distribution
+of Waiting Times to Conception?
+
+ 
+
+4Maxine Weinstein, "James Wood, and “?Daniel D. Greenfield
+
+“Department of Demography, Georgetown University, Washington, D.C. 20057; °Department of Anthropology, The Pennsylvania State University, University Park, Pennsylvania
+16802
+
+ABSTRACT: Unmeasured variation has long been a concern in analyses of the waiting time to
+conception. Recent work by Heckman and Walker (1991) and Trussell and Rodriguez (1990) has
+underscored the fact that statistical considerations alone cannot discriminate among likely
+models describing the distribution. Here, we specify a single theoretically important source of
+heterogeneity, namely variability in intrauterine mortality, and assess its effects on the waiting
+times to a conception which results in a live birth. We find that the effects of variation in fetal
+loss are confined to the tail of the distribution. Unless variation in fetal loss is extremely large
+or a substantial proportion of observed waiting times are initiated at late ages, variation in fetal
+loss does not appear to explain much variation in conception waits. We conclude that heterogeneity in fetal loss does not explain the variation in fecundability that has been observed for first
+birth intervals. This conclusion supports the hypothesis that at early ages (below age 35) variation
+in the waiting time to a fertile conception may largely reflect the proportion of nonsusceptible
+couples in the population. The analyses suggest that for the purposes of testing theoretically
+motivated models, future efforts should be directed toward examining reproductive experience
+after age 35 and toward incorporating information on characteristics of the fertile period as it
+becomes known.
+
+The effects of unobserved hetero- the risk of conception declines over
+
+geneity on a number of demographic
+phenomena have been a recent focus in
+the literature. In studies of fecundability, the probability that a woman in a
+susceptible state! will conceive per unit
+time (usually defined as a month), such
+unmeasured variation has long been a
+source of concern. Typically, empirical
+estimates of fecundability are made indirectly from data on waiting times to
+first conception. These empirical investigations have consistently shown that
+
+1A susceptible state is one in which a woman can
+potentially conceive as a result of unprotected sexual intercourse. Excluded are conditions such as
+pregnancy, lactational anovulation and pathological
+sterility.
+
+time. How to model these changes has
+been a continuing area of analysis. The
+question, for example, of whether the
+decline in the observed rates represents a decline in fecundability over the
+reproductive lifespan (but with fecundability homogeneous among women at
+any given age) or whether the decline
+reflects initial population heterogeneity (with the risk of conception constant over time) has been the subject of
+some attention. Data on waiting times
+to conception alone cannot answer this
+question. As Sheps and Menken (1973)
+argued, “‘data on conception months
+will not distinguish between two interesting and likely situations: (a) heterogeneous fecundability constant for
+
+106
+
+ 
+. Vol. 40, No. 1-2
+
+each woman, and (b) decreasing fecundability for each woman, or for an
+appreciable portion of women.’
+
+A recent paper by Heckman and
+Walker (1990) underscores this concern. They reanalyzed data on waiting
+times to first conception of Hutterite
+women and concluded (p. 287): ‘“‘Many
+apparently different models fit the data
+equally well. . . . For all practical pur
+‘poses, the alternative models are the
+Sisame model. Our analysis indicates
+both the practical importance of the
+Fidentification problem in duration
+models and its irrelevance for recover_ ing certain key features of the distribu;tion of fecundability.”
+~. Their results serve to emphasize the
+need to inform empirical model con“struction and testing with theory. We
+sdo not take issue with their conclusion
+‘< that key features of the distribution of
+‘Sfecundability can be recovered—and
+“srecovered well—by a number of funcptions. As noted by Trussell and RodriZ guez (1990, p. 118), “‘it is always possi.z ble to find many models incorporating
+unobserved heterogeneity and one
+zmodel not incorporating unobserved
+gheterogeneity that fit equally well be‘Scause they yield identical uncondi<tional distributions of the outcome
+= variables.” The important point is that
+A goodness-of-fit is not the only criterion
+available for model selection. In the
+case of fecundability, for example, we
+have prior information and theory
+(only some of which was available at
+the time of the Sheps and Menken
+
+This proposition is true when mean fecundability declines at an increasing rate with age, i.e., when
+the second derivative of mean fecundability is
+greater than zero (Trussell, personal communication).
+
+Fetal Loss
+
+107
+
+work) which can help us choose among
+models, or at least guide us in our exploration.
+
+Indeed, it is one of the virtues of
+models that they allow us to spell out
+the implications of our theoretical expectations. First, we expect fecundability to vary across the reproductive
+life span (and in general, to decline after reaching a peak in the mid- to latetwenties) on both physiological and behavioral grounds (Wood, 1989). Thus,
+the finding that the Hutterite data are
+consistent with the hypothesis that the
+fecundability of each woman is constant may be of use in addressing the
+importance of variation on conception
+waits, or perhaps more specifically,
+its importance at early reproductive
+ages, but is theoretically untenable. A
+second conclusion of Heckman and
+Walker was that the data could not distinguish between a model? consistent
+with the hypothesis that each woman
+has constant fecundability and other
+models consistent with population homogeneity and declines in fecundability for each woman over time. This second conclusion may guide us in our
+assessment of the size of the effects of
+population heterogeneity, but again,
+because we know that there is variation
+in both the physiological and behavioral components of fecundability both
+among women and across the reproductive life span, we must reject a
+model on theoretical grounds which assumes population homogeneity.* Finally, our theoretical models of the
+
+3A mixture of exponentials in continuous time,
+or a mixture of geometrics in discrete time.
+
+‘Although, if our interest were confined to recovering the distribution, then the principle of parsimony would lead us to use the simplest possible
+model that is consistent with the data.
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+108
+
+biological and behavioral determinants
+of fecundability allow us to specify and
+explore likely sources of “unobserved
+variation.” We need not confine our
+modeling decisions to statistical considerations of goodness-of-fit. In this
+situation, it is easy enough to agree
+with Trussell and Rodriguez (1990, p.
+112) that we need to “proceed inductively, by placing models at the intersection between data and theory, with
+each informing the other through empirical results.”’
+
+In our analyses in this paper we
+specify a single theoretically important
+source of heterogeneity in fecundability, namely variability in intrauterine
+mortality, and assess its effects on waiting times to a fertile conception. We
+explore the effects of heterogeneity in
+intrauterine mortality on the distribution of waiting times to next fertile conception, isolating the effect of variation
+in fetal loss from other sources of heterogeneity. We also incorporate our
+theoretical expectations regarding agerelated changes in the components of
+fecundability.
+
+Our intention is to examine models
+of fecundability which incorporate a
+single source of heterogeneity in order
+to assess the effects of that heterogeneity. Our interests lie in bracketing
+the size of the effects of variation in fetal loss and in identifying where (if at
+all) those effects might be important. If
+the effects are negligible, then at least
+for some purposes, we can use the
+more parsimonious “homogeneous”
+models for purposes of estimation.
+
+In a population with homogeneous
+fecundability, the mean waiting time to
+conception is the inverse of fecundability. The heterogeneous case is more
+complex. When couple-to-couple vari
+Weinstein et al.
+
+Social Biology
+
+ation (or month-to-month variation for
+the same couple) is random (in the
+sense that fecundability is always
+drawn from the same density function), this same relationship holds, but
+the waiting time to conception is the
+inverse of the mean fecundability instead of a constant value of fecundability (Sheps, 1964). When, however,
+there exist systematic and persistent
+differences in fecundability among
+couples, the entire distribution of waiting times is altered. The distribution
+becomes more right-skewed, and the
+mean waiting time to conception may
+be increased substantially (Sheps,
+1964).
+
+When data on waiting times to conception have been analyzed under the
+assumption that couple-to-couple heterogeneity is present and can be modeled using a beta distribution, large effects of heterogeneity on the mean
+waiting time to conception have been
+found compared with the homogeneous case (Table 1, adapted from
+Leridon, 1977).5 In general, heterogeneous fecundability increases the mean
+wait by 20 to 90 per cent. The studies,
+however, do not estimate total fecundability because of the inability to detect
+conceptions terminated by early fetal
+loss.© There is, therefore, an unavoidable confounding of heterogeneity in
+fetal Joss among women with heterogeneity in fecundability per se.
+
+Several investigators have also suggested that there is substantial hetero
+sLeridon’s estimates are based on the assumption that the conception rates for the first month of
+exposure are equal for the homogeneous and heterogeneous Cases.
+
+®Recent studies based on assays of human chorionic gonadotropin in urine suggest that subclinical
+fetal losses may represent well over 20 per cent of all
+losses (Wilcox et al., 1988).
+
+ 
+Vol. 40, No. 1-2
+
+geneity in the risk of fetal loss (Leridon, 1976; Bracher and Santow, 1988;
+Wilcox and Gladen, 1982). Sensitivity
+analyses of the responsiveness of effective fecundability (the monthly probability of a conception that results in a
+live birth) to variation in the level of
+fetal loss suggest that it has a strong influence. Compared with a reference
+population in which fetal loss is 300 per
+21,000 conceptions, effective fecundcability in a “low” loss population (150
+er 1,000) is about 40 per cent higher,
+Ewhile i in a “high” loss population (600
+Sper 1,000) effective fecundability is
+about 60 per cent lower (Wood and
+Weinstein, 1988). This sensitivity of efYfective fecundability to levels of fetal
+—loss in a homogeneous population sug“gests that couple-to-couple heterogeSneity in the level of fetal loss may be an
+‘important factor contributing to the effect of heterogeneity on mean waiting
+4times predicted by the beta model. To
+pwhat extent does heterogeneity in fetal
+Zloss influence the apparent heteroge©
+-eneity in fecundability, and to what exStent does it affect birth interval distri‘butions?
+3 These questions are difficult to anYswer with empirical data because of
+<four problems: (1) underreports of
+early fetal loss in large-scale surveys,
+A(2) selectivity operating at higher ages
+and parities when the risk of loss is
+high, (3) the inclusion of waiting times
+for women who may be in a nonsusceptible state, and (4) the possible confounding effects of age-related changes
+in both physiology and coital behavior,
+changes that affect fecundability, but
+not fetal loss, and which may mimic the
+hypothesized effects of fetal loss.
+Fecundability varies over the reproductive life span for many reasons.
+
+ 
+
+Fetal Loss
+
+109
+
+Marital coital rates decline with the age
+of both wife and husband, and with
+marital duration (James, 1979; Kahn
+and Udry, 1986; Kinsey et al., 1948,
+1953; Udry and Morris, 1978).”? The
+probability that a woman is simultaneously postmenarcheal and premenopausal is highly age-dependent (Treloar, 1974). Ovarian cycles change in
+both length and quality with age. At
+very early and late reproductive ages,
+cycles tend to be longer and more variable in length, and they are often anovulatory (Treloar et al., 1967). During the first few years following menarche, they also tend to be characterized by short or insufficient luteal
+phases (Lenten et al., 1984a,b). Aspects of ovarian function may simultaneously affect the probability of conception and the probability of fetal
+loss, making their effects on birth intervals difficult to unravel. For example, luteal sufficiency is a primary requirement for maintaining a pregnancy
+during its earliest stages, so this factor
+should influence the level of early fetal
+loss. It is also an important determinant of total fecundability because of
+its effects on cycle length. Overall,
+there 1s now general agreement that effective fecundability varies systematically with the age of the female partner, rising rapidly to a peak during the
+early 20’s then declining slowly to the
+age of menopause (Bendel and Hua,
+1978; Others).
+
+7Unlike previous investigators, Jasso (1985,
+1986) found that coital frequency increased with
+wife’s age. Kahn and Udry (1986) have argued that
+her results stem from the inclusion of possible miscoded data and outliers and the omission of a significant interaction effect.
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+110
+
+MATERIALS AND METHODS
+
+EFFECTS OF HETEROGENEITY IN
+INTRAUTERINE MORTALITY ON THE
+DISTRIBUTION OF WAITING TIMES TO
+NEXT FERTILE CONCEPTION
+
+We begin by isolating the effects of
+variation in the risk of fetal loss on the
+waiting time to a fertile conception,
+i.e., a conception that results in a live
+birth. We contrast two cases: (1) one in
+which there is systematic variation in
+couple-to-couple probabilities of fetal
+loss at each age, with (2) a case in
+which the probability of fetal loss is homogeneous among couples at each age.
+In both cases the probability of fetal
+loss varies across ages, as do the remainder of the physiological characteristics and coital frequency.
+
+In view of the empirical difficulties
+outlined above, our analyses are based
+on a mathematical model of the determinants of fecundability. This model
+allows us to control for heterogeneity
+in factors affecting fecundability but
+unrelated to fetal loss. We use life table
+estimates of waiting time to a fertile
+conception to assess the effects of heterogeneity in the risk of fetal loss. The
+motivation for using life tables is first,
+that the distribution of waiting times to
+conception is extremely right-skewed,
+regardless of whether fecundability is
+homogeneous or heterogeneous. Thus,
+the mean—the measure presented in
+most analyses—is not likely to be a
+good measure of central tendency. Second, the risk of conception varies with
+age. Consequently, the mean waiting
+time to conception based on fecundability at any one age does not incorporate the effects of declines in fecundability at later ages during the same
+conception wait. Because mean wait
+Weinstein et al.
+
+Social Biology
+
+ing times in the heterogeneous case are
+high at older ages and typically increase with age, the additional effects
+of expected declines in fecundability
+could have substantial effects.
+
+We consider two scenarios—one in
+which the variance in fetal loss is constant with maternal age, and the other
+in which the variance is itself a positive
+function of the mean risk of loss and
+therefore increases with maternal age
+(ignoring adolescent pregnancies).
+Based on current evidence, it is uncertain which of these two scenarios is biologically more realistic.
+
+Within each scenario we analyze
+four cases, ranging from low to high
+variance as shown in Table 1. For midreproductive age women, the estimates
+of the variance made by Leridon
+(1976) from French data, and by Santow and Bracher (1988) from Australian data, fall near the middle of this
+range. We consider it likely, therefore,
+that our sensitivity analyses bracket the
+“true” variance in the risk of loss.2 We
+also compare effective fecundability
+
+8Each scenario is the same as the one used in our
+earlier work which focused on mean fecundability
+(Wood and Weinstein, 1990). These earlier analyses
+had two problems which are addressed here (we also
+address the more general question of the effects of
+heterogeneity on the distribution of waiting times in
+this paper). First, as discussed above, for a skewed
+distribution, the mean may not be a good measure
+of central tendency. Thus, while our exploratory
+analyses showed that heterogeneity in fetal loss increases the ratios of expected waiting times, the
+waiting times themselves are all within six months as
+late as age 35 and do not increase sharply until age
+45. Second, the assumption that subsequent agespecific fecundability remains constant that was
+made in calculating the expected waiting times provides estimates that are too low, because effective
+fecundability declines after age 25. In order to assess
+the additional effects of age-related declines in fecundability, we turn to life-table techniques that allow us to estimate the distributions of waiting times
+for both the heterogeneous and homogeneous cases
+and compare them directly.
+
+ 
+
+ 
+ 
+
+Vol. 40, No. 1-2
+
+TABLE 1
+
+VARIANCES IN THE RISK OF FETAL Loss aT EACH
+AGE USED IN THE SENSITIVITY ANALYSES,
+WHERE P IS THE MEAN PROBABILITY OF FETAL
+Loss AT A GIVEN AGE
+
+VALUE OF VARIANCE
+
+Type OF VARIANCE (1) (2) (3) (4)
+
+0.001 0.005 0.01 0.02
+pio = pt/2-—sp4 2p*
+
+Constant ........0+0.
+Changing............
+
+er Pua
+
+when the probability of fetal loss at
+2 2 each age is homogeneous (although al2 lowed to vary across ages as described
+A below) with effective fecundability
+2% when the probability of fetal loss at
+‘2 each age is heterogeneous (in addition
+co to varying across ages).
+
+= When fetal loss at any age j is
+5 ‘= homogeneous, effective fecundability
+2 (fej) is related to total fecundability (f,)
+O as:
+
+f= f,A—p,;/ C1 + Dff;) (1)
+
+here P; is the probability of loss per
+onception at age j and ¢ is the mean
+uration of the nonsusceptible period
+(gestation plus any residual ‘“‘postpartum” infecundability) associated with
+© each loss.? As expressed in Equation 1,
+6 effective fecundability is thus homoge| neous across women at any given age
+° but varies across reproductive ages according to expected values for age patterns of ovarian function (see below).
+From a reanalysis of data reported
+
+by French and Bierman (1962), we
+estimate ¢ to be approximately 1.8
+months (Wood, 1989).1° As suggested
+
+oz
+
+Q.
+
+d by [University of M
+
+ad
+
+wnl
+
+°A full description of the model that we use to
+estimate fecundability in the homogeneous case appears elsewhere (Wood and Weinstein, 1988).
+
+10We assume that ¢ remains constant over all
+ages. In principle, t could also vary over time, but
+we have no empirical data to support estimating it
+
+Fetal Loss
+
+111
+
+by several studies (Alberman, 1987;
+Harlap et al., 1980; Wilcox et al.,
+1981), the mean or expected probability of loss is allowed to vary by maternal age. The mean risk of fetal loss at
+each maternal age follows the curve
+shown in Figure 1, which we have estimated from data on nine populations
+in which induced abortion Is not a competing risk (Wood and Weinstein,
+1988). The level of this curve corresponding to maternal age 23 has been
+adjusted upwards to 0.3, consistent
+with recent estimates based on assays
+of urinary chorionic gonadatropin
+(Wilcox et al., 1988), and the rest of
+the curve is then allowed to vary in parallel with the curve in Figure 1. Because an elevation in mean risk of loss
+among adolescents is not a universal
+finding of population-based studies
+(Santow and Bracher, 1988), we restrict attention to maternal ages 20 and
+above.
+
+In order to model the effects of heterogeneity at each age in the risk of
+fetal loss, we assume that the probability of loss follows a beta distribution
+among women at each maternal age.
+This distribution, which was used for
+similar purposes by Leridon (1976),
+Wilcox and Gladen (1982), and Santow
+and Bracher (1988), was chosen because it is flexible and because it constrains the value of p to lie between
+
+separately by maternal age. Given that the proportion of spontaneous abortions attributable to chromosomal aberrations is thought to increase with maternal age (Hassold et al., 1984), and that they
+generally terminate pregnancies early, tf may actually decrease with age. If t does increase with age,
+the result might be to offset partially the known increased risk of loss. More generally, in this paper we
+confine our attention to the effects of variability in
+the risk of fetal loss. The effects of variability in ¢
+among couples or across ages (as noted above) are
+not incorporated.
+ 
+
+ 
+
+nloaded by [University of Michigan] at 13:45 08 December 2015
+
+5
+°
+
+D
+
+ 
+
+112 Weinstein et al. Social Biology
+0.5
+2 0.4
+2° 03
+oa
+= 02
+a. 0.1
+0
+10 20 30 40 50 60
+
+Maternal Age (Years)
+
+Fic. 1.—Age pattern of fetal loss in women from several populations in which induced abortion
+is not a competing risk. Open circles represent pooled data from nine populations, each adjusted to
+yield an overall loss across all ages of 150 per 1,000 conceptions. Solid curve is a quadratic equation
+fitted to these data by ordinary least squares (r? = 0.998). Redrawn from Wood and Weinstein
+
+(1988a).
+
+zero and one.!! For the heterogeneous
+case, it is the variance of the beta distribution which we allow to vary at
+each age and whose impact on the waiting time we assess. We constrain the
+mean to be the same as the mean at
+each age in the homogeneous case.
+To estimate waiting times in the heterogeneous case, we need to extend
+Equation (1) because that equation is
+based on the assumption that fecundability is homogeneous at each age. We
+do this by modeling variation in the
+risk of fetal loss (the only source of heterogeneity in fecundability at any given
+
+Too little is known about how the risk of loss
+varies to make a stronger empirical justification for
+the beta distribution.
+
+age) as a beta distribution. We use
+Equation (1) to compute effective fecundability separately for each percentile of the beta distribution, as if couples corresponding to that percentile
+were homogeneous. We then apply
+life-table methods to compute the
+overall distribution of waiting times to
+conception by using monthly probabilities of conception for each percentile
+and aggregating at the end of each
+month. For each percentile, effective
+fecundability is assumed to be constant
+during each year of maternal age, but
+changes at the end of each twelvemonth period according to the predicted distribution at each maternal
+age.
+
+ 
+Vol. 40, No. 1-2
+
+In both the heterogeneous and homogeneous cases, the remaining components of the model, those not pertaining to fetal loss, follow the age
+patterns that have been observed in
+normal, healthy Western women (see
+Wood and Weinstein, 1988; Wood,
+1989). None of the components unrelated to fetal loss is allowed to vary
+from its expected value apart from the
+2 predicted changes with maternal age.
+
+In summary, for the homogeneous
+case, all values are fixed at their expected levels for each maternal age.
+No heterogeneity in the risk of fetal
+loss within each age is allowed, although as outlined above, the expected
+~- values vary with age. Thus, the “ho_ Mogeneous” case is homogeneous
+= across women at each maternal age but
+S, allows for physiological and behavioral
+
+£ differences across ages. For the heter
+o—
+
+S ogeneous case, only the risk of loss is
+‘= allowed to vary at any given age. Thus,
+2 fetal loss is the sole source of hetero
+geneity at each maternal age. Again, as
+in the homogeneous case, all physiological and behavioral characteristics
+can vary across ages.
+
+at 13:45 08 December 20
+
+1versl
+
+RESULTS
+
+As shown in Table 2, the introduction of variation in the risk of fetal
+loss has little effect on the number of
+months to conception required for
+each quartile of the distribution up to
+age 40.!2 Even for intervals beginning
+as late as age 45, the difference between the homogeneous and heterogeneous cases in the median time re
+Downloaded by [Un
+
+12The month shown for each quartile is the
+month such that 25 per cent of couples will have
+conceived by its end.
+
+Fetal Loss
+
+ 
+
+113
+
+quired for women to conceive is at
+most one month.
+
+Under the constant variance scenario, at all levels of variance at intrauterine mortality, the times to conception at all ages for each quartile differ
+little from the case in which there is no
+variation in fetal loss (i.e., the case in
+which fecundability is homogeneous).
+At most ages, the times to conception
+for each quartile in the heterogeneous
+cases differ from the homogeneous
+case by less than one month. In only
+one instance (age 45, constant variance = 0.02) does the time differ by as
+much as two months.
+
+Even under the scenario in which
+the variance changes with age, large
+differences in months to conception for
+each quartile are not observed until
+age 45. Only above age 45 do waiting
+times for conception differ from the
+homogeneous case by more than one
+month. !3
+
+Percentages conceiving by the end
+of one, three, and five years for the
+cases of heterogeneous mortality differ
+only slightly from the homogeneous
+case (data not shown). Under the constant variance scenario, there are only
+very small differences in the percentages conceiving by the end of any year
+
+13At high variances, the beta distribution of fetal
+loss itself becomes U-shaped, with the highest densities near zero and one (Johnson and Kotz, 1970).
+This result suggests that the functional form of the
+variance in fetal loss may itself vary with age or with
+the level of fetal loss. Given the absence of empirical
+evidence on this point, an accurate choice for such
+a function is not possible. For these analyses, the
+U-shaped curves at the oldest ages under the changing variance scenario result in an estimate which is
+a lower bound on the effects of very high variation.
+They also account for declines in waiting times at
+ages 50 and above at the higher levels of variance.
+Because mean fecundability is quite low at the highest ages (0.11 at age 45, 0.02 at age 50, and 0.0002
+at age 55) the overall effects on waiting times to conception are quite small.
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+Weinstein et al.
+
+ 
+
+Social Biology
+
+TABLE 2
+
+LIFE TABLE ESTIMATES OF TIME TO FERTILE CONCEPTION IN MONTHS
+
+114
+AGE AND HoMOGENEOUS
+QUARTILE FETAL Loss 0.001
+Age 20
+D5 FO cececsccccenceecescenees 1 1
+50% ...ccceccecscscesceeeese 3 3
+770 eeces tas vases es ee 5 5
+Age 25
+250 ce scceecscenenenencerees 1 1
+y/o z 2
+7970 sx ssusunssnesseneneiiaas 4 5
+Age 30
+2D DO wc cccsecnsscscenceneeeess 1 1
+GS 5: ss 20s died end oe ree 3 3
+TSO vccscsveevecesssaeaseees 3 3
+Age 35
+2570 ceccssecscscecscescecees 2 2
+50% oo cceseccccavecececeeees 3 3
+TNO wa vtcanns vamssns p09 poth0 6 6
+Age 40
+D590 ws wnsaume owas vaqsess e085 2 2
+| 4 4
+TS TO cececncccccncccesecceees 7 7
+Age 45
+50 viceccececsenncssesseees 3 3
+50% ...ccececcecessceesceees 6 7
+TSO 63063 08 sedibber aes ener 12 13
+Age 50
+2500 ceceecaceceececeeeceecs 17 17
+BGG ae cana vassana ays wag b b
+TSO ce ccsaccsncneceveececees b b
+
+4p is the expected value of fetal loss at each age.
+
+Constant Variance
+
+HETEROGENEOUS FETAL Loss
+
+Changing Variance?
+
+0.005 0.01 0.02 pio —p*/2 p4 2p*
+1 1 1 1 1 1 1
+3 3 3 3 3 3 3
+5 5 5 5 5 5 2
+1 1 1 1 1 1 1
+r Z 2 2 2 2 y
+3 5 S 5 J 5 5
+1 1 1 1 1 1 1
+3 3 3 3 3 3 3
+5 3 3 3 3 5 3
+2 Z 2 2 z 2 2
+3 3 3 3 3 3 3
+6 6 6 6 6 6 6
+2 2 Z 2 & 2 2
+4 4 4 4 4 4 4
+7 7 8 7 8 8 10
+3 3 3 3 3 3 2
+7 7 7 7 7 7 7
+
+13 13 14 13 19 48 50
+17 17 18 18 10 6 5
+b b b b 46 20 13
+b b b b b b b
+
+’Implies the percentage conceiving by age 57 (the age at which we treat all women as reaching menopause) is less than the indicated
+
+percentile.
+
+when the heterogeneous cases and the
+homogeneous cases are compared. Below age 40, the percentage conceiving
+within one year is high—above 90 per
+cent—in all cases, and above 99 per
+cent of those who begin a wait at age 40
+or below conceive by the end of three
+years. For those who begin a wait at
+age 45 or later, the differences between
+the constant variances cases (with a
+variance of 0.01 or less) and the homo
+geneous case are two percentage points
+or below, while even with a variance of
+0.02, the difference is less than four
+percentage points. Even at age 45, under the constant 0.02 variance scenario, over 72 per cent conceive by the
+end of one year, over 92 per cent by the
+end of three years, and over 95 per cent
+by the end of five years.
+
+Under the scenario in which the
+variance in fetal loss changes with age,
+ 
+
+Vol. 40, No. 1~2 Fetal Loss 115
+TABLE 3
+LiFE TABLE ESTIMATES OF PERCENTAGES NOT CONCEIVING BY SIX-MONTH INTERVALS
+HETEROGENEOUS FETAL Loss
+Constant Variance Changing Variance?
+AGE AND HOMOGENEOUS ,
+QuaRTILE Fetat Loss 0.001 0.005 0.01 0.02 p/10 pii2 p4 2p4
+Age 20
+6 .cceeeee 13.42 13.83 14.18 14.64 15.47 13.80 14.00 14.25 14.76
+Te wesswnss 1.80 1.96 2:25 2.65 5.52 1.93 2.10 2.32 2.79
+18 .....0.. 0.23 0.27 0.38 0.55 1.02 0.26 0.32 0.40 0.61
+24 eeceeee 0.00 0.03 0.07 0.13 0.36 0.03 0.05 0.08 0.16
+oi Age 25
+= 6 cseceee 12.17 12.58 12.95 13.43 14.31 12.54 12.75 13.02 13.55
+7 12........ 1.48 1.63 1.91 2.29 3.14 1.60 1.75 1.96 2.41
+OQ 18........ 0.19 0.22 0.32 0.49 0.94 0.21 0.27 0.35 0.55
+5 24 .eeseees 0.00 0.03 0.06 0.12 0.34 0.02 0.04 0.07 0.15
+O
+© Age 30
+cS 6 cc cceees 14.98 15.42 15.76 16.23 17.07 15.40 15.70 16.09 16.83
+= 12. wn enise 2.24 2.43 2.76 3.20 4.15 2.42 2.70 3.08 3.88
+ss, 1B gs came 0.35 0.41 0.56 0.76 1.33 0.41 0.54 0.73 1.21
+on 24 w.eceeee 0.01 0.07 0.12 0.26 0.51 0.07 0.12 0.20 0.45
+"~ Age 35
+ES 6 oo .eaeee 19.93 20.42 20.74 21.19 21.99 20.48 21.05 21.79 23.21
+Ss 12........ 3.97 4.24 4.66 5.21 6.34 4,31 5.06 6.05 8.16
+OD 1B vee 0.84 0.95 1.19 1.53 Loz 1.00 1.46 2.20 4.01
+Ss 24 .eeeeeee 0.01 0.22 0.32 0.50 0.97 0.24 0.48 0.92 2.28
+S Age 40
+va 6 woe eeeee 28.71 29.26 29.54 29.96 30.66 29.49 30.74 32.30 35.50
+o 12........ 8.24 8.66 9.21 9.93 11.34 9.10 11.50 14.56 20.80
+= 18 ........ 2.59 2.82 3.27 3.87 5.15 3.21 5.47 8.74 15.93
+5 Wb ons aed ns 0.81 0.93 1.21 1.61 2.56 1.18 2.90 5.85 13.14
+5 Age 45
+5 6 ..eeeee 49.52 50.06 50.20 50.43 50.77 50.42 52.12 52.80 50.11
+es 12 ........ 24.52 25.17 = 25.75 26.51 27.93 26.59 32.68 37.63 38.75
+© 18........ 13.91 14.52 15.29 16.29 18.22 16.53 25.16 31.90 34.10
+3 24 wecaeeee 7.89 8.39 9.20 10.25 12.33 10.59 20.43 28.26 31.21
+'S Age 50
+= 6 ...cceee 88.58 88.79 88.76 88.75 88.66 88.61 82.67 74.91 69.59
+= 12 ccs ceman 78.48 78.85 78.87 78.94 78.97 79.02 70.88 59.42 51.53
+Oo 18........ 73.48 73.95 74.03 74.19 74.37 74.51 64.39 51.57 43.23
+AM. 68.80 69.35 69.51 69.78 70.14 70.43 59.23 45.63 37.09
+
+9p is the expected value of fetal loss at each age.
+
+ 
+
+heterogeneity in intrauterine mortality
+has little effect on the percentages conceiving compared with the homogeneous case up to age 35. At age 45, the
+percentage conceiving within one year
+ranges from just above 75 per cent in
+the homogeneous case down to 61 per
+
+cent in the highest variance heterogeneous case, a difference of 14 per cent.
+This spread increases with additional
+exposure. At the end of five years, the
+percentage conceiving in the homogeneous case is close to 99 per cent while
+it is 77 per cent in the heterogeneous
+ 
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+116
+
+case; but in all cases, at least threequarters of the women have conceived
+by the end of five years.
+
+These findings suggest that below
+age 35, it would be difficult indeed to
+discriminate between homogeneous
+and heterogeneous fetal loss from empirical data by examining its effects on
+the cumulative probability of conceiving at an interval of one year or later.
+At older ages, it would be possible to
+distinguish heterogeneous risks of fetal
+loss from the homogeneous case only if
+the variance is large and increases with
+age.
+
+We examine the differences at durations up to two years in Table 3, presenting the percentages who have not
+had a fertile conception by six-month
+intervals. For women beginning conception waits below age 35, only small
+differences—less than about two percentage points—are evident between
+the homogeneous and heterogeneous
+cases. At the end of six months, the
+largest difference in the proportions
+conceiving is 2.09 per cent or about 14
+per cent of the proportion who would
+have conceived if fecundability were
+homogeneous (observed in the constant variance equal to 0.02 scenario at
+age 30). By month 12, the differences
+are all below 2 per cent (again, the
+largest, 1.91 per cent is observed at age
+30, under a constant variance equal to
+0.02). By month 18, all differences are
+below 1 per cent, and by month 24,
+none is larger than one-half of 1 per
+cent. While these later differences, at
+least in some instances represent large
+proportions relative to the homogeneous case,!4 the fact that the absolute
+
+14Under the scenario in which fetal loss is heterogeneous with a constant variance of 0.02, for ex
+Weinstein et al.
+
+ 
+
+Social Biology
+
+differences are so small implies that it
+would be virtually impossible to detect
+them empirically from any but the very
+largest of surveys.
+
+An important result is that prior to
+age 35, under any scenario, nearly all
+women have conceived by the end of
+24 months according to our model;
+0.51 per cent is the highest percentage
+not conceiving by the end of the period. Thus, in the absence of pathological sterility (or some other infecundable condition), virtually all women
+who begin conception waits prior to
+age 35 conceive within two years.
+
+For conception waits beginning after age 35, absolute differences between the percentages conceiving in
+the homogeneous and heterogeneous
+cases increase, but the relative differences correspondingly decrease. As
+noted earlier, at ages 40 and below, 90
+per cent of all conception waits are
+closed within three years, and even for
+waits beginning between ages 40 and
+45, virtually all end in conceptions
+within five years.
+
+Because the cumulative proportions
+conceiving may tend to obscure differences at discrete intervals, we also examine the full distribution of waiting
+times. How is the distribution of waiting times affected by heterogeneity in
+fetal loss? These distributions are displayed in Figures 2 through 5 for ages
+20, 30, 40 and 50, respectively.15 The
+distributions of the lowest and highest
+variance cases for each heterogeneous
+scenario are plotted along with the dis
+ample, we expect that at age 30 only 0.51 per cent
+of women will not have conceived by the end of 24
+months, while 0.01 per cent under the homogeneous
+scenario would not have conceived.
+
+In each figure, the constant variation scenario
+is shown in the top frame, the changing variance scenario is shown in the lower frame.
+
+ 
+
+ 
+Vol. 40, No. 1-2 Fetal Loss 117
+
+Age 20
+
+0 30
+0.28
+0.26
+0.24
+0.22
+0.20
+0.18
+0.16
+0.14
+0.12
+0.10
+0.06
+
+Proportion of Intervals
+
+0.06
+
+004
+
+ 
+
+002
+000 — ere PEEL et ee air ctie arate
+° mm 24 36
+Months
+
+Homegensens + Yor = 0.001 o Ver 20.02
+0.30
+0.28
+0.25
+0.24
+
+omits
+
+0.22
+0.20 0.18
+
+0.16.
+
+0.14 | :
+O12 
+010 - (
+0.08 4
+
+0.06
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+Proportion of intervals
+
+0.03 
+0.62 Ns
+
+900 J ten ertenaimce de Ua Wd Us eb cy ole Ws UD ths oft
+
+% 12 24 36
+Months
+
+0 Hemo geneous Vor = (pood}/te
+
+— tL.
+
+Yor =20(pee4)
+
+Fic. 2.—Predicted distributions of waiting times to fertile conception for intervals beginning at
+age 20 when the risk of fetal loss is homogeneous compared with two cases in which the risk is
+heterogeneous. Upper frame: Variance in risk of fetal loss constant at all ages. Lower frame: Variance
+in risk of fetal loss changes with age.
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+118
+
+0 30
+0 28
+0 26
+024
+022
+0 20
+018
+0 16
+O14
+012
+2 10
+
+9648
+
+Proportion of Intervals
+
+6 06
+005
+0Q?
+
+200
+
+Proportion of Intervals
+o
+~
+
+ 
+
+Weinstein et al. Social Biology
+
+ 
+
+ 
+
+Age 30
+o
+'
+3
+S-m-9-9 MP:n:4r . ge . = . 2,
+re ry ny agen mr BPE GS CPF Eph Fi Fd A FA - eit > oe «8 te the eee os
+9 1? 24 36
+Months
+© Homegencens * Ver = 0.001 o Yer = 0.02
+
+Bertman ae ee me
+
+EM BAIN AFT OE rit ld ate sos ct
+9 12 24 36
+
+Months
+
+O Homo geneous # Varo (pood}/10 © Yor =20(perd)
+
+Fic. 3.—Predicted distributions of waiting times to fertile conception for intervals beginning at
+age 30 when the risk of fetal loss is homogeneous compared with two cases in which the risk is
+
+heterogeneous.
+
+Upper frame: Variance in risk of fetal lass constant at all ages. Lower frame: Variance
+
+in risk of fetal loss changes with age.
+Vol. 40, No. 1-2 Fetal Loss 119
+
+Age 40
+
+ 
+
+0 30
+0.28
+0.26
+0.24
+0.22
+0 20
+0.18
+0.16
+O14
+012
+
+0.10
+
+Proportion of Intervals
+
+008
+0.06
+004
+002 - “Waa
+0.00 meme meee rnc ie ee Eh AN am
+
+0 12 24 36
+
+Months
+q Year = 0.00! @ Var = 0.02
+
+ 
+
+Hemegqencess
+
+9.30
+0.28
+0 2€
+0.24
+0 22
+020
+0.1%
+016
+0.16
+O12
+
+0.10
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+0 OE
+
+Proportion of Intervals
+
+004
+
+ 
+
+00s
+
+oc? Oy
+
+=Ht
+000 of nei ie ent SRT ARE otireelemtiin tenth ade. tt aft at ape de
+0 2 24 36
+O  Neme geneous 4 Varn (peod)/10
+
+@ Var =2e(peed)
+
+Fic. 4.—Predicted distributions of waiting times to fertile conception for intervals beginning at
+age 40 when the risk of fetal loss is homogeneous compared with two cases in which the risk is
+heterogeneous. Upper frame: Variance in risk of fetal loss constant at all ages. Lower frame: Variance
+in risk of fetal loss changes with age.
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+ 
+
+120 Weinstein et al. Social Biology
+
+Age 50
+
+008
+007
+0 06
+005
+
+6 04
+
+Proportion of Intervals
+
+003
+
+ou?
+
+ee st
+0 01
+
+ 
+
+YeOoUY YUU
+"\ aoscanamn
+
+dy oie eee ot ee ew GOD ores preter ace cere erh sy epee erases een ae ay eT pees Wad hrei i eee
+
+0 12 24 36 43 60
+
+Moaths
+O  Hemegereess ‘ Var = 6.001 © Var = 06.02
+
+009
+008
+007
+0 06
+005
+00s ‘,
+003 %,
+a
+002 Critic.
+: DG Hy \.
+\ Mb,
+|Or - Foren, »
+TMM MM HD,
+
+WHDiieMBDUE,, venes ee
+
+DOD wp errr errr prey mee sere ane ne a pres ete ere ene ene ene ye DEEP PET AMAMaMAnAD t
+2 12 24 36 48 60
+
+Months
+O Heme geneous ¢ YVare(peet}/10
+
+Proportion of Intervals
+
+@ Yar =20(peed)
+
+Fic. 5.—Predicted distributions of waiting times to fertile conception for intervals beginning at
+age 50 when the risk of fetal loss is homogeneous compared with two cases in which the risk is
+heterogeneous. Upper frame: Variance in risk of fetal loss constant at all ages. Lower frame: Variance
+in risk of fetal loss changes with age.
+Vol. 40, No. 1-2
+
+tribution of waiting times in the homogeneous case. The distributions are
+virtually indistinguishable until age 40.
+At age 40, (Figure 4, lower panel), it is
+possible to discern a difference which is
+as large as 2 percentage points between
+the distributions for the homogeneous
+and high variance heterogeneous cases
+at intervals below 12 months. As expected, the heterogeneous distribution
+‘4s more right-skewed. In addition, the
+proportion conceiving at the shortest
+‘glurations (in this case, only one
+fmonth) is higher in the heterogeneous
+gase than in the homogeneous case.
+he distributions subsequently cross
+cin month two, reflecting the fact that in
+sthe heterogeneous population, the
+“population remaining increasingly intludes those with lower fecundability.
+That is, those with higher fecundability
+are selected out of the population, con‘feiving earlier, with shorter waiting
+“times.
+2 At age 50, the constant variance
+‘eases (Figure 5, upper panel) are not
+-alistinguishable from the homogeneous
+-ease.!6 When the variance changes
+pwith age and is quite large, the distri~butions at short intervals (under one
+ear) diverge. By the end of one year,
+aewever the differences among the
+
+alistributions are within one per cent.
+
+a
+EFFECTS OF HETEROGENEITY IN
+
+FECUNDABILITY ON THE DISTRIBUTION
+OF WAITING TIMES TO CONCEPTION
+
+The first analyses suggest that at
+early reproductive ages—up to age 35
+—an important potential source of
+heterogeneity in fecundability has little
+
+©The discontinuities observable at the end of
+12-month intervals are attributable to our assumption that the components of fecundability are constant within each single year of age.
+
+Fetal Loss
+
+121
+
+effect on the distribution of waiting
+times to conception. This result leads
+to a more general question: How large
+are the effects of heterogeneity from
+all sources taken together on waiting
+times to conception? Several investigators have modeled the effects of heterogeneity under the assumption that apparent or effective fecundability itself,
+not fetal loss, follows a beta distribution among couples. Results from several of these studies are summarized in
+Table 4. As seen from the last column
+of Table 4, the ratio of expected waiting times when fecundability is heterogeneous to that when it is homogeneous ranges from 1.20 to 1.91. The
+ratio of the variance of the waiting
+times ranges from just over 2.5 to
+nearly 12.!7 These ratios seem to imply
+large effects of heterogeneity on the
+waiting times. But what do the survival
+curves and waiting time distributions
+look like for these estimates?!8
+
+We calculated the distribution of
+waiting times for sources shown in
+Table 4 using the mean and variance as
+given by Leridon (1977). In order to
+capture the effects of age-related
+changes in fecundability across the reproductive lifespan, we treat all conception waits as beginning at age 20,19
+and correct for age-specific changes in
+
+17Note that the ratio of expected waiting times
+here compares populations with the same mean initial fecundability. In the previous analyses we introduce heterogeneity in fetal loss (keeping the
+mean value of fetal loss the same for the heterogeneous and homogeneous populations) and compare
+the waiting times resulting from their implied fecundabilities.
+
+18We must use the beta distribution for comparative purposes. It is the one that has been most commonly used. The results of Heckman and Walker
+(1990) suggest that the choice of function does not
+greatly affect the results.
+
+19The mean age at marriage for the Hutterite
+(Majumdar and Sheps, 1970) sample is about 19.95.
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+ 
+
+122 Weinstein et al. Social Biology
+TABLE 4
+ESTIMATES OF DISTRIBUTION OF FECUNDABILITY (BETA DISTRIBUTIONS)?
+FECUNDABILITY
+? MEAN WAITING TIME
+Variance
+AUTHOR Mean (x100) Heterogeneous Homogeneous Ratro
+Henry (1964)4.....c:cccccsecsceeseeeeee 0.318 3.33 6.00 3.14 1.91
+Berquo et al. (1968)°.............004 0.193 1.096 7.88 5.18 1.52
+Jain (1969)* . cunnvsssansies sxe pes raed tes 0.163 0.609 8.20 6.14 1.34
+Potter and Parker (1964) ........... 0.144 0.580 10.03 6.94 1.45
+Majumdar and Sheps (1970)... 0.252 0.94 4.75 3.97 1.20
+Vincent (1961)4......cescesseeseesens 0.234 1.10 5.54 4.28 1.29
+
+*Adapted from Leridon, 1977. Berquo et al., 1968, and Vincent, 1961, data were calculated by Leridon.
+
+’Recognizable fecundability. Excludes pregnancies ending within two weeks after conception.
+
+‘Apparent fecundability. Includes all pregnancies recognized and declared (on the occasion of an interview) by the woman.
+4Effective fecundability. Includes only pregnancies ending in a live birth.
+
+fecundability with the standard schedule shown in Table 5 so that the per
+cent change in mean fecundability
+across ages corresponds to the per cent
+change in the standard schedule.
+
+For the heterogeneous case, we assume that fecundability*® is described
+by a beta distribution at each maternal
+age with a mean at age 20 equal to the
+mean show in Table 4 (and corrected at
+subsequent ages as discussed above),
+and with a constant variance over
+the subsequent period equal to the
+variance shown in Table 4. Again, we
+estimate effective fecundability separately for each percentile. The distribution of waiting times is computed using life-tables calculated separately for
+each percentile of the population (per
+month) and aggregated at the end of
+each month. As in the case in which the
+risk of fetal loss followed a beta function, we assume that the risk of a fertile
+conception during each year of mater
+20Fstimates of fecundability in Table 4 are for
+recognizable, apparent, and effective fecundability
+(see Table 4). We have excluded the estimates for
+the Henry data because his estimates are based on
+the first months following marriage. Also excluded
+are the estimates from Berquo et al. (1968) which
+may have included sterile couples.
+
+TABLE 5
+STANDARD SCHEDULES OF AGE-SPECIFIC
+FECUNDABILITY
+Age Effective Fecundability Apparent Fecundability
+20 wo... eeeeee 0.289 0.321
+21 wo... eee 0.294 0.326
+22 ..cceecees 0.296 0.329
+2D pomedina 05 0.296 0.329
+tr arse cares 0.295 0.327
+25 weceecees 0.291 0.323
+26 wecvaceees 0.286 0.318
+2 ua rie pines we 0.280 0.312
+28 wc. cceeeee 0.276 0.307
+29 ..cccceeee 0.271 0.302
+30s vaveawe ws 0.265 0.296
+
+nal age is constant, but changes at the
+end of each 12-month period according
+to the predicted distribution at each
+maternal age. These analyses differ
+from the previous set because in this
+case, it is fecundability itself, not the
+risk of fetal loss which has a beta distribution.
+
+We first examine the survival curve
+based on the Hutterite data (Majumdar and Sheps, 1970) shown in the top
+panel of Figure 6.2! In both the homo
+2!1These data used by Majumdar and Sheps include only women who reported at least one live
+birth, at least nine months after marriage. Unlike
+
+ 
+ 
+
+Vol. 40, No. 1
+geneous and heterogeneous cases, 50
+per cent of the women have conceived
+within 3 months, 75 per cent within 9
+months, and over 95 per cent within
+18 months. After Month 16, in both
+the homogeneous and heterogeneous
+cases, less than 1 per cent of all conceptions occur in any given month
+(lower panel of Figure 6).
+
+The differences between the heter~bgeneous and homogeneous cases are
+Sexamined in Figure 7. The top panel
+‘Shows the differences between the surfival functions at each month; the
+dower panel displays the difference in
+
+he proportions conceiving during each
+Cnonth measured from initial exposure
+nat age 20.2? The differences in the cuqnulative proportions who have not
+<tonceived (top panel) reach a maxigpum of just over 4.5 per cent at a du‘fation of eight months. By Month 28
+She differences consistently fall below 1
+“per cent. Differences in the proporPtions conceiving in any single month
+flower panel) are small. At only four
+
+‘durations (months two through four)
+Ho the differences in the proportions
+onceiving exceed one-half of 1 per
+went.
+3 Differences between the heteroge“neous and homogeneous cases for four
+fof the sources given in Table 4 are
+shown in Figure 8. These cases represent an initial mean fecundability of
+0.14 to 0.25—a reasonable range for
+
+the data used by Heckman and Walker (1990), they
+therefore necessarily exclude women in a nonsusceptible state owing to pathological sterility.
+
+22Because we are modeling populations with
+equal initial mean fecundability, the proportions
+conceiving (apart from our error tolerance in estimating the beta distribution) during the first month
+are the same in the homogeneous and heterogeneous cases.
+
+Fetal Loss
+
+123
+
+first birth intervals. The top panel
+shows that the differences in the survival function increase rapidly during
+the first year, then decline slowly. After about four years (50 months), none
+of the differences exceeds 2 per cent.
+The maximum difference in each case
+is below 8 per cent and occurs within
+the first year and a half following the
+start of the conception wait. Differences in the monthly proportions conceiving are quite small, with the exception of only a few months, less than
+one-half of 1 percentage point separates the homogeneous and heterogeneous cases. These differences are
+most apparent in the first few months
+following onset of exposure.
+
+DISCUSSION
+
+We focused on how heterogeneity in
+fetal loss affects the distribution of
+waiting times to conception. Based on
+our earlier work, we had anticipated
+that variation in fetal loss would have
+a large effect for two reasons. First,
+because we had found that effective
+fecundability was highly sensitive to
+the level of fetal loss (Wood and Weinstein, 1988); and second, because heterogeneity in fetal loss has a large
+effect on the variance in effective fecundability (Wood and Weinstein,
+1990).
+
+The results of our first analyses show
+that the effects of variation in fetal loss
+on the distribution of waiting times to
+conception are primarily confined to
+the tail (indeed to the extreme tail) of
+the distribution. Unless variation in fetal loss is extremely large or a substantial proportion of observed waiting
+times are initiated at late ages, variation in fetal loss within any age group
+
+ 
+ 
+
+124 Weinstein et al. Social Biology
+
+Hutterite Deto (Wajumder & Sheps, 1970)
+
+0.9
+0.8
+0.7
+0.6
+
+0.5
+
+Cumulative Proportion Not Conceiving
+
+ 
+
+—|
++
+©
+N
+al
+oO
+=
+8 02 ~
+A Ne
+00 0.1 nt
+KY,
+
+S Son nt
+wm 0 OT f-3-0) -¢ —
+cr 0 . 6 12 18 24 30 36
+an
+2 Months
+= O Wemogenceus + Weteregeneen
+SS
+on
+2 0.26
+a ,
+=> 0.24
+6
+
+0.22
+=
+=
+a 0.20
+S
+. = 0.18
+= rj
+5 =
+sy *v 0.15
+> e
+aa Ss 0.14
+co rey
+oO
+3 e 0.12
+
+°
+
+= = 0.10
+Ss a
+o) © 0.08
+A a.
+
+0.06
+
+0.04
+
+0.02
+
+0.00
+
+O Hemegencers + Heteregeneeus
+
+Fic. 6.—Comparison of heterogeneous and homogeneous fecundability when initial mean fecundability is equal to the observed mean for Hutterite data (Majumdar and Sheps, 1970). Upper
+frame: Proportion of couples who have not conceived by duration (in months) from onset of exposure. Lower frame: Proportion of couples who conceive at each duration (in months).
+
+ 
+Vol. 40, No. 1-2 Fetal Loss 125
+
+Hutterite Dote (Majumdor & Sheps, 1970)
+
+an
+= 0.0100
+»
+.
+yo
+e&
+eo
+©» 0.0000 4 i
+‘ec
+=
+= " >]
+© 0.0100 a
+— &
+t=
+oe
+a
+o
+2 0.0200 A ;
+. ty
+z wan
+2 -0.0300 4
+> i”
+E
+=
+o a
+= +0.0400
+xy
+wu .
+ce
+oe
+@ 70.0500 TIT Tr
+= 12 3 4 5 6 7 B 9 10191213 8415 1617 18 19 20 21 22 23 24 25 26
+ail Month
+O Hemegen. — Hetereg.
+0.016
+
+0.014
+0.012
+0.010
+0.008
+0.006
+0.004
+0.002
+0.000
+
+-0.002
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+-0.004
+
+Difference in Proportion Conceiving
+
+-0.006
+
+-0.008
+
+ 
+
+-0.010
+12 3 4 5 6 7 & 9 101112 1314 15 1617 18 19 20 21 22 23 34265 26
+Wonth
+
+O Homegen. — Heterag,
+
+Fic. 7.—-Differences between the homogeneous and heterogeneous distributions when initial
+mean fecundability is equal to the observed mean for Hutterite data (Majumdar and Sheps, 1970).
+Upper frame: Difference in the cumulative proportion who have not conceived. Lower frame: Difference in the proportion who conceive at each duration
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+126 Weinstein et al. Social Biology
+
+Homogeneous — Heterogeneous Coses
+
+ 
+
+: - Po
+-_
+2 000 4
+: RK
+re ye
+> . \ ee
+= A
+3-002 ea
+S g
+= -003 \,
+2 é v
+= ~ 7
+: ~0.04 : n
+°
+> -0.05
+€
+o
+.
+= -0.07
+= 7-008 Ae TT —1
+
+ 
+
+12345 6 7 8 9 1013121314156 1617 1819 2021 22 23 24 25 2627
+Month
+
+O dein{t968) © Majumder & Sheps (1970) 4 potter (1964) A Vincent (1968)
+
+0.020
+0.018
+on16 
+Difference in Propostion Conceiving
+
+0.014
+0.012
+0.010
+0.008
+0.905
+9.004 a
+9902 nt aA,
+
+9.999 -1 nn x Sa
+
+~.
+-90°92 - “Bs 70-8: =e aoa
+-9.694 ~eegngrgc gc fia 7
+
+-9.995
+
+-0.008
+
+ 
+
+ 
+
+ 
+
+-9910 $e
+123 45 6 7 8 9 10111213 14151617 18 19 20 28 22 23 24 25 2627
+
+Month
+
+O dela (1869) oo Majumdar & Sheps (1970) + potter (1964) & Vincent (1961)
+
+Fic. 8.—Differences between the homogeneous and heterogeneous distributions when initial
+mean fecundability is equal to the observed mean for four sources of data on waiting times to conception (Leridon, 1977). Upper frame: Differencé in the cumulative proportion who have not conceived. Lower frame: Difference in the proportion who conceive at each duration.
+ 
+
+Vol. 40, No. 1-2
+
+does not appear to explain much variation in conception waits. Our modeling shows that the effects of heterogeneity in fetal loss on waiting times to
+conception are greatest at the older reproductive ages (age 35 and above)
+when fecundability is lowest. Because
+most empirical studies of fecundability
+have been based on first intervals, consequently on intervals beginning at
+younger ages, we conclude that hetereogeneity in fetal loss does not explain
+athe variation in fecundability that has
+Seen observed for first intervals.
+3 Other factors that may have an imChortant effect on the variation in fe<tundability are the length of the fertile
+“period and the probability of concep“tion during the fertile period, given
+‘that sexual intercourse has occurred.
+There has been some past disagree‘Ament regarding estimates for these factors (Bongaarts, 1983; Royston, 1982).
+«Ongoing work by Allen Wilcox and his
+passociates may provide some guidance
+or modeling these components of fe-cundability in the near future.
+> So far, though, our results suggest
+phat at early ages variation in effective
+fecundability may largely reflect the
+proportion of nonsusceptible couples
+‘Sn the population.?3 This conclusion is
+in agreement with the results of HeckCman and Walker’s (1991) empiricallybased modeling exercise.
+
+Other evidence supports this interpretation as well. We expect fecundability to be approximately constant
+between ages 20 and 30 (Wood and
+Weinstein, 1988). If the population
+
+23For first birth intervals, lactational anovulation
+is not a factor. Therefore, these couples are likely to
+be sterile or possibly not reporting the use of contraception.
+
+Fetal Loss
+
+127
+
+were homogeneous with respect to fecundability at each age, only small
+changes in the distribution of waiting
+times would be caused by the changes
+in fecundability across ages. Similarly
+if fecundability varies across age, but is
+homogeneous at any given age, only
+small differences are found in comparison with the case in which it both varies across age and within the population. Our second set of simulations
+illustrates this point. When fecundability at early ages is homogeneous across
+women but declines over time, the distribution of waiting times to first conception differs by at most a little over 1
+percentage point at any month from
+the case in which fecundability is heterogeneous among women. Indeed, after the first year, the differences in the
+proportions conceiving in any single
+month is less than one-half of 1 per
+cent. We have seen that in the absence
+of sterility, the cumulative proportion
+who have not conceived by Month 25 is
+just 0.01 in the heterogeneous case.?4
+In all, if we exclude sterility, heterogeneity in fecundability from any (other)
+source at those early ages has little effect on the distribution of waiting times
+to conception.
+
+The results from our analyses of fetal loss do suggest, however, that it is a
+possible source of variation which may
+help to explain “low” estimates of fecundability (in the range of 0.07 to
+0.10) which have been based on
+higher-order birth intervals (Goldman
+et al., 1987; Guz and Hobcraft, 1991;
+Trussell et al., 1985). This explanation
+may operate through two mechanisms:
+
+24The sample survivor function for the Hutterite
+data used by Heckman and Walker shows that 4 per
+cent of the women had not conceived by Month 25,
+
+ 
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+128 Weinstein et al.
+
+first, through its direct effect at older
+ages; and, second, because birth intervals at later ages may represent an
+increasingly selected group. For example, in settings in which effective contraception is widely practiced, the actual women reproducing at older ages
+might include a large fraction of
+women who have not yet attained their
+desired family size because of recurrent pregnancy loss. Thus, the effective
+heterogeneity in fecundability, i.e., the
+variation among women who are still
+exposed to the risk of a fertile conception, may be even less than we have
+assumed.25 But even at older ages, in
+the absence of sterility, our results
+clearly show that high proportions of
+women would conceive within one
+year, and except at the very oldest
+ages, virtually all would conceive
+within five years.
+
+There is a built-in difficulty about
+testing our models empirically. If heterogeneity in fetal loss contributes importantly to variation in fecundability,
+we would be unlikely to be able to see
+it unless we examined higher-than-first
+order birth intervals or intervals initiated at late ages in very large samples.
+Our illustrative analyses further suggest that at early ages, in the absence of
+sterility, the overall effects of heterogeneity in fecundability are small.
+Again, large samples—at least an order of magnitude larger than we customarily have—would be required to
+discriminate among theoretical mod
+25While this selectivity might reduce the heterogeneity in fetal loss, it would simultaneously increase the risk of fetal loss among women who were
+still reproducing, so that the overall effect of fetal
+loss at these ages may still be substantial. Our estimates of fetal loss by age are based on “natural fertility” populations in which such selectivity is presumably minimal.
+
+Social Biology
+
+els. For descriptive purposes, any number of functional forms adequately capture the distribution of waiting times.
+What is the broader context of these
+results? Heckman and Walker (1991)
+have shown that ‘‘a fundamental nonidentification problem lies at the heart
+of the conventional indirect method for
+estimating the population distribution
+of fecundability” (p. 283). Using standard goodness-of-fit tests, many functional forms adequately describe data
+on waiting times to first conception.
+The finding that a variety of functions can be shown to be consistent
+with empirical distributions should not
+discourage efforts directed toward
+modeling the behavioral and physiological processes underlying fecundability. How one interprets the Heckman-Walker (1991) results ultimately
+depends upon the paradigm directing
+and guiding the organization of one’s
+research. We believe that empirically
+and theoretically driven modeling efforts can provide complementary contributions. Our own approach has been
+guided by theory. We have attempted
+to inform our modeling efforts by using
+current information on the biological
+and behavioral components of human
+reproduction. Our models are realizations or “translations” of our theories
+regarding how these components are
+related. Consistency with the data
+from empirical distributions cannot
+prove that the theoretical model is correct (although lack of consistency
+would force us to reconsider the theory). The present work suggests that
+for purposes of testing theoretically
+motivated models—models that attempt to discriminate among the underlying structural processes that determine fecundability—our efforts
+
+ 
+
+ 
+Vol. 40, No. 1-2
+
+should be directed toward examining
+reproductive experience after age 35,
+and toward incorporating information
+on characteristics of the fertile period
+as it becomes available.
+
+ACKNOWLEDGMENTS
+
+An earlier version of this paper was presented at the 1989 meetings of the Popula
+BRAMOWITZ, M., and I. A. SteGuN. 1965.
+Handbook of mathematical functions with
+formulas, graphs, and mathematical tables.
+Dover Publications, New York.
+
+LBERMAN, E. 1987. Maternal age and sponta
+wy neous abortion. Jn M. J. Bennett and D. K.
+
+“St Edmonds (eds.), Spontaneous and recurrent
+
+“= abortion. Blackwell Scientific, Oxford.
+
+BeRquo, E.S., R.M. Marques, M.L, MI
+LANESI, J. S. Martins, E. Pinuo, and I. Si
+MON. 1968. Levels and variation in fertility in
+
+Sio Paulo. Milbank Mem. Fund Quart.
+
+46(2):167-185.
+
+Woate, A. J., and D. R. McNetrx. 1972. The dis
+tribution by age at first marriage in a female
+
+© cohort. J. Amer. Statist. Assoc. 67:743-749.
+
+WELLER, F. 1957. An introduction to probability
+
+" theory and its applications, Volume I. 2nd
+
+ed. John Wiley and Sons, New York.
+
+“BRENCH, F. E., and J. E. Bierman. 1962. Prob
+abilities of fetal mortality. Publ. Hlth. Rep.
+
+—_ 77:835-847.
+
+OLDMAN, N., C. F. Westorr, and L. E. Paut.
+~~ 1987. Variations in natural fertility: The effect of lactation and other determinants. Pop.
+Stud. 41:127-146.
+
+“euz, D., and J. Hoscrart. 1991. Breastfeeding
+
+5S and fertility: A comparative analysis. Pop.
+Stud. 45:91-108.
+
+ARLAP, S., P. H. SHIONO, and S. RAMCHARAN.
+1980. A life table of spontaneous abortions
+and the effects of age, parity, and other variables. In J. H. Porter and E. B. Hook (eds.),
+Human embryonic and fetal death. Academic Press, New York.
+
+Hassoip, T., P. Jacoss, J. KLINE, Z. STEIN, and
+D. WarRBuRTON. 1984. Relationship of maternal age and trisomy among trisomic spontaneous abortions. Amer. J. Hum. Genet.
+36:1349-1356.
+
+Henry, L. 1964. Mortalité intra-utérine et fécondabilité. Population 19:899-940.
+
+Jain, A. K. 1969. Fecundability and its relation
+
+to age in a sample of Taiwanese women. Pop.
+
+Stud. 23:69-85.
+
+Decergber 2015
+
+f Machigan]
+
+ersl
+
+oOade
+
+Fetal Loss
+
+129
+
+tion Association of America, Baltimore,
+Maryland. The work extends analyses presented at the 1988 conference on Convergent Questions in Genetics and Demography, Ann Arbor, Michigan. We thank Ann
+Riley, Michael Stoto, and James Trussell
+for their comments and discussion. This research was supported by NICHD grant
+RO1-HD-20989.
+
+REFERENCES
+
+James, W. H. 1979. The causes of the decline in
+fecundability with age. Soc. Biol. 26:330-334.
+
+1983. Decline in coital rates with
+spouses’ age and duration of marriage. J.
+Biosoc. Sci. 15:83~87.
+
+Jasso, G. 1985. Marital coital frequency and the
+passage of time: Estimating the separate effects of spouses’ ages and marital duration,
+birth and marriage cohorts, and period influences. Amer. Sociol. Rev. 50:224-241.
+
+. 1986. Is it outlier deletion or is it sample
+truncation? Notes on science and sexuality.
+Amer. Sociol. Rev. 51:738-742.
+
+Jounson, N.L., and §. Korz. 1970. Distributions in statistics: Continuous univariate distributions, 2. Wiley and Sons, New York.
+
+Kaun, J. R., and J. R. Upry. 1986. Marital coital frequency: Unnoticed outliers and unspecified interactions lead to erroneous conclusions. Amer. Sociol. Rev. 51:734-737.
+
+Kinsey, A. C., W. B. Pomeroy, and C. E. MarTIN. 1948. Sexual behavior in the human
+male. Philadelphia, Saunders.
+
+Kinsey, A. C., W. B. Pomeroy, C. E. Martin,
+and P. H. GeBuarb. 1953. Sexual behavior in
+the human female. Philadelphia, Saunders.
+
+LENTEN, E. A., B.-M. LANDGREN, L. SEXTON,
+and R. Harper. 1984a. Normal variation in
+the length of the follicular phase of the menstrual cycle: Effect of chronological age. Brit.
+J. Obstet. Gynaecol. 91:681-684.
+
+LENTEN, E. A., B.-M. LANDGREN, and L. SExTON. 1984b. Normal variation in the length of
+the luteal phase of the menstrual cycle: Identification of the short luteal phase. Brit. J.
+Obstet. Gynaecol. 91:685-689.
+
+LERIDON, H. 1976. Facts and artifacts in the study
+of intrauterine mortality: A reconsideration
+from pregnancy histories. Pop. Stud. 30:319336.
+
+. 1977. Human fertility: The basic compo
+ 
+
+ 
+
+ 
+
+nents. Translated by J. F.. Helzner. Univ. of
+Chicago Press, Chicago.
+
+Mayumpar, H., and M. C. Sueps. 1970. Estimations of a Type I geometric distribution from
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:45 08 December 2015
+
+130
+
+observations on conception times. Demography 7:349-360.
+
+PoTTER, R. G., and M. P. Parker. 1964. Predicting the time required to conceive. Pop. Stud.
+18:99-116.
+
+RopriGuez, G., and J. Trusserr. 1980. Maximum likelihood estimation of the parameters
+of Coale’s model nuptiality schedule from
+survey data. WFS Technical Bulletin No. 7.
+World Fertility Survey, London.
+
+Royston, J. P. 1982. Basal body temperature,
+ovulation, and the risk of conception, with
+special reference to the lifetimes of sperm
+and egg. Biometrics 38:397-406.
+
+SantTow, G., and M. Bracuer. 1988. Do gravidity and age affect pregnancy outcome? Australian Family Project Working Paper No. 4.
+Research School of Social Sciences, Australian National University, Canberra.
+
+SHEPS, M. C. 1964. On the time required for conception. Pop. Stud. 18:85-97.
+
+SHEPS, M.S., and J. A. MENKEN. 1973. Mathematical models of conception and birth.
+Univ. of Chicago Press, Chicago.
+
+TRELOAR, A. E. 1974. Menarche, menopause,
+and intervening fecundability. Hum. Biol.
+46:89-107.
+
+Tretoar, A. E., R. E. Boynton, B. G. BEHN,
+and B. W. Brown. 1967. Variation of the human menstrual cycle through reproductive
+life. Internat. J, Fertil. 12:77-126.
+
+TRUSSELL, J., L. G. MarTIN, R. FELDMAN, J. A.
+PaLmMoreE, M. Concepcion, and D.N. L. Br.
+Asu Bakar. 1985. Determinants of birth interval length in the Philippines, Malaysia and
+Indonesia: A hazard model. Demography
+22:145-168.
+
+TRUSSELL, J., and C. WiLson. 1985. Sterility in a
+
+Weinstein et al.
+
+Social Biology
+
+population with natural fertility. Pop. Stud.
+39:269-286.
+
+Upry, J. R., and N. M. Morris. 1978. Relative
+contributions of male and female age to the
+frequency of marital intercourse. Soc. Biol.
+25:128-134.
+
+VINCENT, P. 1961. Recherches sur la fécondité
+biologique. Travaux et Documents, No. 37.
+I.N.E.D.-P.U.F., Paris.
+
+VoLLMAN, R.F. 1977. The menstrual cycle.
+Saunders, Philadelphia.
+
+Witcox, A. J., and B. C. GLapDEN. 1982. Spontaneous abortion: The role of heterogeneous
+risk and selective fertility. Early Hum. Develop. 7:165-178.
+
+Witcox, A. J., A. E. TRELOAR, and D. P. SanDLER. 1981. Spontaneous abortion over time:
+Comparing occurrence in two cohorts of
+women a generation apart. Amer. J. Epidemiol. 114:548-553.
+
+Witcox, A.J., C. R. WeinserG, J. F. O’ConNor, D. D. Barrb, J. P. SCHLATTERER, R. E.
+CANFIELD, E.G. ARMSTRONG, and B.C.
+NisuLa. 1988. Incidence of early loss of pregnancy. New Engl. J. Med. 319:189-194.
+
+Woop, J. W. 1989. Fecundity and natural fertility in humans. In S. Milligen (ed.), Oxford
+reviews of reproductive biology, Vol. 11.
+Clarendon Press, Oxford.
+
+Woop, J. W., and M. WEINSTEIN. 1988. A model
+of age-specific fecundability. Pop. Stud.
+42:85~113.
+
+. 1991, Heterogeneity in fecundability:
+
+The effect of fetal loss. In J. Adams et al.
+
+(eds.), Convergent issues in genetics and de
+mography. Oxford University Press, New
+
+York.
+
+ 
+
+ 
+

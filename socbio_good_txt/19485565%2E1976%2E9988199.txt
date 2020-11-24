@@ -1,0 +1,705 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+ 
+
+Academic performance in Hawaii
+
+N. E. Morton, W. T. Stout & C. Fischer
+
+To cite this article: N. E. Morton, W. T. Stout & C. Fischer (1976) Academic performance in
+Hawaii, Social Biology, 23:1, 13-20, DOI: 10.1080/19485565.1976.9988199
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1976.9988199
+
+fe Published online: 23 Aug 2010.
+
+ee
+(g Submit your article to this journal @
+all Article views: 2
+
+»
+Q View related articles @
+
+wa Citing articles: 2 View citing articles @
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:35
+
+ 
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+Academic Performance in Hawaii
+
+ 
+
+ 
+
+N. E. Morton, *W. T. Stout, and *C. Fischer
+
+Population Genetics Laboratory, University of Hawaii, Honolulu; and *State Department of Edu
+cation, Honolulu, Hawaii
+
+ABSTRACT: Differences among census tracts in academic performance are estimated and related
+by path analysis to social class, race, and school characteristics in the only American state without local autonomous school districts. Contrary to the Coleman Report, school has a significant
+effect and race does not, but social class is the major cause of census tract difference in academic performance. Without appropriate data on family resemblance, a genetic component in
+
+class structure cannot be delineated.
+
+Most studies of school performance are
+motivated to detect reparable weaknesses
+in the educational system or to elucidate
+familial effects (environmental and genetic) which condition the success of educational policy (Jencks, 1972). Another interest in school performance is as an indicator of neighborhood characteristics which
+influence health and welfare. Here we address the determination of academic performance among census tracts by social
+class, race, and school characteristics. This
+study leads to certain conclusions about
+the causes of these differences and to estimates of census tract indices which we
+believe will be useful for studies in epidemiology and the social sciences.
+
+MATERIALS AND METHODS
+
+The data consist of two files on elementary school attendance areas and census
+tracts, respectively, together with a table
+giving correspondences between the two
+data sets so that school characteristics can
+be distributed by census tract and vice
+versa. The school file gives mean converted
+scores for aptitude and achievement tests
+and information about students, teachers,
+
+and school administration during 1970~72
+(published and unpublished reports of the
+State of Hawaii Department of Education). The census tract file contains means
+for variables from the 1970 census (US.
+Department of Commerce publication
+PHC(1)-~88 and unpublished racial frequencies tabulated for the Office of Human
+Resources of the City and County of Honolulu). The table of correspondences provided by the State Department of Education gives for each census tract the number
+of enumeration districts (estimated by inhabited area to two decimal places) which
+were included in a given elementary school
+attendance area in 1971~72. These data are
+described more fully below.
+
+Test means from the school file were reduced to a correlation matrix which was
+submitted to two principal component
+analyses to determine the first eigenvector
+of the original matrix, which defines general performance, and the first eigenvector
+of the centroid-adjusted matrix, which defines specific performance by maximizing
+divergence among tests. The latter is virtually identical to the second eigenvector
+of the matrix before centroid adjustment
+
+13
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+14 Morton, Stout, and Fischer
+
+(Lalouel, 1973). The scores defined by
+these vectors were regressed on school
+characteristics to give indices of academic
+performance (Morton, 1974). Finally,
+scores and student variables were converted to census tract estimates, weighting
+by the number of enumeration districts included in that school attendance area from
+the given census tract. Regression on class
+and racial variables gave indices for path
+analysis of variation in school performance
+among census tracts (Rao et al., ms.). By
+these procedures, the main technical difficulty of the material, that some variables
+are known only for school districts and
+others only for census tracts, is effectively
+overcome.
+
+RESULTS
+THE SCHOOL FILE
+
+All public elementary schools in Hawaii
+administered School and College Ability
+Tests (SCAT) to grades 4 and 6, Sequential Tests of Educational Progress (STEP)
+to grades 4, 5, and 6, and the California
+Achievement Test (CAT) and California
+Test of Mental Maturity (CTMM) to
+second graders. Mean scores for grades
+within school were computed by the Department of Education and made available
+to us. There were 153 schools with information on all 17 tests. The correlation
+matrix has only positive elements, and the
+first eigenvector gives nearly equal weight
+to each test. As in other studies, there is
+no discrimination between ostensible measures of ability and achievement. After
+centroid adjustment, the first eigenvector
+is proportional to grade, reflecting rate of
+change of performance with age in different
+schools,
+
+We shall call these vectors and the scores
+which they specify performance (P) and
+grade (G), respectively (Table 1). Relative performance increases with age in
+schools with high values of G and de
+Social Biology
+
+creases with age in less favored schools.
+For each vector v, the corresponding score
+for the jth school is
+
+17
+
+y= ») U4 44/0; (1)
+i=1
+where x;; is the mean for the ith test in the
+jth school and o; is the standard deviation
+of the ith test among schools.
+
+These scores were now regressed stepwise on twelve school characteristics (Table 2). Performance was not significantly
+associated with small classes, high expenditure, or advanced teacher training, but
+was significantly associated with high
+teacher salaries and experience and low
+cost per student. This pattern may reflect
+attraction of experienced teachers from
+small rural to large suburban schools, but
+any interpretation must remain in doubt
+until socioeconomic variables are allowed
+for.
+
+RACE
+
+The 1970 census pooled part-Hawaiians
+with Hawaiians, Puerto Ricans with Caucasians, and Samoans with “others.” Mixtures were classified by paternal race. The
+random sample of the Hawaii Health Survey, which considers both parents for mixtures, gives correspondingly higher proportions of part-Hawaiians and “others.” We
+are here concerned not with the genetic
+composition of the population, but with the
+association of ethnic group and performance. For this purpose, the imperfections
+of census data are annoying but not critical.
+
+When performance is estimated for each
+census tract by the method of the first section and these estimates are regressed stepwise on ethnic proportions, weighting census tracts equally, means for each race are
+obtained. Filipinos and Hawaiians score
+low, while Orientals and Caucasians are
+high. Caucasians and Japanese maintain
+their high level from grades 2 to 6, but
+
+ 
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+ 
+
+Vol. 23, No. 1 Academic Performance in Hawaii 15
+
+TABLE 1
+PERFORMANCE VARIABLES, 1970-1972
+
+ 
+
+ 
+
+ 
+
+$.D.
+AMONG EIGENVECTOR
+ScHOOLS —_—_—__
+TEST GRADE MEAN* o, Performance Grade
+
+SCAT
+
+Verbal ...... boSbSE+N DEERE ER 6 50.2 5.2 0.251 0.312
+
+Quantitative ........ ce eeeees 6 59.5 3.5 0.240 0.304
+STEP
+
+Reading ....ccccecescevccees 6 55.2 6.9 0.251 0.331
+
+Mathematics .......seeeceees 6 46.4 4.9 0.253 0.305
+
+Writing eoeenensoesee@ee eeeeseeos eoeovees 6 §1.8 6.2 0.242 0.372
+
+Science ..... ACeESER UE REED : 5 51.0 5.7 0.256 0.040
+
+Social studies ....... seamed ad 5 44.8 4.2 0.254 0.050
+
+Listening ........ cee eececes . 5 59.6 6.8 0.247 0.099
+SCAT
+
+Verbal ..... PTT TT eT errr e 4 37.0 3.4 0.247 —0.127
+
+Quantitative ..... ccc cee ee ee 4 45.4 2.3 0.228 —0.242
+STEP
+
+FCO any ve pemeweg pgmsases 4 40.5 4.9 0.249 —0.144
+
+Mathematics ...... TET TTL 4 36.7 2.8 0.248 —0.094
+
+Writing aes eeostovrerevneseseve 4 39.8 4.6 0.242 —0.166
+CTMM
+
+Lamguave sscesssswxens cuwes Z 98.1 6.0 0.231 —0.081
+
+Non-language .......... TTT 2 102.9 5.4 0.230 ol OP
+CAT
+
+Voeabulaty «covccacyovecausa 2 30.4 3.5 0.227 —0.317
+
+Compyechension ..........e00- 2 29.1 3.6 0.225 —0.397
+
+Eigenvalve .........eceeeee vee aaa ams 13.74 0.89
+
+a
+*Two hundred was subtracted from SCAT and STEP mean converted scores. Raw scores were used for CAT, and IQ
+
+for CTMM.
+
+low-performing racial groups decline with tural factors not attributable to class, and
+
+grade. These means reflect associations be- so provide no evidence for or against ge
+tween ethnicity and class, as well as cul- netic differences among racial groups.
+
+TABLE 2
+ScHooLt CHARACTERISTICS
+
+S.D. REGRESSION COEFFICIENTS
+AMONG ee
+VARIABLES* Mran ScHOOLS Performance Grade
+No. of teachers in grades 0-6 ...... Teer Tr 27.3 13.8 —0.045 —0.012
+Pupil/teacher ratio ............ -iceneeaee aw 20.8 2.8 0.124 Tf
+Cost/student scsacccsceatweseaas stance vaws 740.1 144.0 —0.013¢ 7
+Per cent new teachers ........ ba¢adeamenanes 17.5 16.9 —0.044f ~—0.019f
+Per cent teachers with <5 yrs. training ...... 16.1 15.8 t —0.0177
+Per cent teachers with salary <$1,000/mo. ... 48.7 22.4 —0.048t T
+Per cent teachers with <10 yrs. experience ... 63.2 21.3 t 0.013¢
+Per cent teachers with 220 yrs. experience ... 6.3 8.7 0.067 —0.018
+
+* Four variables (mean class size, mean years of experience per teacher, per cent of teachers with master’s degree, and
+per cent of teachers with mainland training) were not significant in stepwise regression.
+
+t Not significant by stepwise regression (x7 << 2).
+
+¢ P <0.01 in final model.
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+16 Morton, Stout, and Fischer
+
+CLASS
+
+Class was defined by regressing performance scores stepwise on 28 variables
+from the 1970 census and 4 student variables (Table 3). Performance is most sig
+Social Biology
+
+COVARIANCE ANALYSIS
+
+When census tract estimates of performance are regressed on ethnic proportions
+and the class index, racial estimates adjusted for covariance with social class are
+
+TABLE 3
+
+CLASS CHARACTERISTICS
+
+VARIABLES*
+Sex ratio ...... cect cee eecceccecseceees eee
+Per cent under 18 yrs. ...-.....-eeee0- ert
+Per cent foreign stock ..........00 008 gai wig one
+Median school years completed ..............
+Per cent high schoo] graduates ...... Sedude se
+
+Children per married woman .............-Per cent resident in same house since 1965 ....
+Median income (thousands) ..........e.0005
+Per cent below poverty level .........
+Median persons per unit ....... Ter TET TTC
+Median unit value (thousands) .............
+Per cent single units ..........ccccceccccees
+Per cent more than one bathroom ...........
+Per cent moved into unit since 1967 .........
+Per cent moved into unit before 1950 ........
+Per cent lacking kitchen ...............0000e
+Free needy lunches/100 students/month .....
+Per cent absenteeism/student/day ...........
+
+R
+
+averse eesenvnece eeeeetaevseenve oe eerenvevene
+
+8.D. REGRESSION COEFFICIENTS
+AMONG
+MEAN TRACTS Performance Grade
+1.1 0.6 T 0.4044
+34.7 10.0 T —0.046f
+35.9 12.9 0.030 —0.017f
+11.7 1.6 —0.379 —0.265t
+59.8 18.7 0.172} 0.019f
+3.1 1.0 —0.629f ft
+48.9 20.2 0.048f 0.015t¢
+9.9 4.0 0.126 f
+9.9 7.2 0.0654 0.032}
+3.3 0.8 T 0.100
+33.1 13.8 0.034t 7
+68.8 33.3 —0.014 0.015f¢
+39.6 27.7 0.017 Tf
+35.2 18.4 j 0.026t
+10.0 9.2 0.067f t
+4.6 10.5 7 —0.035¢
+§1.1 23.2 0.013t f
+4.7 2.5 —0.197¢ f
+ele 0.85 0.58
+
+ 
+
+* Fourteen variables were not significant in stepwise regression: males 65+, children with female head, drivers to
+work, males employed, females employed, professional occupation, median rooms per unit, median contract rent, units
+built since 1968, units built before 1940, owner-occupied units, units lacking plumbing, students on welfare, and new
+
+sents tfcant b
+ot significant by stepwise regression (xy? << 2).
+¢ P< 0.01 in final model. ose)
+
+nificantly associated with a high proportion
+of secondary school graduates among adults
+25 years and older, residence for five years
+or more in the same house, low fertility of
+women 35-44 years old ever married, and
+low student absenteeism. Incorporation of
+9 other variables, including income and
+property value, increase the multiple regression coefficient only from 0.81 to 0.85.
+Foreign stock (defined as being foreign
+born or having at least one parent foreign
+born) and the percentage below poverty
+level reverse sign between simple and partial correlation. Grade score is also a complex function of parental education, income,
+fertility, and residential stability.
+
+obtained. Although still significantly higher
+than the rest of the population, Japanese
+are closer to the mean after covariance adjustment. Similarly, the performance of
+Hawaiians and Filipinos improves. When
+both class and school indices are used, the
+racial differences become still smaller, and
+the Japanese no longer significantly excel
+the others. Racial differences in grade
+score are entirely removed by covariance
+adjustment.
+
+Mayeske et al. (1973, p. 8) observed the
+same tendency for racial differences on the
+U.S. mainland to be reduced as more aspects of the background were taken into
+account, with no substantial change in rank
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+Vol. 23, No. 1
+
+order, and concluded: “Hence, we have accounted for almost all of the differences
+among students in Achievement that are
+associated with their racial-ethnic group
+membership by considerations that are primarily social in nature and origin.” Similarly, Nichols and Anderson (1973) found
+that most of the IQ difference between
+mainland Blacks and whites disappeared
+within neighborhoods, and Rao et al.
+(ms.) concluded from path analysis of the
+Coleman Report that at least 80 per cent
+of the racial difference was due to covariance between race and cultural factors.
+We would expect cultural factors to be at
+least as important in Hawaii, because of
+the short exposure of the low-performing
+groups to the American milieu.
+
+When census tract estimates of performance are regressed on the class, racial,
+and school indices, all three partial regression coefficients are highly significant.
+Thus, school characteristics contribute to
+prediction of academic performance after
+allowance for class and race, but one cannot say from this analysis whether the significant partial regression is due to covariance between schools and imperfectly
+estimated class indices or to an independent effect of schools.
+
+The same method which distributed
+school performance among census tracts
+gives class and racial indices for schools.
+When performance is regressed on school
+variables and the two indices, estimates
+of the effects of school characteristics adjusted for covariance with the student body
+are obtained. Performance is associated
+with high teacher experience (¢ = 3.31),
+low expenditure per student (¢ = —5.16),
+and small classes (¢ = —2.26). No other
+variable has a significant partial regression.
+This is a much simpler pattern than was
+obtained in Table 2 without covariance adjustment for student body variables. It
+suggests that performance is optimized by
+
+Academic Performance in Hawaii
+
+17
+
+small classes, experienced teachers, and
+large schools. However, the possibility that
+these associations are due to inadequate
+covariance control over student body variables cannot be excluded, since teacher and
+school characteristics have not been (and
+in part cannot be) randomized among
+neighborhoods.
+
+Grade score is negatively associated with
+new teachers (¢ = —4.21) and high experience (t = —2.79). This finding suggests
+that in schools where performance declines
+with grade, teachers familiar with the
+school but without long teaching experience
+may optimize performance. If so, both inexperienced and highly experienced teachers
+should be placed preferentially in the better schools, with rotation of moderately
+experienced teachers through the lower
+achieving schools. However, the usual caution about covariance analysis applies, and
+this suggestion is at most a hypothesis to
+be tested.
+
+CENSUS TRACT SCORES
+Performance is subject to errors of estimation due to small samples and conversion from school attendance areas to census tracts. It therefore seems useful to
+combine these direct estimates with the
+three indicators. Equation (1) gives the
+score
+
+y = 0.1535 P + 0.2097 S
++ 0.1759 C + 0.1856 R,
+
+where P is performance and S, C, and R
+are indices from school, class, and race,
+respectively. If 4 and o are respectively
+the mean and standard deviation of y
+among census tracts with known P, S, C,
+and R, a convenient index is y’=5-+
+(vy —p)/o, which has a mean of 5, unit
+variance, a range from 2 to 8, and approximates the probit of predicted school performance. Values of y’ have been filed with
+the National Auxiliary Publication (NAPS)
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+18 Morton, Stout, and Fischer
+
+School
+
+Race
+Performance ee
+
+Class
+
+Social Biology
+
+Grade
+
+Fic. 1.—Plot of the first and second eigenvectors of the centroid-adjusted correlation matrix.
+
+for use
+studies.
+
+in subsequent epidemiological
+
+PATH ANALYSIS
+
+Covariance analysis, although useful to
+predict performance, does not allow for
+estimation errors in the independent variables and therefore gives no rigorous evidence on causation. Path analysis, however,
+allows us to test causal hypotheses (Rao
+et al., ms.). We are especially interested
+in the hypothesis that race and school characteristics are related to performance only
+through their covariance with class and are
+therefore not causal. The alternative hypothesis is that race and school characteristics are not collinear with class but exert
+an independent effect on performance. Such
+an effect of school variables must be environmental, but a racial effect could in
+principle be genetic. Without critical data
+on family resemblance, there can be no
+distinction between genetic and environ
+mental effects. The logical error that noncollinearity of race and class implies a genetic effect of race has plagued behavior
+genetics. Here we use a different and valid
+principle, that rejection of the null hypothesis of collinearity is a necessary but not
+sufficient condition for asserting a genetic
+component in racial effects.
+
+Correlations between indices and effects
+are given in Table 4. No model without
+school as a cause was acceptable (P<
+0.05), in contrast to the Coleman Report
+on U.S. schools where effects of statewide
+educational systems were swamped by local
+
+TABLE 4
+
+CORRELATIONS OF INDICES AND EFFECTS
+
+Indices G 5 Cc R
+
+Performance (P)....
+Grade (G) .........
+School index (S) ...
+Class index (C) ....
+
+0.142 0.622 0.851 0.816
+.-- 0.010 0.080 0.158
+0.512 0.598
+
+..» 0.831
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+ 
+
+Vol. 23, No. 1
+
+factors (Rao et al., ms.). Conversely, the
+racial effect which was significant in the
+Coleman Report is nonsignificant in Hawaii (Figure 2, Model 1). The best fit is
+obtained when race acts on grade score but
+not performance (Model 2), although a
+
+[cl [si]
+oa “ /i Model |
+aa x327 61
+©) () O5<P<T
+RE(S,P)= 291% 074
+of, Gj eo \e RE(C,P)= 893% 029
+
+“/1 Model 2
+/-——, x3=608
+(R) (s) y<P< 2
+
+RE(S,P)= 302% 073
+
+RE(C,P)= 892% 028
+
+[P] [s]
+si
+[si]
+\ 3 oils - / Model’S
+Che | x3=610
+(Ss) 1<P«< 2
+
+RE(R,P)= 312% 077
+RE(S,P)= 306% 062
+RE(C,P)s 638% 065
+
+‘\ wf 16
+
+Fic. 2.—Causal systems for academic performance in Hawaii. C = class, R = race, S = school,
+P=performance, G=mgrade score, J = index.
+Assumed parameters are indicated by asterisks.
+
+racial effect on performance is not excluded
+(Model 3). Assumptions about the precision of indices have appreciable effects
+on tests of goodness of fit and estimates
+of relative direct effects. However, extensive trials of alternative models did not
+improve the fit or substantially alter the
+conclusions of Figure 2. The relative direct
+effects of school and race are about 0.3,
+indicating that two random schools or
+races differing by 15 points in performance
+would differ by only 4-5 points if the other
+causes were randomized. The relative di
+ 
+
+ 
+
+Academic Performance in Hawaii 19
+
+rect effect of social class is at least twice
+as great, in agreement with the Coleman
+Report.
+
+DISCUSSION
+
+The primary objective of this study was
+to estimate census tract scores for academic
+performance to be used as social indicators.
+A second objective was to infer the causes
+of differences in performance among census
+tracts. Path analysis suggests social class
+as the main determinant, but a significant
+effect of school characteristics. Unlike the
+national survey in the Coleman Report,
+neighborhood socioeconomic differences do
+not swamp regional efforts to provide equal
+educational opportunity in the only American state which has no autonomous local
+school districts. Elsewhere, school districts
+depend largely on their members for direction and tax support, with consequences
+that are highly predictable from sociocultural indices.
+
+Despite the considerable cultural and
+linguistic differences among ethnic groups
+in Hawaii, race exerts all or most of its
+effect on academic performance through
+covariance with class and school characteristics. It is therefore unlikely that racial
+differences in Hawaii are to any appreciable extent genetic, but a rigorous test
+would require a study of resemblance of
+half-sibs or foster sibs in racially mixed
+families. Of more practical interest is the
+suggestion from covariance analysis that
+high teacher experience, large schools, and
+small classes enhance general academic
+performance, while teachers familiar with
+the school but without long teaching expeience may have the best effect in schools
+where performance declines with grade.
+
+On the U.S. mainland there is a significant covariance between midparent genotype and family environment, accounting
+for 12 per cent of the IQ variation of children (Rao et al., 1974). We might conjec
+ 
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+20 Morton, Stout, and Fischer
+
+ture that the genetic component of class
+differences in academic performance would
+be less in Hawaii, because of the recent
+exposure of the poor-performing groups to
+the American environment. The only family study of academic performance in Hawaii did not use an index of family environment and therefore could not estimate the
+genetic component in class differences
+(Trimble and Mi, 1973).
+
+Causal analysis in sociology traditionally
+imposes one set of preconceptions, without
+testing their goodness of fit or examining
+other possible models. Our study illustrates
+the alternative approach, in which con
+Social Biology
+
+ceivable determinate models are compared,
+selecting those which are compatible with
+the data. By accepting the scientific convention that error can be rejected, but
+truth never proven, causal analysis can be
+a valuable tool instead of an exercise in
+solipsism.
+
+ACKNOWLEDGMENTS
+
+PGL paper No. 144. This work was supported in part by a grant GM 17173 from the
+U.S. National Institute of Health. We gratefully acknowledge the assistance of Dr. Shiro
+Amioka in securing data from the State Department of Education and of Shirley Yee,
+Ruth Lew, and Helen Tomiyasu in data processing.
+
+REFERENCES
+
+Jencks, C. 1972. Inequality. A reassessment of
+the effect of family and schooling in America.
+Basic Books, New York.
+
+LaALovEL, J. M. 1973. Topology of population
+structure, p. 139-152. In N. E. Morton (ed.),
+Genetic structure of populations. Univ. of Hawaii Press, Honolulu.
+
+Maveske, G. W., T. Oxapa, A. E. BEaArTon, Jr.,
+W. M. Couen, and C. E. Wister. 1973. A study
+of the achievement of our nation’s students.
+DHEW Pub. No. (OE) 72-131. Government
+Printing Office, Washington, D.C.
+
+Morton, N. E. 1974. Analysis of family resemblance. I. Introduction. Amer. J. Hum. Genet.
+26:318~330.
+
+NicHots, P. L., and V. E. Anperson. 1973. Intellectual performance, race, and socioeconomic
+status. Soc. Biol. 20:367~374.
+
+Rao, D. C., N. E. Morton, and S. Yee. 1974.
+Analysis of family resemblance. II. A linear
+model for familia] correlation. Amer. J. Hum.
+Genet. 26:331-359.
+
+Rao, D. C., N. E. Morton, R. C. Euston, and
+S. Yer. Causal -Analysis of academic performance. Ms.
+
+TrmmBLe, B. K., and M. P. Mr. 1973. Estimates
+of components of variation in academic aptitude and achievement scores of students in
+Hawaii. Hum. Hered. 23:501-510.
+

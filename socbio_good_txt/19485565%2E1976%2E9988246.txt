@@ -1,0 +1,814 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Ethnic differentials in neonatal and postneonatal
+mortality: A birth cohort analysis by a binary
+variable multiple regression method
+
+Susan C. Gee , Eun Sul Lee & Ron N. Forthofer
+
+To cite this article: Susan C. Gee , Eun Sul Lee & Ron N. Forthofer (1976) Ethnic differentials
+in neonatal and postneonatal mortality: A birth cohort analysis by a binary variable multiple
+regression method, Social Biology, 23:4, 317-325, DOI: 10.1080/19485565.1976.9988246
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1976.9988246
+
+fn Published online: 23 Aug 2010.
+(FB crs | ei
+Submit your article to this journal @
+lil Article views: 3
+N
+Q View related articles 4
+
+(7) Citing articles: 12 View citing articles @
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:36
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+ 
+
+Ethnic Differentials in Neonatal and
+Postneonatal Mortality: A Birth Cohort
+Analysis by a Binary Variable
+
+Multiple Regression Method
+
+DB
+
+ 
+
+Susan C. Gee, *Eun Sul Lee, and *Ron N. Forthofer
+
+Biometrics Division, Office of Controller, Veterans Administration, Washington, D. C.; and *School of Public
+Health, The University of Texas Health Science Center, Houston, Texas
+
+ABSTRACT: Ethnic differentials in neonatal and postneonatal mortality in a birth cohort of
+Spanish surname, white (non-Spanish), and nonwhite infants in Houston, Texas, were analyzed
+with legitimacy status, mother’s age, birth order, and birth weight controlled separately and
+simultaneously. In the presence of all factors, Spanish surname and non-Spanish white infants
+had a neonatal mortality risk about 13 per cent below average; nonwhite (primarily Black)
+infants, 30 per cent above average. Adjusted for all four factors, the risk for nonwhites was 8 per
+cent below average and for Spanish surname infants 2 per cent below average, while it rose to
+almost $ per cent above average for non-Spanish white infants. Birth weight and legitimacy status
+were responsible for most of the change. The four factors had less effect on postneonatal
+
+mortality, with legitimacy status seeming to have the greatest influence.
+
+The decline in infant mortality in the
+United States has been one of the notable
+health accomplishments in this century.
+The rate of decline, however, has not been
+uniform for all racial and ethnic groups.
+Numerous studies have been conducted to
+document ethnic differentials in infant
+mortality. These studies have shown that
+nonwhite babies have a higher risk of
+dying than do their white counterparts
+(Shapiro et al., 1965; Shah and Abbey,
+1971; Scurletis et al., 1973). While the
+white-nonwhite differentials have been
+widely documented, few studies have
+given attention to the Mexican-American
+group, a major ethnic group in the Southwest.
+
+The vast majority of the research on
+infant mortality has been more descriptive
+than analytic. Although descriptive studies are important in order to examine patterns of disease and mortality trends (Fox
+et al., 1970), more analytic studies are
+needed to understand the patterns and
+
+trends better. Many studies have indicated
+that infant mortality is associated with
+each of the following social and demographic factors: low birth weight; very
+young and very old mothers; the first order
+birth and very high order births; and illegitimacy (Chase, 1969; Erhardt et al.,
+1970; Chase and Erhardt, 1973; Burris,
+1974). The most common analytic procedure to study these relations has been
+standardization or  cross-classification.
+Unfortunately, this strategy has been severely hampered by practical limitations.
+The number of observations is usually too
+small to permit the separation of the effects of any more than two or three factors. Alternative analytic procedures employed in some studies include correlation,
+analysis of covariance and multiple regression (Wells et al., 1958; Cochran,
+1957; Feldstein, 1966).
+
+This study examines ethnic differentials
+in neonatal and postneonatal mortality
+among three ethnic groups: Spanish sur
+317
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+318
+
+name, white (other than Spanish surname), and nonwhite (virtually all
+Blacks). In our analysis the effects of various social and demographic factors are
+controlled separately and simultaneously
+by means of a binary variable multiple
+regression method. This study analyzes infant deaths in a birth cohort rather than
+infant deaths and live births that occurred
+in a calendar year.
+
+MATERIALS AND METHODS
+
+The basic data source for this study is
+the birth and infant death certificate information for the years 1958-60 obtained
+from the Houston Health Department. Infant death certificates were matched with
+their birth certificates so that variables
+from both records might be utilized. The
+birth cohort analyzed in this study comprises single live-born infants in Houston,
+Texas, born to Houston residents during
+the years 1958 and 1959. Plural births are
+excluded since additional factors are involved in mortality associated with these
+births. The total population size of this
+study included 46,320 single live births. A
+total of 118 live births were excluded because of erroneous or missing information
+for certain items.
+
+The major limitation of our data is the
+omission of infant deaths among the
+1958-59 birth cohort that were registered
+outside of Houston (infant deaths among
+out-migrants). This omission poses less of
+a problem for neonatal mortality than for
+postneonatal mortality. Although it is very
+difficult to assess the magnitude of this
+problem directly, an examination of unmatched infant deaths (infant deaths
+among in-migrants) may provide an indirect indication. Since Houston is a rapidly
+growing city, the number of infant deaths
+among out-migrants is believed to be
+smaller than the unmatched infant deaths.
+Only 4.2 per cent of resident infant deaths
+registered in Houston during the study
+
+Gee et al.
+
+Social Biology
+
+period could not be matched with births
+(2.9 per cent for neonatal and 8.6 per cent
+for postneonatal deaths). The percentage
+of unmatched infant deaths was about the
+same for all three ethnic groups (3.2 per
+cent for Spanish surnames, 4.4 per cent for
+other whites, and 4.1 per cent for nonwhites). This finding suggests that the
+omission of deaths among out-migrants
+would not significantly affect ethnic differentials observed in this study, although
+the overall mortality rate is slightly underestimated.
+
+Identification of Spanish surnames was
+achieved by means of a computer scan of
+surnames on certificates. The computer
+program was originally developed by
+Buechley (1961). It identifies over 95 per
+cent of all Spanish surnames as Spanish
+and only 2 per cent of non-Spanish names
+as Spanish (Jackson and Buechley, 1972).
+Although the computer approach obviously does not give results equivalent to
+the census bureau’s hand-coding procedure, it is satisfactory for the present study
+since census figures are not used to compute rates. The more important question is
+whether the Spanish surname criterion
+is satisfactory in identifying MexicanAmericans in Houston. While the problems of using a Spanish surname criterion
+are discussed extensively elsewhere (Hernandez et al., 1973), there is no other procedure available for use with existing vital
+statistics data. Information on birthplace
+of parents could be utilized in conjunction
+with the Spanish surname criterion, but
+unfortunately such information was not
+available in our data file.
+
+Quantitative information on completeness of vital registration for the study period is not available. The nationwide tests
+of completeness conducted with the 1950
+census showed that Houston’s registration
+of white births was 99.2 per cent complete
+while nonwhite births were 98.2 per cent
+complete (U.S. Public Health Service,
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 23, No. 4
+
+1955). It is believed that the completeness
+of death registration was equally good or
+even better than birth registration. Further improvement might have been accomplished by 1958, a major reason for
+the improvement being the increasing
+proportion of births occurring in a hospital
+(Spiegelman, 1970). The proportion of
+births taking place in hospitals in Houston
+increased from 96 per cent in 1950 to 98
+per cent in 1959 (City of Houston Health
+Department, 1959).
+
+In this study, neonatal and postneonatal
+mortality are considered the dependent
+variables. The neonatal period is defined
+as the first 27 days of life, and the postneonatal period covers ages 28 days and
+over but less than one year. These dependent variables are compared among three
+ethnic groups with adjustments for the effects of other influential variables. The
+ethnic groups along with other influential
+factors are considered the independent
+variables. The following four factors are
+considered:
+
+1. Legitimacy status. Two categories are
+considered: legitimate births, illegitimate
+births.
+
+2. Age of mother. Five groups are formulated: less than 20, 20-24, 25-29, 30-34, 35
+and older,
+
+3. Birth order. Five categories are used
+(considering live births only): first order, second order, third order, fourth order, and
+fifth and higher orders.
+
+4. Birth weight. Since weight is reported in
+pounds and ounces on birth certificates, and
+over seven ounces is rounded up to the next
+pound, only three categories are considered:
+less than 5.5 pounds, greater than or equal to
+5.5 pounds, and unknown birth weight.
+
+A binary variable multiple regression
+technique utilized by Feldstein (1966) is
+employed to analyze the data in this study.
+The purpose of using this technique is to
+ascertain the expected increases or decreases in the dependent’ variables
+(neonatal and postneonatal mortality) in
+each ethnic group when adjustments are
+
+Neonatal and Postneonatal Mortality
+
+319
+
+made for various combinations of the
+other independent variables under study.
+In other words, by using this particular
+analytic technique, the relationship of the
+ethnic groups to infant mortality may be
+examined in the absence of the effects of
+other influential factors. Since the multiple regression technique is an additive
+procedure, many simultaneous adjustments may be made for the effects of various factors influencing neonatal and postneonatal mortality.
+
+In this binary variable regression method, each independent variable, instead of
+representing the overall effect of a factor
+(maternal age, for example), will represent
+a single subclass of a factor (for instance,
+maternal age 20—24), taking the value one
+if an observation falls into that subclass
+and zero otherwise. Similarly, the dependent variable will be assigned a one if the
+infant dies and a zero if the infant survives
+the first year of life. Use of this method
+does not require any assumptions about
+the forms of the relations of the dependent
+and independent variables. It is assumed
+that there is no interaction between the
+effects of the factors included in the equation (Suits, 1957; Shah and Abbey, 1971;
+Feldstein, 1966; Melichar, 1965)
+
+The least square estimates of the regression coefficients are used for computing the percentage deviations from the expected value of the dependent variable.
+The deviation expressed in percentages
+measures the excess or deficit mortality
+associated with being in a particular subclass of a factor. Detailed computational
+procedures of adjusted percentage deviation and associated standard error have
+been given by Feldstein (1966).
+
+RESULTS
+
+Percentage deviations from the mean
+neonatal and postneonatal mortality rates
+were computed for each ethnic group. The
+gross effects are adjusted for various
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+320
+
+combinations of the other independent
+variables. These unadjusted and adjusted
+percentage deviations can be interpreted
+in a similar manner as standardized rates.
+It should be noted that the adjustment for
+all factors simultaneously includes only
+the factors under consideration in this
+study. Other variables which were not
+taken into account may have some influence on the results.
+
+NEONATAL MORTALITY
+
+Among the 1958-59 birth cohort in
+Houston, Texas, there were 914 neonatal
+deaths. Based on a total of 46,320 single
+births during this period, the mean
+neonatal mortality rate was 19.7 per
+
+Gee et al.
+
+Social Biology
+
+1,000. Percentage deviations are measured
+from this value.
+
+Table 1 shows the effects of adjustments
+for various combinations of factors in the
+study on ethnic groups, along with the
+approximate magnitude of standard errors. The unadjusted deviations show that
+Spanish surname infants and white (nonSpanish surname) infants have about the
+same chance of dying during the neonatal
+period, 12.7 and 13.8 per cent below average respectively, and nonwhite infants
+have the highest chance, 32.3 per cent
+above average. However, when adjustments are made for all factors under consideration, the results are changed. Nonwhite infants have the least risk of dying,
+
+TABLE 1
+
+UNADJUSTED AND ADJUSTED PERCENTAGE DEVIATIONS FROM THE MEAN
+NEONATAL MORTALITY RATE* BY ETHNIC GROUP
+
+Spanish Sumame Nonwhite White (Non-Spanish)
+Adjustmentst (N = 4,587) (NY = 13,748) {N = 27,985)
+Unadjusted... 0.0... cece cee eee eens —12.72 +32.34 — 13.80
+(9.87) (5.04) (2.65)
+One factor
+Legitimacy status ............000000e- — 10.64 +24.30 —10.20
+(9.88) (5.31) (2.75)
+Mother’s age ........ cece cece eee eees —12.68 +31.35 — 13.32
+Birth order ........... 2c cece eee cee eee —-13.99 +30.93 —12.90
+Birth weight... 00... 00... cee eee eee —0.72 +0.82 —0.28
+Two factors
+Legitimacy and mother’s age........... —10.90 +24.22 —10.11
+(9.89) (5.31) (2.75)
+Legitimacy and birth order ............ — 13.99 +30.93 —12.90
+Legitimacy and birth weight........... +0.38 —-3.44 +1.63
+Mother’s age and birth order .......... —14.65 +27.85 —11.28
+Mother’s age and birth weight ......... —1.02 +0.64 —0.15
+Birth order and birth weight........... —3.03 —1.89 +1.42
+Three factors
+All factors except
+legitimacy status ............0cceeeees —3.47 —3.83 +2.45
+(9.51) (5.08) (2.69)
+All factors except
+mother’s Age... ce cee ee ee ee ce eee eens —2.00 —7.11 +3.82
+All factors except
+DItth OFGE? cps on aa BHR Rew HEROS pe RPO —0.04 —-3.34 +1.65
+All factors except
+birth weight c.g se0 0s se ee cg na nese eee —12.94 +20.08 —7.74
+Four factors
+All factorS.... 0... cece cece eee eeeee ~—2.47 —8.37 +4.52
+(9.52) (5.33) (2.79)
+
+* Mean neonatal mortality rate is 19.73 per 1,000 births.
+
++ Standard errors are indicated in parentheses only for the first line of different combinations of adjustments, since the magnitude of standard
+
+errors are about the same for the remaining adjustments.
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 23, No. 4
+
+8.4 per cent below average, while white
+infants now have the highest chance of
+mortality, 4.5 per cent above average.
+Spanish surname infants have a percentage deviation of 2.5 per cent below average in the absence of the effects of all other
+factors.
+
+When adjustments were made for only
+one factor, the absence of the birth weight
+effect caused the greatest increase in the
+white and Spanish surname percentage
+deviations. White deviations increased
+from 13.8 per cent below average to 0.3
+per cent below average; and Spanish surname deviations increased from 12.7 per
+cent below average to 0.7 per cent below
+average. The absence of the effect of birth
+weight dramatically improved the nonwhite infant’s chances of survival during
+the neonatal period, suggesting that low
+birth weight among nonwhite babies is
+mainly responsible for the excess neonatal
+mortality among nonwhites. Next to birth
+weight, legitimacy status was another influential factor associated with neonatal
+mortality. The absence of the effect of this
+factor resulted in higher risks for white
+and Spanish surname infants. However,
+both these risks remained below average.
+Although nonwhite infants continue to
+have an above-average risk of neonatal
+mortality in the absence of the legitimacy
+status effect, the unadjusted risk was reduced by 25 per cent.
+
+The adjustment for birth order resulted
+in lowering the Spanish surname infants’
+risk of neonatal mortality to almost 14 per
+cent below average and the nonwhite infant risk to 30.9 per cent above average.
+The birth order adjustment increased the
+risk of white infants from 13.8 per cent
+below average to 12.9 per cent below
+average.
+
+Mother’s age was the one factor adjustment that had the least effect upon the
+risks of the different ethnic groups. The
+absence of this factor increased the risk of
+
+Neonatal and Postneonatal Mortality
+
+ 
+
+321
+
+white infants by approximately 4 per cent.
+It decreased the risk of nonwhite infants 3
+per cent. The risk for Spanish surname
+infants stayed approximately the same
+after this adjustment.
+
+As might be expected, the two-factor
+adjustment causing the greatest change in
+the unadjusted percentage deviations was
+the legitimacy status—birth weight combination. With this adjustment, risk of
+neonatal mortality for white infants increased to 1.6 per cent above average. Infants with a Spanish surname had about
+an average risk of death during the
+neonatal period when the effects of legitimacy status and birth weight were adjusted. The nonwhite deviation was reduced to 3.4 per cent below average with
+this adjustment.
+
+The lowest risk obtained by the Spanish
+surname infants was in the absence of the
+effects of mother’s age and birth order.
+The risk of Spanish surname infants, 14.6
+per cent below average, was lower than
+both the white and the nonwhite risks.
+
+For all three factor adjustments,
+Spanish surname infants had a belowaverage risk of dying during the neonatal
+period. However, the lowest deviation occurred in the presence of birth weight. The
+white risk of death during the first 27 days
+of life remained above average for every
+three-factor adjustment except the legitimacy status—mother’s age—birth order adjustment. The presence of the effect of
+birth weight resulted in the highest risk
+obtained by using three-factor adjustments on the nonwhite group.
+
+POSTNEONATAL MORTALITY
+
+Among the 1958-59 birth cohort in
+Houston, Texas, there were 337 postneonatal deaths. Since the total number of
+births during this period was 46,320, the
+mean postneonatal mortality rate was 7.28
+per 1,000. Percentage deviations are measured from this value. This method of
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+322
+
+computing postneonatal mortality rates is
+used by the National Center for Health
+Statistics (Grove and Hetzel, 1968). By
+using this particular computation, the sum
+of the neonatal and postneonatal mortality
+rates will be the infant mortality rate. It
+should be noted that this method fails to
+take into account the fact that infants
+whose lives end in neonatal death in reality no longer belong to the population at
+risk of postneonatal mortality.
+
+Table 2 shows the effects on ethnic
+groups of adjustments for various combinations of factors in the study. It is noted
+that there are more ethnic variations in
+postneonatal mortality than in neonatal
+mortality. In general, all explanatory factors considered in this study have much
+
+Social Biology
+
+less effect on ethnic differentials in postneonatal mortality than in neonatal mortality examined above.
+
+In the presence of all factors, nonwhite
+infants had the highest risk of dying of the
+three ethnic groups during the postneonatal period. Spanish surname infants
+had a 29 per cent deviation above the
+mean postneonatal mortality rate, while
+whites had the lowest risk of dying during
+the period, 49 per cent below average.
+After adjustments were made for all factors considered, nonwhites still had the
+highest risk and whites the lowest risk of
+dying after the first 27 days of life. Total
+adjustments did little to effect the Spanish
+surname risk of dying. However, in the
+absence of other factors in the study, the
+
+TABLE 2
+
+UNADJUSTED AND ADJUSTED PERCENTAGE DEVIATIONS FROM THE MEAN
+POSTNEONATAL MorRTALITY RATE* BY ETHNIC GROUP
+
+Spanish Surname Nonwhite White (Non-Spanish)
+Adjustmentst (N = 4,587) (V = 13,748) (N = 27,985)
+Unadjusted... 0... 0.0... cece eee eee eee +28.85 +90.96 —49.41
+(16.35) (8.34) (4.39)
+One factor
+Legitimacy status .............. ee eeee +32.29 +77.66 —43.45
+(16.36) (8.79) (4.56)
+Mother’s age .........2ce cee ce eee eees +29.10 +88.82 —48.53
+Birth order ........... 000 c cece cee eeee +23.21 +84.90 —45.51
+Birth weight......... 0.0... cece cae +31.76 +83.13 — 46.04
+Two factors
+Legitimacy and mother’s age........... +32.79 +77.26 — 43.33
+(16.37) (8.79) (4.56)
+Legitimacy and birth order ............ +26.25 +69.56 —38.47
+Legitimacy and birth weight ........... +34.90 +70.92 —40.56
+Mother’s age and birth order .......... +21.77 +74.93 —40.38
+Mother’s age and birth weight ......... +32.68 +81.30 —45.30
+Birth order and birth weight .......... +25.82 +76.55 —41.84
+Three factors
+All factors except
+legitimacy status ............. 0002 eee +24.39 +66.95 —36.89
+(16.42) (8.76) (4.64)
+All factors except
+mother’s age... .. cee eee ec cece eee +28.62 +62.28 — 35.28
+All factors except
+birth order ......... 0. cece cece eee +35.33 +70.62 — 40.48
+All factors except
+birth weight .......... 0. ccc ccc eee +24.63 +61.93 — 34.46
+Four factors
+All factors. ... 2.0... ccc eee cece eee eee +27.02 +54.87 —31.38
+(16.42) (9.20) (4.81)
+
+* Mean postneonatal mortality rate is 7.28 per 1,000 births.
+
+t Standard errors are indicated in parentheses only for the first line of different combinations of adjustments, since the magnitude of standard
+
+errors are about the same for the remaining adjustments.
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 23, No. 4
+
+nonwhite percentage deviation was reduced by 40 per cent—from 91 per cent
+above average to 55 per cent above average. The risk of white infants in the absence of all other factors in the study was
+increased from 49.4 per cent below average to 31.4 per cent below average.
+
+When adjustments were made for only
+one factor, legitimacy status seemed to be
+having the greatest influence on ethnic differentials. The percentage deviation of
+nonwhite infants dropped to 77.7 per cent
+above average in the absence of the effect
+of legitimacy status. The absence of
+legitimacy status caused the white infants
+and the Spanish surname infants to have
+more unfavorable percentage deviations
+than did the absence of any other single
+factor. The adjustment for mother’s age
+seemed to have the least effect on all three
+ethnic groups. Of all the one-factor adjustments, the absence of the birth order
+effect allowed the Spanish surname group
+to achieve its most favorable percentage
+deviation of 23.2 per cent above average
+risk.
+
+When adjustments for different combinations of two factors were made, more
+favorable percentage deviations from
+average risk emerged for nonwhites and
+Spanish surname infants. The adjustment
+reducing the nonwhite rate to its lowest
+value in the absence of two factors was for
+legitimacy and birth order. The interdependency of legitimacy status and birth
+order had a greater influence in reducing
+the deviation than did the interdependency of the two most important single adjustments—legitimacy and_ birth
+weight. Of all adjustments made, the adjustment causing the most reduction to the
+Spanish surname percentage deviation
+was mother’s age and birth order. These
+same two factors were the most important
+single adjustments for this ethnic group.
+The most favorable two-factor adjustment
+for the white group was mother’s age and
+
+Neonatal and Postneonatal Mortality
+
+ 
+
+323
+
+birth weight. However, this percentage
+deviation, 45.3 per cent below average,
+was higher than the unadjusted deviation
+of 49.4 per cent below average.
+
+In the absence of the effects of three
+factors, nonwhite infants emerged with
+a lower percentage deviation than in
+the previous adjustments. This occurred
+when adjustments were made for all factors except birth weight. Thus, legitimacy
+status, mother’s age, and birth order adjustments caused a greater reduction in
+percentage deviations than did a combination of the three most important single
+adjustments—legitimacy status, birth
+weight, and birth order. The interdependency of mother’s age with birth order and
+legitimacy status was more important than
+any of the two-factor combinations of
+these three variables. Of all the threefactor adjustments, the adjustment of all
+factors except legitimacy status caused the
+most reduction in the Spanish surname
+ethnic group. This finding is not surprising, since the absence of legitimacy status
+caused the Spanish surname deviation to
+increase more than in the absence of any
+other factor.
+
+SUMMARY AND CONCLUSIONS
+
+This study investigated neonatal and
+postneonatal mortality differentials among
+three ethnic groups based on infant death
+registration records matched with their
+birth registration records. Particular attention was given to the examination of
+changing ethnic differentials among three
+ethnic groups in the presence of all factors
+and in the absence of four sociodemographic factors. In the presence of all factors, both Spanish surname and nonSpanish white infants exhibit about a 13
+per cent below average risk of neonatal
+mortality and the risk for nonwhites
+(primarily Blacks) is more than 30 per cent
+above the average risk. In the absence of
+
+ 
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+324
+
+the effects of four factors, however, the
+Black—non-Black differential reverses.
+When adjustments were made for all four
+factors, Blacks had an 8 per cent below
+average risk and Spanish surname infants
+continued to have a below average risk,
+while non-Spanish white infants had almost a 5 per cent above average risk of
+neonatal mortality. Of the four sociodemographic factors, birth weight and
+legitimacy status were responsible for
+most of the changing differentials when
+statistical adjustments were made. Similar
+results between whites and nonwhites
+were obtained by Shah and Abbey (1966)
+in their investigation of neonatal mortality
+in Baltimore.
+
+There were more ethnic differentials in
+postneonatal mortality than in neonatal
+mortality. Four explanatory factors considered in this study have much less effect
+on ethnic differentials in postneonatal
+mortality than in neonatal mortality, suggesting that environmental factors not examined in this study are intervening after
+27 days of an infant’s life. Unadjusted differentials in postneonatal mortality pictured Black infants as having the highest
+risk (91 per cent above average), Spanish
+surname infants with the intermediate
+level of risk (29 per cent above average),
+and non-Spanish white infants with the
+lowest risk (49 per cent below average).
+The four factors examined do not have
+any effects on postneonatal mortality for
+Spanish surname infants, while they have
+
+Gee et al.
+
+Social Biology
+
+some influence for non-Spanish white and
+nonwhite infants. Of the four factors,
+legitimacy status seems to be having the
+greatest influence on ethnic differentials in
+postneonatal mortality.
+
+An unexpected finding in this study is
+that the Spanish surname neonatal mortality level, despite the group’s much less
+favorable socioeconomic conditions, resembles the Anglo experience rather than
+the Black experience. Further, the unexpectedly low neonatal mortality among
+Spanish surname births appears to be attributable to their more favorable birth
+weight distribution and full-term gestation
+period. Further research is needed, especially focusing on certain sociocultural
+factors associated with the MexicanAmerican family system which might encourage better care of mothers and children. On the other hand, the Spanish surname postneonatal mortality level is
+higher than that of Anglos, but still substantially lower than that of Blacks, which
+seems to reflect the influence of socioeconomic environment, nutrition, and access
+to health care
+
+ACKNOWLEDGMENTS
+
+This paper is a revision of a portion of the
+first author’s Master’s thesis (Gee, 1975), prepared under the guidance of the last two authors. The authors are grateful to the Houston
+City Health Department for providing basic
+data, to Benjamin Bradshaw for his helpful
+comments, and to Paul Callen for his assistance
+in data processing.
+
+REFERENCES
+
+BUECHLEY, R. W. 1961. A reproducible method of
+counting persons of Spanish surname. J. Amer.
+Statist. Assoc. 56:88-97.
+
+Burris, J. 1974. Neonatal and postneonatal mortality in a birth cohort: Houston, Texas, 1958-1960.
+M.P.H. thesis, School of Public Health, The University of Texas Health Science Center at Houston.
+
+Cuase, H.C., and C. L. ERHARDT. 1973. A study of
+risks, medical care, and infant mortality. September Supplement. Amer. J. Publ. Hlth. 63:156.
+
+CaasE, HELEN C. 1969. Infant mortality and weight
+
+at birth: 1960 United States birth cohort. Amer. J.
+Publ. Hith. 59:1618-1628.
+
+City oF Houston HEALTH DEPARTMENT, STATISTICAL SECTION. 1959. Natalities. Annual
+report. Houston, Texas.
+
+COCHRAN, W. 1957. Analysis of covariance: Its nature and uses. Biometrics 13:261-281.
+
+ERHARDT, C. H. ABRAMSON, J. PAKTER, and F.
+NELSON. 1970. An epidemiological approach to
+infant mortality. Arch. Environ. Hlth. 20:743757.
+
+FELDSTEIN, M. 1966. A binary variable multiple
+regression method of analyzing factors affecting
+
+ 
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:36 08 December 2015
+
+Vol. 23, No. 4
+
+peri-natal mortality and other outcomes of pregnancy. J. Roy. Statist. Soc. (Series A, Part 1)
+129:61-73.
+
+Fox, J. P., C. E. HALL, and L. R. ELVEBACK. 1970,
+Epidemiology, man and disease. The MacMillan
+Company, Collier-MacMillan Limited, London.
+
+GEE, SUSAN C, 1975. The effect of five demographic
+factors on neonatal and postneonatal mortality: A
+birth cohort analysis by a binary variable multiple
+regression method. M.S. thesis, School of Public
+Health, The University of Texas Health Science
+Center at Houston.
+
+GROVE, ROBERT D., and ALICE M. HETZEL, 1968.
+Vital statistics rates in the United States. U. S.
+Department of Health, Education, and Welfare,
+Public Health Service, National Center for Health
+
+_ Statistics, Washington, D. C.
+
+HERNANDEZ, J., L. ESTRADA, and D. ALVIREz.
+1973. Census data and conceptually defining the
+Mexican American population. Soc. Sci. Quart.
+53:67 1-687.
+
+JAcKsoN, E. W., and R. W. BUECHLEY. 1972.
+Computer identification of Spanish surnames.
+Boletin de la Oficina Sanitaria Panaméricana
+(English edition) 4(2):53-56.
+
+MELICHAR, EMANUEL. 1965. Least-square analysis
+of ecenomic survey data, p. 373-385. Proceedings
+
+Neonatal and Postneonatal Mortality
+
+325
+
+of the Business and Economic Statistical Section,
+American Statistical Association.
+
+SCURLETIS, T., C. TURNBULL, and D. CORKEY.
+1973. High risk indicators of fetal, neonatal, and
+postneonatal mortality. North Carolina Med. J.
+34:183-192.
+
+SHAH, F., and H. ABBEY. 1971. Effects of some
+factors on neonatal and postneonatal mortality:
+Analysis by a binary variable multiple regression
+method. Milbank Mem. Fund Quart. 49:33-57.
+
+SHAPIRO, S., E. SCHLESINGER, and R. NESBITT.
+1965. Infant and perinatal mortality in the United
+States. National Center for Health Statistics,
+Series 3, No. 4. Rockville, Md.
+
+SPEIGELMAN, MorRTIMER. 1970. Introduction to
+demography. Harvard Univ. Press, Cambridge,
+Mass.
+
+Suits, D. 1957. Use of binary variables in regression
+equations. J. Amer. Statist. Assoc. 52/548-551.
+U.S. Pustic HEALTH SERVICE. 1955. Birth registration completeness in the United States and geographic areas. 1950, Part II: Data for local areas.
+Vital Statistics—Special Reports, Selected Studies,
+Vol. 39, No. 4. National Office of Vital Statistics,
+
+Washington, D. C.
+
+WELLS, H., B. GREENBERG, and J. DONNELLY.
+1958. North Carolina fetal and neonatal death
+study. Amer. J. Publ. Hlth. 48:1583~-1595.
+

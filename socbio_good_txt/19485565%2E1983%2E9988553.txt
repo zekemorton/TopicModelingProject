@@ -1,0 +1,992 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+ 
+
+Age, period, and cohort effects on maternal
+mortality: A linear logit model
+
+Edward Jow-Ching Tu & Jane-Lan Christy Chuang
+
+To cite this article: Edward Jow#Ching Tu & Jane#Lan Christy Chuang (1983) Age, period, and
+cohort effects on maternal mortality: A linear logit model, Social Biology, 30:4, 400-412, DOI:
+10.1080/19485565.1983.9988553
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1983.9988553
+
+ 
+
+fa Published online: 23 Aug 2010.
+
+&
+(g Submit your article to this journal @
+
+all Article views: 9
+
+»
+Q View related articles 4
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:39
+
+ 
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+ 
+
+Age, Period, and Cohort Effects on Maternal ep Ps
+Mortality: A Linear Logit Model
+
+Edward Jow-Ching Tu and Jane-Lan Christy Chuang
+
+Bureau of Health Statistics,
+
+New York State Health Department, Albany, New York;
+and Department of Statistics and Division of Biostatistics,
+
+University of Rochester, Rochester, New York
+
+ABSTRACT: Cohort approach is used to disentangle age, period, and cohort effects on maternal
+mortality in New York State. By comparing various age * period * cohort linear logit models on
+the logits of maternal! mortality rates, we conclude that period and age effects are the dominant
+influences on maternal mortality, and cohort effect does not contribute as much as we expect
+after adjustment for age and period. The implications are that, as a set, changes in those temporal variables which cut across cohorts appear to be more important than changes in those varia
+bles which distinguish them.
+
+The risk of maternal mortality has
+undergone a most remarkable transformation within the lifetime of most
+Americans. From 1917 to 1977 maternal
+mortality dropped almost 99 per cent,
+exceeding the large decrease in the
+death rate at all ages from infectious diseases. During this period, the chance of
+a pregnant woman dying from pregnancy-related causes went approximately
+from one in 108 to one in 8,900. Maternai deaths accounted for 12 per cent of
+all deaths among women of childbearing
+age in 1917 and less than 1 per cent sixty
+years later (U.S. NCHS Vital Statistics
+reports).
+
+Given the extremely rapid decline in
+maternal mortality which took place between 1917 and 1977, one would wonder
+if age patterns of maternal mortality respond only to period influences, so that
+the experience of a cohort can be described completely by age effects and
+the effects of the periods its members
+live through, or if they respond to additional cohort influences as well. This pa
+per attempts to apply cohort approach
+to offer answers to the underlying motivating question: Did cohort effect apply
+to maternal mortality during the period
+1917-77? It is our intention to disentangle age, period, and cohort effects on
+maternal mortality. After comparing
+models for age, period, and cohort effects, we discuss our interpretation.
+New York State was selected for two
+reasons: First, the requisite data on live
+births and maternal deaths are available
+since 1917; second, from 1917 to 1956,
+there were striking downturns in maternal mortality rates both in New York
+and in the United States generally (see
+Figure 1). The maternal mortality rates
+in New York tended to parallel those for
+the nation and were consistently lower
+than U.S. rates during this period.
+However, in 1957, the rate in New York
+State fell not as rapidly as in the nation
+and even come to be slightly higher than
+the U.S. rate. This reversed parallel
+trend between New York State and
+U.S. rates continued until 1972. Thus,
+
+400
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+Vol. 30, No. 4
+
+10
+
+1917. 1922 1927 1932 1937 1942 1947
+
+Maternal Mortality
+
+401
+
+a U.S
+1eegeenpea N.Y.S,
+1952 1957 1962 i967 1972 1977
+
+Fic. 1.—Maternal mortality rate for New York State and for the United States, 1917-1977.
+
+while the pattern of maternal mortality
+in New York State resembled that of the
+nation from 1917 to 1977, the rates in
+New York State fell considerably slower
+than the national rates since 1957. With
+this unique trend in maternal mortality,
+New York as a case study perhaps provides an opportunity to understand age,
+period, and cohort patterns of maternal
+
+ 
+
+mortality which might be different from
+previous research reported in the literature.
+
+CONCEPTUAL FRAMEWORK
+
+The relationship between age, parity,
+and maternal mortality, and the ways in
+which differences among cohorts in
+
+ 
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+402
+
+their age and parity distributions of birth
+can be expected to affect their maternal
+mortality rates, has been investigated by
+Berry (1977). These two influences on
+maternal mortality can be referred to as
+age and cohort effects respectively. Period effects refer to the influence of historical events.
+
+Berry (1976) indicated that ‘‘age or
+aging effect refers to the influence of the
+biological process of aging and/or to the
+movement through the age-graded social statuses of the life cycle. Period or
+historical change effects refer to the impact of historical events which occur at a
+certain point in time. Cohort or birth cohort membership effects refer to the influences of the differing sets of past experience which characterize different
+cohorts. Cohort effects are interaction
+between the impact of historical or environmental events and the age of the persons experiencing these events.”
+
+Even though age, period, and cohort
+effects often have separate influences on
+period rates, period approach cannot
+sort the influence of one effect from that
+of another. Cohort analysis can, under
+certain conditions, provide separate
+measure of age, period, and cohort effects.-‘Several mathematical techniques
+for obtaining these measures have been
+developed in the literature of cohort
+analysis (Blanchard, et al., 1977; Fienberg, et al., 1978; Glenn, 1977; Mason,
+et al., 1973; Palmore, 1978; Pullum,
+1977, 1980; Schaie, 1965; Price, 1974).
+The measurement of period effects is
+not too difficult since they have strong
+influences on maternal mortality. The
+measurement of cohort effects is more
+problematic since very large pertod influences tend to mask whatever cohort
+may be present. In comparison to period and age effects on maternal mortal
+Tu and Chuang
+
+Social Biology
+
+ity, cohort effects are probably very
+small (Berry, 1977).
+
+MEASUREMENT OF MATERNAL
+MORTALITY
+
+Conventionally, the maternal mortality rate is defined as the number of
+deaths due to puerperal causes per
+10,000 or 100,000 live births. A maternal mortality rate represents approximately the risk of dying as a result of
+“complications of pregnancy, childbirth
+and the puerperium” (Shryock and
+Siegel. 1973). The most common puerperal causes of death are infection, hemorrhage, and toxemia. According to
+Berry (1976), ‘“‘puerperal causes of
+death generally are subdivided into direct and indirect causes. Direct causes
+are produced solely by the experience of
+pregnancy and childbirth, e.g., hemmorrhage or infection. Indirect causes
+of maternal deaths are preexisting conditions, e.g., heart disease, diabetes,
+kidney disease, which would probably
+not have proved fatal without the additional stress imposed by pregnancy and
+childbirth.”
+
+The maternal mortality computed by
+the above definition is only a rough measure of the puerperal risk, since the
+deaths are related to live births instead
+of pregnancies, for which data are not
+usually available (Spiegelman, 1968). A
+true rate of maternal mortality would be
+defined in terms of total pregnancies
+(i.e., denominator) regardless of gestation age. This definition theoretically
+would result in a maternal mortality rate
+one-fifth below the rate usually determined. However, since reporting of fetal deaths in most vital statistics is restricted to pregnancies of twenty weeks
+gestation or more, and fetal deaths that
+occur below twenty weeks gestation are
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+Vol. 30, No. 4
+
+grossly underreported in vital statistics,
+national rates based on all reported
+pregnancy terminations would be indistinguishable from the customary rate
+(Shapiro et al., 1968).
+
+The maternal mortality rate can be
+interpreted as the probability that pregnancy will result in the mother’s death.
+In this paper, such rates will be denoted
+by P,;’s, where i refers to an age level, j
+to cohort, and k to period. Given this interpretation, it is natural to conceptualize an n(A) * n(C) * n(P) table of rates
+(where (A) represents the number of
+age categories, n(A) * n(C) * n(P) * 2 table of frequencies (n,x) where [=1 if a
+pregnancy leads tot he death of the
+mother and /=2 if it does not. It should
+be pointed out here that at most one p,x
+can be nonzero for each (i,j) age-cohort
+combination and that the four-way n(A)
+* n(C) * n(P) * 2 contingency table actually contains many structural zeros because of the logical relationship between
+age, cohort, and period. In the analysis,
+we will assume that Pj, = Myxr/ Nyx. #0
+when n,, # 0, where nx. = Myg + Myk2
+is the number of pregnancies in the specified (age, cohort, period) combination. This assumption is imposed to insure that all the parameter values in the
+models are finite.
+
+It is generally recognized that the
+proper quantity for statistical modeling
+in such a multinomial context with a binary response is the odds on maternal
+death fox = My / Mg rather than the
+age, cohort, and period-specific rates
+themselves (Goodman, 1972; Bishop et
+al., 1975; Pullum, 1980). These odds are
+related to the rates through fy, = Dyk /
+(1—p,,x) and will be used in our analysis.
+In this paper, the number of surviving
+mothers 1,42 is approximated by subtracting the number of maternal deaths
+
+ 
+
+Maternal Mortality
+
+403
+
+Nyx from that of the total live births,
+since the latter figure is used to estimate
+the number of pregnancies.
+
+The natural logarithm of such ratio,
+termed logit, is a monotonic function of
+the ratio and has the additional advantage of easy modeling in the binaryresponse situation (for detailed discussion on logit transformation, see
+Fienberg, 1980). Therefore, we will use
+logit model in this paper.
+
+Data on maternal mortality by age
+and live births by mother’s age have
+been published in annual volumes of Vital Statistics of the U.S. since 1915. This
+research is a secondary analysis of the
+data on maternal deaths and live births
+contained in these annual volumes.
+
+To calculate a cohort maternal mortality for all ages, age-specific period
+rates of maternal mortality are simply
+rearranged into cohort form. Since cohort year, age, and calendar year are
+functionally related, specification of two
+of the three variables determines the
+third. The relationship among the three
+variables is:
+
+Cohort Year of Birth=
+Calendar Year— Age.
+
+By using this simple relationship, selection of a particular age-specific period
+ratio which describes the experience of a
+given cohort at a given age and time is
+straightforward.
+
+The method of calculating period
+rates for five-year age groups to describe
+the experience, at five-year intervals, of
+five-year cohorts, provides age-specific,
+cohort-specific rates for only eight fiveyear cohorts (see Tables t and 2). Period
+maternal mortality rates are available
+only for the eight five-year cohorts that
+have completed their childbearing years
+and, therefore, their exposures to ma
+ 
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+404 Tu and Chuang Social Biology
+TABLE 1
+NEw York STATE MATERNAL MORTALITY AND LIVE BIRTHS FOR BIRTH CoHorTs 1898-1902
+TO 1933-1937 By AGE
+COHORT
+AGE, MATERNAL
+MorTALITY AND 1898- 1903- 1908- 1913- 1918- 1923— 1928-— 1933—
+Live BrrtHs 1902 1907 1912 1917 1922 1927 1932 1937
+
+15-19
+
+M.M....... 75 76 71 72 35 20 16 10
+
+L.B........ 14,335 14,517 16,364 14,621 12,717 13,904 19,256 19,890
+20-24
+
+M.M....... 255 264 220 143 96 66 30 24
+
+L.B........ 61,562 63,288 57,153 52,683 71,223 94,272 94,606 106,800
+25-29
+
+M.M....... 325 288 190 142 77 44 40 37
+
+L.B........ 66,257 59,499 58,680 82,520 104,628 106,075 109,950 98,266
+30-34
+
+M.M....... 290 191 142 76 39 38 37 24
+
+L.B........ 38,992 38,058 50,827 67,048 67,692 71,932 63,478 44,758
+35-39
+
+M.M....... 132 108 58 26 35 24 17 2
+
+L.B........ 17,976 21,340 30,892 30,694 34,452 32,276 23,525 13,254
+40-44
+
+M.M....... 31 31 13 10 22 7 2 0
+
+L.B.. 4,550 6,432 6,762 7,710 8,260 6,287 3,345 2,242
+
+ternal deaths during these years. These
+eight five-year cohorts are the cohorts of
+1898-1902, 1903-07, 1908-12, 1913-17,
+1918-22, 1923-27, 1928-32 and 193337. These cohorts will be called the complete cohorts. The period categories can
+be determined by knowledge of age and
+cohort membership through the following relationship:
+
+n(period) = n(age) + n(cohort)—1.
+
+METHODOLOGY
+
+We adopt the model-fitting procedure which provides us with parametric
+models and their goodness-of-fit measures. The advantage of this approach is
+to present models easy to understand
+and interpret. Through the selected
+model (or models), we are able to ascer
+tain the association structure between
+the variables of interest. In this context,
+linear logit models utilizing additional
+diagonal parameters (Goodman, 1972)
+were employed to analyze the effects of
+age, period, and cohort simultaneously.
+The most general logit model under our
+consideration is as follows:
+
+logit(i,j,k) = In yl (1— pix)
+= wtA,+C,, + Py
+
+(1)
+
+where p,, is the maternal mortality rate
+introduced earlier and A,,, C, and p,,
+represent the age, cohort, and period effects at the various levels.
+
+By setting various terms in (1) equal
+to zero, we obtained different logit models. The parameters in a proposed logit
+model were estimated by the maximum
+likelihood method. Cyclic ascent alDownloaded by [University of Michigan] at 13:39 08 December 2015
+
+ 
+
+Vol. 30, No. 4 Maternal Mortality 405
+TABLE 2
+THE CONFIGURATION OF PERIOD AND THE RELATIONSHIP AMONG AGE, PERIOD, AND COHORT
+CATEGORIES
+COHORT
+
+AGE 1898- 1903- 1908- 1913- 1918- 1923- 1928- 1933
+1902 1907 1912 1917 1922 1927 1932 1937
+
+(1) (2) (3) (4) (5) (6) (7) (8)
+15-19 (1)... 1917 1922 1927 1932 1937 1942 1947 1952
+(1) (2) (3) (4) (5) (6) (7) (8)
+20-24 (2).... 1922 1927 1932 1937 1942 1947 1952 1957
+(2) (3) (4) (5) (6) (7) (8) (9)
+25-29 (3) .... 1927 1932 1937 1942 1947 1952 1957 1962
+(3) (4) (5) (6) (7) (8) (9) (10)
+30-34 (4) .... 1932 1937 1942 1947 1952 1957 1962 1967
+(4) (5) (6) (7) (8) (9) (10) (11)
+35-39 (5)... 1937 1942 1947 1952 1957 1962 1967 1972
+(5) (6) (7) (8) (9) (10) (11) (12)
+40-44 (6)... 1942 1947 1952 1957 1962 1967 1972 1977
+(6) (7) (8) (9) (10) (11) (12) (13)
+
+gorithm was used in a tailored Fortran
+program to produce such estimates. Under this algorithm, Newton-Raphson
+approximation was applied to sets of parameters, €.g., age parameters, period
+parameters, and cohort parameters, respectively. In each iteration, the current
+parameter values were used to estimate
+the expected cell counts which were
+then used to calculate the likelihood ratio statistic G* defined in (2). The parameter estimates were improved in a
+cyclic fashion until the difference in the
+successive G’’s was smaller than 0.0001
+in five consecutive iterations. The asymptotic covariance of the parameters
+estimates is given by the inverse of the
+information matrix, a result from the
+large sample theory. (In practice, the estimated parameters are substituted for
+the unknown parameters for inference
+
+purpose.)
+
+G*=2 (observed)/n(observed/
+all estimated)
+nonzero (2)
+cells
+
+ 
+
+The G? at convergence was used to
+assess the fit of a proposed logit model.
+The G*, which is asymptotically equivalent to the Pearson’s y’ statistic defined
+in (3), has an asymptotic chi-square distribution with degrees of freedom given
+by the ({the number of observed
+logits]—[the number of parameters in
+the model] + [the number of constraints
+imposed]).
+
+X= E (observed-estimated)?/
+estimated (3)
+
+The calculation of the degrees of
+freedom for the logit models with at
+most two factors can be carried out in
+the usual way and poses no problem.
+However, the calculation requires some
+caution when all the age, period, and cohort effects are present. According to
+Clogg (1980), there are four identification constraints on the parameters in the
+additive age-cohort-period model for
+two-way contingency tables when one
+factor is introduced diagonally. A paral
+ 
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+406
+
+lel argument to Clogg’s shows that the
+inclusion of the inverse-diagonal parameters introduced by the period variable
+to our age-cohort analysis results in four
+similar identification constraints. Out of
+the four, three of them are trivial in the
+sense that they are required in order to
+define main effects for the categories of
+the three variables. The additional
+fourth one, however, is nontrivial in that
+the effect of an inverse-diagonal category is set equal to some specified constant. If this inverse-diagonal effect is
+mistakenly assumed, all of the estimated
+age, period, and cohort effects will be in
+error. Clogg (1980) demonstrates how
+an error in imposing this nontrivial identifying restriction propagates error or
+bias in all the other effects of the model.
+For detailed discussion, see Clogg
+(1980). This problem regarding the specification of the identifying constraints
+does not concern the two-parameter
+models (models which contain only two
+variables).
+
+Due to the linear relationship between age, calendar year, and cohortship, several researchers (Baltes, 1968;
+Goldstein, 1968; Glenn, 1976) suggest
+excluding one of these three factors
+from the model in the cohort analysis.
+However, we prefer the argument given
+by Mason et al. (1973) that such a procedure is not necessary and certain variables should be dropped only if they do
+not seem to have significant effect upon
+the dependent variable after adjustment
+for other variables.
+
+The contribution of a variable or variables in explaining the variation existing
+in the data is measured by the difference
+in the G? statistics between the two
+models with and without the variable or
+variables in question. The difference is
+then compared to the percentiles of a
+chi-square distribution with degrees of
+
+Tu and Chuang
+
+ 
+
+Social Biology
+
+freedom equal to the difference between the degrees of freedom of the two
+corresponding G?’s. By doing this, we
+can determine whether the reduction in
+the fit is significant or not at a given level
+(for detail in the G*-decomposition, see
+Fienberg [1980].
+
+RESULTS
+
+The results of fitting various linear logit models to the data are shown in Table 3. The G’, x’, as well as the degrees
+of freedom are given for each model
+fitted. the convergence took place
+within 15 iterations under all the models
+we tried. As a comparison, we also included in Table 3 the 95 percentiles of
+chi-square distributions with degrees of
+freedom equal to those of the corresponding G?. Here, we face the same situation as Pullum (1980) did in his fertility study since these models were applied to the population data rather than
+sample data drawn from the New York
+State. However, if we consider US. national maternal mortality as the conceptual population and the New York State
+data as a sample drawn from this population, we are still able to draw inferences regarding the age, period, or cohort effects from these goodness-of-fit
+Statistics.
+
+The results in Table 3 suggest that
+age, period, and cohort, when included
+in the models alone, all increase the fit
+significantly. The results also suggest
+that both Model (5) and (7) provide adequate fit to the data at the 0.05 level.
+However, the reduction in G* by including the cohort variable after adjustment
+for age and period effects is only 2.69
+( =21.34—18.65) which is much too low
+when compared to the percentiles of a
+chi-square distribution with six degrees
+of freedom. Therefore, we chose Model
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+ 
+
+Vol. 30, No. 4
+
+Maternal Mortality
+
+407
+
+TABLE 3
+RESULTS OF FitT1NG LINEAR Locit MODELS To THE MATERIAL MorTALITY DATA IN TABLE 1
+
+Model Parameters Included x G D-F. x*
+
+Loic... A(i) 3903.43 3487.52 42 61.28
+Bie dhe bien C() 391.41 350.06 40 55.80
+Secws ow om pu P(k) 638.19 494.94 35 52.70
+Bicceeeeaee A(i), Cj) 304.71 297.47 35 52.50
+Sowa n eB win A(i), P(k) 21.67 21.34 30 43.80
+Guend ed edons C(), Pk) 134.98 117.72 28 41.30
+Dears 64 bs nae A(i), Cj), P(k) 19.02 18.65 24 36.40
+
+*D.F., 0.95
+
+(5) which suggests that both age and period are essential in explaining the difference in maternal mortality, and cohortship does not contribute much after both
+age and period are already in the model.
+
+This observation coincides with that
+made by Pullum’s fertility study that
+adding period dimension had greater
+impact per degree of freedom than adding the cohort dimension (Pullum,
+1980). This result is also implied by Figure 2 where the negatives of the observed logits were plotted agains the calendar years for each age group. Similar
+trends along the years for the age groups
+in Figure 2 cause the curves to be almost
+parallel and suggest the additive effects
+of age and period upon the logits. °
+
+In Table 4, we give the parameter estimates W,A,,, P., and their standard errors under Model (5). The constraints
+we adopted were A, =P(3,=0 which
+put the last age and period groups as the
+baseline groups. (The appropriateness
+of the constraints is no longer a problem
+since there are only two variables in
+Model [5].) The age parameter estimates A q have the minimum value at
+the 20-24 age group. This phenomenon
+is also reflected in Figure 2 since the
+curve corresponding to this age group
+lies above all the other curves. The Ag
+and) are of similar magnitude and the
+
+ 
+
+ 
+
+two corresponding curves in Figure 2
+cross each other. The fact that the other
+three age curves (for age groups 30-34,
+35-39, and 40-44) are lying unintersected and in a decreasing order yields
+similar relationships among Aw)s As,
+and Aj.
+
+The results regarding age parameters
+suggest that the age group 20-24 faces
+the least maternal mortality risk, while
+for women beyond 30 the maternal mortality risk increases rather rapidly with
+the increase of age. This occurred prob
+TABLE 4
+
+MAXIMUM LIKELIHOOD ESTIMATES OF THE
+PARAMETERS IN MODEL (5) FOR THE
+MATERNAL MorTALitTy DATA
+
+ik, Ay Py
+Tax —1.642 (0.15)* 9.521 (5.93)
+— —1.801 (0.12) 9.462 (0.22)
+3.. —1.597 (0.16) 9.418 (0.17)
+4.. —1,155 (0.15) 9.393 (0.17)
+Seu ~0.691 (0.10) 8.976 (0.17)
+6... 0.000 8.378 (0.17)
+7... . 7.576 (0.18)
+8... 6.871 (0.24)
+9... 6.738 (0.19)
+10.. 6.843 (0.21)
+11.. 6.620 {0.32}
+12.. 5.304 (1.08)
+13.. 0.000
+
+1, *The standard error of the parameter estimate.
+2. w= —13.15 (s.e. =0.19).
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+408
+
+ 
+
+live births
+log. ¢
+© maternal deaths
+
+5.00
+
+1917, 1922 1927
+
+Tu and Chuang
+
+A
+
+1932 1937 1942 1947 1952 1957 1962 1967
+
+Social Biology
+
+TI 15-19
+I 20-24
+I 25-29
+W 30-34
+¥ 35-39
+VW 40-44
+
+1972 1977
+
+Fic. 2.—Showing (~—logits) for age and period combination.
+
+ably because medical advances were
+able to control causes of maternal death
+such as infection, hemorrhage, and toxemia more effectively than indirect
+causes such as heart disease or diabetes.
+Since indirect causes are more common
+among older women, they benefited less
+from the overall decline in maternal
+mortality.
+
+The period parameters estimates
+Po. plotted against the years in Figure
+3, show some monotonic decreasing
+trend except for Puy which corresponds
+to 1962 and is slightly larger than the
+value for the previous period level. This,
+presumably, is due to the big dip occurring in the 40-44 age group curve given in
+Figure 2. Due to the fact that there is
+only one pair of observations (corre
+sponding to the age group 40-44) in the
+1977 data and that one of them is zero,
+the estimate for this year is less precise
+compared to the rest and ts therefore excluded from the discussion and Figure 3.
+Among the 12 remaining period intervals, the period effects estimates decrease slightly from 9.521 to 9.393 between 1917 and 1932. The decreasing
+trend picks up speed between 1932 and
+1952, during which the estimates range
+from 9.393 to 6.871. Then, quite,
+abruptly this downward trends comes almost to a halt. Between 1952 and 1967
+only minor decreases take place and
+then another big jump is seen in 1972.
+The period effects estimates were found
+to be positively correlated from the asymptotic covariance calculation. This
+
+ 
+Vol. 30, No. 4
+
+A
+P(k)
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+8.0
+
+6.0
+
+5.0
+
+1917-1922
+
+Maternal Mortality
+
+409
+
+1927 1932 1937 1942 1947 1952 1957 1962 1967 1972
+
+Fic. 3.——Period parameters estimates P(k) for years 1917-1972.
+
+result can also be seen from the generally monotonic trends across the calendar years in Figure 3.
+
+To examine the fit of Model (5) further, we plotted in Figure 4 the residuals
+in logit scale (= [observed logit]—[fitted
+logit under Model (5)}) for each age
+group across the periods where data are
+available. The zigzag, up and down patterns in the residual plot indicate that
+Model (5) does not show signs of significant lack of fit in any direction. The residuals for the younger age groups are
+clustered around zero. The rather high
+variation among the residuals for the
+oldest age group (40-44) results from
+the fact that the observed Jogits for this
+group have higher variability than the
+
+ 
+
+corresponding ones in other age groups
+because of the diminishing numbers in
+both the pregnancies and the maternal
+deaths. The residuals for this group thus
+have higher standard errors and exhibit
+greater fluctuation. The two fairly
+downward dips occurring around 1957
+and 1962 cannot be fully explained by
+the slight increase in the period effects
+estimates around this time.
+
+In examining Figure 4, we found also
+that the observed logits for the next oldest age group (35-39) were smaller than
+the fitted ones for the most recent years.
+That is, the risk for this age group
+seemed to have declined at a rate faster
+than Model (5) suggests. This finding is
+similar to those in Berry’s (1977) study.
+
+ 
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+ 
+
+410 Tu and Chuang Social Biology
+° i IT 15-19 -=—
+Residual l TL 20-24 seoreee
+(in logit scale /
+/ TI 25-29 -v—-e
+0,2 I
+} . X 30-34 ——“ a Vi 25-39 ==
+¢ 1 a ‘ / w 40-44 —__
+0.1 eo4 : ‘ '
+* naillvin a
+\ A i ‘ d * ora Mas
+/ \ on f VN : i /
+OO Re he
+oof Tt r\I- nas SY + i ha f
+,/ ove SAM : "
+A / \e , § oe
+v \ ‘ 2 ‘ &
+-0.1 ‘ ‘ . ‘ ‘
+e \ t S :
+N . ; s
+-0.2 . 8
+
+ 
+
+19217) 1922 1927 1932 1937 1942 1947
+
+1952 1957 1962 1967 1972
+
+Fic. 4.—Residuals in logit scale for age and period combination.
+
+One possible explanation may lie in the
+selecting out of higher order births as a
+factor in the death rate decline and in
+the possibility that at high mortality levels poor risks are weeded out earlier in
+their reproductive careers, leaving a
+hardier cohort to reproduce later in life
+(Nortman, 1974).
+
+SUMMARY AND CONCLUSIONS
+
+A cohort study was invoked in this
+paper on the logits of maternal mortality
+rates. The results indicate that cohortship is not a significant explanatory variable to the logits of maternal mortality
+after adjustment for age and period.
+Also, adding period dimension after adjustment for age has greater impact per
+degree of freedom than adding the cohort dimension after adjustment for
+
+age. One possible reason is that cohort
+effects on maternal mortality are extremely small, particularly in comparison to period effects. The implications
+of our findings on New York maternal
+mortality are that, as a set, changes in
+those temporal variables which cut
+across cohorts appear to be more important than changes in those variables
+which distinguish them.
+
+We also referred to specific parametrizations of the selected model and gave
+interpretations to the parameters in the
+model. The age * period logit model was
+chosen to describe the data and the
+trends across age groups and calendar
+years were noticed and discussed. This
+simple mode] was found to fit the data
+reasonably well on average, although
+the fluctuation in the residuals for the
+Vol. 30, No. 4
+
+oldest age group (40-44) is slightly
+higher due to the stochastic variation in
+diminishing small numbers of maternal
+deaths and pregnancies in this group.
+
+ACKNOWLEDGMENTS
+
+This work was supported in part by the
+National Center for Health Statistics, Con
+Ba.tes, P. B. 1968. Longitudinal and crosssectional sequences in the study of age and
+generation effects. Hum. Develop. 11:145—
+171,
+
+© Berry, L. G. 1976. A cohort analysis of mater
+nal mortality in the United States, 1917
+1969. Unpublished Ph.D. dissertation Uni
+versity of Tennessee, Knoxville, TN.
+
+. 1977. Age and parity influences on ma
+ternal mortality: United States, 1919-1969.
+
+Demography 14:297-310.
+
+BLANCHARD, R.D., J.B. BUNKER, and M.
+Wacus. 1977. Distinguishing aging, period
+and cohort effects in longitudinal studies of
+elderly populations. Socio-Econ. Plan. Sci.
+
+8 December 2015
+
+at 13:39
+
+ 
+
+gan]
+
+of Michi
+
+2 11:137-146.
+
+ZCast, R.A.M. 1956. Cohort analysis of can2 cer mortality in England and Wales, 1911—
+‘= 54 by site and sex. Brit. Jo. Prevent. Soc.
+-, Med. 10:172-199.
+
+>Croae, C, C. 1980. A note on the identification
+
+problem in age-period-cohort models for archival data. Unpublished manuscript, Pennsylvania State University.
+
+FIENBERG, S.E., and W.M. Mason. 1978.
+Identification and estimation of age-periodcohort models in the analysis of discrete archival data, pp. 16-67. In K. E. Schuessler
+(ed.}, Sociological methodology 1979.
+Jossey-Bass, San Francisco.
+
+- 1980. The analysis of cross-classified
+categorical data. 2nd ed. MIT Press, Cambridge.
+
+GLapsTonE, T. 1937. Maternal deaths: The
+ways to prevention. Commonwealth Fund,
+New York.
+
+GLENN, N.D. 1976. Cohort analyst’s futile
+quest: Statistical attempts to separate age,
+period and cohort effects. Ameri. Sociol.
+Rev. 41:900-904.
+
+. 1977. Cohort analysis. Sage, Beverly
+
+Downloaded b
+
+ 
+
+ 
+
+Hills.
+GOLDSTEIN, H. 1968. Longitudinal studies and
+
+ 
+
+Maternal Mortality 411
+
+tract No. 233-79-2044 and National Cancer
+Institute, Contract No. CA11198. Authors’
+names are ordered arbitrarily to indicate the
+joint product of an ongoing collaborative relationship. Neither author likely would have
+arrived at the results reported here without
+the stimulation of working with the other.
+We thank our anonymous reviewer for his/
+her valuable comments on a previous draft of
+this paper.
+
+REFERENCES
+
+the measurement of change. The Statistician 18:93-117.
+
+GoopMaN, L. A. 1972. Some multiplicative
+models for the analysis of cross-classified
+data, pp. 649-696. Jn K. F. Schuessler (ed.),
+Proceedings of the Sixth Berkeley Symposium on Mathematical Statistics and Probability, Vol. 1. The University of California,
+Berkeley.
+
+GREENACRE, M. J. 1978. Some objective methods of graphical display of data matrix. Special report. Department of Statistics and
+Operations Research, University of South
+Africa.
+
+Mason, K.O., H. H. WinssoroucH, W. M.
+Mason, and W. KENNETH. 1973. Some
+methodological issues in cohort analysis of
+archival data. Amer. Sociol. Rev. 38:242258.
+
+NortMan, D. 1974. Parental age as a factor in
+pregnancy outcome and child development.
+Reports on Population/Family Planning,
+No. 16. The Population Council, New
+York.
+
+PALMoRE, E. 1978. When can age, period and
+cohort be separated? Soc. Fore. 57:282~
+295.
+
+PricE, D. O. 1974. Constructing cohort data
+from discrete age intervals and irregular reporting periods. Soc. Sci. Quart. 55:167174.
+
+PuLium, T. W. 1977. Parameterizing age, period and cohort effects: An application to
+U.S. delinquency rates, 1964~1973, pp.
+116-140. in K. F. Schuessler (ed.), Sociological methodology 1978. Jossey-Bass, San
+Francisco.
+
+. 1980. Separating age, period, and cohort effects in white U.S. fertility, 19201970. Soc. Sci. Res. 9:225-244.
+
+Rocuar, R. W. 1981. Maternal mortality in the
+U.S.A. WHO Statistics Report 32:2-13.
+
+Scuaiz, K. W. 1965. A general model for the
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:39 08 December 2015
+
+ 
+
+412 Tu and Chuang Social Biology
+
+study of developmental problems. Psychol. SpreGELMAN, M. 1968. Introduction to demog
+Bull. 64:92-107. raphy. Harvard University Press, CamSHAPIRO, S., E. R. SCHLESINGER, and R. E. L. bridge.
+
+NEsBITT, Jr. 1968. Infant, perinatal, mater- U.S. NATIONAL CENTER FOR HEALTH STATIS
+nal and childhood mortality in the U.S. Tics. 1917-1977. Annual vital statistics re
+Harvard University Press, Cambridge. ports for the United states. Government
+SHryock, H. S., and J. S1eGceEv. 1973. The meth- Printing Office, Washington, D.C.
+
+ods and materials of demography. U.S.
+Government Printing Office, Washington,
+D.C.
+

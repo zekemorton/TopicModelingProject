@@ -1,0 +1,775 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+ 
+
+A regression approach to the projection of U.S.
+fertility based on past fertility data
+
+Prithwis Das Gupta
+
+To cite this article: Prithwis Das Gupta (1989) A regression approach to the projection
+of U.S. fertility based on past fertility data, Social Biology, 36:3-4, 262-270, DOI:
+10.1080/19485565.1989.9988736
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1989.9988736
+
+ 
+
+fa Published online: 23 Aug 2010.
+&
+(g Submit your article to this journal @
+
+»
+iQ View related articles @
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:43
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+A Regression Approach
+to the Projection of U.S. Fertility
+Based on Past Fertility Data
+
+Prithwis Das Gupta
+
+Population Division
+U.S. Bureau of the Census
+Washington, D.C.
+
+ 
+
+ABSTRACT: The method of fertility projection used by the U.S. Bureau of the Census involves
+assumptions about the ultimate cohort total fertility rate and the ultimate cohort mean age at
+childbearing based on recent levels of fertility and women’s birth expectations. This paper
+provides an outline of a general regression approach to fertility projection based on past data
+which would generate these two ultimate cohort characteristics. The technique is illustrated by
+using the U.S. single-year age-specific fertility rates up to 1986 for total women and projecting
+them indefinitely into the future until they become stable for both calendar years and cohorts.
+
+For the past twenty-five years, the basic steps involved in the projection of
+fertility by the U.S. Bureau of the Census have been as follows: (1) assume an
+ultimate cohort total fertility rate consistent with recent levels of fertility, women’s expectations of future births, and
+social and economic trends that affect
+fertility; (2) assume an ultimate cohort
+mean age at childbearing consistent with
+the assumption in Step 1; (3) generate a
+set of ultimate age-specific fertility rates
+by studying the past shapes of the cohort
+fertility schedules which is consistent
+with assumptions in Steps 1 and 2; and,
+finally, (4) obtain the age-specific fertility rates between the base year and the
+year when they are assumed to have
+reached stability by interpolation and
+other means to make sure that the generated fertility schedules maintain unimodal shapes and converge smoothly to
+the ultimate values for both periods and
+cohorts.
+
+In its recent published report on projection, the Census Bureau assumed ultimate cohort total fertility rates of 1.5,
+1.8, and 2.2 per woman for the low, middle, and high series, respectively, and an
+ultimate cohort mean age at childbearing of 26.92 for all three series (Bureau
+of the Census, 1989, p. 23). Although
+the total fertility rate rose to as high as
+3.7 in 1957, it has been under two children since 1972. Therefore, any value of
+ultimate fertility outside the range of 1.7
+to 2.1 would hardly be acceptable to demographers at the present time. The assumption of an ultimate cohort mean
+age at childbearing consistent with the
+ultimate cohort total fertility rate has
+never been easy for the Census Bureau
+because of an apparently unclear relationship between these two variables.
+Over time, they are sometimes positively (e.g., 1957-1964, 1982-1990) and
+sometimes negatively (e.g., 1964-1982)
+correlated (compare the dashed curves
+
+262
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+Vol. 36, No. 3-4
+
+in Figures 1 and 2). The problems with
+the precise assumptions about the ultimate total fertility and the ultimate
+mean age at childbearing call for the investigation of alternative approaches
+that might produce such values based on
+
+past data and not provide them exogenously.
+
+TFR
+
+ACTUAL
+
+PERIOD
+
+ 
+
+1940 1950 1960 1970
+
+Fertility Projection
+
+1980
+
+263
+
+The objective of the present paper is
+to give an outline of a general regression
+approach to fertility projection based on
+past data where no a priori assumptions
+are made about the ultimate cohort total
+fertility rate and the ultimate cohort
+mean age at childbearing. By this
+method, the projected age-specific fer
+TFR
+38
+
+PROJECTED
+
+35
+
+32
+
+29
+
+26
+
+2.3
+
+2.0
+
+17
+
+1990 2000 2010 2020 2030
+
+Fic. 1.—Period total fertility rates and cohort total fertility rates for cohorts aged 49 in years 1930—
+
+2030.
+
+MEAN AGE
+281
+
+276
+
+271
+
+PERIOD
+
+256
+
+251
+
+246
+
+1930 1940 1950 1960 1970
+
+ 
+
+1980
+
+MEAN AGE
+
+PROJECTED
+
+246
+
+2000 2019 2020 2030
+
+Fic. 2.—Period mean ages at childbearing and cohort mean ages at childbearing for cohorts aged 49 in
+
+years 1930-2030.
+
+ 
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+264
+
+tility rates for successive years, and
+hence the ultimate total fertility and the
+ultimate mean age, are obtained from
+the estimated regression equations by
+repeated applications of them with new
+sets of values for the independent variables as the projection proceeds. The
+technique is illustrated by using the U.S.
+single-year age-specific fertility rates up
+to 1986 for total women and projecting
+them indefinitely into the future until
+they become stable for both calendar
+years and cohorts.
+
+MATERIALS AND METHODS
+
+The method of projection proposed
+in this paper is a multiple linear regression technique, where the fertility rate
+In an age is the dependent variable, and
+the independent variables are one or
+more variables created from the past
+age-specific fertility rates.
+
+For the purpose of illustration, we
+choose three independent variables
+which can represent, in a very crude
+sense, the age, period, and cohort effects in fertility (Hobcraft et al., 1982).
+Fach of the 36 equations for the 36 ages
+14,15,... , 49 has the general form
+
+AX, = A + BoX. + B3X3 + BX, (1)
+
+where the dependent variable X; is the
+fertility rate at age a in year t, and the independent variables X2, X3, and_X, are,
+respectively, the total fertility rate in
+year t— 1 (period effect), the cumulative fertility of the cohort in the preceding ten years (cohort effect), and the
+sum of six fertility rates, viz., those at
+ages a— 1, a, and a + 1 in years t— 1
+and t — 2 (age effect).
+
+While the period effect X2 is an objectively defined variable, subjective elements are involved in the definitions of
+X;3 and X,. The fertility of a woman at
+
+ 
+
+Das Gupta
+
+Social Biology
+
+age 32, for example, is expected to depend more on her cumulative fertility in
+the preceding few years rather than on
+her fertility at age 31 or on her life-time
+fertility up to age 31. However, there is
+no obvious reason why this cumulation
+should be done over the preceding ten
+years (and not, say, over the preceding
+nine or eleven years). This problem in
+the definition of the cohort effect X3
+may be resolved easily by computing the
+actual correlation coefficients between
+X, and X3 (eliminating the effects of Xz
+and X,) corresponding to various possible cumulation periods. Again, the fertility rate at the same age a in the preceding year t — 1 may be a good choice for
+the age effect X, on theoretical grounds.
+However, the error in this individual
+rate relative to the rates at other ages
+around it and at other years preceding it
+calls for the use of several rates centered
+at age a in the definition of X,. The use
+of six rates that we have chosen is just
+one such possibility. We should emphasize that the names given to the effects of
+the variables X2, X3, and X4 as period,
+cohort, and age effects may not be
+purely scientific; but no matter how we
+describe them, the real test for the variables lies in how acceptable they are in
+terms of the correlations and the goodness of fit of the regression equations.
+The single-year central birth rates in
+ages 14 through 49 for all women from
+1917 through 1986 are available from
+Heuser (1976) and from the National
+Center for Health Statistics (published
+and unpublished). The period total fertility rates fluctuated relatively smoothly
+over time starting from the late 1940’s
+(Figure 1). We, therefore, discarded the
+data for the earlier years. In order to test
+the sensitivity of the method to the beginning and end of the years of data
+used, we obtained nine sets of projec
+ 
+—|
+=
+©
+N
+~
+oO
+=
+oO
+oO
+oO
+a
+Co
+©
+om
+vw.
+4
+=
+—
+CS
+‘'S
+wo
+oN
+=
+aon
+O
+=
+Ce
+©
+>>
+—
+=
+N
+Samed
+oO
+>
+—
+c
+~.
+ve)
+OQ
+vo
+oO
+ca
+CS
+©
+—
+c
+Ss
+©
+A
+
+Vol. 36, No. 3-4
+
+Fertility Projection
+
+TABLE 1
+
+ULTIMATE Conort TOTAL FERTILITY RaTES (UCTFR) AND ULTIMATE CoHoRT MEAN AGES
+AT CHILDBEARING (UCMAC) For Nine SETS OF PROJECTIONS
+
+BEGINNING OF THE 1984
+Data Periop
+
+1.91
+1.90
+1.95
+
+tions with the corresponding ultimate
+cohort total fertility rates and mean ages
+at childbearing as shown in Table 1.
+Since the numbers in Table 1 are virtually identical for all nine sets, the detailed results are shown only for one of
+the sets, viz., when the data used are
+from 1949 through 1986.
+
+RESULTS
+
+Since the independent variable X3 involves the fertility rates in the preceding
+ten years, the data for 38 years (19491986) provide 28 sets of values of (X;,
+X2, X3, X4) for fitting the 36 regression
+equations for ages 14 through 49. In
+computing the variables X3 and X,4, it is
+assumed that the fertility rate in any age
+outside the childbearing ages 14-19 is
+zero (for example, X3 = Ofora = 14,so
+there is no cohort effect in the regression
+equation for age 14). Obviously, for
+fitting the regressions for earlier ages,
+more than 28 data points (X1, X2, X3,
+X4) are available from the fertility rates
+for 38 years 1949-1986. However, for
+the sake of uniformity, 28 points are
+used for all 36 regressions.
+
+Table 2 gives the correlation and regression coefficients for the 36 regression equations. The high absolute values
+of riz, 713, and 714 suggest that, throughout the reproductive span, the dependent variable is highly correlated with
+
+UCTFR UCMAC
+
+26.2
+26.2
+26,2
+
+END OF THE DaTA PERIOD
+1985
+UCTFR UCMAC
+2.00 26.3
+
+1.99 26.3
+2.02 26.2
+
+1986
+UCTFR UCMAC
+
+2.02 26.3
+2.00 26.3
+2.02 26.3
+
+each of the three independent variables.
+Relatively high absolute values in genera) of the partial correlation coefficients 712.34, 713.24, and 714,23 also suggest
+that each of the independent variables is
+contributing significantly to the regression equations. The values of 1234 are
+mostly positive which means that higher
+(lower) values of the total fertility rate in
+the preceding year tend to make the current fertility rates in most ages higher
+(lower). This positive period effect is
+more evident in the peak reproductive
+ages 20-31. The exclusive cohort effects, as revealed by the values of 713.24,
+change from positive to negative somewhere around age 23.
+
+In other words, when fertility passes
+the peak age, the effect of the cumulative cohort fertility in the preceding ten
+yeas on the current fertility, uninfluenced by the period and age effects,
+would be negative, although the corresponding rj3 is positive. This negative cohort effect is more predominant in the
+ages 27-38. The pattern of the age effect, as indicated by the values of 714.23, is
+somewhat opposite to that of the cohort
+effect. When the period and cohort effects are eliminated from the data, the
+age effect is negative in the twenties (although ry, is highly positive), and then
+turns positive for the rest of the reproductive ages. The concentration of the
+relatively high positive age effect is in
+
+ 
+ 
+
+ 
+
+TABLE 2 ho
+CORRELATION AND REGRESSION COEFFICIENTS CORRESPONDING TO 36 MULTIPLE LINEAR REGRESSION EQUATIONS FOR 36 AGES BASED ON 28 SETS HR
+OF PornTs (1959 THRU 1986) UsinG AGE-SPECIFIC FerTILiTy RATES For 38 YEARS, 1949-1986 Unite STATES, ALL WOMEN?
+7 Age R12 R13 R14 R23 R24 RM = sR1234.s-R13.24 «—-R1423 RI 234 A B2 B3 B4
+= 14 -0728 0000 0650 0000 -0176 0000 -0820 0000 0O773 0901 00027 -00006 00000 01031
+= 15 QO011 0611 0687 -0707 0590 0110 0228 0470 0180 0880 0 0005 0 0009 17533 00355
+ra 16 0776 0354 0941 -0206 0896 0221 -0122 O061 OS12 0954 00055 -00012 01076 01302
+& 17 0949 0755 0988 0590 0968 0752 -0176 -0089 0659 0988 00108 ~-00028 -00776 01598
+g 18 0984 0930 0992 0891 0988 0937 0302 0214 0388 0993 00023 00098 #01380 00856
+Oo 19 0990 0976 0990 096 0994 0980 0537 0431 ~0046 0993 -00212 00369 02651 -00112
+o 20 0992 0985 0988 0986 0996 0992 0649 0454 -0339 0993 -00492 00744 02777 -0 1024
+OQ 21 0992 0986 0987 0991 0997 0996 0714 0438 -0450 0994 -00687 01032 02686 -—01737
+5 22 0992 0982 0987 0989 0996 0997 0702 0349 -0333 0993 -00605 01166 01904 -0 1926
+rr) 23 0992 0974 0986 0984 0996 0994 0572 0091 -0132 0992 -00221 00916 00307 -00645
+a 24 0991 0962 0986 0974 0996 0988 0503 ~-0056 -0012 0991 -00017 00730 -00101 -00053
+wt 25 0990 0942 0983 0961 0996 0976 0 531 -0087 -—0083 0990 00144 00752 -00085 -0 0336
+a) 26 0988 0910 4980 0943 0997 0955 0654 -0211 ~0290 0991 00369 00916 ~00103 -—0O 1094
+— 27 0983 0862 0975 0922 0998 0922 0779 -0660 -0492 0992 00584 §=©01014 -00221 —0 1608
+= 28 0974 0800 0971 0900 0996 0880 0819 -0845 -—0492 0993 00603 00860 -00317 -0 1216
+= 29 0963 0737 0969 0880 0991 0836 0777 ~0 847 -0189 0991 0 0461 00589 -00321 -00343
+5 30 0951 0686 0968 0866 0985 0806 0720 -0844 0239 0991 00335 00380 ~-00294 00355 oO
+ON 31 0949 0676 0972 0859 0982 0798 0661 -0843 0584 0992 00233 400246 -00259 00842 Pp
+=) 32 0953 0694 0975 0861 0982 0814 0599 -0854 0751 0993 0 0181 00164 -00238 01133
+2 33 0962 06736 0979 0869 06985 0842 06504 -0857 0824 0994 00143 OO110 -00227 01381 &)
+> 34 0971 0782 0982 0880 0988 0875 0397 -0860 O86 0995 00127 00074 -00223 01547 s
+ey 35 0981 0825 0984 0890 0990 0904 0315 -0850 O80 0996 00108 00053 -00222 01674 Ss
+Oo 36 0989 0860 0987 0895 0901 0924 0274 -0 835 0839 0997 00085 00040 -00207 01731
+>a 37 0994 0883 0990 0896 0990 0937 0367 -0794 0823 0998 00044 00045 -00178 01632
+= 38 0995 0898 0991 0896 0988 0944 0389 -0696 0785 0998 00013 00044 -00144 01563
+4 39 0995 0904 0991 0892 0985 0948 0469 -0560 0720 0998 -00018 00047 -00106 0 1406
+v 40 0994 0908 0992 0885 0982 0949 0518 -0488 0718 0998 -00025 00038 —00075 0 1311
+‘S 41 0993 0905 0992 0875 0979 0948 0540 -0565 0801 0999 -00017 00025 —0 0065 0 1412
+> 42 0992 0905 0993 0864 0977 0945 0524 -0505 0807 0999 ~-00013 00016 —0 0043 Q 1379
+43 0990 0902 0994 0853 0974 0941 0513 -0425 0790 0999 -00011 00011 -00028 01357
+> 44 0985 0893 0992 0843 0973 0936 -0080 -0656 02844 0998 00005 -00001 -00045 02026
+© 45 0979 0886 0 987 0833 0972 0932 0074 -0284 0550 0991 00002 «00001 -00018 01483
+e 46 0983 0882 0989 0820 9979 0912 0481 0273 0104 0992 ~-0 0009 0 0005 0 0011 0 0288
+oO 47 0910 0685 02899 0806 0986 0883 -0192 -0472 0439 0931 00005 -00002 -00020 02679
+S 48 0883 0769 Q851 0793 0978 0741 0332 0217 -0063 0890 -0 0001 0 0001 00002 ~-00124
+a 49 0785 0422 0794 0779 0970 0726 0320 -0465 0137 0845 -—QO0001 00000 -00005 00656
+| 3 ‘Vanable X, = Fertility rate at age a in year ¢ (dependent variable)
+o Vanable X2 = Total fertiktyratein yeart 1 (penod effect)
+| Q Vanable X; = Cumulative fertshty rate in 10 years fromagea 10myeart 10thruagea Linyears 1 (cohort effect)
+
+Vanable.X4 = Sum of6 fertuity rates viz those atagesa 1 @ anda + {imyearsf 2Zand@ ! (age effect}
+
+R12 = Correlation coefficient between vanables X, and X2 etc
+Ri2 34 = Parnal correlation coefficient between variables X) and X2 eliminating the effects of X3 and X%4 etc
+R1 234 = Multple correlation coefficient from the regression X; = A + B2*X2 + By"X3 + By X4
+
+ASojolg [e10g
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Das Gupta
+
+the ages 32—44. The multiple correlation
+coefficients R;.234, which may be regarded as the overall measures of the
+goodness of fit, are extremely high for
+all 36 regression equations. The last four
+columns of Table 2 give the coefficients
+of the 36 regression equations in (1).
+Table 3 gives the observed agespecific fertility rates for the years 19501986 and the projected rates for the
+years 1987-2200. It also shows the corresponding total fertility rates and mean
+ages at childbearing for both periods
+and cohorts. The projected rate X; for
+1987 at age 31, for example, is obtained
+from Equation 1 and Tables 2 and 3 as
+
+X, = 0.0233 + (0.0246 x 1.8388) —
+(0.0259 x 1.1085) + (0.0842 x
+0.4764) = 0.0799.
+
+The same regression equations are used
+without change for projections of the
+fertility rates successively for 1987,
+1988, etc., each time first computing the
+new sets of values for the independent
+variables X>, X3, and X%.
+
+The stability of the total fertility rates
+for both periods and cohorts (correct to
+four decimal places) is reached in the
+year 2155 at the level 2.0028. The stability of the mean ages at childbearing both
+ways (correct to two decimal places) is
+reached much earlier, in the year 2085,
+at the level 26.27. The fertility rates in
+individual ages reach stability at different points in time.
+
+The results are shown diagrammatically in Figures 1 and 2. Figure 1 gives
+the total fertility rates for periods and
+cohorts for the years 1930-2030. It
+shows how the period and cohort rates,
+starting at very different values in 1986
+(1.8388 and 3.0346, respectively), come
+very close to each other (at values
+1.9994 and 2.0538) in 2030, and eventually converge to the common value of
+
+Fertility Projection
+
+ 
+
+267
+
+2.0028 in 2155 (not shown in Figure 1).
+The cohort total fertility rate, starting
+with a peak value of 3.2200 in 1982,
+smoothly declines to a trough of 1.9339
+in 2007, then slowly rises to a value of
+2.0884 in 2023, and finally comes down
+to stabilize at the value 2.0028. On the
+other hand, the period total fertility rate
+continually rises from the 1986 base year
+rate of 1.8388 to a value of 2.1497 in
+1999 and then falls to settle eventually at
+2.0028. As expected, the cohort curve is
+much smoother than the period curve.
+
+Figure 2 shows the mean ages at
+childbearing for periods and cohorts for
+the years 1930-2030. From the base
+year value of 24.99 in 1986, the cohort
+mean age continues to decline to reach a
+bottom at 24.65 in 1990 and then rises
+monotonically to a peak value of 26.65
+in 2012. After damped oscillations, the
+mean age finally stabilizes at 26.27. By
+contrast, the period mean age at childbearing rises slightly from the base year
+value of 26.37 in 1986 to a peak value of
+26.43 in 1996 to finally converge to a stable value of 26.27.
+
+DISCUSSION
+
+Although demographers may find
+the present results acceptable, the main
+thrust of the paper is not the results but
+rather providing a sketch of an alternative approach to fertility projection that
+would make more use of past data in a
+relatively objective way. More research
+is needed to decide how many independent variables should be used in the multiple linear regressions and what should
+be their precise definitions.
+
+The characterization of the three independent variables in this paper as the
+age, period, and cohort effects is arguable. A more important consideration,
+however, is to make sure that the fittings
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE 3 (continued) >
+AGE-SPEcIFIC Fertiuity Rates Per 10,000 Women, Tora Fertitity Rates PER WoMAN, AND MEAN AGES AT CHILDBEARING FOR co
+PERIODS AND COHORTS, UNITED STATES. ALL WoMEN?
+AGE
+Yeart 34 35 36 37 38 3990 40—ié‘«sAY 42 43 «44450 46s 47s 48 49—S—«é‘CIR! MEAN TFRO MEANC#
+1950 .... 802 712 612 526 442 361 270 195 131 93 54 30 16 6 2 1 3.0280 26.72 2.5253 0.00
+1955 .... 905 789 682 574 485 392 294 212 14 98 58 28 15 5 1 1 3.4983 26.56 2.3179 27.05
+1960 .... 878 772 662 562 469 381 288 209 141 #93 #55 28 #15 6 «14 =«i 3.6057 26.44 2.2956 27.66
+1965 .... 725 631 S542 458 387 317 240 175 121 #78 #447 «#«24«102=02~«1 0 2.8816 26.55 - 2.4672 27.86
+1970 .... 518 445 377 313 259 210 158 114 78 #50 31 #17 #8 1 0 Q = 2.4317 26.04 2.7652 27.65
+1975 .... 349 286 233 187 152 121 89 64 4 28 16 10 2 1 0 0 1.7703 25.75 3.0065 27,11
+1976 .... 348 283 228 186 145 111 81 59 41 26 16 10 2 1 0 =O 1.7448 25.83 3.0413 26.93
+1977 .... 358 288 230 183 142 109 80 57 39 24 15 §$ 2 1 0 0 1.7950 25,86 3.0693 26.74
+1978 .... 360 288 228 180 140 107 78 54 37 23 13 8 2 1 0 =O 1.7644 25.91 3.1226 26.56
+1979 .... 384 303 235 182 142 109 77 52 36 22 13 7 1 0 0 0 1.8167 25.94 3.1565 26.36
+1980 .... 400 315 243 185 140 106 76 53 35 22 12 7 #21 21 «0 0 1.8490 25.94 3.2004 26.15
+1981 .... 411 327 252 189 139 105 76 51 35 21 #12 #8 21 1 0 #0 = 1.8254 26.04 3.2147 25.94
+1982 .... 429 343 263 199 147 106 74 54 35 22 13 7 #1 1 90 90 1.8347 26.10 3.2200 25.72
+1983 .... 437 350 272 205 151 108 75 52 33 21 13 6 #1 0 0 #0 1.8053 26.18 3.2067 25.52
+1984 .... 456 361 280 214 159 115 79 52 34 22 12 6 1 0 0 0 1.7964 26.27 3.1650 25.33 So
+1985 .... 479 385 299 225 166 120 84 56 34 20 12 8 1 0 90 O — 1,8396 26.33 3.1056 25.15 B
+1986 .... 489 398 314 235 174 126 86 58 3 19 122 F 141 0 D0 DO = 1,8388 26.37 3.0346 24.99 OQ
+PROJECTIONS &
+1987 .... 498 404 313 233 170 122 85 57 36 21 12 7 #%1 0 0 0 1.8984 26.33 2.9505 24.84 Ss
+1988 .... Sil 415 321 238 173 125 87 58 37 22 12 7 #1 90 0 0 1.9513 26.34 2.8758 24.73 a
+1989 .... 523 424 326 239 173 126 88 59 38 23 12 #7 2 21 «0 90 1.9832 26.35 2.7818 24.66
+1990 .... 536 434 333 243 175 127 89 61 39 23 12 8&8 2 1 0 0 — 2.0081 26.37 2.6762 24.65
+1991 .... 550 445 339 247 177 129 90 61 40 24 13 8 2 1 0 0 2.0338 26.39 2.5660 24.69
+1992 .... 563 456 347 251 179 130 92 62 41 25 13 8 2 1 0 0 2.0600 26.40 2.4577 24.75
+1993 .... 575 467 354 255 182 132 93 63 41 25 13 8 2 1 0 0 2.0848 26.42 2.3698 24.84
+1994 .... 584 476 361 259 184 134 95 64 42 26 13 8 3 1 #0 QO = 2.1045 26.43 2.2893 24.97
+1995 .... 591 482 366 263 187 136 96 65 4 26 13 8 3 1 0 Q_ 2.1239 26.43 2.2271 25.12
+1996 .... 596 486 369 265 188 137 97 66 4 26 13 8 3 1 0 90 2.1372 26.43 2.1661 25.28
+1997 .... 598 487 369 265 189 138 98 67 4 27 13 8 3 1 0 90 2.1457 26.42 2.1132 25.42
+1998 .... 599 488 370 264 188 138 99 67 44 27 13 8 3 1 0 9 2.1496 26.42 2.0645 25.57
+1999 .... 598 487 369 263 187 138 98 67 44 27 13 8 3 1 D8 D9 2.1497 26.41 2.0261 25.72
+2000 .... 596 486 367 262 186 137 98 67 44 27 12 8 3 1 0 9 2.1468 26.40 1.9927 25.86
+2010 .... S47 441 329 230 160 = 117 83 56 37 22 8 6 2 1 90 90 2.0279 26.26 1.9645 26.58
+2020 .... 528 423 312 216 149 107 76 50 32 18 6 5 2 1 0 90 1.9669 26.24 2.0801 26.38 wn
+2030 .... 544 436 322 223 154 111 79 $2 33 19 6 §$§ 2 1 0 Q ~~ 1.9994 26.28 2.0538 26.12
+2040 .... 550 441 326 226 156 113 80 54 34 20 7 $ 2 1 20 90 2.0166 26.28 1.9915 26.22 2.
+2050 .... 545 437 323 223 154 iil 79 53 34 19 FF § 2 1 0 0 2.0049 26.27 1.9923 26.31 B.
+2100 .... 544 436 322 223 153 ~=«=1i1i1 79 52 34 19 6 S§ 21 0 =O 2.0024 26.27 2.0034 26.27 ws
+2150 .... S45 436 322 223 153 1411 79 52 3% 19 FF § 2 1 0 ODO © 2.0028 26.27 2.0029 26.27 S:
+2200 .... 545 436 322 223 153 111 79 52 34 19 7 5 2 1 94 Q 2.0028 26.27 2.0028 26.27 &
+
+*TFR = Total fertility rate in yeart. © ‘MEAN = Mean age at childbearing in year ft.  “IFRC = Total fertility rate for the cohort aged 49 in yeart. © 4MEANC = Mean age at
+childbearing for the cohort aged 49 in year ¢.
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+TABLE 3
+
+AGE-SPECIFIC FERTILITY RATES Per 10,000 WoMEN, TOTAL Fertitiry Rates PER WOMAN, AND MEAN AGES AT CHILDBEARING FOR
+Periops AND Conorts, UNiTeD States. ALL WOMEN
+
+ 
+
+AGE
+
+Yeart 14 $15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33
+
+1950 .... 58 188 414 750 1,137 1,484 1,736 1,879 1,954 1,975 1,953 1,870 1,763 1,644 1,521 1,415 1,260 1,132 991 903
+1955 .... 61 199 447 823 1,298 1,748 2,120 2,325 2,415 2,396 2,310 2,163 2,009 1,858 1,714 1,580 1,413 1,276 1,127 1,016
+1960 .... 60 192 426 802 1,312 1,819 2,242 2,470 2,564 2,558 2,468 2,318 2,137 1,955 1,773 1,607 1,423 1,268 1,108 4
+1965 .... 52 165 360 664 1.054 1,424 1,720 1,889 1,971 1,985 1,937 1,835 1,713 1,572 1,437 1,306 1,165 1,051 928 830
+1970 .... 66 192 388 666 983 1,260 1,471 1,592 1,674 1,712 1,701 1,630 1,532 1,406 1,264 1,113 960 826 700 602
+1975 .... 71 194 364573 775 927 1,034 1.097 1,151 1,188 1,207 1,192 1,152 1,081 982 731 612 506 = 421
+1976 .... 68 186 346 542 = 733 887 998 1,069 1,125 1,166 1,187 1,179 1,144 1,078 991 759 = 631 515 424
+1977 .... 67 182 345 S42 738 895 1,019 1,099 1,161 1,202 1,224 1,221 1,184 1,121 1,032 798 669 547 444
+1978 .... 63 172 327 524 9722 880 999 1,074 1,133 1,171 1,189 1,187 1,157 1,102 1,021 800 677 559 451
+1979 .... 64 172 328 S25. 735 904 1,028 1,103 1,164 1,207 1,226 1,218 1,187 1,134 1,054 831 706 585 480
+
+1980 .... 65 174 331 531 746 925 1,060 1,132 1,185 1,220 1,239 1,231 1,196 1,143
+1981 .... 63 170321515 722 895 1030 1,103 1.154 1,185 1.203 1.204 1.175 1,127
+1982 .... 64172325519 721 891 1019 1,097 1.149 1,183 1195 1.196 1.171 1,127
+
+1 853 726 «6602 495
+1
+1,060
+1983 .... 64 171 321 511 708 «=6866 = (986: 1,056 «1,110 1,143 1,163 1,161 1,143 1,104 1,043
+1,039
+1
+1
+
+864
+883
+923
+917
+953
+972
+61 971 861 740 618 508
+974 870 755 637 528
+964 868 762 646 539
+968
+988
+986
+
+1984 .... 62 167 314 504 701 858 973 1,038 1,084 1,118 1,137 1,138 1,121 1,089 1,03 875 7710 ~—s« 661 556
+1985 .... 62 165 317512 720 883 1,000 1,059 1,103 1,130 1,152 1,157 1,145 1,109 1,060 896 796 681 578
+1986 .... 65 167 313 508 716 885 1,000 1,054 1,090 1,116 1,133 1,139 1,131 1,100 1,052 901 799 691 588
+PROJECTIONS
+1987 .... 63 174 316507 7i1 879 1,014 1,098 1,171 1,206 1,219 1,27 1,217 1,166 1,081 990 896 799 694 596
+1988 .... 64 171 316 502 714 898 1,051 1,145 1,216 1,250 1,261 1,264 1,250 1,202 1,122 1,024 921 816 708 610
+1989 .... 63 173 316499 720 916 1,077 1,161 1,223 1,276 1,296 1,291 1,260 1,209 1,140 1,049 942 834 723 623
+1990 .... 63 174 314 499-727 928 1,087 1,172 1,233 1,295 1,317 1,307 1,271 1,216 1,147 1,060 957 850 739 = 638
+1991 .... 63 173 314500 732 940 1,101 1,190 1,254 1,312 1,334 1,321 1,284 1,229 1,157 1,071 969 = 863 753 = 653
+1992 .... 63 174313501 738 949 1,120 1,210 1,273 1,331 1,351 1,336 1,298 1,241 1,167 1,080 980 874 766 667
+1993 .... 63 173313502 744 960 1,132 1,231 1,292 1,350 1,369 1,352 1,312 1,252 1,176 1,088 989 885 776 678
+1994 .... 63 173 313 503 +749 970 1,147 1,243 1,311 1,367 1,386 1,366 1,324 1,263 1,184 1,094 994 892 785 688
+1995 .... 63 173313 505 754 #8979 1,159 1,257 1,322 1,383 1,400 1,379 1,334 1,272 1,191 1,099 997 896 791 695
+1996 .... 62 173 313 506 9759 986 1,169 1,268 1,334 1,394 1,411 1,388 1,341 1,277 1,196 1,103 999 898 794 699
+1997 .... 62 173 313 508 763 992 1,176 1,276 1,342 1,403 1,420 1,395 1,347 1,281 1,199 1,105 1,001 898 794 700
+1998 .... 62 173313 510 766 996 1,180 1,281 1,347 1,408 1,425 1,399 1,349 1,282 1,199 1,105 1,000 897 793 700
+1999 .... 62 172314511 769 998 1,182 1,283 1,349 1,410 1,427 1,401 1,349 1,281 1,198 1,103 998 895 791 699
+2000 .... 62 172314513 770 999 1,183 1,283 1,348 1,410 1,427 1,400 1,348 1,280 1,195 1,100 995 892 788 696
+2010 .... 63 172 318 517) 7560 961S1,122 «1,211 1,273 1,331 1,352 1,331 1,285 1,220 1,138 1,043 938 835 733 643
+2020 .... 64174318510 737 930 1,081 1,164 1,224 1,279 1,302 1,289 1,251 1,193 1,116 1,025 923 821 718 625
+2030 .... 64 174317 508 740 940 1,096 1,183 1,244 1,300 1,322 1,308 1,268 1,210 1,133 1,042 941 839 736 8 643
+2040 .... 63 174317 510 §=745 948 1,108 1,196 1,258 1,315 1,336 1,320 1,278 1,218 1,139 1,047 945 844 741 649
+2050 .... 63 174317 510 = 744 945 1,102 1,189 1,250 1,307 1,329 1,313 1,272 1,212 1,133 1,041 939 838 735 643
+2100 .... 63 174 317 510) 742 943 1,100 1,187 1,248 1,305 1,326 1,311 1,270 1,211 1,133 1,041 939 838 735 643
+2150 .... 63 174317 510 = =743 943 1,100 1,187 1,248 1,305 1,327 1,311 1,270 1,211 1,133 1,041 939 838 735 8 643
+2200 .... 63 174317510 743 943 1,100 1,187 1,248 1,305 1,327 1,311 1,270 1,211 1,133 1,041 939 838 735 643
+
+b-£ “ON “9¢ “IOA
+
+uonseforg AI19-5
+
+697
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+270
+
+of the regression equations are satisfactory and that each of the independent
+variables contributes significantly to
+these fittings.
+
+A prudent choice of the variables in
+the multiple regressions should lead to
+convergence of the age-specific fertility
+rates to some stable values, although
+this cannot be proved mathematically.
+Again, if we have a reasonable number
+
+Das Gupta
+
+Social Biology
+
+in mind that we would like to see as the
+ultimate total fertility rate, that number
+can be generated, at least approximately, by varying the number of years
+of data as our input. This opens up the
+possibility of providing three sets of projections (low, middle, and high), as does
+the Census Bureau, by using past data
+for three different lengths of the period
+without changing the basic method.
+
+REFERENCES
+
+Heuser, R. L. 1976. Fertility tables for birth U.S. Bureau OF THE Census. 1989. Projections
+
+cohorts by color: United States, 1917-73.
+National Center for Health Statistics, Rockville, MD.
+
+Hoscratt, J., J. MENKEN, and S. PRESTON.
+1982. Age, period, and cohort effects in demography: A review. Pop. Index 48(1):4—
+43.
+
+of the population of the United States, by
+age, sex, and race: 1988 to 2080, by Gregory
+Spencer. Current Population Reports, Series P—25, No. 1018. Government Printing
+Office, Washington, D.C.
+
+ 
+

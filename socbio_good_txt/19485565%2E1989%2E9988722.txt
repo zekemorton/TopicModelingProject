@@ -1,0 +1,792 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ 
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+What is the purpose of HIV antibody testing?
+
+James Trussell
+
+To cite this article: James Trussell (1989) What is the purpose of HIV antibody testing?, Social
+Biology, 36:1-2, 102-109, DOI: 10.1080/19485565.1989.9988722
+
+ 
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1989.9988722
+
+fe Published online: 23 Aug 2010.
+
+&
+(g Submit your article to this journal @
+
+aul Article views: 2
+
+»
+Q View related articles @
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+ 
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:43
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Brief Reports
+
+What is the Purpose of HIV Antibody Testing?
+
+James Trussell
+
+Office of Population Research
+Princeton University
+Princeton, New Jersey
+
+ 
+
+ 
+
+ABSTRACT: Considerable attention, both in the scientific literature and in the popular media,
+has focused recently on the accuracy of tests for HIV antibodies. Many have pointed to the
+dangers of falsely identifying persons as being infected, and they have stressed that the
+predictive power of a positive test result may be small in populations with a low prevalence of
+HIV infection. The purpose of this paper is to argue that the current testing/counseling
+protocols, which are designed to increase specificity at the expense of sensitivity, are
+
+inappropriate in high-prevalence groups.
+
+The title of this note is not intended
+to be facetious. AIDS is a fatal disease
+caused by human immunodeficiency virus (HIV), which can be transmitted
+through sexual contact and exposure to
+infected blood or blood products (and
+neonatally from mother to neonate). All
+would agree that, ideally, an HIV test
+should accomplish two goals: (1) reassure those who do not have the virus,
+and (2) inform those who do. While informing those who are infected will not
+help to effect their cure (because there is
+not now a cure), it will enable them to
+guard against infecting others. Unfortunately, such an ideal test is not available
+for two reasons. First, a test for the virus
+itself does not yet exist (except for research purposes). Instead, current procedures test for the presence in the
+blood of antibodies to HIV. Because antibodies do not appear until some time
+after infection,! some persons infected
+
+‘Current guidelines state that “persons exposed to HIV usually develop detectable levels of
+antibody against the virus within 6-12 weeks of in
+with HIV would be missed even by a test
+that was 100 per cent sensitive (when the
+HIV antibody is present, then the test
+will yield a positive result) to the antibody. Second, the current tests are not
+100 per cent accurate. They are neither
+100 per cent sensitive nor 100 per cent
+specific.” There is a small possibility that
+
+fection” (CDC, 1987a). This conclusion was based
+on follow-up of persons infected by a blood transfusion at a known date. However, analysis of the
+experience of Finnish homosexual males has revealed that the antibody may not appear for a year
+or longer after infection (Rankiet al., 1987). These
+results suggest that the predictive power of a negative test result may be lower than was previously
+thought.
+
+2A test for HIV antibody (like any test) should
+have two properties. Among those infected, the
+test should yield a positive result. This property is
+known as sensitivity and may be measured or quantified by the false-negative rate (the proportion of
+those who are infected who nevertheless test negative). Moreover, among those not infected, the
+test should yield a negative result. This property is
+known as specificity and is quantified by the falsepositive rate (the proportion of those not infected
+who nevertheless test positive). As a consequence
+of the fact that current tests for the HIV antibody
+are neither perfectly sensitive nor perfectly specific, some fraction of those with a negative test
+result are in fact infected and some fraction of
+
+102
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 36, No. 1-2
+
+a person with the antibody will test negative (false-negative) and that a person
+not infected with HIV will test positive
+(false-positive). In the remainder of this
+discussion, I ignore the first problem
+and concentrate entirely on the second.
+For ease of discussion, I assume that
+current tests detect HIV (and not just
+the antibody).
+
+Before proceeding further, I should
+note that neither the false-positive nor
+the false-negative rates are known with
+certainty. Furthermore, there may be a
+considerable difference between these
+rates under ideal laboratory conditions
+and under ordinary laboratory conditions. For a discussion of the variability
+in false-positive rates, see the excellent
+commentaries by Meyer and Pauker
+(1987), Miike (1987), and Center for
+Disease Control (CDC) (1988). In the
+remainder of this note, I use the rates
+employed by the CDC (19875) in their
+own simulations.
+
+Current Public Health Service (PHS)
+guidelines (CDC, 1987a) call for the following two-step testing procedure:
+
+1. First, perform the Enzyme Immunoassay (EJA) test, which is relatively
+inexpensive’ (about $6 in negotiated
+
+those with a positive test result are in fact uninfected. It is well known that these fractions depend
+on the false-negative and false-positive rates and
+the fraction of those tested who are truly infected.
+We explore these issues. As we shall see, the problems we address are “‘caused”’ by the fact that test
+results are reported as either positive or negative.
+In fact, for example, a negative result should not
+be interpreted as negative with certainty, but only
+as negative with some probability less than 100 per
+cent.
+
+3Actually, the EIA test is repeated when the
+initial test is positive (to reduce the likelihood of
+laboratory error), so that an “EIA test” may not
+be one test but two (or several). A positive “test
+result” occurs when both (or all) EIA tests are positive (repeated reactive EIA); otherwise, the “test
+result” is negative. The false-positive and falsenegative rates shown in the text pertain to the
+“EIA test results” from the entire procedure, not
+to the individual tests involved (CDC, 19875).
+
+Brief Reports
+
+103
+
+contracts, Miike, 1987). In simulations
+performed by the CDC, it is assumed to
+have a false-positive rate (test is positive, given HIV is absent) of 0.005 anda
+false-negative rate (test is negative,
+given HIV is present) of 0.01 (CDC,
+19875).
+
+2. If the EIA test is positive, complete
+a more specific but much more expensive (about $50 in negotiated contracts,
+Miike, 1987) confirmatory test, usually
+the Western Blot (WB) test, on the
+same sample of blood used for the EIA
+test. In simulations performed by the
+CDC, conditional on a positive EIA
+result,* the WB test is assumed to have a
+false-positive rate of 0.001° and a falsenegative rate of 0.01 (CDC, 19875).
+
+A person is declared to be infected
+with HIV if and only if both tests are
+positive. Why is the two-step procedure
+used? The PHS guidelines state that the
+purpose is to “further increase the specificity of the testing process” (CDC,
+19872).
+
+The aim of this note is to argue that
+this purpose is inappropriate in some circumstances (specifically, in highprevalence groups), circumstances in
+which the goal ought to be to increase
+the sensitivity of the testing process
+rather than the specificity. This conclusion leads to a call for a revision in PHS
+counseling/testing protocols. First, however, let us explore the rationale for the
+PHS testing guidelines.
+
+Suppose that the prevalence of HIV
+in a group is rare, only 0.2 per cent (cer
+‘It is important to note that the WB is ordinarily not performed unless the EIA is positive.
+Hence, the unconditional false-positive and falsenegative rates for the WB are not even estimated.
+
+SMeyer and Pauker (1987) and Miike (1987)
+question whether the WB false-positive rate is this
+low. They cite evidence that it can be ten times
+higher. If so, then the argument in this note would
+be strengthened.
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+104 Brief Reports
+
+tainly an upper-bound estimate for lowrisk persons in the United States as a
+whole,® and that persons are tested at
+random. Then, as we can see from Figure 1, if only the EIA test were used,
+0.198 per cent (=0.002 - 0.99) of the
+population would be infected with the
+virus and test positive while 0.499 per
+cent (0.998 - 0.005 would not be infected with HIV and test positive. Thus,
+of those who test positive only 28.4 per
+cent would be infected with HIV. The
+predictive power of a positive test result
+is poor. With the two-step procedure,
+we see that 0.19602 per cent (=0.002 0.99 - 0.99) would be infected with HIV
+and test positive whereas 0.00050 per
+cent (=0.998 - 0.005 - 0.001) would
+not be infected with HIV and test positive. The predictive power of a positive
+result in the two-step procedure is 99.75
+per cent. The purpose of the two-step
+procedure is nicely illustrated by this example. It raises the predictive power of a
+positive test result from 28 per cent to
+virtually 100 per cent.
+
+Nevertheless, this result should not
+be interpreted as evidence that falsepositives can be ignored when testing
+groups with low prevalence of HIV.
+First, the prevalence of 0.2 per cent employed in the simulation is an upperbound estimate. If a lower prevalence
+were assumed, then the predictive
+power of a positive “‘test’’ (positive on
+both EIA and WB) result would be
+lower. Second, the joint false-positive
+rate used here is 0.000005 (=0.005 
+6The evidence on prevalence is reviewed in
+Meyer and Pauker (1987). Screening of military
+recruits has revealed seropositive results in 0.16
+per cent of men and 0.06 per cent of women.
+Among female blood donors, the seropositive rate
+is only 0.01 per cent. Some of these individuals undoubtedly were in high-risk groups, so that the
+prevalence in low-risk groups would be even
+lower.
+
+Social Biology
+
+0.001), a rate that Meyer and Pauker
+(1987) claim is far too low. If it were
+higher, then again the predictive power
+of a positive test result would be lower.
+For example, if the prevalence of HIV
+were 0.01 per cent and the joint falsepositive rate were 0.005, then the predictive power of a positive result in the
+two-step procedure would be only 1.9
+per cent.
+
+I agree completely with Meyer and
+Pauker that HIV screening in lowprevalence groups is not warranted. It
+should nevertheless be noted that in the
+CDC (1988) analysis of data collected by
+the College of American Pathologists
+Proficiency Testing program, there was
+not one false-positive when the two-step
+procedure was used. Likewise, there
+was not one false-positive among
+250,000-plus blood donors in Minnesota (SerVaas, 1987).’ The real problem
+lies with the accuracy of testing in some
+inexperienced commercial labs, and not
+so much with the accuracy under the
+“ideal” conditions that seem to be attained by (among others) the Armed
+Forces. Regardless of this uncertainty
+about the magnitude of false-positive
+rates, I argue below that in highprevalence groups (not addressed by
+Meyer and Pauker), I reach a different
+conclusion: that we cannot afford the
+false-negattives.
+
+My reasoning is motivated by another consideration that has not been
+addressed by the PHS. Before proceeding further, I should emphasize that this
+
+"There were 15 positives (positive EIA followed by positive WB). In an attempt to determine
+the specificity of these results, those testing positive were traced so that a test (which is difficult to
+perform and very expensive) for the AIDS virus
+(HIV) itself could be performed. HIV was cultured from the blood of 13. The 14th was already
+symptomatic with AIDS, and the 15th could not be
+located, though had previously admitted to being
+in a high-risk group.
+
+ 
+—|
+=
+©
+N
+Some
+oO
+=
+oO
+oO
+oO
+A
+Co
+©
+oN
+v.
+om
+=
+—
+CS
+‘gt
+wO
+oN
+—
+ao
+O
+=
+Cd
+©
+>
+—
+—
+N
+_
+oO
+>
+=
+c
+=
+va)
+OQ
+co
+oO
+ca
+CS
+©
+—
+c
+S
+©
+A
+
+Vol. 36, No. 1-2
+
+Brief Reports
+
+WB
+
++
+(,0019602)
+
+(0000198)
+
+oo
+
+999
+(.0049850)
+
+{.00000499)
+
+(.00499) .001
+
+Fig. 1.—Low Prevalence (0.2 per cent) of HIV. (The figure should be read from left to right. The
+conditional probability of advancing from one state to the next is shown along the path connecting the two
+states. The unconditional probability of arriving at any state, shown in parentheses under that state, is the
+product of the conditional probabilities along the entire path to that state.)
+
+consideration is not relevant in a lowprevalence group (a fact that I will now
+demonstrate), but becomes very relevant in a high-prevalence group, as we
+shall see below. First, let us examine the
+predictive power of a negative “test”
+result (negative on either EIA or WB).
+Using the logic developed earlier, we
+see that it ts 99.996 per cent accurate.
+Virtually everyone declared to be HIVfree in fact is uninfected. Next, let us
+consider the probability that a person
+“reprieved” by the confirmatory WB
+test (positive on EJA, but negative on
+WB) actually has HIV. We can see from
+Figure 1 that 0.00198 per cent (=0.002
+- 0.99 - 0.01) would be infected with
+HIV, test positive on EJA, and test negative on WB. Similarly, 0.4985 per cent
+(=0.998 - 0.005 - 0.999) would not be
+infected with HIV, test positive on EJA,
+
+and test negative on WB. Hence, of
+those “reprieved,” only 0.4 per cent actually would be infected with HIV. For
+each infected person falsely “‘reprieved”
+by the confirmatory WB test, there are
+252 uninfected persons who are correctly “‘reprieved.’’ Furthermore,
+among 100,000 people tested, the confirmatory test will cause only 2 persons
+with HIV to be incorrectly informed
+that they are not infected. Therefore,
+the cost (telling persons that they are not
+infected with HIV when in fact they are,
+plus the resources expended on the extra test) of the two-step procedure is
+small when compared with the benefit (a
+reduction in false-positive reports). Under these circumstances, it does indeed
+seem reasonable to follow the PHS
+strategy.
+
+Suppose, however, that the preva
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+106 Brief Reports
+
+lence of HIV in another group is much
+higher, say 20 per cent, which is probably less than the prevalence of HIV
+among homosexual men in some areas.®
+This situation is depicted in Figure 2.
+Using the same logic as before, we find
+that the predictive power of a positive
+result on the EIA test alone is 98.02 per
+cent.? With the confirmatory WB test,
+the predictive power rises to 99.998 per
+cent. Therefore, the “rights” of those
+without HIV seem to be guaranteed, because virtually none will be falsely “convicted.”
+
+But are the uninfected really protected? In this situation, we must examine false-negatives much more carefully.
+For example, we can easily deduce that
+the predictive power of a negative EIA
+alone is 99.75 per cent and that the predictive power of a negative result in the
+two-step procedure is 99.5 per cent.
+However, if we stopped at this point, we
+would overlook an important result.
+Closer examination reveals that 33 per
+cent of those “‘reprieved” by the WB actually would be infected with HIV. The
+cost of reducing false-positives is much
+higher than in the low-prevalence
+group. To reduce by two the number of
+uninfected persons falsely ‘‘convicted”’
+by the EIA test, the confirmatory WB
+test must “reprieve” one infected person. If the behavior of the false “reprieved” is not modified, there is a high
+probability that this group will continue
+to spread HIV. The false “‘convicted”’
+
+8For example, Meyer and Pauker (1987) state
+that “perhaps 50% of homosexual men in San
+Francisco have serologic evidence” of HIV infection.
+
+*This result—that the predictive power of a
+positive test result rises when the prevalence of the
+disease rises—is well known. It is a common exercise in an introductory statistics course. It is demonstrated for HIV testing in both CDC (1987)
+and Meyer and Pauker (1987).
+
+Social Biology
+
+are protected at the expense of the
+larger pool of uninfected.
+
+In the high-prevalence case, what
+should be done? I would argue that the
+answer depends on the purpose of the
+test. If it is for screening for employment, immigration, or insurance, then
+one might wish to protect the rights of
+the falsely “convicted” by following the
+PHS guidelines. This conclusion follows
+even more strongly if the false-positive
+rate is higher; see the discussion by
+Meyer and Pauker (1987). However,
+when the purpose is for counseling the
+individual (especially when the testing is
+performed anonymously), then one
+cannot protect the rights of the falsely
+“convicted” and the uninfected simultaneously. Because the tests are not perfect, there is a tradeoff between the two
+goals. In the low-prevalence case, the
+rights of the falsely ‘‘convicted” do seem
+compelling. Furthermore, the results
+powerfully suggest that HIV screening
+in low-prevalence groups is unwise
+(Meyer and Pauker, 1987; though see
+SerVaas, 1987). There was not one
+false-positive among 250,000 blood donors in low-prevalence Minnesota). In
+the high-prevalence case, the issue is not
+at all clear. Indeed, one might be
+tempted to argue that the second confirmatory test should be dropped in order to protect the public health.
+
+A better solution would be to use the
+results of both tests when counseling individuals. Those positive on both are
+virtually certain to be infected with
+HIV. Those negative on EJA have only
+a tiny probability of being infected with
+HIV and may (reasonably) safely assume they are not. Those positive on
+EIA and negative on WB may still have
+a high probability of being infected with
+HIV and should be urged to modify
+their behavior (if it is risky) if they are in
+
+ 
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+Vol. 36, No. 1~2
+
+HIV
+
+2 A+)
+
+(.20)
+
+.80
+
+(.80)
+
+Brief Reports
+
+ 
+
+107
+
+WB
+EIA
+99 +
+(.19602)
+.99
+(.198) 01 =|
+(00198)
+01 f
+(.002)
+995
+(.796)
+9991
+005 (+ (,003996)
+(004) .001
+|
+(000004)
+
+Fig. 2.High prevalence (20 per cent) of HIV. (The figure should be read from left to right. The
+conditional probability of advancing from one state to the next is shown along the path connecting the two
+states. The unconditional probability of arriving at any state, shown in parentheses under the state, is the
+product of the conditional probabilities along the entire path to that state.)
+
+groups with a high prevalence of HIV,
+at least until further tests resolve the ambiguity. Note that the problem is similar
+to the situation after a positive EIA test
+in the low-prevalence group in one respect, that is, the majority of those in the
+pool are not infected. The difference is
+that in the low-prevalence group the
+confirmatory test could be used to distinguish relatively accurately the infected from the uninfected. In the current situation—a positive EIA test and a
+negative WB test in a high-prevalence
+group—there is no further test available.!° Of course, subsequent retesting is
+
+This situation will undoubtedly change in the
+near future. SmithKline Bio-Science Laboratories
+has developed a confirmatory test for HIV antibodies that is claimed to be 100 per cent specific, so
+that the problem of false-positive results would be
+eliminated (NYT, 1988a). Another new confirma
+certainly warranted when there are ambiguous results, but it cannot be guaranteed to resolve the ambiguity.
+
+The counseling task in this situation
+would be very challenging, especially
+because the degree of risk depends on
+the individual’s prior probability of being infected, which may be unknown to
+the counselor. If the prior probability is
+20 per cent, then this risk, as we have
+seen, is about 1 in 3. If the prior probability is 80 per cent, perhaps characteristic of IV drug users in New York, then
+this risk rises to 9 in 10. Furthermore,
+
+tory test developed by the Cetus Corporation detects the AIDS virus directly, even if it is latent
+(hidden in cells), and it is claimed to be 100 per
+cent accurate (NYT, 19885; Ou et al., 1988). Yet
+another alternative would be to culture for the virus. This procedure is very expensive, timeconsuming, and difficult to perform, and it can detect the virus only when it is in an active stage.
+Downloaded by [University of Michigan] at 13:43 08 December 2015
+
+108 Brief Reports
+
+even the individual may not know
+whether he or she belongs to a high-risk
+group (e.g., unknown to the individual,
+a sexual partner may have had sexual relations with a homosexual male or with
+an IV drug user). In many instances,
+nevertheless, an individual may be confident that he or she does belong to a
+high-risk group.!! My reasoning is that
+the counseling in situations where a positive EIA ts followed by a negative WB
+could be phrased in terms of two hypothetical examples: (1) “If you are not in
+any of the following high-risk groups,
+then the probability that you are indeed
+infected is very small.” (2) “If you are in
+any of the following high-risk groups,
+then the probability that you are infected 1s moderately high, and you
+should act as if you are infected and
+therefore could infect others until your
+ambiguous test status can be resolved.”
+The high-risk groups would be those
+defined by the CDC, and they might be
+further differentiated if more precise information on the prior probability of infection for various groups becomes
+available.
+
+The alternative (the current procedure) to the proposed counseling protocols seems less messy only because the
+consequences are not readily evident to
+the counselor. One might agree with the
+logic of this argument but still conclude
+that no alteration to the counseling
+
+"The problem still remains that the definitions
+of high-risk groups are imprecise with respect to
+true high-risk factors. For example, a male homosexual couple in which both partners have had sexual relations only with each other (even if they live
+in a relatively high-risk area such as San Francisco)
+should be at no greater risk than a monogamous
+heterosexual couple (who live in, say, Salt Lake
+City). Likewise, some IV drug users (who never
+share a needle and who always use a new sterile
+needle) should be at low risk. The hope is that as
+more evidence accumulates it will be possible to
+define high-risk groups with more specificity and
+also to develop good estimates of the prevalence of
+HIV in each group.
+
+Social Biology
+
+guidelines is necessary because the situation is so rare. Of 1,000 persons tested,
+6 will test positive on EJA and negative
+on WB. Note, however, that the tests
+have already been performed; the only
+issue is the interpretation of the result
+(positive EIA followed by negative
+WB). The 2 (per 6) who are infected are
+just as much a public health problem as
+the 2 (per 1,000) who are infected in the
+low-prevalence group. The major difference is that they can be identified
+more precisely in the high-prevalence:
+group than in the low-prevalence group.
+
+Finally, [should note that a variant of
+this recommendation is already followed in tests to screen out HIV from
+the blood supply. All samples that test
+positive on EIA (regardless of the suspected prevalence of HIV) are destroyed, because the confirmatory test
+needlessly endangers, if only by a small
+amount, the nation’s health—specifically, the health of the uninfected. The
+goal of protecting the rights of the uninfected to an HIV-free blood supply is attained at minimal cost. Nevertheless,
+because donors are notified (and counseled) only when the confirmatory WB
+is positive, the more general protection
+of the uninfected is compromised, as it is
+whenever the PHS counseling protocols
+are followed. Another variant of this
+recommendation is the PHS suggestion
+that persons in high-risk groups who test
+positive on EIA might be counseled
+about their probable infection status
+(and ways to reduce HIV transmission)
+before the confirmatory WB result becomes available (CDC, 1986). Nevertheless, if the WB result is negative,
+such persons would be told that they are
+HIV-free. Should the rights of the
+falsely “convicted” prevail in all circumstances, particularly in high-risk
+groups? What, after all, is the purpose
+of HIV testing?
+
+ 
+—|
+=
+©
+N
+~
+oO
+=
+oO
+oO
+oO
+A
+Co
+©
+oN
+vw.
+om
+=
+—
+S
+‘'S
+wO
+ON
+—
+aon
+O
+S
+Ce
+©
+>>
+—
+—
+N
+~
+oO
+>
+—
+c
+~.
+ve)
+OQ
+vo
+oO
+co
+CS
+©
+—
+c
+Ss
+©
+a
+
+ 
+
+Vol. 36, No. 1-2
+
+ACKNOWLEDGMENTS
+
+I have benefited from discussions with, or
+comments from, Sylvia Cerel Bowen, Ward
+
+Brief Reports
+
+109
+
+Cates, James Curran, Irma Elo, Noreen
+Goldman, Robert Hatcher, Kathryn Kost,
+German Rodriguez, and Michael Stoto.
+
+REFERENCES
+
+CENTER FOR DISEASE CONTROL. 1986. Additional recommendations to reduce sexual
+and drug-abuse~related transmission of human T-lymphotropic virus type I]/Lymphadenopathy-Associated Virus. Morbid. Mortal. Wkly. Rep. 35:11~13.
+
+. 1987a. Public Health Service guide
+lines for counseling and antibody testing to
+
+prevent HIV infection and AIDS. Morbid.
+
+Mortal. Wkly. Rep. 36:509-515.
+
+. 19876. Recommendations for preven
+tion of HIV transmission in health-care set
+tings. Morbid. Mortal. Wkly. Rep. 36:1S18S.
+
+. 1988. Update: Serologic testing for antibody to Human Immunodeficiency Virus.
+Morbid. Mortal. Wkly. Rep. 36:833-840.
+
+MEYER, K., and S. PAUKER. 1987. Screening for
+HIV: Can we afford the false positive rate?
+New Eng. J. Med. 317:238-241.
+
+Mnokg, L. 1987. Testimony of Lawrence Miike,
+Office of Technology Assessment, U.S.
+Congress, before the House Committee on
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Small Business, Subcommittee on Regulation and Business Opportunities, October
+19, 1987.
+
+New York Times. 1988a. New AIDS test is being offered to confirm infection with virus,
+p. A10. February 26, 1988.
+
+. 19885. Two labs licensed for new
+AIDS test, p. A17. July 7, 1988.
+
+Ou, C., S. Kwox, S.W. Mrrcuett, D. H.
+Mack, J.J. SNINSKy, J. W Kress, P.
+FEoRINO, D. WaRFIELD, and G, SCHOCHETMAN. 1988, DNA amplification for direct detection of HIV-i in DNA of peripheral
+blood mononuclear cells. Science 239:295297.
+
+Rank, A., M. KRoun, J. ALLAIN, G. FRANCHINI, S. VALLE, J. ANTONEN, M. LEUTHER,
+and K. Kroun. 1987. Long latency precedes
+overt seroconversion in sexually transmitted Human-Immunodeficiency-Virus infection. Lancet. 2(8559):598-593.
+
+SerVass, C. 1987. Letter to the editor, p. A18.
+New York Times, December 14, 1987.
+
+ 
+
+ 
+

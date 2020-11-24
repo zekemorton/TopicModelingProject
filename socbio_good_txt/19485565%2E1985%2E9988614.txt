@@ -1,0 +1,2080 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ 
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Multivariable causal modeling in alcohol use
+research
+
+John R. Nesselroade & J. Jack McArdle
+
+To cite this article: John R. Nesselroade & J. Jack McArdle (1985) Multivariable causal modeling
+in alcohol use research, Social Biology, 32:3-4, 272-296, DOI: 10.1080/19485565.1985.9988614
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1985.9988614
+
+i Published online: 23 Aug 2010.
+
+&
+(g Submit your article to this journal @
+
+lal Article views: 1
+
+»
+Q View related articles 4
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:40
+
+ 
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+Multivariable Causal Modeling
+in Alcohol] Use Research
+
+ 
+
+John R. Nesselroade and J. Jack McArdle
+
+Department of Individual and Family Studies, The Pennsylvania State University, University
+Park, Pennsylvania; and Department of Psychology, University of Virginia, Charlottesville,
+Virginia.
+
+ABSTRACT: For a variety of reasons, multivariate approaches to the study of behavioral phenomena have received increased attention during the past several decades. These include: (1)
+greater awareness of the value of studying relationships among concepts defined over several
+variables rather than focusing on single variates as indicators of important constructs; (2) more
+sophistication in mathematical and statistical analysis; and (3) wider availability of computers
+and improved computer programs. Although once largely identified with “exploratory” analysis methods, multivariate applications are now found across a wide range of exploratory to explanatory activities. Currently, one of the most popular applications of the multivariate orientation concerns the development and testing of explanatory models of relationships among
+variables that feature a distinction between latent and manifest variables. To some extent these
+methods have already been employed to model: (1) drug and alcohol use; (2) genetics-behavior
+relationships; and (3) case study dynamics. In both exploratory, descriptive application and
+hypothesis testing multivariate methods promise to be of considerable value in developing a
+fuller understanding of biological and behavioral mechanisms involved in patterns of alcohol
+
+use.
+
+The convergence of two lines of activity defines the central focus of this paper. One line has to do with the enunciation and subsequent development of the
+multivariate perspective on the study of
+behavior. The other, which is related to
+the first but is somewhat more specific,
+involves the development and application of a subset of multivariate correlational methods, especially causal modeling procedures, for application in social
+and behavioral science. Rather than
+presenting novel aspects of multivariate
+analysis, the discussion to follow will involve reviewing salient features of these
+two themes and identifying common aspects that bear on alcohol use research.
+
+A multivariate orientation to the
+
+study of behavioral phenomena has, especially since the 1950’s, been an important influence on the way issues and
+problems are conceptualized and studied. Many behavioral scientists have
+urged the adoption of multivariate perspectives in the conduct of research.
+Cattell, however, more than any other
+person, made clear that “the multivariate approach” is indeed a conceptual
+framework for thinking about behavior
+and how to study it and not just a bag of
+analytical tricks (e.g., Cattell, 1957,
+1966b, 1979, 1980; see Horn, 1984, for
+overview). The theme is played out in
+various writings that, in admitting to an
+inherent complexity of behavioral phenomena, (1) warn of the futility of trying
+
+272
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+Vol. 32, No. 34
+
+to capture important psychological concepts with single observable variables or
+“indicators”; and (2) emphasize the
+value of defining outcomes or other behavioral manifestations in terms of patterns of relationships among several variables. In alcohol use research, for
+example, Wanberg and Horn (1983)
+identified 15 different dimensions underlying self-reported symptoms and
+
+     
+ 
+
+Occasions
+(k=l to (7
+
+Multivariable Causal Modeling
+
+273
+
+other drinking behavior variables. The
+multivariate complexity of alcohol use
+patterns underscores the diversity of the
+manifestations as well as the likelihood
+of different etiologies and the probable
+necessity of multiple approaches to
+treatment.
+
+The data box (Cattell, 19662), a representation of which is given in Figure 1,
+identifies various relational systems and
+
+| Datura
+
+ 
+   
+ 
+
+Variables
+
+Cpl to p)
+
+‘,
+
+Fic. 1.—The “covariation chart” or “‘data box” (after Cattell, 1966a). Each datum, d,,, is simultaneously defined by person, variable, and occasion: R-technique involves covarying variables over persons
+(for one measurement occasion); P-technique involves covarying variables over occasions (for one person); and T-technique involves covarying occasions over persons (for one variable).
+ 
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+274
+
+derivative covariation techniques and
+provides a systematic framework for discussing several aspects of the multivariate study of behavioral phenomena.
+These include design, measurement,
+and data analysis procedures. R- and Ptechniques, in particular, as they are
+represented in Figure 1, are the covariation approaches that bear most directly
+on the present discussion. T-technique,
+which involves the covariation of variables defined over persons who have
+been measured on one variable over
+many occasions, is identified but will not
+be further discussed. R-technique involves the covariation of variables
+defined over persons who have been
+measured one time each. P-technique
+involves the covariation of variables
+defined over occasions with all measurements being based on the individual
+case. Thus, R- and P-techniques are
+forms of cross-sectional and longitudinal designs, respectively. The two kinds
+of information produced thereby are
+conceptually related (Cattell, 1963;
+1966c) and, under particular statistical
+frameworks, formal expectations of
+their relationships can be derived (Nesselroade, 1983a, 1983 b).
+
+Further specification of the relationships between cross-sectional and longitudinal data is a major need in social and
+behavioral science. For example, in the
+arena of personality research the distinction between trait and state rests, in
+part, on these relationships (Nesselroade, 1983a). In developmental research, understanding the relationships
+between changes (longitudinal information) and differences (cross-sectional information) is a central objective (e.g.,
+Baltes et al., 1977). We may ask, for instance: Do individuals change along dimensions that are also appropriate for
+
+Nesselroade and McArdle
+
+Social Biology
+
+describing the nature of differences
+among individuals? In that regard, an
+area of growing concern in both substantive and methodological multivariate research is the utilization of P-technique
+designs in the pursuit of nomothetic laws
+(Lebo and Nesselroade, 1978; McArdle, 1982; Zevon and Tellegen, 1982;
+Nesselroade and Ford, 1985). Also, we
+may ask: How replicable across different individuals are the patterns of intraindividual change and variability that
+are derived from P-technique studies?
+Recent research indicates that substantial agreement can be found among intraindividual change patterns determined by P-technique analyses (Zevon
+and Tellegen, 1982; Nesselroade and
+Ford, 1985).
+
+One of the relatively recent crystallizations of method in which a multivariate orientation has played an integral
+part is the line of activity encompassed
+by the label “causal modeling with latent variables” (see, €.g., Bentler, 1980,
+1986). It involves the formal statistical
+estimation and testing of the goodness
+of fit to empirical data of models of
+causal relationships hypothesized to obtain among latent variables (see, e.g.,
+Jéreskog and Sérbom, 1979; Horn and
+McArdle, 1980; Schaie and Hertzog,
+1982). This development, which has its
+own unique history, spans many disciplines, including genetics (e.g., Wright,
+1921).
+
+At the present time in social and behavioral science, causal modeling with
+latent variables is very much in the limelight as an alternative to manipulative
+experimentation for trying to build explanatory models and to test them
+against empirical data in a rigorous and
+systematic fashion. The approach has
+seen ready application in a wide variety
+
+ 
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+ 
+
+Vol. 32, No. 3-4
+
+of substantive areas, including those of
+drug and alcohol use (Aneshensel and
+Huba, 1983). These generic modeling
+procedures have also been used to study
+genetic influences on behavior (e.g.,
+Eaves et al., 1978; Fulker, 1979; McArdle et al., 1980).
+
+The objective of the present paper is
+to review selected aspects of both the
+multivariate orientation to the study of
+behavior and causal modeling procedures and to highlight features of their
+communality that pertain to research on
+alcohol use. Three selected applications
+of modeling to the study of alcohol use
+will be presented.
+
+THE MULTIVARIABLE
+ORIENTATION
+
+The study of relationships among
+variables is, of course, central to science. The major assumptions that underlie how one believes that the matter
+should be approached are often only implicit in one’s behavior. That is, viewing
+events as inherently multifaceted and
+complexly determined is one thing.
+Whether one attempts to apprehend the
+myriad relationships by multivariate design and analysis methods or by means
+of classical, randomized, bivariate experimental design is quite another. Often, the label multivariate has been construed as synonymous with descriptive,
+exploratory research; the so-called
+“correlational” approach. We believe
+that this Jabe] with its associated surplus
+meaning does not accurately reflect contemporary affairs. The literature, graduate training practices, and general lore
+in psychology have tended to stress fundamental distinctions between manipulative experimental and differential (or
+correlational) approaches to the study
+
+Multivariable Causal Modeling
+
+275
+
+of behavior (e.g., Cronbach, 1957,
+1975). However, developments in the
+formalization of design properties and
+analysis procedures have tended to blur
+considerably the distinction between explanatory and descriptive, exploratory
+approaches in the past twenty years or
+so (Nesselroade and Labouvie, 1985).
+The multivariate orientation represents an attempt to improve on the way
+we study behavior. It has led to a number of valuable gains in the definition
+and clarification of measurement, design, and analysis issues and has fostered
+the development of a line of methodological innovations by which to deal
+with the empirical questions arising
+therefrom. For example, the multivariate orientation leads to a number of considerations that bear importantly on the
+study of changes (e.g., developmental
+processes) as well as on the evaluation of
+differences. Many of these issues do not
+emerge clearly in a bivariate format.
+Among them, for example, are concerns with measurement equivalence
+(Labouvie, 1980) and invariance of relationships among variables over different
+subpopulations (Meredith, 1964; Nesselroade, 19835; Horn et al., 1983).
+
+ASSUMPTIONS UNDERLYING THE
+MULTIVARIABLE APPROACH
+
+In line with prior discussions by Cattell (19665), Coan (1966), and others,
+Baltes and Nesselroade (1973) defined a
+multivariate approach to the study of
+developmental phenomena as embodying three assumptions. These are: (1)
+Any dependent variable (or consequent) is potentially a function of multiple determinants; (2) any determinant
+or antecedent has potentially multiple
+consequences; and (3) the study of multiple antecedent-consequent relation
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+276
+
+ships provides a useful model for the organization of complex systems. These
+three assumptions appear, at least on
+the surface, to run counter to bivariate
+research practice. Conceptually, they
+provide a means for defining both
+“causes” and “effects” in terms of patterns of relationships among several variables. Appropriately illustrative of the
+point, given the general focus of this series of papers, are McClearn’s (1983)
+characterizations of polygenic inheritance and pleiotropy. In the former, one
+phenotype is influenced by several
+genes; in the latter, one gene influences
+many phenotypes.
+
+DIMENSIONS OF RESEARCH DESIGN
+
+Within the framework of a multidimensional comparison scheme, Cattell
+(19665) systematically identified and
+discussed multivariate and bivariate research designs. He argued that the differences that have led to quite divergent
+practices in aspects of conceptualization, research design, and data analysis
+are not accurately portrayed by the traditional dichotomy experimental versus
+correlational. He also made it clear that
+the label multivariate should not be considered to be synonymous with the label
+correlational.
+
+The dimensions identified by Cattell
+along which research designs can be dif
+ferentiated include:
+
+(1) bivariate versus multivariate in num
+ber of variables;
+
+(2) presence versus absence of manipula
+tion;
+
+(3) simultaneity versus succession of ob
+servations;
+
+(4) degree of situational background con
+trol;
+
+(5) representativeness of choice of varia
+bles; and
+
+(6) representativeness of subjects or ex
+perimental units.
+
+Nesselroade and McArdle
+
+Social Biology
+
+The number of possible combinations of levels of these six dimensions attests to a rich variety of design possibilities. In the context of life-span
+development and aging research, Nesselroade and Labouvie (1985) discussed
+the linkage of these dimensions to
+Campbell and Stanley’s (1966) concepts
+of internal and external validity of research design.
+
+MULTIVARIATE COMPOSITES AND
+FACTORS
+
+Analytically, the multivariate approach is rendered operational by combining two or more variables into
+‘“‘meaningful”? composite variables,
+most often in a linear, additive fashion.
+Although the linear and additive aspects
+are somewhat constraining, they are
+temporary boundaries that more powerful computers and better statistical estimation procedures will help to enlarge.
+In preparation for a more detailed look
+at the nature of structural modeling procedures, it will be helpful to consider
+briefly the criteria by which linear combinations are formed.
+
+A distinction that is often made in
+discussions of multivariate analysis procedures and one which will illustrate different kinds of linear combinations is
+that between principal components and
+principal factors. Principal components
+are derived variables that are formed by
+weighting and summing observed variables according to particular criteria. For
+example, Y;, in the expression
+
+Ye = Dy X + byX2 +
+
+2. t OX, (1a)
+
+would be a principal component of the
+set of observed variables, X;, X2,...,
+X,, provided that the weights, by, by,
+etc., are chosen so that Y; manifests certain optimal attributes related to the
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+ 
+
+Vol. 32, No. 3~4
+
+variance of the X’s and Y;,’s covariance
+with the other principal components of
+the set of X’s. The nature of the relationships between observed variables and
+principal components is such that one
+can also solve for each observed variable, X;, as a linear combination of the
+full set of n principal components as
+symbolized in Equation (1b). That is,
+
+Xj = wyrY) + WY +
+
+wee t WY (1b)
+
+By contrast, principal factors are
+defined according to the model
+
+X= Wh +t...
++ Lk, + U,,
+
+(2)
+
+where X; is an observed variable that is
+accounted for as a weighted combination of k hypothetical variables or common factors, Fi, 2, ..., Fy anda
+unique factor U;. The weights, 1), 1), .
+
+. , 1, that define the contribution of
+each factor to the variance of the observed variable, Xj, are referred to as
+factor loadings. Subsequently, the complete matrix of factor loadings will be
+symbolized as L.
+
+Both the principal component and
+the principal factor expressions involve
+observed variables, X’s, but in the principal components case the X’s are themselves combined. In the principal factors
+case, it is the hypothetical factors that
+combine to account for the X’s. This is
+an important theoretical distinction
+that, when not observed, creates a great
+deal of confusion.
+
+In general, two major kinds of criteria are used to define the linear combinations of variables that are developed
+in multivariate research. They can be
+classified as internal and external to the
+set of variables from which the composites will be formed. Internal criteria include those used to determine, for ex
+Multivariable Causal Modeling
+
+277
+
+ample, principal component or factor
+analytic solutions, clusters, and multidimensional scaling outcomes. They are
+internal in the sense that the resolution
+achieved derives from the interrelationships of the variables in the set being analyzed. One seminal application in psychology involves Spearman’s (1904) use
+of factor analysis to characterize the interrelationships of ability performance
+measures in terms of a single general
+ability dimension,
+
+By contrast, external criteria are employed in techniques such as multiple
+regression, canonical correlation,
+MANOVA, and discriminant function
+analysis. These latter methods involve
+the combining of a set of variables so as
+to maximize the relationships between
+composite variables defined on the set
+and one or more variables that are external to the set from which the composite
+is being derived. Obviously, the internal
+structure of the variables from which the
+composite is formed plays a role in determining the specific nature of the composite, but the fact remains that it is constructed in relation to at least one
+variable that is external to the set. In
+multiple regression, for example, a linear composite of predictor variables is
+formed that best predicts (correlates
+most highly with) some external criterion measure (e.g., predicting graduate
+school performance from GRE scores,
+undergraduate GPA, etc.).
+
+These ideas concerning composites,
+which reflect, by and large, the analysis
+of cross-sectionally measured individual
+differences, are rather familiar ones. In
+the sequel we will attempt to broaden
+the discussion somewhat by focusing
+more On intraindividual change and variability, while maintaining a concern for
+between-persons differences. The
+causal modeling to be discussed will be
+ 
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+278 Nesselroade and McArdle
+
+seen to involve both internal and external criteria. Before proceeding to an examination of causal modeling issues,
+however, we will attend to some aspects
+of data aggregation that bear on the general research issues on which the conference is focused.
+
+AGGREGATION OF DATA
+
+Discussions of the differences between traditional experimental and differential approaches to the study of behavior have been influential in
+articulating the role that individual differences have already played, and can
+be expected to play, in the study of lawful relationships (Cattell, 1966b; Cronbach. 1957, 1975). Attempts at rapprochement have been sporadic and not
+generally successful and the distinction
+continues to be rather widely observed.
+Although both “experimentalists” and
+“individual differences types” can point
+to discoveries to be positive about, pessimistic conclusions regarding current
+levels of knowledge development and
+the ultimate generality of lawful behavioral relationships (Cronbach, 1975;
+Sinnott, 1981; Gergen, 1984) provide a
+reason for occasional reflection about
+what we can hope to accomplish in the
+study of behavior. Any need for caveats,
+however, can be interpreted to reflect
+on the way we study behavioral phenomena as much as on the fundamental
+nature of behavior.
+
+An area of concern on which we wish
+to focus briefly has to do with the simple
+pooling of data across persons in order
+to estimate relationships such as the covariances or correlations among variables on which inferences regarding lawful relationships are based. In brief, this
+kind of aggregation presupposes a conti
+Social Biology
+
+nuity of meaning of variables from person to person that translates into: (1)
+whether or not the variables are the
+same for each observational entity (e.¢.,
+persons); and (2) whether or not the nature of the relationships among variables is the same for each observational
+entity. Let us consider each question
+briefly.
+
+Labouvie (1980) examined issues of
+equivalence both at the measurement
+variable and the construct levels and explored the use of multivariate approaches to resolve them. The central
+question here has to do with the extent
+to which the nature of variables with respect to the individual cases justifies
+pooling data for the purpose of estimating covariances, correlations, or other
+population parameters where population definition rests on multiple organisms rather than, say, multiple occasions for a single organism. Concern for
+the meaningfulness of such operations
+has been evident for several decades
+(e.g., Guilford, 1952) although in practice it is still largely ignored. Such concerns, however, have deepened on the
+part of differentially-oriented researchers in part, at least, because of empirical
+work conducted in the P-technique tradition (Cattell and Scheier, 1961; Cattell, 1963; Luborsky and Mintz, 1972;
+Lebo and Nesselroade, 1978; McArdle,
+1982; Zevon and Tellegen, 1982; Nesselroade and Ford, 1985).
+
+Related to the same versus different
+variables question, but in some respects
+more compelling, is the question of
+whether or not the nature of relationships among variables is the same, in
+some sense, across persons. The development of prediction schemes that involve moderator variables and, in the
+extreme, personalized beta weights tesDownloaded by [University of Michigan] at 13:40 08 December 2015
+
+Vol. 32, No. 3-4
+
+tifies to the realization that pooling individuals can, in some cases, obscure
+rather than stabilize estimates of relationships (cf. Pruzek and Frederick,
+1978). For example, Tucker (1966) developed procedures for simultaneously
+defining generalized process curves and
+individualized weights for combining
+them to account for the observed
+changes in each individual. This work
+further illustrates a concern to maintain
+an awareness of individual differences
+above and beyond pooled dimensions of
+performance and change. Zevon and
+Tellegen’s (1982) arguments for an
+idiographic/nomothetic approach to the
+development of behavioral laws are supportive of the importance of these questions about the nature of variables and
+the generality of their interrelationships.
+
+The points just raised are intended to
+sensitize the reader to ways of broadening traditional individual differences
+concerns in order to improve our accounts of behavior and behavior
+change. Combining such concerns with
+a multivariate orientation to measurement, design, and analysis issues leads
+to many avenues yet to be explored in
+the search for lawful relationships that
+account for behavior. We now turn to an
+examination of selected aspects of
+causal modeling that offer some promise
+for the further exploitation of individual
+differences information in the pursuit of
+explanatory schemes.
+
+CAUSAL MODELING IN SOCIAL
+AND BEHAVIORAL SCIENCE
+
+Whether because of ethical constraints, inaccessibility of variables, or
+the inherent complexity of a system, it is
+not always possible to implement classi
+Multivariable Causal Modeling 279
+
+cal randomized, manipulative, experimental designs. Indeed, in comparing
+classical experimental and multivariate
+experimental research designs, Cattell
+(19665) identified as one of the primary
+differences their relative standing on the
+manipulative versus non-interfering dimension. Although at the time Cattell
+was concerned more with differences in
+what could be accomplished with the
+use of factor analysis and related correlational procedures in contrast to analysis-of-variance-based experimentation,
+his discussion applies to the methods
+currently referred to as causal modeling.
+Describing how these advanced tools
+can and should be used involves questions that are complex and difficult to
+answer directly. A variety of mathematical and statistical model building devices and plans have been defined by,
+among others, Bentler (1980), Jéreskog
+and Sérbom (1979), McDonald and
+Krane (1979), and Horn and McArdle
+(1980).
+
+Causal modeling procedures offer a
+Statistical approach to testing the goodness of fit between a specific network of
+hypothesized causal relationships and
+empirical data. In implementing such a
+test, systems of equations that describe
+the hypothesized relationships are developed with a sufficient degree of specification that their ability to account for
+the empirical interrelationships among a
+set of variables can be rendered dubiOuS; i.e., it is possible to falsify the
+model. The equation system is then
+solved with the values of free and constrained parameters of the system being
+estimated in light of both the empirical
+data and the values of the fixed parameters specified in the model. A statistical
+verdict concerning the goodness of fit
+can be used to evaluate the plausibility
+
+ 
+ 
+
+ 
+
+280
+
+of the model. Modeling procedures can
+also take the form of comparative evaluation of alternative plausible causal
+models against the same data set. It is
+important to realize that decisions in either case can lead to disconfirmation but
+not confirmation of models. In a concluding stage of model building, the final
+parameter values are relinked to the
+original substantive concepts.
+
+MEASUREMENT MODELS
+
+A simple example of one kind of
+© causal model is represented pictorially
+A in Figure 2. It illustrates the distinction
+% between observed variables and latent
+© variables that is often made in causal
+© modeling applications. We will briefly
+consider the major aspects of that distinction.
+
+The observed variables, which are
+used to “mark’’ the unobserved or latent
+variables, play a key role in the modelfitting procedure. Those two classes of
+variables and the relationships between
+them constitute what some have labeled
+the measurement model (e.g., Bentler,
+1980; Jéreskog, 1979). In principle, the
+measurement model is analogous to the
+common factor model given by Equa
+mber 2015
+
+a
+
+—_
+
+L,= Ln =
+
+Downloaded by [University of Michigan
+
+@aooonon un
+e2ox*nnunooodo
+“AnHoaoaoodaoeo
+OX oaoaonunn
+ooerrooxgo
+uuoox ooo
+
+tion (2). Many of the concerns about the
+nature of the relationships between variables and factors that have arisen in the
+context of factor analysis apply here as
+
+Nesselroade and McArdle
+
+Social Biology
+
+well. For instance, the definition and
+representative sampling of the content
+domains of the latent variables typically
+require a multivariate measurement system. Having a sufficient number of valid
+observables to define the factor or latent
+variable adequately is necessary if a rigorous test of the hypothesized causal
+network is to occur. Moreover, there
+are statistical advantages that accrue
+from the use of multiple indicators of the
+constructs but these can be negated to a
+large extent by a poor choice of measures. In that sense, the longstanding
+concerns of factor analysts regarding
+such issues as heterogeneity versus
+homogeneity of marker variable sets remain pertinent to the modeling situation.
+
+A major question that arises in practical applications is ‘‘What should a
+measurement model look like?” Answers to this question are an everpresent concern of causal modelers.
+Some guidelines are provided by eighty
+years of work on factor analysis (see,
+e.g., Spearman, 1904; Cattell, 19662).
+For example, given the eight manifest
+variable and three latent variable model
+presented in Figure 2, we can write three
+alternative factor pattern matrices as
+
+ss
+>
+(
+
+(32)
+
+00
+mh
+hh
+hm
+sh
+s 0
+hs
+0s
+
+CFOWre 4a”
+
+where the three columns represent Figure 2’s S, N, and A, respectively. The
+symbols “‘s,” “m,” and “h” represent
+
+factor loading coefficients that may be
+
+ 
+
+ 
+Vol. 32, No. 3-4 Multivariable Causal Modeling 281
+
+     
+ 
+  
+    
+
+ 
+
+a i 7)
+Me. - 45 A 0-5
+: <: : a
+
+    
+
+tii Liiit
+
+ 
+
+Se Se Bet a iS at Pa
+eR RR FB
+
+46 88 {8 3 r le 13
+
+(02) (64) (Bt) (Ay (83) (83) (G3) (G5)
+
+Graphic Key:
+
+i" Manifest (Giver) Variable
+
+‘ Latent (Hidden? Variable
+
+——p = Asymmetric (Regression) Parameter
+Qh = Summetric Covariance) Parameter
+
+Labelled Values are Naxamum~Likelihood
+Estimates (with Standard Errors?
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+Parameters not Jabelled are Unit-valued
+
+ 
+
+Fic. 2.—Latent variable path model of within-occasion (P-technique) factor model (after McArdle,
+1982). Labels of latent variables are prefixed by C (common factor). Common factors include CS (PsychoJogical State), CN (Narcissism-Comfort), and CA (Alcohol Interest). Ss are specific factors. Manifest variables represent daily recording of Eight State Questionnaire levels of Stress (ST), Depression (DE), Fatigue (FA), and Arousal (AR); and Motivational Analysis Test levels of Alcohol Interest—Integrated
+(AI), Alcohol Interest- Unintegrated (AU), and Narcissism-Comfort~Integrated (NJ) and Unintegrated
+(NU). Values represent final maximum-hkelihood parameter estimates with standard errors in parentheses.
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+282
+
+estimated from the data, and the ‘‘0” elements represent predefined “‘fixed”’
+zero relationships (1.e., “‘hyperplanes’’).
+
+Taken collectively, the pattern of
+zero and non-zero loadings defines a
+multivariate hypothesis about the number and nature of the relationships between the latent and manifest variables.
+The first loading matrix, L,, defines a
+multivariate hypothesis that is particularly simple; the manifestations are each
+presumed to be the result of only one
+common, underlying latent construct
+(one non-zero element per row). The
+first factor is proposed to account for
+four manifestations, while the other two
+factors are posited to account for only
+two manifest variables each. The simplicity of this pattern hypothesis, sometimes referred to as a “simple structure”
+pattern (see Jéreskog and Sérbom,
+1979; cf. Thurstone, 1947) makes it particularly easy to characterize the nature
+of the latent variable: The loading pattern can be understood, and given a label to match, in terms of the natural
+erouping of the variables. Thus, in the
+simple example presented in Figure 2,
+factor three may be considered “alcohol
+interest” (labeled A) because it is presumed to be the only direct underlying
+source of the manifest measures of “‘interest in alcohol” (labeled AJ and AU;
+for details see McArdle, 1982).
+
+The other two hypothetical loading
+matrices are more complex. In matrix
+Lm We pose a set of non-zero loadings
+that contain all of the prior eight “‘s”
+loadings, but we also add three new
+loadings labeled “m.” The representation of the latent variables remains simple with respect to five manifest variables, so these five may still be used
+simply to mark the factors. But new
+loadings labeled “zm” are introduced on
+
+- Nesselroade and McArdle
+
+Social Biology
+
+a new factor for three of the manifest
+variables. The inclusion of two non-zero
+loadings for a manifest variable implies
+that it is constituted from two operationally distinct sources—an arrangement
+that bears a striking resemblance to the
+familiar genetic representation of pleiotropy (see McClearn, 1983). In any case,
+this pattern matrix, L,,, may be considered to be of medium complexity because the new factors may turn out to be
+relatively more difficult to label and understand.
+
+The final loading matrix presented,
+L», includes both the simple loadings,
+“s,”’ and the medium loadings, “7,”
+and further includes a third set of loadings, “h.”’ In a typical application this
+global pattern is referred to as an “unrestricted” factor loading pattern; that is,
+the minimum number of zeroes required for statistical identification is hypothesized. However, because the three
+marker variables remain “simple,” the
+original simple factors defined by L, are
+not confounded (or collapsed) with one
+another. So, although other “rotations”
+may yield the same level of fit, this configuration represents a particular factor
+orientation that is defined by a minimum hyperplane which can yield maximum information about the non-zero
+loadings. It follows that this particular
+loading pattern is of high complexity because five of the eight manifest variables
+may load on all three latent factors.
+
+The configuration of these three
+loading patterns can be described in
+terms of the increasing complexity of interpretation, in terms of the increasing
+number of parameters required, or by
+the way simpler alternatives are
+“nested” inside one another (i.e., L,isa
+proper subset of L,, etc.). There are
+other important aspects of these meaDownloaded by [University of Michigan] at 13:40 08 December 2015
+
+ 
+
+Vol. 32, No. 3-4
+
+surement models such as the statistical
+estimation of the free parameters. but
+for now we simply want to recognize
+that these are all valid measurement
+model choices in a model-building process. That is, these three alternative factor loading patterns represent specific
+knot points on a much broader continuum of possible measurement models.
+
+STRUCTURAL MODELS
+
+The latent variables and their hypothesized interrelationships can be
+said to comprise the structural model
+(Jéreskog and Sérbom, 1979) to be eval
+(
+
+ma 16
+
+      
+  
+
+~46
+(05)
+
+yfeseuenens
+
+Multivariable Causal Modeling
+
+   
+
+283
+
+uated. These relationships, which specify the causal linkages among latent variables or constructs, may be either
+unidirectional or bidirectional. They
+can also simply represent correlated,
+but not necessarily causally related, variables. A simple example of a structural
+model is presented graphically here as
+Figure 3.
+
+As before, a major question that
+arises in practice is “What should a
+structural model look like?” Also as before, answers to this question are an
+ever-present concern; sdme guidelines
+are provided by nearly seventy years of
+
+ind ‘CAt#¢ ib;
+
+( 2
+
+Fic. 3.—Path model of within-occasion latent variable regression (after McArdle, 1982). Factor model
+
+is shown in Figure 2.
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+284
+
+path analysis (see Wright, 1921; McArdle and McDonald, 1984). Now, for example, given the three latent variables
+presented in Figure 3, we can use path
+analysis concepts to represent the asymmetric or causal relationships among the
+latent variables as ‘‘S,” “‘N,”’ and “A,”
+and write three alternative latent variable path matrices P; as
+
+P,=1000
+000
+
+s 00
+
+where; as before with the L; matrices,
+the elements of path matrix P; are describable with free parameters “‘s,”’
+“m,” and “h” and fixed parameters “0.”
+
+The first model, P,, illustrates a very
+basic path concept. Here, the first factor, labeled ‘‘S” for ‘Psychological
+State,’’ is posited to be the only cause of
+the third factor, labeled “‘A”’ for Alcohol Interest.”” Among other hypothetical restrictions, this model explicitly presumes that there is no direct effect of the
+second factor, labeled “‘N’”’ for ‘‘Narcissism,” upon the A factor. Any possible
+indirect effect of N upon A would depend on the pattern of background correlations posited in further matrices
+(which for brevity are not presented
+here; but see McArdle and McDonald,
+1984).
+
+The second path model, P,,, is considered to be of medium complexity because it contains the simple model given
+by parameter “‘s,” and further allows, as
+signified by parameter ‘‘m,”’ a direct effect of factor N on factor A. This represents the particular path pattern diagrammed in Figure 4,
+
+The third path model, P,, is considered to be of high complexity because it
+contains both the simple and the medium complexity parameters and fur
+Pig =
+
+Nesselroade and McArdle
+
+000
+000
+s m0
+
+Social Biology
+
+ther posits four “h”’ parameters representing additional direct effects as well
+as complex “non-recursive” or feedback
+mechanisms. This final model, which
+may represent a theoretically defensible
+position, is so intricate that it is usually
+difficult to identify on a mathematical or
+Statistical basis (but see Kenny, 1979;
+McArdle, 1981, 1982).
+
+P,= 00k
+hOjh
+
+smh
+
+(35)
+
+These three alternative path models
+illustrate the broad range of possibilities
+available with the latent variable path
+concept. At the same time, they represent the variety of possibilities that the
+model builder needs to consider.
+
+CAUSAL MODELS
+
+Taken together, the measurement
+and the structural models can_be said to
+represent a causal system that might or
+might not be tested against empirical
+data. As opposed to focusing solely on
+observed or manifest variables, a wellspecified measurement model permits
+one to interrelate “‘errorless”’ latent variables in the structural component
+(Huba and Bentler, 1982; cf. Martin,
+1982). The resulting verdict may be that
+the model is not disconfirmed or it may
+be that the model should be rejected asa
+plausible representation of how observed and latent variables are related.
+
+The linkage of the measurement and
+structural components into one model
+creates new questions, viz, ‘““What
+should my combined causal model look
+like?” The inherent complexity of this
+problem is realized when we view the
+possible combinations of the three loading matrices L; of Equation (3a) with
+the three path matrices P; of Equation
+ 
+
+4
+—
+©
+N
+
+H
+oO
+
+Downloaded by [University of Michigan] at 13:40 08 Decemb
+
+Vol. 32, No. 3-4
+
+(3b); even in this simple example we can
+create nine different alternative causal
+models.
+
+One way to deal with this emergent
+causal complexity is to relate both components to a broader modeling strategy.
+In our example the strongest a priori
+causal model described above is represented by the combination of L, and P,.
+This combination of a simple measurement model with a simple path model
+leads to the simplest explanation. Unfortunately, it is often the case that, unless some care is taken to proscribe the
+experimental variables, this causal
+model is rejected as being “too simple”’
+for the problem at hand. Alternatively,
+the weakest a priori causal mode] that
+may be directly estimated is represented
+by the combination of L, and P,,, and
+this combination can be used to provide
+maximum fit. But, again, unless some
+care is taken to provide for internal replicability, the mathematical and statistical basis of the model may be too “‘unstable” for a definitive interpretation.
+Perhaps the most salient point to be
+made here is that mixtures of these loading models and path models represent
+flexible alternative views on the meaning and interpretation of latent variables
+themselves (James et al., 1982; cf.
+McArdle, 1984a, 1984b).
+
+Modification of the initial model is
+possible and may lead to a significant improvement in the goodness of fit.
+Clearly, however, ad hoc modifications
+shift the emphasis from confirmatory toward exploratory analysis and require
+some independent assessment such as
+by cross-validation techniques (Cliff,
+1983; Nesselroade and Baltes, 1984).
+With several marker variables, for example, there is the possibility that more
+than one factor is involved in accounting
+
+Multivariable Causal Modeling
+
+285
+
+for extant common variance. These possibilities can be accommodated by the
+modeling procedures but they may be
+“forced” onto the solution due to an initially poor fit (see, e.g., McArdle and
+Horn, 1981).
+
+The dependence of the measurement
+and the structural components on each
+other is germane to our discussion. Ifthe
+two components of the causal system
+are estimated simultaneously, they both
+contribute to the goodness of fit (or lack
+thereof) of the model to the data. In
+principle, if one or the other component
+represents a poor fit, the entire model is
+jeopardized. It may be possibile, however, to disentangle these sources in
+many ways, the most familiar of which is
+by sequential fitting procedures (see
+Bentler, 1980). Nevertheless, the two
+aspects underscore the importance of
+having valid “indicators” or ‘‘marker’”’
+variables for constructs if tests of explanatory schemes are to be productive.
+
+Thus, causal modeling with latent
+variables is a clear extension of multivariate analysis procedures in two ways:
+(1) Multiple indicators are utilized to
+provide a more valid representation of
+the latent variables; and (2) the hypothesized models can include multiple antecedent and multiple consequent latent
+variables. In the context of discussing
+the pluralistic orientation that seems to
+characterize much of life-span developmental research, Dixon and Nesselroade (1983) recognized both the
+merit and timeliness of causal modeling
+techniques. They observed, however,
+that although it is not clear whether this
+particular chapter of methodological
+history will be long or short, it clearly
+will not be the last. However, for researchers whose scientific questions do
+not admit of answers derived from ma
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+286 Nesselroade and McArdle
+
+nipulative, randomized experimental
+research paradigms, it is important that
+all possible value be wrung from these
+methods even as we inexorably move on
+to alternatives. SS
+
+ILLUSTRATIONS OF MODELING
+
+To illustrate how causal modeling
+with latent variables can contribute to
+the development of explanatory
+schemes in the field of alcohol use, some
+examples of applications of modeling
+will be presented. Of course, we do not
+wish to downplay the excellent prior
+work produced using other methods
+that represent latent variable modeling
+using traditional multivariate techniques (see, e.g., Foster et al., 1972;
+Horn et al., 1974; Wanberg et al., 1977;
+Skinner, 1979, 1981). Here, however,
+we will simply overview three examples
+from the contemporary modeling literature on alcohol consumption, genetic influences, and individual systems analySiS.
+
+CAUSAL MODELING OF ALCOHOL
+CONSUMPTION
+
+Huba and Bentler (1982) reported on
+the development and testing of explanatory models of alcohol and drug use. In
+addition to a construct of Alcohol Use,
+their models involved a set of psychosocial antecedents that included the constructs of Rebelliousness, Perceived Behavioral Pressure, and Intimate Culture
+Support.’A simplified representation of
+their models is presented in Figure 4.
+
+The R-technique measurement
+model included the following constructs
+and their indicators: Intimate Culture
+Support (number of friends who cheat
+on an important exam, number of
+friends who might quit high school,
+
+ 
+
+Social Biology
+
+number of friends who cut class); Rebelliousness (6-item, self-reported Law
+Abidance scale; 2-item, peer-rated Law
+Abidance scale; 6-item, self-rated Liberalism scale; 2-item, peer-rated Liberalism scale); Perceived Behavioral Pressure (number of friends who drink beer
+or wine at least once a month, number
+of friends who drink hard liquor, number of friends who give the participant
+beer or wine); and Alcohol Use (beer,
+wine, and liquor use frequencies).
+
+The structural model, as represented
+in Figure 4, reflected the hypotheses
+that Rebelliousness and Alcoho! Use at
+Year I had direct influences on Alcohol
+Use at Year II, that Rebelliousness at
+Year I also had an indirect effect on Alcohol Use at Year II that was moderated
+by Intimate Culture Support and Perceived Behavioral Pressure, that Intimate Culture Support indirectly influenced Alcohol Use at Year II through
+Perceived Behavior Pressure, and that
+Perceived Behavioral Pressure had a direct influence on Alcohol Use at Year
+If.
+
+After a series of model fitting and
+testing estimation procedures were carried out, Huba and Bentler (1982) concluded, for example, that the influence
+of Rebelliousness and Perceived Behavioral Pressure on subsequent Alcohol
+Use complements the way it influences
+previous Alcohol Use. The influence of
+Intimate Culture Support characteristics on subsequent Alcohol Use was
+found to be moderated through Perceived Behavioral Pressure rather than
+influencing it directly.
+
+MODELING GENETIC INFLUENCES
+
+Many common-sense notions about
+alcoholism center on theoretical differences between the genetic and environDownloaded by [University of Michigan] at 13:40 08 December 2015
+
+ 
+
+Vol. 32, No. 3-4 Multivariable Causal Modeling 287
+
+~ r
+
+ee 54
+CR, $$ Cl, |
+
+           
+ 
+  
+
+poner eagem.,
+
+CR
+
+  
+
+ 
+
+BD
+
+CA
+
+ 
+
+Chie —* pg
+
+Fic. 4.—Latent variable path model of relationships among personality, subculture, and alcohol use
+(R-technique) factors (after Huba and Bentler, 1982, p. 191). Labels of common factors are prefixed with
+C. Subscripts 1 and 2 designate year of testing. R = Rebelliousness, J = Intimate Culture Support,
+P = Perceived Behavioral Pressure, andA = Alcohol Use. D,, Di, and D, are latent disturbances acting
+on the common factors. Chi-square = 84; df = 63;z = 1.8.
+ 
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+288
+
+mental determinants of alcohol use.
+There has been a wide range of studies
+of genetic disposition to alcoholism
+based on psychophysical responses. Indeed, this work ranges from traditional
+multivariate analyses of the EEG (e.g.,
+Propping et al., 1981; Begleiter et al.,
+1984) to the examination of “flushing”
+(e.g., Johnson et al., 1984). In terms of
+causal modeling techniques, a general
+approach to the genetic and environmental determinants of behavior was
+detailed by Eaves et al. (1978) and
+Fulker (1979).
+
+An example of causal modeling
+methodology applied to alcohol use was
+presented by Martin et al. (1981). In
+that study, 79 pairs of monozygotic
+(MZ) and dizygotic (DZ) twins, aged 18
+to 35 years, were initially administered a
+number of psychomotor tasks. Next, all
+subjects drank a diluted dose of ethanol}
+(0.75 g/kg body weight). These subjects
+were then measured on the same psychomotor tasks once each hour for the
+
+ensuing 5 hours. A variety of alternative
+causal models is proposed by Martin et
+al. (1981) to account for the patterns of
+covariation. One of their models is diagrammed in Figure 5.
+
+The basic model attempts to account
+for the observed covariation of the first
+four time points of measurement (i.e.,
+Ty to T3) on a simple arithmetic task by
+introducing a variety of T-technique
+based measurment models. In the
+model of Figure 5, latent variables are
+introduced to represent: (1) a “‘generalgenetic” influence (labeled Dr) common to all measures; (2) a “generalenvironmental” influence (labeled EF,
+common to all measures; (3) an
+“alcohol-genetic” influence (labeled
+Dra) common only to the post-alcohol
+times of measurement; and (4) four
+“specific-environmental” factors (not
+
+Nesselroade and McArdle
+
+ 
+
+Social Biology
+
+labeled here). Note the correspondence
+of this genetic-factor model to concepts
+based on the actions of a “‘polygenic inheritance’? mechanism (McClearn,
+1983).
+
+The analysis was designed to provide
+only preliminary results. The authors
+suggested that the “alcohol-genetic factor loadings were small but of borderline
+significance” (p. 95). They concluded
+that individual environmental effects
+and broad genetic differences were
+more salient determiners of performance on the tasks being investigated (see
+also Martin et al. 1985a, 1985b).
+
+Of course, we have not here detailed
+many critical assumptions of the genetic
+modeling (but see Eaves et al., 1978)
+and there remain many ways to expand
+upon this basic work. In one such attempt, McArdle et al. (1980) introduced
+the simultaneous estimation of genetic
+latent variable models with an invariant
+phenotypic measurement model and
+longitudinal latent variance decomposition. They further showed how this
+combined model could be specified, estimated, and fitted using available structural equation programs (e.g.,
+LISREL). Martin et al. (1984) have
+since overviewed additional research on
+this topic.
+
+MODELING INDIVIDUAL CAUSAL SYSTEMS
+
+The intensive case study of problems
+diagnostically classified as “episodic alcoholism” is usually clinically indicated,
+but there are other good reasons to consider the case-study design as a useful research tool. For example, recent multivariate research on alcoholism (e.g.,
+Horn, 1978; Skinner, 1981) shows that
+the population of persons with alcoholrelated problems is highly heterogeneous with respect to individual life
+courses and problem behaviors. These
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+ 
+
+Vol]. 32, No. 3-4 Multivariable Causal Modeling 289
+
+POR
+
+A ae
+$
+
+Ep; Dai Pea
+Ay ay td Wales ele}.
+
+E
+_——{
+
+4 a E 4
+
+ge St
+
+ty t f
+P P P P
+
+Fic. 5.—A genetic-alcohol model of across-occasion (T-technique) factors (after Martin et al., 1981).
+P, proportions are fixed parameters from genetic theory. Other estimates are maximum-likelihood ones
+standardized across MZ (N = 21) and DZ(N = 15) between- and within-pair matrices (chi-square = 31
+with 25 df; z = 0.9).
+
+kinds of studies have also shown that _ tial diagnosis” based on ‘multiple synsuccessful treatment of problems can drome” models. Thus, it may be approresult from the application of “‘differen- priate to characterize the treatment of
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+290
+
+alcohol-related dependencies in terms
+of “different strokes for different folks”
+(Skinner, 1981, p. 75). Furthermore,
+the “episodic” classification supports
+the behavioral tendency towards high
+fluctuation which, again, lends credence
+to the use of the case-study design.
+
+Although we have previously discussed the basic intraindividual design
+structure termed P-technique, there
+have not been many applications of this
+methodology in either the alcohol use or
+latent-variable causal modeling literature. However, in one preliminary application of dynamic P-technique,
+McArdle (1982) reported a variety of
+structural equation models for the analysis of data from a single “‘episodic alcoholic” subject.
+
+The data analyzed by McArdle
+(1982) were originally collected and reported by Birkett and Cattell (1978). In
+the original data collection, daily observations on variations in motivational
+traits and emotional states were recorded over a period of 92 consecutive
+days. The subject was a 54-year-old,
+married, professional man, whose
+drinking and social history were highly
+representative of the “episodic alcoholic’”’ classification. In a 95-minute
+daily testing session with a skilled clinician, the subject was asked to respond to
+standardized test stimuli and to keep a
+diary. The basic variables used in the
+modeling study included multiple measures of the subject’s emotional state,
+interest in self, and interest in alcohol
+(actual drinking was prohibited). More
+details on the measures are found in
+Birkett and Cattell (1978).
+
+McArdle (1982) fitted a model containing three major latent variable subcomponents: (1) an “invariant” factor
+measurement component, (2) a non
+Nesselroade and McArdle
+
+Social Biology
+
+linear “trend” component; and (3) an
+over-time “dynamic-lag’’ component.
+The basic measurement model for these
+data has already been presented in Figure 2 and discussed in the earlier sections. but with this in mind we recognize
+a potentially valuable move away from
+the ‘“‘concurrent-time’’ structural
+model, as given by Figure 5S. That is,
+with multivariate time-sequenced data
+we can move toward a model representing both non-linear ‘‘trends”’ in the
+mean levels and “Jagged-time” dynamic
+paths. The parameters resolved for the
+latter component are presented graphically in Figure 6. The most critical feature of this dynamic component is the
+representation of the salient causal
+pathways for all three latent variables as
+they affect one another over time. The
+effects upon latent variables measured
+“today” (i.e., C,;-9) are understood to
+emanate from those same latent variables measured “‘yesterday” (i.e., C,_1)
+and “one-week ago”’ (i.e., C,-7).
+
+The structural illustration of Figure 6
+helps to illustrate both the basic benefits
+and the complexities of modeling the individual case. In effect, we might wish to
+characterize this individual, especially in
+contrast to other individuals, by his final
+model parameters. Molenaar (1985)
+provided a more sophisticated statistical
+model using this same basic approach.
+As McArdle (1982) reported, this particular model fits the data well and the
+parameters displayed (in both Figs. 2
+and 6) are all large relative to their
+standard errors. However, even the
+strongest effects are very small. So, although the design and model merge
+well, we still have not developed a satisfactory understanding of the basic
+causal mechanisms that are operating
+within even this single individual.
+ 
+
+Vol. 32, No. 3-4
+
+  
+
+,
+
++ 746 CN
+t-7:
+
+a
+
+t-7!
+
+Multivariable Causal Modeling
+
+etecases eeege
+4
+
+“08
+
+@eadaga
+
+iad
+=o
+
+291
+
+ereseeoe seran
+4
+
+CA
+t-7:
+
+a
+
+     
+
+ 
+
+  
+      
+
+ 
+
+       
+
+QY
+
+S
+
+N
+
+3
+
+&
+
+3
+
+A
+
+26 CS. 4 CA
+
+Co Yi
+
+- : 5 7 , t-1:
+
+8 U
+
+a
+
+&
+
+ao
+
+oO
+
+S - 20 1 “17
+
+o (i) vn (ie)
+
+> (12)
+
+z ~22| | 1? a 21
+
+5 C1} OD (i) (10)
+
+&
+
+2 ics. ‘ON eveveurag eevee
+
+3 pi CN ig——__——__pCA_:
+
+z :“t! 23 :' t-0! -39 te
+
+is an os anees (89) cuaganpepenees (18) teieis t “0:
+
+©
+
+a f A f 9 f} cg
+(14) “ae (14) (16)
+
+Fic. 6.—Final dynamic path model of single subject’s daily alcohol interest. Factor model of Figure 2 is
+invariant over all days. Only lags of one day (t-1) and one week (#-7) were modeled. Factor stationarity is
+assumed for all lags, including #-0 (after McArdle, 1982). Chi-square = 381; df = 252;z = 5.0; T = 85.
+
+are more appropriately engaged in
+model building than model testing. Be
+that as it may, the multivariate orientation we have just described offers a general methodological framework for ex
+CONCLUSIONS
+
+Many would argue that theoretical
+developments regarding alcohol use are
+currently at the level where researchers
+
+ 
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+ 
+
+292
+
+plicitly bringing together the rich variety
+of antecedents and observable manifestations that appear necessary to “‘capture” the phenomenon of alcohol use.
+The illustrations presented earlier indicate how the multivariate orientation as
+reflected in structural modeling with latent variables can be applied to the study
+of antecedents and consequents of alcohol use-related behaviors. The antecedents include genetic as well as environmental information and the models can
+be applied at both the group and individual level. The recognition that it is possible to build and test such models should
+not be permitted to obscure the fact that
+there are several requirements on which
+these procedures must rest if they are to
+be used fruitfully.
+
+First, it is clear that model testing is
+indeed model testing and not model
+building only if there is available a sufficiently well articulated theory that permits the derivation of explicit, testable
+empirical implications. Otherwise,
+these high-powered statistics get turned
+to the task of exploratory rather than explanatory work. This is not to denigrate
+exploratory, descriptive work. Rather,
+the point is that exploratory and explanatory tasks involve different activities
+and different criteria of success and, to
+the extent that it is possible, these activities should be distinguished from each
+other. A “worst-case scenario” in this
+regard involves the inadvertent (or deliberate) interpretation of the outcomes
+of exploratory analyses as confirmatory
+or hypothesis testing outcomes (Nesselroade and Baltes, 1984).
+
+Second, the idea of modeling causal
+relationships among “error-free” conStructs is an appealing one. However,
+success in that arena will depend, to a
+large extent, on the quality of the
+
+Nesselroade and McArdle
+
+Social Biology
+
+marker variables or indicators for the
+constructs that one is able to provide.
+The history of multivariate research in
+psychology reflects concern for domain
+specification and definition and how to
+sample in a representative manner from
+such content domains in order to guarantee proper coverage of the major dimensions (Cattell, 19662). Concepts
+such as simple structure (Thurstone,
+1947) represent important tools for resolving such matters as adequacy of domain coverage, and they have not yet
+been smoothly assimilated by the modeling procedures.
+
+Third, the promise of modeling techniques for apprehending geneticsbehavior linkages will rest to a great extent on the “indicators” that can be
+devised to represent genetic and, of
+course, non-genetic influences. Classification schemes such as mono- versus
+dizygotic twins offer one approach to
+constructing such variables. More complex schemes such as those focused on
+the decomposition of covariances and
+the MAVA designs of Cattell that utilize
+several different family constellations
+are also possibilities to be explored (see,
+e.g., Loehlin, 1979).
+
+In any case, the Statistics development aspect of modeling is blossoming.
+New computational and estimation algorithms, including robust ones for nonnormally distributed data, are appearing (Browne, 1984). It remains to be
+seen whether the quality of our measurement variables and the precision of
+available theories will keep up with the
+technical developments. If so, then
+multivariable modeling procedures involving latent variables may help to advance our understanding of relationships such as those between genetics and
+behavior that have important theoretiDownloaded by [University of Michigan] at 13:40 08 December 2015
+
+Vol. 32, No. 3-4
+
+cal and practical consequences for understanding alcohol use.
+
+With regard to modeling alcohol-use
+mechanisms more effectively, it might
+also be the case that we need to develop
+novel ways of considering multiple variable combinations.
+
+No single set of traits invariably defines
+alcoholism. Just as light can consist of
+both waves and particles, just so alcoholism can exist both as one end of a continuum of drinking problems and as a specific disorder. Alcoholism can simultaneously reflect both a conditioned habit
+and a disease; and the disease of alcoholism can be as well defined by a sociological model as by a medical model....
+Thus, alcoholism is a construct of a higher
+order of complexity than, say, pregnancy
+or measles. (Vaillant, 1983, p. 308)
+
+Obviously, the problems associated
+with understanding alcohol use are complex; so complex in fact that the attendant data analytic challenges may very
+well threaten the basic foundations of
+
+ 
+
+Multivariable Causal Modeling 293
+
+contemporary multivariate analysis.
+But, if for no other reason than this one
+alone, we see the need to enter the joust
+wearing our most advanced multivariate
+armor and vigorously engage this troublesome problem of the human condition.
+
+ACKNOWLEDGMENTS
+
+Preparation of this manuscript was accomplished in part while the senior author
+was spending a sabbatical leave at the MaxPlanck-Institute for Human Development
+and Education, Berlin, FRG. The support of
+the MPI is gratefully acknowledged. Thanks
+are due Jennifer Harris for her valuable comments on an earlier version of the manttscript. Sherry Corneal provided technical assistance with the preparation of the
+references.
+
+The second author’s research has been
+funded by the National Institute on Aging
+(NIA Grant AG-04701, with J. L. Horn)
+and the National Institute on Alcohol Abuse
+and Alcoholism (NIAAA Grant AA~
+05743).
+
+REFERENCES
+
+ANESHENSEL, C. C., and G. J. Husa. 1983. Depression, alcohol use, and smoking over one
+year: A four-wave longitudinal causal
+model. J. Abnor. Psychol. 92:114~150.
+
+Bactes, P. B., and J. R. NESSELROADE. 1973.
+The developmental analysis of individual
+differences on multiple measures, p. 219251. In J. R. Nesselroade and H. W. Reese
+(eds.), Life-span developmental psychology: Methodological issues. Academic
+Press, New York.
+
+BALTES, P. B., H. W. REESE, and J. R. NESSELROADE. 1977. Life-span developmental psychology: Introduction to research methods.
+Brooks/Cole, Monterey, Calif.
+
+BEGLEITER, H., B. Porsesz, B. Bivari, and B.
+Kissin. 1984. Event-related brain potentials
+in boys at risk for alcoholism. Science.
+225:1493-1495.
+
+BENTLER, P.M. 1980. Multivariate analysis
+with latent variables: Causal modeling.
+Ann. Rev. Psychol. 31:419-456.
+
+ 
+
+. 1986. Causal modeling via structural
+equation systems. In J. R. Nesselroade and
+R. B. Cattell (eds.), Handbook of multivariate experimental psychology. Plenum,
+New York.
+
+BirKETT, H., and R. B. CaTrext. 1978. Diagnosis of the dynamic roots ofa clinical symptom by P-technique: A case of episodic alcoholism, Multivar. Behav. Res. 3:173-194.
+
+BROWNE, M. 1984. Asymptotically distribution-free methods for the analysis of covariance structures. Brit. J. Math. Stat. Psychol. 37:62-83.
+
+CaMPBELL, D. T., and J. C. STANLEY. 1966. Experimental] and quasi-experimental designs
+for research. Rand McNally, Chicago.
+
+CATTELL, R. B. 1957. Personality and motivation structure and measurement. World
+Book Co., New York.
+
+. 1963. The structuring of change by P
+and incremental-R technique, p. 167-198.
+
+In C. W, Harris (ed.), Problems in measur
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+294
+
+ing change. University of Wisconsin Press,
+
+Madison, Wis.
+
+. 1966a. The data box: Its ordering of to
+tal resources in terms of possible relational
+
+systems, p. 67-128. in R. B. Cattell (ed.),
+
+Handbook of multivariate experimental
+
+psychology. Rand McNally, Chicago.
+
+. 19665. Multivariate behavioral re
+search and the integrative challenge.
+
+Multivar. Behav. Res. 1:4-23.
+
+. 1966c. Patterns of change: Measure
+ment in relation to state-dimension, trait
+
+change, lability, and process concepts, p.
+
+355-402. In R. B. Cattell (ed.), Handbook
+
+of multivariate experimental psychology.
+
+Rand McNally, Chicago.
+
+. 1979. Personality and learning theory,
+
+Vol. 1. The structure of personality in its en
+vironment. Springer, New York.
+
+. 1980. Personality and learning theory,
+
+Vol. 2. A systems theory of maturation and
+
+structured learning. Springer, New York.
+
+. 1982. The inheritance of personality
+and ability: Research methods and findings.
+Academic Press, New York.
+
+CaTTELL, R. B., and I. H. Scueter. 1961. The
+meaning and measurement of neuroticism
+and anxiety. Ronald Press, New York.
+
+CuirF, N. 1983. Some cautions concerning the
+application of causal modeling methods.
+Multivar. Behav. Res. 18:115-126.
+
+Coan, R. W. 1966. Child personality and developmental psychology, p. 732-752. In
+R. B. Cattell (ed.), Handbook of multivariate experimental psychology. Rand
+MeNally, Chicago.
+
+CRONBACH, L. J. 1957. The two disciplines of
+scientific psychology. Amer. Psychol.
+30:116-127.
+
+. 1975 Beyond the two disciplines of
+scientific psychology. Amer. Psychol.
+30:116-127.
+
+Dixon, R.A., and J. R. NESSELROADE. 1983.
+Pluralism and correlational analysis in developmental psychology: Historical communalities, p. 113-145. Jn R.M. Lerner
+(ed.), Developmental psychology: Historical and philosophical perspectives. Lawrence Erlbaum Associates, Hillsdale, N.J.
+
+Eaves, L. J.,K. Last, P. A. YounG, andN. G.
+Martin. 1978. Model-fitting approaches to
+the analysis of human behavior. Heredity
+41:371-376.
+
+Foster, F. M., J. L. Horn, and K. W. WanBERG. 1972. Dimensions of treatment outcome: A factor-analytic study of alcoholics’
+responses to a follow-up questionnaire.
+Quart. J. Stud. Alc. 33:1079-1098.
+
+FUuLKER, D. W. 1979. Some implications of biometrical genetical analysis for psychological
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nesselroade and McArdle
+
+ 
+
+Social Biology
+
+research, p. 337-380. In J. R. Royce and
+L. P. Mos (eds.), Theoretical advances in
+behavior genetics. Sijthoff & Noordhoff,
+Germantown, Md.
+
+GERGEN, K. J. 1984. Experimentation and the
+myth of the incorrigible, p. 27-42. In V.
+Sarris and A. Parducci (eds.), Perspectives
+in psychology experimentation: Toward the
+year 2000. Lawrence Erlbaum Associates,
+Hillsdale, N.J.
+
+GLENN, N.D. 1981. Age, birth cohort, and
+drinking: An illustration of the hazards of
+inferring effects from cohort data. J. Gerontol. 36:362-369.
+
+Guttrorp, J. P. 1952. When not to factor analyze. Psychol. Bull. 49:26-37.
+
+Horn, J. L. 1978. Comments on the many faces
+of alcoholism, p. 1-40. Jn G. Marlatt, P. Nathan, and T. Lobert (eds.), Alcoholism:
+New directions in behavioral research and
+treatment. Plenum, New York.
+
+. 1984. To set the stage. Multivar. Behav. Res. 19:115—120.
+
+Horn, J.L., and J.J. McArpie. 1980. Perspectives on mathematical/statistical modeling (MASMOB) in research on aging, p.
+503-541. In L. Poon (ed..), Aging in the
+1980’s. American Psychological Association, Washington, D.C.
+
+Horn, J. L., K. W. WANBERG, and G. Abas.
+1974. Diagnosis of alcoholism: Factors of
+drinking, background and current conditions in alcoholics. Quart. J. Stud. Alc.
+35:147-175.
+
+Horn, J.L., J. J. McArpie, and R. Mason.
+1983. When ts invariant not invariant? A
+practical scientists’ look at the ethereal concept of invariance. Southern Psychol.
+1(4):179-188.
+
+Husa, G. J., and P. M. BENTLER. 1982. A developmental theory of drug use: Derivation
+and assessment of a causal modeling approach, p. 149-203. In P. B. Baltes and
+O. G. Brim, Jr., (eds.), Life-span development and behavior, Vol. 4, Academic Press,
+New York.
+
+JaMEs, L.R.,S. A. Mutaix, and J. M. Bretr.
+1982. Causal analysis: Assumptions, models
+and data. Sage Publications, Beverly Hills,
+Calif.
+
+JOHNSON, R. C., C. T. NaGosut, S. Y. ScuwitTERS, K.S. Bowman, F.M. AHERN, and
+J. R. Witson. 1984. Further investigation of
+raciaVethnic differences and of familial resemblances in flushing in response to alcohol. Behav. Genet. 14:171-178.
+
+JOrEsKoG, K. G. 1979. Statistical estimation of
+structural models in longitudinaldevelopmental investigations, p. 303-351.
+In J.R. Nesselroade and P.B. Baltes
+
+ 
+
+ 
+[University of Michigan] at 13:40 08 December 2015
+
+y
+
+Downloaded b
+
+Vol. 32, No. 3-4
+
+(eds.), Longitudinal research in the study of
+behavior and development. Academic
+Press, New York.
+
+JOrREsKoG, K. G., and D. Sdérpom. 1979. Advances in factor analysis and structural
+equation models. Abt Books, Cambridge,
+Mass.
+
+Kenny, D. A. 1979. Correlation and causality.
+Wiley, New York.
+
+LABOUVIE, E. W. 1980. Identity versus equivalence of psychological measures and constructs, p. 493-502. In L. W. Poon (ed.),
+Aging in the 1980’s: Psychological issues.
+American Psychological Association,
+Washington, D.C.
+
+Leso, M. A., and J. R. NessELROADE. 1978. Intraindividual differences dimensions of
+mood change during pregnancy identified in
+five P-technique factor analyses. J. Res.
+Personal. 12:205-224.
+
+LOEHLIN, J. C. 1979. Combining data from different groups in human behavior genetics,
+p. 303-334. In J. R. Royce and L. P. Mos
+(eds.), Theoretical advances in behavior genetics. Sijthoff & Noordhoff, Germantown,
+Md.
+
+Lusporsky, L., and J. Mintz. 1972. The contribution of P-technique to personality, psychotherapy, and psychosomatic research, p.
+387-410. In R. M. Dreger (ed.) Multivariate personality research: Contributions to
+the understanding of personality in honor of
+Raymond B. Cattell. Claitor’s Publishing
+Division, Baton Rouge, La.
+
+Martin, J, A. 1982. Application of structural
+modeling with latent variables to adolescent
+drug use: A reply to Huba, Wingard, and
+Bentler. J. Personal. Soc. Psycho}. 43:598~
+
+a
+
+© Martin, N.G., J.B. Grsson, J. G. OAKESHOTT, A. B. Wirks, G. A. STARMER,
+J.Craic, and J. Perv. 1981. A twin study of
+psychomotor performance during alcohol
+intoxication: Early results, p. 89-96. In L.
+Gedda, P. Parisi, and W. E. Nance (eds.),
+Twin research 3: Epidemiological and clinical studies. Alan R. Liss, New York.
+
+Martin, N.G., R. Jarpine, and L. Eaves.
+1984. Is there only one set of genes for different abilities? A reanalysis of the National
+Merit Scholarship Qualifying Test
+(NMSOQT) data. Behav. Genet. 14:355370.
+
+Martin, N.G., J. G. Oaxesuott, J. B. Gisson, G. A. STARMER, J. PERL, and A. V.
+WILks. 1985a. A twin study of psychomotor
+and physiological responses to an acute dose
+of alcohol. Behav. Genet. 15:305-347.
+
+Martin, N.G., J. Pert, J. G. OaKeEsHorrT,
+J.B. Gipson, G. A. STARMER, and A. V.
+
+Multivariable Causal Modeling
+
+ 
+
+ 
+
+ 
+
+ 
+
+295
+
+Wiiks. 19855. A twin study of ethanol metabolism. Behav. Genet. 15:93-—109.
+
+McArb Le, J.J. 1981. Book review: Correlation and causality. Appl. Psychol. Meas.
+§:275-280.
+
+. 1982. Structural equation modeling of
+
+an individual system: Preliminary results
+
+from ‘‘A case study of episodic alcoholism.”
+
+Grant proposal to the National Institute on
+
+Alcohol Abuse and Alcoholism (NIAAA
+
+AA-05743).
+
+1984a. On the madness in his method:
+
+R. B. Cattell’s contributions to structural
+
+equation modeling. Multivar. Behav. Res.
+
+19:245-267.
+
+. 1984b. Simple structure or simple dynamics: Remodeling complex factor patterns using longitudinal and multiple group
+structural equation models. Paper presented at the annual meeting of the Psychometric Society. June, Santa Barbara, Calif.
+
+McArp_E, J.J., and J. L. Horn. 1981. Structural equation models of Gf-Gc intelligence
+theory. Invited paper presented at the annual meeting of the American Psychological
+Association, August, Los Angeles, Calif.
+
+McArn Le, J. J., and R. P. McDonaxp, 1984.
+Some algebraic properties of the Reticular
+Action Model for moment structures. Brit.
+J. Math. Stat. Psychol. 37:234~-251,
+
+McAropte, J.J., J. P. CONNELL, and H.H.
+GoLpsMITH. 1980. Structural modeling of
+stability and genetic influence: Some results
+from a longitudinal study of behavioral
+style. Behav. Genet. 10:487 (abstract).
+
+McCLearn, G. E. 1983. Genetic factors in alcohol abuse: Animal models, p. 1-30. In B.
+Kissen and H. Begleiter (eds.), The biology
+of alcoholism, Vol. 7. The pathogenesis of
+alcoholism: Biological factors. Plenum,
+New York.
+
+McDONALD, R. P., and W. R. Krane. 1979. A
+Monte Carlo study of local identifiability
+and degrees of freedom in the asymptotic
+likelihood ratio test. Brit. J. Math. Stat.
+Psychol. 32:121-132.
+
+MErepiTH, W. 1964. Notes on factorial invariance. Psychometrika 29:177-185.
+
+Mo enaar, P.C. M. 1985. A dynamic factor
+model for the analysis of multivariate time
+series. Psychometrika 50:181-202.
+
+NESSELROADE, J. R. 1983a. Some implications
+of the trait-state distinction for the study of
+aging: Still labile after all these years. Paper
+presented at the annual meeting of the
+American Psychological Association, August, Anaheim, Calif.
+
+. 1983b. Temporal selection and facto
+rial invariance in the study of development
+
+and change, p. 60-87. In P. B. Baltes and
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:40 08 December 2015
+
+296 Nesselroade and McArdle
+
+O.G. Brim, Jr. (eds.), Life-span development and behavior, Vol. 5, Academic Press,
+New York.
+
+NESSELROADE, J. R., and P. B. Bates. 1984.
+From traditional factor analysis to
+structural-causal modeling in developmental research, p. 267~—287. In V. Sarris and A.
+Parducci (eds.), Perspectives in psychological research: Toward the year 2000. Lawrence Erlbaum Associates, Hillsdale, N.J.
+
+NESSELROADE, J.R., and D.H. Forp. 1985.
+Multivariate, replicated, single-subject designs for research on older adults: Ptechnique comes of age. Research on Aging
+7:46-80.
+
+NESSELROADE, J.R., and E. W. LasBovuvie.
+1985. Experimental design in research on
+aging, p. 35-60. In J. E. Birren and K. W.
+Schaie (eds.), Handbook of the psychology
+of aging, 2nd edition. Van Nostrand
+Reinhold, New York.
+
+ProppinG, P., J. KRUGER, and N. Marx. 1981.
+Genetic disposition to alcoholism: An EEG
+study in alcoholics and their relatives. Hum.
+Genet. 59:51-59.
+
+Pruzex, R.M., and B.C. FRepDERIcK. 1978.
+Weighting predictors in linear models: Al!ternatives to least-squares and limitations of
+equal weights. Psychol. Bull. 85:254-266.
+
+SCHAIE, K. W., and C. HERTZOG. 1982. Longitudinal methods, p. 91-115. Jn B.B.
+Wolman (ed.), Handbook of developmental psychology. Prentice-Hall, Englewood
+Cliffs, N.J.
+
+SKINNER, H. A. 1979. A multivariate evaluation of the Michigan Alcoholism Screening
+Test. J. Stud. Alc. 40:831-844.
+
+. 1980, Factor analysis and studies of al
+ 
+
+ 
+
+Social Biology
+
+cohol: A methodological review. J. Stud.
+
+Alc. 41:1091-1101,
+
+, 1981. Primary syndromes of alcohol
+abuse: Their measurement and correlates.
+Brit. J. Addict. 76:63—76.
+
+SINNOTT, J. D. 1981. The theory of relativity: A
+metamodel for development? Hum. Dev.
+24:293-311.
+
+SPEARMAN, C, 1904. General intelligence objectively determined and measured. Amer. J.
+Psychol, 15:201-293.
+
+THURSTONE, L. L. 1947. Multiple factor analysis. University of Chicago Press, Chicago.
+
+Tucker, L. R. 1966. Learning theory and multivariate experiment: Illustration by determination of generalized learning curves, p.
+476~S01. In R. B. Cattell (ed.), Handbook
+of multivariate experimental psychology.
+Rand McNally, Chicago,
+
+VAILLANT, G. E. 1983. The natural history of
+alcoholism: Causes, patterns, and paths to
+recovery. Harvard University Press, Cambridge, Mass.
+
+Wanserc, K. W., and J. L. Horn. 1983. Assessment of alcohol use with multidimensional concepts and measures. Amer. Psychol. 38:1065-1069.
+
+WANBERG, K. W., J. L. Horn, and F. M. FosTER. 1977. A differential assessment model
+of alcoholism: The scales of the Alcohol Use
+Inventory. J. Stud. Alc. 38:512-543.
+
+WRIGHT, S. 1921. Correlation and causation. J.
+Agricultural Res. 20:557-585.
+
+ZEVON, M.A., and A. TELEGEN. 1982. The
+structure of mood change: An idiographic/
+nomothetic analysis. J. Personal. Soc. Psycho]. 43:111-132.
+
+ 
+

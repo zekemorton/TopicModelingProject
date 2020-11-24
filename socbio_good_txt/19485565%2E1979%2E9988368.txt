@@ -1,0 +1,940 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Diseases determined by major genes
+
+N. E. Morton
+
+To cite this article: N. E. Morton (1979) Diseases determined by major genes, Social Biology,
+26:2, 94-103, DOI: 10.1080/19485565.1979.9988368
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1979.9988368
+
+fe Published online: 23 Aug 2010.
+oe | 7
+Submit your article to this journal @
+lil Article views: 3
+N
+Q View related articles 4
+
+wa Citing articles: 4 View citing articles @
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:38
+
+ 
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Diseases Determined by Major Genes
+
+N.E. Morton
+
+Population Genetics Laboratory
+University of Hawaii
+Honolulu, Hawaii
+
+ 
+
+ABSTRACT: The rise of genetic epidemiology, its development from inspection of data to analysis of
+major loci, applications to recurrence risks, and the countercurrent of ideological opposition are
+
+described.
+
+Genetic epidemiology is concerned
+with etiology, distribution, and control of
+disease in relatives, and with inherited
+causes of disease in populations. Inherited
+is used in a broad sense to include both
+biological and cultural inheritance, where
+cultural subsumes any environmental factor distributed nonrandomly among families (Morton and Chung, 1978).
+
+Genetic epidemiology has roots in
+older studies of space-time clustering of
+disease. Maupertuis described dominant
+segregation of an extra finger in the eighteenth century, but Mendel more than a
+century later had the realization that
+created genetics:
+
+Among all the numerous experiments
+
+made, not one has been carried out to such
+
+an extent and in such a way as to make it
+possible to determine the number of
+different forms under which the offspring of
+hybrids appear, or to arrange these forms
+with certainty according to their separate
+generations, or definitely to ascertain their
+statistical relations (Mendel, 1865, translated by the Royal Horticultural Society of
+London, reprinted in Peters, 1959).
+
+Mendel was rediscovered at the beginning of this century, and within a few years
+the German physician Weinberg (1908, p.
+368) recognized that “‘In the case of man,
+the statistical evaluation of mass phenom
+94
+
+ena must substitute, in a poor way, for experiments.” From this understanding that
+clinical impression is a makeshift for
+statistical analysis, Weinberg, Lenz, and
+Bernstein developed early mathematical
+approaches, which ended when Hitler
+came to power in Germany. A few years
+later, Stalin liquidated human genetics in
+Russia. By then the spark had been transmitted to Fisher and Haldane in England
+and to Wright and Snyder in America. At
+midcentury a methodology had been developed appropriate to simple Mendelian
+traits.
+
+The end of World War II ushered in the
+computer age, which for the first time permitted study of complex inheritance in
+which risks vary among families of a given
+mating type. Sporadic cases (which might
+be transmissible mutants or nontransmissible phenocopies) were introduced (Morton, 1958). At about the same time,
+efficient and reliable methods to locate
+genes on chromosomes were advanced
+(Morton, 1955). Inbreeding was developed into a tool for resolving the mutational load of deleterious genes (Morton
+et al., 1956) as an outgrowth of studies on
+genetic effects of atomic radiation (Neel
+and Schull, 1956).
+
+Neel and Schull (1954) were apparently
+
+ 
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+ 
+
+Vol. 26, No. 2
+
+the first to recognize that these events
+were forging a new discipline of “epidemiological genetics” concerned with interaction of heredity and disease. During
+the next decade Blumberg (1961) edited
+Genetic Polymorphisms and Geographic
+Variations in Disease, and Neel, Shaw, et
+al. (1965) produced Genetics and the Epidemiology of Chronic Diseases in which
+Thomas Francis remarked:
+
+So when the human geneticist turns to
+diseases and disorder in the population as
+the basis of genetic analysis, he is promptly
+in epidemiology. And when he asserts the
+concept of multiple factors to produce an
+effect, he is in full cry epidemiologically.
+Conversely, where the epidemiologist
+seeks explanation for familial or other
+group aggregations of health or disease, he
+is immediately involved in genetic probems.
+
+By 1967, when Morton, Chung, and Mi
+discussed problems in genetic epidemiology, there was a general agreement
+that synthesis of goal and methods from
+epidemiology and genetics was inevitable
+and desirable. We preferred the term
+“genetic epidemiology” because determinants of familial aggregation may be
+purely environmental, whereas ‘“‘epidemiological genetics” suggests an inappropriate prejudice against environmental
+hypotheses. Without commitment to any
+label, the growing consensus is reflected
+by such recent books as Genetics, Environment, and Behavior (Ehrman,
+Omenn, and Caspari, 1972), Geneenvironment Interaction in Common Diseases (Japan Medical Research Foundation, 1977), Genetic Epidemiology
+(Morton and Chung, 1978), and The
+Genetic Analysis of Common Diseases
+(Sing and Skolnick, 1979).
+
+Although genetic epidemiology is too
+young a Science to have attracted historians or philosophers, it is tempting to
+speculate why it has emerged as a distinct
+discipline only within the last decade.
+
+ 
+
+Diseases Determined By Major Genes 95
+
+Serious medical interest did not begin until public health measures had reduced the
+impact of infectious disease in industrial
+societies. Epidemiology should span all
+causes of disease, but traditionally genetic
+factors were excluded either because they
+demanded an unfamiliar methodology or
+because they were illogically assumed to
+be unresponsive to environmental intervention. Quantitative geneticists are preoccupied by improvement of domestic
+plants and animals through artificial selection. Evolutionary geneticists are concerned with interpretation of events leading to speciation. All these disciplines are
+more familiar with paradigms of experimental biology than with the statistical
+evaluation of mass phenomena which is
+the basis of astronomy, epidemiology, and
+many other sciences. Studies in animals by
+Sewall Wright and others have been
+seminal; but man is the only organism for
+which concern about etiology and risk for
+disease generates strong and persistent interest in dissecting the contributions of
+genes and environment to family resemblance. Emergence of a discipline at
+the interface of genetics and epidemiology, concerned with contemporary
+health-related problems that include major loci, chromosomal aberrations, polygenes, and cultural inheritance was inevitable but required a long gestation. When
+the history of genetic epidemiology is written, I believe that the coming decade will
+be seen as the period of most rapid
+growth, to which this symposium can be
+no more than prologue.
+
+INSPECTION OF DATA
+
+Many criteria have been used to suggest the significance of genetic factors ina
+trait of unknown etiology, including: (1)
+an elevated risk in relatives compared
+with the general population, (2) greater
+concordance of the trait in identical than
+
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+96 Morton
+
+in fraternal twins, (3) an excess of consanguineous parentage for a presumed recessive trait, (4) failure of the trait to
+“spread” to unrelated individuals, (5) onset at a characteristic age without a known
+precipitating event, (6) variation among
+populations and behavior on outcrossing
+in accordance with genetic theory, and (7)
+occurrence of a homologous, inherited
+condition in other mammals.
+
+Consideration of these criteria is
+sufficient to show that individually and
+conjointly they cannot be regarded as rigorous evidence of a genetic etiology. The
+genetic method consists in showing that a
+trait could be due to one of several simple
+modes of inheritance. Classically, these
+are dominant or recessive, autosomal or
+sex-linked, with clear differences in transmission pattern (Morton, 1962). However, when multifactorial causes are introduced, both genetic and cultural,
+inspection of pedigrees becomes so unreliable that it is useful only to suggest hypotheses for formal test.
+
+SEGREGATION ANALYSIS
+
+An important class of problems involves detection and characterization of
+major loci at which single genes (usually
+rare) have substantial effects on disease
+susceptibility as reflected by high ‘“‘penetrance”’ (i.e., alarge proportion of the susceptible genotype defined by one locus is
+affected in all multifactorial backgrounds). The background typically includes many genes of small effect which
+usually cannot be distinguished (polygenes) as well as numerous environmental
+effects which may in part be familial
+(cultural inheritance). By natural
+broadening of ‘‘segregation,” which in
+classical genetics means the separation of
+allele pairs and their distribution to
+different gametes, segregation analysis
+deals with the transmission of a qualitative
+
+Social Biology
+
+or quantitative trait in families and the test
+of major loci against multifactorial alternatives.
+
+For the first half-century after rediscovery of Mendel’s work, human geneticists
+concentrated on traits that approximated
+Mendelian inheritance, at least in some
+pedigrees. McKusick (1978) lists 1,364
+“proven” loci, many of which were discovered during this early period (Table 1).
+A slightly larger number are ‘‘in limbo,”
+either because allelism with another mutant is suspected or because the evidence
+for a major gene is not compelling. Some
+of the latter failures are due to small numbers of observations; others, to the notorious difficulty of discriminating a major locus from multifactorial disease
+susceptibility (Edwards, 1960). R. A.
+Fisher provided the basic tools in his
+theory of maximum likelihood, and
+Haldane (1949) made the initial application to man when he tested for an excess of
+isolated cases of albinism which might be
+sporadic phenocopies. Generalization of
+this approach became feasible with the advent of computers (Morton, 1958) and a
+mixture of two distributions was resolved—the high-risk group corresponding to major loci and the low-risk group to
+the multifactorial background (Morton,
+1969). A multifactorial model was introduced, comparison of the two approaches
+giving an approximate test for major loci
+(Morton, Yee, et al., 1970).
+
+At this point, Elston and Stewart
+(1971) took an important step. Until then,
+all analyses had taken children conditional
+on parental phenotypes. They showed
+how likelihoods for larger pedigrees could
+be calculated, under restrictions that were
+progressively removed (Cannings et al.,
+1978). They also introduced a generalized
+single-locus model with transmission frequencies that take Mendelian values of 1,
+1/2, 0 for the three genotypes in the absence of cultural inheritance.
+
+ 
+
+ 
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+ 
+
+ 
+
+Vol. 26, No. 2
+
+ 
+
+Diseases Determined By Major Genes 97
+
+TABLE I
+Gene Loci 1N MOUSE AND MAN*
+
+Geng Loci
+
+Autosomal dominant .................
+Autosomal recesSive ............00000.
+Sex-linked.... 0... 0... cee ee eee eee
+
+*Data from McKusick, 1978
+
+This model holds for any combination
+of major loci and polygenes. Therefore, if
+the transmission frequencies are not
+significantly different from Mendelian values, we suspect that genetic factors are
+important; but we cannot say from this
+analysis whether cultural inheritance
+might be simulating genetic inheritance or
+whether a major locus is present. Conversely, if the transmission frequencies are
+significantly non-Mendelian, this fact suggests that cultural inheritance is present,
+but does not exclude a genetic component, either polygenic or major locus. We
+cannot be sure that ascertainment bias,
+which presents unsolved problems in pedigrees, is not distorting the evidence.
+
+For the generalized single-locus model,
+as currently formulated, estimates of major locus gene frequencies apply to the selected pedigree, and not to the population
+from which it was drawn; with concomitant polygenic or cultural inheritance, the
+gene frequency estimate is meaningless.
+Because of these difficulties, advocates of
+the generalized single-locus model regard
+it as a preliminary test, critical evidence
+for a major locus requiring assignment by
+linkage analysis to a particular chromosome (Elston, 1979). This paradigm has
+not yet been successful for any locus which
+was not obvious on inspection of pedigrees.
+
+Critics of the generalized single-locus
+model prefer a mixed model which in
+Man
+Moust Proven In imbo
+194 736 753
+222 521 596
+16 107 98
+432 1,364 1,447
+
+cludes cultural inheritance, polygenes,
+and a major locus simultaneously. This
+approach was suggested by Carter (1969)
+for pyloric stenosis (where a major locus
+has yet to be proven) and was used to identify major loci as ‘“‘leading factors” in animal experiments (Wright, 1968). It has
+been implemented in nuclear families consisting of children and their parents (Morton and MacLean, 1974) for a number of
+traits, confirming major loci for hyper-Bcholesterolemia, the Lp antigen, immunoglobulin E, and PTC taste sensitivity, but giving negative evidence for
+hypertriglyceridemia, hyperuricemia,
+blood pressure, and other traits for which
+inspection of pedigrees had suggested a
+major locus to some investigators (Morton and Chung, 1978). Current effort is toward extension of the mixed model to pedigrees sampled through affected
+members. There is no doubt that, despite
+formidable computational problems, the
+mixed model provides the most incisive
+segregation analysis, and it would be surprising if the generalized single-locus
+model and other preliminary tests persisted into the eighties.
+
+LINKAGE ANALYSIS
+
+Once a major locus has been detected
+and its gene frequencies and effects have
+been estimated, the next step is to place it
+in the chromosome map, which consists of
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+98 Morton Social Biology
+PGD PGD
+ENGI 3.9 1 ENO! ENO}
+1 ELI
+ENO] FUCA 19. 0 EU) 19 r
+rae 33. 93 FUCA 26. 6 7 FUCK
+32.14 5¢
+re AK2 36.6 1 SC 33°48 T BSaPK
+FUCA 37.6 7 UMPK
+UMPK | ;
+UMPK 53.4 | PGMI 48.6 + PGM
+PGMI
+86.4 + AMY AMY
+103.2+ 01012. 99-7 F O1AN2
+108.2 + FY,CAE] 108.2 + FY,CAE]
+UGPP |
+|
+UGPP 137.5 7 PEPC
+
+PEPC
+
+GUK]
+
+pepc,fH 7 FH
+
+RNS5S
+
+ 
+
+Cotransference
+
+Physical
+
+Genetic Nonparametric
+
+Fig. 1—Physical and genetic maps of Chromosome 1 (Rao et al, 1979).
+
+23 linear structures corresponding to 22
+pairs of autosomes and the X chromosomes. Each chromosome pair is characterized by its banding pattern and distribution of chiasmata. Methods have been
+developed to detect linkage reliably in
+small samples (Morton, 1956) and to construct maximum-likelihood maps from
+data on recombination between linked
+loci (Morton, 1979). Somatic cell hybridization locates genes which may be invariant within our species, in which case they
+permit phylogenetic comparisons but are
+not useful for genetic epidemiology. Figure 1 shows the present state of knowledge
+about recombination in males for Chromosome 1, the largest human chromosome. The genetic map for females is
+about 1.8 times the male length. As the
+number of mapped loci increases, use of
+linked markers will become more feasible
+in genetic counseling to predict the carrier
+state for disease with delayed onset. Distinction of allelic associations from closely
+linked loci presents a special problem.
+
+Genes for susceptibility to juvenile diabetes, ankylosing spondylitis, hemochromatosis, cerebellar ataxia, and many other
+diseases are located with the HLA region
+of Chromosome 6, but low penetrance,
+delayed onset, linkage disequilibrium,
+and unknown gene frequency and segregation parameters make resolution
+difficult. Improvements in statistical
+methods are under way.
+
+POPULATION STRUCTURE
+
+Statistical analysis of consanguineous
+marriages, which bring together genes
+identical by descent, provides information
+about numbers of loci, gene frequencies,
+and mutation rates for rare recessives
+(Morton et al., 1956; Morton, 1975). Recognized consanguinity is only one aspect
+of population structure. Often genealogies are incomplete, but geographic distribution can still provide evidence of remote consanguinity, which falls off nearly
+exponentially from the center of gene ori
+ 
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+ 
+
+Vol. 26, No. 2
+
+ 
+
+Diseases Determined By Major Genes 99
+
+I C1067 ) C POSSIBLE CARRIER SIBSHIP
+MWAHUELE OR sist with ONE OR MORE
+I
+I
+IW 1075 )
+¥ Co9s9)
+INEKINIA
+NI
+.
+vm ap EF cp Gp EB cD.
+
+Fig. 2—Ethnohistory of achromatopsia (Hussels and Morton, 1972).
+
+gin (Malécot, 1948). During the sixties
+there was rapid development of methods
+to determine genetic kinship from migration, genealogy, and phenotype bioassay
+(Morton, 1973). The importance of kinship is that it allows genotype frequencies
+to be inferred from gene frequencies,
+thereby giving estimates of genetic risks
+and inferences about selective pressures,
+population origins, and genetic drift. By
+chance, genes rare in the general population often “drift” to substantial frequencies in small isolated populations (called
+demes or isolates). Figure 2 shows part of a
+pedigree for achromatopsia, a rare eye
+disease transmitted from one survivor of a
+typhoon two hundred years ago on Pingelap atoll (Hussels and Morton, 1972).
+Now 5 per cent of the islanders are
+affected.
+
+There are many examples of such
+chance fluctuations in gene frequency,
+which though unlikely for any particular
+gene are probable for at least one of many
+genes in a small population. When the
+
+ 
+
+time scale is extended, the precise historical event which gave rise to drift is forgotten, and the possibility must be considered
+that high gene frequency is due to some
+obscure local selective pressure on heterozygotes. For example, cystic fibrosis is
+rare in the tropics but reaches a disease
+frequency of 1/3,800 in Western Europe,
+substantially greater than the frequency of
+Tay-Sachs disease in Ashkenazi Jews. For
+such diseases, drift seems the likely explanation in the absence of compelling
+evidence for heterozygote advantage
+(Rao and Morton, 1973; Ewens, 1978).
+Fortunately, most questions in genetic
+epidemiology depend on the statistical
+evaluation of contemporary mass phenomena, and the historical uncertainties
+of evolutionary genetics are rarely approached.
+
+SOME EXAMPLES
+
+Among the thousands of diseases in
+man, I shall take four to illustrate these
+principles: hyper-B-cholesterolemia, hy
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+100
+
+peruricemia, limb-girdle muscular dystrophy, and Duchenne muscular dystrophy.
+
+During the last century, British physicians defined ‘‘xanthoma tuberosum
+multiplex”’ on the basis of lipid deposition
+in skin and tendons, often associated with
+cardiovascular disease in families. As
+early as 1908, Gossage suggested a dominant gene, but proof did not come until
+about 1920 with reliable methods to
+measure cholesterol. It was then realized
+that extreme disease is characteristic of
+homozygotes, but heterozygotes have elevated beta cholesterol. Prevention of cardiovascular disease 1n these families requires reduction of plasma cholesterol.
+Even small families segregating for this
+gene, which has a frequency of only 0.001,
+can be recognized and the elevation
+shown not to be due to polygenes or
+cultural inheritance, both of which have
+significant effects on cholesterol level
+(Rao et al., 1979). Goldstein and Brown
+(1973) have shown that the primary defect, demonstrable in fibroblasts, is a lack
+of feedback suppression for cholesterol
+synthesis. For the kinetics of this reaction
+they have inferred two different alleles for
+hyper-B-cholesterolemia (Goldstein et
+al., 1977), illustrating the complementary
+role of statistical and biochemical analysis. For genes with milder effects on disease susceptibility, biochemical resolution
+may be necessary before statistical analysis is feasible. Whatever the order of discovery, one approach supports and validates the other.
+
+Gout is a characteristic type of painful
+arthritis, related to elevated uric acid (hyperuricemia). Recognition of this disease
+goes back the fifth century B.c., but disagreement about its inheritance has persisted until recent years. Even in the same
+families with gout, Smyth et al. (1948) argued for a dominant gene, while Neel, Rakic, et al. (1965) favored polygenes or
+
+Morton
+
+Social Biology
+
+cultural inheritance for most cases. Developments in complex segregation analysis
+support the latter interpretation (Morton,
+ms.). Probably for that reason, the biochemistry ts poorly understood. Although
+polygenic or cultural inheritance seems to
+account for most cases of gout in Caucasians, the etiology of hyperuricemia is heterogeneous. A sex-linked gene for
+deficiency of the enzyme HGPRT (hypoxanthine-guanine phosphoribosyltransferase) causes hyperuricemia and the bizarre Lesch-Nyhan disease, characterized
+by mental deficiency and self-mutilation
+(Seegmiller, 1976). Less extreme alleles
+cause gout, but are rare in the gouty population. Patients with recessive glucose-6phosphatase deficiency are hyperuricemic, and a few families suggesting a
+dominant gene for hyperuricemia with
+nephropathy have been descibed. Two
+observations suggest major loci in certain
+populations: a glutathione reductase isozyme in Negro populations has been reported to cause gout (Long, 1967), and
+Blumberg (1965) has proposed that hyperuricemia in Micronesia may be due to
+an unusual frequency of secretors of
+BAIB (f-amino-isobutyric acid), which
+in other populations is generally attributed to a recessive gene. Etiological heterogeneity makes hyperuricemia.a fertile
+field, despite negative evidence for a major locus in Caucasian samples.
+Limb-girdle muscular dystrophy exists
+in two forms: a recessive type with an elevated frequency of consanguineous parentage and a sporadic type unrelated to inbreeding (Morton and Chung, 1959). It
+has been suggested that sporadics may include rare expression in heterozygotes of a
+usually recessive gene, as is known to occur in the sex-linked Duchenne form.
+However, these studies were done at a
+time when differential diagnosis of polymyositis and neuropathy was less certain,
+and before efficient tests for heterozygous
+
+ 
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+Vol. 26, No. 2
+
+carriers were introduced. The etiology
+and frequency of sporadic cases should be
+reinvestigated, since it determines the recurrence risk for parents of isolated cases.
+
+Duchenne muscular dystrophy is a sexlinked disease which affects males and
+some chromosomally abnormal females,
+the fertility of male patients being too low
+to produce a homozygote. Although carrier detection is fairly good, there is disagreement about the proportion of cases
+which are sporadic due to fresh mutation,
+which maintains the gene in the population despite low fertility of patients (Morton and Lalouel, in press).
+
+RECURRENCE RISKS
+
+Even for simple modes of inheritance,
+some parameters must be estimated from
+the data, most rigorously by segregation
+analysis which also determines polygenic
+and cultural inheritance. These parameters may then be used to provide a specific
+recurrence risk for a unique family, with
+as much assurance as the input data justify. Often these calculations can be done
+with reasonable accuracy by hand, but
+computer assistance must be invoked for
+diseases with mutation, incomplete penetrance, etiological heterogeneity, or
+significant polygenic or cultural inheritance. Replacement of crude empirical
+tisks by specific and more reliable ones
+based on segregation analysis is one of the
+promising developments in genetic epidemiology (Lalouel, 1978).
+
+DISCUSSION
+
+Human genetics is the most sensitive of
+all sciences to ideological attack. Cor
+Diseases Determined By Major Genes
+
+101
+
+rupted in Nazi Germany, it was destroyed
+in Russia a decade before the rest of
+genetics surrendered to Lysenkoism. The
+same forces are at play in the West and
+affect the new science of genetic epidemiology. So far, studies of major genes
+have not aroused the irrational opposition
+of groups which attack biometrical
+genetics because of IQ, genetic counseling
+because of heritability, and population cytogenetics because of XYY behavior. It is
+happenstance that the XYY trait is chromosomal, and failure to extend the witchhunt to major genes may be only a lull in
+the storm.
+
+The battle lines between science and
+antiscientism are clearly drawn. Without
+betraying the culture that supports it,
+genetic epidemiology can accept no constraint on analysis of data obtained in an
+ethical manner to test scientific theory.
+The republic of science will not be safe,
+and genetic epidemiology will not realize
+its potential to understand and eventually
+control the major diseases and causes of
+death, until militant hereditarians and environmentalists alike are perceived as
+trespassing demagogues.
+
+ACKNOWLEDGMENTS
+
+This work was supported by Grant GM
+17173 from the U.S. National Institutes of
+Health. The original version of this paper was
+presented at the symposium “Genetics in Epidemiology,” sponsored by the AAAS Sections
+on Biological and Medical Sciences, the Society for the Study of Social Biology, and the
+American Public Health Association at the
+Annual Meeting of the American Association
+for the Advancement of Science, Houston,
+Texas, January 4, 1979.
+Downloaded by [University of Michigan] at 13:38 08 December 2015
+
+102
+
+Morton
+
+Social Biology
+
+REFERENCES
+
+BLUMBERG. B. S. (ed.). 1961. Genetic polymorphisms and geographic variations in disease. Grune and Stratton, New York.
+
+. 1965. Heredity of gout and hyperuricemia. Arthrit. Rheumat. 8:627-647.
+
+CANNINGS, C., E. A. THOMPSON, and M.
+SKOLNICK. 1978. Probability functions on
+complex pedigrees. Adv. Appl. Prob.
+10:26-61.
+
+CarRTER, C. O. 1969. Genetics of common disorders. Brit. Med. Bull. 25:52-57.
+
+Epwarops, J. H. 1960. The simulation of Mendelism. Acta Genet. Statist. Med. 10:63-70.
+
+Exnrman, L., G. S. OMENN, and E. Caspar!
+(eds.). 1972. Genetics, environment, and behavior. Academic Press, New York.
+
+Exston, R. C. 1979. Likelihood models in human
+quantitative genetics. In C. F. Sing and M.
+Skolnick (eds.), The genetic analysis of common diseases. Alan Liss Publishing, New
+York.
+
+Eston, R. C., and J. STrEwarT. 1971. A general
+model for the genetic analysis of pedigree
+data. Genetics 73:695-711.
+
+Ewens, W. J. 1978. Tay-Sachs disease and theoretical population genetics. Editorial: Amer.
+J. Hum. Genet. 30:328-329.
+
+GOLDSTEIN, J. L., and M. S. Brown. 1973. Familial hypercholesterolemia: identification of
+defect in the regulation of 3-hydroxy-3methylglutary! coenzyme A reductase activity
+associated with overproduction of cholesterol. Proc. Nat. Acad. Sci. 70:2804—2808.
+
+GOLDSTEIN, J. L., M.S. Brown, andN. J. STONE.
+1977. Genetics of the LDL receptor. Evidence
+that the mutations affecting binding and internalization are allelic. Cell 12:629-641.
+
+HALDANngE, J. B. S. 1949. A test for homogeneity
+of records of familial abnormalities. Ann.
+Eugen. 14:339-341.
+
+HussEts, J. E., and N. E. Morton. 1972. Pingelap and Mokil atolls: Achromatopsia. Amer.
+J. Hum. Genet. 24:304~309.
+
+JAPAN MEDICAL RESEARCH FOUNDATION (ed.).
+1977. Gene-environment interaction in common diseases. Univ. of Tokyo Press, Tokyo.
+
+LaLou_EL, J. M. 1978. Recurrence risks in segregation analysis, p. 255-284. In N. E. Morton
+and C. S. Chung (eds.), Genetic epidemiology. Academic Press, New York.
+
+Lona, W. K. 1967. Glutathione reductase in red
+blood cells: Variant associated with gout.
+Science 155:712-713.
+
+MaLEcot, G. 1948. Les mathématiques de
+Vhérédite. Masson, Paris.
+
+McKusick, V. A. 1978. Mendelian inheritance in
+man. 5th ed. Johns Hopkins Univ. Press,
+Baltimore.
+
+Morton, N. E. 1955. Sequential tests for the detection of linkage. Amer. J. Hum. Genet.
+7:277-318.
+
+ 
+
+. 1956. The detection and estimation of
+
+linkage between the genes for elliptocytosis
+
+and the Rh blood type. Amer. J. Hum. Genet.
+
+8:80-96.
+
+. 1958. Segregation analysis in human
+
+genetics. Science 127:79-80.
+
+, 1962. Segregation and linkage, p. 17-52.
+
+In W. J. Burdette (ed.), Methodology in hu
+man genetics. Holden-Day, San Francisco.
+
+.1969. Segregation analysis, p. 129-139. In
+
+N. E. Morton (ed.), Computer applications in
+
+genetics. Univ. of Hawaii Press, Honolulu.
+
+(ed.). 1973. Genetic structure of popula
+tions. Univ. of Hawaii Press, Honolulu.
+
+. 1975. Kinship fitness, and evolution, p.
+
+133-154. In F. M. Salzano (ed.), The role of
+
+natural selection in human evolution. North
+Holland Publishing, Amsterdam.
+
+. 1979. Analysis of crossing over in man. In
+
+J. L. Hamerton (ed.), Human gene mapping 4
+
+(in press)
+
+. Genetics of hyperuricemia in families
+with gout (ms. in preparation).
+
+Morton, N. E., and C. S. CHuna. 1959. Formal
+genetics of muscular dystrophy. Amer. J.
+Hum. Genet. 11:360-379.
+
+(eds.). 1978. Genetic epidemiology. Academic Press, New York.
+
+Morton, N. E., and J. M. Latouver. Genetic
+counseling in sex linkage. In 1978 Birth Defects Workshop—San Francisco. Original Article Series, The National Foundation, New
+York (in press).
+
+Morton, N, E., and C. J. MacLean. 1974. Analysis of family resemblance. III. Complex segregation of quantitative traits. Amer. J. Hum.
+Genet. 26:489-503.
+
+Morton, N. E., C. S. Cuunea, and M. P. Mt.
+1967. Genetics of interracial crosses in Hawali. S. Karger, Basel.
+
+Morton, N. E., J. F. Crow, and H. J. MuLrer.
+1956. An estimate of the mutational damage
+in man from data on consanguineous marriages. Proc. Nat. Acad. Sci. 42:855-863.
+
+Morton, N. E., S. YEE, R. C. Exsron, et al.
+1970. Discontinuity and quasi-continuity: Alternative hypothesis of multifactorial inheritance. Clin. Genet. 1:81-94.
+
+NEEL, J. V., and W. J. ScHULL. 1954. Human
+heredity. Univ. of Chicago Press, Chicago.
+
+. 1956. The effect of exposure to the
+atomic bombs on pregnancy termination in
+Hiroshima and Nagasaki. National Research
+Council, Vol. 16, p. 241. National Academy
+of Sciences, Washington, D.C.
+
+NEEL, J. V., M. T. Rakic, R. I. Davipson, et al.
+1965. Studies of hyperuricemia. IT. A reconsideration of the distribution of serum uric acid
+values in the families of Smyth, Cotterman,
+and Freyberg. Amer. J. Hum. Genet.
+17:14—22.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+—|
+=
+©
+N
+hl
+oO
+=
+oO
+O
+oO
+A
+Co
+©
+CO
+og)
+oN
+=
+—
+CS
+'S
+w
+oN
+=
+a
+O
+5
+Cn
+©
+>>
+—
+=
+N
+—
+oO
+>
+=
+c
+~,
+a
+Oo
+vo
+oO
+co
+oS
+©
+—
+c
+5
+©
+a
+
+ 
+
+ 
+
+Vol. 26, No. 2
+
+NEEL, J. V., M. W. SHaw, and W. J. ScHULL.
+1965. Genetics and the epidemiology of
+chronic diseases. DHEW, Public Health Service Publ. 1163. Washington, D.C.
+
+Peters, J. A. (ed.). 1959. Classic papers in
+genetics. Prentice-Hall, Englewood Cliffs,
+N.J.
+
+Rao, D. C., B. Keats, J. M. LALOuEL, et al. A
+maximum likelihood map of chromosome 1
+(in preparation).
+
+Rao, D. C., and N. E. Morton. 1973. Large deviations in the distribution of rare genes.
+Amer. J. Hum. Genet, 25:594-597.
+
+Rao, D. C., N. E. Morton, C. L. GULBRANDSEN,
+et al. 1979. Cultural and biological determinants of lipoprotein concentrations. Ann.
+Hum. Genet. (in press).
+
+SEEGMILLER, J. E. 1976. Inherited deficiency of
+hypoxanthine-guanine phosphoribosyltransferase in X-linked uric aciduria (the Lesch
+Diseases Determined By Major Genes 103
+
+Nyhan syndrome and its variants), p. 75-145.
+In H. Harris and K. Hirschhorn (eds.), Advances in human genetics. Plenum Press, New
+York.
+
+SinG, C. F., and M. SKOLNIcK (eds.). 1979. The
+genetic analysis of common diseases: Applications to predictive factors in coronary heart
+disease. Alan Liss Publishing, New York.
+
+SMYTH, C. J., C. W. CoTTERMAN, and R. H. Frey
+BERG. 1948. The genetics of gout and hyperuricemia—an analysis of nineteen families. J.
+Clin. Invest. 25:749-759.
+
+WEINBERG, W. 1908. Uber den Nachweis der
+Vererbung beim Menschen. Jahresh. Verein
+f. vater}. Naturk. Wiirttem. 64:368—382.
+
+WRIGHT, S. 1968. Evolution and the genetics of
+populations, Vol. 1. Genetic and biometric
+foundations. Univ. of Chicago Press, Chicago.
+
+ 
+
+ 
+

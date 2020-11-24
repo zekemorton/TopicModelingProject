@@ -1,0 +1,1605 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+Decomposition of the change in the total fertility
+rate in the republic of Korea, 1966-1970
+
+Robert D. Retherford & Naohiro Ogawa
+
+To cite this article: Robert D. Retherford & Naohiro Ogawa (1978) Decomposition of the
+change in the total fertility rate in the republic of Korea, 1966-1970, Social Biology, 25:2,
+115-127, DOI: 10.1080/19485565.1978.9988329
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1978.9988329
+
+fa Published online: 23 Aug 2010.
+(FB ann | ei
+Submit your article to this journal @
+ail Article views: 8
+N
+Q View related articles 4
+
+(7) Citing articles: 5 View citing articles G
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:37
+
+ 
+ 
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+ 
+
+Decomposition of the Change in the Total
+Fertility Rate in the Republic of Korea,
+
+1966-1970
+
+ 
+
+Robert D. Retherford and Naohiro Ogawa
+
+East-West Population Institute
+East-West Center Honolulu, Hawati
+
+ABSTRACT: Own-children fertility estimates derived from the Korean censuses of 1966 and 1970
+indicate that the total fertility rate fell by more than half a child in the intercensal period, from an
+estimated 4,837 to 4,257 per thousand. A compositional analysis shows that about one-fourth of
+the fall can be attributed to changes in population composition by urban-rural residence, education, marital status, and parity, and about three-fourths to changes in age-specific birth rates
+cross-classified by these same characteristics. The own-children method is used to generate the
+finely specified birth rates necessary for this analysis, and a decomposition technique used
+previously by one of the authors is extended to incorporate the unusually large number of
+
+compositional variables.
+
+The Korean total fertility rate fell sharply during the 1960’s, from an estimated
+5,955 in 1960(Cho, 1974) to 4,257 in 1970.
+Conforming to a pattern common in developing nations where a fertility transition has clearly begun (Kirk, 1971), this
+rapid and sustained fertility decline was
+both preceded and accompanied by rapid
+mortality decline and economic development. Sustained mortality decline began
+in the mid-1950’s, with life expectancy rising from 52 years in 1955-60 to 64 years in
+1971 (Cho, 1973). Per capita income, at
+current prices and exchange rates, increased at an average rate of 5.0 per cent
+between 1960 and 1970, rising from U.S.
+$146 (a comparatively low level for fertility decline to commence) to $241 (United
+Nations, 1972a, p. 596). The average annual growth rate of industrial output accelerated from 6.3 per cent in the first half
+of the decade to 11.0 per cent in the second
+half (United Nations 1972b; Adelman,
+1969).
+
+The composition of the population by
+
+socioeconomic characteristics also evolved
+rapidly over the 1960's, and it is on the
+fertility impact of this evolution that the
+present paper focuses. The aim is to decompose the change in the total fertility
+rate between 1966 and 1970 into two sets
+of contributions, one from changes in
+population composition by urban-rural residence, education, marital status, and
+parity, and the second from changes in
+age-specific fertility cross-classified by
+these same characteristics. The finely specified birth rates necessary for this analysis
+are computed by a recent extension of the
+own-children method (Retherford and
+Cho, in press) as applied to the Korean
+censuses of 1966 and 1970.
+
+The decomposition method used here is
+an extension of a technique used in an
+earlier study which sought to measure the
+contributions of three factors—changing
+age composition, marital status composition, and age-specific marital fertility—to
+decline in the Korean crude birth rate between 1960 and 1970 (Retherford and
+
+115
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+116 Retherford
+Cho, 1973). The present analysis differs
+from the earlier one in that the time period
+is shorter, the number of compositional
+variables is larger, and the total fertility
+rate (TFR) is used instead of the crude
+birth rate (CBR). The present analysis
+employs a straightforward extension of the
+decomposition method used in the earlier
+study.
+
+The time frame of analysis is restricted
+to the period 1966-70 for reasons of data
+availability. Despite its short duration,
+however, this period witnessed remarkably rapid shifts in population composition
+and a substantial fall in the TFR.
+
+MATERIALS AND METHODS
+
+Basic data sources are the Korean censuses of 1 October 1966 and 1 October
+1970, conducted by the Bureau of Statistics. Analysis is based on a 1 per cent
+sample from the 1966 census and a 10 per
+cent sample from the 1970 census. The
+own-children method of fertility estimation (Cho, 1971la and 19716; Retherford
+and Cho, in press) is applied to these data
+sets to estimate age-specific birth rates and
+TFR’s, specific for urban-rural residence,
+education, marital status, and parity for
+1966 (1 October 1965 to 1 October 1966)
+and 1970 (1 October 1969 to 1 October
+1970) (see Table 1.)
+
+The own-children method of fertility estimation is a reverse-survival method. In
+essence, children by own age and mother’s
+age enumerated in the census are reversesurvived to estimate births by mother’s
+age in prior years, and women by age are
+reverse-survived to estimate the agespecific population at risk. Age-specific
+birth rates and birth probabilities are obtained as suitably adjusted quotients of
+these two basic quantities. In the case of
+Korea, lunar ages were translated into
+standard completed years of age by the
+
+and Ogawa Social Biology
+Bureau of Statistics before the estimation
+procedure was applied.
+
+Reverse-survival computations require
+life tables. To obtain fertility estimates for
+1966, based on enumerated children less
+than a year old and women in the 1966
+census, we used 1966 life tables by sex
+computed by the Korean Bureau of Statistics (Korea, Economic Planning Board,
+1966). Separate life tables were available
+and used for urban, rural, and all Korea.
+Rural mortality was slightly higher than
+urban mortality in 1966. For 1970, published life tables by urban-rural residence
+were not available, so we used CoaleDemeny (1966) model life tables. Based on
+residence-specific child mortality estimates
+computed by the Brass method (Brass,
+1968) applied to the two censuses, we
+chose, in consultation with the Bureau of
+Statistics, West level 20.4 for urban areas,
+West level 19.5 for rural areas, and West
+level 19.9 for all Korea.
+
+Application of the own-children method
+requires adjustment factors for census underenumeration of children less than a
+year old and women of childbearing age.
+For 1970 we utilized the following adjustment factors, obtained from the 1970
+census and postenumeration survey, to inflate own children and women by age (age
+groups specified in parentheses): 1.107 (0),
+1.096 (15-19), 1.099 (20-24), 1.062 (2529), 1.040 (30-34), 1.029 (35-39), 1.032
+(40-44), and 1.026 (45-49). At the suggestion of the Bureau of Statistics, we used
+the 1970 factors also for 1966, as the 1966
+postenumeration survey is thought to contain inaccuracies. Underenumeration adjustments involved no distinctions by
+rural-urban residence, education, marital
+status, or parity, as the necessary data
+were not available.
+
+Our TFR estimates of 4,837 for 1966
+and 4,257 for 1970 differ somewhat from
+previous estimates. Cho’s (1974) estimates,
+ 
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+None
+All Women
+AGE BY
+RESIDENCE 1966 1970
+Urban
+15-19...... 8.5 20.4
+20-24...... 163.3 182.3
+25-29...... 267.3 254.4
+30-34 ...... 177.0 182.2
+35-39 ...... 120.5 96.9
+40-44...... 42.2 30.2
+45-49 ...... 5.3 2.4
+TFR 3,920.4 3,844.9
+Rural
+15=19 «vase 64.6 67.8
+20-24...... 313.4 271.7
+25-29 ...... 343.4 301.8
+30-34...... 293.2 244.9
+35-39...... 202.0 157.1
+40-44...... 83.0 63.7
+45-49 ....... 11.9 7.4
+TFR 6,557.0 5,572.0
+Total
+15-19...... 49.5 49.9
+20-24...... 288.8 248.6
+25-29...... 331.2 291.9
+30-34...... 275.2 233.5
+35-39 ...... 188.7 147.0
+40-44....... 75.0 57.5
+45-49...... 10.6 6.4
+TFR 6,095.0 5,174.0
+
+* Dramatic changes of rates in some categories, particularly at ages 15-19, are probably due to small numbers of sample births and consequent high sampling variability. For reasons of space, the parity variable is
+
+Married Women
+
+i
+
+1966
+
+194.8
+300.0
+305.7
+202.7
+146.7
+56.8
+8.2
+
+292.6
+381.2
+359.7
+309.6
+226.4
+
+99.6
+
+15.9
+
+286.0
+371.9
+351.7
+294.1
+214.3
+
+92.0
+
+14.5
+
+1970
+
+328.9
+322.6
+
+288.5
+
+201.4
+114.7
+39.8
+3.8
+
+314.0
+348.2
+315.6
+256.5
+170.9
+74.8
+9.5
+
+S1G.2
+343.1
+310.3
+246.9
+162.1
+68.9
+8.5
+
+TABLE 1
+
+FERTILITY RATES BY AGE, RESIDENCE, EDUCATION, AND MARITAL STATUS, KOREA, 1966 AND 1970*
+
+Primary School
+
+All Women
+
+1966 1970
+13.1 14.7
+178.0 200.5
+249.9 276.9
+164.1 169.0
+73.8 74.6
+25.5 20.2
+7.9 4.0
+3,561.8 3,798.6
+19.6 22.0
+247.0 215.6
+362.1 314.0
+262.7 228.8
+170.6 125.9
+53.5 44.1
+1.3 8.0
+5,584.2 4,791.8
+17.7 19.3
+226.2 209.8
+324.0 299.2
+224.3 205.6
+125.0 104.6
+37.7 32.2
+5.2 5.7
+4,800.7 4,381.9
+
+EDUCATION
+
+Married Women
+
+1966
+
+306.7
+344.8
+282.8
+176.6
+85.2
+31.6
+10.7
+
+246.0
+378.8
+378.2
+276.6
+186.9
+62.4
+1.6
+
+257.0
+370.2
+347.4
+238.2
+140.3
+45.5
+6.8
+
+1970
+
+281.1
+346.9
+299.7
+178.5
+82.1
+24.1
+5.3
+
+313.3
+359.6
+327.6
+235.8
+133.3
+49.3
+9.6
+
+303.5
+354.8
+316.8
+213.9
+112.5
+37.1
+7.3
+
+omitted from the table. Decompositions are calculated from values more exact than those shown in the table.
+
+More than Primary School
+
+All Women
+
+1966 1970
+2.1 5.2
+95.6 130.1
+254.2 290.7
+119.8 175.2
+61.2 55.5
+9.4 12.3
+0.0 2.5
+2,712.1 3,357.9
+4.1 6.3
+143.0 140.0
+303.7 313.1
+224.2 208.1
+104.5 96.4
+32.7 30.8
+28.9 8.8
+4,204.6 4,017.2
+2.8 5.6
+109.9 132.7
+268.4 296.0
+145.5 182.5
+68.9 63.1
+13.3 15.2
+5.2 3.4
+
+3,069.5 3,492.5
+
+Married Women
+
+1966
+
+120.2
+295.6
+308.5
+131.0
+70.6
+11.1
+0.0
+
+207.8
+358.4
+345.7
+233.7
+114.5
+
+40.8
+
+34.7
+
+150.8
+317.3
+319.6
+157.2
+78.8
+15.8
+6.9
+
+1970
+
+241.6
+344.4
+344.9
+187.7
+60.6
+14.3
+3.1
+
+288.8
+356.0
+353.9
+rare.
+103.3
+
+34.9
+
+10.9
+
+257.0
+347.6
+346.9
+194.4
+68.7
+17.6
+4.3
+
+Total
+All Women
+
+1966 1970
+6.9 8.9
+133.9 157.4
+253.0 283.1
+150.9 172.5
+80.5 70.7
+28.8 20.4
+5.8 3.2
+3,298.4 3,581.3
+19.9 18.4
+239.9 200.3
+350.9 312.1
+273.0 230.9
+188.1 137.8
+76.1 55.9
+10.7 7.6
+5,793.2 4,814.5
+14.4 13.5
+196.3 177.4
+312.4 297.4
+226.9 204.9
+148.9 110.3
+59.4 41.9
+9.2 6.0
+
+4,837.3 4,257.4
+
+Married Women
+
+1966
+
+237.1
+322.3
+294.9
+164.5
+94.0
+36.3
+8.3
+
+254.0
+377.2
+370.1
+287.6
+209.0
+
+90.8
+
+14.2
+
+250.4
+360.0
+342.3
+242.1
+168.4
+
+72.4
+
+12.4
+
+1970
+
+266.8
+345.1
+321.5
+184.0
+78.3
+24.7
+4.4
+
+310.5
+358.0
+329.7
+239.3
+147.7
+64.4
+9.5
+
+294.1
+351.8
+325.7
+215.1
+119.8
+49.2
+7.8
+
+Z ON ‘SZ TPA
+
+RaI0y ul ANNs]
+
+Lit
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+118
+
+based on 10 per cent census samples for
+1966 and 1970, were 4,757 for 1966 and
+4,124 for 1970. The discrepancies are
+small and are explained principally by our
+use of computer matching instead of hand
+matching of own children to mothers
+within households (Ho, 1976), and our use
+of a 1 per cent instead of a 10 per cent
+sample for 1966.
+
+TFR estimates from the 1968 and 1971
+fertility surveys conducted by the Korean
+Institute for Family Planning (KIFP) are
+4,746 for 1966 and 4,443 for 1970 (Korean
+Institute for Family Planning, 1973). The
+agreement between the KIFP estimate for
+1966 and Cho’s and our estimates for 1966
+is fairly close and appears to justify our
+decision to use 1970 inflation factors to
+adjust the 1966 census. But for reasons not
+entirely clear, the estimates do not agree so
+well for 1970. A possible source of discrepancy is the considerably smaller size of
+the KIFP samples compared with the census samples. If sampling variability accounts for the 1970 discrepancy, the census estimates would seem more reliable.
+On the other hand, the KIFP fertility survey data may be of higher quality owing to
+better training of and more control over
+enumerators. In the absence of conclusive
+evidence, we simply note the disagreement
+among the 1970 TFR estimates and base
+our analysis on the own-children estimates, since the KIFP samples are in any
+case too small to yield the finely specified
+birth rates required for the decomposition
+analysis described in this paper.
+
+Decompositions of the change in the
+TFR between 1966 and 1970 are calculated using an elaboration of a method
+developed by Kitagawa (1955). Kitagawa’s method decomposes a change in the
+crude birth rate into a sum of age-specific
+components, one set of which is due to
+changes in age structure and a second set
+
+_ due to changes in age-specific birth rates.
+
+Retherford and Cho (1973) expanded the
+
+Retherford and Ogawa
+
+Social Biology
+
+method to incorporate the impact of
+changes in marital status composition. .
+Here we utilize the TFR instead of the
+CBR, and we further expand the method
+to include any number of variables, the
+principal limitation being sample size. (If
+the CBR is used, the decompositions are
+altered somewhat and include an additional set of components from changes in
+age composition. These are very small,
+however, because age composition
+changed little over the four-year period
+under consideration.)
+
+Consider a change in 7FR = 5 2,F,,
+where F, is the age-specific birth rate for
+the 5-year age group beginning at age x.
+Suppose we write F, as a weighted sum of
+age-residence-specific birth rates, where
+each weight £,, is the proportion of the age
+group x tox + 5 with residence (urban o
+rural). Then
+
+TFR = 5 2yy Ror For (1)
+and
+
+ATFR = 5 Zany For Aker
++ 5 Zar Rep AF zy, (2)
+
+where the symbol A denotes change and
+where F,,, and k,, are average values over
+
+‘the period, obtained by summing the be
+ginning and end values and dividing by
+two. We thus obtain a sum of two principal contributions to A7TFR, the first of
+which can be interpreted as stemming
+from changes in residence composition by
+age and the second from changes in ageresidence-specific birth rates. Each. of
+these two principal contributions can in
+turn be broken down by age if so desired.
+
+The above decomposition method can
+be. extended to more variables by decomposing AF,, in the same way as ATFR.
+Suppose we introduce variables in the
+order (after age) of residence (r), education
+(e), marital status (m), and parity (p). Residence consists of two sectors (urban and
+rural); education, of three (none, primary,
+ 
+
+ 
+
+ 
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+Vol. 25, No. 2
+
+and more); marital status, of two (married
+and not married); and parity, of ten (O9+). We assume that all births occur
+within marriage, an acceptable assumption in view of Korea’s low rate of illegitimacy. The final decomposition is then
+
+ATFR = 5 Ler Fxg ARz, + 5 ere Ror
+Fore ARrre_ . _
++ § mx r.e,m Ror Rere F orem
+Mem
++ 3 Lez,remsp Ror Reve Rerem
+F rremp AR sremp _
++ $ Zeremp Rar Rere Rerem
+Reremp SF zremp (3)
+
+with symbols defined as follows:
+
+RB xy = proportion of the xth age group
+(x tox + 5) with residencer
+
+(females only);
+
+= proportion of the x-rth ageresidence group with education
+é;
+
+Rere
+
+= proportion of the x-r-eth
+age-residence-education group
+with marital status m;
+
+Rerem
+
+= proportion of the x-r-e-mth
+age-residence-education-marital
+status group with parity ;
+
+Reremp
+
+= age-residence-education-marital
+status-parity-specific birth rate
+(marital rates obtained by dividing rates not specific for marital
+status by the corresponding ageresidence-education-parity- specific proportions married).
+
+F xrremp
+
+_ The first of the five principal terms on
+the right side of Equation (3) denotes the
+contribution to change in the TFR from
+changes in residence composition. The
+second term denotes the contribution from
+changes in educational composition within
+residence groups. The third term denotes
+the contribution from changes in marital
+status composition within residence-edu
+Fertility in Korea
+
+Bn
+
+119
+
+cation groups. The fourth term denotes
+the contribution from changes in parity
+composition within residence-educationmarital status groups. The fifth term denotes the contribution from changes in
+age-residence-education-marital _— statusparity-specific birth rates.
+
+The order in which variables are introduced into the decomposition in Equation
+(3) clearly influences the results. The order
+of residence, education, marital status,
+parity, and marital fertility reflects for
+most persons a logical time sequence of
+life-cycle events, and we shall retain it
+throughout most of the analysis. This or- |
+dering, however, may not bring out fully
+the explanatory power of certain variables. Later in the paper, therefore, we
+shall examine alternative orderings, as
+well as the effect of deleting certain variables from the analysis.
+
+The distinction between compositional
+and fertility contributions in Equation (3)
+is not entirely unambiguous. Part of the
+reason is mathematical. Compositional
+contributions depend not only on Ak values but also on F values, which are affected by change in F. Fertility contributions likewise depend not only on AF values but also on & values, which are affected by changes ink values. Distinctions
+among the several compositional contributions are not entirely unambiguous either.
+
+An alternative decomposition procedure
+not beset with this difficulty examines the
+effect of varying one compositional or fertility variable at a time while holding all
+others constant at their initia] values. This
+alternative procedure begins with the formula
+
+TFR = 5 Ler (Rrr (Xe Rere
+(Lim Rrrem (2p Reremp F xrremp )))). (4)
+
+To get the contribution to A7JFR from
+changes in educational composition, for
+example, one first computes a value 7FR*
+based on values of kyr, Reremy and F yremp
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+120
+
+for 1966 and values of &,,-- for 1970. The
+quantity (TFR* — TFR*®), taken as a
+
+percentage of TFRO%® — TFR%®, is then
+
+the contribution of change in educational
+composition to the overall change in the
+TFR. Contributions from changes in residence composition, marital status composition, parity composition, and fertility are
+similarly obtained.
+
+Unfortunately, this alternative decomposition is not strictly additive. It contains
+a residual term obtained by subtracting
+the sum of the earlier terms from 100 per
+cent. The presence of this residual term
+means that numerical contributions in this
+decomposition generally differ from those
+in the decomposition based on Equation
+(3). Nevertheless, the relative importance
+of the several contributions is the same in
+both decompositions as illustrated in
+Table 2. Decompositions based on Equation (3) are preferred because they do not
+contain residual terms.
+
+Retherford and Ogawa
+
+Social Biology
+
+Movement of persons from one compositional category to another, say rural to
+urban, itself influences category-specific
+fertility, because, in general, movers do
+not assume instantaneously the fertility
+behavior of their new category of membership.
+
+A final caution in interpreting the decompositions is that the fertility contribution to change in the TFR cannot be interpreted as a family planning program contribution. This fact becomes clear when
+one considers that addition of more compositional variables into the analysis (say,
+occupation and income) might substantially alter the size of the fertility contribution. Moreover, over time, the fertility
+implications of membership in a given
+compositional category may change owing
+to changes in social context. For example,
+the bearing of a primary school education
+on occupational mobility, which in turn
+bears on fertility, changes considerably as
+
+TABLE 2
+
+COMPARISON OF RESULTS FROM TWo ALTERNATIVE PROCEDURES FOR DECOMPOSING THE CHANGE
+IN THE TOTAL FERTILITY RATE, KOREA, 1966-1970
+
+Methods and
+Decompositions*
+
+Method I
+1st-order
+decomposition ....... 25.2
+2nd-order
+decomposition ....... 25.2 21.8
+3rd-order
+decomposition ....... 25.2 21.8
+
+Method 2
+1st-order
+decomposition ....... 34.8
+2nd-order
+decomposition ....... 34.8 27.5
+3rd-order
+decomposition ....... 34.8 27.5
+
+Residence Education
+
+Marita! status Fertility Residual Total
+74.8 ra 100.0
+§2.9 TT 100.0
+—12.4 65.3 100.0
+84.5 —19.3 100.0
+66.9 —29.2 100.0
+—10.0 76.5 —28.7 100.0
+
+* Method 1 is based on Equation (3) in the text. Method 2 isbased on Equation (4) and subsequent discussion in the text. The 4th-order decomposition
+for Method 2 was not computed for this comparison. Because of rounding errors, rows do not always add exactly to marginal totals.
+
+There is a second, more sociological reason why the distinction between compositional and fertility contributions is not entirely unambiguous, and it pertains to decompositions obtained by either method.
+
+economic and social development proceeds and educational prerequisites of
+economic success become higher. The
+change in fertility among those with a
+primary school education thus depends
+
+ 
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+Vol. 25, No. 2
+
+partly on changing reproductive motivations born of an evolving social context,
+not just on changing availability and cost
+of birth control.
+
+RESULTS
+
+The Korean TFR declined from an estimated 4,837 to 4,257 per thousand between 1966 and 1970 (see Table 1). Table
+3 decomposes this change into components, following the procedure specified by
+Equation (3) in the previous section.
+
+The first-order decomposition in Table
+3 includes only urban-rural residence as a
+compositional variable. Changes in residence composition contributed 25.2 per
+cent of the decrease in the TFR, and
+changes in age-specific fertility within residence categories contributed 74.8 per
+cent. The 16.9 per cent decline in the rural
+TFR (from 5,793 to 4,814, as shown in
+Table 1) dominated the 74.8 per cent fertility contribution. The urban TFR actually
+increased by 8.6 per cent (from 3,298 to
+3,581).
+
+Fertility in Korea
+
+ 
+
+121
+
+may have judged the period an especially
+propitious time to add to their families.
+Such a hypothesis is in line with the experience of Western countries, where
+short-term economic fluctuations have
+often induced short-term fertility fluctuations in the same direction, superimposed
+on the secular fertility decline. The comparatively high fertility of newly arrived
+rural-urban migrants no doubt also contributed to increase urban fertility.
+
+The second-order decomposition in
+Table 3 indicates education as well as residence as compositional variables, with
+education introduced after residence. The
+introduction of education splits the 74.8
+per cent fertility contribution in the firstorder decomposition into two parts, one
+due to changes in educational composition
+within residence categories (21.8 per cent),
+and a second due to changes in age-specific
+fertility within residence-education categories (52.9 per cent). In the second-order
+decomposition, then, about half the decline in the TFR stems from compositional
+changes in residence and education.
+
+TABLE 3
+
+PER CENT DECOMPOSITION OF THE CHANGE IN THE TOTAL FERTILITY RATE, KOREA, 1966-1970*
+
+Decompositions Residence Education
+
+1st-order
+decomposition
+2nd-order
+decomposition
+3rd-order
+decomposition
+4th-order
+decomposition
+
+eee eee
+
+21.8
+
+oe ee ee
+
+21.8
+
+25.2 21.8
+
++e ee ee
+
+Marital status Parity Fertility Totalt
+74.8 100.0
+
+52.9 ‘ 100.0
+
+—12.4 65.3 100.0
+~12.4 —10.3 75.6 100.0
+
+* The unpercentaged change in the TFR was —580 per thousand, from 4,837 to 4,257.
++ Because of rounding errors, rows do not always add exactly to marginal totals in this and subsequent tables.
+
+The increase in urban fertility is unexpected and demands at least a tentative
+explanation. We may hypothesize that the
+increase occurred in part because the
+urban educated classes were the principal
+beneficiaries of the extraordinarily rapid
+economic gains of the late 1960’s. Younger
+couples belonging to these favored groups
+
+ 
+
+The third-order decomposition includes
+marital status as well as residence: and
+education as compositional variables. The
+introduction of marital status splits the
+52.9 per cent fertility contribution in the
+second-order decomposition into two
+
+parts, one due to changes in marital status
+composition within residence-education
+
+ 
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+122 Retherford
+
+categories (—12.4 per cent), and a second
+due to changes in age-specific fertility
+within residence-education-marital status
+categories (65.3 per cent). With residence
+and education composition controlled,
+changes in marital status composition actually tended to increase the TFR by 12.4
+per cent.
+
+This finding is somewhat surprising in
+view of the country-wide rise in age at
+
+and Ogawa Social Biology
+
+marriage noted in earlier studies (Cho,
+1973; Kim et al., 1974). The detailed input
+data in Table 4 help explain this apparent
+inconsistency. The panel of kz;em values in
+this table show that proportions married
+rose slightly between 1966 and 1970 ina
+majority of age-residence-education  categories, especially in urban areas; hence the
+modest negative contribution of marital
+structure changes in Table 3. At the same
+
+TABLE 4
+
+R-VALUES FOR 1966 AND 1970
+
+VARIABLES 15-19 20-24 25-29
+kr 1966
+Urban ..... 0.4237 0.4115 0.3932
+Rural ...... 0.5763 0.5885 0.6068
+k,, 1970
+Urban ..... 0.5138 0.5338 0.5053
+Rural ...... 0.4862 0.4662 0.4947
+R re 1966
+Urban
+None 0.0378 0.0392 0.0753
+Prim. .... 0.4085 0.4327 0.5044
+More 0.5537 0.5281 0.4204
+Rural
+None 0.0756 0.1404 0.2560
+Prim. .... 0.7282 0.7010 0.6348
+More 0.1962 0.1586 0.1092
+Total
+None 0.0596 0.0988 0.1849
+Prim. .... 0.5928 0.5906 0.5835
+More 0.3477 0.3106 0.2316
+Rxre 1970
+Urban
+None 0.0166 0.0193 0.0382
+Prim. .... 0.3655 0.3732 0.4466
+More 0.6178 0.6074 0.5151
+Rural
+None 0.0288 0.0635 0.1481
+Prim. .... 0.6557 0.6869 0.6893
+More 0.3154 0.2495 0.1624
+Total
+None 0.0225 0.0399 0.0925
+Prim. .... 0.5066 0.5194 0.5666
+More 0.4708 0.4405 0.3406
+Rerem 1966
+Urban
+None 0.0436 0.5444 0.8743
+Prim. .... 0.0427 0.5163 0.8836
+More 0.0177 0.3235 0.8241
+Total 0.0289 0.4156 0.8579
+Rural
+None 0.2206 0.8220 0.9545
+Prim. .... 0.0795 0.6522 0.9576
+More 0.0196 0.3990 0.8784
+Total 0.0784 0.9481
+
+0.6358
+
+AGE
+30-34 35-39 40-44 ‘45-59 Total
+0.3778 0.3643 0.3521 0.3113 0.3858
+0.6222 0.6357 0.6479 0.6887 0.6142
+0.4452 0.4100 0.3935 0.3622 0.4664
+0.5548 0.5900 0.6065 0.6378 0.5336
+0.1275 0.2113 0.3500 0.4776 0.1357
+0.5365 0.5384 0.4883 0.4079 0.4705
+0.3360 0.2503 0.1617 0.1145 0.3938.
+0.4220 0.6225 0.7778 0.8603 0.3853
+0.5113 0.3463 0.2050 0.1283 0.5158
+0.0667 0.0312 0.0172 0.0115 0.0988
+0.3108 0.4727 0.6272 0.7411 0.2890
+0.5208 0.4163 0.3047 0.2153 0.4984
+0.1684 0.1110 0.0681 0.0435 0.2126
+0.0718 0.1251 0.2188 0.3422 0.0809
+0.5089 0.5248 0.5316 0.4861 0.4422
+0.4192 0.3499 0.2494 0.1713 0.4767
+0.2599 0.4301 0.6227 0.7636 0.2919
+0.6443 0.5139 0.3466 0.2188 0.5609
+0.0956 0.0556 0.300 0.0168 0.1469
+0.1761 0.3051 0.4638 0.6110 0.1935
+0.5840 0.5183 0.4194 0.3156 0.5056
+0.2397 0.1762 0.1163 0.0727 0.3007
+0.8735 0.8210 0.7421 0.6432 0.7101
+0.9289 0.8660 0.8080 0.7379 0.6486
+0.9148 0.8665 0.8483 0.7466 0.4619
+0.9171 0.8566 0.7915 0.6937 0.5834
+0.9471 0.8924 0.8333 0.7504 0.8371
+0.9497 0.9126 0.8578 0.8040 0.6407
+0.9591 0.9126 0.8014 0.8314 0.4346
+0.9492 0.9000 0.8378 0.7582 0.6960
+ 
+
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+Vol. 25, No. 2
+
+Fertility in Korea 12
+
+ws
+
+TABLE 4 (continued)
+
+R-VALUES FOR 1966 AND 1970
+
+ 
+
+ 
+
+ 
+
+ 
+
+AGE
+
+VARIABLES 15-19 20-24 25-29 30-34 35-39 40-44 45-59 Total
+Total
+
+None .... 0.1731 0.7766 0.9417 0.9357 0.8808 0.8154 0.7289 0.8141
+
+Prim. .... 0.0687 0.6112 0.9324 0.9416 0.8907 0.8297 0.7651 0.6435
+
+More .... 0.0183 0.3462 0.8397 0.9257 0.8747 0.8406 0.7620 0.4541
+
+Total ... 0.0574 0.5452 0.9127 0.9371 0.8842 0.8215 0.7382- 0.6526
+Urban
+
+None .... 0.0619 0.5652 0.8819 0.9049 0. 8448 0.7602 0.6461 0.7295
+
+Prim. .... 0.0521 0.5780 0.9238 0.9466 0.9085 0.8374 0.7563 0.6872
+
+More .... 0.0217 0.3777 0.8428 0.9331 0.9161 0.8618 0.8103 0.5088
+
+Total .... 0.0335 0.4561 0.8804 0.9379 0.9032 0.8266 0.7277 0.6056
+Rural
+
+None .... 0.2160 0.7802 0.9561 0.9545 0.9195 0.8521 0.7841 0.8556
+
+Prim. .... 0.0703 0.5994 0.9584 0.9704 0.9447 0.8951 0.8355 0.6932
+
+More .... 0.0217 0.3933 0.8870 0.9567 0.9326 0.8846 0.8120 0.4299
+
+Total .... 0.0591 0.5595 0.9464 0.9649 0.9332 0.8679 0.7959 0.7020
+Total
+
+None .... 0.1577 0.7248 0.9406 0.9455 0.9070 0.8350 0.7561 0.8310
+
+Prim. .... 0.0635 0.5912 0.9446 0.9611 0.9297 0.8663 0.7913 0.6908
+
+More .... 0.0217 0.3818 0.8532 0.9383 0.9192 0.8653 0.8105 0.4883
+
+Total . 0.0459 0.5043 0.9131 0.9529 0.9209 0.8517 0.7712
+
+time, however, the panels of k,, and Rere
+values show a dramatic rise in age-specific
+proportions urban and age-specific proportions having elementary or more education, groups characterized by relatively
+low proportions married as shown by the
+Rrrem Values. Remarkably, the proportion
+of the female population aged 15-49 residing in urban areas jumped from 38.6 to
+46.6 per cent in the scant four years between the two censuses, and the proportion with no education dropped from 28.9
+to 19.4 per cent. The shift of population
+into residence-education categories with
+relatively low proportions married was
+large enough to offset the rise in proportions married within residence-education
+categories, so that country-wide proportions married generally fell at the peak
+reproductive ages, though not at the late
+reproductive ages, as shown by the last
+column of &srem values in Table 4. These
+points are elaborated later by examining
+what happens when the residence and
+education variables are dropped from the
+decomposition.
+
+The fourth-order decomposition in
+Table 3 includes parity as well as residence, education, and marital status as
+compositional variables. The introduction
+of parity splits the 65.3 per cent fertility
+contribution in the third-order decomposition into two parts, one due to changes in
+parity composition within residence-education-marital status categories (—10.3 per
+cent), and a second due to changes in agespecific fertility within residence-education-marital status-parity categories (75.6
+per cent). Changes in parity composition,
+like those in marital status composition,
+tended to increase the TFR. This result
+was difficult to predict. At a given age, the
+relationship between fertility and parity is
+generally U-shaped, with relatively high
+fertility at very low and very high parities.
+A compositional shift toward lower
+
+parities could either raise or lower overall
+fertility, depending on the magnitude of
+the shift. It is noteworthy, finally, that
+compositional contributions of education,
+marital status, and parity in Table 3 approximately cancel each other. The fertil
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+124
+
+Retherford and Ogawa
+
+Social Biology
+
+TABLE 5
+
+PER CENT DECOMPOSITION OF THE CHANGE IN THE TOTAL FERTILITY RATE BY ALTERNATIVE
+COMBINATIONS OF MARITAL STATUS WITH OTHER COMPOSITIONAL VARIABLES, KOREA, 1966—1970*
+
+Decompositions Residence Education Marital status Fertility Total
+Decomposition (a).......... + mig 53 5.6 94.4 100.0
+Decomposition (b).......... vee 42.6 —10.3 67.8 100.0
+Decomposition (c).......... 25.2 wee —2.9 77.7 100.0
+Decomposition (d) ......... 25.2 21.8 ~12.4 65.3 100.0
+
+* The unpercentaged change in the TFR was —580 per thousand, from 4,837 to 4,257.
+
+ity contributions in the first-order and
+fourth-order decompositions are almost
+identical. |
+
+Let us now examine in more detail the
+impact on the TFR of changes in marital
+status composition. To simplify computations, we omit consideration of changes in
+parity composition, contributions from
+which are merged into a redefined and less
+finely specified fertility contribution. This
+merger has no effect on the magnitudes of
+the residence, education, and marital
+
+_status contributions which form the focus
+
+of our attention.
+
+In Table 5 each decomposition contains
+marital status as a compositional variable,
+in alternative combination with the residence and education variables. Note,
+however, that the order of introduction of
+variables is still the same as in Table 3.
+Decomposition (a) shows that with residence and education composition uncontrolled, the marital status contribution of
+5.6 per cent tended to decrease the TFR,
+
+in line with earlier studies. But when education is introduced in decomposition (b),
+the marital status contribution reverses
+sign, changing from 5.6 to —10.3 per cent.
+If residence is substituted for education as
+a control, in decomposition (c), the marital
+status contribution changes. from 5.6 to
+—2.9 per cent. Again there is a reversal of
+sign, but the magnitude of the shift is
+smaller. These findings suggest that education has a somewhat larger impact on
+proportions married than does residence,
+in agreement with earlier studies (Kim et
+al., 1974). Decomposition (d) is taken from
+Table 3 for comparison. |
+Table 6 sheds further light on the relative importance of the residence and education variables. As mentioned earlier,
+Table 3 shows that with education introduced after residence, contributions to the
+decline in the TFR were 25.2 per cent for
+residence and 21.8 per cent for education.
+Table 6 shows that when the variables are
+reversed and residence is introduced after
+
+TABLE 6
+
+PER CENT DECOMPOSITION OF THE CHANGE IN THE TOTAL FERTILITY RATE WITH EDUCATION
+INTRODUCED BEFORE RESIDENCE, KOREA, 1966~-1970*
+
+Decompositions Education Residence
+1st-order
+decomposition ........ 42.6
+2nd-order
+decomposition ........ 42.6 4.6
+3rd-order
+decompositiont ....... 42.6 4.6
+4th-order
+decompositiont ....... 42.6 4.6
+
+Marital status Parity Fertility Total
+57.4 100.0
+
+52.8 100.0
+
+~12.4 . 65.2 100.0
+~12.4 ~10.2 75.5 100.0
+
+ 
+
+* The unpercentaged change in the TFR was ~—580 per thousand, from 4,837 to 4,257.
+
+t Note that thesum of residence and education contributions in this table is not quite identical to thatobtained from Table 2; neither are the parity and
+fertility contributions identical between the two tables. Strict equality does not obtain, but approximate equality can be demonstrated algebraically.
+Discrepancies are due only in part to rounding errors.
+
+ 
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+ 
+
+Vol. 25, No. 2
+
+Fertility
+
+education, the contributions are 42.6 per
+cent for education and only 4.6 per cent
+for residence. The value of 42.6 per cent
+also appears in Table 5.
+
+According to Table 6, changes in education composition would appear largely to
+explain away the effects of changes in residence composition on the country-wide
+TFR shown in Table 3. But the reasons
+why this is so are not immediately obvious. The lesser importance of changes in
+residence composition is principally due
+to the unusual circumstance discussed earlier, that the decline in rural fertility was
+partly offset by a rise in urban fertility. It
+is not true that within the same education
+category the TFR behaved similarly in
+urban and rural areas. In fact, such comparisons reveal striking differences. Table
+7 shows the per cent contribution of
+changes in marital structure and marital
+fertility to change in the TFR within each
+residence-education group, derived by
+Equation (1) with marital status substituted for residence. Within the two education categories of primary school and more
+than primary school, urban and rural
+TFR’s actually moved in opposite directions. And within all three education categories the relative importance of marital
+status and fertility contributions differed
+markedly between urban and rural areas.
+
+ 
+
+in Korea 125
+
+Changes in age-specific proportions
+married tended to increase the TFR for
+each education group within the urban
+category and also for the more educated
+group within the rural category. In these
+four groups, age-specific proportions married rose, with very few exceptions, as
+shown by the & ,,.», values in Table 4. For
+those with no education or only a primary
+education in the rural category, however,
+changes in age-specific proportions married worked to reduce the TFR, though
+not by very much. Proportions married
+generally fell at the peak reproductive ages
+and rose at the late reproductive ages.
+
+For those with primary or more education in the urban category, Table 7 shows
+that not only changes in marital structure
+but also changes in marital fertility
+worked to increase the TFR, reflecting in- |
+creases in age-specific marital fertility at
+the peak reproductive ages shown in
+Table 1 and supporting our earlier hypothesis that younger couples in the urban
+educated classes were in an especially
+favorable position to add to their families
+during this period. For those with no education in the urban category and those
+with more than primary education in the
+rural category, however, changes in marital fertility tended to decrease the TFR,
+thereby offsetting increases in proportions
+
+TABLE 7
+
+PER CENT CONTRIBUTION OF CHANGES IN MARITAL STRUCTURE AND MARITAL FERTILITY TO CHANGE
+IN THE TOTAL FERTILITY RATE WITHIN EACH RESIDENCE-EDUCATION GROUP, KOREA, 1966~70
+
+Education and Residence
+
+None
+Urban ...... cece eee ene —157.9
+Rural 2.2... ce eee ec ee eens 3.3
+Primary school
+MIGAT 2. wa aa gf oa ee ew ee os a 91.
+BUPal .caas ca yg tae eas oo a ee 5.
+More than primary school
+Urban 20... . cece cece eee eee 23.7
+Rural 2.0... ce ee ee ee eee —15.7
+
+Marital status
+
+Fertility Total*
+257.9 100.0 (—75.5)
+96.7 100.0 (—985.0)
+8.2 100.0 (236.8)
+94.3 100.0 (~792.4)
+76.3 100.0 (645.8)
+115.7 100.0 (~187.4)
+
+* Numbers in parenthesesshow the unpercentaged change per thousand inthe TF R between 1966and 1970, as calculated from Table 1. Note that the
+
+total change is taken as 100 percent regardless of whether the total unpercentaged change is positive or negative. If the total unpercentaged change is
+positive, a positive percentage in the body of the table indicates contribution to fertility increase; a negative percentage, to fertility decrease. If the total
+unpercentaged change is negative, a positive percentage indicates contribution to fertility decrease; a negative percentage, to fertility increase.
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:37 08 December 2015
+
+126
+
+married. The large offsetting contributions of —157.9 per cent and 257.9 per
+cent from marital structure changes and
+marital fertility changes in the urban-none
+category occur because nearly offsetting
+unpercentaged contributions from changes
+in proportions married and changes in
+marital fertility are percentaged on a very
+small net decline in the TFR.
+
+Table 7 suggests that the rise in urban
+fertility may have stemmed less from the
+higher fertility of newly arrived ruralurban migrants than from the especially
+favorable economic situation of young
+couples in the urban educated classes during this period. If the higher fertility of
+migrants were the dominant factor, one
+would not expect the increase in urban
+fertility to be more pronounced the higher
+the level of education, given that migrants
+were generally less educated than the
+urban average. More information about
+the fertility of migrants is needed, however, before a definitive statement can be
+made on this point.
+
+CONCLUSION
+
+Between 1966 and 1970 the Korean
+total fertility rate fell by more than half a
+child, from an estimated 4,837 to 4,257
+per thousand. Rapid change also occurred
+in population composition by urban-rural
+residence, education, marital status, and
+parity. Compositional changes by resi
+Retherford and Ogawa
+
+Social Biology
+
+dence and education were especially significant, the proportion of the female population aged 15-49 residing in urban areas
+jumping from 38.6 to 46.6 per cent and the
+proportion with no education dropping
+from 28.9 to 19.4 per cent.
+
+Decomposition of the decline in the
+TFR over this period shows that about
+one-fourth of it can be attributed to
+changes in population composition by residence, education, marital status, and
+parity, and about three-fourths to changes
+in age-specific birth rates cross-classified
+by these same characteristics. Changes in
+composition by residence and education
+largely explain the contribution of changes
+in marital composition to the decline in the
+TFR. With residence and education controlled, changes in marital composition
+actually tended to increase the TFR.
+Changes in education composition in turn
+largely explain the contribution of changes
+in residence composition to the decline in
+the TFR. Education emerges as the compositional variable with the greatest explanatory power.
+
+ACKNOWLEDGMENTS
+
+We are grateful to the Korean Bureau of
+Statistics for permission to use data from the
+1966 and 1970 censuses of Korea. This research
+was supported in part by a grant to the EastWest Population Institute from the Office of
+Population of the United States Agency for
+International Development.
+
+REFERENCES
+
+ADELMAN, IRMA. 1969. Practical approaches to development planning: Korea’s second Five-year
+Plan. The Johns Hopkins Press, Baltimore.
+
+Brass, WILLIAM. 1968. Methods of analysis and
+estimation. 7m William Brass (ed.), The demography of Tropical Africa. Princeton Univ. Press,
+Princeton, N.J.
+
+CuHo, LEE-JAy. 197la. Korea: Estimating current
+fertility from the 1966 census. Stud. Fam. Plan.
+2:74-78.
+
+. 19716. On estimating annual birth rates
+
+from census data on children. Proceedings of the
+
+American Statistical Association, Social Statistics
+
+Section.
+
+. 1973. The demographic situation in the Re
+ 
+
+ 
+
+public of Korea. Papers of the East-West Popula
+tion Institute, No. 29. East-West Center, Hon
+olulu.
+
+. 1974. Estimates of current fertility for the
+Republic of Korea and its geographical subdivisions: 1959-60. Yonsei Univ. Press, Seoul.
+
+COALE, ANSLEY, and PAUL DEMENY. 1966. Regional model life tables and stable populations.
+Princeton Univ. Press, Princeton, N.J.
+
+Ho, Victoria. 1976. MATCH: A program to match
+children and spouses to women. Stage 1 of the
+own-children package. Paper presented at the Second Own-children Conference, East-West Population Institute, East-West Center, Honolulu.
+
+Kim, Mo-IM, et al. 1974. Marriage in Korea: Chang
+ 
+
+ 
+—|
+=
+©
+N
+~
+oO
+=
+oO
+O
+oO
+a
+Co
+©
+t~
+of
+oN
+=
+—
+CS
+‘gf
+oS
+ON
+=
+oo
+O
+S
+Ch
+©
+>>
+—
+=
+N
+mei
+oO
+>
+=
+c
+-,
+ra
+O
+vO
+oO
+ca
+CS
+©
+—
+c
+5
+©
+a
+
+ 
+
+ 
+
+Vol. 25, No. 2 Fertility
+
+ing age at marriage and the influence of social,
+demographic, and attitudinal variables. Mimeo.
+
+Kirk, DUDLEY. 1971..A new demographic transition? In National Academy of Sciences, Rapid
+population growth. The Johns Hopkins Press, Baltimore.
+
+KITAGAWA, EVELYN M. 1955. Components of a difference between the two rates. J. Amer. Statist.
+Assoc. 50:1168—1194.
+
+KOREA. ECONOMIC PLANNING BOARD. 1966. A
+comprehensive study on 1966 population census. Economic Planning Board, Seoul.
+
+KOREAN INSTITUTE FOR FAMILY PLANNING. 1973.
+Report on 1971 fertility-abortion Survey. Korean
+Institute for Family Planning, Seoul.
+
+in Korea
+
+ 
+
+ 
+
+ 
+
+127
+
+RETHERFORD, ROBERT D., and LEE-JAY CHo. 1973.
+Comparative analysis of recent fertility trends in
+East Asia. Jn International Union for the Scientific
+Study of Population, International Population
+Conference, Liege, 1973, Vol. 2, p. 163-181.
+International Union for the Scientific Study of
+Population, Liege.
+
+. Age-parity-specific birth rates and birth
+
+probabilities from census or survey data on own
+
+children. Pop. Stud., in press.
+
+UNITED NATIONS. 1972a. Statistical yearbook, 1971.
+United Nations, New York.
+
+. 19726. Statistical yearbook for Asia and the
+
+Far East 1971. United Nations, Bangkok.
+
+ 
+

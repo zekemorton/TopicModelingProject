@@ -1,0 +1,952 @@
+Routledge
+
+Taylor & Francis Group
+
+a9q71LN0w
+
+Social Biology
+
+ISSN: 0037-766X (Print) (Online) Journal homepage: http://tandfonline.com/loi/hsbi19
+
+A method of computing period rates of
+Spinsterhood and childlessness from census data
+applied to the United States
+
+Prithwis Das Gupta
+
+To cite this article: Prithwis Das Gupta (1975) A method of computing period rates of
+spinsterhood and childlessness from census data applied to the United States, Social Biology,
+22:2, 134-143, DOI: 10.1080/19485565.1975.9988158
+
+To link to this article: http://dx.doi.org/10.1080/19485565.1975.9988158
+
+fn Published online: 23 Aug 2010.
+
+&
+(g Submit your article to this journal @
+
+all Article views: 1
+
+»
+Q View related articles 4
+
+Full Terms & Conditions of access and use can be found at
+http://tandfonline.com/action/journallnformation?journalCode=hsbi19
+
+Download by: [University of Michigan] Date: 08 December 2015, At: 13:35
+
+ 
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+A Method of Computing Period Rates of
+Spinsterhood and Childlessness from
+Census Data Applied to the United States
+
+Prithwis Das Gupta
+
+International Population and Urban Research
+University of California
+Berkeley, California
+
+Questions on marital status and number
+of children ever born to ever-married
+women were asked in the last four decennial censuses of the United States. The
+answers give an excellent opportunity to
+study the changes in marriage and fertility of American women over a period of
+more than thirty years. The changes for
+white and nonwhite women considered
+separately are particularly interesting because these two groups traditionally have
+shown different patterns of reproductive
+behavior.
+
+In this paper, I shall explore only two
+facets of fertility—nonmarriage and childlessness—for white and nonwhite women.
+It is necessary, however, to avoid mistaken interpretations of the data and to
+utilize the best techniques available for
+cohort analysis. Unless care is exercised,
+one may think that the census data show
+that white women have increasingly been
+marrying and that childlessness among
+them has been decreasing. For nonwhite
+women, the data seem to show an even
+more drastic drop in childlessness but a
+slow increase in the percentage of women
+who remain single (Tables 1 and 3).
+
+ 
+
+These conclusions based on figures in census reports are correct only if we accept
+them as describing cohorts. They do not
+tell us about marriage or fertility in the
+census years. For instance, the proportion
+of women aged 45 in the “ever-married’’
+category in 1970 gives a cumulative thirtyyear picture of the cohort born in 1925.
+Their proportion ever-married is obviously not determined by the age-specific
+first-marriage rates of women in 1970,
+but rather by the cohort rates during all
+the years before that back to 1940. To
+obtain a picture of the 1970 situation, one
+has to think in terms of a synthetic cohort.
+One has to imagine women living to age
+45 marrying for the first time at the agespecific first-marriage rates of 1970.
+
+I shall apply this synthetic cohort technique to elucidate the trends in nonmarriage and childlessness among white
+and nonwhite women in the United States.
+The results are significantly different from
+the real cohort rates provided by the
+census. We shall find that, among white
+women, both nonmarriage and childlessness have increased rather than decreased
+in recent years and that, among nonwhite
+
+134
+
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+ 
+
+Vol. 22, No. 2
+
+women, there has been a significant increase in nonmarriage and only a slight
+decline in childlessness.
+
+PERIOD RATES OF SPINSTERHOOD
+
+The percentages of never-married (single) women aged 40-44 in four consecutive censuses are given in the upper half
+of Table 1. As we indicated earlier, the
+
+TABLE 1
+
+PERCENTAGE OF SINGLE WoMEN IN THE AGE Group
+40~44, AS OBSERVED IN Four Censuses 1940-1970
+AND AS OBTAINED FROM THE MARRIAGE TABLES FOR
+
+1940-1970 py Decapes: Unirep STATES
+
+Time Period White Nonwhite
+Observed Percentages
+Census year
+1940 Lo. cece we eee 10.5 6.4
+1950 co.cc ccc seceee 8.5 5.7
+1960 wc... cece ceeas 6.1 6.4
+1970 2... cee cee ee 5.2 7.5
+Percentages from
+Marriage Tables
+Decade
+1940-50 ....-.20eee 3.5 3.4
+1950-60 ........00- 3.7 8.2
+1960-70 sscsesesses 6.3 12.0
+Sources: For census years, U.S. Bureau of the Census,
+
+1945, Tables 1, 3; 1955, Table 1; 1964,
+Table 1; 1973, Table 1. For decades, the
+bottom line for whites and nonwhites in Table 2, this article.
+
+figures for white and nonwhite women
+show somewhat opposite trends. One may
+be tempted to conclude that more and
+more white women have been getting married in recent years and that nonwhite
+women have increasingly chosen to remain
+single. But the percentages are not obtained from the age-specific first-marriage
+rates of the corresponding census years.
+The percentage for white women in 1970,
+for example, is 5.2. This number depends
+on the age-specific first-marriage rates of
+the birth cohort of 1926-30, and these
+rates roughly correspond to the period
+1940-70. If we want to find the percentage
+
+Spinsterhood and Childlessness
+
+135
+
+of single women aged 40-44 that will be
+indicative of the marriage situation in
+1970, we must obtain that figure on the
+basis of the age-specific first-marriage
+rates of 1970, as we obtain the period life
+table for 1970 from the age-specific death
+rates of 1970. Once we do that, the resulting figure may turn out to be quite different from 5.2, depending on the marriage
+condition in 1970.
+
+The computation of age-specific firstmarriage rates for a year~—say, 1970—
+needs, in addition to single populations by
+ages, the first marriage statistics by ages
+of bride for 1970. Since such marriage
+data for the nation as a whole are not
+available for the thirty-year period under
+investigation, it is not possible to construct
+a so-called “marriage table” (analogous to
+a “life table”) for a particular census year.
+We shall estimate the first-marriage condition in a decade from a comparison of
+single populations in two consecutive censuses and thereby construct the marriage
+tables. We shall label them as the average
+marriage tables for the three decades 194050, 1950-60, and 1960-70. Once the marriage tables have been constructed, we
+shall know—for white women in 1960-70,
+for example—the percentage out of a
+birth cohort of a hundred women that will
+remain single up to the end of the childbearing period if all of them survive
+through this period, and if, as they get
+older, they are subjected to the age-specific first-marriage rates of white women
+in the decade 1960-70. This technique of
+constructing synthetic cohort for a decade
+has been used by Hajnal (1953) and
+Agarwala (1962).
+
+Table 2 gives the marriage tables for
+white and nonwhite women for the decades
+1940-50, 1950-60, and 1960-70. Let us
+explain these tables by considering the
+table for whites in 1940-50 as an example.
+We ignore migration and mortality, which,
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+136 Das Gupta
+
+Social Biology
+
+TABLE 2
+MarriaceE TABLES FOR 1940-1970 py Decapres ror WHITE AND NoNwHITE WomMeEN: Unirtep STATES*
+
+ 
+
+ 
+
+1940-50
+AGE
+x 10? xz Sz
+White
+
+TS cen cccccccccvcecs 0.833 1,000
+| 2 rr 0.318 1,000
+| 0.146 833
+7 0.191 318
+27 cc ccc cece cee eeeces 0.371 122
+i 0.570 61
+B75 cence cece ccceeeee eae 45
+42 cece nc ceeccereecs eee 35
+
+Nonwhite
+
+75 ca ccc cece nc cercees 0.787 1,000
+| V2 0.313 1,000
+17.5 ccc w ccc ccc ccccecee 0.178 787
+225 xe eesawem ge pa memce 0.232 313
+O27 aanweaditagtesaeane 0.354 140
+OLS sncndndteeeegnuens 0.460 73
+BIS swuscuetasthaciaas eee 50
+HOS acccmsesaemen eeeee wks 34
+
+1950-60 1960-70
+10Pz Sz 10? Sz
+
+0.839 1,000 0.880 1,000
+0.275 1,000 0.351 1,000
+0.116 839 0.130 880
+0.204 275 0.244 351
+0.454 98 0.557 114
+0.663 56 0.800 86
+
+aes 44 “a2 63
+
+eee 37 ce 63
+0.838 1,000 0.887 1,000
+0.356 1,000 0.440 1,000
+0.201 838 0.249 887
+0.307 356 0.348 440
+0.521 168 0.595 221
+0.753 109 0.781 153
+
+“ew 88 wee 131
+
+eee 82 Sam 120
+
+Sources: U.S. Bureau of the Census, 1945, Tables 1, 3; 1955, Table 1; 1964, Table 1; 1973, Table 1.
+* oP, = probability that a single woman aged x will remain single at age x 4-10; S, = number of single women at age
+
+z out of a birth cohort of 1,000 women (ignoring mortality).
+
+in the present problem, is the same as
+assuming that the marital status composition remains unaffected by these two
+components of population change. From
+a simple law of probability, we can write:
+
+The probability that a woman aged
+x-+-10 in 1950 is single = (the probability that a woman aged x in 1940 is
+single) X (the probability that a single
+woman aged x in 1940 will remain single
+at age x +10 in 1950). (1)
+
+We denote the second probability on the
+right side of equation (1) by 102. Expressing the probabilities in the form of
+ratios (i.e., favorable cases/equally likely
+cases), we can rewrite equation (1) as
+
+10P2 = single women/total women (aged
+
+Thus, for «= 17.5, we obtain from the
+census, for women aged 25-30 in 1950,
+731,190 single women out of 5,625,840
+total women. For women aged 15-20 in
+1940, we obtain 4,778,960 single women
+out of 5,377,020 total women. Thus,
+
+731,190/5,625,840
+4,778,960/5,377,020
+
+All the probabilities 19), can be obtained
+in a similar way. We note that for x = 7.5
+and 12.5, the number of single women is
+equal to the number of total women in
+the age group (x — 2.5, x + 2.5).
+
+The quantity S, is defined as the number of single women at age x out of a
+birth cohort of 1,000 (=S 9) women.
+
+= 0.146.
+
+10P17.5 =
+
+__ single women/total women (aged x -+ 10 in 1950)
+x in 1940) (2)
+
+single women/total women [in the age group (x 4- 7.5, x -+ 12.5) in 1950]
+~~ single women/total women [in the age group (x — 2.5, x-+ 2.5) in 1940]?
+
+% = 7.5, 12.5,..., 32.5.
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+ 
+
+ 
+
+Vol. 22, No. 2
+
+Obviously, both S75 and Sie.5 are equal to
+1,000. For computing other S, values, we
+use the formula,
+
+Sz = S210 X 10P2—10)
+
+© = 17.5, 22.5,..., 42.5. (3)
+
+For example, Se7.5 is given by the product
+of Siz.5 (= 833) and 10f17.5 (= 0.146),
+which is 122. The last figure in the S,
+column (corresponding to x = 42.5) gives
+the number of women, out of a cohort of
+1,000, that will remain single up to the
+end of the childbearing period. This number is 35 (i.e., 3.5 per cent) for white
+women in 1940-50, All such numbers (in
+terms of 100) are put together in the
+lower half of Table 1.
+
+It is interesting to note that the numbers
+corresponding to census years and those
+corresponding to decades in Table 1 lead
+to drastically different conclusions. We
+now see from our decade figures that for
+both white and nonwhite women there has
+been a continuous increase in the number
+who choose to remain unmarried throughout their childbearing period. We should
+emphasize here that these are not real
+numbers but hypothetical numbers calculated from the 30/2 values of a decade,
+similar to the numbers 7, in a life table
+that are computed from the g, values of
+a year.
+
+PERIOD RATES OF CHILDLESSNESS
+
+Childlessness among married American
+women has shown wide fluctuations in the
+last few decades. The possibility of a
+woman’s being childless depends to a large
+extent on her age at marriage and total
+exposure to married life. For women who
+are widowed, divorced, or married more
+than once at the time of the census, it is
+difficult to estimate the total number of
+years they were married. Therefore, if we
+want to study the effect of age at mar
+Spinsterhood and Childlessness
+
+137
+
+riage and total exposure to married life
+on childlessness, the ideal data would be
+those on children ever born cross-classified
+by present age and age at marriage (or
+duration of marriage) of women married
+once and husband present, ie., for unbroken marriages. Fortunately, precisely
+this information is available from the censuses of 1940, 1950, 1960, and 1970. It
+may be mentioned here that in 1940 and
+1950 duration of marriage (or age at
+matriage) is given only for women married once and husband present, and this
+makes it impossible to extend our analysis
+to broken marriages even if we wanted to
+do so. Some analysis of childlessness based
+on 1960 census data has been done by
+Mitra (1966), Kunz and _ Brinkerhoff
+(1969), and Veevers (1971).
+
+The upper half of Table 3 gives the
+
+TABLE 3
+
+PERCENTAGE OF CHILDLESS WOMEN IN THE AGE
+Group 40-44 (Marriep ONCE AND HusBAND
+PRESENT), AS OBSERVED IN Four CENSUSES
+
+1940-1970 AND AS DERIVED FROM THE
+MARRIAGE AND CHILDLESSNESS TABLES
+FOR 1940-1970 py DECADES:
+UnitTEep STATES
+
+Time Period White Nonwhite
+Observed Percentages
+
+Census year
+
+1940 ..ccccccccccee 14.5 24.3
+
+1950 co cc ccccccsece 17.5 28.7
+
+1960 ...ccccceceves 11.6 22.3
+
+1970 ...ccccccccees 7.2 111
+Percentages from Marriage
+
+and Childlessness Tables
+
+Decade
+
+1940-50 2.2... ccecee 9.0 17.5
+
+1950-60 .......0... 5.3 7.4
+
+1960-70 .......020- 71 7.3
+Sources: For census years, U.S, Bureau of the Census,
+
+1945, Tables 23 23, 24; 1955, Tables i, 19;
+1964, Tables 21, 22; 1973, Tables 1, 29,
+. For decades, see Table ’S, this article.
+
+percentages of childless women aged 4044, married once and husband present, in
+four consecutive censuses. We are again
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+138
+
+confronted with the problem of finding the
+period percentages for a decade that are
+free from the effects of women’s behaviors
+with respect to age patterns of marriage
+and first births prior to that decade.
+Contrary to our belief, the percentages for
+census years in Table 3 show significant
+reductions in childlessness in recent years.
+Again, we ask ourselves the question:
+What percentage of married women would
+remain childless up to the end of the childbearing period if all of them marry once,
+survive, remain married to the end of
+the childbearing period, and are subjected
+to the age-specific rates of first marriage
+and first-birth as shown, for example, by
+the white women in the decade 1960-70?
+
+To answer this question, we have to
+first construct childlessness tables by age
+at marriage, similar to the marriage tables
+in Table 2. The basic data needed for
+these tables are the number of childless
+
+Das Gupta
+
+Social Biology
+
+and total women, married once and husband present, by age and duration of
+marriage. Representing ages and durations
+by their midpoints (the errors due to this
+assumption are expected to cancel out)
+and noting that the difference between the
+present age and the duration of marriage
+gives the age at marriage, we construct the
+childlessness tables as shown in Table 4.
+
+Let us take for illustration the childlessness table for white women in the decade
+1940-50 corresponding to age-at-marriage
+15. Ignoring again the effect of migration
+and mortality on the parity composition
+of women, let us denote by 19P. the probability that a childless woman (married
+once at age 15 and husband present) aged
+x in 1940 will remain childless at age
+x-+ 10 in 1950, given that her marital
+status does not change during the decade.
+As in equations (1) and (2), we can
+express this probability as
+
+the probability that a woman (married once at age 15
+
+10P y=
+
+and husband present) aged x -+- 10 in 1950 is childless
+
+the probability that a woman (married once at age 15
+and husband present) aged
+
+x in 1940 is childless
+(4)
+
+childless women/total women [married once at age 15 and
+
+husband present, in the age group (# -}- 7.5, x -+ 12.5) in 1950]
+“~~ childless women/total women [married once at age 15 and’
+
+husband present, in the age group (x — 2.5, x + 2.5) in 1940]
+
+== 7.5, 12.5,..., 32.5.
+
+ 
+
+Let us calculate this probability for x =
+17.5. For white women, married once and
+husband present, we have the following
+data from the census: For women aged
+25-30 married 10-15 years in 1950, there
+are 40,380 childless women out of a total
+of 663,840 women. For women aged 15-20
+married 0-5 years in 1940, there are
+207,560 childless women out of a total of
+398,440 women. From these figures we
+obtain
+
+40,380/663,840
+
+= 0.117.
+207,560/398,440
+
+10P 37.5 =
+
+We define C, as the number of childless
+women (married once and husband present) at age x out of a marriage cohort of
+1,000 (= C,) women with age at marriage
+a. For all x =a, C,z,== 1,000, and for
+other x values, C, is calculated from the
+equation
+
+Cz = Cr10 X 10P 2-10;
+
+x=at2.5,a-+ 7.5,...,42.5. (5)
+
+For example, Cez.5 is obtained from the
+product of Cyz5 (= 553) and 19Pizs
+(= 0.117) as 65. Here again, the last
+
+ 
+a a a a ee ee
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE 4
+Cuipiessness TABLES For 1940-1970 sy Decapes ror WHITE AND Nonwuire WomEN, Marriep Once anp Hussanp Present: Untrep STATES*
+WHirTz NonwHIte Ss
+Aan 1940~50 1950-60 1960-70 1940-50 1950-60 1960-70 _
+* 10Px Cz 10Pz Cz 10P x Cy 10Pz Cz 10Px Cz 10Pz Cz 8
+Age at marriage 15 r
+a BS siiettwnen sececees 0.553 ‘1,000 0.473 —- 1,000 0.533 1,000 0.384 1,000 0.258 1,000 0.303 13000 °¢&
+S 12.5 ..cccececees cesese 0.111 ‘1,000 0.060 1,000 0.089 1,000 0.137 —-1,000 0.073 1,000 0.068 1,000 ,,
+. 17.8 wccceccces ecccesee 0.117 53 0.078 473 0.076 533 0.279 384 0.193 258 0.171 303
+8 22,5 beeeteuwe cecseeoes 0.335 111 0.351 60 0.467 89 0.425 137 0.620 73 0.671 68
+& DUD ie mit ew mn ty © sew san wt 0.903 65 0.705 37 0.744 41 1.000 107 0.664 51 0.684 52
+es 32.5 cescccccccncseeeee 1,000 37 1.000 Zi 0.949 4] 1.000 58 1.000 45 0.894 46
+oO 37.5 esas tBeosen eee sone eee 37 eee 21 eens 31 ese 58 eee 34 S69 36
+cS ALS .cccceccccseuceses eee 37 vee 21 ves 31 eee 58 wee 34 sie 36
+Ss Age at marriage 20
+W— 12S snteeeunnsmn soecee 0,407 1,000 0.308 1,000 0.477 1,000 0.333 1,000 0.212 1,000 0.296 1,000 5
+ae 175 acscidawndes weoeee 0.126 ~—-:1,000 0.075 —=1,000 0.095 —1,000 0.249 1,000 0.105 1,000 0.091 1,000 @&
+ey 22.5 cece e eee wun memes ‘iene 407 0.140 308 0.149 477 0.518 333 0.291 212 0.250 296 g
+3 27.5 ccc ccccccevesceces 0.465 126 0.444 75 0.560 95 0.591 249 0.526 105 0.524 91 >
+— 32S weccevcesesceceees 0,835 85 0.785 43 0.860 71 0.712 173 0.632 62 0.825 4 &
+5 37.5 cicceees steceeeces eve 59 eee 33 eee 53 eee 147 eee 55 - 48 @
+of 42.5 cccvcceces ce wee ave 59 mee 33 owe 53 wee 123 owe 39 eee 48 09
+5 Age at marriage 25 B
+S taeda seceesescee 0.377 1,000 0.283 1,000 0.442 1,000 0.492 1,000 0.266 1,000 0.316 1,000
+to 22.0 sessvecetsnsvasase O71 1,000 0.115 1,000 0.123 1,000 0.420 1,000 0.177 1,000 0.132 1,000 a
+° 2¢0 scivtinneemnmenmn . 0.369 377 0.265 * 283 0.293 442 0.701 492 0.380 266 0.429 316 =e
+> 32.5 sestdenmee om So 0.629 171 0.637 115 0.739 123 0.605 420 0.576 177 0.661 132 oe
+ZB BTS istadean tt diewemes Te 139 eee 75 eee 123 Bap 345 aie 101 ae 132 ®
+o ADS sntdtherdistebenst bee 1038 eee 73 eee 91 wes 254 wes 101 was 87 a
+o Age at marriage 30 e
+> 22.5 wees niveees ceoeee 0.433 1,000 0.363 1,000 0.421 1,000 0.553 1,000 0.350 1,000 0.289 1,000 @
+— 275 anaes iat easanaas « 0.302 1,000 0.206 1,000 0.202 1,000 0.499 1,000 0.283 1,000 0.205 1,000
+- 32.5 cece esccceccecccee 0.574 433 0.460 363 0.455 421 0.861 553 0.588 350 0.494 289
+Zo 37.5 seteseescs eoseccee vee 302 eee 206 oe 202 Werte 499 eve 283 iam 205
+fe 425 eee KERR asnamk #88 248 - 167 _ 191 as 476 si 206 a 143
+s Age at marriage 35
+= 27.5 .ceee ceseseccsseee 0.559 1,000 0.472 —-1,000 0.462 1,000 0.583 1,000 0.434 —-1,000 0.295 1,000
+5 O20 sevevesasavesxcaes 0.485 1,000 0.375 1,000 0.328 1,000 0.563 1,000 0.447 1,000 0.288 1,000
+A BIS secs errr wae 559 ewe 472 Te 462 — 583 Te 434 Tr 295
+RAS paeoegareersouanwy eee 485 oo 375 eee 328 eee 563 ces 434 eee 288
+Age at marriage 40
+32.5 cccceccceveeeceecs 0.669 1,000 0.629 1,000 0.560 1,000 0.611 1,000 0.506 1,000 0.319 1,000
+37.5 wccccvcccscecsccee see 1,000 ned 1,000 eve 1,000 eee 1,000 ees 1,000 eee 1,000 j=
+425 ccccccccccccnnvese im 669 Te 629 wae 560 eee 611 TT 506 nas 319 8
+
+Sources: U.S. Bureau of the Census, 1945, Tables 23, 24; 1955, Tables 18, 19; 1964, Tables 21, 22; 1973, Tables 1, 8, 29, 30.
+* 19 = probability that a childless woman aged x will remain childless at age x-{-10; C, = number of childless women at age x out of a marriage cohort of 1,000 women (ig
+noring mortality).
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+140
+
+number, C425, is the number of women
+out of a cohort of 1,000 that will remain
+childless up to the end of the childbearing
+period. (In a few cases, it was necessary
+to replace the calculated C, value by its
+preceding value to ensure nonincreasing
+pattern.) For whites in 1940-50 corresponding to age-at-marriage 15, this number is 37. All such numbers by age at
+Marriage are shown together in the lower
+half of Table 5, and they clearly demonstrate a positive relationship between age
+at marriage and childlessness (or, equivalently, an inverse relationship between
+total exposure to married life and childlessness).
+
+If we want an overall percentage of
+childlessness for a decade, we need to know
+the distribution of women (married once
+and husband present) by age at marriage
+for that particular decade. This distribution can be obtained easily from the marriage tables in Table 2. The difference
+between two consecutive numbers in an
+S, column in Table 2 gives the number of
+
+Das Gupta
+
+ 
+
+Social Biology
+
+marriages in that particular age interval.
+Representing these intervals by their midpoints (i.e., 15, 20, etc.), we can prepare
+a table showing the ages at marriage of
+those who marry. These cases will not add
+up to 1,000 because some women will remain single throughout their childbearing
+period. For white women in the decade
+1940-50, for example, there are 35 such
+cases of nonmarriage. Excluding these
+women, we can reconstruct a frequency
+distribution showing the ages at marriage
+for 1,000 women who do marry. These
+distributions are shown in the upper half
+of Table 5.
+
+By combining the distribution of women
+by age at marriage and the per cent childless by age at marriage, both given in
+Table 5, it is possible to find a single index
+of childlessness for each decade. Thus, for
+white women in 1940-50, we find the per
+cent childless as
+
+(173 X 3.7 4-534 X5.9-+...-- 10
+x 66.9) / 1,000 = 9.0 per cent.
+
+TABLE 5
+
+DistrreutTion PER 1,000 WomMEN WHo Marry sy AGE AT MARRIAGE IN THE MARRIAGE TABLES AND
+PERCENTAGE OF CHrIrpLEsS WoMEN IN THE AGE Group 40-44 (Marrirep ONCE AND HusBanp
+PRESENT) BY AGE AT MARRIAGE IN THE CHILDLESSNESS TABLES FoR 1940-1970 sy
+DecapEs: UNITED STATES
+
+ 
+
+AcE WHITE NonwWHITE
+AT
+MArerace 1940-50 1950-60 1960-70 1940-50 1950-60 1960~70
+Distribution per 1,000 Women Who Marry by Age at Marriage
+| 173 167 128 220 176 128
+20 ccc c cence cece scene $34 586 565 491 525 508
+25 wees cc ccccccccccces 203 184 253 179 205 249
+C0) Wineorn denen emma s 63 44 30 69 64 77
+35 nec ccc cece cece 17 12 24 24 23 25
+AO coe cece ccc w cc cnees 10 7 0 17 7 13
+Percentage of Childless Women Aged 40-44 by Age at Marriage
+LS wc cece ce cece wees 3.7 2.1 ak 5.8 3.4 3.6
+20 wesusus sawgneenecee 5.9 3.3 §.3 12.3 3.9 4.8
+(re ee 10.8 7.3 9.1 25.4 10.1 8.7
+OG axeeseeesciasersces 24.8 16.7 19.1 47.6 20.6 143
+BD cs adeea re eeckenenas 48.5 37.5 32.8 56.3 43.4 28.8
+AO sccsacepscnsenseves 66.9 62.9 56.0 61.1 50.6 319
+
+Sources: For distribution, Table 2; for percentages, the numbers corresponding to age 42.5 in Table 4,
+
+ 
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+ 
+
+Vol. 22, No. 2
+
+This percentage and other similar figures
+are shown in the lower half of Table 3.
+
+It is evident from the decade figures in
+Table 3 that childlessness among white
+women has increased and that among nonwhite women it has remained virtually
+unchanged in the last decade, although the
+census figures in the same table show a
+sharp reduction in childlessness for both
+categories. It may also be concluded from
+the decade figures in Table 3—contrary to
+the indications in the census figures in this
+table that nonwhite women still have a
+much higher percentage of childlessness—
+that there is essentially no difference in
+the extent of childlessness between white
+and nonwhite women in the United States
+at the present time.
+
+SUMMARY AND CONCLUSIONS
+
+A demographic phenomenon can be
+looked at from two different angles,
+namely, the cohort approach and the period approach. Neither of them can claim
+to be superior to or serve as a substitute
+for the other. The decision to choose one
+approach in preference to the other rests
+entirely on the objective of the study. Ii,
+for example, we are particularly interested
+in the fertility behavior of women who
+were born in 1930, we fix that cohort and
+may want to study, as they grow up, their
+age-specific fertility rates corresponding to
+different points of time. On the other hand,
+if we are interested in the fertility pattern
+of the women in 1970, we fix the time and
+may want to examine their age-specific
+rates corresponding to different cohorts.
+The former is obviously a cohort study,
+and the latter, a period study.
+
+The extent of singleness or childlessness
+among women who have completed their
+childbearing years can be read directly
+from the census reports. While these data
+give useful information about the mar
+Spinsterhood and Childlessness
+
+141
+
+riage and fertility behavior of the cohorts
+of women born several decades ago, they
+fail to indicate the rates at which the
+current women are marrying or bearing
+children. Any attempt to infer the latter
+from the census rates may even lead to
+diametrically opposite conclusions, as we
+have shown in this paper. Or, in other
+words, we need to study singleness and
+childlessness from the period point of
+view. We have therefore provided in this
+paper the period measures of these two
+phenomena for the white and nonwhite
+women in the United States from the census data of 1940, 1950, 1960, and 1970.
+The technique of constructing a synthetic
+cohort for a decade is used to find the
+period rates for the three decades 1940—
+50, 1950-60, and 1960~70.
+
+The salient findings of the paper are
+given in Tables 1 and 3. Table 1 presents
+the census (cohort) rates and the decade
+(period) rates of singleness among white
+and nonwhite women aged 40-44. The
+decade rates provide answers to the following type of question: If 100 women
+are born together and survive to the end
+of the childbearing period and if, as they
+grow up, they are subjected to the agespecific first-marriage rates typical of
+white women in the decade 1960-70, how
+many of them are expected to remain
+single (never-married) up to the end of the
+childbearing period? These rates have increased over the last three decades for both
+white and nonwhite women. However,
+compared to white women, the nonwhite
+percentages have grown at a much faster
+rate between the first two decades and at
+a slower rate between the last two
+decades. Starting at about the same level
+in 1940-50, the per cent single among nonwhite women becomes about twice that for
+white women in 1960-70. It is interesting
+to note that all these conclusions that we
+draw from the decade rates are not at all
+
+ 
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+142 Das Gupta
+
+apparent from the census rates in the upper half of the table.
+
+Table 3 provides the census (cohort)
+percentages and the decade (period) percentages of childless women among whites
+and nonwhites aged 40-44. The decade
+rates deal with the following type of question: If 100 women are born together,
+marry only once, survive, and remain married (husband present) to the end of the
+childbearing period and if, as they grow
+up, they are subjected to the distribution
+by age at first marriage typical of white
+women in the decade 1960-70 and to the
+age-specific first-birth rates typical of
+white women (married once and husband
+present) in the decade 1960-70, how many
+of these 100 married women are expected
+to remain childless up to the end of the
+childbearing period? The decade rates
+show that childlessness decreased drastically between the decades 1940-50 and
+1950-60 for both white and nonwhite
+women. For -white women, however, it
+again increased in the decade 1960-70,
+while practically no changes occurred in
+the nonwhite rates during that time. Although childlessness among nonwhite
+women in 1940-50 is about twice that for
+white women in the same decade, the rates
+are about the same in the last decade
+(1960-70). Again we note that, no matter
+whether we compare rates by time or by
+race, the census rates in the upper half of
+Table 3 do not lead to our foregoing conclusions.
+
+Much of the anomaly of differing census
+and decade rates can be explained if we
+take cognizance of the fact that the marriage rates and the birth rates have shown
+tremendous fluctuations in the last few
+decades and if we carefully study how
+
+Social Biology
+
+these fluctuations are expected to affect
+the two kinds of rates in Table 3. It is
+well documented that there was a postponement of births during the Depression
+years in the thirties, followed by a postwar
+baby boom that continued through the
+late fifties, and then a gradual decline in
+fertility up to the present time. This trend
+is typified by the fertility rates (per 1,000
+women aged 15-44 years) of 75.8, 113.3,
+122.7, and 85.7 in the years 1936, 1947,
+1957, and 1968, respectively.
+
+Instead of discussing each percentage in
+Table 3 in the light of this trend, let us
+try to explain only one interesting feature
+in the rates for white women: Why do the
+census rates for 1950, 1960, and 1970 portray a declining trend in childlessness,
+whereas the decade rates for 1950-60 and
+1960-70 show an increase? To answer this
+question, we note that the cohorts aged
+40-44 in 1950, 1960, and 1970 passed
+through their prime years of childbearing
+during the thirties, forties, and fifties respectively. Since the extent of childlessness
+is expected to be inversely related to the
+fertility level, the declining trend in childlessness may be attributed to the rising
+trend in fertility in the three decades mentioned above. On the other hand, the decade rates in childlessness for 1950-60 and
+1960-70 depend on the average fertility
+levels in the fifties and sixties respectively.
+This again explains why there has been an
+increase in childlessness between the decades 1950-60 and 1960-70.
+
+ACKNOWLEDGMENTS
+I am grateful to Professors Kingsley Davis
+
+and Judith Blake Davis for their valuable
+comments on the paper.
+
+REFERENCES
+
+Acarwata, S. N. 1962. Age at marriage in India.
+Kitab Mahal, Allahabad, India.
+
+Haywat, Joun. 1953. Age at marriage and proportions marrying. Pop. Stud, 7:111-136.
+
+Kunz, Pum R., and MeER_tin B. BRINKERHOFF.
+1969, Differential childlessness by color: The
+destruction of a cultural belief. J. Marr. Fam.
+31:713-719.
+
+ 
+
+ 
+Downloaded by [University of Michigan] at 13:35 08 December 2015
+
+ 
+
+ 
+
+Vol. 22, No. 2 Spinsterhood and Childlessness 143
+
+Mirra, §. 1966. Childbearing pattern of American women. Eugen. Quart. 13:133-140.
+
+U.S. Bureau oF THE Census. 1945. Census of
+population, 1940. Special reports. Differential
+fertility 1940 and 1910: Women by number of
+children ever born. Government Printing Office,
+Washington, D.C.
+
+——-, 1955. Census of population, 1950. Special
+reports. Fertility. Government Printing Office,
+Washington, D.C.
+
+. 1964. Census of population, 1960. Subject
+
+ 
+
+ 
+
+ 
+
+reports. Women by number of children ever
+nt Government Printing Office, Washington,
+D.C,
+
+. 1973. Census of population, 1970, Subject
+reports. Women by number of children ever
+pom Government Printing Office, Washington,
+
+Veevers, J. E. 1971, Differential childlessness by
+oe A further examination. Soc, Biol. 18:
+285-291,
+
+ 
+
+ 
+
+ 
+
