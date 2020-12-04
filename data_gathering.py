@@ -18,7 +18,7 @@ for journal_name in journals:
     temp_df['publisher'] = journal_name
     metadata_df = pd.concat([metadata_df, temp_df])
 
-# preview metadata_df
+
 print(metadata_df.head())
 
 

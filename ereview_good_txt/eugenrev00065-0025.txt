@@ -1,0 +1,776 @@
+FITNESS AND SURVIVAL"
+By CEDRIC A. B. SMITH, M.A., Ph.D.
+
+HE Eugenics Society has for the past
+two years very kindly invited members
+of the Galton Laboratory to contribute
+a paper on the work of the Laboratory.
+Although Professor Penrose, Dr. Bell, Miss
+Karn and Dr. McArthur all have mathematical degrees, while Professor Haldane,
+the head of the Department of Eugenics,
+Biometry and Genetics, could, of course, be
+considered as a first class mathematician in
+his own right, my work is specifically concerned with the mathematical aspect of
+investigations undertaken in the Galton
+Laboratory.
+
+Now, when people ask me what my work
+is, and I reply that I am a mathematician, I
+almost always get one of two answers, either
+“‘ T never was any good at maths.” or “ Well,
+that must be very interesting,’ so that
+rather than indulging in long and intricate
+formulae, I propose to give some simple
+examples of the sort of calculations with
+which I am concerned.
+
+Mathematics and Genetics
+
+As I see it, there are three ways in which
+mathematics is useful in the study of genetics. The first is in checking the accuracy of
+the data. We are apt to say, when we come
+across a case in which, for example, both a
+father and his son are diabetics, ‘“ this
+shows that diabetes is hereditary.” Of
+course, it does nothing of the sort. It may be
+no more than a fluke. It will fairly often
+happen by chance that two members of one
+family will both have diabetes ; and it may
+be that we happen to know just one such
+family, or even perhaps two, when, at first
+sight, the evidence will seem fairly convincing. What we have to do, before coming
+to a definite conclusion, is to gather as much
+data as we can in an unbiased manner,
+taking into account not only those cases
+
+* A paper read before the Eugenics Society on
+January 24th, 1950.
+
+16
+
+which sound interesting but also those which
+look unpromising. Only in that way can we
+really arrive at the truth. However, this,
+unfortunately, is usually more easily said
+than done. .
+
+The second important job of a mathematician is that of interpreting the data,
+when they have been collected. Do they
+obey Mendel’s laws? For example, to take
+a problem which I had to deal with some time
+ago, consider what happens when we have
+both colour-blindness and hemophilia in the
+same pedigrees. (Figures 1, 2, and 3.)* In
+
+2 2
+
+C) ©) SO
+
+‘ee seal
+Fig. 1 Fig. 2
+
+these pedigrees hemophilia is represented by
+a black symbol (as in the grandfather at the
+top of Figure 1), colour-blindness by a circle
+(as in the last two grandsons at the foot of
+Figure 1), and vision tested and found normal
+by a line crossing the symbol (as in the last
+member of the middle generation and the
+hemophilic grandson in Figure 1). In Figures
+I and 2 we notice therefore that hemophilia
+and colour-blindness never go together, as
+far as the evidence indicates. Since colourblindness and hemophilia do not pass from
+father to son, the hemophilic grandfather in
+Figure 1 could not have been responsible for
+the colour-blindness in the second generation,
+and presumably not for that in the third.
+(Females can carry the gene for colourblindness, or that for hemophilia, and still
+
+* These figures have been taken from a paper by
+Haldane and Smith in the Annals of Eugenics (14, p. 10)
+by kind permission of Professor Penrose. They are
+simplified versions of pedigrees published elsewhere, by
+Hoogvliet, Birch and Riddell.
+FITNESS AND SURVIVAL 1
+
+remain apparently normal.) In Figure 2 the
+colour-blindness evidently comes from the
+grandmother, and the hemophilia from the
+affected grandfather ; again they never show
+
+Q
+
+Q
+
+of
+
+S
+Fig. 3
+
+together. In Figure 3 the situation is reversed ; the only colour-blind individual is
+also hemophilic. A number of pedigrees
+of this sort are known, and all but one fall
+into one of the two classes: either none or
+only very few of the hemophilics in the
+pedigree are colour-blind, or else all or almost
+all of them are. This can be shown to be a
+genuine division of the pedigrees, and not
+merely a chance effect. It can be explained
+by supposing that the genes which cause
+hemophilia and colour-blindness are linked.
+That is to say, they are on the same chromosome. But to make quite sure that this is
+so, and to calculate how closely they are
+linked, or, roughly speaking, how near they
+are to one another on the chromosome, is
+a much more difficult matter.
+
+Fundamental Genetic Laws
+
+It might be appropriate here to summarize
+the fundamentals of genetics. Let us take
+a simple example, the usual A-B-O blood
+groups. We know that everyone has one of
+four blood groups, A, B, AB, or O. These
+groups can be further divided, but I shall
+not go into such complications. It is almost
+certain that these groups are produced by
+the action of three genes called A, B, and O.
+Every person has two of these genes, getting
+one from the father and one from the mother.
+So the possible gene combinations are AA,
+AB, BB, AO, BO, OO. A person who has
+
+the gene A responds to the tests for blood
+group A, so that the combinations AA and
+AO will produce group A. In the same way
+the gene combinations BB and BO produce
+blood group B.
+
+Those of kind AB will respond to the tests
+for both A and B groups and are of group AB.
+Those of kind OO are usually detected by
+their responding to neither test and are of
+blood group O.
+
+Blood group Genotype
+O OO
+
+A AA, AO
+
+B BB, BO
+AB AB
+
+You will notice that the gene for O is usually
+detected by the absence of both genes A and
+B ; in the presence of gene A we cannot tell
+whether gene O is present or not. We say
+that O is recessive to A and to B or that A
+and B are dominant to O.
+
+These facts together with the fact that
+each parent gives one, and only one, of his
+or her two genes to the child are, of course,
+the basis of the use of blood groups in testing
+for parentage. |
+
+Another simple case is that of phenylketonuria. It is reasonable to suppose that we
+have two genes, P and p, so that everyone
+will be either PP, Pp or pp, having again two
+of these genes, one got from the father and one
+from the mother. The P gene causes a certain
+essential chemical process to take place in
+the body, so that individuals of kinds PP and
+Pp are quite normal, but in individuals
+of kind pp this process does not take place.
+A number of consequences follow, including
+as a rule severe mental defect. The condition
+is known as phenylketonuria. Since a
+phenylketonuric must have got a p gene from
+each of its parents and since phenylketonurics
+themselves are for all practical purposes infertile it follows that both the parents must
+be of kind Pp and so perfectly normal. So
+phenylketonuria comes out of the blue from
+a marriage of normal parents, who probably
+have no known defective relatives. (Other
+recessive defects behave in a similar way : I
+have chosen phenylketonura as a typical
+and well-established case.)
+
+Cc
+18 THE EUGENICS REVIEW
+
+Genetics and Population Changes
+
+I come now to the third function of a
+mathematician and the one which seems to
+me to be the most interesting. That is the
+study of population changes. Consider, for
+example, the population of England. This
+is a very heterogeneous mixture—so much so
+that, apart from twins, it is very rare indeed
+to come across two people who are apparently
+exactly alike. We have already mentioned
+the existence of different blood groups due
+to the genes A B O and others, and also that
+some people have the genes PP or Pp and
+are normal, while others have the genes pp
+and are phenylketonurics. Other differences
+are more difficult to deal with—such as the
+more obvious ones of differences in height,
+weight, hair colour and intelligence. Differences in height and weight are relatively
+easy to measure, but, unfortunately, they are
+more dependent on environment than blood
+groups are, and are probably dependent not
+on one but on a large number of different
+genes. The same applies to hair colour and
+intelligence, and, furthermore, these are more
+difficult to measure accurately. All the same,
+these variations are present in the population and some day we shall have to find a
+reliable method of dealing with them.
+
+We can ask ourselves what changes are
+likely to take place in this population ?
+And how did it come to its present state ?
+Since we do not yet know all the genetics
+of human population we cannot expect to
+give an answer to any specific question, and
+we cannot, of course, state exactly what will
+happen in the sense of knowing the exact
+figures for the population at a future date.
+But what we are able to do is to state certain
+general principles concerning the most probable line of development, and we can do so
+with some exactness because the calculations will be based on Mendel’s laws, which
+hold with considerable accuracy. Here the
+mathematician has some advantage over the
+experimentalist, since by applying the known
+rules by which the genetic constitution of one
+generation can be deduced from that of the
+previous generation we can predict what will
+follow after many generations. An experimenter would find this difficult to verify, and
+
+like moths elsewhere.
+
+it would take a long time. But the mathematician is no magician ; he merely takes the
+laws which the experimenter has discovered
+and uses them to make further predictions.
+These predictions are not merely of theoretical interest ; they are of first-rate practical
+importance to the animal and plant breeder,
+who wants to know how to get a given type
+as quickly as possible and how long it is
+likely to take him to achieve his aim.
+
+Fitness and Survival
+
+It is said that the moths in the Black
+Country are now mostly black, whereas not
+very long ago they were quite light in colour,
+Looked at from a
+general point of view this is quite easy to
+understand. Obviously, in the smoky and
+dirty districts of industrial towns a dark
+coloured moth would be much less conspicuous than the usual light variety and will be
+much less likely to be caught by its enemies.
+So more of the dark moths will survive and
+will pass on this colour to the next generation ; in this generation again more dark ones
+will survive and so on until finally the whole
+population is dark coloured.
+
+We can take this as an example of the
+“ survival of the fittest.”” The dark moths,
+we say, are better fitted to survive in the
+environment of the Black Country and so
+they increase in numbers at the expense of
+the light coloured ones. But “ the survival
+of the fittest ’’ has become rather a catchphrase and it will not do any harm to
+examine its true meaning. :
+
+The important property which distinguishes the dark from the light is simply
+that the dark moths are more likely to
+have offspring to carry on their colour into
+the next generation. I think this is worth
+pointing out because we are accustomed to
+use the word “ fitness’? in many other
+ways. In the sense in which I am using it,
+it means nothing more or less than the likely
+number of offspring, and probably some other
+word, such as “fertility,” would better
+express this biological sense of the word.
+Obviously, to be killed off by a disease in
+childhood will reduce one’s “ fitness’ or
+fertility to zero ; so also will being born an
+FITNESS AND SURVIVAL 19
+
+idiot. But fertility is not entirely a matter of
+mental and bodily health. It is also largely
+determined by social circumstances. Probably a person who is of a somewhat unusual
+type would have lower fertility ; this applies
+equally well to people of unusual opinions ;
+those blessed with an odd appearance or
+who live in a foreign country, or even, for
+that matter, someone living outside his own
+class. Despite Cinderella, we rarely find
+marriages between people of widely differing
+social status. At least this seems plausible ;
+I do not know if there is any statistical
+evidence to confirm it. Nowadays, too,
+fertility is also influenced by the number of
+children one can afford ; but I do not want
+to trespass on the ground of the Royal
+Commission on Population, only to point
+out that the phrase “‘ survival of the fittest ”
+really means nothing more than that it is the
+most fertile who are most likely to pass on
+their qualities to the next generation, and
+“fertility” in this context means all influences
+regulating the number of children, such as
+death before child-bearing age, and not
+merely the medical aspects of fertility.
+
+But this idea of fertility may explain
+why there is such a high death rate after the
+age of 60. We tend to accept this as an
+absolute and inevitable fact, but all the same
+we often find people of 90 of good health
+even though not so strong as in youth. Now,
+if a gene causes the death of a man or
+woman after the age of 60 it will not affect
+fertility, because their families have been
+completed and what children there have been
+will be old enough to look after themselves.
+So illness after this age will not be selected
+against, and genes causing such illnesses can
+accumulate in the population practically
+without resistance.
+
+Now, to take a practical example of what
+may happen, let us suppose that we have a
+population containing a number of genes for
+phenylketonuria. This is illustrated in
+Figure 4. Each circle in this figure represents
+an individual in the population and the two
+semi-circles into which it is divided represent
+the two genes carried by that individual, a
+white semicircle for a normal gene, P, and a
+black semicircle for the gene p for pheny]l
+ 
+
+Fig. 4
+
+ketonuria. Most of the population will be
+PP and will be completely normal, a small
+part will be Pp, also normal, and a very much
+smaller part will be pp and will be phenylketonuric. (Actually the numbers of Pp and
+pp’s will be much smaller than those shown in
+the figure, which is greatly exaggerated for
+the purpose of illustration.) The reason for
+this is roughly that, since the p genes are rare,
+it will only be by very bad luck that two of
+them will come together to give the recessive
+condition. Now phenylketonurics normally
+are infertile so that whenever a phenylketonuric is produced two p genes are eliminated from the population and not handed
+down to future generations. But since these
+form only a very small part of all the p genes
+in the population the infertility of phenylketonurics will eliminate the p genes very
+slowly indeed, only a few in each generation.
+
+This conclusion is true for all recessive
+abnormalities, that is, those in which the
+presence of two genes is necessary for the
+abnormality to show. We know that most
+severe abnormalities are of this type. When
+the abnormality is dominant, such as in
+the case of epiloia, the situation is very
+different. Here only one gene is necessary
+for the abnormality to show. Using Figure 4,
+all individuals with either half or all the
+circle blacked out will now be affected ; more
+exactly, in the case of epiloia, not all, but a
+20 THE EUGENICS REVIEW
+
+substantial proportion, of them will be of
+lowered fertility. The result will be that the
+number of epiloiacs will be substantially
+reduced in the next generation ; and since
+this reduction will proceed from generation
+to generation in geometrical progression the
+gene should be quickly wiped out.
+
+Mutation
+
+Now if there is this constant selection
+against unfavourable genes, whether it is
+very slow, as in the case of recessives like
+phenylketonuria, or very rapid as in the
+case of dominants like epiloia, the ultimate
+result would seem to be the complete extinction of the unfavourable gene and a completely normal and uniform population. We
+have, therefore, to explain why there are any
+phenylketonurics still in existence : why have
+they not all disappeared long ago ? The most
+probable answer is that these genes are constantly being reintroduced by the process of
+mutation. One of the clearest examples of
+this is the case of hemophilia. Many
+descendants of Queen Victoria have been
+unfortunate enough to suffer from hzmo
+philia, or bleeding disease. But I think that.
+
+there is no recorded case among the ancestors
+
+of the queen—at least, not for a long way.
+
+back. It seems almost certain that one of the
+genes inherited by Queen Victoria must have
+changed of its own accord from the normal
+type to the type causing hemophilia, and
+has been passed on to many of her descendants in the royal houses of Europe, though
+fortunately not to our own royal family.
+In cases of hemophilia and epiloia it is
+quite common, to find that the disease has
+suddenly appeared in the family as if from
+nowhere. But owing to the loss of fertility
+it will be eliminated quite quickly in the
+next few generations. In this way a state of
+equilibrium will be set up, in which the gene
+will be continually appearing in the population (though only in very small numbers) as
+a result of mutation, and will be very
+quickly wiped out again by infertility, or as
+we may say, by natural selection.
+
+In the case of a recessive disease the situation is slightly more complicated, because the
+appearance of a single p gene by mutation
+
+will not usually cause any visible change :
+the bearers of the gene will be completely
+normal. It will only be many generations
+later that it will meet with a second p gene,
+and then both of them will be eliminated.
+But it is quite easy to see roughly what will
+happen, without going into complicated
+calculations. For the sake of simplicity we
+shall suppose throughout that the population
+is a steady one, neither increasing nor decreasing in size. This is the easiest case to
+deal with, though it is not difficult to make
+allowance for a changing population.
+Suppose further that this population is of
+such a size that 100 recessive p genes are
+produced each year by mutation. Now the
+only way in which such genes can be eliminated is by two of them coming together to
+make a pp individual: and it follows that
+sooner or later 50 pp individuals must
+be produced, after which these roo genes
+will have been eliminated. So in a population in which 100 new recessive genes are
+produced each year we must have on an
+average 50 cases each year of the disease they
+produce. On the other hand, if they are
+dominant genes causing complete loss of
+fertility, Ioo genes a year must produce 100
+cases of the disease a year.
+
+This holds even where there has been an
+artificial disturbance of the population. The
+rays from the atom bomb at Hiroshima
+must have caused many new mutations to
+appear, most of which were unfavourable,
+and will cause mutilations and deformities in
+future generations. Let us suppose first, for
+the sake of argument, that 100 mutations of
+some special dominant type have been
+produced, each of which will cause complete
+loss of fertility. Then there will be 100
+sufferers from this disease in the next
+generation, after which the genes will have
+been completely eliminated, and the population will be just as it was before. On the
+other hand, if we suppose that there were
+100 mutations of a recessive type, then sooner
+or later there will be 50 sufferers from the
+disease, after which the genes will again
+have been eliminated, and the population
+restored to its former state. But it may be
+quite a long time before this happens, and
+FITNESS AND SURVIVAL 21
+
+it may well be that the recessive genes
+produced by the bomb will in time produce
+disease and mutilation all over the world.
+However, all this is, perhaps, rather academic
+speculation, since it seems only too likely
+that we shall all have our fertility reduced to
+zero by the atomic bomb. And there really
+does not seem much point in worrying about
+the fate of future generations if there are not
+going to be any future generations at
+all.
+
+Another point is that, with our present
+knowledge, there is very little we can do
+about these rare conditions. There will be a
+certain number of mutant genes p coming
+into the world in each generation, and we
+have no way of detecting them until two of
+them come together to produce a phenylketonuriac, after which the genes have been
+eliminated anyway. If the reduction of
+fertility is not complete, they may not be
+eliminated the first time they appear, but
+they will not appear many times. These
+severe inherited conditions are in fact kept
+rare by natural selection, and human interference can at present have only a slight
+effect. We can of course warn a married
+couple who have given birth to one pheny!lketonuric that each subsequent child stands
+a risk of 1 in 4 of being affected: this will
+slightly increase the selection, but that is
+about the most that we can hope to do. On
+the whole, natural selection is doing all that
+is necessary in a highly eugenic manner. It
+has been suggested that since rare recessives
+are more common among the children of
+first cousin marriages, the prohibition of
+marriage between near relatives might have
+a eugenic effect. But our argument shows
+quite clearly that the number of recessives
+appearing is determined solely by the mutation rate. So we must conclude that the
+regulation of marriage cannot have any effect.
+This apparent paradox is quite easy to
+explain. The effect of marriage of near
+relatives is simply to speed up the appearance
+and elimination of rare genes. If a law was
+passed to-morrow compelling near relatives
+to marry there would be an immediate and
+considerable increase in the number of rare
+diseases due to recessive genes : not because
+
+the number of genes would be increased
+but simply because similar genes would be
+brought together more quickly. But this
+would also result in the elimination of many
+of these genes, and the effect would only
+be a temporary one ; after a few generations
+the number of patients would fall off again
+rapidly, and would soon reach a state in
+which it was again balancing out mutation.
+Taking the contrary case, there is reason to
+believe that the number of marriages of near
+relatives is steadily falling at present,
+probably owing to the greater ease of movement nowadays, and so the rate of elimination of recessives is falling, that is, the genes
+will have to wait longer before they appear.
+As a result, there will be temporarily fewer
+recessive diseases, but the number of genes
+in the population will steadily increase until
+once again the rate of elimination balances
+out the appearance by mutation. In neither
+case do we produce any change in the long
+run: all the regulation of marriage does is
+either to face us with the problem now, or
+to put it off to a somewhat later date.
+
+It should be pointed out that there seems
+to be little reason to fear that the advance of
+medical science will cause the spread of
+harmful genes through the population. To
+take an extreme case, supposing that we discover a complete cure for hemophilia : what
+will then happen? Since we have now made
+hemophiliacs as fertile as normal people
+there will be no selection against the gene.
+This means that mutations will not be eliminated, and will gradually spread throughout
+the population. But since most mutation
+rates are of the order of I in 100,000
+generations, or 2,000,000 years, this spread
+will be exceedingly slow. Our descendants in
+a few hundreds of thousands of years will
+be called upon to decide whether a disease
+which can be completely cured is really a
+menace ; it hardly seems to be a problem
+which need worry us greatly.* If, on the
+other hand we can achieve only an alleviation, and not a complete cure, then although
+the numbers will be a little increased
+
+* Professor Haldane has estimated the mutation rate
+for hemophilia to be 1 in 30,000 generations, which
+still gives us 600,000 years.
+22 THE EUGENICS REVIEW
+
+natural selection will still effectively keep
+the disease in check, and it will still be very
+rare.
+
+Now if this were all that is to be said on
+the question of selection, the inevitable
+result would be the reduction of the population to complete uniformity, broken only
+by the appearance of a few rare mutations,
+by possible variation due to a few genes
+which have no appreciable effect on fertility, and by variations due to differing
+environments. But that is very far from the
+case in human populations. It must be
+remembered that there are many characters
+in which almost complete uniformity does
+occur, fact which is apt to be taken for
+granted as a natural occurrence which does
+not call for explanation. We have two eyes,
+two ears and two legs, and would be very
+surprised to meet someone with three eyes
+and one ear. But probably this is just
+another instance of natural selection. We
+do ‘find considerable variations in qualities
+such as appearance, strength and _intelligence, these variations are certainly partly
+inherited, and at least some of them have
+quite a considerable influence on the fertility of the individual. For example, we
+know that very intelligent people and low
+grade mental defectives are alike in usually
+having few children or none, and there is some
+evidence that in other cases the extremes
+are relatively infertile. Why, we may ask,
+are these characters not reduced to uniformity in a few generations? Perhaps an
+even more puzzling case is that of homosexuals, who rarely have any children, and
+who on the face of it should have been
+eliminated long ago.
+
+Causes of Variability
+
+It seems to me that variability may arise
+for three reasons, though I would not be so
+bold as to say that they are the only possible
+ones. Firstly, we may have the mixing of
+populations by migration. The populations
+of most tropical countries are dark, and those
+of temperate countries light, but now that
+there is a certain amount of interchange
+between these regions we shall expect to
+find some dark men living in temperate
+
+climates and light ones in the tropics. This
+sort of effect may explain some of the variability we observe, though it still leaves quite
+a lot to be explained. In any case such a
+mixture will usually be unstable, and
+natural selection will again tend to make for
+uniformity unless the migration is continuously kept up.
+
+The second possible case of variability is
+where the co-operation of unlike individuals
+is necessary for the continuation of the
+species. We have a most striking example
+of this in human and other populations in
+the existence of two sexes. A population of
+men only would be unable to reproduce
+itself, and so would one of women : so long as
+humanity continues we must have the two
+different sexes. Bees have an even more
+elaborate system, with their division into
+males, females and workers. Here both
+males and females are necessary for the
+breeding of new females and workers, while
+the workers are needed for the construction
+of the hive and the feeding of the colony.
+Actually the difference between workers and
+females is environmental and not genetical,
+but that does not affect the fact that all
+three types are essential to the continuance
+of the species.
+
+The third and probably most important
+possible cause of variation consists in a type
+of selection which I have not mentioned so
+far. If we have a pair of genes, which we
+will call for convenience A and a, then we
+know that we have three possible types of
+individuals, AA, Aa, aa. So far we have
+considered the cases in which the type aa
+is either more or less fertile than the other
+two types. But plant and animal breeders
+sometimes find that the most fertile type
+is the heterozygote Aa. This type does not
+breed true: if we mate two heterozygotes
+Aa X Aa, since the children get one gene
+from each parent they may be of any of the
+three types AA, Aa, aa. This phenomenon,
+by which the hybrid Aa is sometimes more
+fertile and fitter than the pure breeding lines
+AA and aa, is of practical importance, and
+may partly explain heterosis, or hybrid
+vigour. Now when in a natural population it
+happens that the most favoured type is the
+A SATISFACTORY POPULATION FOR BRITAIN ? 23
+
+heterozygote, it follows that the population
+can never be reduced to uniformity. It is
+mainly the fertile heterozygotes who are
+responsible for producing the next generation, and being a type which never breeds
+entirely true to itself it will necessarily
+always produce a mixed population. If
+the types AA and aa were quite infertile,
+and never produced any children, they would
+still be constantly renewed in each generation
+as offspring of the fertile Aa type. If these
+types have only partially reduced fertility,
+they will contribute a certain amount to
+the next generation, and a state of equilibrium will be set up in which all three types
+will be represented, their proportions depending on their relative fertilities. The
+study of this type of population is not yet
+
+far advanced, but it is of interest to note
+that it is stable and adaptable. A change in
+conditions, altering the fertilities of the three
+types, will produce a fairly rapid change in
+their relative proportions until the new
+equilibrium position is reached. If the
+conditions go back to their former ones the
+population will also change back to its
+original state. Perhaps this quality of
+adaptability is of value to a population as
+well as to an individual.
+
+I should emphasize again that parts of
+this paper are rather speculative. If observation and theory advance sufficiently, no
+doubt in 50 years’ time much of it will seem
+naive. Nevertheless, I think that even what
+we now know sheds some light on the
+problems of eugenics.
+
+A SATISFACTORY POPULATION FOR
+BRITAIN?
+
+By SIR CHARLES ARDEN-CLOSE, K.B.E., C.B., F.R.S5.
+
+are well aware that there is no generally
+
+accepted or infallible test for the number
+of people in any country which will provide
+an all-round optimum of well-being, however
+that may be expressed. But in this country
+we have at least one simple condition which
+must be fulfilled before all else, and that is,
+we must be fed. And that is a condition
+which it is becoming increasingly difficult to
+ensure.
+
+To simplify the issue, let us assume—and
+the assumption is not an unreasonable one—
+that it is not necessary for a country to be
+entirely self-supporting in the matter of food,
+and that a margin can be allowed, differing in
+each case, which will permit of a satisfactory
+and legitimate risk which may be taken in
+peace or in war. It may also be assumed that
+such a risk might, in certain circumstances,
+
+Sem of demographic problems
+
+involve the reduction of the standard of
+nutrition down to a rather low level. —
+
+That this country does face a problem of
+the kind is evident from the reports which
+are published, from time to time, in the
+newspapers. These give us facts and opinions
+about numbers, food and agriculture, about
+migration and employment, about imports of
+food and the payment for them; varied
+information and varied opinions. Let us
+take examples from The Times of a single
+date, January 24th, 1950. A leading article
+in that issue dealt with the question of the
+size of the average family in Great Britain,
+which now, according to the Royal Commission on Population is 2:2, and is somewhat
+below the replacement figure.
+
+The writer of the article stated that, ‘“‘ The
+crux of any population policy for Britain is
+not to promote large families but to enhance
+

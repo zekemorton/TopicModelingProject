@@ -1,0 +1,782 @@
+CHRISTOPHER TIETZE
+
+M.D., Director of Research, National Committee on Maternal Health, Inc.
+
+Differential Fecundity and
+Effectiveness of Contraception’
+
+F. Guttmacher, and his associate, Samuel
+
+Rubin, collected from their private practice
+in Baltimore a series of 1,727 pregnancies which
+occurred after birth control had been discontinued with the purpose of achieving conception. It was my privilege to make a statistical
+analysis of this material. In our report,
+published in 1950, we stated “‘that the chance of
+conception was greatest immediately after the
+discontinuance of contraceptive measures .. .
+After the first month the chance of conception
+declined steadily and rather rapidly . . . The
+explanation ... is ... that couples differ considerably in their ability to achieve pregnancy.
+Those who conceive most easily do so during
+the first few months after birth control has been
+given up. As time progresses, the relatively
+fecund couples have eliminated themselves and
+only the less fecund and sterile remain.” It was
+further pointed out that “‘a group of couples
+practicing contraception successfully is not
+subjected to the selective process by which the
+more fecund couples are eliminated . . . Such
+a population, therefore, retains its high
+fecundity ...”
+
+Our contribution of 1950 attracted little
+attention in medical and demographic literature,
+possibly because the statistical argument had
+been too concise. The purpose of the present
+paper is to restate the case and to illustrate the
+argument by the use of a model or hypothetical
+population. This model is based on one set of
+possible assumptions out of an infinite number
+the results of which could have served equally
+well.
+
+The distribution of the Baltimore series of
+planned pregnancies by time required for conception is repeated in the first column of Table 1.
+
+SE YEARS AGO my good friend, Alan
+
+* A paper read at a members’ meeting of the Eugenics
+Society on October 15th, 1958.
+
+TABLE 1
+PLANNED PREGNANCIES*
+BY TIME REQUIRED FOR CONCEPTION
+
+ 
+
+ 
+   
+   
+ 
+
+     
+
+      
+ 
+      
+
+Time required Per cent
+for conception| NUMBER OF PREGNANCIES | distribution
+(unweighted
+
+; ; . average)
+
+(months) Baltimore | Indianapolis
+
+356 34-05
+
+235 27-71
+
+140 16°31
+
+10-73
+
+5-45
+
+5-75
+
+100-00
+
+ 
+
+*Observed data
+
+Next to it appears a comparable series of 950
+planned pregnancies, communicated by C. F.
+Westoff from the records of the Indianapolis
+Study.?, These pregnancies were reported by a
+sample of nearly 2,000 white Protestant couples
+interviewed in 1941 and early 1942. The period
+of married life covered by the histories ranged
+from twelve to fifteen years; the median age
+at marriage of the wives was about twenty-one
+years. The percentage distributions of the two
+series of pregnancies are quite similar and have,
+therefore, been averaged in the third column.
+In the combined distribution 34 per cent of all
+pregnancies occurred during the first month
+after contraception had been discontinued,
+78 per cent during the first six months, and
+94 per cent during the first two years.*
+
+A hypothetical population
+
+We are now ready to start with the construction
+of our model. Table 2 shows the percent distributions of planned pregnancies, by time
+
+ 
+
+* No attempt has been made to distinguish menstrual
+periods and calendar months. It is believed that time
+required for conception tends to be reported in terms of
+menstrual periods for short durations and in terms of
+calendar months for longer durations.
+
+231
+
+THE EUGENICS REVIEW, January 1959, 50, 4.
+THE EUGENICS REVIEW
+
+TABLE 2
+
+PLANNED PREGNANCIES IN THREE HYPOTHETICAL
+GROUPS OF COUPLES
+PER CENT DISTRIBUTION BY TIME INTERVALS
+
+Time interval
+(months)
+
+    
+
+* Assumed pregnancy rates per couple-month of
+exposure: Group A = ‘50, Group B = :10, Group C = ‘01
+
+intervals, for three hypothetical groups of
+couples, identified as Group A, Group B, and
+Group C, each group homogeneous in regard to
+fecundity.* Of these, Group A represents the
+highly fecund with an assumed probability of
+conception or pregnancy rate of -50 per couplemonth; Group B is moderately fecund with a
+pregnancy rate of -10 per couple-month; and
+Group C is sub-fecund with a pregnancy rate of
+only -01 per couple-month.
+
+In the highly fecund Group A one-half of the
+pregnancies occur during the first month of
+exposure. Within six months more than 98
+per cent of all couples have achieved pregnancy
+and most of the remaining couples, within the
+next six months. In the moderately fecund
+Group B the process of impregnation is far
+slower. According to the assumption made,
+10 per cent of the wives conceive during the
+first month after contraception has been discontinued. About 62 per cent of the pregnancies
+fall into the remainder of the first year and
+20 per cent into the second year. In 8 per cent
+more than two years are required for conception.
+In the sub-fecund Group C only 1 per cent of
+the wives conceive during the first month and
+only 11 per cent during the entire first year.
+Another 10 per cent conceive during the second
+
+* Throughout this paper, the terms ‘‘fecund’’ and “‘fertile”’
+and their derivatives are employed according to the
+usage of demographers; the former denoting reproductive capacity; the latter, reproductive performance. In
+medical terminology, reproductive capacity is called
+“fertility”? and reproductive performance, “‘parity’’.
+
+232
+
+year and almost four-fifths require more than
+two years.*
+
+Table 3 presents the per cent distribution of
+planned pregnancies, by time intervals, in a
+hypothetical population composed of 60 per
+cent highly fecund couples, 38 per cent moderately fecund couples, and 2 per cent subfecund couples. The numbers of pregnancies
+
+TABLE 3
+PLANNED PREGNANCIES IN A
+POPULATION*
+
+HYPOTHETICAL
+
+PER CENT. DISTRIBUTION BY TIME INTERVALS
+
+ 
+
+* Composition of hypothetical population: Group A =
+60%, Group B = 38%, Group C = 2%
+
+produced by each of the three groups of couples
+appear in the first three columns and the total
+for the entire population, in the last column.
+These percentages and the assumed pregnancy
+rates in Groups A, B, and C were determined bya
+process of trial and error until the resulting
+distribution was very similar to the combined
+distribution of the observed Baltimore and
+Indianapolis data. About 34 per cent of pregnancies occur in the first month, 77 per cent in
+the first six months, and 95 per cent in the first
+two years. |
+
+* The distributions shown in Table 2 were derived in
+the following manner: First, the monthly probability of
+conception (p) was converted into the probability of
+non-conception (¢ = 1 — p). By raising g to the appropriate powers, the probability was then computed of
+pregnancy not having occurred, 2, 3, 6 12, and 24
+myonts alter contraception was discontinued; e.g., for
+
+roup B:
+
+q -9000
+q? -8100
+g *7290
+q° 5314
+q?? 2824
+q** 0798
+
+Finally, g was subtracted from 1-0000, g? from gq, etc.,
+and the differences multiplied by 100, with the terminal
+0798 x 100 representing the percentage of pregnancies
+occurring after more than 24 months.
+DIFFERENTIAL FECUNDITY AND EFFECTIVENESS OF CONTRACEPTION
+
+We may now proceed to the computation of
+pregnancy rates in our hypothetical population,
+again assuming no permanently sterile couples.
+The first column of Table 4 shows the number
+
+TABLE 4
+COUPLE-MONTHS OF EXPOSURE, NUMBER OF PREGNANCIES, AND PREGNANCY RATES IN HYPOTHETICAL
+POPULATION* BY TIME INTERVALS
+
+Couplemonths
+
+PREGNANCY RATE
+
+Time
+interval
+(months)
+
+per 100
+
+couples couples
+
+ 
+
+* Assuming no permanently sterile couples.
+
+of months of exposure* experienced by 100
+couples during successive time intervals after
+contraception has been discontinued. For the
+first month the number equals 100 by definition.
+During the second month after discontinuation
+only sixty-six couple-months appear because
+thirty-four wives have already conceived in the
+first month and are not any longer exposed to
+the risk of pregnancy. For the same reason,
+only forty-eight couple-months of exposure are
+experienced by 100 couples during the third
+month, ninety-four during the second trimester,
+108 during the second half year, and only
+ninety-seven couple-months during the second
+full year.
+
+The total number of couple-months of exposure corresponding to the 100 pregnancies of
+the 100 couples in the hypothetical population is
+700. The average exposure or number of months
+required for conception in our model is exactly
+seven. We shall return to this figure later on.
+
+The distribution of pregnancies by time
+* Couple-months of exposure were computed by multiplying the numbers of conceptions per 100 couples during
+the time interval (Table 3) by the reciprocals for the
+probability of conception for each component group,
+e.g., for the interval 4-6 months:
+
+Group A 657 xX2 = 13°14
+Group B_ 7°52 x 10 = 75:20
+GroupC -06 x 100= 6:00
+
+94-34
+
+2—ER
+
+intervals, in the second column, is the one
+developed in the preceding table. Pregnancy
+rates per couple-month of exposure appear in
+the third column and are finally converted into
+the more conventional rates per 100 couple-years.
+
+During the first month after the stopping of
+birth control the pregnancy rate of the hypothetical population reaches the extremely high
+values of -338 per couple-month or 406 per
+100 couple-years. Subsequently, as we had
+concluded in our study in 1950, “‘the chance of
+conception declines steadily and rather rapidly”
+until a pregnancy rate of 98 per 100 coupleyears prevails during the second year and a
+rate of only thirty thereafter.
+
+In mathematical terms, the pregnancy rate of
+the hypothetical population during the first
+month of exposure is the arithmetic mean of the
+probabilities of conception assumed for the
+three component groups of couples. The pregnancy rate for the total period of exposure, until
+all couples have achieved pregnancy, is the
+harmonic mean of the component probabilities.
+
+It is now necessary to introduce the factor of
+permanent sterility into the hypothetical population. For purposes of illustration it was
+assumed that 5 per cent of the couples discontinuing contraception are unable to achieve
+pregnancy at any time. The effect of this assumption which would seem to be more applicable
+to women in their late twenties or early thirties
+than to younger women? is illustrated in Table 5.
+
+TABLE 5
+COUPLE-MONTHS OF EXPOSURE, NUMBER OF PREGNANCIES, AND PREGNANCY IN HYPOTHETICAL
+POPULATION* BY TIME INTERVALS
+
+ 
+    
+  
+   
+
+  
+  
+
+Apparent
+
+ 
+  
+   
+   
+ 
+    
+ 
+
+Time couple Pregnancies| PREGNANCY RATE
+interval bf exposure per 100
+(months) per 100 couples
+couples
+
+* Assuming 5% of couples permanently sterile.
+
+233
+THE EUGENICS REVIEW
+
+The apparent number of couple-months of
+exposure per 100 couples in each time interval
+is larger than in the absence of permanent
+sterility because fewer couples are eliminated by
+pregnancy. Permanently sterile couples are, of
+course, not exposed to pregnancy, but since they
+cannot be identified, they must be included.
+The number of pregnancies in each interval is
+5 per cent smaller. The pregnancy rates are
+5 per cent lower in the first month and this
+difference increases to 40 per cent during the
+second year after the discontinuation of birth
+control. The computation ends at this point as it
+cannot be carried into an open-ended interval.
+
+Effectiveness of contraception
+So far, we have been concerned with planned
+pregnancies, assuming tacitly that birth control
+was practiced with complete success prior to its
+discontinuation. Our next objective is to
+compute pregnancy rates with use of contraception, assuming various degrees of incomplete
+protection. The starting point is the hypothetical population previously constructed, with
+5 per cent of the couples permanently sterile,
+and the first assumption as to the effectiveness of
+control is a reduction of 90 per cent in probability of conception for every couple in the
+population.
+
+The results of this computation are summarized in Table 6. The apparent number of
+
+TABLE 6
+COUPLE-MONTHS OF EXPOSURE, NUMBER OF PREGNANCIES, AND PREGNANCY RATES IN HYPOTHETICAL
+POPULATION, BY TIME INTERVALS, WITH USE OF
+CONTRACEPTION*
+
+PREGNANCY RATE
+
+ 
+
+* Assuming 90% reduction of pregnancy rates.
+
+couple-months of exposure, shown in the first
+column, is much larger than in Table 5 without
+
+234
+
+contraception because far fewer couples are
+eliminated by pregnancy. The number of
+pregnancies is reduced by nine-tenths in the
+first month and by about two-thirds for the
+period of 2-6 months. From the second half
+year onward, the number of pregnancies per
+100 couples is larger than without contraception,
+reflecting the larger number of couple-months of
+exposure. The pregnancy rate in the first
+month is likewise reduced by nine-tenths, from
+385 to 38-5 per 100 couple-years of exposure.
+As in the previous model, the pregnancy rates
+decline in successive time intervals, in this
+instance, to 29-3 per 100 couple-years during the
+second year. This decline is far less steep than
+the corresponding decline without contraception
+from a rate of 385 to one of 59 per 100 coupleyears.
+
+Other assumptions as to the effectiveness of
+contraceptive practice are illustrated in Table 7
+
+TABLE 7
+
+COUPLE-MONTHS OF EXPOSURE, NUMBER OF PREG
+NANCIES, PREGNANCY RATE, AND PREGNANCY
+
+POTENTIAL IN HYPOTHETICAL POPULATION, WITH
+CONTRACEPTION*
+
+   
+ 
+  
+  
+  
+
+ 
+ 
+
+Reduc
+ 
+   
+
+   
+ 
+ 
+   
+
+   
+ 
+ 
+
+tion of Apparent Pregnancy | Pregnancy
+preg- onthe Pregnancies| _ rate potential
+nancy | Mont. per 100 per 100
+rate couples couple
+   
+
+    
+
+   
+
+couples
+
+  
+
+* Assuming 90%, 95%, 98% and 99% reduction of
+pregnancy rates and a time interval of 1-24 months.
+
+for a time interval of two years. The additional
+levels of reduction in probability of conception
+are 95 per cent, 98 per cent, and 99 per cent
+The number of couple-months of exposure
+during two years increases with effectiveness of
+contraception, approaching a maximum of
+2,400 if no pregnancy were to occur. The
+number of pregnancies per 100 couples during
+two years ranges from 48-1 at the 90 per cent
+level of effectiveness to 7:3 pregnancies at the
+99 per cent level. Compared with the 90-6
+DIFFERENTIAL FECUNDITY AND EFFECTIVENESS OF CONTRACEPTION
+
+pregnancies during two years in the hypothetical
+population without contraception, as shown in
+Table 5, the differences are 47 per cent and
+92 per cent, respectively. The percentage
+reduction in the number of pregnancies over a
+given period is thus far smaller than the corresponding assumed reduction in probability of
+conception for each couple. The gamut of
+pregnancy rates from a high of 33-0 per 100
+couple-years of exposure at the 90 per cent
+level of contraceptive effectiveness to a low of
+only 3-8 at the 99 per cent level encompasses
+most of the rates reported in the literature for
+real populations using various contraceptive
+methods.
+
+The last column of Table 7 shows the pregnancy potential per 100 couple-yearsas a measure
+of the fecundity retained by the hypothetical
+population at each assumed level of contraceptive effectiveness. The pregnancy potential is
+ten times the pregnancy rate at the 90 per cent
+level of effectiveness, twenty times at the 95
+per cent level, fifty times at the 98 per cent
+level and 100 times at the 99 per cent level.
+The pregnancy potential increases with the
+effectiveness of contraceptive practice, but the
+range is comparatively narrow from 330 at the
+90 per cent level to 380 at the 99 per cent level
+and 385 at the theoretical maximum with completely successful contraception. If the couples
+practising birth control were to abandon it,
+their uncontrolled pregnancy rate during the
+first month would equal their pregnancy potential. In subsequent months the rate would
+decline rapidly, following a pattern similar to
+that shown in Table 5.
+
+Post-partum sterility
+
+It is now time to abandon the comparatively
+firm ground of our hypothetical population to
+carry the exploration forward into new and
+inadequately known territory. It has long been
+known that the average interval between two
+pregnancies, in the absence of contraception, is
+substantially longer than the average time
+required for conception after the discontinuation of birth control or between marriage and the
+first conception without attempts to postpone the
+
+latter.* It is possible to estimate the order: of
+magnitude of this delay. In the classic study by
+Stix and Notestein* of 991 women who had
+attended a birth control clinic in New York
+City, the average interval between pregnancies
+was about twelve months, including the allowance of one month for the puerperal period.
+The average time required for planned conceptions was 3-3 months. The delay of conception
+following a preceding pregnancy was, therefore,
+on the order of nine months. Among the 1,444
+“relatively fecund” couples of the Indianapolis
+Study the average time between pregnancies
+was about thirteen months; the average time
+required for planned conception, 4-2 months;
+and the delay following a preceding pregnancy,
+again nine months. Similar estimates of the
+delay of conception after a pregnancy can also
+be derived from data on intervals between
+successive live births, as compared with the
+time between marriage and first birth, in highly
+fertile populations that did not or do not
+practice family limitation, such as the French
+Canadians® of the eighteenth century and the
+Hutterites® of the Western plains in our own
+times.
+
+By adding nine couple-months of post-partum
+inability to conceive to the seven months computed from Table 4, one arrives at an average
+uncontrolled interval between pregnancies of
+sixteen months. If one month is deducted for the
+puerperium, as is customary among American
+authors in this field, the corresponding pregnancy
+rate for the hypothetical population without any
+use of contraception is 80 per 100 apparent
+couple-years of exposure (1,200 + 15 = 80).
+This rate, based on the experience of couples of
+continuing fertility (excluding exposure prior to
+the first pregnancy), corresponds to the rate of
+171 shown in Table 4 based on planned pregnancies after discontinuation of contraception.
+
+A normal period of post-partum sterility
+
+ 
+
+* Time required for conception tends to average longer
+for first marital pregnancies not preceded by contraception than for planned pregnancies. The difference is,
+however, small (1-2 months) in relatively homogeneous
+populations such as those cited here. One reason for the
+longer average time required for the first marital pregnancy is premarital conception, since among those with
+premarital coitus the more fecund couples are more
+likely to achieve pregnancy prior to marriage than the
+less fecund couples.
+
+235
+THE EUGENICS REVIEW
+
+averaging nine months is not fully explained by
+the information now available on the physiological factors that are involved. Guttmacher,’
+who reviewed this subject a few years ago,
+estimated the average duration of post-partum
+amenorrhea in the absence of lactation at
+about two months, followed by two anovulatory
+cycles to a total of four months. If the child is
+suckled, the corresponding period may well be
+nine months or even more, but prolonged
+breast feeding has not been the common practice
+among the urban populations in the United
+States from which our rough estimate of the
+duration of post-partum sterility has been
+derived. While the uncertainty as to average
+duration of post-partum sterility does not affect
+the argument which follows, it is to be hoped
+that further research in this area will have high
+
+priority.
+
+Clinical implications
+
+The extended average period of post-partum
+sterility has important implications for the
+computation and evaluation of pregnancy rates
+with use of contraception. A group of couples,
+studied as users of a particular method of birth
+control, may include any or all of the following
+components: (1) couples starting to use the
+method at marriage or after a period of separation during which coitus did not occur; (2)
+couples starting after a preceding pregnancy
+just before the first post-partum ovulation;
+(3) couples starting one or several months before
+the first ovulation; (4) couples starting one or
+several months after the first ovulation; and (5)
+couples switching from another method of
+contraception to the one which is being studied.
+
+Couples in categories 1 and 2 find themselves
+exactly in the situation illustrated in Tables 6
+and 7. At the onset of contraceptive practice,
+their fecundity is at the maximum, represented
+in our model by a pregnancy potential of 385
+per 100 couple-years. In subsequent months the
+fecundity is slowly dissipated. Category 5 may
+be assimilated to 1 and 2 since the loss of
+fecundity is quite slow even at a comparatively
+low level of contraceptive effectiveness.
+
+The situation is different in regard to category
+3, comprising those starting contraceptive
+practice some time prior to the first post-partum
+
+236
+
+ovulation. For these couples, the pregnancy
+potential is zero during the early part of their
+contraceptive practice. The average pregnancy
+potential for the entire period of use may be
+substantially reduced, especially if contraception is initiated soon after delivery and if the
+follow-up period is short.
+
+Category 4, on the other hand, comprises
+couples starting birth control some time after
+the first post-partum ovulation and has, therefore, been subject to the rapid process of attrition illustrated in Table 5. Many of the more
+highly fecund couples achieve pregnancy early
+and by the time contraception has begun, a
+large proportion of the remaining couples is
+only moderately fecund or sub-fecund. While
+later losses of pregnancy potential, during contraceptive exposure, are slow, the average
+potential may be substantially below the maximum represented by categories 1, 2 and 5.
+
+Previous studies of the effectiveness of contraceptive methods have, as a rule, paid little
+attention to the interval since a preceding
+pregnancy and to the use of other contraception during that period. Months of postpartum amenorrhea have generally been included
+in the computation of pregnancy rates. It
+would appear, therefore, that most of the
+published rates are below the levels that would
+have been obtained if all couples had started
+birth control at the time of maximum fecundity.
+
+To ensure a high degree of comparability it
+would be most desirable that studies of the
+effectiveness of contraception should be based on
+groups entering observation at the point of
+maximum fecundity. This is not practicable
+since the proportions of couples in categories
+2, 3 and 4 cannot be readily determined owing
+to the fact that the reappearance of menstruation may precede the first post-partum ovulation
+by a number of months. To be sure, the occurrence of ovulation can be determined by various
+tests, such as endometrial biopsy or temperature
+charting. However, these procedures can hardly
+be incorporated into the design of contraceptive research, especially since repeated tests
+over several months would be required.
+
+As a substitute for an impracticable determination of the first post-partum ovulation,
+the National Committee on Maternal Health
+DIFFERENTIAL FECUNDITY AND EFFECTIVENESS OF CONTRACEPTION
+
+has recommended in a recent publication®
+statistical procedures designed to minimize the
+reduction of fecundity resulting from the early
+or late starting of contraceptive practice.
+Setting up criteria for the inclusion of couples
+in studies of the effectiveness of contraceptive
+methods, the Committee recommends that “at
+the time of prescription, the interval since the
+most recent pregnancy should not exceed six
+months without contraception or five years with
+contraception” and further that periods of
+‘post-partum amenorrhea should .. . be
+omitted” from the computation of pregnancy
+rates. Application of these rules would result
+in an approximation of the maximum pregnancy
+potential, especially if the average period of use
+of contraception is sufficiently long. The
+Committee recommends that it should be at
+least one year.
+
+REFERENCES
+
+Tietze, Christopher et a/. Time required for conception in 1,727 planned pregnancies. 1950. Fertility and
+Sterility 1, 4. 338-346.
+
+Whelpton, P. K. and Kiser, Clyde V. Social and
+Psychological Factors Affecting Fertility. 1946-1958.
+New York. Milbank Memorial Fund.
+
+. Henry, Louis. Fécondité des mariages. 1953. Paris:
+
+Presses Universitaires de France.
+
+Stix, Regine K. and Notestein, Frank W. Controlled
+Fertility. 1940. Baltimore. Williams and Wilkins.
+
+Henripin, Jacques. La population Canadienne au début
+di x VIlle siécle. 1954. Paris: Presses Universitaires
+e France.
+
+Tietze, Christopher. Reproductive span and rate of
+reproduction among Hutterite women. 1957. Fertility
+and Sterility, 8, 1. 89-97.
+
+Guttmacher, Alan F. Fertility of man. 1952. Fertility
+and Sterility, 3, 4. 281-289.
+
+Tietze, Christopher. Recommended Procedure for the.
+Study of the Clinical Effectiveness of Contraceptive
+Methods. 1958. New York. National Committee on
+Maternal Health.
+
+ 
+
+ 
+
+IN THE APRIL 1958 NUMBER OF
+
+PHYSIOLOGICAL ZOOLOGY
+
+Edited by Thomas Park, University of Chicago
+
+A “Fetal-Maternal Shift” in the Ovoviviparous Spiny Dogfish Squalus suckleyi (Girard),
+
+CLYDE MANWELL
+
+Metabolic and Cardiac Responses to Temperature in the eae Dipsosaurus dorsalis.
+
+The Growth Rate of Tetrahymena geleii HS under Optimal Conditions.
+
+The Anaerobic Metabolism of Fish.
+
+ILLIAM R. Dawson and GEORGE A. BARTHOLOMEW
+
+Davip M. PRESCOTT
+
+P. BLAZKA
+
+Digestion and Absorption of Carbohydrates in the Alimentary Canal of the Red Cotton Bug, Dysdercus peewee Fabr.
+
+(Heteroptera: Pyrrhocoridae).
+
+The Inhibition of Growth in Crowded Rana pipiens Tadpoles.
+
+SAXENA
+
+CHRISTINA MACGREGOR RICHARDS
+
+The Relation of X-Irradiation to the Fecundity and Fertility of Two Species of Flour Beetles.
+THoMAsS Park, PETER P. H. DEBRuyN, and JAMES A. BOND
+
+PHYSIOLOGICAL ZOOLOGY is published quarterly in J anuary, April, July and October.
+Subscription 82s. 6d. per volume. Single copies 24s., including postage.
+
+THE UNIVERSITY OF CHICAGO PRESS, 5750 Ellis Avenue, CHICAGO
+
+Agents in Great Britain: CAMBRIDGE UNIVERSITY PRESS, Bentiey House, 200 Euston Road, London, N.W.!
+
+237
+

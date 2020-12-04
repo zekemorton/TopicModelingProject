@@ -1,0 +1,904 @@
+THE
+
+EUGENICS REVIEW
+
+ 
+
+INFANT MORTALITY DURING THE
+WAR.
+
+By CORRADO GINI.
+
+THE subject of infantile mortality was often before us during the war,
+principally because in several of the belligerent states it was asserted that
+this mortality had greatly increased, and such increase was looked upon
+as a proof of the sacrifices to which the population had submitted. In the
+earlier years of the war the report of a terrible epidemic among German
+babies, as a result of the scarcity of food, appeared time after time in the
+newspapers of both belligerent and neutral countries. Again, in June
+1916, such a report was accepted as fact in Switzerland, and I heard it
+repeated even in the best-informed Italian circles. The Germans took
+advantage of it to exhibit the blockade of the Entente in the worst possible
+light; and they succeeded so well that in the United States, while that
+country was neutral, that plans were set on foot for sending milk to the
+German babies, and violent protests were made against the cruelty of the
+English who would not permit its transmission.
+
+Recently, in the Commission Scientifique Interalliée de Ravitaillement,
+of which I have the honour to be a member, the highest medical authorities cited, in proof of the malnutrition of the French people, the rncrease
+of infant mortality in urban centres. I had occasion to study the question
+at another time. At the end of August 1916, in two papers on ‘ The
+Situation of the Belligerent Populations from the point of view of Demographical Statistics,”! I was, I think, the first, at least in Italy, to dascredit the legend of the epidemic among the German babies, by demonstrating that in Germany, after a great and sudden increase in the first
+two months of the war, the infant mortality had remained at almost the
+normal level.
+
+In those notes I examined the causes of such an unlooked-for result,
+but detailed conclusions on certain points were then made difficult by the
+fact that, in the absence of exact information as to the dates of birth in
+the case of children dying at the age of 12 months or less, the number of
+
+1 The papers were presented to H'.E., the Under Secretary of State for War,
+and a few typed copies were distributed to persons, within and without that
+Ministry, who were especially interested in the matter. Some—and among others
+that which is mentioned here—were at various times communicated to other
+students.
+176 EUGENICS REVIEW.
+
+deaths in a given month had to be compared, not with the number of
+births in the category to which they really belonged, but with those which
+occurred in the same month.
+
+This proceeding—I then made the observation 4 propos of Germany,
+but i¢ naturally holds good for the other nations who entered the war at
+the same time, and may also be applied, with a substitution of dates, to
+those who came in later—did not exercise any appreciable influence up to
+May 1915, because unti] then the number of births, which all resulted from
+conceptions in time of peace, remained almost stationary; but when the
+number of births abruptly diminished, as it did in the beginning of May
+1915, aS a consequence of the general mobilisation which had taken place
+nine months before, it had the effect of making the infantile death-rate
+appear higher than it really was. For this reason, in establishing
+the relation of the number of infant deaths to the number of births, it is
+mecessary to take as denominator, in place of the actual number (which
+would correspond to the number of children born among whom the deaths
+occurred) a lower number (given by the children born in the same month).
+
+The determination of the correct denominator presents no difficulty
+in theory. During a given month x deaths can occur among infants born
+in that month or in any of the 12 months preceding. To obtain the
+denominator to be applied to those deaths it will be necessary to take an
+average of the number of those born in the same month and the number
+in each of the previous 12 months, weighting the number differently,
+however, for each month. It is obvious that the weight to be given to the
+number of those born in any month y should be proportional to the
+probability that an infant born in that month should die in the given
+month x. Indicating this probability by p,, and the number of births
+in the month y by ny: the denominator sought will be :—
+
+ 
+
+Dey
+N, = xy sy
+x >,
+which could also be expressed in the form :—
+Ny = Day "y
+p
+Where ‘xy = =
+xy TP ay
+
+The probability of deaths at from o to one year in the month x will
+therefore be correctly measured by the quantity :—
+
+fe mx? —12
+
+= N.
+
+where M$” ** indicates the number of infants dying in the month x
+at ages of from o to 12 months.
+
+ 
+
+Dx
+
+The values of m° ~** and of n, for the separate months are taken
+
+from the usual statistics of population movement. To find the value of
+po? it is only necessary to determine the value of q,,. This presupposes a knowledge of the classification of the infantile deaths according to the month of birth and that of death. Such a classification of the
+INFANT MORTALITY DURING THE WAR. 177
+
+deaths in the Commune of Rome during the 14-year period 1900-1913 Was
+kindly undertaken, at my suggestion, by Dr. Alberto Mancini, Director
+of the local Statistical Office. Table I. shows the values of 100 q,y
+which were obtained therefrom. The differences in the value of q,,
+resulting from the variation in the values of y, z.e., from y=x-4 to y=X-I1,
+are slight and irregular, which justifies us in regarding them as accidental. It is thus assumed that the value of q,, remains unchanged by
+the above-mentioned values of y.
+
+TABLE I.—Percentage (100 q,, ) of infantile deaths in the month x which
+would be given by the births in the month y, on the assumption that the number of births was equal in each month.
+
+ee
+
+Month of death (x).
+
+ 
+
+Month of s s ’
+birth) | |B | ela@ig {4 3
+SIE; E Esl gisele] e112] 3
+4 | Belisle is |/2/21i4¢;/a;ojajya
+x | 32.1 | 33-2 | 32.1 | 33.0 | 30.0 | 24.8 | 18.8 | 25.7 | 29.2 | 35-7 | 37-3 | 37-1
+x—I 26.0 | 23.7 | 24.3 | 22.8 | 18.1 | 19.6 | 22.2 | 23.2 . 23.3 | 22.4 | 24.6 | 22.8
+x—2 8.3] 7.8; 62] 67] 69) 7.5] 81] 7-4 ! 9.8] 7.31 7.9] 9.0
+x—3 5:81 49| 4.0] 4.0] 4.3] 60) 5.6] 5.0! 5.51 5.7] 53] 43
+de x— 4a |
+— 3-41 3-71 40] 4.0] 4.9} 5.1] 5-5 47 3-8) 3.5] 3-5) 3-3
+x — 12 07] 1.2} U5] 17] 1-5} 15] 1.5] 1-2 ! 1.9| 1.2] 05| 08
+
+ne ee me
+
+It should be noted that the values of 100 q,, , for the same month of
+birth y, varies greatly according to the month of death x. It 1s apparent
+that this essentially depends upon the different frequency assigned, in the
+various months of the year, to different causes of death, some of which
+especially attack the newly born, while others are more dangerous to older
+children. The differences, however, also depend, at least in part, upon
+the influence of the variation in the number of births occurring in each
+month and on their reduction in a greater or less degree by the operation
+of a higher or lower mortality in the preceding months. These observations and considerations lead us to the belief that the values of 100 q,,
+may vary in different countries, in accordance with the monthly variations
+in the number of births, in the death-rate, and in the prevailing causes of
+death. The coefficients obtained by me for Rome could for this reason
+not be very safely applied to the data of birth in other places; for any
+other country it would be desirable to find appropriate coefficients. In the
+178 EUGENICS REVIEW.
+
+absence of data for other places we have, however, considered it permissible
+to apply the coefficients obtained for Rome to the data of other cities. Without pretending to absolute precision, the results obtained undoubtedly
+represent a noteworthy advance on the data which would be obtained by
+comparing the number of imfantile deaths occurring in a given month
+with the number of births in the same month, or with the mean of the
+number of births in the same month and in that preceding. The fraction
+of the deaths which occur in the month of birth is in truth very small.
+In Rome the proportion is between 19 per cent. and 36 per cent., and the
+fraction occurring in the same and the preceding months is not sufficiently
+large—in Rome it is between 41 per cent. and 62 per cent.—to justify us
+in neglecting the deaths which occur among those born in the earlier
+months.
+
+We will now see how Table I. is applied.
+
+Taking, for example, the column showing the deaths in August, we
+see that on the hypothesis that all the months had the same number of
+births, of 100 infant deaths occurring in August an average of 25.7 would
+have been born in that month, 23.2 in July of that year, 7.4 in June, 5.0
+in May, 4.7 in each of the preceding months, namely, April, March,
+February, January, December, November, October, September, and 1.2
+in August of the previous year.
+
+We now desire to determine the mortality during the first year of
+life in August, and for a given year and locality—Paris, for example—in
+1914. For this it will be necessary to know the number of births which
+took place in Paris in August 1914, and in each of the 12 previous months.
+These numbers are shown in column 2 of Table II. Column 3 gives the
+relative coefficient 100 q,, , column 4 the products obtained by multiplying together the figures in columns 2 and 3. The total shown in column 4
+divided by 100 will give us the denominator with which to compare the
+number of the deaths in August 1914 (=529). The probability of deaths
+among infants during August 1914 was, in Paris, about 13.5 per cent. If,
+instead, we had compared the number of such deaths with the number of
+births in the same month, we should have obtained a probability of death
+of 14.6 per cent., the reason being that in 1914, as in previous years, the
+month of August in Paris showed a number of births markedly less than
+that of the months preceding. Even in this case the difference between
+the results obtained by the method we have proposed and by that
+customarily employed is appreciable. But it becomes very marked during
+the war for the months which show an abrupt diminution in the number
+of births, corresponding to the diminution in the number of conceptions
+which took place nine months before, on the opening of hostilities.
+
+To show the extent of such difference in various localities during the
+war we have calculated the probabilities of death of infants for German
+towns of over 15,000 inhabitants, and for Paris, not only by the method
+we have introduced, but also by the usual method. In the accompanying
+diagrams the results obtained by our method are shown by a continuous
+line, and those obtained in the usual way by a dotted line. From May
+INFANT MORTALITY DURING THE WAR. 179
+
+TABLE II.—Calculation of the probability of death at ages under one year
+in Paris during August, 1914.
+
+ 
+
+ 
+
+Month and Year. Births. a S| se | ae
+
+iy 100 Tey’
+
+August, 1914 ve 3617 257 | as, | 92956.9
+July . - 4009 23.2 | 93008. 8
+June - bes _ 4003 7.4 | 29622.2
+May 95 ves 4283 5.0 | 21415.0
+April 4 vee 4168 4.7 19589.6
+March sé, wee 4391 4-7 20637.7
+February __,, a 3905 47 : 18353-5
+January ” on 4162 4.7 19561.4
+December, 1913 _— 4029 47 18936.3
+November _,, ves 3929 4-7 18466, 3
+October is wes 3867 4-7 : 18174.9
+September ,, os 3774 4-7 ! 17737-8
+August 4 wee 3894 1.2 | 4672.8
+Total 0 0. w., = — | 393133-2
+
+Number of deaths at from 0 to 1 year in August 1914: 529.
+
+Number of births with which this number of desing is to be compared : 3931.33.
+
+Probability of death at from o to 1 year in August 1914= 529
+
+3931.33
+
+1915 to August 1916 in Germany, and from May 1915 to February 1916
+in Paris, the dotted line remains considerably above the continuous one.
+In the succeeding months the two lines interlace, the persistent diminution
+in the number of births having given place to less regular movements
+in various directions.
+
+The diagrams relating to Amsterdam and Buenos Ayres show the
+results of analogous comparisons in two neutral countries. In these the
+continuous and broken lines intersect without showing any significant
+divergence from one another. This fact leads to the conclusion that in
+normal times the ordinary method is generally adequate for calculation
+of the probability of death at ages under one year in the several months
+when great precision is not required in the results.
+
+It should be observed that the method we have introduced takes no
+note of seasonal migrations, but assumes that risk of death before reach180 EUGENICS REVIEW.
+
+ing one year is incurred in a given month by all the infants born in that
+and the preceding 12 months and still alive, and by those only. In reality,
+with respect to large cities during certain seasons, it may well happen
+that a certain number of infants are, with their families, in the country,
+and if they die during that time are counted in the mortality figures of
+the locality where the death occurred; and vtce versd, that a certain
+number of mothers are delivered outside the limits of the town, returning,
+with their offspring, later on. The method might, therefore, be more
+safely applied to whole regions or nations than to single towns, were it
+not for the fact that the data of births and deaths for the former are still
+lacking as regards the latest years. In the absence of those figures any
+calculation must be based on figures relating to single towns or groups of
+towns.
+
+The disturbing influence exercised by seasonal migrations, and the
+fact that we are obliged to apply to all towns coefficients determined solely
+for Rome, lessen the exactitude of the results. In their interpretation
+we hold dt advisable not to dwell on the detail, but to concern ourselves
+only with the general trend of the phenomena. This, as we shall see,
+leads, in any case, to some results of considerable interest.
+
+The data with which our enquiry deals relate to :—
+For Italy—
+(a) The City of Rome. .
+(6) The aggregate of seven large towns (Turin, Milan, Bologna,
+Ravenna, Florence, Rome, Palermo).
+For France—
+(a) The City of Paris.
+(5) The aggregate of three large towns (Havre, Rouen, Dijon).
+For England and Wales—
+(a) The City of London.
+(0) The aggregate of the 96 greatest towns.
+For Germany—
+(a) The City of Berlin.
+(6) The aggregate of the towns with a population of over 15,000.
+For Holland—
+(a) The City of Amsterdam.
+For Argentina—
+(a) The City of Buenos Ayres.
+
+Thus the figures relate to the capitals of six States, four belligerents
+and two neutrals, and to larger or smaller groups of cities in the four
+belligerent States.
+
+The probabilities of death calculated date from the beginning of 1914
+and are carried in most cases down to about the middle of 1918. It would
+no doubt have been desirable to consider not only the towns, but also the
+rural districts, and to extend the calculation to the years preceding
+1914; but with the difficulty, arising from the present political conditions,
+of obtaining more data, we have thought it advisable to bring forward,
+in the meantime, the calculations it has been possible to complete. In
+C16)
+71 o0w ww sd DB
+
+r
+
+@qauoe¢evvspwuwm-soanoteviowvwso>eanoecvtswvw s 9 aN 0 GEV 19 WN YW 4s 9
+
+owosgwvtaewrvw
+
+Li61
+
+hb
+
+a
+
+®
+
+grét S61
+
+$16!
+
+ont,
+
+‘WWOU' JZN3UI4 VOW U3 Wd ‘ONINO L'VWNNSAVY VN90108 ONY TIN VALI
+
+ger Gre
+ono ftvrtowvwse O@AOnNoSvtawwwyeoanosrvi9
+
+~
+
+: a
+Wvw 49
+
+N
+
+og
+06
+
+oor
+ol
+Od
+of
+Ov!
+oS
+
+ols
+oa!
+061
+00%
+OIE
+916i
+19wWvyw ada” o0s y¥
+
+19 WY Ww
+
+Libs 961
+3? Q@w © $ wt @9W WwW ¢ 2 GAN O
+LN
+G w A A
+a7 \ / \
+‘ f oN
+‘i \ ,
+i “, ff \_
+V4 \
+' \o/ \
+\/
+1 v
+!
+\
+
+6161 nét
+v419%98WwW YW gs 8 @ NO S$ ¥v tow VY Ww 4 9D
+of
+09
+iA , 06
+A rh v A 001
+7 \, 7 \ 2
+\ oe \ ou
+77 “ 1 ;
+f f ov!
+. / \ i
+, \ " \\ ff oe)
+\ / i ! ov:
+\ ! \ 4
+1 / ¥ “0S!
+\ I . 091
+1 of lola
+7
+
+08!
+N
+
+o S$ VW
+
+4
+
+9 WwW
+
+v
+
+Ww
+
+3
+
+116)
+9 aN OO
+
+s
+
+Vv
+
+4
+
+5 wv Ww
+
+d
+
+9161
+9
+
+a
+
+N
+
+o $
+
+v
+
+7
+
+S160
+9 W VY wW 4989 QA N
+
+“N3NOY'NOPIG’ JYAVH 77
+
+161
+
+909 $ vy 19 Ww HW 4 9
+
+VIONVYS
+
+on
+ov
+Osi
+0+)
+os!
+0%
+oli
+og
+06!
+00%
+ors
+OVS
+Ocs
+Ove
+Ose
+09%
+ol%
+oge
+06%
+oo?
+ort
+ove
+Ofek
+
+ose
+pv wie ~ L6
+: ¥ sean OOF - |
+Ww wia9o9oN OS ¥ a ° wwwjs 09 @nm OS V4 OwWVY WS DONO VA AW a? fe uokviaw ern mm
+
+23:a3e28sg
+
+oul
+of;
+oF!
+
+MLLIDIOWVED 96 WAI FIOM I on.
+
+ie : Lie
+¥% " a6
+Mv st Owe rT OWwVvU ss DONOR YI OWNS DONO SV OUD ownoseviswvwy sh
+
+VUUNOT =
+
+x
+"6 L161 O16) a "rb $061
+
+vwsoau oS vieHvYH so aN OS ¥1ONVN sd aH OS YI DH YM FD aH OS VI Fw VU 4 O%,
+
+on
+
++
+
+mw X, OU!
+‘~ f \ .
+\ f--~ / “SS / \ aay , ta ! f .. . ort
+a . ! i j ,
+NA. i fs / \\ for / \ -_ 7 \ / Sn, om
+
+! i
+/ \ j :
+
+01%
+Ott
+Ots
+On
+05%
+
+J
+I
+\
+\ |
+| | 7
+V BY 000°! FYL1O NOD VLLI9 VINVWYI9 008
+|
+\ |
+\ |
+\
+\\ J
+\!
+
+Wj o4z
+
+* a . +161
+A161 . 01 $161 |
+vu pow os vrewvw ss Dano ev DH HD DAaNOSY ONY S DANE EW Ae wm yw ste
+
+ol
+ov!
+ox!
+ot
+of!
+oot
+olt
+ov)
+061
+
+006
+
+Ole
+
+naa =
+
+ere
+TOwWvwWwW]H 9D GHMHdOSvYtawywse dOansdsvt19W vw 4A Dd AN DO
+
+Vw di 9awNOSsYv¥ 4Atoawv Ws D9 GHW OO §
+
+eG
+
+961
+
+Lig.
+
+Les
+
+va9 Wv Ww a
+
+61
+
+9qanosvtrtoewvwda 29Gnosvtosewvw di 9
+
+961
+
+~
+
+$ vitowvw
+
+$161
+
+C161
+
+vibe
+
+QS
+
+SIUAV SONIA
+
++161
+
+3 2 @wnvNn 0 S$ V4IAwWvw Ww 4s 2
+
+WVda ISH
+
+og
+oy
+oS
+"9
+
+°¢
+06
+
+on
+INFANT MORTALITY DURING THE WAR. 187
+
+any case these notes do not profess to be a thorough examination of
+infantile mortality during the war, but aim at showing to future enquirers
+the method to be followed, and, meanwhile, to call attention to some
+interesting conclusions which are already emerging from the results we
+have obtained. We hope that our researches will be resumed and amplified by the fulness of data which the importance of the subject merits.
+
+For the sake of brevity, we will omit the actual figures obtained,
+limiting ourselves to a reproduction of the diagrams which have been
+prepared from them.! These furnish good examples of periodic curves.
+The most regular periodicity is exhibited in the case of BA, where the
+curve does not appear to be affected by the world war. The curve for
+Amsterdam seems, on the other hand, to be disturbed in the earliest
+period of hostilities. In fact August, which in the succeeding years is
+the month of minimum infantile mortality, corresponds, in 1914, to a peak
+in the diagram. This is easily understood when we remember how closely
+the economic life of Holland was linked before the war to that of
+Germany, Belgium and England, and the disturbance of conditions caused
+not only by the declaration of war, but also by the influx of Belgian
+refugees.
+
+In Germany, England and France, the months immediately following the outbreak of war show exceptionally high points compared with
+those of the following years. A comparison between the trend shown by the
+diagram in those months and in the corresponding months of the succeeding years conveys the impression, that the increase in infantile mortality
+caused by the disturbance of conditions following the outbreak of war
+was greatest in Germany and least in France, with an intermediate
+amount of increase in England. Later on we shall enquire into a possible
+explanation of these facts. In Germany, however, in 1917, the summer
+mortality of infants reached alarming proportions, perhaps in connection
+with an epidemic of dysentery which raged in those months.
+
+The diagrams relating to Rome and to the total figures of the seven
+Italian towns under review do not indicate that the outbreak of war had
+any special influence on infantile mortality; while the highest point of
+summer infant mortality, in 1915, can be plausibly attributed to the disturbed conditions produced by the entry of Italy into the war. In the
+diagram for the City of Rome, however, which marks the conditions
+obtaining up to the end of the summer months of 1918, the highest point
+for 1918 is almost level with that of 1915.
+
+One of the most important conclusions which results from an
+examination of the diagrams is, that the sudden rise in the rate of infant
+mortality caused by a nation’s entry into the war rapidly ceased, giving
+place, after a month or two, to a normal rate. The diagrams for Paris
+
+1 The greater part of the detailed work has been done under my direction
+in the Statistico-economic Section of the Historiographical Bureau of Mobilisation
+(Ministry of War) in charge of Professor Livio Livi. During the Professor’s
+illness the work was completed by Dr. Marcello Boldrini, who was courteous
+enough to draw the diagrams and to read the communication before the National
+Congress of Social Obstetrics, in which I was prevented from taking part by an
+attack of influenza.
+188 EUGENICS REVIEW.
+
+and for the German towns show clearly how the contrary impression arose,
+based as it was on mortality coefficients obtained by the ordinary method.
+Dumng the whole of 1915 and half 1916 in Germany, and during the war
+period of 1914 and the whole of 1915 in Paris, the infant mortality would,
+in fact, appear to have been appreciably greater if, instead of the continuous line of the diagram, we take the dotted line.
+
+Even more important is the fact observed that in Paris and the other
+French cities, in English towns (especially London), and in German
+towns (particularly Berlin), the course of the diagram does not in the
+least bear out the assertion that infantile mortality, after the rapidlysurmounted crisis at the beginning of hostilities, increased during the war.
+
+In Italy, however, it was otherwise. If the diagram relating to the
+City of Rome does pot give evidence of any increase in infantile mortality,
+that relating to the aggregate rate of the seven cities shows an increase
+which, but for seasonal oscillations, appears clear and continuous.
+
+Such are the facts. For their explanation it is necessary to take into
+consideration a number of factors. The contrast between the progressive
+increase in infantile mortality in the aggregate of Italian cities and its
+stationary character in the towns of the other States, must be regarded as
+a manifestation of the fact, well known and universally recognised, that
+among the great nations of the Entente Italy was the one whose people
+were called upon to make the most grievous sacrifices, while the more
+favourable course of infant mortality in Rome may be taken as confirming
+the general impression that the conditions of life always suffered less
+disturbance in the capital than in the other Italian cities. But we must
+not refer to economic facts for an explanation of the temporary increase
+of mortality in all the belligerent nations, or of the normal state which
+succeeded it. For even those who see the effects of the war on the
+national economic organism in the most optimistic light cannot maintain
+that they were less evident in the first months of the war than in the
+later periods.
+
+In dealing with Germany I tried, on the contrary, in the notes
+referred to above, tc find a partial explanation in the modifications
+effected in the methods of infant feeding; and I believe that the observations I then made can be extended to the States now under consideration,
+and that they indicate a reason for the differences which we have
+encountered in the comparison of the diagrams. Artificial feeding, I
+remarked, was very general in German families. Before the war, among
+babies for whom the system of feeding is shown in the statistics of Berlin
+and Breslau, the death-rate for those who had been fed naturally was
+only 15 per cent. in Breslau and 20 per cent. in Berlin. After the
+declaration of war the interruption of trade, the requisitions of animals
+and forage, and the closing down or diminished production of many businesses, mecessarily reduced the supply of animal milk and other substitutes for human milk. In truth, the excessive infant mortality noted in
+the months of August and September, 1914, seems, according to the
+monthly bulletins issued in Berlin and Breslau, to have occurred mainly
+among children fed artificially, either wholly or in part. Among breastfed infants the number of deaths occurring at ages under one year in
+INFANT MORTALITY DURING THE WAR. 189
+
+August and September 1914, exceeded those in the corresponding months
+of 1913 by only 12 per cent.; whereas among those fed, wholly of in part,
+artificially, the increase was 57 per cent. What I then noted as regards
+Germany is probably true to some extent of England. It would explain
+the intensity of the increase in mortality during the first months of the
+war; while in France and Italy, where breast-feeding was more general,
+the outbreak of war had less harmful consequences.! Very soon,
+probably, the reduced supply of substitutes for human milk, I further
+remarked in my article, and the necessity of limiting domestic expenditure persuaded many German mothers to nurse their children. This is
+proved, indeed, by the statistics of Berlin and Breslau, which show that
+from October 1914 onwards the number of infants fed at the breast
+increased, while that of the artificially fed diminished. Of the total of
+those for whom the method of feeding is given, the percentage of the
+breast-fed rose in Berlin, during the period October 1914, to December
+1915, aS compared with the corresponding months of the last peace period,
+from 18.6 per cent. to 24.2 per cent.; and in Breslau, during the period
+October 1914, to September 1915, from 15.6 per cent. to 21 per cent.
+
+Here is certainly one of the reasons why the infant mortality of the
+German population did not increase during the war, for, as has been
+stated, breast-feeding is accompanied by a very low infantile death-rate;
+and it is probable that analogous circumstances have brought about
+analogous effects in the other belligerent countries, more or less marked
+according to the greater or less generality of artificial feeding before the
+war.
+
+It is certain, however, that other circumstances contributed both to
+raise the rate at the outbreak of war and to keep it at a low level after
+1 The explanation I have adopted is in remarkable agreement with the figures
+and facts relating to the population of Lille communicated January 28h, 19109,
+to the Académie de Médecine in Paris by Dr. A. Calmette, Vice-director of the
+Pasteur Institute, and reproduced in the Revue d’ Hygiene of the same month
+in an article entitled ‘* Considerations sur l’état sanitaire de la ville de Lille
+pendant 1’ occupation allemande,”’ of which I was able to take note while correcting the proofs. After observing that the general mortality of the population of
+Lille had increased enormously during the German occupation, progressing from
+19.21 per cent. before the war to 27.73 in 1915, 29.26 in 1916, 30.41 in 1917, and
+41.55 in 1918, Dr. Calmette writes, ‘‘ Infant mortality, especially during the last
+two years, was very small. The number of births, which was 4,885 in 1913, fell
+in 191§ to 2,154, in 1916 to 644, in 1917 to 602, and in 1918 to 609. The number
+of deaths among infants was goo in 1913. In 1917 and 10918 it fell to 97 and 94
+respectively, i.¢., by 16.1 per cent and 15.4 per cent. instead of 18.4 per cent.
+The relatively small proportion of these infantile deaths is explained by the fact
+that almost all the new-born children were nursed by their mothers, since industrial labour had entirely ceased. Since during these four years not a single drop
+of cow’s milk was distributed among the population, it was necessary to supplement the maternal nourishment by condensed milk, supplied at first by the
+Comité Américain de Secours and later by the Dutch and Spaniards. Experience
+showed the truly remarkable excellence of such a régime. With the exclusive
+use of condensed milk our children’s consultants, who never ceased their activities,
+observed the disappearance of enteritis and gastro-intestinal affections, from
+which, in Lille before the war, between 18 and 21 per cent. of those born died
+during their first year.
+190 EUGENICS REVIEW.
+
+wards. The calling up for service of doctors and nurses, and the military
+requisitioning of hospitals and infirmaries hindered, and in some cases
+suspended, the care provided for babies, and the mental excitement which
+seized upon men and even more upon women during the days of mobilisation cannot have had a favourable effect upon the care of children. Some
+influence may also be attributed to the abnormal heat and drought which
+characterised the summer of 1914.
+
+As the war went on, however, the care and protection of children
+were renewed, and on a larger scale; for the distinction between the
+legitimate and illegitimate was lessened, if not entirely swept away, antenatal assistance was increased, and the system of allowances to the
+families of poor soldiers was established, and completed in some States,
+as in Germany, by special bonuses for motherhood designed to procure
+medical aid for the mother, provide for the expenses of her confinement
+and maintain her adequately, thus enabling her to rest in the first week
+after the birth and creating favourable conditions for the supply of the
+maternal milk. Committees of civil assistance arose—in Germany, for
+example, the war godfathers and godmothers—which aimed at giving
+special aid to children and their mothers; help for poor families was
+widely given by beneficent bodies, both national and allied; and special
+provisions were made in nearly all States to secure children an adequate
+amount of milk. It might be well to enquire, morover, if or to what
+extent infantile mortality during the war may have been affected, as
+some authors assert that it was, by the absence of excessively hot summers.
+On the other hand, it should not be forgotten that our data refer only to
+towns, where, if the lack of nourishment was less felt than in the country,
+undertakings for assistance were much more largely developed. In the
+case.of Germany, someone has drawn attention to the fact that young
+town mothers often went to live with their relatives in the country when
+the husbands were mobilised, in order to escape the difficulties of provisioning. This circumstance may have made the infantile death-rate
+appear unduly low in the towns and unduly high in country districts.
+Whether it is dependent on this disturbing factor or on a real deterioration
+in the conditions of life, it appears from the data which we possess, limited
+as they are, for the rural districts of Germany, that in such areas the
+rates of infant mortality were distinctly higher during the war than in the
+preceding peace period.! It is possible that the same thing happened in
+other belligerent States.
+
+But without excluding the possibility that the figures may be more
+optimistic in the country districts than in the towns, and taking into
+account the various forms of assistance provided for mothers and newborn infants, the fact that infant mortality in the towns of England,
+France and Germany, and in some Italian towns, such as Rome, did not
+increase progressively as a result of the economic disturbances caused by
+the war, is nevertheless in extreme contrast with the pessimistic predic
+1 For this and cther points referred to in this article cf. /nfant Welfare in
+Germany. Report prepared in the Intelligence Department of the Local Government Board, 1918.
+INFANT MORTALITY DURING THE WAR. IgI
+
+tions which for some time, and even in course of the world war, used to
+be confidently proclaimed by those who, moved no doubt by praiseworthy
+sentiments of humanity, were opposed to the idea of war, and limited
+themselves to the exposure of its dysgenic effects.
+
+For it must be kept in mind that, even if all the efforts for promoting
+the welfare of mothers and children proved efficacious in practice, it
+would be asserting a great deal to say that the war-time conditions were
+kept up to the peace-time level. How was it, then, that infant mortality
+did not increase during the war, if those infants conceived in war-time
+were really so inferior in physical resistance as was considered to be
+inevitable by writers who, for eugenic reasons, were antagonistic to the
+war ?
+
+The problem of infantile mortality during the war is thus closely
+related to the very important one of the relation between war and eugenics.
+It is not our intention to embark upon it here, but we cannot refrain from
+bringing forward some of the results derived from the notes, to which we
+have already repeatedly had occasion to refer, on the conditions in
+Germany during the war seen in the light of demographic statistics.
+
+These results do not, in truth, corroborate the idea that the fruits of
+war-time conceptions were constitutionally weaker than those of peacetime. Not only in the three first quarters of the war, the births in which
+were the result of ante-bellum conceptions, but also in the ten following
+quarters to which my figures extend, the still-births do not show in Germany any certain and regular increase in relation to those of the corresponding quarters of the pre-war period. If in some quarters an increase
+is noted, it seems possible to ascribe at to the greater lack of care at birth
+which is manifest in the considerable increase of the deaths from puerperal fever.>
+
+It is no less important to observe that the mortality from congenital
+weakness, atrophy, monstrosity, etc., in the cities of Berlin, Breslau,
+Diisseldorf, Bremen, Nuremberg and Wiesbaden, does not exhibit the
+slightest disturbance, and this not merely in the first nine months of the
+war, in which the births were the result of pre-war conceptions, but also
+in the succeeding period. These results ought, of course, to be confirmed
+by more extensive researches, relating not only to single towns but to
+whole regions, and not only to Germany but to the other warring States.
+But they are sufficient to show that the relations between war and eugenics
+are much more complex than has generally been recognised by the authors
+who have in the past concerned themselves with such matters, and who
+confined themselves to consideration of the selection exercised by war
+with regard to physical qualities and the ages of the parents. It as, of
+course, obvious that as a result of heredity the children of men sent back
+to civil life as unfit must be less robust than the children of those fitted
+
+1 The increase of about one-third shown by the proportion of deaths from
+puerperal fever to births can only be attributed in the smallest degree (perhaps
+not in more than 1 per cent. or 2 per cent. of cases) to the changes in the ageproportions of child-bearing women during the war.
+192 EUGENICS REVIEW.
+
+for military service; and it has, besides, been demonstrated that the
+advanced ages of the parents proved detrimental to the quality of the
+progeny.
+
+In modern war the system of exemptions and the periodical leaves are
+provisions which diminish but certainly do not eliminate the effect of these
+factors of selection. In actual fact, researches undertaken for Berlin and
+Strasburg show that in comparison with the pre-war period the diminution
+an the number of births which began nine months after the declaration of
+war is negligible as regards mothers of over 40 years, while at lower ages
+the diminution is found to be greater among the younger women.
+Analogous calculations, made for Strasburg, on the age of the fathers,
+show that the reduction in the number of births from young mothers only
+reflects—in a slightly lesser degree, because of the imperfect correlation
+between the ages of the two parents—the reduction in the number of births
+resulting from young fathers. The reduction in the birth-rate proceeds,
+therefore, mainly from the diminution in the births from young couples.
+Owing to parity of age and other circumstances, such births should be
+the most healthy, at any rate where the couples are married. If, in any
+case, the war-time conceptions have no effect on the mortality rate, as is
+attested for the German towns by the figures of still-birth, of infantile
+mortality, and, especially, of the deaths from weakness and congenital
+defects, and as may be suspected from the infantile mortality figures for
+the towns of other belligerent States, it seems reasonable to conclude that
+the factors of selection, till now unrealised or neglected, act in a contrary
+sense to those examined above. One of these factors may be sought in
+the selection according to social classes, another in selection according
+to the number of children. The higher social classes and the most
+numerous families present, in fact, on an average, superior physical
+characters, while their contribution to the mobilised army is less, in proportion, than their numerical importance.2 Further, we should once more
+ask ourselves if importance should not be accorded to a more intimate
+factor of selection, through which, with the economic difficulties and the
+brief periods of conjugal intercourse permissible in a state of war, there
+is an increased probability, other conditions being equal, of procreation
+chiefly by persons endowed with intense reproductive instincts and therefore especially fitted to produce superior offspring.
+
+The observations and considerations recorded above demonstrate in
+every way that the relations between war and eugenics should not be
+regarded with the assured pessimism shown by writers in the past; but
+should be re-examined without prejudice, with the aid of statistical
+material more trustworthy and more ample than that which has hitherto
+been available.
+
+* Cf. in this connection the material contained in our communication to the
+International Eugenics Congress of London (1912), published in Problems of
+Eugenics, Vol. I1., and reprinted in Italian in the Rivista Italiana di Sociologia,
+Maggio-agosto, 1912, under the title of ‘‘ Contributi Statistici ai problemi dell’
+Eugenica.”’
+
+* Cf. the article ‘‘Faltori latenti delle guerre’? in Rivista Italiana di
+Soctologia, Gennaio-febraio, 1915, p. 43.
+

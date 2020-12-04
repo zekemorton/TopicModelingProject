@@ -1,0 +1,324 @@
+E. G. KNOX,
+M.D., M.R.C.P.
+
+Distributions of Uncommon
+Disorders
+
+HOSE DISEASES WHICH exhibit obvious
+
+social spatial or temporal aggregations on
+
+the one hand, or high familial concentrations on the other, supply good clues concerning
+the existence and often the detailed nature of
+environmental and genetic determinants. Perhaps it is because of this that many of those
+diseases which we still do not understand are
+sporadic in their occurrence, the relationships
+between events apparently affording little evidence from which to infer their aetiologies. This
+is particularly evident in childhood, congenital
+malformations, tumours and the leukaemias
+being the main examples of diseases in this
+residual category.
+
+Wherever a reasonable and testable hypothesis is devised, problems of this nature may be
+attacked by the use of contingency methods and
+the association between thalidomide and limb
+deformities, radiation and leukaemia, leukaemia
+and mongolism, and between irradiation of the
+thymus and carcinoma of the thyroid are
+examples of successful application. Indeed the
+discipline of epidemiology, with the accepted
+extension of its brief to non-epidemic disease, has
+come to rely more and more upon contingency
+methods, and less and less upon the study of the
+space and time relationships between events.
+
+Nevertheless, a general desire to extract more
+from space and time data relating to uncommon
+events makes itself heard from time to time. In
+1937 Kellett commented upon the apparent
+clustering of cases of leukaemia and since then
+other statements of a similar nature have been
+made in relation to this disease (Wood 1960,
+Pinkel and Nefzger, 1959). In 1957 Pleydell
+recorded data on the space and time distributions
+of mongolism and other malformations in
+Northamptonshire and reached a similar con
+29
+
+clusion. In none of these studies however has a
+formal statistical validation been achieved,
+mainly it seems to me, because the questions
+asked of the data were in fact complex questions,
+and were not sufficiently analysed and resolved
+into their component parts.
+
+An attempt to resolve the problem logically,
+to develop a practical method of analysis, and to
+apply the method to appropriate situations has
+constituted a major part of a research programme, supported by the Eugenics Society, and
+carried out at Newcastle in the University
+Department of Child Health.
+
+Resolution of the Problem
+
+Attempts to define an “epidemic,” or “‘epidemicity” fall back upon the concept of “prevalence”
+and its variation, and the variation is usually
+conceived as a variation in time. When a series
+of events is sparsely scattered relative to the
+supposed frequency of any variation of its
+prevalence, the concept of prevalence itself
+breaks down and the situation is analogous with
+the inappropriateness of the ordinary concepts of
+“pressure” or of “wave forms” at very low
+concentrations of gas molecules or at very low
+intensities of radiation particles. When “‘prevalence” is inappropriate we must devise new
+methods of dealing with “low intensity epidemicity” appropriate to individual events and the
+relationships between pairs of events, in much
+the same way as the physicist when studying low
+intensities of radiation.
+
+This could all be avoided by the addition of
+greater geographical areas to a study of a
+particular disease, provided that the variations
+within that larger area were not out of phase.
+Unfortunately this is a possibility which must be
+taken into account, and although an epidemic is
+
+THE EUGENICS REVIEW, April 1963, 55, 1.
+THE EUGENICS REVIEW
+
+usually conceived as a variation in time, it is
+quite clear that peaks and troughs may occur at
+different times in different places. In a disease
+such as whooping cough this smouldering pattern may be such that a large area will fail to
+show time variations evident on a smaller
+geographical scale, and a long period of time may
+fail to show the geographical concentrations
+evident over a shorter period. In a less frequent
+disease than whooping cough restrictions of
+time or area take us into the low intensity
+regions, while on the other hand attempts to
+avoid these problems take us beyond the optimal
+limits for the separate examination either of
+time or geographical variations.
+
+A form of solution to these problems is
+proposed. If we examine all possible pairs of
+cases from a series [n(n-1)/2 pairs for n cases]
+and classify them both according to time apart
+and distance apart, a contingency table may be
+set up to show whether or not pairs which are
+close in time are also relatively close in space
+when compared with pairs further apart on the
+time scale. The calculations are done by an
+electronic computer programme which (a)
+accepts dates and map references, (b) organizes
+
+the pairs, (c) finds times apart by subtracting
+dates, (d) finds distances apart by subtracting
+grid latitudes and longitudes and applying
+Pythagoras’ theorem, (e) prints a table in a form
+which may be varied by means of a steering tape.
+
+It becomes clear from a contingency table of
+this kind that space-time concentrations resolve
+themselves into three components (a) concentrations in time (b) concentrations in space (c)
+space-time interactions. The last of these is
+**Pleydell’s Problem” and the component which
+this computer method particularly demonstrates.
+Non-interacting space and time concentrations
+will often be best demonstrated by conventional
+methods but if sought on a pairs basis will need
+controls for the spatial distribution and comparison with a calculable expected null distribution of pairs for time apart. Of course, the
+epidemicity of any particular disease may be
+manifest in any or all of these ways.
+
+The analysis of all possible pairs still poses
+unsolved and partially solved problems of assessing statistical significance and these are being
+studied. At the same time an empirical experience of the pattern presented by different diseases
+is being built up.
+
+CLEFT LIPS AND PALATES IN NORTHUMBERLAND:
+PROPORTIONS OF INTERVALS CLOSER THAN 4 KILOMETRES IN 100 DAY BANDS
+
+|
+0,20 ~ O —O
+—t
+
+0.19 >
+
+rer
+
+Le) X
+-P
+
+ 
+
+Proportion of pairs with distance less than 4 kilometres
+
+4
+|
+
+-199 -299
+
+) z
+
+(7)
+
+Ny
+
+ 
+
+_
+in
+
+Intervals between pairs in days
+
+390
+DISTRIBUTIONS OF UNCOMMON DISORDERS
+
+Application of Low Intensity Concepts
+
+A number of examinations have now been made
+and negative results have been obtained from
+cleft palate, cleft lip with palate, hypospadias,
+and for myeloid leukaemia. A positive result has
+been obtained from lymphoblastic leukaemia in
+young children and a result which is difficult to
+interpret, but which may well be positive, has
+been obtained for isolated cleft lip.
+
+The result for the lymphoblastic leukaemias is
+the simplest to interpret. We assembled all cases
+of leukaemia in children under fifteen years of
+age with onsets in Northumberland, Durham, or
+on Tees-side (in the North Riding) between
+January Ist, 1951 and December 31st, 1960.
+There were 168 cases. Conventional analysis
+demonstrated a seasonal variation of onsets,
+with a summer maximum (May to October),
+limited to the lymphoblastic leukaemias, and
+agreeing in these respects with a demonstration
+by Lee (1962) based upon National Cancer
+Registrations. Conventional analysis further
+showed that for the myeloblastic leukaemias the
+risk per million population was higher in the
+large towns and conurbations (over 50,000) than
+in smaller towns and rural areas. We also found
+that the urban rural differential applied to older
+children (six and over) with lymphoblastic
+leukaemia and that the seasonal variation applied
+only to the younger ones (five and under) and
+that the seasonal factor and the urban factor
+therefore applied to quite different groups of
+cases.
+
+Computer analysis was then performed upon
+the total group, the lymphoblastic leukaemias
+under six years of age, the older children with
+lymphoblastic leukaemia, the myeloblastic
+leukaemias, and to various other groupings. The
+findings were negative for the myeloblastic
+leukaemias and for the older lymphoblastic
+leukaemias and showed no evidence of an
+interaction between the seasonal and urban
+concentrating factors. However, there were
+within the young lymphoblastic leukaemias four
+pairs of cases which were within one kilometre
+and within fifty days of each other. The null
+expected value based upon totals under fifty
+days and under one kilometre, was 0-49 and the
+observed excess may be considered significant.
+The eight children in the four pairs all had a
+
+summer onset, suggesting that the seasonal
+variation and the space-time interaction were
+different manifestations of a common factor.
+
+Analysis of cleft lip and palate gave a different
+kind of result and the Figure gives, for Northumberland, the proportions of pairs closer than four
+kilometres at successive 100 day interval-bands
+up to 800 days. This study, too, was based upon
+a ten-year ascertainment of clefts of lip and
+palate for Northumberland and Durham. The
+Figure presents separately those pairs involving
+and those not involving a case of isolated cleft
+lip. The x? test indicates a high degree of
+statistical significance for variation in the first
+group, but because pairs are non-independent its
+validity in the circumstances is doubtful. However, if the variation is taken at its face value it
+indicates local cycles of incidence, the frequency of
+the cycle being of the order of two years and the
+geographical radius within which cycles are in
+phase being about four kilometres. Unfortunately
+no confirmation of this was obtained with the
+data from County Durham.
+
+Cleft lip showed other aberrations not shared
+by cleft palate and cleft lip with palate. Its incidence varied significantly between sub-areas of
+Northumberland (although not Durham) and
+between different years of the study and one may
+postulate an epidemiological instability limited
+to Northumberland and perhaps related to the
+county’s great variation of concentration of
+population. The proportion of cleft lips involved
+in this interaction would probably not exceed
+about 10 per cent of the total number of cases.
+
+However, the significance of the pattern must
+remain in doubt for the time being and awaits the
+analysis of further sets of data in a similar manner and the further development of significance
+testing for use with this technique.
+
+Conclusions
+
+The first applications of this method, as given
+above have achieved two things. First they have
+confirmed the existence in one set of data of a
+feature of the epidemiology of leukaemia which
+has been suspected previously on intuitive
+grounds; the next stages here will be the testing
+of other sets of leukaemia data in the same
+manner and later stages will involve testing the
+various possible explanatory hypotheses—
+
+31
+THE EUGENICS REVIEW
+
+infective, toxic, etc.—which suggest themselves.
+
+Secondly, the question has been raised of a
+previously unsuspected pattern of epidemicity,
+in certain circumstances, in the distribution of
+isolated cleft lip. Problems of interpretation and
+statistical validification are less satisfactory for
+the type of pattern apparently demonstrated by
+this malformation than in the simple interaction
+demonstrated by leukaemia. Here again, further
+sets of data need to be examined.
+
+Unlike many new techniques of research this
+method, by using electronic equipment, actually
+reduces the amount of personal time and labour
+expended upon the analysis of data. Indeed, the
+
+32
+
+main work is in collecting sufficient information
+for analysis and feeding the machines with
+material. It demonstrates also that further applications of computer techniques to epidemiological and other research may well be in
+assisting the development of methods which
+would not otherwise have been contemplated
+rather than, simply, the automation of already
+established techniques.
+
+REFERENCES
+
+Kellett, C. D. 1937. Arch. Dis. Childhood, 12, 239.
+Lee, J. A. H. 1962. Brit. med. J. 1, 1737.
+
+Pinkel, D. and Nefzger, D. 1959. ‘Cancer, 12, 351.
+Pleydell, M. J. 1957. Lancet, 1, 1314.
+
+Wood, Eileen E. 1960. Brit. med. J., 1, 1760.
+
