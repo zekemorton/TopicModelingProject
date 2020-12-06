@@ -2,7 +2,7 @@ import pickle
 
 # see contents of pickled files
 
-FILENAME = "socbio_clean_articles/socbio_1978_25-3_Social Biology, 25:3, 258.pickle"
+FILENAME = "/Users/kk/PycharmProjects/TopicModelingProject/ereview_clean_articles/ereview_><h2_2-1_00396-0033.pickle"
 pickle_off = open(FILENAME, "rb")
 contents = pickle.load(pickle_off)
 
