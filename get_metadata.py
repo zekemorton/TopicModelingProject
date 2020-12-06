@@ -20,12 +20,3 @@ for journal_name in journals:
 
 
 print(metadata_df.head())
-
-
-"""
-Since all journals have slightly different format, need to get data from them separately
-then store in pickle to aggregate data to be preprocessed for topic modeling
-"""
-
-# get dictionaries from equarterly/ereview/socbio_clean_articles
-# aggregate into single file
