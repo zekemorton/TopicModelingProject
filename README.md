@@ -12,3 +12,4 @@
 
 
 [named entity recognition](https://www.depends-on-the-definition.com/text-analysis-with-named-entities/)
+[stacked bar plots](https://www.shanelynn.ie/bar-plots-in-python-using-pandas-dataframes/)
