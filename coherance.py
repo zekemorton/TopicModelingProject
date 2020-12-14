@@ -13,6 +13,14 @@ from gensim import corpora
 import gensim
 import pyLDAvis.gensim
 from collections import Counter
+from tmtoolkit.topicmod.tm_gensim import evaluate_topic_models
+from tmtoolkit.topicmod.evaluate import results_by_parameter
+from tmtoolkit.corpus import Corpus
+import numpy as np
+import tmtoolkit
+from tmtoolkit.preprocess import TMPreproc
+from tmtoolkit.topicmod.visualize import plot_eval_results
+
 
 try:
     _create_unverified_https_context = ssl._create_unverified_context
@@ -31,7 +39,6 @@ lemmatizer = WordNetLemmatizer()
 
 random.seed(42)
 
-
 # Import Data
 def get_data():
     dicts = []
@@ -45,7 +52,6 @@ def get_data():
             infile.close
 
     df = pd.DataFrame(dicts)
-
     df['title'] = df['title'].str.lower()
     df['content'] = df['content'].str.lower()
     df['year'] = pd.to_numeric(df['year'])
@@ -132,31 +138,39 @@ def get_topics(tokens, model, dictionary):
 
     return Counter(new_vectors)
 
-
 def main():
-    
+    print('Loading Data...')
     df = get_data()
+
+    print('Text Preprocessing...')
     df['token'] = df['content'].apply(sent_tokenize)
     df['token'] = df['token'].apply(word_tok)
     df['token'] = df['token'].apply(lem_list)
     df['token'] = df['token'].apply(remove_stop)
 
-    model, display, dictionary = topic_model(df, 12)
+    print('Creating Dictionary and Corpus...')
+    text_data = list(get_tokens(df))
+    dictionary = corpora.Dictionary(text_data)
+    corpus = [dictionary.doc2bow(text) for text in text_data]
 
-    df['topics'] = df['token'].apply(get_topics, args=(model, dictionary))
+    var_params = [{'num_topics': k, 'alpha': 1/k} for k in range(2, 40, 2)]
 
-    save_cols = ['title', 'year', 'publisher', 'topics']
-    save_df = df[save_cols]
+    const_params = {'iterations': 1000,'eta': 0.1,'random_state': 42}
+
+    print('Creating Models....This will take a long time!')
+    eval_results = evaluate_topic_models((dictionary, corpus),
+                                          var_params,
+                                          const_params,
+                                          coherence_gensim_texts=text_data,
+                                          return_models = True)
+
+    eval_results_by_topics = results_by_parameter(eval_results, 'num_topics')
+
+    plot_eval_results(eval_results_by_topics)
 
 
     # Save Topic Models and Visualizations and DF
-    with open('topic_model.pkl', 'wb') as f:
-        pickle.dump(model, f)
-
-    with open('topic_model_vis.pkl', 'wb') as f:
-        pickle.dump(display, f)
-
-    with open('DataFrame.pkl', 'wb') as f:
-        pickle.dump(save_df, f)
+    with open('tmtk_eval_results2.pkl', 'wb') as f:
+        pickle.dump(eval_results, f)
 
 main()
