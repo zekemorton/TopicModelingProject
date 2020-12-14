@@ -9,3 +9,6 @@
 - *get_data_socbio.py*:     collect text data for *Social Biology*
 - *pdf_to_text.py*:         convert pdf to text using tesseract-ocr
 - *data_gathering.py*:      aggregate all preprocessed journal data
+
+
+[named entity recognition](https://www.depends-on-the-definition.com/text-analysis-with-named-entities/)
