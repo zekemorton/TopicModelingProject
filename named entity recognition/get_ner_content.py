@@ -5,6 +5,7 @@ import spacy
 import nltk
 import ssl
 
+# download nltk popular library portions
 try:
     _create_unverified_https_context = ssl._create_unverified_context
 except AttributeError:
@@ -15,6 +16,7 @@ else:
 nltk.download('popular')
 
 
+# get dataframe with article content and metadata
 dicts = []
 folders = ['equarterly_clean_articles/', 'ereview_clean_articles/', 'socbio_clean_articles/']
 for folder in folders:
@@ -31,7 +33,7 @@ df['title'] = df['title'].str.lower()
 df['content'] = df['content'].str.lower()
 df['year'] = pd.to_numeric(df['year'])
 
-
+# get year + decade for each article
 decades = []
 years = []
 for index, row in df.iterrows():
@@ -40,27 +42,34 @@ for index, row in df.iterrows():
     years.append(year)
     decades.append(decade)
 
-
 del df['year']
 df['year'] = years
 df['decade'] = decades
-# print(df['year'].dtypes)
-# print(df['decade'].dtypes)
+
+# create spacy model object
 nlp = spacy.load('en_core_web_sm')
 
-ner_content = []
+# get all non-numerical entities in each article
+entities = []
+numerical_types = ['DATE', 'TIME', 'QUANTITY', 'CARDINAL', 'PERCENT', 'MONEY', 'ORDINAL']
 for i, row in df.iterrows():
-    ner = nlp(row['content'])
-    ner_content.append(ner)
-    print('completed ', i, ' articles')
+    nlp_ed = nlp(row['content'])
+    article_entities = []
+    for ent in nlp_ed.ents:
+        entity = ent.text
+        label = ent.label_
+        if (label not in numerical_types) and (len(entity) > 1):
+            article_entities.append((entity, label))
+    entities.append(article_entities)
+    print('article ', i)
 
-df['ner_content'] = ner_content
-# save clean article dict in specific directory
-file_name = 'df_ner.pickle'
-df.to_pickle(file_name)
-# ner_questions = [nlp(s) for s in df.content]
+# create dictionary from dataframe
+df['entities'] = entities
+ner_df = df[['title', 'publisher', 'year', 'decade', 'entities']]
+ner_dict = ner_df.T.to_dict()
 
 # save clean article dict in specific directory
-file_name = 'ner_content.pickle'
-with open(file_name, 'wb') as fd:
-    pickle.dump(ner_content, fd)
+with open('ner.pickle', 'wb') as fd:
+    pickle.dump(ner_dict, fd)
+
+

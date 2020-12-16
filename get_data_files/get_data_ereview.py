@@ -5,7 +5,7 @@ import pickle
 import os
 
 # create directory for clean articles if doesn't exist yet
-save_path = '../ereview_clean_articles'
+save_path = '../clean_articles/ereview_clean_articles'
 if not os.path.exists(save_path):
     os.makedirs(save_path)
 

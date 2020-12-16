@@ -20,3 +20,4 @@ for journal_name in journals:
 
 
 print(metadata_df.head())
+

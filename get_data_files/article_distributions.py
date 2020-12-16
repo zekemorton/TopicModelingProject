@@ -1,9 +1,9 @@
 import pandas as pd
 import os
 import pickle
-import numpy as np
 import matplotlib.pyplot as plt
 
+# get dataframe with article content + metadata
 dicts = []
 folders = ['equarterly_clean_articles/', 'ereview_clean_articles/', 'socbio_clean_articles/']
 for folder in folders:
@@ -22,7 +22,7 @@ df['year'] = pd.to_numeric(df['year'])
 df['publisher'].replace({'ereview': 'Eugenics Review'}, inplace=True)
 
 
-# num articles of each total
+# pie plot for num articles of each total
 
 publishers = df.publisher.unique()
 counts = []
@@ -37,7 +37,7 @@ ax1.axis('equal')
 plt.show()
 
 
-# num articles per decade, for each article
+# stacked bar plot of num articles per decade, for each article
 
 decades = []
 for index, row in df.iterrows():
@@ -56,6 +56,11 @@ equarterly_df = df.loc[df['publisher'] == 'Eugenics Quarterly']
 ereview_df = df.loc[df['publisher'] == 'Eugenics Review']
 socbio_df = df.loc[df['publisher'] == 'Social Biology']
 
+print('equarterly num = ', equarterly_df.shape[0])
+print('ereview num = ', ereview_df.shape[0])
+print('socbio num = ', socbio_df.shape[0])
+print('total articles = ', equarterly_df.shape[0] + ereview_df.shape[0] + socbio_df.shape[0])
+
 for dec in decade_periods:
     equarterly_decades.append(len(equarterly_df[equarterly_df['decade'] == dec]))
     ereview_decades.append(len(ereview_df[ereview_df['decade'] == dec]))
@@ -68,7 +73,7 @@ plt.xlabel('Decades')
 plt.ylabel('Number of Articles')
 plt.show()
 
-# num articles per year, for each article
+# stacked bar plot of num articles per year, for each article
 
 year_periods = [*range(1909, 2000, 1)]
 
